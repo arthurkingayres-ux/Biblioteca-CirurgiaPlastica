@@ -1,0 +1,21 @@
+{
+  "name": "biblioteca-cirurgia-plastica",
+  "version": "1.0.0",
+  "description": "Ferramentas Node.js para geração de documentos .docx — Biblioteca Inteligente de Cirurgia Plástica (Dr. Arthur, R2 UNICAMP)",
+  "main": "tools/create_docx.js",
+  "scripts": {
+    "criar-rinoplastia": "node tools/create_docx.js --topic rinoplastia",
+    "criar-blefaroplastia": "node tools/create_docx.js --topic blefaroplastia",
+    "criar-ritidoplastia": "node tools/create_docx.js --topic ritidoplastia",
+    "criar-otoplastia": "node tools/create_docx.js --topic otoplastia",
+    "criar-todos": "node tools/create_docx.js --topic todos",
+    "adicionar-update": "node tools/add_update.js"
+  },
+  "dependencies": {
+    "docx": "^8.5.0",
+    "dotenv": "^16.0.0",
+    "playwright": "^1.58.2",
+    "playwright-extra": "^4.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  }
+}

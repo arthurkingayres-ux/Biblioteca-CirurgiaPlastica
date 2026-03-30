@@ -1,0 +1,25 @@
+# Livros-texto (PDFs grandes e com copyright)
+00-Livros-Texto/
+
+# PDFs de artigos (copyright)
+02-Artigos-Periodicos/PRS/
+02-Artigos-Periodicos/ASJ/
+
+# Dependências
+node_modules/
+
+# Temporários
+.tmp/
+
+# Segredos
+.env
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Editor
+*.swp
+*.swo
+*~
