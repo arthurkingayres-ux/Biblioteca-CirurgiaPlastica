@@ -162,13 +162,29 @@ cd ~/Documents/Biblioteca-CirurgiaPlastica
 7. Adicionar a referência na seção **"Atualizações Incorporadas"**
 8. Incrementar a **versão** na capa e registrar no histórico
 
-**Fluxo de atualização:**
+**Fluxo de atualização (automatizado):**
+```bash
+node tools/incorporate_article.js \
+  --tema rinoplastia --color blue --title "Título do box" \
+  --lines "Linha 1" "Linha 2" --citation "Autor et al. Journal 2026;1:1-10" \
+  --doi "10.xxx" --after-heading "4. Técnicas Cirúrgicas" \
+  --flashcard "Parâmetro|Valor"
+# → Insere box no JSON, bumpa versão, regenera .docx, marca artigo como incorporado
+```
+
+**Fluxo de atualização (manual):**
 ```
 Novo artigo PRS/ASJ
   → Classificar (AZUL / VERMELHO / VERDE)
   → Editar content/<tema>.json (adicionar box + referência + versão)
   → node tools/create_docx.js --topic <tema>
   → python tools/mark_article_incorporated.py --doi <doi> --documento <arquivo>
+```
+
+**Validação:**
+```bash
+node tools/validate_content.js           # valida schema + semântica
+node tools/test_generate.js              # pipeline completo: validar → gerar → verificar
 ```
 
 ---
@@ -238,6 +254,9 @@ Todos os documentos em **português brasileiro**. Terminologia médica conforme 
 | `tools/generate_briefing.py` | Python | Gera briefing semanal em Markdown |
 | `tools/log_progress.py` | Python | Registra sessões de estudo |
 | `tools/create_docx.js` | Node.js | Motor de renderização: lê `content/*.json` e gera `.docx` |
+| `tools/incorporate_article.js` | Node.js | Incorpora artigo classificado ao JSON do tema e regenera `.docx` |
+| `tools/validate_content.js` | Node.js | Valida todos os `content/*.json` contra schema + checagens semânticas |
+| `tools/test_generate.js` | Node.js | Pipeline completo: validação → geração → verificação de todos os `.docx` |
 
 ---
 
