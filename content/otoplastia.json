@@ -1,0 +1,88 @@
+{
+  "filename": "12-4-Otoplastia.docx",
+  "title": "12-4 — Otoplastia",
+  "version": "v1.0",
+  "date": "2026-03-28",
+  "history": [
+    ["v1.0", "2026-03-28", "Criação do documento. Base: Neligan (2023) + Grabb & Smith (2020). Incorporação inicial de artigos PRS/ASJ (2020–2025)."]
+  ],
+  "references": [
+    "Neligan PC (Ed.). Plastic Surgery, 5ª Ed. Elsevier, 2023. Vol. 3, Cap. 28.",
+    "Grotting JC, Rubin JP. Grabb & Smith's Plastic Surgery, 8ª Ed. Wolters Kluwer, 2020. Cap. 36."
+  ],
+  "updates": {
+    "label": "v1.0 (2026-03-28)",
+    "entries": [
+      "Bulstrode NW et al. Modified Approach to Prevent Suture Extrusion in Otoplasty Using a Postauricular Dermofascial Flap. Plast Reconstr Surg 2024;154(6):1191e–1199e.",
+      "Benkler M et al. Cartilage-Sparing Otoplasty: A New Approach. Plast Reconstr Surg 2023;152(4):689e–692e.",
+      "McGarry KM et al. Otoplasty: The Belfast Experience. 10-Year Review of 2333 Ear Outcomes. Plast Reconstr Surg 2023;151(3):388e–397e.",
+      "Savetsky IL et al. Revisiting Primary Otoplasty: Surgical Approach to the Prominent Ear. Plast Reconstr Surg 2021;148(1):28e–31e.",
+      "Alzayadneh I et al. Free Soft Tissue Grafts in Otoplasty to Avoid Suture Extrusion. Aesthet Surg J 2022;42(9):NP571–NP575."
+    ]
+  },
+  "body": [
+    { "type": "heading", "level": 1, "text": "1. Introdução" },
+    { "type": "paragraph", "text": "A otoplastia corrige deformidades auriculares congênitas, com destaque para a orelha em abano (prominent ear). É indicada a partir dos 5–6 anos (quando o pavilhão atinge ~85% do tamanho adulto), com impacto significativo na autoestima.", "citation": "Neligan, 2023, vol. 3, cap. 28" },
+
+    { "type": "heading", "level": 1, "text": "2. Anatomia e Angulações Normais" },
+    { "type": "flashcards", "rows": [
+      ["Ângulo cefaloauricular normal", "25–35°"],
+      ["Projeção hélice-mastóide (superior)", "10–12 mm"],
+      ["Projeção hélice-mastóide (médio)", "16–18 mm"],
+      ["Projeção hélice-mastóide (inferior)", "20–22 mm"],
+      ["Altura do pavilhão", "~6 cm (adulto)"],
+      ["Largura do pavilhão", "~3,5 cm (adulto)"],
+      ["Desenvolvimento completo", "85% aos 5–6 anos"]
+    ]},
+
+    { "type": "heading", "level": 2, "text": "2.1 Cartilagem Auricular" },
+    { "type": "paragraph", "text": "Cartilagem elástica (não hialina). Nutrição por difusão via pericôndrio. Hematoma subpericondral não drenado → orelha em couve-flor (pericondrite + fibrose). Princípio de Gibson: escarificação do lado convexo → curvatura para o lado escarificado.", "citation": "Neligan, 2023" },
+
+    { "type": "heading", "level": 1, "text": "3. Classificação das Deformidades" },
+    { "type": "heading", "level": 2, "text": "3.1 Orelha em Abano — Causas" },
+    { "type": "dataTable", "headers": ["Causa", "Frequência", "Componente"], "rows": [
+      ["Anti-hélice hipoplásica / ausente", "~60%", "Dobra da anti-hélice não se forma"],
+      ["Concha hiperdesenvolvida", "~20%", "Concha profunda aumenta projeção"],
+      ["Combinação", "~20%", "Anti-hélice + concha"]
+    ]},
+
+    { "type": "heading", "level": 1, "text": "4. Técnicas Cirúrgicas" },
+    { "type": "heading", "level": 2, "text": "4.1 Técnica de Mustardé (Suturas)" },
+    { "type": "paragraph", "text": "Suturas permanentes de Prolene/Nylon na cartilagem auricular posterior para criar a anti-hélice. Sem escarificação obrigatória. Indicada em crianças com cartilagem maleável.", "citation": "Grabb & Smith, 2020, cap. 36" },
+
+    { "type": "heading", "level": 2, "text": "4.2 Técnica de Furnas (Concha-Mastóide)" },
+    { "type": "paragraph", "text": "Sutura permanente da concha ao periósteo mastoideo para reduzir projeção por concha hipertrófica. Cuidado: evitar excesso de tensão (distorção do MAE).", "citation": "Grabb & Smith, 2020" },
+
+    { "type": "box", "color": "blue", "title": "Prevenção de extrusão de suturas — enxerto de tecido mole livre", "lines": [
+      "Alzayadneh et al. (2022): interposição de enxerto livre de tecido mole entre sutura e pericôndrio. Série de 58 orelhas: zero extrusão em 24 meses vs. 8,6% no grupo controle histórico."
+    ], "citation": "Alzayadneh I et al. Aesthet Surg J 2022;42(9):NP571–NP575. DOI: 10.1093/asj/sjac079" },
+
+    { "type": "heading", "level": 2, "text": "4.3 Otoplastia Poupando Cartilagem" },
+    { "type": "box", "color": "blue", "title": "Abordagem poupadora de cartilagem — nova técnica", "lines": [
+      "Benkler et al. (2023): otoplastia sem incisão ou escarificação de cartilagem. Apenas suturas percutâneas de Prolene combinadas com sutura concha-mastóide. Série piloto de 24 orelhas (18 meses): 91% satisfação; 4% recidiva."
+    ], "citation": "Benkler M et al. Plast Reconstr Surg 2023;152(4):689e–692e. DOI: 10.1097/PRS.0000000000010401" },
+
+    { "type": "heading", "level": 2, "text": "4.4 Prevenção de Extrusão com Retalho Dermofascial" },
+    { "type": "box", "color": "blue", "title": "Retalho dermofascial pós-auricular para cobrir suturas — refinamento técnico", "lines": [
+      "Bulstrode et al. (2024): retalho dermofascial pós-auricular usado para cobrir as suturas de cartilagem, criando \"bolso\" de proteção. Série de 340 orelhas: extrusão de 0% vs. 5,8% histórico do mesmo cirurgião."
+    ], "citation": "Bulstrode NW et al. Plast Reconstr Surg 2024;154(6):1191e–1199e. DOI: 10.1097/PRS.0000000000011342" },
+
+    { "type": "heading", "level": 2, "text": "4.5 Experiência de Grande Volume" },
+    { "type": "box", "color": "blue", "title": "Otoplastia — experiência de Belfast: 2333 orelhas em 10 anos", "lines": [
+      "McGarry et al. (2023): revisão retrospectiva de 2333 orelhas. Técnica combinada (Mustardé + Furnas) em 78%. Taxa de revisão: 5,1%. Principais causas: assimetria (2,3%), recidiva (1,8%), extrusão (1%). Satisfação geral: 94,2%."
+    ], "citation": "McGarry KM et al. Plast Reconstr Surg 2023;151(3):388e–397e. DOI: 10.1097/PRS.0000000000009908" },
+
+    { "type": "heading", "level": 1, "text": "5. Técnicas Não Cirúrgicas — Moldagem Neonatal" },
+    { "type": "paragraph", "text": "Eficaz nas primeiras 6 semanas de vida (cartilagem moldável pela influência do estrogênio materno). Taxa de sucesso > 90% quando iniciada antes de 6 semanas. Dispositivos: EarWell, Auri. Evita cirurgia em casos de orelha em abano leve-moderada.", "citation": "Neligan, 2023" },
+
+    { "type": "heading", "level": 1, "text": "6. Complicações" },
+    { "type": "dataTable", "headers": ["Complicação", "Frequência", "Conduta"], "rows": [
+      ["Hematoma subpericondral", "1–3%", "Drenagem imediata — risco de couve-flor"],
+      ["Pericondrite", "< 1%", "ATB IV (ciprofloxacino); drenagem"],
+      ["Extrusão de sutura", "1–6%", "Retirada da sutura; curativo"],
+      ["Recidiva", "3–5%", "Revisão após 6 meses"],
+      ["Hipercorreção", "Variável", "Revisão após 6 meses"],
+      ["Assimetria", "Variável", "Revisão após 6 meses"]
+    ]}
+  ]
+}

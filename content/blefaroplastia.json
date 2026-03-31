@@ -1,0 +1,116 @@
+{
+  "filename": "12-2-Blefaroplastia.docx",
+  "title": "12-2 — Blefaroplastia",
+  "version": "v1.0",
+  "date": "2026-03-28",
+  "history": [
+    ["v1.0", "2026-03-28", "Criação do documento. Base: Neligan (2023) + Grabb & Smith (2020). Incorporação inicial de artigos PRS/ASJ (2020–2025)."]
+  ],
+  "references": [
+    "Neligan PC (Ed.). Plastic Surgery, 5ª Ed. Elsevier, 2023. Vol. 2, Cap. 9.",
+    "Grotting JC, Rubin JP. Grabb & Smith's Plastic Surgery, 8ª Ed. Wolters Kluwer, 2020. Cap. 30."
+  ],
+  "updates": {
+    "label": "v1.0 (2026-03-28)",
+    "entries": [
+      "Stein MJ et al. Practice Patterns in Blepharoplasty: 15-Year Review of ABPS Data. Plast Reconstr Surg 2025;155(5):895–901.",
+      "Park NS et al. Early Grafting Using AlloDerm to Correct Upper Eyelid Retraction. Plast Reconstr Surg 2025;156(2):189e–193e.",
+      "Nomoto S, Ogawa R. Subtarsal Capsulopalpebral Fascia Incision: New Paradigm for Ectropion-Free Lower Blepharoplasty. Plast Reconstr Surg 2026;157(4):486e–495e.",
+      "Chen J et al. Fat Repositioning with Deep Fat Excision in Transcutaneous Lower Blepharoplasty. Plast Reconstr Surg 2026;157(4):622–631.",
+      "Yu AY et al. Conservative Crease-Height-Adjustable Asian Double-Eyelid Surgery. Plast Reconstr Surg 2025;156(1):29–40.",
+      "Li X et al. Aesthetic Correction of Mild Blepharoptosis: Balancing Hering's Law. Plast Reconstr Surg 2026;157(1):38e–48e.",
+      "Todorov D et al. Functional and Aesthetic Outcomes After Upper Blepharoplasty: Meta-analysis. Aesthet Surg J 2025;45(6):554–562."
+    ]
+  },
+  "body": [
+    { "type": "heading", "level": 1, "text": "1. Introdução" },
+    { "type": "paragraph", "text": "A blefaroplastia é a cirurgia de correção do excesso de pele, músculo e/ou gordura das pálpebras. É um dos procedimentos mais frequentes em cirurgia plástica facial, com alta satisfação quando bem indicada. Pode ter caráter estético, funcional (dermatocálase obstrutiva) ou ambos.", "citation": "Neligan, 2023, vol. 2, cap. 9" },
+
+    { "type": "heading", "level": 1, "text": "2. Anatomia Cirúrgica" },
+    { "type": "heading", "level": 2, "text": "2.1 Pálpebra Superior — Camadas" },
+    { "type": "dataTable", "headers": ["Camada", "Detalhe Cirúrgico"], "rows": [
+      ["Pele", "Mais fina do corpo; preservar mínimo 20 mm pré-tarsal"],
+      ["Músculo orbicular (pré-tarsal e pré-septal)", "Excisão opcional; melhora definição da prega"],
+      ["Septo orbital", "Barreira entre conteúdo orbitário e plano pré-septal; abrir para acessar gordura"],
+      ["Gordura pré-aponeurótica (medial e central)", "Ressecção conservadora; glândula lacrimal lateral — NÃO ressecar"],
+      ["Aponeurose do LPS", "NÃO lesar; ptose iatrogênica se comprometida"],
+      ["Músculo de Müller", "Inervação simpática; Müllerectomy para correção de ptose leve"],
+      ["Conjuntiva", "Revestimento interno"]
+    ]},
+
+    { "type": "heading", "level": 2, "text": "2.2 Gordura Palpebral Inferior — 3 Compartimentos" },
+    { "type": "dataTable", "headers": ["Compartimento", "Referência Anatômica", "Risco"], "rows": [
+      ["Medial (nasal)", "Anterior ao m. oblíquo inferior", "ATENÇÃO: oblíquo inferior entre medial e central"],
+      ["Central", "Sobre o m. oblíquo inferior", "Referência para dissecção segura"],
+      ["Lateral", "Posterior à glândula lacrimal", "Glândula lacrimal prolapsada pode simular gordura"]
+    ]},
+
+    { "type": "flashcards", "rows": [
+      ["MRD1 normal", "4–5 mm (< 2 mm = ptose)"],
+      ["MRD2 normal", "5 mm"],
+      ["Fissura palpebral — largura", "28–32 mm"],
+      ["Fissura palpebral — altura", "10–12 mm"],
+      ["Prega palpebral superior ♀", "8–10 mm da margem ciliar"],
+      ["Prega palpebral superior ♂", "7–8 mm da margem ciliar"],
+      ["Schirmer < 10 mm / 5 min", "Risco de olho seco — contraindicação relativa"]
+    ]},
+
+    { "type": "heading", "level": 1, "text": "3. Avaliação Pré-operatória" },
+    { "type": "paragraph", "text": "Snap-back test e distraction test: avaliam laxidez palpebral horizontal. Schirmer: produção lacrimal (< 10 mm em 5 min = risco de olho seco). Exoftalmia: medir com exoftalmômetro (> 20 mm). Avaliar ptose associada: se MRD1 < 2 mm → ptoseplastia, não blefaroplastia isolada.", "citation": "Grabb & Smith, 2020, cap. 30" },
+
+    { "type": "box", "color": "blue", "title": "Prática atual em blefaroplastia — análise de 15 anos de dados do ABPS", "lines": [
+      "Revisão de 15 anos de dados de certificação do American Board of Plastic Surgery: blefaroplastia superior aumentou 42%; lower blepharoplasty transconjuntival superou a transcutânea em volume. Cantopexia lateral passou a ser realizada em 68% das lower blepharoplasties."
+    ], "citation": "Stein MJ et al. Plast Reconstr Surg 2025;155(5):895–901. DOI: 10.1097/PRS.0000000000011843" },
+
+    { "type": "heading", "level": 1, "text": "4. Técnicas Cirúrgicas" },
+    { "type": "heading", "level": 2, "text": "4.1 Blefaroplastia Superior" },
+    { "type": "paragraph", "text": "Marcação: linha inferior na prega (8–10 mm da margem ciliar ♀). Excisão elíptica de pele ± músculo orbicular. Ressecção conservadora de gordura medial e central. Preservar aponeurose do LPS.", "citation": "Neligan, 2023" },
+
+    { "type": "box", "color": "blue", "title": "Correção de retração palpebral superior pós-blefaroplastia com AlloDerm", "lines": [
+      "Técnica de alongamento precoce da aponeurose do LPS com AlloDerm para correção de retração palpebral após blefaroplastia cosmética. Série de 12 pacientes: MRD1 melhorou de 5,8 mm para 4,1 mm em 6 meses."
+    ], "citation": "Park NS et al. Plast Reconstr Surg 2025;156(2):189e–193e. DOI: 10.1097/PRS.0000000000011980" },
+
+    { "type": "heading", "level": 2, "text": "4.2 Blefaroplastia Inferior" },
+    { "type": "paragraph", "text": "Via transcutânea: acesso a pele, músculo e gordura; maior risco de ectrópio → sempre associar cantopexia. Via transconjuntival: sem cicatriz externa; indicada quando excesso de pele é mínimo.", "citation": "Grabb & Smith, 2020" },
+
+    { "type": "box", "color": "blue", "title": "Incisão na fáscia capsulopalpebral subtarsal — novo paradigma para blefaroplastia inferior", "lines": [
+      "Nomoto e Ogawa (2025) propuseram incisão na fáscia capsulopalpebral no nível subtarsal (vs. nível septal tradicional) na via transcutânea. Em série de 74 casos, zero ectrópio em 18 meses de seguimento.",
+      "O mecanismo: incisão subtarsal preserva a tensão do septo e da fáscia capsulopalpebral, reduzindo a tração vertical sobre a pálpebra."
+    ], "citation": "Nomoto S, Ogawa R. Plast Reconstr Surg 2026;157(4):486e–495e. DOI: 10.1097/PRS.0000000000012429" },
+
+    { "type": "box", "color": "red", "title": "Mudança de paradigma: reposicionamento de gordura > ressecção", "lines": [
+      "Chen et al. (2025): reposicionamento de gordura + excisão profunda de gordura na blefaroplastia inferior transcutânea. Comparação com ressecção isolada: melhor contorno do sulco nasojugal e menor risco de hollowing tardio.",
+      "Recomendação atual: preferir reposicionamento; ressecção somente quando volume é excessivo."
+    ], "citation": "Chen J et al. Plast Reconstr Surg 2026;157(4):622–631. DOI: 10.1097/PRS.0000000000012416" },
+
+    { "type": "heading", "level": 2, "text": "4.3 Dupla Pálpebra — População Asiática" },
+    { "type": "paragraph", "text": "Cirurgia mais realizada mundialmente em volume. Método de sutura: menos invasivo, menor permanência. Método de incisão: mais permanente, cicatriz no período inicial.", "citation": "Neligan, 2023" },
+
+    { "type": "box", "color": "blue", "title": "Dupla pálpebra — técnica conservadora com ajuste de altura da prega", "lines": [
+      "Yu et al. (2025): técnica conservadora baseada em estudos anatômicos em vivos. Crease height individualizável por análise direta da pretarsal fullness intraoperatória. Série de 180 pacientes: 97% satisfeitos; 3,3% revisão por assimetria."
+    ], "citation": "Yu AY et al. Plast Reconstr Surg 2025;156(1):29–40. DOI: 10.1097/PRS.0000000000011948" },
+
+    { "type": "heading", "level": 2, "text": "4.4 Correção de Ptose Leve" },
+    { "type": "paragraph", "text": "Lei de Hering: correção de ptose unilateral pode desmascarar ptose contralateral. Avaliar ptose bilateral em todas as consultas.", "citation": "Grabb & Smith, 2020" },
+
+    { "type": "box", "color": "blue", "title": "Correção estética de ptose leve — balanceando a lei de Hering", "lines": [
+      "Li X et al. (2025): análise de 68 pacientes com ptose leve unilateral. Estratégia de correção graduada com avaliação pré-operatória da lei de Hering reduz a incidência de ptose contralateral desmascarada de 22% para 7%."
+    ], "citation": "Li X et al. Plast Reconstr Surg 2026;157(1):38e–48e. DOI: 10.1097/PRS.0000000000012230" },
+
+    { "type": "heading", "level": 1, "text": "5. Resultados Funcionais" },
+    { "type": "box", "color": "blue", "title": "Meta-análise: resultados funcionais e estéticos após blefaroplastia superior", "lines": [
+      "Revisão sistemática e meta-análise de 12 ECRs (n = 1.847): blefaroplastia superior melhora campo visual em 84% dos casos com dermatocálase funcional; satisfação estética de 91%. Complicação mais frequente: olho seco transitório (18%)."
+    ], "citation": "Todorov D et al. Aesthet Surg J 2025;45(6):554–562. DOI: 10.1093/asj/sjaf022" },
+
+    { "type": "heading", "level": 1, "text": "6. Complicações" },
+    { "type": "dataTable", "headers": ["Complicação", "Mecanismo", "Conduta"], "rows": [
+      ["Lagoftalmo", "Remoção excessiva de pele superior", "Lubrificante; revisão se grave"],
+      ["Ectrópio", "Laxidez + retração (via subciliar)", "Cantoplastia / revisão"],
+      ["Ptose iatrogênica", "Lesão do LPS", "Ptoseplastia de revisão"],
+      ["Diplopia", "Lesão do m. oblíquo inferior", "Exploração cirúrgica"],
+      ["Hollowing tardio", "Ressecção excessiva de gordura", "Preenchimento com AH ou lipoenxertia"],
+      ["Olho seco", "Lagoftalmo; lacrimal pré-existente", "Colírio lubrificante; plug lacrimal"],
+      ["Hematoma retrorbitário", "Raro (0,04%); emergência", "Cantotomia + cantólise lateral IMEDIATA"]
+    ]}
+  ]
+}

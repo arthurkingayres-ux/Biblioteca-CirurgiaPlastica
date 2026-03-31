@@ -1,0 +1,169 @@
+{
+  "filename": "12-1-Rinoplastia.docx",
+  "title": "12-1 — Rinoplastia",
+  "version": "v2.0",
+  "date": "2026-03-28",
+  "history": [
+    ["v1.0", "2026-03-28", "Criação do documento com base em Neligan (2023) e Grabb & Smith (2020). Incorporação inicial de artigos PRS/ASJ."],
+    ["v2.0", "2026-03-28", "Reescrita completa dos boxes de atualização: dados extraídos dos abstracts verificados (PubMed). Correção de números incorretos da v1.0. 2 novos artigos incorporados (Mohan et al.; Sazgar et al.). Box Şibar reclassificado de AZUL para VERMELHO."]
+  ],
+  "references": [
+    "Neligan PC (Ed.). Plastic Surgery, 5ª Ed. Elsevier, 2023. Vol. 2, Cap. 16–17.",
+    "Grotting JC, Rubin JP. Grabb & Smith's Plastic Surgery, 8ª Ed. Wolters Kluwer, 2020. Cap. 38–40."
+  ],
+  "updates": {
+    "label": "v2.0 (2026-03-28)",
+    "entries": [
+      "Dados extraídos dos abstracts verificados (PubMed eFetch API). Números corrigidos em relação à v1.0.",
+      "Rohrich RN et al. Grafting in Rhinoplasty: A Survey of Surgeon Preferences. Plast Reconstr Surg 2026;157(1):54–61.",
+      "Taylor CM, Barrera JE. Surgical and Patient-Reported Outcomes of Fresh Frozen Homologous Costal Cartilage in Rhinoplasty. Plast Reconstr Surg 2026;157(1):28e–37e.",
+      "Sergesketter AR et al. Aspects and Concepts of What I Preserve in Rhinoplasty. Plast Reconstr Surg 2026;157(4):496e–503e.",
+      "Mattos D et al. Positioning the Nasal Tip in Rhinoplasty. Plast Reconstr Surg 2025;156(4):606e–615e.",
+      "Şibar S et al. Scalpel vs Electrocautery for Upper Lateral Cartilage Contouring in Dorsal Preservation Rhinoplasty. Aesthet Surg J 2025;46(1):16–23.",
+      "Niu K et al. Diced Cartilage Grafts Semi-wrapped in Rectus Abdominis Fascia for Nasal Dorsum Augmentation. Aesthet Surg J 2025;46(1):24–30.",
+      "Duan Y et al. Integrated Biomimetic Groove Graft for Moderate-to-Severe Saddle-Nose Deformity Correction. Aesthet Surg J 2025;45(11):1115–1124.",
+      "Di Martino L et al. Local Tranexamic Acid vs Placebo in Septorhinoplasty: A Systematic Review and Meta-analysis. Aesthet Surg J 2025;45(12):1220–1226.",
+      "Kwan E et al. Thirty-Year Experience in Augmentation Rhinoplasty Using Silicone Implants. Aesthet Surg J 2025;45(9):887–892.",
+      "Ueno K et al. Primary Septal Cartilage Graft for Unilateral Cleft Rhinoplasty: 10-Year Follow-Up Results. Plast Reconstr Surg 2026;157(4):563e–572e.",
+      "Mohan VC, Owens WR, Hopper RA. Retrospective Review of Open Tip Plasty for Bilateral Cleft Nasal Deformity. Plast Reconstr Surg 2025;156:30S–40S.",
+      "Sazgar AA et al. Strategic Use of the V-Shaped Columella-Labial Incision for Reconstructive Rhinoplasty. Aesthet Surg J 2025;45(8):770–779."
+    ]
+  },
+  "body": [
+    { "type": "heading", "level": 1, "text": "1. Introdução" },
+    { "type": "paragraph", "text": "A rinoplastia é um dos procedimentos mais tecnicamente exigentes da cirurgia plástica, exigindo domínio simultâneo de anatomia tridimensional, análise estética e manejo das alterações cicatriciais. Pode ser realizada por via aberta (com incisão transcolumelar) ou fechada (intranasal).", "citation": "Neligan, 2023, vol. 2, cap. 16" },
+
+    { "type": "heading", "level": 1, "text": "2. Anatomia Cirúrgica" },
+    { "type": "heading", "level": 2, "text": "2.1 Estrutura Óssea e Cartilaginosa" },
+    { "type": "paragraph", "text": "Pirâmide óssea: ossos nasais + processo frontal da maxila. Terço médio: cartilagens laterais superiores (CLS) — formam a valva interna com o septo (ângulo ideal 10–15°). Terço inferior: cartilagens alares (CLA), suporte principal da ponta.", "citation": "Neligan, 2023" },
+    { "type": "paragraph", "text": "A cartilagem alar divide-se em crura medial, média e lateral. A crura lateral direciona a forma da ponta e define o alar rim. O scroll liga CLS e CLA; sua divisão altera a projeção.", "citation": "Grabb & Smith, 2020, cap. 38" },
+
+    { "type": "heading", "level": 2, "text": "2.2 Anatomia do Septo" },
+    { "type": "paragraph", "text": "Septo quadrilátero: cartilagem; ossos: perpendicular do etmóide (superior) e vômer (inferior-posterior). L-strut: 10–15 mm de suporte dorsal + caudal devem ser preservados. Fonte primária de enxerto.", "citation": "Neligan, 2023" },
+
+    { "type": "heading", "level": 2, "text": "2.3 Vascularização" },
+    { "type": "paragraph", "text": "Artéria angular (V. oftálmica) + artéria labial superior (V. facial). Flap columelar vascularizado por ramos da artéria labial superior — preservar ao elevar o SSTE na via aberta.", "citation": "Grabb & Smith, 2020" },
+
+    { "type": "heading", "level": 1, "text": "3. Análise e Planejamento" },
+    { "type": "heading", "level": 2, "text": "3.1 Proporções Estéticas" },
+    { "type": "flashcards", "rows": [
+      ["Ângulo naso-labial ♀", "95–110°"],
+      ["Ângulo naso-labial ♂", "90–95°"],
+      ["Ângulo naso-frontal", "115–135°"],
+      ["Projeção da ponta (Goode)", "0,55–0,60 × comprimento dorsal"],
+      ["Largura basal ideal", "1/5 da largura facial"],
+      ["Show columelar", "3–4 mm (visão lateral)"],
+      ["Ângulo de rotação ♀", "95–100° (sub-nasal)"]
+    ]},
+
+    { "type": "heading", "level": 1, "text": "4. Técnicas Cirúrgicas" },
+    { "type": "heading", "level": 2, "text": "4.1 Enxertos — Hierarquia e Preferências" },
+    { "type": "paragraph", "text": "Fontes (ordem de preferência): 1° septo quadrilátero, 2° concha auricular, 3° costela (7ª–9ª). A escolha varia conforme volume necessário, histórico de cirurgias e preferência do cirurgião.", "citation": "Neligan, 2023" },
+
+    { "type": "box", "color": "blue", "title": "Hierarquia de enxertos em material limitado — survey The Rhinoplasty Society", "lines": [
+      "Survey com 47 cirurgiões membros da The Rhinoplasty Society (Rohrich RN et al., PRS 2026).",
+      "Algoritmo geral de escolha do doador: septo (1°) > costela autóloga (2°) > costela homóloga fresca (3°) > concha (4°) > costela irradiada (5°) > aloplástico (6°).",
+      "Enxertos de suporte estrutural (strut, spreader, extensão septal anterior): preferência por septo, seguido de costela e homólogo fresco.",
+      "Enxertos de contorno (onlay dorsal, onlay de ponta): concha preferida quando disponível.",
+      "Desvios do padrão geral: lateral crural strut e alar batten fogem à hierarquia habitual."
+    ], "citation": "Rohrich RN et al. Plast Reconstr Surg 2026;157(1):54–61. DOI: 10.1097/PRS.0000000000012301" },
+
+    { "type": "box", "color": "blue", "title": "Cartilagem costal homóloga fresca (FFHCC) — segurança e desfechos", "lines": [
+      "Revisão retrospectiva de 123 rinoplastias com enxerto de costela homóloga fresca (Taylor CM, Barrera JE, PRS 2026). Seguimento médio: 11 meses (1–44 meses).",
+      "Infecção: 2,4% (3 pacientes); reabsorção: 0,8% (1 paciente).",
+      "Melhora significativa em todos os desfechos relatados pelo paciente: NOSE (P < 0,001), SNOT-22 (P < 0,001), Escala de Sonolência de Epworth (P < 0,001) e SCHNOS total, funcional e cosmético (P < 0,001).",
+      "FFHCC como alternativa \"off-the-shelf\" conveniente e econômica, especialmente em casos sem septo disponível."
+    ], "citation": "Taylor CM, Barrera JE. Plast Reconstr Surg 2026;157(1):28e–37e. DOI: 10.1097/PRS.0000000000012303" },
+
+    { "type": "heading", "level": 2, "text": "4.2 Posicionamento da Ponta" },
+    { "type": "paragraph", "text": "A ponta nasal é o elemento mais determinante do resultado estético. Técnicas de sutura (transdomal, interdomal, lateral crural steal) devem preceder a ressecção tecidual. Enxertos de escudo, cap e columelar strut ajustam projeção, rotação e suporte.", "citation": "Grabb & Smith, 2020" },
+    { "type": "paragraph", "text": "Revisão dos fundamentos do posicionamento da ponta: o conceito de trípode, suas limitações, e abordagens cirúrgicas para correção de projeção, rotação e desvio.", "citation": "Mattos D et al. Plast Reconstr Surg 2025;156(4):606e–615e" },
+
+    { "type": "heading", "level": 2, "text": "4.3 Rinoplastia de Preservação (Dorsal Preservation)" },
+    { "type": "paragraph", "text": "Técnica que preserva o ligamento keystone entre septo e CLS, evitando o teto aberto. Ressecção sub-SMAS do dorso em vez de componente por componente. Indicada para corcova pequena a moderada com pele adequada.", "citation": "Neligan, 2023" },
+    { "type": "paragraph", "text": "Debate atual: rinoplastia estrutural vs. de preservação. Experiência coletiva de 4 cirurgiões seniores (115 anos de prática, ASPS Spring Meeting 2025): introdução seletiva de princípios de preservação em abordagem moderna, com foco em manutenção da anatomia nasal funcional.", "citation": "Sergesketter AR et al. Plast Reconstr Surg 2026;157(4):496e–503e" },
+
+    { "type": "box", "color": "red", "title": "Eletrocautério supera bisturi no remodelamento das CLS na rinoplastia de preservação", "lines": [
+      "Estudo retrospectivo comparativo com 205 pacientes (Şibar S et al., ASJ 2025): bisturi (n = 88) vs. eletrocautério monopolar (n = 117) para remodelamento térmico vs. mecânico das bordas das cartilagens laterais superiores (CLS) na rinoplastia de preservação por low septal strip.",
+      "Taxa de recorrência da corcova dorsal: bisturi 13,6% vs. eletrocautério 2,5% — diferença estatisticamente significativa.",
+      "Escores ROE (Rhinoplasty Outcome Evaluation) similares entre os grupos (84,4 vs. 85,0; P > 0,05): satisfação equivalente, mas recorrência muito menor com eletrocautério.",
+      "Conclusão: eletrocautério oferece remodelamento mais consistente e duradouro das CLS, especialmente em anatomia dorsal desafiadora."
+    ], "citation": "Şibar S et al. Aesthet Surg J 2025;46(1):16–23. DOI: 10.1093/asj/sjaf180" },
+
+    { "type": "heading", "level": 2, "text": "4.4 Manejo da Sela Nasal" },
+    { "type": "paragraph", "text": "Nariz em sela: deficiência de suporte dorsal, pós-trauma ou iatrogênica. Correção com enxerto de dorso; para defeitos moderados, cartilagem picada (diced cartilage) envolta em fáscia é boa opção.", "citation": "Grabb & Smith, 2020" },
+
+    { "type": "box", "color": "blue", "title": "Cartilagem costal picada semienvolvida em fáscia do reto abdominal", "lines": [
+      "Série de 95 pacientes (Niu K et al., ASJ 2025). Seguimento: 18–24 meses.",
+      "Técnica: fáscia do reto abdominal introduzida no espaço dorsal e fixada no ponto áureo da raiz nasal; cartilagem costal picada autóloga injetada no espaço e moldada conforme planejamento pré-operatório.",
+      "Taxa de absorção do enxerto: ~10%. Morfologia satisfatória, sem granulação dorsal. 4 pacientes com leve depressão na área de transição após 6 meses.",
+      "Indicação específica: casos de revisão pós-infecção, thinning nasal ou casos com carving prévio."
+    ], "citation": "Niu K et al. Aesthet Surg J 2025;46(1):24–30. DOI: 10.1093/asj/sjaf183" },
+
+    { "type": "box", "color": "blue", "title": "Groove graft biomimético integrado (IBGG) para sela moderada a grave", "lines": [
+      "Série retrospectiva de 33 pacientes (Duan Y et al., ASJ 2025). Seguimento médio: 16,4 meses.",
+      "Técnica: 3 variantes do IBGG para diferentes padrões de defeito septal (Categorias 1, 2 e 3 pelo algoritmo de Cakmak).",
+      "Desfechos: VAS médio de 8,57/10. Melhora significativa na projeção e rotação da ponta e no índice de sela em todas as categorias.",
+      "Ângulo nasofrontal: sem mudança significativa na Categoria 1; redução significativa nas Categorias 2 e 3."
+    ], "citation": "Duan Y et al. Aesthet Surg J 2025;45(11):1115–1124. DOI: 10.1093/asj/sjaf134" },
+
+    { "type": "heading", "level": 2, "text": "4.5 Ácido Tranexâmico" },
+    { "type": "box", "color": "blue", "title": "TXA tópico na septorrinoplastia — meta-análise de ECRs", "lines": [
+      "Meta-análise de 7 ECRs, 514 pacientes (Di Martino L et al., ASJ 2025).",
+      "TXA tópico reduziu significativamente: sangramento intraoperatório (SMD −1,20; IC 95% −2,34 a −0,07; P = 0,04), edema pós-operatório (SMD −0,87; P < 0,001) e equimose (SMD −1,16; P < 0,001).",
+      "Sem diferença significativa em satisfação do cirurgião (P = 0,14) ou tempo operatório (P = 0,22).",
+      "TXA tópico como adjuvante eficaz para hemostasia e recuperação pós-operatória em rinoplastia e septoplastia."
+    ], "citation": "Di Martino L et al. Aesthet Surg J 2025;45(12):1220–1226. DOI: 10.1093/asj/sjaf172" },
+
+    { "type": "heading", "level": 1, "text": "5. Casos Especiais" },
+    { "type": "heading", "level": 2, "text": "5.1 Rinoplastia em Fissura Labiopalatal" },
+    { "type": "paragraph", "text": "Nariz com fissura: deformidade da base alar ipsilateral, desvio de columela, assimetria de cúpulas. Correção primária (< 2 anos) vs. definitiva (após crescimento facial, > 14–16 anos).", "citation": "Grabb & Smith, 2020, cap. 43" },
+
+    { "type": "box", "color": "blue", "title": "Enxerto septal primário na rinoplastia para fissura unilateral — seguimento de 10 anos", "lines": [
+      "Estudo retrospectivo (Ueno K et al., PRS 2026): 60 pacientes com fissura labiopalatal unilateral completa — 23 com enxerto septal alar rim na queiloplastia primária vs. 37 sem enxerto. Seguimento de 10 anos.",
+      "Grupo com enxerto: maior altura na porção medial da narina (P = 0,031).",
+      "Grupo com enxerto: ângulo de desvio septal e comprimento do desvio significativamente menores (P < 0,001).",
+      "Enxerto septal primário não causou desvio septal clínico significativo em 10 anos. Melhora de suporte da base alar medial a longo prazo."
+    ], "citation": "Ueno K et al. Plast Reconstr Surg 2026;157(4):563e–572e. DOI: 10.1097/PRS.0000000000012525" },
+
+    { "type": "box", "color": "blue", "title": "Tip plasty aberta precoce na fissura bilateral — benefício antes da adolescência", "lines": [
+      "Série retrospectiva com 25 pacientes (Mohan VC et al., PRS 2025): fissura labial bilateral com crescimento nasal desfavorável após reparo primário. Tip plasty aberta realizada com 3–5 anos de idade, comparados a 25 controles históricos sem cirurgia.",
+      "Imediatamente após a cirurgia: melhora de projeção da ponta e altura relativa da narina vs. pré-operatório.",
+      "Ao longo do tempo: grupo cirurgia manteve ou melhorou os ganhos; grupo controle não mostrou mudança apreciável.",
+      "Intervenção precoce pode reduzir a necessidade de rinoplastia definitiva na maturidade."
+    ], "citation": "Mohan VC, Owens WR, Hopper RA. Plast Reconstr Surg 2025;156:30S–40S. DOI: 10.1097/PRS.0000000000012370" },
+
+    { "type": "heading", "level": 2, "text": "5.2 Rinoplastia de Revisão e Nariz Comprometido" },
+    { "type": "paragraph", "text": "Aguardar mínimo 12 meses após cirurgia prévia. Via aberta preferencial. Enxerto de costela frequentemente necessário.", "citation": "Neligan, 2023" },
+
+    { "type": "box", "color": "blue", "title": "Implante de silicone na rinoplastia de aumento — experiência de 30 anos", "lines": [
+      "Revisão retrospectiva de 1.019 pacientes (Kwan E et al., ASJ 2025). Implantes em I (I-shaped silicone) para aumento dorsal. Procedimento em centro QuadA-certificado.",
+      "Malposicionamento: 4% (n = 37); insatisfação subjetiva: 4% (n = 43 — principal motivo de revisão).",
+      "Extrusão: < 1% (n = 9); infecção: < 0,4% (n = 4).",
+      "Técnica crítica: bolso subperiosteal preciso, comprimento adequado do implante, sem tensão na ponta.",
+      "Perfil de risco favorável especialmente em populações étnicas; vantagens: menor tempo operatório e custo."
+    ], "citation": "Kwan E et al. Aesthet Surg J 2025;45(9):887–892. DOI: 10.1093/asj/sjaf102" },
+
+    { "type": "box", "color": "blue", "title": "Incisão columelar em V no nariz com cicatrizes prévias — série de 91 pacientes", "lines": [
+      "Série prospectiva (Sazgar AA et al., ASJ 2025): 91 pacientes com média de 1,74 rinoplastias prévias e cicatriz midcolumelar. Tempo médio de cirurgia: 239,5 min.",
+      "Autoenxertos utilizados: cartilagem auricular (n = 64), costal (n = 43), fáscia temporal (n = 12), fáscia do reto (n = 24).",
+      "Nenhum caso de deiscência ou complicação vascular, mesmo em pacientes com múltiplas incisões midcolumclares prévias.",
+      "SCHNOS: obstrução 52,86 → 18,43; cosmética 78,09 → 20,19 (melhora significativa em ambos os domínios).",
+      "Incisão em V é alternativa segura à incisão transcolumelar padrão em nariz gravemente comprometido."
+    ], "citation": "Sazgar AA et al. Aesthet Surg J 2025;45(8):770–779. DOI: 10.1093/asj/sjaf060" },
+
+    { "type": "heading", "level": 1, "text": "6. Complicações" },
+    { "type": "dataTable", "headers": ["Complicação", "Frequência", "Conduta"], "rows": [
+      ["Edema / equimose", "Universal", "Expectante; frio local; TXA tópico preventivo"],
+      ["Irregularidade de dorso", "5–10%", "Revisão ≥ 12 meses; AH para menores"],
+      ["Recorrência de corcova (preservação)", "2,5–13,6%*", "* menor com eletrocautério nas CLS"],
+      ["Pinch deformity", "2–5%", "Enxerto alar rim / lateral crural"],
+      ["Colapso de valva interna", "1–3%", "Spreader graft"],
+      ["Sela pós-operatória", "< 1%", "Enxerto de dorso"],
+      ["Desvio residual", "3–8%", "Revisão após 12 meses"],
+      ["Infecção / pericondrite", "< 1%", "ATB; drenagem"],
+      ["Malposicionamento de implante", "~4%", "Revisão cirúrgica; bolso subperiosteal"],
+      ["Extrusão de implante", "< 1%", "Remoção; enxerto autólogo"]
+    ]}
+  ]
+}

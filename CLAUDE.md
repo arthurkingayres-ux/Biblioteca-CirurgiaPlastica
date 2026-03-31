@@ -83,6 +83,11 @@ Toda falha é uma oportunidade de fortalecer o sistema:
 ├── 04-Briefings-Semanais/
 ├── 05-Registro-Progresso/
 │
+├── content/                    # Conteúdo dos documentos em JSON (fonte única de verdade)
+│   ├── schema.json             # Schema JSON que define a estrutura dos documentos
+│   ├── rinoplastia.json        # 1 arquivo por tema — conteúdo separado do código
+│   └── ...
+├── assets/images/              # Imagens para os documentos (subpastas por tema)
 ├── tools/                      # Scripts Python e Node.js
 ├── workflows/                  # SOPs em Markdown
 ├── .tmp/                       # Arquivos temporários (descartáveis; regeneráveis)
@@ -103,6 +108,19 @@ Toda falha é uma oportunidade de fortalecer o sistema:
 >
 > **Nunca escrever uma seção sem ter lido o capítulo correspondente do Neligan** (e obras complementares pertinentes ao tema).
 
+## Arquitetura: Conteúdo Separado do Código
+
+O conteúdo de cada documento vive em **`content/<tema>.json`** — arquivos JSON que seguem o schema definido em `content/schema.json`. O script **`tools/create_docx.js`** é um **motor de renderização puro**: lê o JSON e gera o `.docx`, sem conter nenhum conhecimento médico.
+
+**Implicações práticas:**
+- Para **adicionar/editar conteúdo** → editar o arquivo JSON do tema (sem tocar em JavaScript)
+- Para **adicionar um novo tema** → criar um novo `content/<tema>.json` seguindo o schema
+- Para **mudar a formatação** de todos os documentos → editar apenas `create_docx.js`
+- O motor descobre automaticamente todos os temas disponíveis em `content/`
+
+**Tipos de elementos suportados no JSON:**
+- `heading` (level 1/2/3), `paragraph` (com citação opcional), `box` (blue/red/green), `flashcards`, `dataTable`, `figure`
+
 ## Formato dos Documentos de Estudo
 
 Documentos `.docx` gerados via **`tools/create_docx.js`** (Node.js + biblioteca `docx`), um por tema, únicos e editáveis (documentos vivos).
@@ -110,7 +128,7 @@ Documentos `.docx` gerados via **`tools/create_docx.js`** (Node.js + biblioteca 
 ### Estrutura obrigatória de cada documento
 | Elemento | Descrição |
 |---|---|
-| **Capa** | Título, autor (Dr. Arthur King Ayres), versão, data, tabela de histórico de atualizações |
+| **Capa** | Título, autor (Dr. Arthur Balestra Silveira Ayres), versão, data, tabela de histórico de atualizações |
 | **Referências primárias na capa** | Neligan's Plastic Surgery 5ª Ed. (2023) + livros complementares conforme tema |
 | **Seções por sub-tema** | Conteúdo base extraído dos livros-texto primários — denso e completo |
 | **Citações inline** | Itálico cinza — ex: *(Neligan, 2023, vol. 2, cap. 16)* |
@@ -148,7 +166,7 @@ cd ~/Documents/Biblioteca-CirurgiaPlastica
 ```
 Novo artigo PRS/ASJ
   → Classificar (AZUL / VERMELHO / VERDE)
-  → Editar create_docx.js (adicionar box + referência + versão)
+  → Editar content/<tema>.json (adicionar box + referência + versão)
   → node tools/create_docx.js --topic <tema>
   → python tools/mark_article_incorporated.py --doi <doi> --documento <arquivo>
 ```
@@ -219,7 +237,7 @@ Todos os documentos em **português brasileiro**. Terminologia médica conforme 
 | `tools/mark_article_incorporated.py` | Python | Marca artigos como incorporados |
 | `tools/generate_briefing.py` | Python | Gera briefing semanal em Markdown |
 | `tools/log_progress.py` | Python | Registra sessões de estudo |
-| `tools/create_docx.js` | Node.js | Gera documentos `.docx` formatados |
+| `tools/create_docx.js` | Node.js | Motor de renderização: lê `content/*.json` e gera `.docx` |
 
 ---
 
