@@ -233,8 +233,14 @@ AND "Aesthetic Surgery Journal"[Journal]
 
 - Acesso ao **texto completo** de PRS e ASJ requer **VPN institucional UNICAMP**
 - O Claude não consegue abrir aplicativos no Windows — o Dr. Arthur deve ligar o VPN manualmente antes de sessões de varredura
-- Há lembrete agendado para **domingo às 9h**
 - Buscas de metadados no PubMed (sem download de PDF) **não requerem VPN**
+
+**Pipeline de acesso ao conteúdo:**
+1. Agente descobre artigos via PubMed (metadados apenas)
+2. Dr. Arthur liga VPN, acessa journals pelo DOI, salva PDFs em `02-Artigos-Periodicos/PRS/` ou `ASJ/`
+3. Agente lê os PDFs, analisa, classifica e incorpora via `incorporate_article.js`
+
+> **Nota:** O scraping automatizado de journals (Playwright) foi descontinuado por ser frágil e perder dados estruturados. PDFs são o formato canônico e permanente. O script antigo está em `tools/_deprecated/fetch_article_text.js`.
 
 ---
 
@@ -264,9 +270,9 @@ Todos os documentos em **português brasileiro**. Terminologia médica conforme 
 
 | Workflow | Quando usar |
 |---|---|
-| `workflows/varredura_artigos.md` | **Fluxo principal:** buscar, baixar PDFs, extrair e incorporar ao .docx (requer VPN) |
-| `workflows/buscar_incorporar_artigos.md` | Buscar novos artigos PRS/ASJ e indexá-los (apenas metadados, sem PDF) |
-| `workflows/atualizar_documento_estudo.md` | Incorporar artigos já indexados a um documento |
+| `workflows/varredura_artigos.md` | **Fluxo principal:** PubMed → triagem → Dr. Arthur baixa PDFs via VPN → agente lê, classifica e incorpora |
+| `workflows/buscar_incorporar_artigos.md` | Descoberta: buscar artigos PRS/ASJ no PubMed e indexar metadados (sem PDF) |
+| `workflows/atualizar_documento_estudo.md` | Incorporar artigos já disponíveis (PDFs salvos) a um documento |
 | `workflows/cirurgia_estetica_facial.md` | Fluxo completo para a área 12 (facial) |
 | `workflows/gerar_briefing_semanal.md` | Gerar relatório semanal de novos artigos |
 | `workflows/registrar_progresso.md` | Registrar sessão de estudo no diário |

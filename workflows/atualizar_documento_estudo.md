@@ -1,68 +1,86 @@
 # Workflow: Atualizar Documento de Estudo
 
 ## Objetivo
-Incorporar informações de artigos científicos indexados a um documento de estudo (.docx) existente em `01-Documentos-Estudo/`, e registrar essa incorporação no índice.
+Incorporar informações de artigos científicos já disponíveis (PDFs salvos) a um documento de estudo existente em `01-Documentos-Estudo/`.
+
+## Quando usar
+Quando já existem PDFs de artigos salvos em `02-Artigos-Periodicos/PRS/` ou `ASJ/` que ainda não foram incorporados ao documento do tema correspondente.
+
+> Para o fluxo completo (busca + download + incorporação), use `workflows/varredura_artigos.md`.
 
 ## Inputs Necessários
-- `documento`: Nome do arquivo .docx de destino (ex: `11-1-Abdominoplastia.docx`)
-- `area_tematica`: Área correspondente no índice de artigos (ex: `Abdominoplastia`)
-- Artigos já indexados em `02-Artigos-Periodicos/indice-artigos.csv` com `incorporado_em_documento` vazio
-
-## Ferramentas
-- `tools/mark_article_incorporated.py` — marca artigos como incorporados no índice
+- `tema`: Nome do tema no sistema (ex: `rinoplastia`, `abdominoplastia`)
+- PDFs salvos em `02-Artigos-Periodicos/PRS/` ou `ASJ/`
+- Artigos indexados em `02-Artigos-Periodicos/indice-artigos.csv` com `incorporado_em_documento` vazio
 
 ## Passo a Passo
 
-### 1. Identificar artigos pendentes de incorporação
+### 1. Identificar artigos pendentes
 Abrir `02-Artigos-Periodicos/indice-artigos.csv` e filtrar por:
 - `area_tematica` = área desejada
 - `incorporado_em_documento` = (vazio)
 
-Esses são os artigos que ainda precisam ser incorporados ao documento.
+### 2. Localizar os PDFs correspondentes
+Para cada artigo pendente, verificar se o PDF existe em:
+- `02-Artigos-Periodicos/PRS/<arquivo>.pdf`
+- `02-Artigos-Periodicos/ASJ/<arquivo>.pdf`
 
-### 2. Ler os artigos e atualizar o documento
-Para cada artigo pendente:
-1. Acessar o conteúdo via DOI (abrir no navegador: `https://doi.org/<doi>`)
-2. Extrair as informações relevantes: resultados principais, metodologia, conclusões
-3. Adicionar ao documento .docx correspondente em `01-Documentos-Estudo/`
-4. Seguir a estrutura já existente no documento (seções, formatação)
+Se o PDF não estiver salvo, solicitar ao Dr. Arthur que o baixe com VPN ativo.
 
-### 3. Marcar artigos como incorporados
-Após atualizar o documento, registrar no índice:
+### 3. Ler e analisar cada PDF
+Usar o Read tool para ler o PDF completo. Extrair:
+- **Achado principal** e conclusão prática
+- **Metodologia** resumida (tipo de estudo, n, follow-up)
+- **Dados numéricos** relevantes (medidas, ângulos, taxas, p-values)
+- **Classificação:**
+  - **AZUL** → complementa conhecimento existente
+  - **VERMELHO** → muda conduta ou paradigma
+  - **VERDE** → dica prática cirúrgica
 
+> ⚠️ Nunca incorporar baseado apenas no abstract. O PDF completo deve ser lido.
+
+### 4. Incorporar ao documento
 ```bash
-# Por DOI (um artigo por vez):
-python tools/mark_article_incorporated.py \
-    --doi "<doi_do_artigo>" \
-    --documento "<nome_do_documento.docx>"
-
-# Em lote (todos da área ainda não incorporados):
-python tools/mark_article_incorporated.py \
-    --area "<area_tematica>" \
-    --documento "<nome_do_documento.docx>" \
-    --todos
+node tools/incorporate_article.js \
+  --tema <tema> --color <blue|red|green> \
+  --title "Título do box" \
+  --lines "Achado 1" "Achado 2" \
+  --citation "Autor et al. Journal Ano;Vol:Pág. DOI: 10.xxx" \
+  --doi "10.xxx" \
+  --after-heading "<Seção mais adequada>" \
+  --flashcard "Parâmetro|Valor" \
+  --description "Descrição breve"
 ```
 
-**Saída esperada:** Confirmação de quantos artigos foram marcados
+### 5. Verificar resultado
+```bash
+node tools/validate_content.js --topic <tema>
+```
 
-### 4. Verificar consistência
-Confirmar no CSV que:
-- `incorporado_em_documento` foi preenchido corretamente
-- `data_incorporacao` registrou a data de hoje
+### 6. Marcar artigos como incorporados
+O `incorporate_article.js` já tenta marcar automaticamente via `mark_article_incorporated.py`. Se falhar, executar manualmente:
+
+```bash
+python tools/mark_article_incorporated.py \
+    --doi "<doi>" \
+    --documento "<12-X-Tema.docx>"
+```
 
 ## Saída Esperada
-- Documento .docx atualizado com novos conteúdos
-- `02-Artigos-Periodicos/indice-artigos.csv` com campos `incorporado_em_documento` e `data_incorporacao` preenchidos
-
-## Edge Cases
-- **Artigo sem acesso livre:** registrar o DOI e anotar nas notas do índice que requer acesso institucional
-- **Informação conflitante entre artigos:** documentar ambas as perspectivas com referências
-- **Documento não encontrado:** verificar se o nome do arquivo está correto; usar o nome exato como aparece em `01-Documentos-Estudo/`
+- `content/<tema>.json` atualizado com novos boxes, flashcards, versão incrementada
+- `01-Documentos-Estudo/<tema>.docx` regenerado
+- `02-Artigos-Periodicos/indice-artigos.csv` com artigos marcados como incorporados
 
 ## Documentos Existentes e Suas Áreas
-| Documento | Área Temática no Índice |
-|---|---|
-| `11-1-Abdominoplastia.docx` | Abdominoplastia |
-| `11-2-Lipoaspiracao.docx` | Lipoaspiração |
-| `11-3-Contorno-Corporal-Pos-Bariatrico.docx` | Contorno Corporal Pós-Bariátrico |
-| `11-4-Gluteoplastia.docx` | Gluteoplastia |
+| Documento | Tema (content JSON) | Área no Índice |
+|---|---|---|
+| `11-1-Abdominoplastia.docx` | `abdominoplastia` | Abdominoplastia |
+| `12-1-Rinoplastia.docx` | `rinoplastia` | Rinoplastia |
+| `12-2-Blefaroplastia.docx` | `blefaroplastia` | Blefaroplastia |
+| `12-3-Ritidoplastia.docx` | `ritidoplastia` | Ritidoplastia |
+| `12-4-Otoplastia.docx` | `otoplastia` | Otoplastia |
+
+## Edge Cases
+- **PDF não-legível ou protegido:** Informar ao Dr. Arthur; tentar abordagem alternativa.
+- **Informação conflitante entre artigos:** Documentar ambas as perspectivas com referências.
+- **Artigo não pertence à área:** Verificar se há outro documento mais adequado antes de incorporar.

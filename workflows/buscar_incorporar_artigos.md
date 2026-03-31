@@ -1,7 +1,9 @@
-# Workflow: Buscar e Incorporar Artigos ao Índice
+# Workflow: Buscar e Indexar Artigos via PubMed
 
 ## Objetivo
 Pesquisar artigos no PubMed, restrito a PRS e ASJ (fase atual), e adicioná-los ao índice da biblioteca.
+
+> **Este workflow é de descoberta.** O PubMed fornece apenas metadados (título, autores, DOI, abstract). O acesso ao conteúdo completo requer VPN UNICAMP + download do PDF direto do journal.
 
 ## Periódicos Ativos
 - **PRS** — Plastic and Reconstructive Surgery
@@ -59,14 +61,15 @@ python tools/update_article_index.py \
 Verificar que `02-Artigos-Periodicos/indice-artigos.csv` foi atualizado.
 
 ## Saída Esperada
-- `02-Artigos-Periodicos/indice-artigos.csv` atualizado (apenas PRS/ASJ)
+- `02-Artigos-Periodicos/indice-artigos.csv` atualizado com metadados (apenas PRS/ASJ)
 - `.tmp/*.json` descartável após confirmação
+
+## Próximos Passos
+Artigos indexados aqui são **candidatos** para incorporação. Para incorporá-los:
+1. Dr. Arthur baixa os PDFs relevantes via VPN → `02-Artigos-Periodicos/PRS/` ou `ASJ/`
+2. Seguir `workflows/atualizar_documento_estudo.md` ou `workflows/varredura_artigos.md`
 
 ## Edge Cases
 - **Query retorna artigos de outros journals:** o script não filtra por journal — revisar o JSON antes de indexar
 - **Sem resultados:** ampliar `--years` ou usar termo MeSH alternativo
 - **Rate limit NCBI:** aguardar 30 segundos; com API key, limite é 10 req/s
-
-## Observação VPN
-O PubMed não requer VPN. O **texto completo** dos artigos (PDF) requer VPN UNICAMP.
-A busca de metadados (etapa deste workflow) pode ser feita sem VPN.
