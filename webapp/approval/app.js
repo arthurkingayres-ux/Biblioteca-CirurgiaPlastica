@@ -95,17 +95,33 @@ async function listVarreduraFiles() {
 
 /**
  * Read and parse a JSON file from the repo.
+ * Files > 1 MB have encoding "none" — fetch raw via Accept header (CORS-safe).
  */
 async function readJsonFile(path) {
   const res = await githubFetch(path);
   if (res.status === 404) return null;
   const data = await res.json();
-  const content = atob(data.content.replace(/\n/g, ''));
-  // Decode UTF-8 properly
-  const decoded = new TextDecoder('utf-8').decode(
-    Uint8Array.from(content, c => c.charCodeAt(0))
-  );
-  return { parsed: JSON.parse(decoded), sha: data.sha };
+
+  let parsed;
+  if (data.content && data.encoding === 'base64') {
+    const content = atob(data.content.replace(/\n/g, ''));
+    const decoded = new TextDecoder('utf-8').decode(
+      Uint8Array.from(content, c => c.charCodeAt(0))
+    );
+    parsed = JSON.parse(decoded);
+  } else {
+    // Large file (> 1 MB): re-fetch with raw Accept header (stays on api.github.com)
+    const url = `${API_BASE}/contents/${path}`;
+    const raw = await fetch(url, {
+      headers: {
+        'Authorization': `token ${token}`,
+        'Accept': 'application/vnd.github.raw',
+      },
+    });
+    parsed = await raw.json();
+  }
+
+  return { parsed, sha: data.sha };
 }
 
 /**
