@@ -217,12 +217,30 @@ function main() {
   const args = parseArgs(process.argv.slice(2));
   validate(args);
 
-  // Carregar JSON do tema
-  const jsonPath = path.join(CONTENT_DIR, `${args.tema}.json`);
-  if (!fs.existsSync(jsonPath)) {
-    const temas = fs.readdirSync(CONTENT_DIR)
-      .filter(f => f.endsWith('.json') && f !== 'schema.json')
-      .map(f => f.replace('.json', ''));
+  // Descobrir JSON do tema em subpastas de content/
+  function findTopicJson(tema) {
+    for (const entry of fs.readdirSync(CONTENT_DIR, { withFileTypes: true })) {
+      if (entry.isDirectory()) {
+        const candidate = path.join(CONTENT_DIR, entry.name, `${tema}.json`);
+        if (fs.existsSync(candidate)) return candidate;
+      }
+    }
+    // Retrocompatibilidade: JSON solto na raiz
+    const rootPath = path.join(CONTENT_DIR, `${tema}.json`);
+    if (fs.existsSync(rootPath)) return rootPath;
+    return null;
+  }
+
+  const jsonPath = findTopicJson(args.tema);
+  if (!jsonPath) {
+    const temas = [];
+    for (const entry of fs.readdirSync(CONTENT_DIR, { withFileTypes: true })) {
+      if (entry.isDirectory()) {
+        for (const f of fs.readdirSync(path.join(CONTENT_DIR, entry.name))) {
+          if (f.endsWith('.json') && f !== 'schema.json') temas.push(f.replace('.json', ''));
+        }
+      }
+    }
     console.error(`Tema "${args.tema}" não encontrado.`);
     console.error(`Temas disponíveis: ${temas.join(', ')}`);
     process.exit(1);

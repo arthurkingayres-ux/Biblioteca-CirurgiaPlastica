@@ -112,8 +112,8 @@ function semanticChecks(doc, tema) {
 
 // ─── Validate one topic ─────────────────────────────────────────────────────
 
-function validateTopic(tema, validate) {
-  const jsonPath = path.join(CONTENT_DIR, `${tema}.json`);
+function validateTopic(tema, validate, jsonPath) {
+  if (!jsonPath) jsonPath = path.join(CONTENT_DIR, `${tema}.json`);
   const doc = JSON.parse(fs.readFileSync(jsonPath, 'utf8'));
 
   const result = { tema, schemaValid: true, schemaErrors: [], errors: [], warnings: [] };
@@ -139,9 +139,20 @@ function validateTopic(tema, validate) {
 // ─── List topics ────────────────────────────────────────────────────────────
 
 function listTopics() {
-  return fs.readdirSync(CONTENT_DIR)
-    .filter(f => f.endsWith('.json') && f !== 'schema.json')
-    .map(f => f.replace('.json', ''));
+  const topics = [];
+  for (const entry of fs.readdirSync(CONTENT_DIR, { withFileTypes: true })) {
+    if (entry.isDirectory()) {
+      const areaDir = path.join(CONTENT_DIR, entry.name);
+      for (const f of fs.readdirSync(areaDir)) {
+        if (f.endsWith('.json') && f !== 'schema.json') {
+          topics.push({ topic: f.replace('.json', ''), jsonPath: path.join(areaDir, f) });
+        }
+      }
+    } else if (entry.name.endsWith('.json') && entry.name !== 'schema.json') {
+      topics.push({ topic: entry.name.replace('.json', ''), jsonPath: path.join(CONTENT_DIR, entry.name) });
+    }
+  }
+  return topics;
 }
 
 // ─── Main ───────────────────────────────────────────────────────────────────
@@ -152,25 +163,29 @@ function main() {
   const topic = tIdx >= 0 ? args[tIdx + 1] : null;
 
   const validate = loadValidator();
-  const topics = topic ? [topic] : listTopics();
+  const allTopics = listTopics();
+  const topics = topic
+    ? allTopics.filter(t => t.topic === topic)
+    : allTopics;
 
   if (topics.length === 0) {
-    console.error('Nenhum tema encontrado em content/');
+    console.error(topic
+      ? `Tema "${topic}" não encontrado. Disponíveis: ${allTopics.map(t => t.topic).join(', ')}`
+      : 'Nenhum tema encontrado em content/');
     process.exit(1);
   }
 
   let totalErrors = 0;
   let totalWarnings = 0;
 
-  for (const tema of topics) {
-    const jsonPath = path.join(CONTENT_DIR, `${tema}.json`);
+  for (const { topic: tema, jsonPath } of topics) {
     if (!fs.existsSync(jsonPath)) {
-      console.error(`✗ ${tema}: arquivo não encontrado`);
+      console.error(`x ${tema}: arquivo não encontrado`);
       totalErrors++;
       continue;
     }
 
-    const result = validateTopic(tema, validate);
+    const result = validateTopic(tema, validate, jsonPath);
 
     if (result.schemaValid && result.errors.length === 0 && result.warnings.length === 0) {
       console.log(`✓ ${tema}: OK`);

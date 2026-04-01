@@ -1,15 +1,29 @@
 # Livros-texto (PDFs grandes e com copyright)
 00-Livros-Texto/
 
-# PDFs de artigos (copyright)
-02-Artigos-Periodicos/PRS/
-02-Artigos-Periodicos/ASJ/
+# PDFs de artigos (copyright) — organizados por area/subtema
+02-Artigos-Periodicos/Contorno-Corporal/
+02-Artigos-Periodicos/Estetica-Facial/
+02-Artigos-Periodicos/Mama/
+02-Artigos-Periodicos/Mao-e-Membro-Superior/
+02-Artigos-Periodicos/Craniofacial/
+02-Artigos-Periodicos/Microcirurgia-e-Retalhos/
+02-Artigos-Periodicos/Queimaduras-e-Feridas/
+02-Artigos-Periodicos/Tronco-e-Membro-Inferior/
+02-Artigos-Periodicos/_inbox/
 
 # Dependências
 node_modules/
 
+# Python
+__pycache__/
+tools/__pycache__/
+
 # Temporários
 .tmp/
+
+# IDE
+.vscode/
 
 # Segredos
 .env

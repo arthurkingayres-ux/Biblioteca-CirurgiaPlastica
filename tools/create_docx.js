@@ -322,15 +322,9 @@ function renderElement(el, tema) {
 
 // ─── Gerador principal ──────────────────────────────────────────────────────
 
-async function generateDoc(topic) {
-  const jsonPath = path.join(CONTENT_DIR, `${topic}.json`);
-  if (!fs.existsSync(jsonPath)) {
-    console.error(`Arquivo de conteúdo não encontrado: ${jsonPath}`);
-    console.error(`Tópicos disponíveis: ${listTopics().join(', ')}`);
-    process.exit(1);
-  }
-
-  const doc = JSON.parse(fs.readFileSync(jsonPath, 'utf8'));
+async function generateDoc(topicName) {
+  const topicInfo = findTopic(topicName);
+  const doc = JSON.parse(fs.readFileSync(topicInfo.jsonPath, 'utf8'));
 
   // Renderizar capa
   const cover = coverPage(doc.title, doc.version, doc.date, doc.history);
@@ -338,7 +332,7 @@ async function generateDoc(topic) {
   // Renderizar corpo
   const bodyElements = [];
   for (const el of doc.body) {
-    bodyElements.push(...renderElement(el, topic));
+    bodyElements.push(...renderElement(el, topicName));
   }
 
   // Referências-Base
@@ -391,18 +385,69 @@ async function generateDoc(topic) {
   });
 
   const buffer = await Packer.toBuffer(docx);
-  const outPath = path.join(OUTDIR, doc.filename);
+  // Mapear area slug para nome de pasta em 01-Documentos-Estudo/
+  const AREA_FOLDER_MAP = {
+    'estetica-facial': 'Estetica-Facial',
+    'contorno-corporal': 'Contorno-Corporal',
+    'mama': 'Mama',
+    'mao-e-membro-superior': 'Mao-e-Membro-Superior',
+    'craniofacial': 'Craniofacial',
+    'microcirurgia-e-retalhos': 'Microcirurgia-e-Retalhos',
+    'queimaduras-e-feridas': 'Queimaduras-e-Feridas',
+    'tronco-e-membro-inferior': 'Tronco-e-Membro-Inferior',
+  };
+  const areaFolder = topicInfo.area ? AREA_FOLDER_MAP[topicInfo.area] || topicInfo.area : '';
+  const outDir = areaFolder ? path.join(OUTDIR, areaFolder) : OUTDIR;
+  fs.mkdirSync(outDir, { recursive: true });
+  const outPath = path.join(outDir, doc.filename);
   fs.writeFileSync(outPath, buffer);
-  console.log(`✓ Gerado: ${outPath}`);
+  console.log(`Gerado: ${outPath}`);
 }
 
 // ─── Utilitários ─────────────────────────────────────────────────────────────
 
+/**
+ * Descobre todos os tópicos disponíveis, varrendo subpastas de content/.
+ * Retorna array de { topic, area, jsonPath }.
+ *   area = nome da subpasta (ex: 'estetica-facial')
+ *   topic = nome do arquivo sem .json (ex: 'rinoplastia')
+ */
 function listTopics() {
   if (!fs.existsSync(CONTENT_DIR)) return [];
-  return fs.readdirSync(CONTENT_DIR)
-    .filter(f => f.endsWith('.json') && f !== 'schema.json')
-    .map(f => f.replace('.json', ''));
+  const topics = [];
+  for (const entry of fs.readdirSync(CONTENT_DIR, { withFileTypes: true })) {
+    if (entry.isDirectory()) {
+      const areaDir = path.join(CONTENT_DIR, entry.name);
+      for (const f of fs.readdirSync(areaDir)) {
+        if (f.endsWith('.json') && f !== 'schema.json') {
+          topics.push({
+            topic: f.replace('.json', ''),
+            area: entry.name,
+            jsonPath: path.join(areaDir, f),
+          });
+        }
+      }
+    } else if (entry.name.endsWith('.json') && entry.name !== 'schema.json') {
+      // Retrocompatibilidade: JSONs soltos na raiz de content/
+      topics.push({
+        topic: entry.name.replace('.json', ''),
+        area: null,
+        jsonPath: path.join(CONTENT_DIR, entry.name),
+      });
+    }
+  }
+  return topics;
+}
+
+function findTopic(topicName) {
+  const all = listTopics();
+  const found = all.find(t => t.topic === topicName);
+  if (!found) {
+    console.error(`Tópico "${topicName}" não encontrado.`);
+    console.error(`Disponíveis: ${all.map(t => t.topic).join(', ')}`);
+    process.exit(1);
+  }
+  return found;
 }
 
 // ─── CLI ─────────────────────────────────────────────────────────────────────
@@ -414,13 +459,13 @@ async function main() {
 
   if (!topic) {
     const topics = listTopics();
-    console.error(`Uso: node tools/create_docx.js --topic <${topics.join('|')}|todos>`);
+    console.error(`Uso: node tools/create_docx.js --topic <${topics.map(t => t.topic).join('|')}|todos>`);
     process.exit(1);
   }
 
   if (topic === 'todos') {
     for (const t of listTopics()) {
-      await generateDoc(t);
+      await generateDoc(t.topic);
     }
   } else {
     await generateDoc(topic);

@@ -22,9 +22,20 @@ const OUTDIR      = path.join(__dirname, '..', '01-Documentos-Estudo');
 const ROOT        = path.join(__dirname, '..');
 
 function listTopics() {
-  return fs.readdirSync(CONTENT_DIR)
-    .filter(f => f.endsWith('.json') && f !== 'schema.json')
-    .map(f => f.replace('.json', ''));
+  const topics = [];
+  for (const entry of fs.readdirSync(CONTENT_DIR, { withFileTypes: true })) {
+    if (entry.isDirectory()) {
+      const areaDir = path.join(CONTENT_DIR, entry.name);
+      for (const f of fs.readdirSync(areaDir)) {
+        if (f.endsWith('.json') && f !== 'schema.json') {
+          topics.push({ topic: f.replace('.json', ''), area: entry.name, jsonPath: path.join(areaDir, f) });
+        }
+      }
+    } else if (entry.name.endsWith('.json') && entry.name !== 'schema.json') {
+      topics.push({ topic: entry.name.replace('.json', ''), area: null, jsonPath: path.join(CONTENT_DIR, entry.name) });
+    }
+  }
+  return topics;
 }
 
 function main() {
@@ -61,30 +72,42 @@ function main() {
   console.log('═══ Etapa 3: Verificação dos arquivos ═══\n');
   const topics = listTopics();
 
-  for (const tema of topics) {
-    const jsonPath = path.join(CONTENT_DIR, `${tema}.json`);
+  const AREA_FOLDER_MAP = {
+    'estetica-facial': 'Estetica-Facial',
+    'contorno-corporal': 'Contorno-Corporal',
+    'mama': 'Mama',
+    'mao-e-membro-superior': 'Mao-e-Membro-Superior',
+    'craniofacial': 'Craniofacial',
+    'microcirurgia-e-retalhos': 'Microcirurgia-e-Retalhos',
+    'queimaduras-e-feridas': 'Queimaduras-e-Feridas',
+    'tronco-e-membro-inferior': 'Tronco-e-Membro-Inferior',
+  };
+
+  for (const { topic: tema, area, jsonPath } of topics) {
     const doc = JSON.parse(fs.readFileSync(jsonPath, 'utf8'));
-    const docxPath = path.join(OUTDIR, doc.filename);
+    const areaFolder = area ? AREA_FOLDER_MAP[area] || area : '';
+    const outDir = areaFolder ? path.join(OUTDIR, areaFolder) : OUTDIR;
+    const docxPath = path.join(outDir, doc.filename);
 
     if (!fs.existsSync(docxPath)) {
-      console.error(`✗ ${tema}: ${doc.filename} não encontrado`);
+      console.error(`x ${tema}: ${doc.filename} nao encontrado em ${outDir}`);
       failed = true;
       continue;
     }
 
     const stats = fs.statSync(docxPath);
     if (stats.size === 0) {
-      console.error(`✗ ${tema}: ${doc.filename} está vazio (0 bytes)`);
+      console.error(`x ${tema}: ${doc.filename} esta vazio (0 bytes)`);
       failed = true;
       continue;
     }
 
     const sizeKB = (stats.size / 1024).toFixed(1);
     const bodyCount = doc.body.length;
-    console.log(`✓ ${tema}: ${doc.filename} (${sizeKB} KB, ${bodyCount} elementos)`);
+    console.log(`OK ${tema}: ${doc.filename} (${sizeKB} KB, ${bodyCount} elementos)`);
   }
 
-  console.log(`\n─── Resultado: ${topics.length} tema(s) ${failed ? '— COM FALHAS' : '— TODOS OK'} ───`);
+  console.log(`\n--- Resultado: ${topics.length} tema(s) ${failed ? '--- COM FALHAS' : '--- TODOS OK'} ---`);
   process.exit(failed ? 1 : 0);
 }
 
