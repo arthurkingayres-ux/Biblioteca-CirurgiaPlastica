@@ -1,0 +1,24 @@
+{
+  "areas": {
+    "estetica-facial": {
+      "ultima_varredura": "2026-03-31",
+      "varredura_zero_feita": true,
+      "subtemas": [
+        "rinoplastia",
+        "blefaroplastia",
+        "ritidoplastia",
+        "otoplastia"
+      ],
+      "query_terms": "rhinoplasty OR blepharoplasty OR rhytidectomy OR facelift OR otoplasty OR ear surgery"
+    },
+    "contorno-corporal": {
+      "ultima_varredura": null,
+      "varredura_zero_feita": false,
+      "subtemas": [
+        "abdominoplastia",
+        "lipoescultura"
+      ],
+      "query_terms": "abdominoplasty OR liposuction OR body contouring OR lipoplasty OR tummy tuck"
+    }
+  }
+}
