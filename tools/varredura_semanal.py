@@ -24,6 +24,7 @@ import json
 import os
 import subprocess
 import sys
+import time
 from datetime import datetime, timedelta
 
 from dotenv import load_dotenv
@@ -174,14 +175,27 @@ def triage_articles(articles, area, subtemas):
         batch_prompt = batch_prompt.replace("{subtemas}", ", ".join(subtemas))
         batch_prompt = batch_prompt.replace("{artigos}", batch_texto)
 
-        print(f"  Triagem IA: lote {i // batch_size + 1} ({len(batch)} artigos)...")
+        lote_num = i // batch_size + 1
+        print(f"  Triagem IA: lote {lote_num} ({len(batch)} artigos)...")
 
         client = anthropic.Anthropic(api_key=api_key)
-        message = client.messages.create(
-            model="claude-sonnet-4-20250514",
-            max_tokens=4096,
-            messages=[{"role": "user", "content": batch_prompt}],
-        )
+        # Retry com backoff para rate limit (429)
+        max_retries = 5
+        for attempt in range(max_retries):
+            try:
+                message = client.messages.create(
+                    model="claude-sonnet-4-20250514",
+                    max_tokens=4096,
+                    messages=[{"role": "user", "content": batch_prompt}],
+                )
+                break
+            except anthropic.RateLimitError:
+                wait = 30 * (attempt + 1)
+                print(f"  Rate limit atingido. Aguardando {wait}s antes de tentar novamente...")
+                time.sleep(wait)
+        else:
+            print(f"  ERRO: Rate limit persistente no lote {lote_num}. Pulando.")
+            continue
 
         response_text = message.content[0].text.strip()
 
@@ -292,8 +306,8 @@ def merge_results(articles, triage_results):
         })
         entry = {
             **art,
-            "relevancia": triage["relevancia"],
-            "justificativa": triage["justificativa"],
+            "relevancia": triage.get("relevancia", "PENDENTE"),
+            "justificativa": triage.get("justificativa", triage.get("justificacao", "Nao avaliado")),
         }
         merged.append(entry)
 
