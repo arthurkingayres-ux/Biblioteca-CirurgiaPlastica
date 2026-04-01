@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#1a1a2e">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="Triagem CP">
+  <title>Triagem de Artigos — Biblioteca CP</title>
+  <link rel="manifest" href="manifest.json">
+  <link rel="apple-touch-icon" href="icons/icon-192.svg">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- Auth Screen -->
+  <div id="auth-screen" class="screen">
+    <div class="auth-container">
+      <div class="auth-logo">&#9879;</div>
+      <h1>Triagem de Artigos</h1>
+      <p class="auth-subtitle">Biblioteca Inteligente de Cirurgia Plástica</p>
+      <div class="auth-form">
+        <label for="token-input">GitHub Personal Access Token</label>
+        <input type="password" id="token-input" placeholder="ghp_xxxxxxxxxxxx" autocomplete="off">
+        <p class="auth-hint">Token precisa do scope <strong>repo</strong> para acessar o repositório privado.</p>
+        <button id="btn-login" class="btn btn-primary btn-block">Entrar</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Main App Screen -->
+  <div id="app-screen" class="screen hidden">
+    <!-- Header -->
+    <header class="app-header">
+      <div class="header-top">
+        <h1 class="header-title">Triagem</h1>
+        <div class="header-actions">
+          <button id="btn-refresh" class="btn-icon" title="Atualizar">&#8635;</button>
+          <button id="btn-logout" class="btn-icon" title="Sair">&#9211;</button>
+        </div>
+      </div>
+      <!-- Area Tabs -->
+      <nav id="area-tabs" class="tabs"></nav>
+      <!-- Filter Bar -->
+      <div class="filter-bar">
+        <button class="filter-btn active" data-filter="pendentes">Pendentes</button>
+        <button class="filter-btn" data-filter="aprovados">Aprovados</button>
+        <button class="filter-btn" data-filter="todos">Todos</button>
+      </div>
+    </header>
+
+    <!-- Stats Bar -->
+    <div id="stats-bar" class="stats-bar"></div>
+
+    <!-- Article List -->
+    <main id="article-list" class="article-list"></main>
+
+    <!-- Loading Overlay -->
+    <div id="loading" class="loading hidden">
+      <div class="spinner"></div>
+      <p>Carregando artigos...</p>
+    </div>
+
+    <!-- Empty State -->
+    <div id="empty-state" class="empty-state hidden">
+      <div class="empty-icon">&#128218;</div>
+      <p id="empty-message">Nenhum artigo encontrado.</p>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
