@@ -12,8 +12,8 @@
       "query_terms": "rhinoplasty OR blepharoplasty OR rhytidectomy OR facelift OR otoplasty OR ear surgery"
     },
     "contorno-corporal": {
-      "ultima_varredura": null,
-      "varredura_zero_feita": false,
+      "ultima_varredura": "2026-04-01",
+      "varredura_zero_feita": true,
       "subtemas": [
         "abdominoplastia",
         "lipoescultura"
