@@ -49,7 +49,7 @@ const COLORS = {
   cover:  { bg: '1F3864' },
 };
 
-const AUTHOR  = 'Dr. Arthur King Ayres';
+const AUTHOR  = 'Dr. Arthur Balestra Silveira Ayres';
 const PROGRAM = 'Residência em Cirurgia Plástica – UNICAMP (R2, 2025–2028)';
 const CM_TO_EMU = 360000;
 
