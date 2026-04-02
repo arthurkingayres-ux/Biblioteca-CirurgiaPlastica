@@ -129,14 +129,6 @@ Abrir o `.docx` gerado e confirmar que:
 - A versão foi incrementada
 - O flashcard contém dados corretos
 
-### 10. Registrar progresso
-```bash
-python tools/log_progress.py \
-    --tema "<Área>" \
-    --atividade "Varredura: X artigos PRS/ASJ incorporados" \
-    --duracao <minutos>
-```
-
 ---
 
 ## Saída Esperada

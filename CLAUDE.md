@@ -29,7 +29,7 @@ Esta arquitetura separa raciocínio (IA) de execução (código determinístico)
 
 ### Camada 3 — Tools (A Execução)
 - Scripts em `tools/` que fazem o trabalho real
-- Python: buscas no PubMed, gestão do índice, registro de progresso, varredura semanal
+- Python: buscas no PubMed, gestão do índice, varredura semanal
 - Node.js: geração de documentos `.docx` formatados (`tools/create_docx.js`), geração de PWAs
 - Credenciais e chaves de API ficam em `.env` — **nunca em outro lugar**
 
@@ -98,10 +98,6 @@ Toda falha é uma oportunidade de fortalecer o sistema:
 │   │   ├── ritidoplastia/
 │   │   └── otoplastia/
 │   └── (demais áreas)
-│
-├── 03-Bancos-Questoes/
-├── 04-Briefings-Semanais/
-├── 05-Registro-Progresso/
 │
 ├── content/                        # Conteúdo dos documentos em JSON (fonte única de verdade)
 │   ├── schema.json                 # Schema JSON que define a estrutura dos documentos
@@ -251,6 +247,7 @@ Armazenados na íntegra em `00-Livros-Texto/`.
 | Acessos Cirúrgicos ao Esqueleto Facial | 2ª Ed. (Ellis & Zyde) | — |
 | Practical Facial Reconstruction: Theory and Practice | — | — |
 | The Cutaneous Arteries of the Human Body | — | — |
+| High Definition Body Sculpting | — | — |
 
 **Referência principal:** Neligan 5ª Ed. é a base preferencial para todo conteúdo. Os demais livros são consultados conforme pertinência temática do documento.
 
@@ -419,8 +416,6 @@ Todos os documentos em **português brasileiro**. Terminologia médica conforme 
 | `tools/varredura_semanal.py` | Python | Orquestra varredura: busca → dedup → triagem via API → commit resultados |
 | `tools/update_article_index.py` | Python | Adiciona/atualiza entradas no CSV |
 | `tools/mark_article_incorporated.py` | Python | Marca artigos como incorporados |
-| `tools/generate_briefing.py` | Python | Gera briefing semanal em Markdown |
-| `tools/log_progress.py` | Python | Registra sessões de estudo |
 | `tools/create_docx.js` | Node.js | Motor de renderização: lê `content/<area>/<tema>.json` e gera `.docx` |
 | `tools/incorporate_article.js` | Node.js | Incorpora artigo classificado ao JSON do tema e regenera `.docx` |
 | `tools/validate_content.js` | Node.js | Valida todos os `content/*.json` contra schema + checagens semânticas |
@@ -445,8 +440,6 @@ python tools/varredura_semanal.py --skip-triage            # pular triagem IA (f
 | `workflows/buscar_incorporar_artigos.md` | Descoberta: buscar artigos nos periódicos-alvo no PubMed e indexar metadados (sem PDF) |
 | `workflows/atualizar_documento_estudo.md` | Incorporar artigos já disponíveis (PDFs na `_inbox/`) a um documento |
 | `workflows/cirurgia_estetica_facial.md` | Fluxo completo para a área de estética facial |
-| `workflows/gerar_briefing_semanal.md` | Gerar relatório semanal de novos artigos |
-| `workflows/registrar_progresso.md` | Registrar sessão de estudo no diário |
 
 ---
 

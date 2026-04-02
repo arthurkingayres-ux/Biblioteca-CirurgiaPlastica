@@ -87,14 +87,6 @@ python tools/mark_article_incorporated.py \
   --documento "12-1-Rinoplastia.docx"
 ```
 
-### 6. Registrar progresso
-```bash
-python tools/log_progress.py \
-  --tema "Rinoplastia" \
-  --atividade "Incorporação de 2 artigos PRS (enxertos)" \
-  --duracao 45
-```
-
 ## Regras de Atualização do Documento (obrigatórias)
 - **NUNCA** apagar conteúdo existente no `create_docx.js`
 - **SEMPRE** adicionar citação inline no novo conteúdo
