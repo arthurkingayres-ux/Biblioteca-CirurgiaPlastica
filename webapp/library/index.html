@@ -18,6 +18,7 @@
     <button id="btn-back" class="nav-btn hidden" aria-label="Voltar">&#8592;</button>
     <h1 id="nav-title">Biblioteca CP</h1>
     <button id="btn-preop" class="nav-btn" aria-label="Pre-Op">&#9879;</button>
+    <button id="btn-test" class="nav-btn" aria-label="Teste">&#9889;</button>
   </nav>
 
   <!-- Search screen (default) -->
@@ -41,9 +42,37 @@
     <div id="preop-briefing"></div>
   </div>
 
+  <!-- Test screen -->
+  <div id="screen-test" class="screen hidden">
+    <!-- Sub-view 1: Topic selection -->
+    <div id="test-view-topics">
+      <h2 class="browser-title">Teste de Conhecimento</h2>
+      <div id="test-topic-list"></div>
+    </div>
+
+    <!-- Sub-view 2: Question + Answer -->
+    <div id="test-view-question" class="hidden">
+      <div id="test-progress-bar"><div id="test-progress-fill"></div></div>
+      <div id="test-domain-badge" class="test-domain-badge"></div>
+      <div id="test-question-text" class="test-question"></div>
+      <button id="btn-show-answer" class="btn-primary">Ver Resposta</button>
+      <div id="test-view-answer" class="hidden">
+        <div id="test-answer-text" class="test-answer"></div>
+        <div class="test-rating-buttons">
+          <button id="btn-errei" class="btn-errei">&#10007; Errei</button>
+          <button id="btn-acertei" class="btn-acertei">&#10003; Acertei</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Sub-view 3: Results -->
+    <div id="test-view-results" class="hidden"></div>
+  </div>
+
   <script src="search.js"></script>
   <script src="renderer.js"></script>
   <script src="preop.js"></script>
+  <script src="test.js"></script>
   <script src="app.js"></script>
 </body>
 </html>
