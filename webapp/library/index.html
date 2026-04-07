@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#1a1a2e">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="Biblioteca CP">
+  <title>Biblioteca CP — Consulta Cirurgica</title>
+  <link rel="manifest" href="manifest.json">
+  <link rel="apple-touch-icon" href="icons/icon-192.svg">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- Navigation bar -->
+  <nav id="navbar">
+    <button id="btn-back" class="nav-btn hidden" aria-label="Voltar">&#8592;</button>
+    <h1 id="nav-title">Biblioteca CP</h1>
+    <button id="btn-preop" class="nav-btn" aria-label="Pre-Op">&#9879;</button>
+  </nav>
+
+  <!-- Search screen (default) -->
+  <div id="screen-search" class="screen">
+    <div class="search-container">
+      <input type="search" id="search-input" placeholder="Buscar fichas..." autocomplete="off">
+    </div>
+    <div id="search-results"></div>
+    <div id="topic-browser"></div>
+  </div>
+
+  <!-- Card detail screen -->
+  <div id="screen-card" class="screen hidden"></div>
+
+  <!-- Pre-op briefing screen -->
+  <div id="screen-preop" class="screen hidden">
+    <div class="preop-input-container">
+      <input type="search" id="preop-input" placeholder="Qual procedimento?" autocomplete="off">
+    </div>
+    <div id="preop-results"></div>
+    <div id="preop-briefing"></div>
+  </div>
+
+  <script src="search.js"></script>
+  <script src="renderer.js"></script>
+  <script src="preop.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
