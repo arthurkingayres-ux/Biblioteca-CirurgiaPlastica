@@ -2,651 +2,665 @@
   "topic": "rinoplastia",
   "area": "estetica-facial",
   "generated": "2026-04-07",
-  "total": 159,
+  "total": 161,
   "questions": [
+    {
+      "id": "q-rino-anat-001-1",
+      "card_id": "rino-anat-001",
+      "domain": "anatomia",
+      "question": "Descreva as três abóbadas nasais, suas composições estruturais e como sua relação determina a estética nasal.",
+      "expected": "A abóbada superior é óssea, estendendo-se do radix até aproximadamente a junção osseocartilaginosa. A abóbada média é cartilaginosa (CLS - cartilagem lateral superior), representando a zona de transição. A abóbada inferior é cartilaginosa (CLA - cartilagem lateral alar), formando a ponta e asas nasais. A harmonia entre essas três estruturas define a forma nasal; desproporções em qualquer abóbada resultam em deformidades estéticas e podem comprometer a função respiratória. O cirurgião deve avaliar cada componente individualmente e suas relações interdependentes para planejar intervenções precisas."
+    },
+    {
+      "id": "q-rino-anat-001-2",
+      "card_id": "rino-anat-001",
+      "domain": "anatomia",
+      "question": "Como você identificaria clinicamente o radix e os tip-defining points durante o exame pré-operatório de um paciente candidato a rinoplastia? Qual a importância dessa identificação para o planejamento cirúrgico?",
+      "expected": "O radix é identificado por palpação como o ponto mais profundo da transição nasofrontal, geralmente localizado ao nível da linha medial dos olhos. Os tip-defining points são identificados por inspeção como os pontos de máxima reflexão de luz na ponta nasal, correspondendo aos domos cartilaginosos mediais, e representam os pontos de projeção máxima. A identificação precisa dessas landmarks é crítica para: estabelecer comunicação padronizada com a equipe, determinar o comprimento e projeção nasais desejados, identificar assimetrias preexistentes e evitar ressecções excessivas que comprometam o suporte estrutural e a estética final."
+    },
     {
       "id": "q-rino-anat-002-1",
       "card_id": "rino-anat-002",
       "domain": "anatomia",
-      "question": "Durante uma rinoplastia de ponta nasal, você identifica pele espessa e sebácea na região. Qual é o impacto direto dessa característica no resultado cirúrgico e na estratégia de dissecção?",
-      "expected": "Pele espessa limita o grau de definição e refinamento alcançável, pois mascara as sutilezas do arcabouço subjacente. Prolonga significativamente o edema pós-operatório, podendo levar 12-18 meses para resolução completa. Na estratégia de dissecção, deve-se evitar defatting agressivo e dissecção subdérmica excessiva na ponta, pois essas manobras comprometem o delicado plexo subdérmico, resultando em risco real de necrose cutânea."
+      "question": "Durante o planejamento pré-operatório de uma rinoplastia, você identifica pele espessa e sebácea sobre a ponta nasal. Explique como essa característica do envelope de partes moles influencia suas expectativas de resultado cirúrgico e o manejo pós-operatório.",
+      "expected": "Pele espessa sobre a ponta nasal limita o grau de definição e refinamento possíveis, pois mascara sutilezas do arcabouço subjacente. O edema pós-operatório é prolongado em pacientes com pele sebácea espessa, podendo levar 12-18 meses para resolução completa. Recomenda-se evitar defatting agressivo nessa região para não prejudicar o delicado plexo subdérmico, prevenindo necrose cutânea. Deve-se estabelecer expectativas realistas sobre o nível de refinamento final da ponta."
     },
     {
       "id": "q-rino-anat-002-2",
       "card_id": "rino-anat-002",
       "domain": "anatomia",
-      "question": "Como você diferenciaria clinicamente a espessura da pele ao longo do nariz durante o exame pré-operatório, e qual seria sua abordagem tática em um paciente com pele fina sobre o dorso?",
-      "expected": "Utilize inspeção e palpação: pele fina e translúcida com bom drape sobre o dorso versus pele espessa, sebácea, com poros dilatados e pouca mobilidade sobre a ponta. Em pele fina do dorso, qualquer irregularidade do arcabouço (Step-off, irregularidade óssea) será visível, exigindo técnica refinada de redução dorsal e evitando sobre-ressecção. A dissecção deve ser precisa e controlada, priorizando simetria e suavidade das transições."
+      "question": "Qual é o risco anatômico específico ao realizar dissecção subdérmica excessiva e defatting da ponta nasal, e como a variação na espessura de pele entre o dorso e a ponta nasal influencia essa técnica?",
+      "expected": "O defatting subdérmico excessivo da ponta coloca em risco o plexo vascular subdérmico delicado, podendo resultar em necrose cutânea e cicatrização desfavorável. O dorso nasal possui pele mais fina e móvel, tolerando melhor dissecção cuidadosa, enquanto a ponta tem pele espessa e menos móvel com suprimento vascular mais crítico. A dissecção deve ser superficial e conservadora sobre a ponta, respeitando a vascularização subdérmica, em contraste com abordagens mais liberais possíveis no dorso mais resistente."
     },
     {
       "id": "q-rino-anat-003-1",
       "card_id": "rino-anat-003",
       "domain": "anatomia",
-      "question": "Durante uma rinoplastia de redução, você realiza osteotomia lateral. Explique por que a zona ao longo do processo frontal da maxila (do orifício piriforme ao radix) é mais adequada para esta osteotomia e qual característica anatômica permite padrões de fratura previsíveis nesta região.",
-      "expected": "O processo frontal da maxila apresenta espessura óssea diminuída ao longo dessa zona específica, desde o orifício piriforme até o radix, o que permite osteotomias com traçado consistente e padrões de fratura previsíveis. Esta região oferece menor resistência óssea comparada à raiz nasal, facilitando o controle da osteotomia e reduzindo o risco de fraturas inesperadas ou traçados irregulares durante a cirurgia."
+      "question": "Descreva as variações de espessura óssea na pirâmide nasal superior e explique como essas variações influenciam a técnica de osteotomia e raspa durante uma rinoplastia.",
+      "expected": "Os ossos nasais são mais espessos na raiz (junção com o osso frontal) e progressivamente mais finos lateralmente na transição para o processo frontal da maxila. Essa redução de espessura ao longo do processo frontal da maxila — da raiz até o orifício piriforme — permite osteotomias consistentes e padrões de fratura previsíveis. Clinicamente, a raspa é menos eficaz na região cranial (raiz) devido à maior espessura óssea, enquanto lateralmente a raspa atua de forma mais controlada. Compreender essa anatomia previne fraturas não planejadas e melhora a previsibilidade dos resultados."
     },
     {
       "id": "q-rino-anat-003-2",
       "card_id": "rino-anat-003",
       "domain": "anatomia",
-      "question": "Ao palpar o terço superior nasal de um paciente candidato a rinoplastia, como você diferencia clinicamente os ossos nasais do processo frontal da maxila? Qual implicação esta diferenciação anatômica tem para o planejamento cirúrgico com raspadores?",
-      "expected": "Os ossos nasais são palpáveis como estrutura rígida e firme na linha média, enquanto o processo frontal da maxila, localizado lateralmente, é menos rígido. Na transição, a cartilagem é identificável por mobilidade e flexibilidade aumentadas. Esta diferenciação é relevante cirurgicamente porque os ossos nasais são mais espessos na raiz (radix), tornando a raspa menos eficaz nesta região cranial, portanto a raspagem deve ser direcionada preferencialmente para as regiões laterais com menor espessura óssea para melhor resultado e controle."
+      "question": "Como você identificaria clinicamente a transição entre o terço superior ósseo e o terço médio cartilaginoso do nariz durante o exame pré-operatório e qual a importância dessa identificação?",
+      "expected": "A transição é identificada pela palpação bidigital, observando que os ossos nasais e o processo frontal da maxila apresentam estrutura rígida e imóvel na linha média e lateralmente (terço superior), enquanto as cartilagens laterais superiores demonstram mobilidade e flexibilidade. A importância dessa identificação reside na definição precisa do local de osteotomia durante a rhinoplastia: saber onde termina o osso permite planejar corretamente o acesso, evitar ressecção inadequada, e reconhecer a zona ideal para osteotomias medianas e laterais que respeitam a anatomia vascular e estrutural do vault nasal."
     },
     {
       "id": "q-rino-anat-004-1",
       "card_id": "rino-anat-004",
       "domain": "anatomia",
-      "question": "Durante uma rinoplastia de redução dorsal, você remove 4 mm de altura do septo nasal. Qual deve ser sua estratégia de ressecção das cartilagens laterais superiores (CLS) e por quê?",
-      "expected": "A ressecção das CLS deve ser simétrica e equivalente à do septo (aproximadamente 4 mm), mantendo a arquitetura em 'I-beam' e evitando desproporcionalidade. Ressecção desigual — maior das CLS que do septo — causa deformidade em V invertido; ressecção excessiva apenas do septo causa arredondamento indesejado do dorso. A preservação equilibrada da estrutura em T confere estabilidade ao terço médio e previne colapso valvar."
+      "question": "Durante uma rinoplastia, você realiza redução dorsal septal e observa que removeu quantidade igual de septo e cartilagens laterais superiores (CLS). Qual deformidade dorsal resultará desta ressecção simétrica e por quê?",
+      "expected": "Resultará em arredondamento do dorso nasal. Isso ocorre porque as CLS, que formam a estrutura em 'I-beam' responsável pela manutenção da definição dorsal, foram removidas proporcionalmente ao septo. A perda desta estrutura de suporte cartilaginoso causa perda da angulação dorsal e ausência de continuidade visual entre o keystone e a ponta nasal, resultando em dorso arredondado e sem definição."
     },
     {
       "id": "q-rino-anat-004-2",
       "card_id": "rino-anat-004",
       "domain": "anatomia",
-      "question": "Um paciente apresenta colapso valvar nasal após rinoplastia prévia com ressecção septal dorsal extensiva. Como a anatomia normal das CLS explica esta complicação e qual técnica reconstrutiva é indicada?",
-      "expected": "As CLS normalmente formam uma estrutura em 'I-beam' junto ao septo, conferindo estabilidade e prevenindo colapso das vias aéreas. A ressecção excessiva do septo elimina este suporte lateral, permitindo colapso durante inspiração. O spreader graft é a técnica de escolha: reposicionado entre o septo e a CLS, reconstitui a relação anatômica em 'I-beam', restaura a patência valvar e a estabilidade do terço médio nasal."
+      "question": "Explique como a anatomia das cartilagens laterais superiores previne o colapso valvar nasal e qual é a estrutura crítica que deve ser preservada ou reconstituída durante cirurgia.",
+      "expected": "As CLS formam uma estrutura em 'T' ou 'I-beam' com o septo nasal, sendo a relação entre essas estruturas o que confere estabilidade ao terço médio e previne colapso das vias aéreas. A área crítica é o keystone (zona de sobreposição de 4–5 mm entre CLS e ossos nasais) e a continuidade da estrutura de suporte dorsal. Se houver ressecção excessiva ou colapso das CLS, deve-se utilizar spreader grafts para reconstituir o 'I-beam' e restaurar a patência aérea, evitando obstrução valvar iatrogênica."
     },
     {
       "id": "q-rino-anat-005-1",
       "card_id": "rino-anat-005",
       "domain": "anatomia",
-      "question": "Qual é a extensão em milímetros da área do keystone e por que sua preservação é fundamental na rinoplastia de preservação dorsal?",
-      "expected": "A área do keystone apresenta extensão de 4–5 mm e representa a zona de sobreposição entre os ossos nasais e as cartilagens laterais superiores (CLS). Sua preservação é fundamental porque mantém a integridade biomecânica do terço médio nasal, evitando complicações como o 'teto aberto' (open roof) e eliminando a necessidade de osteotomias tradicionais para restaurar a estabilidade estrutural após redução dorsal."
+      "question": "Descreva a localização anatômica da área do keystone e explique por que sua preservação é crítica na rinoplastia de preservação dorsal.",
+      "expected": "A área do keystone é localizada na junção entre o terço superior (ósseo) e o terço médio (cartilaginoso) nasal, representando a zona de sobreposição de 4-5 mm entre os ossos nasais e as cruras laterais superiores. Sua preservação é fundamental porque garante a estabilidade biomecânica do terço médio nasal. Manter a relação intrínseca do keystone evita complicações como o 'teto aberto' e elimina a necessidade de osteotomias tradicionais, sendo o princípio central da técnica de preservação dorsal."
     },
     {
       "id": "q-rino-anat-005-2",
       "card_id": "rino-anat-005",
       "domain": "anatomia",
-      "question": "Descreva como o cirurgião identifica o keystone durante a rinoplastia aberta e qual é o plano de dissecção correto em relação a essa estrutura.",
-      "expected": "O keystone é identificado pela palpação do ponto mais largo do dorso nasal, onde há transição entre a rigidez óssea e a flexibilidade cartilaginosa. Sob visualização direta na via aberta, aparece como a zona de sobreposição onde os ossos nasais cobrem as CLS. O plano de dissecção correto passa justamente acima do keystone para elevar o envelope de partes moles, preservando a junção intrínseca entre as estruturas ósseas e cartilaginosas e mantendo a estabilidade do terço médio nasal."
+      "question": "Como o cirurgião identifica intraoperatoriamente a área do keystone durante uma abordagem aberta, e qual é o plano de dissecção correto em relação a essa estrutura?",
+      "expected": "O keystone é identificado visualmente como a zona de sobreposição onde os ossos nasais cobrem as cruras laterais superiores, representando o ponto mais largo do dorso nasal. À palpação, corresponde ao ponto onde a rigidez óssea transiciona para a flexibilidade cartilaginosa. Na técnica aberta convencional, a dissecção passa justamente acima do keystone para elevar o envelope de partes moles, preservando sua integridade e evitando instabilidade dorsal ou a necessidade de osteotomias."
     },
     {
       "id": "q-rino-anat-006-1",
       "card_id": "rino-anat-006",
       "domain": "anatomia",
-      "question": "Durante uma rinoplastia, você identifica uma angulação das cartilagens alares direcionada medialmente (em direção ao canto medial do olho) em vez da angulação normal. Qual é a deformidade resultante e qual estrutura cartilaginosa está alterada?",
-      "expected": "A deformidade resultante é a 'parentheses deformity' (deformidade de parênteses). A angulação anormal ocorre nas cruras laterais das cartilagens alares, que normalmente devem seguir uma trajetória oblíqua direcionada ao canto lateral do olho. Quando desviam medialmente, criam sulcos profundos e assimétricos ao redor da boca, lembrando parênteses."
+      "question": "Durante uma rinoplastia de ponta nasal, você palpa os domos e identifica uma angulação das cruras laterais direcionada para o canto medial do olho em vez do canto lateral. Qual é o nome dessa deformidade e qual estrutura cartilaginosa está comprometida?",
+      "expected": "A deformidade denomina-se 'parentheses deformity' (deformidade de parênteses). Está comprometida a angulação normal das cartilagens alares (crura lateral), que normalmente devem convergir em direção oblíqua ao canto lateral do olho. Quando as cruras laterais angulam-se cefalicamente (em direção ao canto medial), criam uma aparência de parênteses na base nasal. Essa angulação incorreta compromete a estética da ponta e pode estar associada a colapso da valva nasal externa."
     },
     {
       "id": "q-rino-anat-006-2",
       "card_id": "rino-anat-006",
       "domain": "anatomia",
-      "question": "Ao palpar a ponta nasal durante o exame físico pré-operatório, como você diferencia os 'tip-defining points' de outras estruturas cartilaginosas do terço inferior nasal e qual é sua importância cirúrgica?",
-      "expected": "Os 'tip-defining points' correspondem ao ápice dos domos da ponta nasal e estão localizados nas cruras médias das cartilagens alares. À palpação, são identificados como duas protuberâncias palpáveis na ponta nasal. Sua importância cirúrgica é fundamental, pois definem a projeção, simetria e angulação columelo-lobular da ponta; qualquer modificação dessa região altera significativamente a estética nasal e o equilíbrio entre as estruturas de suporte."
+      "question": "Explique o trajeto anatômico das três porções das cartilagens alares e qual delas é responsável pela definição dos 'tip-defining points'. Como essa característica influencia a técnica cirúrgica de sutura de domos?",
+      "expected": "As cartilagens alares possuem três segmentos: (1) crura medial, que forma a columela; (2) crura média (middle crus), que define os 'tip-defining points' e o ângulo columelo-lobular; e (3) crura lateral, que segue trajeto oblíquo em direção ao osso maxilar e determina a forma do rim alar. A crura média é responsável pelos tip-defining points. Cirurgicamente, a sutura de domos (interdomal suture) atua sobre a crura média, aproximando os domos para aumentar a projeção e definição de ponta, e essa sutura deve respeitar a angulação natural das cruras para evitar a parentheses deformity."
     },
     {
       "id": "q-rino-anat-007-1",
       "card_id": "rino-anat-007",
       "domain": "anatomia",
-      "question": "Durante uma rinoplastia aberta, você identifica cicatrização na scroll area que resultou em estreitamento da valva interna. Descreva a anatomia dessa região e explique por que essa complicação ocorre quando há lesão do scroll.",
-      "expected": "A scroll area é a zona de sobreposição entre as bordas caudais das cartilagens laterais superiores (CLS) e as bordas cefálicas das cartilagens laterais anteriores (CLA), localizada na região paramarginal na transição entre os terços médio e inferior do nariz. O scroll fornece suporte estrutural crítico nessa transição. Quando há cicatrização ou lesão nessa região, o colapso dinâmico da valva interna pode ocorrer durante inspiração, pois a integridade cartilaginosa é comprometida, reduzindo o suporte lateral que mantém a permeabilidade das vias aéreas superiores."
+      "question": "Durante uma rinoplastia aberta, você identifica cicatrização na scroll area. Qual é a complicação mais provável dessa lesão e qual estrutura anatômica é particularmente vulnerável?",
+      "expected": "A cicatrização na scroll area pode causar estreitamento ou colapso da valva interna. A estrutura vulnerável é a transição entre os terços médio e inferior do nariz, onde ocorre a sobreposição entre as bordas caudais das cartilagens laterais superiores (CLS) e as bordas cefálicas das cartilagens laterais anteriores (CLA). Essa região fornece suporte crítico para manter a permeabilidade nasal, e a cicatrização contráctil compromete essa função de sustentação."
     },
     {
       "id": "q-rino-anat-007-2",
       "card_id": "rino-anat-007",
       "domain": "anatomia",
-      "question": "Na abordagem aberta de rinoplastia, qual é a importância de visualizar e preservar adequadamente a scroll area durante a dissecção e o reposicionamento cartilaginoso, e quais manobras técnicas ajudam a evitar lesão dessa estrutura?",
-      "expected": "A visualização direta do scroll na via aberta permite identificar com precisão essa zona de transição crítica. Para preservar o scroll, deve-se: (1) realizar dissecção controlada evitando trauma excessivo à zona paramarginal; (2) manter a continuidade cartilaginosa entre CLS e CLA; (3) ao fazer enxertos ou sutures, respeitá-lo anatomicamente; (4) evitar cicatrização secundária nessa região por técnica cuidadosa de hemostasia. Lesões nessa área comprometem o suporte da transição entre terços médio e inferior, predispondo ao colapso da valva interna e obstrução nasal pós-operatória."
+      "question": "Como você identificaria a scroll area na abordagem aberta de rinoplastia e qual é a importância dessa zona de transição para o resultado funcional?",
+      "expected": "A scroll area é identificada pela visualização direta da zona paramarginal onde a cartilagem lateral superior se sobrepõe à borda cefálica da crura lateral. Essa sobreposição cartilaginosa é importante porque fornece suporte adicional na transição entre os terços médio e inferior do nariz, mantendo a integridade estrutural e a função respiratória. Preservar essa zona é fundamental para prevenir colapso da valva interna e garantir resultado funcional satisfatório pós-operatório."
     },
     {
       "id": "q-rino-anat-008-1",
       "card_id": "rino-anat-008",
       "domain": "anatomia",
-      "question": "Durante uma septorrinoplastia, você planeja coletar enxerto de cartilagem septal. Qual é a largura mínima do 'L-strut' que deve ser preservado e qual o valor ideal em casos de cartilagem fraca?",
-      "expected": "O 'L-strut' deve ter no mínimo 10 mm de largura, sendo idealmente ≥ 15 mm em casos de cartilagem fraca ou comprometida. Esta faixa de cartilagem dorsal e caudal é essencial para manutenção do suporte estrutural nasal e prevenção de deformidades pós-operatórias como saddle nose deformity."
+      "question": "Ao coletar enxerto de cartilagem septal para reconstrução nasal, qual é a largura mínima do L-strut que deve ser preservado e por que essa estrutura é crítica para o resultado cirúrgico?",
+      "expected": "O L-strut deve ter no mínimo 10 mm de largura (idealmente ≥ 15 mm em cartilagem fraca) e representa a faixa de cartilagem dorsal e caudal que mantém o suporte estrutural do nariz. Sua preservação é crítica para evitar complicações como colapso da dorsal nasal, deformidade da ponta e comprometimento funcional da via aérea pós-operatória."
     },
     {
       "id": "q-rino-anat-008-2",
       "card_id": "rino-anat-008",
       "domain": "anatomia",
-      "question": "Descreva a relação anatômica entre a cartilagem septal e a crista maxilar, sua nomenclatura e a importância de identificar o ângulo septal anterior durante dissecção cirúrgica.",
-      "expected": "A cartilagem septal articula-se anteriormente e caudalmente com a crista maxilar em uma relação 'tongue-and-groove', onde a cartilagem se encaixa na crista. A junção entre o septo anterior e a borda caudal define o ângulo septal anterior, estrutura crítica para preservação da projeção nasal e estabilidade da ponta do nariz durante manobras cirúrgicas de reposicionamento septal."
+      "question": "Durante dissecção septal para acesso a enxerto cartilaginoso, qual técnica de dissecção minimiza sangramento e qual estrutura anatômica representa o sítio mais comum de epistaxe?",
+      "expected": "A dissecção no plano subpericondrial minimiza sangramento ao preservar a mucosa altamente vascularizada que recobre o pericôndrio septal. A área de Kiesselbach, localizada no septo anterior, é a região de maior densidade vascular e representa o local mais provável de epistaxe durante procedimentos septais, exigindo atenção especial durante a dissecção."
     },
     {
       "id": "q-rino-anat-009-1",
       "card_id": "rino-anat-009",
       "domain": "anatomia",
-      "question": "Durante uma rinoplastia aberta, após elevação do envelope de partes moles, você identifica uma estrutura fibrovascular entre os domos das cruras laterais. Qual é a função primária dessa estrutura e qual complicação surge se houver sua ruptura inadvertida durante a dissecção?",
-      "expected": "Trata-se do ligamento inter-alar (ligamento de Pitanguy), localizado na fáscia superficial entre os domos das cruras laterais. Sua função primária é estabilizar as cartilagens laterais ao nível da junção crura medial-crura média, mantendo a definição e estreiteza da ponta nasal. Se houver ruptura, ocorre alargamento e distorção da ponta nasal, necessitando reconstrução com suturas interdomais para restaurar a estabilidade e simetria."
+      "question": "Durante uma rinoplastia aberta, após elevação do envelope de partes moles, você identifica uma estrutura fibrosa conectando os domos das cruras laterais. Qual é a função biomecânica desta estrutura e qual complicação ocorre se ela for lesionada ou não for adequadamente reparada?",
+      "expected": "Trata-se do ligamento inter-alar (ligamento de Pitanguy), localizado na fáscia superficial entre os domos das cruras laterais. Sua função é estabilizar as cruras laterais ao nível da junção crura medial-crura média, mantendo a definição e o suporte da ponta nasal. Se lesionado ou não reparado adequadamente, causa alargamento e distorção da ponta nasal, razão pela qual suturas interdomais são essenciais após rinoplastia aberta para restaurar a estabilidade estrutural."
     },
     {
       "id": "q-rino-anat-009-2",
       "card_id": "rino-anat-009",
       "domain": "anatomia",
-      "question": "Explique o conceito do ligamento piriforme na anatomia nasal e sua implicação para o funcionamento integrado das cartilagens nasais durante abordagens cirúrgicas.",
-      "expected": "O ligamento piriforme é uma membrana fibrosa que encapsula as cartilagens nasais (cartilagens laterais, cartilagem do septo e cruras), funcionando como um envoltório que une essas estruturas e permite que funcionem como uma unidade anatômica e biomecânica única. Cirurgicamente, isso significa que qualquer manipulação de uma cartilagem influencia a dinâmica das demais, tornando crítico preservar a integridade dessa membrana ou reconstruir adequadamente o suporte após intervenções para evitar deformidades secundárias."
+      "question": "Explique como o ligamento piriforme diferencia-se funcionalmente dos demais ligamentos nasais e qual é sua importância para o planejamento de manobras cirúrgicas nas cartilagens nasais.",
+      "expected": "O ligamento piriforme é uma membrana fibrosa que encapsula as cartilagens nasais, permitindo que funcionem como uma unidade integrada, diferentemente dos ligamentos interdomais e inter-alares que conectam estruturas específicas. Sua importância cirúrgica reside no fato de que ao manipular, dissecar ou ressecar cartilagens nasais, o cirurgião deve reconhecer que estas estruturas estão contidas numa matriz fibrosa que influencia sua resposta biomecânica e sua recuperação pós-operatória, afetando decisões sobre suturas, fixação e estratégia de suporte."
     },
     {
       "id": "q-rino-anat-010-1",
       "card_id": "rino-anat-010",
       "domain": "anatomia",
-      "question": "Durante uma rinoplastia aberta, você realiza a dissecção da ponta nasal e secciona a artéria columelar. Por que esse procedimento é considerado seguro apesar da interrupção vascular, e qual é o plano de dissecção correto para preservar o suprimento sanguíneo residual?",
-      "expected": "A artéria columelar é seccionada durante a via aberta, mas o procedimento permanece seguro devido à extensa colateralização vascular do nariz. O plano de dissecção correto é supraperichondrial sobre as cartilagens e subperiosteal sobre os ossos nasais, mantendo os vasos maiores que se localizam acima da musculatura e da fáscia, diretamente abaixo da derme. O delicado plexo subdérmico também deve ser preservado, evitando dissecção excessiva neste nível."
+      "question": "Durante uma rinoplastia aberta, você realiza a dissecção da ponta nasal e identifica a artéria columelar. Por que essa artéria pode ser seccionada com segurança durante esse acesso, e qual estrutura anatômica é responsável por proteger a viabilidade da ponta nasal?",
+      "expected": "A artéria columelar pode ser seccionada com segurança porque o nariz possui extenso suprimento sanguíneo colateral. A proteção da viabilidade da ponta nasal ocorre graças à anastomose rica entre as artérias supratroclear (carótida interna) que forma as artérias nasal lateral e angular, e a artéria facial (carótida externa) que ascende para conectar-se com a artéria angular. Adicionalmente, as artérias filtrais e columelares ascendentes (ramos da artéria labial superior) fornecem colateralização suficiente para manter a perfusão tecidual mesmo após secção da artéria columelar principal."
     },
     {
       "id": "q-rino-anat-010-2",
       "card_id": "rino-anat-010",
       "domain": "anatomia",
-      "question": "Qual artéria entra em risco durante o descolamento lateral amplo da pele nasal e como o posicionamento adequado das incisões de base alar previne complicações vasculares?",
-      "expected": "A artéria nasal lateral é o vaso em risco durante descolamento lateral amplo. As incisões de base alar devem ser posicionadas inferiormente ao sulco alar para preservar as artérias nasais laterais, evitando dissecção agressiva nesta região. As artérias nasal lateral, nasal externa descendente e angular originam-se da artéria supratroclear (carótida interna) e seu comprometimento pode levar a necrose de ponta, ressaltando a importância da técnica precisa de dissecção."
+      "question": "Qual é o plano anatômico correto de dissecção para preservar o suprimento vascular nasal durante rinoplastia, e que complicação vascular pode ocorrer se a dissecção for realizada incorretamente no plano subdérmico?",
+      "expected": "O plano correto de dissecção é supraperichondrial sobre as cartilagens nasais e subperiosteal sobre os ossos nasais, mantendo a dissecção acima da musculatura e fáscia nasal. Todas as artérias nasais maiores situam-se diretamente abaixo da derme nessa camada. Se a dissecção for realizada no plano subdérmico, há risco de lesão do delicado plexo vascular subdérmico, comprometendo a microcirculação e podendo resultar em necrose isquêmica da pele. Além disso, dissecção lateral ampla coloca em risco específico a artéria nasal lateral, podendo levar a hematoma e comprometimento vascular da ala nasal."
     },
     {
       "id": "q-rino-anat-011-1",
       "card_id": "rino-anat-011",
       "domain": "anatomia",
-      "question": "Durante uma rinoplastia, você deseja anestesiar a ponta nasal com infiltração local. Em quais dois pontos anatômicos específicos você deve infiltrar o anestésico e por quais nervos essas regiões são inervadas?",
-      "expected": "Os dois pontos ideais são: (1) base alar bilateralmente, onde convergem os ramos do nervo infraorbital (V2), que emerge pelo forame infraorbital situado aproximadamente 10–12 mm abaixo do rebordo orbitário na linha médio-pupilar; e (2) dorso nasal sobre o forame do nervo nasal externo (ramo do V1 etmoidal anterior), localizado aproximadamente 6–10 mm lateral à linha média no dorso nasal. Esta dupla infiltração resulta em anestesia quase completa da pele nasal para o procedimento."
+      "question": "Durante uma rinoplastia, você planeja realizar anestesia local infiltrada para bloqueio da sensibilidade nasal. Descreva a localização precisa dos dois principais pontos de infiltração e as estruturas nervosas responsáveis pela inervação da pele nasal.",
+      "expected": "Os dois pontos principais são: (1) Base alar (confluência de ramos do nervo infraorbital - V2), onde o forame infraorbital localiza-se aproximadamente 10-12 mm abaixo do rebordo orbitário na linha médio-pupilar, emitindo ramos que inervam a base alar e parede nasal lateral; (2) Dorso nasal sobre o forame do nasal externo (ramo do etmoidal anterior - V1), localizado 6-10 mm lateral à linha média na porção média do osso nasal. A infiltração nesses dois pontos resulta em anestesia quase completa da pele nasal."
     },
     {
       "id": "q-rino-anat-011-2",
       "card_id": "rino-anat-011",
       "domain": "anatomia",
-      "question": "Qual é a relevância cirúrgica da anatomia de inervação nasal para o planejamento de bloqueios anestésicos em cirurgia nasal, e por que a base alar é considerada um ponto crítico?",
-      "expected": "A base alar apresenta uma confluência densa de ramos sensitivos do nervo infraorbital (V2), o que a torna um ponto anatômico crítico e ideal para infiltração anestésica local. Compreender essa concentração de ramos nervosos permite ao cirurgião efetuar anestesia eficaz e economia de volume de anestésico, evitando necessidade de bloqueios adicionais ou intravasculares. Essa estratégia baseada na anatomia reduz a morbidade associada a anestesia inadequada ou excessiva durante procedimentos de ponta nasal."
+      "question": "Por que a base alar é considerada o ponto ideal para iniciar a infiltração anestésica em cirurgias nasais, e qual é a consequência clínica dessa densidade inervacional se o bloqueio não for realizado adequadamente?",
+      "expected": "A base alar apresenta confluência particularmente densa de ramos sensitivos do nervo infraorbital (V2), tornando-a o ponto estratégico e mais eficiente para anestesia da ponta nasal com menor volume de anestésico. Se o bloqueio nesse ponto não for realizado adequadamente, há risco de sensibilidade residual na ponta e base alar durante o procedimento, comprometendo o conforto do paciente e a qualidade da anestesia, podendo necessitar complementação com infiltrações adicionais."
     },
     {
       "id": "q-rino-anat-012-1",
       "card_id": "rino-anat-012",
       "domain": "anatomia",
-      "question": "Durante uma rinoplastia, você identifica que o paciente apresenta descida da ponta nasal ao sorrir e vinco transverso no filtro. Qual estrutura muscular está envolvida nesta apresentação e qual é o procedimento cirúrgico indicado para corrigir este achado?",
-      "expected": "O depressor septi nasi é a estrutura responsável. Este músculo origina-se no septo caudal e insere-se no orbicular do lábio superior; seu espasmo causa descida da ponta, encurtamento do lábio superior e vinco transverso característico no filtro. O procedimento indicado é a liberação do depressor septi nasi tipo I ou II, dependendo da severidade, para restaurar a posição estática e dinâmica da ponta durante a animação."
+      "question": "Durante uma rinoplastia, você identifica que o paciente apresenta descida da ponta nasal ao sorrir e vinco transverso no filtro. Qual músculo está envolvido nesta alteração e qual é o procedimento cirúrgico indicado para corrigi-la?",
+      "expected": "O depressor septi nasi é o músculo responsável. Este músculo origina-se no septo caudal e insere-se no orbicular do lábio superior; sua contração excessiva (tipos I e II) causa descida da ponta com animação. O procedimento indicado é a liberação do depressor septi nasi, seccionando suas fibras na região de origem septal ou na inserção labial, para restaurar a estabilidade da ponta durante a expressão facial."
     },
     {
       "id": "q-rino-anat-012-2",
       "card_id": "rino-anat-012",
       "domain": "anatomia",
-      "question": "Um paciente com paralisia facial (VII par craniano) apresenta queixa de obstrução nasal progressiva. Qual músculo nasal perde sua função e qual é o impacto quantificado na resistência das vias aéreas nasais?",
-      "expected": "O levator alae (dilatador das narinas / pars alaris) perde sua função, resultando em colapso da valva externa. A paralisia facial causa perda de tonicidade deste músculo com aumento de até 20% na resistência das vias aéreas nasais, comprometendo significativamente o fluxo aéreo durante a inspiração, especialmente em esforço."
+      "question": "Um paciente com paralisia do nervo facial apresenta colapso da valva externa nasal. Qual músculo intrínseco está deficitário, qual é o aumento percentual esperado na resistência ao fluxo aéreo, e por que ocorre esta complicação?",
+      "expected": "O músculo levator alae (dilatador das narinas / pars alaris) está deficitário devido à inervação pelo VII par craniano. A paralisia resulta em perda da tonicidade deste músculo, causando colapso da valva externa com aumento de até 20% na resistência ao fluxo aéreo. Isto ocorre porque o levator alae normalmente dilata a ala nasal e mantém a área da valva externa, sendo essencial para a mecânica respiratória."
     },
     {
       "id": "q-rino-anat-013-1",
       "card_id": "rino-anat-013",
       "domain": "anatomia",
-      "question": "Durante a avaliação pré-operatória de um paciente com obstrução nasal, você observa hipertrofia do corneto inferior direito contralateral a um desvio septal à esquerda. Explique por que ocorre essa hipertrofia compensatória e qual é a contribuição percentual do corneto inferior na resistência total das vias aéreas?",
-      "expected": "A hipertrofia do corneto inferior contralateral ao desvio septal ocorre como mecanismo compensatório para manter a resistência aerodinâmica simétrica das vias aéreas. O corneto inferior é responsável por até 2/3 (aproximadamente 67%) da resistência total das vias aéreas nasais, sendo a estrutura mais relevante hemodinamicamente e o alvo mais frequente de cirurgia para obstrução nasal."
+      "question": "Durante uma cirurgia endoscópica nasal para correção de obstrução das vias aéreas, por que a ressecção do terço posterior do corneto inferior deve ser evitada ou realizada com extrema cautela?",
+      "expected": "Os vasos do corneto posterior apresentam maior calibre comparado ao terço anterior e médio. Sua ressecção aumenta significativamente o risco de sangramento intraoperatório importante e complicações hemorrágicas no pós-operatório. Além disso, o corneto inferior é responsável por até 2/3 da resistência total das vias aéreas, portanto ressecções excessivas podem comprometer a função fisiológica de condicionamento do ar inspirado."
     },
     {
       "id": "q-rino-anat-013-2",
       "card_id": "rino-anat-013",
       "domain": "anatomia",
-      "question": "Ao realizar ressecção de cornetos nasais para tratar obstrução, por que a ressecção da porção posterior do corneto inferior apresenta maior risco de complicação hemorrágica comparada à ressecção anterior? Qual estrutura anatômica justifica essa diferença?",
-      "expected": "Os vasos do corneto posterior apresentam maior calibre que os vasos da porção anterior. A ressecção da porção posterior do corneto inferior, onde esses vasos de maior calibre estão localizados, aumenta significativamente o risco de sangramento significativo intraoperatório. Por isso, a abordagem cirúrgica deve privilegiar ressecção de mucosa anterior ou técnicas que poupem a porção posterior do corneto."
+      "question": "Um paciente apresenta desvio septal à esquerda com hipertrofia compensatória do corneto inferior. Em qual lado você esperaria encontrar essa hipertrofia e qual é o mecanismo autonômico responsável pela tumefação da mucosa corneal?",
+      "expected": "A hipertrofia do corneto inferior seria encontrada no lado DIREITO (contralateral ao desvio septal), como mecanismo compensatório para manter a resistência das vias aéreas. A tumefação da mucosa corneal é mediada pelo sistema parassimpático, que promove vasodilatação nos vasos de capacitância (sinusoides cavernosos) presentes na submucosa, causando aumento de volume. O sistema simpático, por sua vez, promove vasoconstrição destes vasos e aumento do fluxo nos vasos de resistência, produzindo o ciclo nasal de Minz (alternância a cada 30 minutos a 5 horas)."
     },
     {
       "id": "q-rino-anat-014-1",
       "card_id": "rino-anat-014",
       "domain": "anatomia",
-      "question": "Um paciente relata obstrução nasal persistente após rinoplastia com osteotomia lateral bilateral. À manobra de Cottle, há alívio imediato dos sintomas. Qual é o mecanismo fisiopatológico dessa obstrução e qual estrutura anatômica foi comprometida?",
-      "expected": "A obstrução é causada por incompetência da valva nasal interna, que normalmente forma um ângulo de 10–15° entre o septo nasal e a margem caudal das cruras laterais do septo (CLS). A manobra de Cottle alivia porque a tração lateral da bochecha reabre essa valva. As osteotomias laterais diminuem o calibre da valva nasal interna, e a valva é responsável por aproximadamente 50% da resistência total das vias aéreas nasais. Conforme a lei de Poiseuille (fluxo ∝ r⁴), alterações mínimas no raio causam mudanças exponenciais no fluxo aéreo."
+      "question": "Um paciente apresenta obstrução nasal unilateral após rinoplastia. À manobra de Cottle, há alívio imediato da obstrução. Qual estrutura anatômica está comprometida e qual é sua contribuição percentual na resistência total das vias aéreas nasais?",
+      "expected": "A valva nasal interna está comprometida. Ela é formada pelo ângulo entre o septo nasal e a margem caudal das cartilagens laterais superiores (CLS), normalmente de 10-15°, e é responsável por aproximadamente 50% da resistência total das vias aéreas nasais. O alívio na manobra de Cottle confirma incompetência valvar, indicando necessidade de reconstrução com spreader grafts, spreader flaps ou batten grafts."
     },
     {
       "id": "q-rino-anat-014-2",
       "card_id": "rino-anat-014",
       "domain": "anatomia",
-      "question": "Qual é a melhor estratégia de reconstrução para um paciente com colapso da parede lateral nasal e cicatriz na scroll area após rinoplastia prévia, e quais são as indicações técnicas de cada opção?",
-      "expected": "As opções de reconstrução incluem: spreader grafts (enxerto cartilaginoso na scroll area para aumentar a distância entre septo e CLS), spreader flaps (uso de mucoperiósteo local—auto-spreader, menos morbidade), batten grafts (para reforço lateral) e suturas de suspensão (para sustentação). A escolha depende da severidade do colapso, disponibilidade de material, e presença de cicatriz. Spreader grafts são ouro-padrão para incompetência valvar significativa; spreader flaps são preferíveis em revisão com cicatriz. Todas essas técnicas visam restaurar o ângulo de 10–15° e normalizar a resistência valvar."
+      "question": "Durante o planejamento de uma rinoplastia secundária para corrigir estreitamento valvar interno pós-operatório, o cirurgião considera realizar osteotomias laterais. Qual é a implicação dessa escolha na valva nasal interna e quais alternativas técnicas evitariam agravar essa complicação?",
+      "expected": "As osteotomias laterais diminuem ainda mais a valva nasal interna, piorando potencialmente a obstrução já existente. Alternativas preferidas incluem spreader grafts (colocados entre o septo e as CLS para aumentar o ângulo valvar), spreader flaps (auto-spreader, usando tecido cartilaginoso local), batten grafts na parede lateral e suturas de suspensão, todas evitando osteotomias e preservando ou restaurando a geometria da valva."
     },
     {
       "id": "q-rino-anat-015-1",
       "card_id": "rino-anat-015",
       "domain": "anatomia",
-      "question": "Durante a avaliação pré-operatória de um paciente com queixa de obstrução nasal, você observa colapso da asa nasal durante inspiração profunda. Qual é a estrutura anatômica primária responsável pelo suporte da valva nasal externa e quais são os mecanismos que levam ao colapso externo?",
-      "expected": "A valva nasal externa é sustentada ativamente pela crura lateral da cartilagem lateral alar (CLA) associada aos tecidos moles alares (fibroadiposos, sem cartilagem), septo membranoso e soleira nasal. O colapso externo ocorre por: (1) CLA fracas ou finas; (2) malposição cefálica das CLA que reduz o suporte lateral; (3) perda de tonicidade muscular, como em paralisia facial que aumenta a resistência em até 20%; e (4) cicatrizes vestibulares. A musculatura nasal é essencial para manutenção ativa da competência valvular."
+      "question": "Durante a avaliação clínica de um paciente com colapso da valva nasal externa, qual manobra semiotécnica você realizaria para confirmar o diagnóstico e como a paralisia facial pode influenciar a resistência das vias aéreas nasais?",
+      "expected": "A manobra diagnóstica é a inspeção durante inspiração profunda, observando o colapso visível da asa nasal, podendo ser complementada pela inserção de espátula no vestíbulo com tração lateral que melhora o fluxo aéreo. Na paralisia facial, há perda de tonicidade da musculatura nasal, resultando em aumento de até 20% na resistência das vias aéreas nasais, comprometendo significativamente a ventilação."
     },
     {
       "id": "q-rino-anat-015-2",
       "card_id": "rino-anat-015",
       "domain": "anatomia",
-      "question": "Um paciente submetido a rinoplastia apresenta colapso secundário da valva externa pós-operatória. Descreva o teste clínico de diagnóstico intraoperatório e as principais técnicas de reconstrução disponíveis para restaurar a competência valvular.",
-      "expected": "O teste diagnóstico é realizado durante inspiração profunda com inspeção direta da asa nasal para detectar colapso visível. Pode-se inserir uma espátula no vestíbulo e tracionar lateralmente para confirmar melhora do fluxo aéreo. As técnicas de reconstrução incluem: (1) lateral crural strut grafts, que fornecem suporte estrutural linear; (2) alar contour grafts, para redefinição de contorno; (3) alar batten grafts, que aumentam a projeção e suporte; e (4) turnover flaps das CLA, que reposicionam a cartilagem para melhor sustentação. A escolha depende do mecanismo específico de falha identificado."
+      "question": "Um residente observa que o colapso externo da valva nasal é multifatorial. Enumere os 4 principais mecanismos causadores de colapso externo e indique qual técnica cirúrgica você selecionaria para fortalecer o suporte estrutural lateral.",
+      "expected": "Os 4 mecanismos são: (1) crura laterais fracas ou finas, (2) malposição cefálica das cruras laterais reduzindo suporte lateral, (3) perda de tonicidade muscular por paralisia facial, e (4) cicatriz vestibular restritiva. Para fortalecer o suporte lateral, o lateral crural strut graft é a técnica de escolha, podendo ser complementada por alar batten grafts ou alar contour grafts conforme a anatomia individual."
     },
     {
       "id": "q-rino-anat-016-1",
       "card_id": "rino-anat-016",
       "domain": "anatomia",
-      "question": "Explique o conceito de trípode nasal e como a ruptura do suporte ligamentar durante a via aberta afeta a projeção da ponta. Qual é a medida preventiva mais importante na abordagem aberta?",
-      "expected": "O trípode nasal é constituído por dois pilares laterais (cruras laterais) e um pilar medial (cruras mediais unidas). A via aberta causa descolamento extenso da pele e ruptura dos ligamentos inter-alares e de fixação das cruras mediais ao septo, resultando em perda de projeção da ponta de 2-4mm. A medida preventiva mais importante é o uso rotineiro de columellar strut associado a técnicas de sutura (transdomal, interdomal, lateral crural steal) ANTES de qualquer ressecção tecidual, para restaurar e manter a integridade dos mecanismos de suporte."
+      "question": "Durante uma rinoplastia aberta, você realiza extenso descolamento da pele da ponta nasal. Qual é o principal mecanismo de suporte que sofre ruptura com essa abordagem, e qual técnica você utilizaria rotineiramente para compensar essa perda de projeção?",
+      "expected": "A via aberta causa ruptura dos ligamentos inter-alares e do scroll, além de descolamento extenso que compromete o suporte extrínseco. Para compensar essa perda de projeção previsível, utiliza-se rotineiramente o columellar strut (enxerto de suporte na columela) associado a técnicas de sutura (transdomal e/ou interdomal) antes de qualquer ressecção tecidual. Essas técnicas reconstroem o suporte ligamentar perdido e mantêm a projeção e rotação desejadas."
     },
     {
       "id": "q-rino-anat-016-2",
       "card_id": "rino-anat-016",
       "domain": "anatomia",
-      "question": "Durante uma rinoplastia, você realiza pressão digital na ponta nasal e observa retroprojeção acentuada com mínima resistência. O que isso indica e quais enxertos você consideraria para corrigir essa deficiência?",
-      "expected": "A retroprojeção acentuada com pouca resistência indica comprometimento dos mecanismos intrínsecos de suporte (rigidez insuficiente das cruras laterais ou frouxidão das cruras mediais). Nesta situação, considerar: enxerto columelar strut (fornece suporte vertical e anterior à ponta), enxerto de cap (aumenta altura dominal e projeção) e enxerto de escudo dorsal (aumenta projeção dorsal, que indiretamente aumenta a projeção relativa da ponta). A escolha dependerá da análise da altura dominal e do ponto de partida de projeção, visando alcançar as proporções clássicas (projeção = 0,55-0,60 vezes a altura do dorso)."
+      "question": "Ao examinar um paciente candidato a rinoplastia, como você testaria clinicamente a integridade dos mecanismos de suporte da ponta nasal, e o que um resultado positivo (boa resistência) indicaria em termos do conceito de trípode?",
+      "expected": "A integridade dos mecanismos de suporte é testada por pressão digital retroprojetiva na ponta nasal — quanto maior a resistência à retroprojeção, maior a integridade do suporte. Uma boa resistência indica que os pilares do trípode (cruras mediais fixadas ao septo e cruras laterais rígidas) estão íntegros e que o suporte ligamentar extrínseco (inter-alar, scroll, inserção de pele e tecidos moles, espinha nasal anterior) está preservado. Isso prediz menor risco de colapso pós-operatório."
     },
     {
       "id": "q-rino-tec-001-1",
       "card_id": "rino-tec-001",
       "domain": "tecnicas",
-      "question": "Durante a rinoplastia aberta via transcolumelar, qual é o volume de anestésico local recomendado e qual a concentração de epinefrina utilizada? Descreva o plano de infiltração inicial.",
-      "expected": "Deve-se infiltrar aproximadamente 10 mL de lidocaína 1% com epinefrina na proporção de 1:100.000. A infiltração deve ser realizada inicialmente no plano submucoperichondrial do septo, seguida pelo envelope de partes moles que inclui columela, ponta nasal, dorso, paredes laterais e base alar. Esta técnica proporciona hemostasia adequada enquanto evita efeitos cardíacos sistêmicos da cocaína."
+      "question": "Durante a infiltração anestésica para rinoplastia aberta transcolumelar, qual é o volume total de lidocaína 1% com epinefrina 1:100.000 recomendado e qual é o plano anatômico inicial de infiltração?",
+      "expected": "Aproximadamente 10 mL de lidocaína 1% com epinefrina 1:100.000 devem ser infiltrados, iniciando no plano submucoperichondrial do septo e posteriormente estendendo-se ao envelope de partes moles (columela, ponta, dorso, paredes laterais e base alar). A epinefrina em concentração 1:100.000 garante hemostasia adequada sem os efeitos cardíacos associados à cocaína, sendo crucial para otimizar o campo operatório."
     },
     {
       "id": "q-rino-tec-001-2",
       "card_id": "rino-tec-001",
       "domain": "tecnicas",
-      "question": "Qual é a principal armadilha técnica durante a dissecção óssea na rinoplastia aberta, e por que isso é importante para o resultado pós-operatório?",
-      "expected": "A dissecção sobre os ossos deve ser realizada apenas na área central, evitando perturbar as inserções periostais laterais. Isso é crítico porque a manutenção dessas inserções laterais é essencial para preservar a estabilidade pós-osteotomia e evitar complicações como deformidades do dorso e colapso nasal. Perturbação dessas estruturas pode comprometer o suporte estrutural e o resultado estético final."
+      "question": "Qual é a complicação mais temida relacionada à incisão transcolumelar em rinoplastia aberta, e qual técnica de incisão pode minimizar seu risco?",
+      "expected": "A complicação mais temida é o notching (entalhe) columelar, que resulta de cicatrização inadequada ou retração excessiva da incisão. A técnica de incisão em broken-line (linha quebrada) em padrão de escada (stair-step) na parte mais estreita da columela pode reduzir significativamente o risco dessa complicação, produzindo melhor cicatrização e menor visibilidade estética quando comparada à incisão reta."
     },
     {
       "id": "q-rino-tec-002-1",
       "card_id": "rino-tec-002",
       "domain": "tecnicas",
-      "question": "Um paciente com dorso nasal baixo para o tamanho da base e ponta sem projeção adequada procura rinoplastia. A pele é espessa e camufla bem as correções. Por que a rinoplastia fechada com enxertos de ponta seria a técnica de escolha, e qual é o princípio fundamental no desenho desses enxertos?",
-      "expected": "A rinoplastia fechada é indicada neste caso porque o dorso baixo não necessita redução (evitando complicações de enxerto dorsal), a pele espessa camufla bem os enxertos, e a ponta pode ser redefinida por adição em vez de ressecção. O princípio fundamental é utilizar múltiplos enxertos de ponta (nunca um único enxerto) para produzir uma definição mais natural e evitar aparência artificial ou pseudoprojeção. Essa estratégia maximiza o controle da forma sem necessidade de suturas complexas sob visualização limitada da via endonasal."
+      "question": "Um paciente com dorso baixo em relação à base nasal e ponta hipoprojetada procura correção. Qual é o principal recurso técnico na rinoplastia fechada para redefini-lo sem necessidade de redução dorsal, e por qual motivo múltiplos enxertos são preferíveis a um único enxerto?",
+      "expected": "O principal recurso são os tip grafts (enxertos de ponta), que permitem aumento de projeção e redefinição da ponta sem manipulação excessiva do dorso. Múltiplos enxertos (nunca um único) produzem pontas mais naturais e proporcionais, com distribuição simétrica das forças e melhor integração dos contornos, evitando aparência artificial ou irregular."
     },
     {
       "id": "q-rino-tec-002-2",
       "card_id": "rino-tec-002",
       "domain": "tecnicas",
-      "question": "Durante uma rinoplastia fechada, você realiza uma incisão intercartilaginosa para acesso à cartilagem alar lateral. Qual complicação específica pode resultar dessa escolha de incisão e como ela se manifesta funcionalmente?",
-      "expected": "A incisão intercartilaginosa pode lesionar a valva interna (válvula nasal interna), estrutura crítica localizada entre a cartilagem quadrangular e o septo, resultando em obstrução nasal funcional. A lesão compromete o suporte e a geometria da valva, levando a sensação de obstrução, redução do fluxo aéreo nasal e possível necessidade de revisão. Por isso, deve-se ter cuidado na extensão e profundidade da incisão intercartilaginosa e considerar alternativas como a abordagem transcartilaginosa em casos de risco aumentado."
+      "question": "Descreva as três possíveis incisões para abordagem endonasal na rinoplastia fechada e qual complicação específica está associada à incisão intercartilaginosa que o cirurgião deve evitar durante o procedimento.",
+      "expected": "As três incisões são: (1) intercartilaginosa (entre cartilagem lateral superior e alar), (2) transcartilaginosa (através da cartilagem lateral) e (3) marginal (na borda livre do septo). A incisão intercartilaginosa apresenta risco específico de lesão da valva interna (zona dinâmica de resistência aerodinâmica), que pode comprometer a respiração nasal e resultar em insuficiência valvular com sintomas de obstrução pós-operatória."
     },
     {
       "id": "q-rino-tec-003-1",
       "card_id": "rino-tec-003",
       "domain": "tecnicas",
-      "question": "Durante uma septoplastia, você identifica uma perfuração mucosa bilateral oposta após a redução do desvio septal. Qual é o manejo apropriado e por quê?",
-      "expected": "Perfurações mucosas bilaterais opostas devem ser reparadas com sutura para evitar comunicação entre os espaços submucosos, que pode levar a cicatrização anormal, sela pós-operatória ou complicações inflamatórias. Perfurações unilaterais não causam problemas clínicos significativos e não requerem reparo imediato."
+      "question": "Durante uma septoplastia, após elevar o mucoperichondrium bilateralmente, você identifica um desvio em S do septo cartilaginoso. Qual é a medida mínima crítica do L-strut que deve ser preservada e por que sua violação resulta em complicação específica?",
+      "expected": "O L-strut deve manter no mínimo 10 mm de espessura (idealmente ≥ 15 mm). Sua violação resulta em sela pós-operatória, caracterizada pelo colapso dorsal do nariz devido à perda de suporte estrutural da cartilagem septal dorsal e caudal. Por isso, a coleta de cartilagem para enxertos só deve ser realizada APÓS a correção dorsal e preservação rigorosa desta faixa de sustentação."
     },
     {
       "id": "q-rino-tec-003-2",
       "card_id": "rino-tec-003",
       "domain": "tecnicas",
-      "question": "Qual é a medida mínima crítica do L-strut que deve ser preservada na septoplastia, e em que momento da cirurgia a coleta de cartilagem septal deve ser realizada?",
-      "expected": "O L-strut deve ter no mínimo 10 mm de largura (ideal ≥15 mm) para manter a integridade estrutural e prevenir sela pós-operatória. A coleta de cartilagem septal excedente deve ser realizada APÓS a redução dorsal e correção do desvio, nunca antes, para garantir que o L-strut não seja comprometido. A cartilagem coletada deve ser armazenada entre os retalhos mucopericondriais para uso em eventual cirurgia de revisão."
+      "question": "Um residente cria inadvertidamente perfurações no mucoperichondrium em AMBOS os lados do septo durante a dissecção, em regiões opostas uma à outra. Esta é uma situação que demanda reparo imediato?",
+      "expected": "Não necessariamente. Perfurações mucosas unilaterais não causam problemas clínicos significativos. Porém, perfurações bilaterais OPOSTAS (uma de cada lado, em contato frontal) devem ser reparadas para evitar comunicação mucosa que levaria à formação de sinéquias, cicatrizes ou comprometimento funcional. A reparação deve ser realizada com sutura absorvível e posicionamento de material de interposição se disponível."
     },
     {
       "id": "q-rino-tec-004-1",
       "card_id": "rino-tec-004",
       "domain": "tecnicas",
-      "question": "Durante a redução dorsal por componentes, qual é o propósito específico de manter as projeções transversais do septo dorsal em 'T' aderidas às cartilagens laterais superiores, e como isso impacta o planejamento de enxertos?",
-      "expected": "Manter as projeções transversais do septo dorsal em 'T' aderidas às cartilagens laterais superiores minimiza a necessidade de spreader grafts ao preservar o suporte estrutural da válva interna. Essa estratégia evita colapso dinâmico e reduz complicações respiratórias pós-operatórias, permitindo abordagem mais conservadora com menor dependência de enxertos de sustentação no terço médio nasal."
+      "question": "Durante a redução dorsal por componentes, qual é a importância de manter as projeções transversais do septo dorsal em 'T' aderidas às cartilagens laterais superiores, e qual complicação específica isso ajuda a prevenir?",
+      "expected": "Manter as projeções transversais do septo dorsal em 'T' aderidas às cartilagens laterais superiores minimiza a necessidade de spreader grafts, pois preserva o suporte estrutural do dorso. Isso previne a deformidade em V invertido, que resulta da ressecção excessiva das cartilagens laterais superiores, comprometendo o suporte dorsal lateral e causando colapso da valva interna."
     },
     {
       "id": "q-rino-tec-004-2",
       "card_id": "rino-tec-004",
       "domain": "tecnicas",
-      "question": "Qual complicação específica pode resultar da ressecção excessiva ou desproporcional entre o septo cartilaginoso e as cartilagens laterais superiores durante a redução dorsal por componentes, e como ela se manifesta esteticamente?",
-      "expected": "A ressecção excessiva de cartilagens laterais superiores resulta na deformidade em V invertido, caracterizada por depressão bilateral do dorso nasal com aspecto angulado no terço médio. Por outro lado, ressecção igual de septo e cartilagens laterais causa arredondamento do dorso, perda da definição da linha estética dorsal. Ambas representam armadilhas críticas que comprometem os resultados estéticos e podem exigir revisão cirúrgica com enxertos de reconstrução."
+      "question": "Explique a sequência técnica de redução incremental do dorso (septo cartilaginoso seguido de dorso ósseo) e identifique qual complicação resultaria de uma ressecção equivalente entre septo e cartilagens laterais superiores.",
+      "expected": "A redução incremental começa com tesoura angulada no septo cartilaginoso (preservando cartilagem para enxertos), seguida pela raspa de diamante down-biting no dorso ósseo em excursões curtas. Uma ressecção equivalente entre septo e cartilagens laterais superiores resultaria em arredondamento do dorso, pois elimina o suporte lateral necessário para manter a definição dorsal. O teste de palpação dorsal de 3 pontos após cada etapa orienta a progressão incremental."
     },
     {
       "id": "q-rino-tec-005-1",
       "card_id": "rino-tec-005",
       "domain": "tecnicas",
-      "question": "Durante uma rinoplastia com redução dorsal significativa, você identifica risco de deformidade em V invertido e estreitamento da valva interna. Descreva as dimensões ideais do spreader graft que você talha da cartilagem septal e explique a diferença entre posicionamento visível versus invisível em relação ao resultado funcional.",
-      "expected": "O spreader graft deve ter dimensões de aproximadamente 5–6 mm de altura por 30–32 mm de comprimento. O posicionamento visível (acima do plano do septo dorsal) prioriza a melhora estética com ampliação do terço médio, enquanto o posicionamento invisível (abaixo do septo dorsal) privilegia a melhora funcional e restauração da patência da valva interna. A fixação é realizada com sutura de PDS 5-0 em pontos colchoneiro horizontais, bilateralmente quando necessário."
+      "question": "Um residente está realizando uma rinoplastia com redução dorsal significativa e identifica risco de deformidade em V invertido e estreitamento da valva interna. Descreva as dimensões ideais do spreader graft a ser talhado, sua localização exata entre as estruturas anatômicas e o tipo de fixação a ser utilizado.",
+      "expected": "O spreader graft deve ter dimensões de 5–6 mm de altura × 30–32 mm de comprimento, talhado a partir de cartilagem septal. Deve ser posicionado entre o septo dorsal e as cartilagens laterais superiores (CLS), podendo ser unilateral ou bilateral conforme a assimetria. A fixação deve ser realizada com sutura de PDS 5-0 em pontos colchoneiro horizontais, garantindo estabilidade e prevenção de deslocamento."
     },
     {
       "id": "q-rino-tec-005-2",
       "card_id": "rino-tec-005",
       "domain": "tecnicas",
-      "question": "Um residente em treinamento realiza spreader grafts bilaterais em um paciente e, no pós-operatório, identifica largura excessiva do terço médio com resultado antiestético. Qual complicação ocorreu, qual é a alternativa técnica mais conservadora para evitá-la em casos futuros, e qual achado recente da literatura deve ser considerado na escolha entre spreader grafts e spreader flaps?",
-      "expected": "A complicação é o alargamento excessivo do terço médio nasal. A alternativa técnica mais conservadora é o uso de mini-spreaders (aproximadamente 8 × 2 × 2 mm) posicionados por via endonasal no ponto de maior estreitamento, ou o emprego de autospreader flaps utilizando as próprias cartilagens laterais superiores dobradas como spreaders. Uma meta-análise recente demonstrou que não há diferença estatisticamente significativa entre spreader grafts e spreader flaps quanto à obstrução nasal, permitindo maior flexibilidade na escolha técnica conforme preferência e anatomia do paciente."
+      "question": "Durante uma avaliação pós-operatória, um paciente relata obstrução nasal após rinoplastia com spreader grafts bilaterais. Quais são as possíveis causas relacionadas à técnica, e qual seria uma abordagem alternativa mais conservadora para casos futuros que poderia evitar essa complicação?",
+      "expected": "A obstrução pode resultar de posicionamento inadequado do spreader graft, largura excessiva do terço médio, ou altura insuficiente. Como alternativa mais conservadora, recomenda-se usar mini-spreaders (~8 × 2 × 2 mm) colocados por via endonasal no ponto de maior estreitamento, ou ainda autospreader flaps (dobramento das próprias CLS como spreaders), que mantêm a patência da valva interna e evitam material adicional."
     },
     {
       "id": "q-rino-tec-006-1",
       "card_id": "rino-tec-006",
       "domain": "tecnicas",
-      "question": "Durante uma osteotomia nasal lateral, qual é o nível anatômico crítico que NÃO deve ser ultrapassado medialmente na osteotomia oblíqua superior, e qual complicação específica resulta do seu não cumprimento?",
-      "expected": "A osteotomia oblíqua superior não deve continuar acima do canto medial (ângulo de divergência do osso nasal). O ultrapassar deste ponto resulta em rocker deformity, caracterizada pelo basculamento assimétrico do fragmento ósseo e deformidade estética importante. O canto medial serve como ponto de pivô natural e sua preservação é essencial para manter a estabilidade e simetria do dorso nasal."
+      "question": "Durante uma osteotomia nasal, você realiza uma incisão de 2 mm no sulco nasofacial e insere um osteótomo reto subperiosteal. Qual é o principal risco de uma osteotomia oblíqua superior que ultrapasse o nível do canto medial do olho, e como você evita essa complicação?",
+      "expected": "O principal risco é desenvolver rocker deformity, na qual o segmento ósseo proximal pode fracassar ou criar uma depressão no dorso nasal. Para evitar, a osteotomia oblíqua superior deve ser planejada para NÃO continuar acima do canto medial, interrompendo-se na região mediana. O limite anatômico superior seguro coincide com o canto medial do olho, abaixo do qual a mobilização óssea é segura e previsível."
     },
     {
       "id": "q-rino-tec-006-2",
       "card_id": "rino-tec-006",
       "domain": "tecnicas",
-      "question": "Explique a relação entre osteotomias laterais nasais e a função valvar nasal interna, citando qual estratégia alternativa é defendida por alguns autores para mitigar esta complicação específica.",
-      "expected": "Todas as osteotomias laterais diminuem a valva nasal interna (conforme Helal et al.), aumentando o risco de obstrução nasal funcional. Para mitigar essa complicação, alguns autores favorecem a osteotomia de Webster (técnica curva que preserva um fragmento ósseo ao nível do corneto inferior), enquanto outros defendem o uso de spreader grafts associados à manutenção do ângulo de divergência original como estratégia mais eficaz para preservar a patência valvar."
+      "question": "Um residente questiona por que, após osteotomias laterais nasais bilaterais em uma rinoplastia de redução, o paciente desenvolve obstrução nasal funcional. Explique o mecanismo dessa complicação e cite uma estratégia alternativa para preveni-la.",
+      "expected": "Todas as osteotomias laterais diminuem a valva nasal interna (angulação normal de 10-15°), comprometendo a resistência aerodinâmica. Como estratégia alternativa, pode-se manter o ângulo de divergência adequado utilizando spreader grafts (cartilagem ou osso) para restaurar a geometria da valva, ou empregar a osteotomia de Webster (curva, preservando um fragmento ósseo no nível do corneto inferior), técnicas que reduzem significativamente o risco de disfunção valvar."
     },
     {
       "id": "q-rino-tec-007-1",
       "card_id": "rino-tec-007",
       "domain": "tecnicas",
-      "question": "Durante um cephalic trim da crura lateral, qual é a medida mínima do alar rim strip que deve ser preservada e por quê?",
-      "expected": "O alar rim strip deve ter no mínimo 5–6 mm de largura preservados. Esta medida é fundamental para manter o suporte adequado da valva externa e prevenir complicações como colapso alar e ponta pinçada. A ressecção excessiva além dessa faixa é a causa mais comum de insuficiência valvar e deformidades pós-operatórias."
+      "question": "Durante um cephalic trim da crura lateral, qual é a medida mínima do alar rim strip que deve ser preservada e por que essa medida é crítica?",
+      "expected": "O alar rim strip deve ter no mínimo 5–6 mm de preservação. Essa medida é crítica porque garante suporte adequado da valva externa nasal, evitando complicações como colapso alar e enfraquecimento do suporte estrutural. Ressecção excessiva além dessa faixa é a causa mais comum de ponta pinçada e instabilidade das estruturas de suporte."
     },
     {
       "id": "q-rino-tec-007-2",
       "card_id": "rino-tec-007",
       "domain": "tecnicas",
-      "question": "Um residente está avaliando um paciente com ponta bulbosa e detecta cartilagens de qualidade ruim durante a análise pré-operatória. Por que o cephalic trim não seria a melhor escolha técnica neste caso e qual é a alternativa recomendada?",
-      "expected": "O cephalic trim está contraindicado em cartilagens de qualidade ruim porque aumenta o risco de enfraquecimento do suporte e complicações como colapso alar. A alternativa preferível é o turnover flap da crura lateral, que melhora a definição da ponta e reduz a fullness paradomal enquanto preserva adequadamente o suporte estrutural em cartilagens comprometidas."
+      "question": "Um residente planeja realizar cephalic trim em um paciente com cartilagens de qualidade ruim. Qual é a melhor alternativa técnica e qual é a vantagem dessa escolha?",
+      "expected": "A melhor alternativa é o turnover flap da crura lateral ao invés do cephalic trim convencional. O turnover flap oferece a vantagem de melhorar a definição da ponta e reduzir o fullness paradomal enquanto preserva significativamente o suporte estrutural, evitando o risco de enfraquecimento que seria maior em cartilagens de qualidade comprometida submetidas à ressecção."
     },
     {
       "id": "q-rino-tec-008-1",
       "card_id": "rino-tec-008",
       "domain": "tecnicas",
-      "question": "Um residente está realizando rinoplastia de revisão e identifica assimetria dos domes nasais com angulação inadequada. Qual é a sequência de técnicas de sutura que deve ser seguida inicialmente conforme o algoritmo de revisão, e qual material deve ser utilizado?",
-      "expected": "O algoritmo de revisão inicia com sutura hemi-transdomal bilateral para corrigir assimetrias e angulações, seguida de colchoneiro da crura lateral conforme necessário, e demais técnicas de acordo com achados específicos. Todo o procedimento deve utilizar PDS 5-0, que oferece melhor controle e longevidade. Esta sequência evita ressecção precoce de tecido e permite máximo refinamento através de suturas antes de qualquer remoção tecidual."
+      "question": "Durante uma rinoplastia de ponta nasal, você identifica assimetria dos dome cartilaginosos e necessidade de aumentar a projeção infraponta. Qual sequência de suturas você utilizaria e qual é o material adequado?",
+      "expected": "A sequência deve incluir sutura interdomal (aumenta projeção infraponta e definição, estreita distância interdomal) seguida de sutura transdomal colchoneiro (controla assimetria e angulação do domo). O material obrigatório é PDS 5-0. Estas técnicas de sutura devem preceder qualquer ressecção tecidual para otimizar o resultado tridimensional da ponta."
     },
     {
       "id": "q-rino-tec-008-2",
       "card_id": "rino-tec-008",
       "domain": "tecnicas",
-      "question": "Durante uma rinoplastia primária, você deseja aumentar a projeção infraponta enquanto define melhor os tip-defining points. Qual sutura específica você utilizaria, qual é seu mecanismo de ação, e qual complicação deve ser especialmente evitada durante sua execução?",
-      "expected": "A sutura interdomal é a técnica indicada para aumentar projeção infraponta e definição ao aproximar os domos mediais, estreitando a distância interdomal. Seu mecanismo cria maior angulação entre as cruras mediais, elevando a ponta. A complicação crítica a evitar é a perfuração do revestimento vestibular durante a passagem da sutura, que pode comprometer a integridade mucosa e causar cicatrização anormal. Técnica com PDS 5-0 e sutura cuidadosa com visualização adequada previne este evento."
+      "question": "Em uma rinoplastia revisional com assimetria persistente de ponta apesar de sutura prévia, qual é o algoritmo técnico recomendado para iniciar o tratamento sutural adicional e qual complicação é mais temida durante essas manobras?",
+      "expected": "O algoritmo revisional inicia com hemi-transdomal, seguido de colchoneiro da crura lateral e demais técnicas conforme necessidade. A complicação mais temida é a perfuração do revestimento vestibular, que pode comprometer a integridade do enxerto ou do tecido cicatricial. Além disso, deve-se evitar assimetria por tensão desigual das suturas."
     },
     {
       "id": "q-rino-tec-009-1",
       "card_id": "rino-tec-009",
       "domain": "tecnicas",
-      "question": "Durante uma rinoplastia aberta com necessidade de suporte da ponta nasal, qual é a dimensão correta do enxerto de cartilagem para columellar strut graft e qual é a diferença prática entre as técnicas de posicionamento 'floating' e 'fixed'?",
-      "expected": "O enxerto de cartilagem septal deve medir 3 × 25 mm. Na técnica floating, o enxerto repousa nos tecidos moles 2–3 mm anterior à espinha nasal anterior, mantendo a projeção natural e sendo mais versátil. Na técnica fixed, o enxerto repousa diretamente sobre a maxila, aumentando significativamente a projeção da ponta. O floating é mais comumente utilizado por oferecer maior controle e naturalidade dos resultados."
+      "question": "Durante uma rinoplastia pela via aberta, você decide usar um columellar strut graft. Explique a diferença técnica entre a técnica de floating e fixed, incluindo as dimensões do enxerto e qual situação clínica exigiria cada abordagem.",
+      "expected": "O enxerto de cartilagem septal mede 3 × 25 mm. Na técnica floating (mais comum), o enxerto repousa nos tecidos moles 2–3 mm anterior à espinha nasal anterior, mantendo a projeção atual e sendo mais versátil. Na técnica fixed, o enxerto repousa diretamente sobre a maxila, aumentando significativamente a projeção da ponta. Floating é preferido na maioria dos casos; fixed é indicado quando há necessidade de aumento substancial de projeção, como em pontas hipoprojetadas ou após ressecção excessiva de cartilagem."
     },
     {
       "id": "q-rino-tec-009-2",
       "card_id": "rino-tec-009",
       "domain": "tecnicas",
-      "question": "Qual complicação específica pode ocorrer relacionada à palpabilidade e visibilidade do columellar strut graft, e como pode ser prevenida durante o procedimento?",
-      "expected": "Em pacientes com pele fina, o enxerto pode ficar visível ou palpável, comprometendo o resultado estético. Para prevenir essa complicação, deve-se preservar uma almofada de tecido mole de 2–3 mm sobre a espinha nasal anterior, criando uma barreira entre o enxerto e a pele. Além disso, é importante fixar adequadamente o enxerto com fio PDS 5-0 para evitar deslocamento que exponha o material."
+      "question": "Qual é a complicação mais temida relacionada ao posicionamento inadequado do columellar strut graft e como você a previne durante o procedimento?",
+      "expected": "A complicação mais temida é a visibilidade ou palpabilidade do enxerto em pacientes com pele fina, além de deslocamento. A prevenção envolve: (1) preservar uma almofada de tecido mole de 2–3 mm sobre a espinha nasal anterior para evitar movimento excessivo com os lábios; (2) fixação adequada com sutura PDS 5-0; (3) evitar posicionar o enxerto muito superficialmente. Esta técnica compensa a perda de suporte ligamentar que ocorre durante a via aberta, particularmente após ruptura do ligamento inter-alar."
     },
     {
       "id": "q-rino-tec-010-1",
       "card_id": "rino-tec-010",
       "domain": "tecnicas",
-      "question": "Um paciente apresenta ponta nasal com projeção inadequada e rotação excessiva. Você planeja usar Septal Extension Graft (SEG). Qual é o tamanho mínimo de cartilagem septal necessário para esta técnica e qual ângulo de posicionamento você escolheria para alongar e desrotar a ponta?",
-      "expected": "O enxerto de extensão septal requer no mínimo 20 × 10 mm de cartilagem septal. Para alongar e desrotar a ponta, o enxerto deve ser posicionado em ângulo de 45° inferior ao dorso nasal. Um ângulo de 90° ao dorso manteria a rotação existente, enquanto ângulos menores promovem o efeito desrotacional desejado."
+      "question": "Um paciente apresenta ponta nasal com rotação excessiva e projeção deficiente. Você decide utilizar um Septal Extension Graft. Qual deve ser o ângulo de posicionamento do enxerto em relação ao dorso nasal e qual é o efeito esperado dessa angulação?",
+      "expected": "O enxerto deve ser posicionado a 45° inferior ao dorso nasal. Essa angulação promove alongamento do nariz e desrotação da ponta, corrigindo tanto a projeção deficiente quanto a rotação excessiva. Em contraste, um ângulo de 90° ao dorso manteria a rotação existente sem alterar significativamente o comprimento."
     },
     {
       "id": "q-rino-tec-010-2",
       "card_id": "rino-tec-010",
       "domain": "tecnicas",
-      "question": "Durante o posicionamento de um Septal Extension Graft, qual é a sequência correta de fixação do enxerto e qual complicação pode resultar de um posicionamento inadequado ou fixação instável?",
-      "expected": "A sequência de fixação deve seguir: 1) fixação anterior, 2) estabilização superior, 3) estabilização inferior, 4) fixação basal. Posicionamento inadequado ou fixação deficiente pode resultar em desvio do enxerto, over-projection (sobre-projeção) ou rigidez excessiva da ponta. A estabilização em quatro pontos é crítica para manter a correção desejada."
+      "question": "Durante o planejamento de um Septal Extension Graft, qual é a dimensão mínima de cartilagem septal necessária para execução da técnica e o que fazer se o paciente apresentar insuficiência septal?",
+      "expected": "A dimensão mínima necessária é de 20 × 10 mm de cartilagem septal. Se houver insuficiência de material septal, deve-se utilizar cartilagem de costela (rib) ou enxerto cadavérico como alternativa, mantendo as mesmas dimensões e técnica de posicionamento e fixação."
     },
     {
       "id": "q-rino-tec-011-1",
       "card_id": "rino-tec-011",
       "domain": "tecnicas",
-      "question": "Um residente está realizando rinoplastia primária em paciente com ponta nasal pouco projetada e fina. Qual é a melhor estratégia de enxertia para esta situação e por quê?",
-      "expected": "A melhor estratégia é utilizar múltiplos enxertos invisíveis, como anatomic cap grafts derivados do cephalic trim ou onlay morselizados, evitando enxertos visíveis únicos. Isso ocorre porque enxertos visíveis em primária apresentam alto risco de reabsorção a longo prazo, afinamento do tecido mole sobrejacente e visibilidade/palpabilidade. Múltiplos enxertos produzem pontas mais naturais e menos angulares, enquanto enxertos invisíveis minimizam estas complicações estéticas."
+      "question": "Um residente está realizando rinoplastia primária fechada e decide usar um shield graft para aumentar a projeção da ponta. Quais são as dimensões corretas do enxerto e qual é o seu posicionamento anatômico preciso?",
+      "expected": "O shield graft deve ter dimensões de 8 × 10–12 mm e ser posicionado na borda caudal das cruras médias, estendendo-se 2–3 mm além dos tip-defining points. Este posicionamento permite aumentar a projeção e definição da ponta de forma invisível, caracterizando-o como um enxerto oculto adequado para rinoplastia primária."
     },
     {
       "id": "q-rino-tec-011-2",
       "card_id": "rino-tec-011",
       "domain": "tecnicas",
-      "question": "Descreva as diferenças técnicas entre shield graft e onlay graft na enxertia de ponta, incluindo dimensões, posicionamento e objetivos específicos.",
-      "expected": "O shield graft mede 8 × 10–12 mm e é posicionado na borda caudal das cruras médias, estendendo 2–3 mm além dos tip-defining points, com objetivo de aumentar projeção e definição estrutural. O onlay graft mede 6–8 mm e é posicionado horizontalmente sobre os domos, camuflando irregularidades de superfície e incrementando projeção sutilmente. O anatomic tip graft combina ambos (shield + onlay) para mimetizar a anatomia de uma ponta ideal, enquanto o cap graft, derivado do cephalic trim, é posicionado sobre os domos como variante do onlay."
+      "question": "Durante uma rinoplastia primária fechada, em qual situação clínica o uso de um único enxerto de ponta está contraindicado, e qual estratégia é preferida para evitar uma ponta angular?",
+      "expected": "Um único enxerto de ponta está contraindicado em rinoplastia primária fechada. A estratégia preferida é usar múltiplos enxertos (nunca um único), pois quanto maior o número de enxertos, mais natural e menos angular será o resultado final da ponta. Além disso, deve-se preferir enxertos invisíveis, como anatomic cap grafts derivados do cephalic trim ou onlay morselizados, para minimizar complicações como reabsorção e visibilidade."
     },
     {
       "id": "q-rino-tec-012-1",
       "card_id": "rino-tec-012",
       "domain": "tecnicas",
-      "question": "Um paciente apresenta colapso de valva externa bilateral com crura lateral anterior fraca. Qual é a dimensão correta do lateral crural strut graft a ser talhado e qual estrutura anatômica posterior serve como ponto de repouso para o enxerto?",
-      "expected": "O lateral crural strut graft deve ser talhado com dimensões de 4 × 25 mm. O enxerto é posicionado sob a crura lateral anterior, repousando no orifício piriforme posteriormente, proporcionando suporte estrutural e prevenção do colapso valvular externo durante a respiração."
+      "question": "Durante uma rinoplastia em paciente com retração alar e colapso de valva externa, qual é a dimensão correta do lateral crural strut graft e qual estrutura anatômica posterior serve como ponto de apoio para sua fixação?",
+      "expected": "O lateral crural strut graft deve ser talhado com dimensões de 4 × 25 mm. O enxerto é posicionado sob a crura lateral anterior, repousando no orifício piriforme posteriormente, onde se fixa com sutura de PDS 5-0. Este apoio no orifício piriforme é crítico para estabilizar a crura lateral e prevenir recorrência do colapso valvular."
     },
     {
       "id": "q-rino-tec-012-2",
       "card_id": "rino-tec-012",
       "domain": "tecnicas",
-      "question": "Durante uma rinoplastia, você identifica retração alar unilateral com notching na face profunda da crura lateral. Descreva como seria realizado o alar contour graft, incluindo suas dimensões e a relação com a incisão infracartilaginosa.",
-      "expected": "O alar contour graft é talhado com dimensões de 4 × 10 mm. Na versão estendida, o enxerto cruza a incisão infracartilaginosa e é posicionado entre a face profunda da crura lateral anterior e a pele vestibular, corrigindo o notching e prevenindo retração alar através do suporte tecidual subcutâneo."
+      "question": "Um residente realiza alar contour graft e nota que o enxerto talhado com 4 × 10 mm apresenta-se visível na versão estendida. Qual é a localização anatômica correta para o posicionamento deste enxerto entre estruturas profundas e superficiais para minimizar esta complicação?",
+      "expected": "O alar contour graft versão estendida deve ser posicionado entre a face profunda da crura lateral anterior e a pele vestibular, cruzando a incisura infracartilaginosa. O enxerto deve ser recoberto adequadamente pela mucosa e pele vestibular para evitar visibilidade. O acesso via abordagem infracartilaginosa e dissecação adequada da pele vestibular são fundamentais para ocultar completamente o enxerto e prevenir complicações estéticas."
     },
     {
       "id": "q-rino-tec-013-1",
       "card_id": "rino-tec-013",
       "domain": "tecnicas",
-      "question": "Um paciente apresenta flaring alar bilateral com ângulo de 110° entre o plano alar e o plano basal. Qual é a principal contraindicação para realização de cirurgia de redução de base alar neste caso e qual deformidade resultaria?",
-      "expected": "A contraindicação é o ângulo perpendicular ou obtuso (≥90°) entre plano alar e plano basal. A ressecção alar nesta configuração resultaria em deformidade de 'bowling pin', caracterizada por base alar desproporcional e antiestética. O ângulo agudo (<90°) é a configuração ideal para permitir ressecção segura e resultado harmonioso."
+      "question": "Durante avaliação pré-operatória de um paciente com flaring alar bilateral, você mede um ângulo de 110° entre o plano alar e o plano basal. Por que esta é uma contraindicação relativa para ressecção alar e qual é o resultado estético indesejado que você evitará?",
+      "expected": "Um ângulo obtuso ou perpendicular (≥90°) entre plano alar e plano basal é contraindicação para ressecção alar porque resultará em deformidade tipo 'bowling pin' — uma base nasal desproporcional e inestética. O ângulo agudo (<90°) é a configuração ideal para procedimentos de ressecção, pois permite melhor resultado proporcional. Em ângulos obtusos, técnicas alternativas ou ajustes diferentes devem ser considerados."
     },
     {
       "id": "q-rino-tec-013-2",
       "card_id": "rino-tec-013",
       "domain": "tecnicas",
-      "question": "Durante a cirurgia de flaring alar isolado, descreva a localização exata da incisão, o que deve ser preservado e qual estrutura vascular crítica não deve ser lesada.",
-      "expected": "A incisão deve ser feita a 1 mm do sulco alar-cheek, limitada ao lóbulo alar sem penetrar o vestíbulo nasal. Deve-se preservar 1–2 mm de base alar. As incisões devem ser mantidas inferiores ao sulco alar para preservar as artérias nasais laterais, que são estruturas críticas para irrigação e evitar complicações isquêmicas ou cicatriciais."
+      "question": "Descreva o posicionamento exato da incisão e as estruturas que devem ser preservadas ao realizar ressecção limitada de alar flaring isolado. Por que manter as incisões nesta localização específica é crítico?",
+      "expected": "A incisão deve ser posicionada a 1 mm do sulco alar-cheek, mantendo-se sempre inferior ao sulco e preservando 1-2 mm de base alar residual. Este posicionamento é crítico porque: (1) preserva as artérias nasais laterais que cursam nesta região, evitando necrose tecidual; (2) mantém incisões fora do vestíbulo nasal, prevenindo complicações respiratórias; (3) permite excisão conservadora do lóbulo alar, reduzindo risco de notching e cicatrizes visíveis. A ressecção excessiva ou posicionamento inadequado resultam em complicações estéticas e funcionais."
     },
     {
       "id": "q-rino-tec-014-1",
       "card_id": "rino-tec-014",
       "domain": "tecnicas",
-      "question": "Um paciente com hipertrofia de corneto inferior bilateral refratária ao tratamento clínico procura você. Ao exame nasal, identifica-se desvio septal para a esquerda com hipertrofia compensatória do corneto inferior direito. Qual é a contraindicação absoluta para turbinoplastia neste momento e qual deve ser sua conduta?",
-      "expected": "A contraindicação é a hipertrofia compensatória do corneto contralateral ao desvio septal. A conduta correta é primeiro corrigir o desvio septal, permitindo que o corneto direito regrida espontaneamente. Apenas após esta correção, se persistir obstrução, proceder com turbinoplastia. Esta sequência evita perda funcional desnecessária de tecido nasal."
+      "question": "Um paciente com desvio septal para a direita apresenta hipertrofia compensatória do corneto inferior esquerdo refratária ao tratamento clínico. Qual é a conduta correta antes de realizar turbinoplastia no lado esquerdo e por quê?",
+      "expected": "Deve-se primeiro corrigir o desvio septal, pois a hipertrofia do corneto contralateral ao desvio é compensatória. A turbinoplastia prematura no lado normal resultaria em complicações desnecessárias. Apenas após septoplastia e resolução da obstrução compensatória, se ainda houver sintomas, procede-se a turbinoplastia no corneto hipertrofiado ipsilateral ao desvio."
     },
     {
       "id": "q-rino-tec-014-2",
       "card_id": "rino-tec-014",
       "domain": "tecnicas",
-      "question": "Durante turbinoplastia inferior, você está executando a ressecção submucosa com eletrocautério nos primeiros 1-2 cm anteriores do corneto. Qual estrutura anatômica e qual complicação você deve evitar ao trabalhar na porção posterior do corneto, segundo as evidências atuais? Cite o estudo de referência.",
-      "expected": "Deve-se evitar ressecção na porção posterior do corneto inferior, onde se localizam vasos de maior calibre que causam sangramento significativo. O estudo de referência é o ECR de Passàli et al. com 382 pacientes seguidos por 6 anos, que demonstrou que a abordagem conservadora com ressecção submucosa limitada anterior + outfracture apresentou menores complicações e altas taxas de respiração normalizada, sendo recomendada como técnica de primeira escolha."
+      "question": "Durante uma turbinoplastia inferior, em qual região anatômica deve ser limitada a ressecção óssea e por qual motivo específico?",
+      "expected": "A ressecção óssea deve ser limitada ao terço anterior do corneto (primeiros 1-2 cm), evitando a ressecção posterior. Isso ocorre porque os vasos posteriores do corneto inferior possuem maior calibre, e sua lesão resulta em sangramento significativo de difícil controle. A abordagem conservadora (outfracture + ressecção submucosa anterior) reduz complicações graves mantendo eficácia, conforme evidenciado no ECR de Passàli et al. com 382 pacientes."
     },
     {
       "id": "q-rino-tec-015-1",
       "card_id": "rino-tec-015",
       "domain": "tecnicas",
-      "question": "Durante a liberação do músculo depressor septi nasi, qual é o comprimento ideal da incisão gingivolabial superior e qual é a orientação desta incisão para otimizar o alongamento do lábio?",
-      "expected": "A incisão gingivolabial superior deve medir 8-10 mm, ser horizontal e estar centrada no frênulo. A incisão deve ser fechada verticalmente para alongar adequadamente o lábio superior, compensando a descida da ponta ao sorrir e o encurtamento labial causado pelo músculo espástico."
+      "question": "Um paciente apresenta descida da ponta nasal ao sorrir, encurtamento do lábio superior e vinco transverso do filtro. Ao classificar o músculo depressor septi nasi, você identifica inserção nos footplates mediocrurais interdigitando com o orbicular. Qual é a classificação deste músculo e qual deve ser sua conduta cirúrgica?",
+      "expected": "Trata-se de um depressor septi nasi tipo I. A conduta cirúrgica é realizar a liberação do músculo próximo à sua origem, seguida de transposição das extremidades cortadas para o lábio superior central, fornecendo volume. O fechamento vertical da incisão gingivolabial alonga o lábio e corrige os sintomas. A classificação tipo I é a indicação clássica para este procedimento."
     },
     {
       "id": "q-rino-tec-015-2",
       "card_id": "rino-tec-015",
       "domain": "tecnicas",
-      "question": "Você identifica durante a cirurgia um depressor septi nasi rudimentar e mal definido. Qual é a conduta apropriada e qual é a justificativa anatômica para esta decisão?",
-      "expected": "A conduta apropriada é não realizar a liberação do músculo, pois trata-se de um depressor tipo III (rudimentar ou ausente), que é uma contraindicação para a técnica. A justificativa é que este tipo não possui origem e inserção bem definidas, não contribui significativamente para a patologia e sua liberação não resultaria em melhora clínica relevante, evitando assim dissecção desnecessária e potenciais complicações."
+      "question": "Durante a técnica de liberação do depressor septi nasi, qual é o tamanho e a localização exata da incisão gingivolabial superior, e qual é a importância da direção do fechamento dessa incisão?",
+      "expected": "A incisão gingivolabial superior deve medir 8–10 mm e ser posicionada horizontalmente centrada no frênulo. O fechamento deve ser realizado verticalmente para alongar o lábio superior, compensando o encurtamento pré-operatório. Esta técnica de fechamento é essencial para evitar complicações como encurtamento insuficiente e assimetria."
     },
     {
       "id": "q-rino-tec-016-1",
       "card_id": "rino-tec-016",
       "domain": "tecnicas",
-      "question": "Um paciente apresenta giba dorsal moderada com pele de espessura normal e anatomia favorável. Ao optar pela rinoplastia de preservação dorsal, qual é o principal mecanismo que evita a necessidade de osteotomias tradicionais e o \"teto aberto\"?",
-      "expected": "A técnica preserva a relação intrínseca do keystone (ligamento entre septo e crista lateral do septo) e realiza ressecção no plano sub-SMAS do dorso sem componente por componente, permitindo o push-down da pirâmide nasal intacta. Isso mantém a estrutura dorsal unificada, evitando o colapso que caracteriza o \"teto aberto\" e dispensando osteotomias. O auxílio de equipamento piezoelétrico facilita este remodelamento controlado."
+      "question": "Um paciente apresenta giba dorsal moderada com pele de espessura normal e anatomia favorável. Ao optar pela rinoplastia de preservação dorsal, qual é o aspecto anatômico crítico que deve ser preservado durante a ressecção no plano sub-SMAS, e qual complicação específica pode ocorrer se este aspecto for violado?",
+      "expected": "Deve-se preservar a relação intrínseca do keystone, que é o ligamento entre o septo e a crista lacrimal superior (CLS). Violação desta relação pode resultar em recorrência da giba, com taxas variando de 2,5% a 13,6% dependendo da técnica de remodelamento utilizado. Adicionalmente, a perda desta relação compromete o suporte natural da pirâmide nasal, eliminando o benefício principal da técnica de preservação e potencialmente aumentando a necessidade de osteotomias tradicionais."
     },
     {
       "id": "q-rino-tec-016-2",
       "card_id": "rino-tec-016",
       "domain": "tecnicas",
-      "question": "Qual é a taxa de recorrência de giba quando se utiliza eletrocautério versus bisturi para remodelamento das cristas laterais do septo na abordagem de preservação dorsal, e qual instrumento é superior?",
-      "expected": "Segundo a série de Sergesketter et al. (4 cirurgiões seniores com 115 anos de prática combinada), o eletrocautério resulta em recorrência de 2,5%, enquanto o bisturi resulta em 13,6% de recorrência. Portanto, o eletrocautério é superior para remodelamento das cristas laterais do septo na rinoplastia de preservação dorsal, demonstrando a importância da seleção adequada do instrumento cirúrgico."
+      "question": "Considerando as complicações da rinoplastia de preservação dorsal, qual ferramenta cirúrgica é superior ao bisturi tradicional para remodelamento das cristas lacrimas superiores, e qual é a diferença percentual de recorrência de giba entre essas duas técnicas?",
+      "expected": "O eletrocautério supera o bisturi tradicional para remodelamento das cristas lacrimas superiores na técnica de preservação dorsal. A recorrência de giba com eletrocautério é de aproximadamente 2,5%, enquanto com o bisturi atinge 13,6%, representando uma diferença de 11,1 pontos percentuais. Esta superioridade do eletrocautério deve-se a um remodelamento mais preciso e controlado das estruturas ósseas das CLS, mantendo melhor a integridade da relação do keystone e reduzindo significativamente a recorrência."
     },
     {
       "id": "q-rino-tec-017-1",
       "card_id": "rino-tec-017",
       "domain": "tecnicas",
-      "question": "Um paciente apresenta columela pendente de 4 mm na vista lateral. Qual é a classificação de Rohrich e quais são as opções técnicas de correção indicadas?",
-      "expected": "Trata-se de Classe I (columela pendente > 2 mm). O tratamento envolve ressecção de septo membranoso e/ou septo caudal e/ou cruras mediais, dependendo da anatomia específica e extensão da deformidade. O objetivo é reposicionar a columela cranialmente para normalizar a relação alar-columelar."
+      "question": "Um paciente apresenta columela pendente de 3 mm na vista lateral. Qual é a classificação de Rohrich e qual(is) estrutura(s) devem ser abordadas cirurgicamente?",
+      "expected": "Trata-se de Classe I (columela pendente > 2 mm). O tratamento envolve ressecção do septo membranoso, podendo ser associada à ressecção do septo caudal e/ou ressecção das cruras mediais, dependendo da extensão do alongamento columelar e da estrutura anatômica responsável pela deformidade."
     },
     {
       "id": "q-rino-tec-017-2",
       "card_id": "rino-tec-017",
       "domain": "tecnicas",
-      "question": "Durante uma rinoplastia, você identifica retração alar de 3 mm bilateralmente. Descreva o manejo cirúrgico dessa deformidade segundo a classificação de Rohrich e qual é o limite máximo seguro de ressecção de pele vestibular para evitar estenose.",
-      "expected": "Trata-se de Classe II (retração alar > 2 mm). O manejo inclui reposicionamento caudal da crura lateral, alar contour ou LCSG (lateral crural strut graft) e enxertos compostos conforme necessário. O limite máximo de excisão de pele vestibular é de 3 mm por elipse horizontal para evitar estenose vestibular e complicações cicatriciais."
+      "question": "Durante a correção de ala pendente (Classe IV) via excisão de elipse horizontal de pele vestibular, qual é o limite máximo de ressecção para evitar estenose nasal?",
+      "expected": "O limite máximo de ressecção é 3 mm de pele vestibular. Ultrapassar essa medida aumenta significativamente o risco de estenose da válvula nasal interna e comprometimento funcional das vias aéreas, sendo uma armadilha técnica importante dessa abordagem."
     },
     {
       "id": "q-rino-dec-001-1",
       "card_id": "rino-dec-001",
       "domain": "decisoes",
-      "question": "Um paciente apresenta deformidade complexa do dorso nasal com desvio septal significativo, ponta bulbosa e necessidade estimada de 3 enxertos cartilaginosos. Qual via de acesso você escolheria e cite 2 vantagens técnicas específicas dessa abordagem que justifiquem sua decisão.",
-      "expected": "Via aberta (transcolumelar). Vantagens: (1) visualização binocular direta do dorso, ponta e septo, permitindo simetria precisa; (2) uso simultâneo de ambas as mãos para colocação controlada de múltiplos enxertos e suturas, reduzindo complicações de mal posicionamento. A incisão transcolumelar oferece acesso completo para septoplastia associada e osteotomias, essencial em deformidades complexas com taxa de revisão inferior a 5% comparado a 15-20% em via fechada para casos similares."
+      "question": "Um paciente apresenta deformidade complexa com desvio septal importante, dorso alto e ponta bulbosa que necessita de múltiplos enxertos de cartilagem. Qual via de acesso você escolheria e quais são os 3 principais ganhos técnicos dessa abordagem em relação à via fechada?",
+      "expected": "Via aberta (transcolumelar). Os três ganhos principais são: (1) visualização binocular direta da estrutura nasal, permitindo simetria precisa; (2) uso simultâneo de ambas as mãos para sutura e posicionamento de enxertos, aumentando controle e estabilidade; (3) acesso superior para septoplastia e osteotomias extensas com menor morbidade e visualização completa da anatomia nasal. Essa abordagem reduz taxa de revogação cirúrgica em casos complexos de 15-20% para menos de 5%."
     },
     {
       "id": "q-rino-dec-001-2",
       "card_id": "rino-dec-001",
       "domain": "decisoes",
-      "question": "Durante uma rinoplastia por via fechada, você identifica dorso nasal baixo para a base e necessita de aumento. Descreva a estratégia de enxertia de ponta de acordo com o algoritmo de Constantian e explique por que usar múltiplos enxertos pequenos é superior a um enxerto único.",
-      "expected": "Em dorso baixo, usar tip grafts múltiplos (mínimo 2-3 pequenos enxertos cartilaginosos) na ponta nasal via acesso delivery ou endonasal. Múltiplos enxertos pequenos: (1) permitem contorno natural e aumento gradual sem aspect ratio inadequado; (2) distribuem forças de cicatrização, reduzindo risco de desvio ou colapso (um enxerto único sofre maior pressão cicatricial, resultando em absorção irregular); (3) facilitam integração vascular mais uniforme, melhorando sobrevida do enxerto em até 20-30%. Um único enxerto em ponta produz resultado artificial e maior taxa de reabsorção (25-40%) comparado a múltiplos (10-15%)."
+      "question": "Ao usar a técnica de delivery da ponta (open-roof technique) em via fechada, qual estrutura anatômica deve ser preservada para evitar colapso valvar dinâmico, e qual o ângulo mínimo de abertura nasal anterior que deve ser mantido?",
+      "expected": "A válvula nasal interna (ângulo formado entre septo e parede lateral superior) deve ser preservada, com manutenção de pelo menos 10-15 graus de abertura nasal anterior. O comprimento mínimo da válvula nasal interna deve ser de 10-12 mm. Danificar essa estrutura resulta em obstrução nasal funcional em até 30% dos pacientes, sendo esta uma das principais complicações evitáveis da rinoplastia."
     },
     {
       "id": "q-rino-dec-002-1",
       "card_id": "rino-dec-002",
       "domain": "decisoes",
-      "question": "Durante uma rinoplastia com redução dorsal significativa, você identifica deformidade em teto aberto (open roof). Qual é a técnica de osteotomia lateral recomendada e qual é o objetivo primário desta manobra?",
-      "expected": "A osteotomia lateral bilateral (preferencialmente técnica percutânea descontínua) é indicada para fechar o teto aberto. O objetivo primário é reposicionar as porções laterais do vault ósseo medialmente, reduzindo a largura do dorso nasal e eliminando a deformidade em V invertido. A técnica percutânea descontínua é preferida por oferecer melhor controle, menor morbidade e resultados mais previsíveis comparados à técnica aberta contínua."
+      "question": "Durante uma rinoplastia, após redução do dorso nasal de 4mm, você observa deformidade em teto aberto (open roof). Qual é a técnica de osteotomia indicada e qual é o principal objetivo dessa manobra?",
+      "expected": "A osteotomia lateral bilateral é indicada para fechar o teto aberto criado pela redução dorsal. O objetivo é aproximar os ossos nasais na linha média, restaurando a continuidade do vault ósseo e prevenindo a deformidade característica. Spreader grafts complementares devem ser considerados para manutenção da via aérea e suporte estrutural."
     },
     {
       "id": "q-rino-dec-002-2",
       "card_id": "rino-dec-002",
       "domain": "decisoes",
-      "question": "Um paciente com etnia não-europeia apresenta nariz baixo e largo, sendo submetido à rinoplastia. Qual é a indicação apropriada para osteotomias neste caso e quais são as contraindicações relativas que devem ser consideradas?",
-      "expected": "Em pacientes com nariz baixo e largo em etnias não-europeias, as osteotomias geralmente são contraindicadas, pois o objetivo usual é aumentar a altura e a projeção dorsal, não reduzir a largura. As contraindicações relativas incluem: ossos nasais curtos, pacientes idosos com ossos finos e pele espessa (risco de instabilidade, fragmentação e resultados pouco perceptíveis). Nestes casos, deve-se avaliar criteriosamente a necessidade real da osteotomia versus alternativas como enxertos estruturais e camouflage."
+      "question": "Um paciente com desvio ósseo nasal apresenta vault assimétrico, com lado côncavo à direita. Descreva o planejamento de osteotomias necessárias, especificando os tipos e localizações, além de qual manobra mecânica será utilizada.",
+      "expected": "Deve ser realizada osteotomia lateral bilateral associada a osteotomia medial no lado côncavo (direito). A técnica utilizada é a greenstick fracture com pressão digital controlada para reposicionar o segmento ósseo. A osteotomia medial no lado côncavo permite melhor correção do desvio sem necessidade de fragmentação excessiva."
     },
     {
       "id": "q-rino-dec-003-1",
       "card_id": "rino-dec-003",
       "domain": "decisoes",
-      "question": "Durante uma rinoplastia secundária, você identifica septo nasal insuficiente após cirurgia prévia. O paciente necessita de um enxerto de suporte estrutural rígido para reconstrução da dorsal e extensão de ponta. Qual é o material de primeira escolha e quais são as precauções técnicas essenciais na sua colheita?",
-      "expected": "Cartilagem costal autóloga, preferencialmente da 9ª costela com 4–5 cm de comprimento. Precauções críticas: (1) aguardar mínimo 30 minutos antes de talhar o enxerto para estabilização; (2) monitorar risco de pneumotórax durante dissecção; (3) preservar pleura visceral; (4) considerar campo cirúrgico adicional e morbidade aumentada. Alternativa: costela homóloga fresca (FFHCC) com taxas de infecção 2,4% e reabsorção 0,8% se morbidade do sítio doador é inaceitável."
+      "question": "Durante uma rinoplastia de revisão, você identifica que o septo nasal disponível possui menos de 10 mm de cartilagem após preservar adequadamente o L-strut. O paciente necessita de um enxerto de suporte estrutural (spreader graft) e um enxerto de contorno dorsal. Qual é sua estratégia de seleção de materiais e qual é o principal cuidado técnico se optar por cartilagem costal?",
+      "expected": "Para o spreader graft (suporte estrutural rígido), utilizar cartilagem costal autóloga da 9ª costela como primeira escolha, colhendo aproximadamente 4-5 cm. Para o contorno dorsal, pode-se usar cartilagem auricular (concha) ou diced cartilage com fascia. O principal cuidado técnico é aguardar 30 minutos após a colheita da costela antes de talhar, permitindo que ela relaxe, e estar vigilante quanto ao risco de pneumotórax durante a dissecção da parede torácica."
     },
     {
       "id": "q-rino-dec-003-2",
       "card_id": "rino-dec-003",
       "domain": "decisoes",
-      "question": "Em uma rinoplastia primária, após análise do septo nasal, você constata que a cartilagem septal preservada mantém L-strut com 12 mm de altura. O paciente necessita de enxertos para contorno de ponta, onlay dorsal e spreader lateral. Como você priorizaria a distribuição dessa cartilagem e qual seria a fonte doadora complementar?",
-      "expected": "Cartilagem septal é suficiente e deve ser primeira escolha para todas as aplicações (spreader, suporte de ponta e onlay dorsal), pois oferece morbidade mínima, está no campo cirúrgico e é facilmente colhida. Entretanto, se múltiplos enxertos volumosos forem necessários e a cartilagem septal for insuficiente, usar concha auricular para enxertos de contorno (tip, camouflage) via acesso anterior ou posterior, mantendo margem de segurança de 3 mm da borda da concha. Reservar costela apenas se rigidez estrutural adicional for imprescindível."
+      "question": "Um residente questiona por que não usar cartilagem homóloga fresca (FFHCC) rotineiramente em vez de costela autóloga em todos os casos de enxerto estrutural. Cite os dados de complicação da FFHCC, a indicação apropriada para seu uso e qual limitação anatômica impede seu uso em determinadas situações.",
+      "expected": "A FFHCC apresenta taxa de infecção de 2,4% e reabsorção de apenas 0,8%, sendo uma opção econômica e conveniente. Sua indicação apropriada é quando há morbidade inaceitável do sítio doador ou quando um material off-the-shelf é desejado. Porém, não deve ser usada para suporte estrutural rígido em todos os casos, pois sua rigidez é inferior à costela autóloga e sua resistência pode ser inadequada para spreader grafts ou extensões septais que exigem suporte permanente máximo."
     },
     {
       "id": "q-rino-dec-004-1",
       "card_id": "rino-dec-004",
       "domain": "decisoes",
-      "question": "Um paciente apresenta giba dorsal pequena a moderada com pele adequada e anatomia favorável. Qual instrumento deve ser preferido para o remodelamento das cartilagens laterais superiores durante a preservação dorsal, e qual é a taxa de recorrência esperada com essa técnica?",
-      "expected": "Deve-se utilizar eletrocautério (não bisturi) para o remodelamento das cartilagens laterais superiores. A preservação dorsal com eletrocautério apresenta taxa de recorrência de aproximadamente 2,5%, significativamente menor que os 13,6% observados com outras abordagens, tornando-a a técnica preferida em casos selecionados com anatomia adequada."
+      "question": "Um paciente apresenta giba dorsal pequena a moderada com pele adequada e anatomia favorável. Qual instrumento deve ser utilizado para o remodelamento das cartilagens laterais superiores na preservação dorsal, e qual é a taxa de recorrência esperada com essa técnica comparada à redução por componentes?",
+      "expected": "Deve-se utilizar eletrocautério (e não bisturi) para o remodelamento das cartilagens laterais superiores. A preservação dorsal com eletrocautério apresenta taxa de recorrência de 2,5%, significativamente menor que os 13,6% observados com outras técnicas, tornando-a superior em casos selecionados com anatomia adequada."
     },
     {
       "id": "q-rino-dec-004-2",
       "card_id": "rino-dec-004",
       "domain": "decisoes",
-      "question": "Diante de um paciente com giba dorsal grande e pele espessa, qual abordagem cirúrgica é mais apropriada e por quê?",
-      "expected": "A redução por componentes é a abordagem preferida em gibas grandes. Essa técnica é mais versátil e previsível para casos complexos com pele espessa ou anatomia desfavorável, permitindo múltiplas modificações estruturais quando a preservação dorsal isolada não seria adequada para os resultados esperados."
+      "question": "Quais critérios clínicos indicam que um paciente com giba dorsal deve ser submetido à redução por componentes em vez da preservação dorsal?",
+      "expected": "A redução por componentes é indicada quando: (1) a giba dorsal é grande; (2) a pele é espessa ou de qualidade inadequada; (3) a anatomia é desfavorável; ou (4) múltiplas modificações estruturais serão necessárias. Nesses casos, a redução por componentes oferece maior versatilidade e previsibilidade técnica do que a preservação dorsal."
     },
     {
       "id": "q-rino-nota-001-1",
       "card_id": "rino-nota-001",
       "domain": "notas",
-      "question": "Qual é a principal mudança de paradigma na rinoplastia moderna em relação às técnicas tradicionais, e qual estrutura anatômica deve ser preservada como prioridade durante o procedimento?",
-      "expected": "A evolução da rinoplastia nas últimas três décadas afastou-se das técnicas ablativas com redução excessiva do arcabouço osseocartilaginoso, passando a priorizar a preservação da anatomia nativa. O cirurgião deve manter a estrutura e suporte do esqueleto nasal, utilizando enxertos cartilaginosos e técnicas de sutura para correção de deformidades, ao invés de realizar ressecções amplas que comprometem o suporte a longo prazo e resultam em complicações cicatriciais significativas."
+      "question": "Descreva as principais diferenças entre as abordagens aberta (transcolumelar) e fechada (endonasal) na rinoplastia, incluindo pelo menos uma vantagem e uma limitação específica de cada técnica.",
+      "expected": "A abordagem aberta oferece melhor visualização da anatomia tridimensional e facilita enxertias complexas, porém deixa cicatriz transcolumelar visível e causa maior edema pós-operatório. A abordagem fechada evita cicatriz visível e reduz edema, mas oferece campo visual limitado e é mais desafiadora para correções estruturais extensas. A escolha depende da complexidade da deformidade e das preferências do cirurgião."
     },
     {
       "id": "q-rino-nota-001-2",
       "card_id": "rino-nota-001",
       "domain": "notas",
-      "question": "Descreva as duas principais abordagens cirúrgicas em rinoplastia, indicando uma vantagem específica de cada uma que o cirurgião deve considerar na seleção da técnica operatória.",
-      "expected": "A rinoplastia pode ser realizada por via aberta (transcolumelar), que oferece melhor visualização e acesso aos componentes estruturais complexos, facilitando técnicas de enxertia e suturas de precisão, ou por via fechada (endonasal), que evita cicatriz externa visível e reduz edema pós-operatório. A escolha depende da complexidade da deformidade, experiência do cirurgião e preferência do paciente, sendo que deformidades complexas e revisões frequentemente beneficiam-se da abordagem aberta."
+      "question": "Explique a mudança de paradigma nas últimas três décadas nas técnicas rinoplásticas e qual é a abordagem moderna preferida para correção de deformidades nasais.",
+      "expected": "O paradigma evoluiu de técnicas ablativas com redução excessiva do arcabouço osseocartilaginoso para uma abordagem de preservação anatômica. A técnica moderna utiliza enxertos cartilaginosos autógenos e técnicas de sutura refinadas para manutenção da estrutura nativa, reduzindo complicações a longo prazo como deformidades secundárias, obstrução respiratória iatrogênica e envelhecimento nasal prematuro."
     },
     {
       "id": "q-rino-nota-002-1",
       "card_id": "rino-nota-002",
       "domain": "notas",
-      "question": "Um paciente do sexo masculino, 28 anos, solteiro, com expectativas perfeccionistas sobre o resultado nasal, solicita rinoplastia por desvio estético leve. Explique como você avaliaria a estabilidade emocional deste candidato e qual seria sua recomendação quanto ao prosseguimento cirúrgico.",
-      "expected": "Deve-se aplicar os critérios SYLVIA (paciente ideal: seguro, jovem, ouve orientações, verbal, inteligente, atraente) versus SIMON (paciente inadequado: solteiro, imaturo, masculino, expectativas excessivas, narcisista). Este paciente apresenta características SIMON preocupantes: sexo masculino, imaturo emocionalmente, expectativas exageradas e possível perfeccionismo narcisista. Recomendação: contraindicar ou adiar cirurgia até avaliação psicológica, educação sobre limitações realistas e demonstração de estabilidade emocional sustentada por período de 3-6 meses."
+      "question": "Durante a avaliação pré-operatória de um paciente candidato a rinoplastia, você identifica uso crônico de cocaína e expectativas pouco realistas quanto aos resultados. Qual é a relevância clínica desses achados e como isso deve influenciar sua conduta?",
+      "expected": "O uso de cocaína compromete significativamente os resultados cirúrgicos devido aos seus efeitos vasoconstritores e necrosantes no tecido nasal, aumentando risco de perda de tecido e cicatrização deficiente. Quanto às expectativas irrealistas, o paciente não se enquadra no perfil SYLVIA (Secure, Young, Listens, Verbal, Intelligent, Attractive) e apresenta características SIMON (Single, Immature, Male, Overly expectant, Narcissistic), sendo indicada a contraindicação relativa ou recusa cirúrgica até cessação do uso e estabilização emocional."
     },
     {
       "id": "q-rino-nota-002-2",
       "card_id": "rino-nota-002",
       "domain": "notas",
-      "question": "Durante avaliação frontal pré-operatória de uma paciente com rinoplastia planejada, identifique os 5 parâmetros anatômicos críticos que devem ser analisados na região da ponta e base nasal, e cite qual deve ser a proporção ideal entre a largura alar e a distância intercantal.",
-      "expected": "Os 5 parâmetros críticos são: (1) formato da ponta (ideal/bulbosa/caixa/pinçada), (2) simetria dos tip-defining points, (3) aparência do rim alar (gull-shaped ideal, versus retração ou notching), (4) largura alar, e (5) base alar. A proporção ideal é que a largura alar seja aproximadamente igual à distância intercantal, estabelecendo harmonia facial. Desvios destas proporções indicam necessidade de refinamento alar ou aumento de base nasal durante a cirurgia."
+      "question": "Descreva os achados na vista frontal que você avaliaria sistematicamente em um paciente com queixa de desvio nasal, incluindo referências anatômicas e proporções importantes.",
+      "expected": "Avaliação frontal deve incluir: (1) proporções faciais pela regra dos terços; (2) tipo de pele (Fitzpatrick); (3) simetria e grau de desvio nasal; (4) vault ósseo; (5) integridade do terço médio; (6) linhas estéticas dorsais (curvas suaves do supercílio aos tip-defining points); (7) morfologia da ponta (normal, bulbosa, box ou pinçada); (8) rim alar (gull-shaped, retrações ou notching); (9) base alar (largura aproximadamente igual à distância intercantal interna); (10) relação com o lábio superior."
     },
     {
       "id": "q-rino-nota-003-1",
       "card_id": "rino-nota-003",
       "domain": "notas",
-      "question": "Durante o planejamento de uma rinoplastia em paciente do sexo feminino, você avalia um ângulo nasolabial de 88°. Como esse achado deve influenciar seu planejamento cirúrgico e qual é o intervalo considerado normal para mulheres?",
-      "expected": "O ângulo nasolabial de 88° está abaixo do intervalo normal para mulheres (95–100°), indicando uma ponta nasal excessivamente projetada ou rotacionada caudalmente. Isso sugere necessidade de deprojeção da ponta e/ou rotação cefálica do dorso para aumentar este ângulo. O planejamento deve incluir avaliação do septo caudal e possível redução da projeção cartilaginosa para restabelecer a harmonia facial, evitando resultado com aparência de nariz excessivamente alongado."
+      "question": "Durante a avaliação pré-operatória de uma paciente feminina candidata a rinoplastia, você identifica um ângulo nasolabial de 88°. Como essa medida se relaciona com o padrão esperado para mulheres e quais são as implicações clínicas dessa alteração?",
+      "expected": "O ângulo nasolabial esperado em mulheres é de 95–100°. Uma medida de 88° indica uma ponta nasal mais projetada e um ângulo mais agudo que o ideal, resultando em aparência mais masculinizada. Isso sugere a necessidade de rotação caudal da ponta ou redução de sua projeção durante o procedimento para restaurar a harmonia facial e atingir os parâmetros estéticos femininos adequados."
     },
     {
       "id": "q-rino-nota-003-2",
       "card_id": "rino-nota-003",
       "domain": "notas",
-      "question": "Qual é a importância clínica do ângulo nasofrontal (115–135°) na avaliação pré-operatória, e como alterações neste ângulo afetam a percepção do comprimento nasal?",
-      "expected": "O ângulo nasofrontal, formado pela glabela–radix–ponta, é crítico para determinar a proporção e projeção do dorso nasal. Um ângulo mais anterior/superior (> 135°) faz o nariz parecer mais longo, enquanto um ângulo mais posterior/inferior (< 115°) resulta em nariz aparentemente mais curto. Isso orienta decisões sobre aumento ou redução da radix e posicionamento do dorso, sendo essencial para evitar desproporcionalidade entre terço superior e médio da face."
+      "question": "Ao analisar a proporção nasofrontal de um paciente, você detecta um ângulo nasofrontal de 105°. Explique como essa alteração afeta a percepção do comprimento nasal e qual estrutura anatômica está posicionada de forma anômala.",
+      "expected": "Um ângulo nasofrontal de 105° está abaixo do intervalo normal (115–135°), indicando que a radix ou glabela está posicionada de forma mais anterior/inferior do que o esperado. Essa configuração faz o nariz parecer visualmente mais curto. Estruturalmente, a radix encontra-se deprimida, exigindo consideração de enxerto ou técnicas de aumento durante o planejamento cirúrgico para normalizar a proporção e a harmonia da região nasofrontal."
     },
     {
       "id": "q-rino-nota-004-1",
       "card_id": "rino-nota-004",
       "domain": "notas",
-      "question": "Um paciente relata obstrução nasal unilateral e você realiza a manobra de Cottle, observando melhora significativa dos sintomas. Explique a fisiologia por trás deste achado e qual estrutura anatômica está comprometida.",
-      "expected": "A manobra de Cottle traciona lateralmente a parede nasal lateral, abrindo a valva nasal interna. O alívio dos sintomas indica incompetência ou colapso desta valva, que é o segmento mais estreito das vias aéreas nasais e responsável por aproximadamente 50% da resistência total. O ângulo septo-columelar normal deve estar entre 10–15°; quando reduzido ou alterado, causa obstrução funcional significativa."
+      "question": "Durante uma rinoplastia funcional, você identifica obstrução na valva nasal interna. Explique por que essa região é crítica para o fluxo aéreo nasal e qual o papel da Lei de Poiseuille na compreensão dessa obstrução.",
+      "expected": "A valva nasal interna é o segmento mais estreito das fossas nasais, responsável por aproximadamente 50% da resistência total nasal. Segundo a Lei de Poiseuille, o fluxo é proporcional a ΔP × r⁴ dividido pelo comprimento. Isso significa que reduções mínimas no raio (calibre) da valva causam efeitos exponenciais (elevados à quarta potência) na diminuição do fluxo aéreo, justificando por que pequenas obstruções nessa região geram sintomas disproportionais de obstrução nasal."
     },
     {
       "id": "q-rino-nota-004-2",
       "card_id": "rino-nota-004",
       "domain": "notas",
-      "question": "Com base na Lei de Poiseuille, por que pequenas reduções no calibre da valva interna nasal causam efeitos desproporcionais na resistência ao fluxo aéreo? Cite um exemplo numérico prático.",
-      "expected": "A Lei de Poiseuille demonstra que o fluxo é proporcional ao raio elevado à quarta potência (r⁴), enquanto inversamente proporcional à resistência. Uma redução de apenas 20% no raio causa diminuição de aproximadamente 59% no fluxo (0,8⁴ ≈ 0,41). Isto explica por que pequenas alterações na valva interna, já sendo o segmento mais crítico (~50% da resistência total), produzem obstrução desproporcional e sintomatologia significativa."
+      "question": "Um paciente relata sensação contínua de obstrução nasal mesmo com cavidades nasais amplas. Qual investigação clínica rápida você realizaria e o que ela demonstraria em caso de incompetência da valva nasal interna?",
+      "expected": "Você realizaria a Manobra de Cottle, que consiste em tracionar lateralmente a parede nasal lateral (ou colocar um instrumento para abri-la lateralmente), abrindo a valva nasal interna. Se o paciente referir alívio imediato da obstrução durante a manobra, isso sugere incompetência ou estreitamento da valva interna como causa primária da obstrução, indicando potencial benefício de procedimentos funcionais como spreader graft ou sutura para restaurar o ângulo septo-columelar ideal de 10–15°."
     },
     {
       "id": "q-rino-nota-005-1",
       "card_id": "rino-nota-005",
       "domain": "notas",
-      "question": "Um residente apresenta um caso de reconstrução nasal que necessita de suporte dorsal estrutural significativo. Qual é a fonte de enxerto preferida, qual costela deve ser colhida, qual é o tamanho de incisão necessário, e qual é o principal risco cirúrgico dessa abordagem?",
-      "expected": "Cartilagem costal é a fonte ideal para dorsal onlay e suporte estrutural devido à abundância. A 9ª costela é a preferida, com comprimento de 4–5 cm e reta medialmente. A incisão deve ter 2 cm. O principal risco é pneumotórax. Importante aguardar ≥ 30 minutos antes de talhar para minimizar warping, e preferir cartilagem central que apresenta menor tendência de deformação."
+      "question": "Um residente está planejando uma rinoplastia de revisão em paciente com dorso nasal irregular e insuficiência de cartilagem septal. Qual é a melhor fonte de enxerto para dorsal onlay estruturado neste caso, e qual é o principal risco cirúrgico associado à sua coleta?",
+      "expected": "Cartilagem costal é a melhor escolha para dorsal onlay quando há necessidade de suporte estrutural abundante. A 9ª costela é preferida, colhida através de incisão de 2 cm com segmento de 4-5 cm de comprimento. O principal risco é pneumotórax. Deve-se aguardar ≥30 minutos antes de talhar o enxerto para evitar warping, e utilizar preferencialmente a cartilagem central que apresenta menor tendência de deformação."
     },
     {
       "id": "q-rino-nota-005-2",
       "card_id": "rino-nota-005",
       "domain": "notas",
-      "question": "Durante uma rinoplastia secundária, o septo do paciente apresenta cartilagem insuficiente para enxertos adicionais. Compare o uso de cartilagem auricular versus cartilagem costal homóloga fresca (FFHCC) para tip graft neste cenário, considerando aplicabilidade, limitações técnicas e taxas de complicação.",
-      "expected": "Cartilagem auricular é a alternativa apropriada para tip graft quando septo é insuficiente, sendo facilmente acessível via incisão anterior (3 mm dentro da concha) ou posterior (3 cm pós-auricular), mantendo 3 mm de borda. Sua limitação é a flacidez que impede suporte rígido. Cartilagem costal homóloga oferece abundância e suporte, mas apresenta risco de infecção (2,4%) e reabsorção (0,8%), tornando-a menos ideal para pequenos enxertos como tip grafts. Para tip graft, auricular é preferida por ser menos morbosa e suficiente para o objetivo."
+      "question": "Em uma rinoplastia primária com necessidade de reconstrução de asa nasal e suporte de ponta, a cartilagem auricular foi escolhida como fonte de enxerto. Descreva a técnica de coleta, a quantidade de cartilagem disponível e a principal limitação deste material para aplicações específicas.",
+      "expected": "A cartilagem auricular pode ser colhida por acesso anterior (3 mm dentro da concha) ou posterior (incisão de 3 cm pós-auricular), mantendo obrigatoriamente 3 mm de borda de concha íntegra para manutenção da forma auricular. É excelente para tip grafts, alar contour e reconstrução de columela, pois oferece quantidade adequada. Porém, sua principal limitação é a flacidez, que a torna inadequada para aplicações que requeiram suporte rígido, como dorsal onlay estruturado."
     },
     {
       "id": "q-rino-nota-006-1",
       "card_id": "rino-nota-006",
       "domain": "notas",
-      "question": "Qual é o intervalo mínimo recomendado entre a cirurgia nasal primária e a rinoplastia secundária, e por que a via aberta é preferencial na maioria dos casos de revisão?",
-      "expected": "O intervalo mínimo é de 12 meses após a cirurgia prévia para permitir a resolução do edema e fibrose, facilitando a avaliação adequada do resultado. A via aberta é preferencial na revisão porque permite melhor visualização e acesso ao tecido nasal já comprometido, além de ser crítica para dissecção precisa no plano supraperichondrial, preservando o plexo subdérmico já danificado pela cirurgia anterior."
+      "question": "Qual é o intervalo mínimo recomendado entre a cirurgia primária e a rinoplastia secundária, e qual é a via de acesso preferencial na maioria dos casos de revisão?",
+      "expected": "O intervalo mínimo é de 12 meses após a cirurgia prévia para permitir resolução completa do edema e cicatrização. A via aberta é preferencial na maioria dos casos de rinoplastia secundária, pois oferece melhor visualização e controle em um nariz já comprometido por cirurgia anterior."
     },
     {
       "id": "q-rino-nota-006-2",
       "card_id": "rino-nota-006",
       "domain": "notas",
-      "question": "Em uma rinoplastia secundária, qual material de enxerto é frequentemente necessário quando há indisponibilidade de cartilagem septal adequada, e qual é a faixa esperada de complicações significativas nestes casos?",
-      "expected": "O enxerto de costela é frequentemente necessário como alternativa quando a cartilagem septal é insuficiente ou já foi utilizada na cirurgia anterior. A taxa de complicações significativas em rinoplastias secundárias varia entre 1,7–18%, refletindo a maior complexidade anatomopatológica e os desafios técnicos inerentes à revisão de um nariz previamente operado."
+      "question": "Por que a dissecção no plano supraperichondrial é ainda mais crítica na rinoplastia secundária, e qual material é frequentemente necessário para enxerto quando não há cartilagem septal disponível?",
+      "expected": "A dissecção supraperichondrial é crítica porque o plexo subdérmico já foi danificado pela cirurgia prévia, e uma dissecção inadequada pode comprometer ainda mais a vascularização e viabilidade dos tecidos. O enxerto de costela é frequentemente necessário pela indisponibilidade de cartilagem septal suficiente em casos de revisão, substituindo a preferência por cartilagem septal nativa."
     },
     {
       "id": "q-rino-nota-007-1",
       "card_id": "rino-nota-007",
       "domain": "notas",
-      "question": "Um paciente com fissura labiopalatal unilateral aos 18 meses será submetido a queiloplastia. Qual é o objetivo específico da rinoplastia primária neste momento e quais são os três componentes anatômicos principais a serem abordados?",
-      "expected": "A rinoplastia primária durante a queiloplastia (antes dos 2 anos) tem como objetivo corrigir as deformidades nasais iniciais e preparar uma melhor fundação nasal. Os três componentes principais a abordar são: (1) centralização do septo caudal, (2) reparo do assoalho nasal e parede lateral, e (3) posicionamento da base alar ipsilateral. Estas manobras visam melhorar a simetria inicial, embora refinamentos adicionais sejam necessários na rinoplastia definitiva após a maturidade esquelética."
+      "question": "Um paciente com fissura labiopalatal unilateral apresenta deformidade nasal e está programado para cirurgia ortognática (Le Fort I) aos 16 anos. Qual é o timing apropriado para realização da rinoplastia definitiva e qual é a justificativa biomecânica para este planejamento?",
+      "expected": "A rinoplastia definitiva deve ser adiada até após a cirurgia ortognática (Le Fort I), pois os movimentos esqueléticos afetam imprevisivelmente a fundação nasal. Embora a maturidade esquelética seja atingida entre 14-16 anos nas mulheres e 18 anos nos homens, a presença de cirurgia ortognática planejada modifica esta sequência. A rinoplastia deve ser realizada como procedimento secundário após a estabilização das mudanças esqueléticas decorrentes do Le Fort I."
     },
     {
       "id": "q-rino-nota-007-2",
       "card_id": "rino-nota-007",
       "domain": "notas",
-      "question": "Um paciente com fissura labiopalatal candidato a cirurgia ortognática (Le Fort I) solicitou rinoplastia definitiva. Como você planejaria o timing cirúrgico e por quê?",
-      "expected": "A rinoplastia definitiva deve ser adiada até após a conclusão da cirurgia ortognática (Le Fort I), apesar da indicação de refinamento nasal estar presente. Isto porque os movimentos esqueléticos maxilares afetam imprevisivelmente a fundação nasal e suas relações anatômicas, podendo comprometer o resultado estético e funcional da rinoplastia se realizada antes. O timing adequado é: primeiro o Le Fort I, permitindo estabilização das estruturas esqueléticas e de partes moles, e posteriormente a rinoplastia definitiva após maturidade esquelética completa (>14-16 anos para mulheres, >18 anos para homens)."
+      "question": "Descreva os componentes da deformidade nasal típica em fissura labiopalatal e quais estruturas devem ser abordadas durante a rinoplastia primária realizada concomitantemente à queiloplastia.",
+      "expected": "A deformidade nasal inclui: deformidade da base alar ipsilateral, desvio de columela, assimetria de cúpulas e encurtamento columelar bilateral. Durante a rinoplastia primária (realizada antes dos 2 anos na queiloplastia), os passos críticos incluem centralização do septo caudal, reparo do assoalho nasal e parede lateral, e posicionamento da base alar. Enxerto septal primário pode ser considerado nesta fase, com estudos mostrando maior altura na porção medial da narina e desvio septal significativamente reduzido sem causar desvio septal clinicamente significativo."
     },
     {
       "id": "q-rino-nota-008-1",
       "card_id": "rino-nota-008",
       "domain": "notas",
-      "question": "Um paciente apresenta hematoma septal ('blackberry') no pós-operatório imediato de rinoplastia. Qual é o risco mais grave dessa complicação se não drenada prontamente, e qual é o tratamento indicado?",
-      "expected": "O risco mais grave é a perfuração septal ou necrose do septo, podendo evoluir para deformidade em sela pós-operatória. O tratamento indicado é a drenagem imediata do hematoma, pois todos os hematomas septais devem ser drenados para prevenir fibrose, perfuração e consequentes sequelas estéticas e funcionais."
+      "question": "Um paciente apresenta hematoma septal tipo 'blackberry' no pós-operatório imediato de rinoplastia. Qual é a complicação mais grave que pode resultar se esse hematoma não for drenado prontamente, e como você abordaria o tratamento?",
+      "expected": "A complicação mais grave é a necrose cartilaginosa ou perfuração septal, que pode evoluir para deformidade em sela pós-operatória. O tratamento é drenagem emergencial do hematoma septal. Todo hematoma deve ser drenado para evitar fibrose e deformidade. A abordagem inclui acesso à cavidade nasal, aspiração ou drenagem do conteúdo hemático, e pode ser necessária ressecção de cartilagem desvitalizada em casos de necrose estabelecida."
     },
     {
       "id": "q-rino-nota-008-2",
       "card_id": "rino-nota-008",
       "domain": "notas",
-      "question": "Um paciente evolui com edema prolongado em supratip (supratip fullness) 3 meses após rinoplastia. Descreva a estratégia de manejo em diferentes fases dessa complicação.",
-      "expected": "Na fase inicial (até 6 semanas), o manejo é conservador com taping, compressas frias e corticoide perioperatório. Se o edema persistir além de 6 semanas, indica-se injeção intralesional de triancinolona na dose de 3–5 mg a cada 4–8 semanas até resolução, pois essa complicação ocorre em 5–15% dos casos e responde bem ao tratamento com esteroides locais."
+      "question": "Um paciente mantém edema em supratip (supratip fullness) que persiste além de 6 semanas após rinoplastia. Descreva o protocolo farmacológico para manejo dessa complicação.",
+      "expected": "O tratamento de primeira linha inclui taping e compressas frias, além de corticoide perioperatório. Para edema persistente além de 6 semanas, inicia-se injeção intralesional de triancinolona na dose de 3–5 mg, repetida a cada 4–8 semanas conforme necessidade. Essa abordagem reduz a inflamação crônica e fibrose responsáveis pela fullness prolongada, evitando necessidade de reoperação."
     },
     {
       "id": "q-rino-nota-009-1",
       "card_id": "rino-nota-009",
       "domain": "notas",
-      "question": "Um paciente apresenta nariz em sela pós-traumático com defeito dorsal moderado. Qual é a técnica de escolha para reconstrução e qual a taxa esperada de absorção do material utilizado segundo o estudo de Niu et al.?",
-      "expected": "A técnica de escolha para defeitos moderados é a cartilagem picada (diced cartilage) envolta em fáscia. O estudo de Niu et al. com 95 pacientes utilizou fáscia do reto abdominal introduzida no espaço dorsal associada a cartilagem costal picada injetada e moldada, com taxa de absorção esperada de aproximadamente 10%. A fáscia do reto abdominal é uma alternativa válida à fáscia temporal."
+      "question": "Um paciente apresenta nariz em sela pós-traumático com defeito dorsal moderado. Qual material você escolheria como enxerto e qual fáscia utilizaria como envoltório, baseando-se nas opções descritas na literatura?",
+      "expected": "Para defeitos moderados, a cartilagem picada (diced cartilage) envolta em fáscia é a melhor opção. O envoltório pode ser fáscia temporal ou fáscia do reto abdominal, sendo esta última uma alternativa válida e equivalente. A fáscia oferece proteção do enxerto e melhora sua integração nos tecidos."
     },
     {
       "id": "q-rino-nota-009-2",
       "card_id": "rino-nota-009",
       "domain": "notas",
-      "question": "Em um caso de nariz em sela grave com diferentes padrões de defeito septal, qual técnica avançada você escolheria e quantas variantes ela apresenta para adequação ao tipo de defeito?",
-      "expected": "Para casos graves de nariz em sela, a técnica Integrated Biomimetic Groove Graft (IBGG) é indicada, apresentando 3 variantes distintas (Cakmak 1, 2 e 3) que permitem adequação precisa ao padrão específico de defeito septal de cada paciente. Esta abordagem oferece melhor controle do suporte dorsal e recontorno nasal em cenários complexos."
+      "question": "No estudo de Niu et al. com 95 pacientes utilizando fáscia do reto abdominal para reconstrução dorsal, qual foi a taxa de absorção observada e quais eram as principais indicações cirúrgicas dessa técnica?",
+      "expected": "A taxa de absorção foi aproximadamente 10%, considerada baixa e favorável. As principais indicações eram revisão cirúrgica pós-infecção e casos de thinning nasal. A técnica consistia em introduzir fáscia do reto no espaço dorsal, seguida de injeção e moldagem de cartilagem costal picada."
     },
     {
       "id": "q-rino-nota-010-1",
       "card_id": "rino-nota-010",
       "domain": "notas",
-      "question": "Um paciente no pós-operatório imediato de rinoplastia apresenta edema significativo e equimose periorbitária. Qual é o protocolo esperado de manejo, incluindo posicionamento, terapia local e timeline de resolução?",
-      "expected": "O protocolo inclui: manutenção da cabeça elevada a mais de 30° nas primeiras 48 horas, aplicação de compressas frias nesse período, evitar qualquer pressão ou trauma na região nasal por 4 semanas (inclusive óculos). A maioria do edema e equimose resolve em 3-4 semanas, com edema sutil residual podendo persistir até 12 meses, especialmente em pacientes com pele espessa. Durante este período, a definição da ponta e o fluxo aéreo continuam melhorando."
+      "question": "Um paciente é submetido a rinoplastia com septoplastia associada. Descreva o protocolo completo de curativos no pós-operatório imediato e indique quando cada componente deve ser removido.",
+      "expected": "Aplicar Steri-Strips do supratip ao dorso, seguido de splint dorsal Denver para manter a redução dorsal. Como foi realizada septoplastia, adicionar splints de Doyle bilaterais para proteção septal. Os Steri-Strips e splint dorsal são removidos no 7º dia pós-operatório, enquanto as suturas de base alar devem ser removidas entre o 7º e 10º dia. Este protocolo previne deformidades do dorso, desvio septal recorrente e garante adequada cicatrização da base alar."
     },
     {
       "id": "q-rino-nota-010-2",
       "card_id": "rino-nota-010",
       "domain": "notas",
-      "question": "Qual é o protocolo antibiótico apropriado no pós-operatório de rinoplastia com septoplastia associada, e qual medicação adjuvante é recomendada intraoperatoriamente para controle de edema?",
-      "expected": "O protocolo antibiótico consiste em cefalosporina IV em dose única pré-operatória, sem necessidade de antibióticos adicionais no pós-operatório, pois não há diferença nas taxas de infecção. A medicação adjuvante recomendada é dexametasona 8 mg IV administrada intraoperatoriamente, com opção de complementar com Medrol Dosepak por 6 dias. Para analgesia, utiliza-se narcóticos orais por alguns poucos dias, associados a laxantes para prevenir constipação."
+      "question": "Qual é o regime de profilaxia antibiótica recomendado no pós-operatório de rinoplastia e qual é a fundamentação científica para essa conduta?",
+      "expected": "A profilaxia deve consistir em cefalosporina IV em dose única no pré-operatório. NÃO está indicada antibioticoterapia pós-operatória prolongada, pois estudos demonstram que não há diferença significativa na taxa de infecção cirúrgica com essa abordagem. A dose única pré-operatória é suficiente para cobrir o período perioperatório crítico, reduzindo custos e efeitos adversos sem comprometer a segurança do paciente."
     },
     {
       "id": "q-flashcard-1",
@@ -749,7 +763,7 @@
     {
       "id": "q-flashcard-15",
       "card_id": "rino-fc-001",
-      "domain": "técnica",
+      "domain": "tecnicas",
       "question": "Largura do L-strut mínimo",
       "expected": "≥ 10 mm (ideal ≥ 15 mm em cartilagem fraca)"
     },
@@ -777,126 +791,126 @@
     {
       "id": "q-flashcard-19",
       "card_id": "rino-fc-001",
-      "domain": "técnica",
+      "domain": "tecnicas",
       "question": "Alar rim strip mínimo (cephalic trim)",
       "expected": "5–6 mm"
     },
     {
       "id": "q-flashcard-20",
       "card_id": "rino-fc-001",
-      "domain": "técnica",
+      "domain": "tecnicas",
       "question": "Columellar strut — dimensões",
       "expected": "3 × 25 mm"
     },
     {
       "id": "q-flashcard-21",
       "card_id": "rino-fc-001",
-      "domain": "técnica",
+      "domain": "tecnicas",
       "question": "Spreader graft — dimensões típicas",
       "expected": "5–6 mm altura × 30–32 mm comprimento"
     },
     {
       "id": "q-flashcard-22",
       "card_id": "rino-fc-001",
-      "domain": "técnica",
+      "domain": "tecnicas",
       "question": "Mini-spreader graft",
       "expected": "~8 × 2 × 2 mm (colocado endonasalmente)"
     },
     {
       "id": "q-flashcard-23",
       "card_id": "rino-fc-001",
-      "domain": "técnica",
+      "domain": "tecnicas",
       "question": "Shield graft — dimensões",
       "expected": "8 mm largura × 10–12 mm comprimento"
     },
     {
       "id": "q-flashcard-24",
       "card_id": "rino-fc-001",
-      "domain": "técnica",
+      "domain": "tecnicas",
       "question": "Septal extension graft — dimensões ideais",
       "expected": "20 × 10 mm"
     },
     {
       "id": "q-flashcard-25",
       "card_id": "rino-fc-001",
-      "domain": "técnica",
+      "domain": "tecnicas",
       "question": "Alar contour graft — dimensões",
       "expected": "4 × 10 mm"
     },
     {
       "id": "q-flashcard-26",
       "card_id": "rino-fc-001",
-      "domain": "técnica",
+      "domain": "tecnicas",
       "question": "Lateral crural strut graft — dimensões",
       "expected": "4 × 25 mm"
     },
     {
       "id": "q-flashcard-27",
       "card_id": "rino-fc-001",
-      "domain": "técnica",
+      "domain": "tecnicas",
       "question": "Lateral crural mattress suture — largura",
       "expected": "6–8 mm (não penetrar revestimento vestibular)"
     },
     {
       "id": "q-flashcard-28",
       "card_id": "rino-fc-001",
-      "domain": "técnica",
+      "domain": "tecnicas",
       "question": "Fáscia temporal — área de coleta bruta",
       "expected": "~8 × 6 cm → contrai para ~5 × 4 cm"
     },
     {
       "id": "q-flashcard-29",
       "card_id": "rino-fc-001",
-      "domain": "técnica",
+      "domain": "tecnicas",
       "question": "9ª costela — comprimento de cartilagem obtido",
       "expected": "4–5 cm"
     },
     {
       "id": "q-flashcard-30",
       "card_id": "rino-fc-001",
-      "domain": "pós-operatório",
+      "domain": "pos-operatorio",
       "question": "Tempo para resolução de edema externo",
       "expected": "3–4 semanas (grosseiro); 12 meses (sutil)"
     },
     {
       "id": "q-flashcard-31",
       "card_id": "rino-fc-001",
-      "domain": "pós-operatório",
+      "domain": "pos-operatorio",
       "question": "Tempo mínimo antes de revisão",
       "expected": "12 meses"
     },
     {
       "id": "q-flashcard-32",
       "card_id": "rino-fc-001",
-      "domain": "pós-operatório",
+      "domain": "pos-operatorio",
       "question": "Triancinolona para supratip — dose",
       "expected": "3–5 mg (10 mg/mL) + lidocaína 2% 1:1, agulha 27G"
     },
     {
       "id": "q-flashcard-33",
       "card_id": "rino-fc-001",
-      "domain": "complicações",
+      "domain": "complicacoes",
       "question": "Taxa de complicações significativas em rinoplastia",
       "expected": "1,7–18%"
     },
     {
       "id": "q-flashcard-34",
       "card_id": "rino-fc-001",
-      "domain": "técnica",
+      "domain": "tecnicas",
       "question": "Osteotomia — não ultrapassar superiormente",
       "expected": "Nível do canto medial (risco de rocker deformity)"
     },
     {
       "id": "q-flashcard-35",
       "card_id": "rino-fc-001",
-      "domain": "técnica",
+      "domain": "tecnicas",
       "question": "Costal cartilage — tempo para warping inicial",
       "expected": "≥ 30 minutos antes de talhar"
     },
     {
       "id": "q-flashcard-36",
       "card_id": "rino-fc-001",
-      "domain": "pós-operatório",
+      "domain": "pos-operatorio",
       "question": "Profilaxia antibiótica na rinoplastia",
       "expected": "Dose única IV pré-op (cefalosporina); sem ATB pós-op"
     },
@@ -959,49 +973,49 @@
     {
       "id": "q-flashcard-45",
       "card_id": "rino-fc-001",
-      "domain": "técnica",
+      "domain": "tecnicas",
       "question": "Infiltração ideal para anestesia completa do nariz",
       "expected": "Base alar (V2) + dorso sobre forame do nasal externo (V1)"
     },
     {
       "id": "q-flashcard-46",
       "card_id": "rino-fc-001",
-      "domain": "técnica",
+      "domain": "tecnicas",
       "question": "Hierarquia de enxertos (Rhinoplasty Society)",
       "expected": "Septo > costela autóloga > costela homóloga fresca > concha > costela irradiada > aloplástico"
     },
     {
       "id": "q-flashcard-47",
       "card_id": "rino-fc-001",
-      "domain": "técnica",
+      "domain": "tecnicas",
       "question": "FFHCC (costela homóloga fresca) — taxa de infecção",
       "expected": "2,4% (3/123 pacientes)"
     },
     {
       "id": "q-flashcard-48",
       "card_id": "rino-fc-001",
-      "domain": "técnica",
+      "domain": "tecnicas",
       "question": "FFHCC — taxa de reabsorção",
       "expected": "0,8% (1/123 pacientes)"
     },
     {
       "id": "q-flashcard-49",
       "card_id": "rino-fc-001",
-      "domain": "técnica",
+      "domain": "tecnicas",
       "question": "Recorrência de giba na preservação dorsal: bisturi vs. eletrocautério",
       "expected": "Bisturi 13,6% vs. eletrocautério 2,5% (P significativo)"
     },
     {
       "id": "q-flashcard-50",
       "card_id": "rino-fc-001",
-      "domain": "complicações",
+      "domain": "complicacoes",
       "question": "Implante de silicone nasal — taxa de malposicionamento (1019 pacientes)",
       "expected": "4% (37/1019)"
     },
     {
       "id": "q-flashcard-51",
       "card_id": "rino-fc-001",
-      "domain": "complicações",
+      "domain": "complicacoes",
       "question": "Implante de silicone nasal — taxa de extrusão",
       "expected": "< 1% (9/1019)"
     },
@@ -1022,14 +1036,14 @@
     {
       "id": "q-flashcard-54",
       "card_id": "rino-fc-001",
-      "domain": "técnica",
+      "domain": "tecnicas",
       "question": "Classificação de desvio nasal de Rohrich — quantas classes?",
       "expected": "3 classes: I (desvio caudal), II (deformidade côncava), III (côncava/convexa S-shaped)"
     },
     {
       "id": "q-flashcard-55",
       "card_id": "rino-fc-001",
-      "domain": "técnica",
+      "domain": "tecnicas",
       "question": "Classificação alar-columelar de Rohrich — quantas classes?",
       "expected": "6 classes: I (columela pendente), II (retração alar), III (I+II), IV (ala pendente), V (retração columelar), VI (IV+V)"
     },
@@ -1043,21 +1057,21 @@
     {
       "id": "q-flashcard-57",
       "card_id": "rino-fc-001",
-      "domain": "técnica",
+      "domain": "tecnicas",
       "question": "Turbinoplastia de primeira escolha",
       "expected": "Ressecção submucosa conservadora + outfracture (Passàli et al., 382 pacientes, 6 anos)"
     },
     {
       "id": "q-flashcard-58",
       "card_id": "rino-fc-001",
-      "domain": "técnica",
+      "domain": "tecnicas",
       "question": "Septal extension graft — ângulo para manter rotação",
       "expected": "90° ao dorso nasal"
     },
     {
       "id": "q-flashcard-59",
       "card_id": "rino-fc-001",
-      "domain": "técnica",
+      "domain": "tecnicas",
       "question": "Septal extension graft — ângulo para alongar/desrotar",
       "expected": "45° inferior ao dorso nasal"
     },
@@ -1085,35 +1099,35 @@
     {
       "id": "q-flashcard-63",
       "card_id": "rino-fc-001",
-      "domain": "pós-operatório",
+      "domain": "pos-operatorio",
       "question": "Dexametasona intraoperatória na rinoplastia — dose",
       "expected": "8 mg IV (± Medrol Dosepak 6 dias)"
     },
     {
       "id": "q-flashcard-64",
       "card_id": "rino-fc-001",
-      "domain": "técnica",
+      "domain": "tecnicas",
       "question": "TXA tópico na rinoplastia — efeito no sangramento",
       "expected": "Redução significativa (SMD −1,20; P = 0,04) + menor edema e equimose"
     },
     {
       "id": "q-flashcard-65",
       "card_id": "rino-fc-001",
-      "domain": "técnica",
+      "domain": "tecnicas",
       "question": "Columellar strut floating vs. fixed — diferença",
       "expected": "Floating (2–3 mm anterior à espinha) = mantém projeção. Fixed (sobre a maxila) = aumenta projeção"
     },
     {
       "id": "q-flashcard-66",
       "card_id": "rino-fc-001",
-      "domain": "técnica",
+      "domain": "tecnicas",
       "question": "Shield graft — posição em relação aos tip-defining points",
       "expected": "Estende-se 2–3 mm além dos tip-defining points"
     },
     {
       "id": "q-flashcard-67",
       "card_id": "rino-fc-001",
-      "domain": "técnica",
+      "domain": "tecnicas",
       "question": "Rinoplastia definitiva em fissura — timing",
       "expected": "> 14–16 anos ♀, > 18 anos ♂ (maturidade esquelética), APÓS Le Fort I se planejado"
     }

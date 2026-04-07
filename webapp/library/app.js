@@ -168,7 +168,7 @@ const App = (() => {
     const hasAny = entries.some(([, t]) => t.questions.length > 0);
 
     if (!hasAny) {
-      container.innerHTML = '<div class="no-results">Nenhuma questão disponível.<br>Execute: node tools/generate_questions.js --topic blefaroplastia</div>';
+      container.innerHTML = '<div class="no-results">Questões não disponíveis para este tópico.</div>';
       return;
     }
 

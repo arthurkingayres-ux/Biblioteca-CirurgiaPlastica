@@ -186,6 +186,17 @@ async function main() {
   }
 
   // --- Flashcards (incluídos diretamente, sem chamar API) ---
+  // Normalizar nomes de domínio para coincidir com os domínios dos cards regulares,
+  // evitando fragmentação no perfil adaptativo (ex: "técnica" → "tecnicas").
+  const DOMAIN_NORM = {
+    'técnica': 'tecnicas', 'tecnica': 'tecnicas',
+    'decisão': 'decisoes', 'decisao': 'decisoes',
+    'avaliação': 'avaliacao', 'avaliacao': 'avaliacao',
+    'complicação': 'complicacoes', 'complicações': 'complicacoes', 'complicacoes': 'complicacoes',
+    'emergência': 'emergencia', 'emergencia': 'emergencia',
+    'pós-operatório': 'pos-operatorio', 'pos-operatorio': 'pos-operatorio',
+  };
+
   const fcPath = path.join(cardsDir, 'flashcards.json');
   if (fs.existsSync(fcPath)) {
     try {
@@ -195,10 +206,12 @@ async function main() {
       for (let i = 0; i < fcCards.length; i++) {
         const fc = fcCards[i];
         if (!fc.front || !fc.back) continue;
+        const rawDomain = fc.domain || 'flashcards';
+        const domain = DOMAIN_NORM[rawDomain.toLowerCase()] || rawDomain;
         questions.push({
           id: `q-flashcard-${i + 1}`,
           card_id: fcData.id || 'flashcard',
-          domain: fc.domain || 'flashcards',
+          domain,
           question: fc.front,
           expected: fc.back,
         });

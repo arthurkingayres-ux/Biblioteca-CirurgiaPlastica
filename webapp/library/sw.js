@@ -1,4 +1,4 @@
-const CACHE_NAME = 'biblioteca-cp-v1';
+const CACHE_NAME = 'biblioteca-cp-v2';
 const ASSETS = [
   './',
   './index.html',
@@ -7,6 +7,7 @@ const ASSETS = [
   './search.js',
   './renderer.js',
   './preop.js',
+  './test.js',
   './manifest.json'
 ];
 
