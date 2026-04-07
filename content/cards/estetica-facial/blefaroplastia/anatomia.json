@@ -3,67 +3,142 @@
     "id": "blef-anat-001",
     "type": "anatomy",
     "title": "Pele Palpebral",
-    "aliases": ["pele da pálpebra", "pele periocular"],
+    "aliases": [
+      "pele da pálpebra",
+      "pele periocular"
+    ],
     "topic": "blefaroplastia",
     "area": "estetica-facial",
     "definition": "A pele das pálpebras é a mais fina do corpo (~0,5 mm na pálpebra superior, comparada a 2–3 mm no restante da face). Não possui gordura subcutânea significativa, permitindo que alterações nas estruturas profundas (gordura, músculo) sejam facilmente visíveis.",
     "location": "Pálpebras superior e inferior; a pele pré-tarsal é firmemente aderida ao tarso por fibras do septo, do LPS e do orbicular pré-tarsal, formando a prega palpebral superior. A pele pré-septal é mais laxa e é a principal contribuinte da dermatocálase.",
-    "relations": ["Septo orbital", "Aponeurose do LPS", "Músculo orbicular do olho", "Tarso"],
+    "relations": [
+      "Septo orbital",
+      "Aponeurose do LPS",
+      "Músculo orbicular do olho",
+      "Tarso"
+    ],
     "surgical_relevance": "A marcação cirúrgica deve preservar pelo menos 20 mm de pele entre a borda ciliar e a sobrancelha (margem de segurança contra lagoftalmo). A pele pré-septal redundante é o alvo primário da blefaroplastia superior.",
     "how_to_identify": "Pele extremamente fina e translúcida; região pré-tarsal aderida ao plano profundo, região pré-septal frouxa e pinçável facilmente com pinça.",
     "images": [],
-    "citations": ["Neligan, 2023, vol. 2, cap. 8", "Grabb & Smith, 2024, cap. 35"],
+    "citations": [
+      "Neligan, 2023, vol. 2, cap. 8",
+      "Grabb & Smith, 2024, cap. 35"
+    ],
     "updates": [],
-    "tags": ["anatomia", "pele", "pálpebra", "dermatocálase", "lamela-anterior"]
+    "tags": [
+      "anatomia",
+      "pele",
+      "pálpebra",
+      "dermatocálase",
+      "lamela-anterior"
+    ]
   },
   {
     "id": "blef-anat-002",
     "type": "anatomy",
     "title": "Músculo Orbicular do Olho",
-    "aliases": ["orbicularis oculi", "orbicular", "músculo orbicular"],
+    "aliases": [
+      "orbicularis oculi",
+      "orbicular",
+      "músculo orbicular"
+    ],
     "topic": "blefaroplastia",
     "area": "estetica-facial",
     "definition": "Músculo estriado plano e circular que envolve a fissura palpebral, dividido em três porções: pré-tarsal (piscar involuntário), pré-septal (fechamento reflexo e voluntário) e orbital (fechamento forçado, estende-se sobre o rebordo orbitário). A hipertrofia do orbicular pode causar 'squinch' — fullness muscular que simula excesso de pele.",
     "location": "Circunda toda a fissura palpebral. Porção pré-tarsal sobre o tarso, pré-septal sobre o septo orbital, orbital sobre o rebordo orbitário e adjacências.",
-    "relations": ["Nervo facial (VII) — ramo temporal (porção superior) e ramo zigomático (porção inferior)", "Pele palpebral (superficial)", "Septo orbital (profundo)", "Tarso (profundo, porção pré-tarsal)"],
+    "relations": [
+      "Nervo facial (VII) — ramo temporal (porção superior) e ramo zigomático (porção inferior)",
+      "Pele palpebral (superficial)",
+      "Septo orbital (profundo)",
+      "Tarso (profundo, porção pré-tarsal)"
+    ],
     "surgical_relevance": "A ressecção de músculo orbicular pré-septal durante blefaroplastia superior melhora a definição da prega mas aumenta edema inicial. A lesão do ramo zigomático do nervo facial pode comprometer o fechamento palpebral inferior. O ramo temporal cruza o arco zigomático na zona perigosa — 1 cm anteriormente ao tragus.",
     "how_to_identify": "Músculo rosa-pálido imediatamente profundo à pele; porção pré-tarsal aderida ao tarso, porção pré-septal mais frouxa sobre o septo.",
-    "images": ["blef-13-6-musculos-orbitais.png", "blef-13-7-frontalis.png", "blef-13-16-inervacao-temporal-sobrancelha.png", "fig13-6-musculos-periorbitarios.jpeg"],
-    "citations": ["Neligan, 2023, vol. 2, cap. 8", "Core Procedures, 2020, cap. 3"],
+    "images": [
+      "blef-13-6-musculos-orbitais.png",
+      "blef-13-7-frontalis.png",
+      "blef-13-16-inervacao-temporal-sobrancelha.png",
+      "fig13-6-musculos-periorbitarios.jpeg"
+    ],
+    "citations": [
+      "Neligan, 2023, vol. 2, cap. 8",
+      "Core Procedures, 2020, cap. 3"
+    ],
     "updates": [],
-    "tags": ["anatomia", "músculo", "orbicular", "nervo-facial", "lamela-anterior"]
+    "tags": [
+      "anatomia",
+      "músculo",
+      "orbicular",
+      "nervo-facial",
+      "lamela-anterior"
+    ]
   },
   {
     "id": "blef-anat-003",
     "type": "anatomy",
     "title": "Septo Orbital",
-    "aliases": ["septum orbitale", "membrana septal"],
+    "aliases": [
+      "septum orbitale",
+      "membrana septal"
+    ],
     "topic": "blefaroplastia",
     "area": "estetica-facial",
     "definition": "Membrana fibrosa que se origina do arcus marginalis (periósteo do rebordo orbitário) e constitui a barreira entre os compartimentos pré-septal e intraorbitário. Na pálpebra superior, funde-se com a aponeurose do LPS 2–5 mm acima da borda superior do tarso. Na pálpebra inferior, funde-se com a fáscia capsulopalpebral aproximadamente 5 mm abaixo da borda inferior do tarso.",
     "location": "Estende-se do arcus marginalis (rebordo orbitário) até a aponeurose do LPS (superior) ou fáscia capsulopalpebral (inferior). Divide o espaço pré-septal do intraorbitário.",
-    "relations": ["Arcus marginalis (origem)", "Aponeurose do LPS (fusão superior)", "Fáscia capsulopalpebral (fusão inferior)", "Gordura pré-aponeurótica (posterior)"],
+    "relations": [
+      "Arcus marginalis (origem)",
+      "Aponeurose do LPS (fusão superior)",
+      "Fáscia capsulopalpebral (fusão inferior)",
+      "Gordura pré-aponeurótica (posterior)"
+    ],
     "surgical_relevance": "Dissecar além da fusão septo-aponeurose pode lesar a aponeurose do LPS e causar ptose iatrogênica. A abertura do septo é o passo que permite acessar a gordura orbitária. Em asiáticos, o septo funde-se com a aponeurose do LPS em posição mais inferior, permitindo que a gordura pré-aponeurótica desça anteriormente ao tarso — base anatômica da ausência de prega palpebral ('single eyelid').",
     "how_to_identify": "Membrana fibrosa branco-perolada profunda ao orbicular; ao abrir, expõe a gordura pré-aponeurótica amarela. Relação com a fusão à aponeurose é o marco crítico.",
-    "images": ["blef-13-11-septo-orbital.png", "blef-13-8-anatomia-palpebral-sagital.png", "fig13-11-septo-orbital.jpeg", "fig13-9-anatomia-palpebral-sagital.jpeg"],
-    "citations": ["Neligan, 2023, vol. 2, cap. 8", "Grabb & Smith, 2024, cap. 35"],
+    "images": [
+      "blef-13-11-septo-orbital.png",
+      "blef-13-8-anatomia-palpebral-sagital.png",
+      "fig13-11-septo-orbital.jpeg",
+      "fig13-9-anatomia-palpebral-sagital.jpeg"
+    ],
+    "citations": [
+      "Neligan, 2023, vol. 2, cap. 8",
+      "Grabb & Smith, 2024, cap. 35"
+    ],
     "updates": [],
-    "tags": ["anatomia", "septo", "barreira", "órbita", "fusão-aponeurose"]
+    "tags": [
+      "anatomia",
+      "septo",
+      "barreira",
+      "órbita",
+      "fusão-aponeurose"
+    ]
   },
   {
     "id": "blef-anat-004",
     "type": "anatomy",
     "title": "Gordura Orbitária — Pálpebra Superior",
-    "aliases": ["gordura pré-aponeurótica superior", "fat pads superiores", "compartimentos gordurosos superiores"],
+    "aliases": [
+      "gordura pré-aponeurótica superior",
+      "fat pads superiores",
+      "compartimentos gordurosos superiores"
+    ],
     "topic": "blefaroplastia",
     "area": "estetica-facial",
     "definition": "A gordura palpebral superior apresenta dois compartimentos: medial (nasal) — gordura mais pálida e firme — e central (pré-aponeurótico) — mais amarelo e lobulado. O compartimento lateral NÃO contém gordura; a estrutura que ocupa essa posição é a glândula lacrimal, cuja ressecção inadvertida causa síndrome de olho seco permanente e grave.",
     "location": "Posterior ao septo orbital, anterior à aponeurose do LPS. Compartimento medial na porção nasal, compartimento central na porção pré-aponeurótica.",
-    "relations": ["Septo orbital (anterior)", "Aponeurose do LPS (posterior)", "Glândula lacrimal (compartimento lateral — NÃO é gordura)"],
+    "relations": [
+      "Septo orbital (anterior)",
+      "Aponeurose do LPS (posterior)",
+      "Glândula lacrimal (compartimento lateral — NÃO é gordura)"
+    ],
     "surgical_relevance": "A gordura pré-aponeurótica medial e central é amarela, lobulada e flui livremente quando exposta. A glândula lacrimal é rosa-acinzentada, firme, com textura glandular, SEMPRE no compartimento lateral. Regra prática: qualquer estrutura lateralmente ao limbo temporal com aspecto glandular NÃO deve ser ressecada. Na dúvida, reposicionar — nunca ressecar. NUNCA tracionar gordura — risco de hemorragia retrobulbar por avulsão de vasos profundos.",
     "how_to_identify": "Gordura medial: pálida, firme. Gordura central: amarela, lobulada, flui ao pressionar o globo. Glândula lacrimal lateral: rosa-acinzentada, firme, textura glandular.",
-    "images": [],
-    "citations": ["Neligan, 2023, vol. 2, cap. 8", "Core Procedures, 2020, cap. 3"],
+    "images": [
+      "blef-p0592-anatomia-da-orbita-e-compartimentos-de-gordura-per.jpeg"
+    ],
+    "citations": [
+      "Neligan, 2023, vol. 2, cap. 8",
+      "Core Procedures, 2020, cap. 3"
+    ],
     "updates": [
       {
         "color": "green",
@@ -77,244 +152,562 @@
         "paradigm_shift": false
       }
     ],
-    "tags": ["anatomia", "gordura", "pálpebra-superior", "glândula-lacrimal", "compartimentos"]
+    "tags": [
+      "anatomia",
+      "gordura",
+      "pálpebra-superior",
+      "glândula-lacrimal",
+      "compartimentos"
+    ]
   },
   {
     "id": "blef-anat-005",
     "type": "anatomy",
     "title": "Gordura Orbitária — Pálpebra Inferior",
-    "aliases": ["gordura palpebral inferior", "fat pads inferiores", "compartimentos gordurosos inferiores"],
+    "aliases": [
+      "gordura palpebral inferior",
+      "fat pads inferiores",
+      "compartimentos gordurosos inferiores"
+    ],
     "topic": "blefaroplastia",
     "area": "estetica-facial",
     "definition": "A gordura palpebral inferior possui três compartimentos (medial, central e lateral), separados pelo músculo oblíquo inferior. O compartimento medial é medial ao oblíquo inferior e é o mais frequentemente herniado, causando a 'bolsa' nasojugal. O central está sobre o oblíquo inferior. O lateral pode estar associado à glândula lacrimal prolapsada.",
     "location": "Posterior ao septo orbital inferior. Medial: medialmente ao m. oblíquo inferior. Central: sobre o oblíquo inferior. Lateral: lateralmente ao oblíquo inferior.",
-    "relations": ["Músculo oblíquo inferior (referência anatômica crítica — separa compartimentos)", "Septo orbital inferior (anterior)", "Fáscia capsulopalpebral (posterior)", "Artéria angular (medialmente ao compartimento medial)"],
+    "relations": [
+      "Músculo oblíquo inferior (referência anatômica crítica — separa compartimentos)",
+      "Septo orbital inferior (anterior)",
+      "Fáscia capsulopalpebral (posterior)",
+      "Artéria angular (medialmente ao compartimento medial)"
+    ],
     "surgical_relevance": "A lesão do oblíquo inferior durante ressecção de gordura é causa de diplopia, particularmente em elevação e adução. O oblíquo inferior origina-se na fossa lacrimal, cruza inferiormente ao globo em sentido póstero-lateral, e insere-se na esclera posterior. Gordura medial = mais pálida e firme; central = amarela e lobulada; lateral = pode ser escasso.",
     "how_to_identify": "Compartimento medial: mais proeminente, pálida, firme. Central: amarela, lobulada. Usar oblíquo inferior como referência para separar compartimentos.",
-    "images": ["blef-13-31-gordura-compartimentos-inferiores.png"],
-    "citations": ["Neligan, 2023, vol. 2, cap. 9", "Grabb & Smith, 2024, cap. 35"],
+    "images": [
+      "blef-13-31-gordura-compartimentos-inferiores.png"
+    ],
+    "citations": [
+      "Neligan, 2023, vol. 2, cap. 9",
+      "Grabb & Smith, 2024, cap. 35"
+    ],
     "updates": [],
-    "tags": ["anatomia", "gordura", "pálpebra-inferior", "oblíquo-inferior", "compartimentos"]
+    "tags": [
+      "anatomia",
+      "gordura",
+      "pálpebra-inferior",
+      "oblíquo-inferior",
+      "compartimentos"
+    ]
   },
   {
     "id": "blef-anat-006",
     "type": "anatomy",
     "title": "Músculo Levantador da Pálpebra Superior (LPS) e Aponeurose",
-    "aliases": ["LPS", "levator palpebrae superioris", "MEPS", "aponeurose do levantador"],
+    "aliases": [
+      "LPS",
+      "levator palpebrae superioris",
+      "MEPS",
+      "aponeurose do levantador"
+    ],
     "topic": "blefaroplastia",
     "area": "estetica-facial",
     "definition": "O LPS origina-se no ápice orbitário (asa menor do esfenoide), cursa anteriormente sob o teto orbitário, e sua porção muscular transiciona em aponeurose na região do ligamento de Whitnall. A aponeurose insere-se na face anterior do tarso e emite fibras através do orbicular pré-tarsal até a derme, formando a prega palpebral superior. Inervação: ramo superior do III par craniano (oculomotor).",
     "location": "Ápice orbitário → teto orbitário → transição em aponeurose no ligamento de Whitnall → face anterior do tarso superior + derme (via orbicular pré-tarsal).",
-    "relations": ["Ligamento de Whitnall (fulcro/suspensor na transição músculo-aponeurose)", "Músculo de Müller (profundo ao LPS)", "Septo orbital (funde-se à aponeurose 2–5 mm acima do tarso)", "Tarso superior (inserção)", "III par craniano — ramo superior (inervação)"],
+    "relations": [
+      "Ligamento de Whitnall (fulcro/suspensor na transição músculo-aponeurose)",
+      "Músculo de Müller (profundo ao LPS)",
+      "Septo orbital (funde-se à aponeurose 2–5 mm acima do tarso)",
+      "Tarso superior (inserção)",
+      "III par craniano — ramo superior (inervação)"
+    ],
     "surgical_relevance": "A deiscência ou alongamento da aponeurose é a causa mais comum de ptose involutiva (aponeurótica). O avanço ou plicatura da aponeurose é a técnica-padrão para correção. A relação fusão septo-aponeurose é o marco cirúrgico para evitar lesão iatrogênica do levantador.",
     "how_to_identify": "Aponeurose branca brilhante, profunda ao septo orbital; ao abrir o septo, a gordura pré-aponeurótica recobre a aponeurose. Fibras que se estendem à pele formam a prega.",
-    "images": ["blef-13-8-anatomia-palpebral-sagital.png", "blef-13-2-corte-horizontal-orbita.png", "blef-13-29-incisao-levantador-plicatura.png", "fig13-9-anatomia-palpebral-sagital.jpeg"],
-    "citations": ["Neligan, 2023, vol. 2, cap. 8"],
+    "images": [
+      "blef-13-8-anatomia-palpebral-sagital.png",
+      "blef-13-2-corte-horizontal-orbita.png",
+      "blef-13-29-incisao-levantador-plicatura.png",
+      "fig13-9-anatomia-palpebral-sagital.jpeg"
+    ],
+    "citations": [
+      "Neligan, 2023, vol. 2, cap. 8"
+    ],
     "updates": [],
-    "tags": ["anatomia", "levantador", "LPS", "aponeurose", "ptose", "elevador"]
+    "tags": [
+      "anatomia",
+      "levantador",
+      "LPS",
+      "aponeurose",
+      "ptose",
+      "elevador"
+    ]
   },
   {
     "id": "blef-anat-007",
     "type": "anatomy",
     "title": "Músculo de Müller (Tarsal Superior)",
-    "aliases": ["Müller", "músculo tarsal superior", "Muller's muscle"],
+    "aliases": [
+      "Müller",
+      "músculo tarsal superior",
+      "Muller's muscle"
+    ],
     "topic": "blefaroplastia",
     "area": "estetica-facial",
     "definition": "Músculo liso com inervação simpática (gânglio cervical superior) que se origina na face inferior do LPS e insere-se na borda superior do tarso. Contribui com 2 mm de elevação palpebral. Sua desnervação na síndrome de Horner resulta em ptose leve (1–2 mm).",
     "location": "Face inferior do LPS → borda superior do tarso superior. Localiza-se entre a aponeurose do LPS e a conjuntiva.",
-    "relations": ["LPS (superficial/anterior)", "Conjuntiva (profundo/posterior)", "Tarso superior (inserção inferior)", "Inervação simpática — gânglio cervical superior"],
+    "relations": [
+      "LPS (superficial/anterior)",
+      "Conjuntiva (profundo/posterior)",
+      "Tarso superior (inserção inferior)",
+      "Inervação simpática — gânglio cervical superior"
+    ],
     "surgical_relevance": "A Müllerectomy (ressecção conjuntivo-mülleriana) é a base da correção de ptose leve (MRD1 3–4 mm) quando o teste da fenilefrina 2,5% é positivo (elevação ≥ 1,5 mm confirma tônus simpático residual). Fasanella-Servat = variante que inclui tarso.",
     "how_to_identify": "Músculo liso vermelho-escuro profundo à aponeurose do LPS; teste com fenilefrina 2,5% tópica: elevação ≥ 1,5 mm confirma função.",
-    "images": ["blef-13-8-anatomia-palpebral-sagital.png"],
-    "citations": ["Neligan, 2023, vol. 2, cap. 8", "Grabb & Smith, 2024, cap. 35"],
+    "images": [
+      "blef-13-8-anatomia-palpebral-sagital.png"
+    ],
+    "citations": [
+      "Neligan, 2023, vol. 2, cap. 8",
+      "Grabb & Smith, 2024, cap. 35"
+    ],
     "updates": [],
-    "tags": ["anatomia", "Müller", "músculo-liso", "simpático", "ptose", "fenilefrina"]
+    "tags": [
+      "anatomia",
+      "Müller",
+      "músculo-liso",
+      "simpático",
+      "ptose",
+      "fenilefrina"
+    ]
   },
   {
     "id": "blef-anat-008",
     "type": "anatomy",
     "title": "Fáscia Capsulopalpebral e Ligamento de Lockwood",
-    "aliases": ["retratores da pálpebra inferior", "capsulopalpebral fascia", "Lockwood's ligament"],
+    "aliases": [
+      "retratores da pálpebra inferior",
+      "capsulopalpebral fascia",
+      "Lockwood's ligament"
+    ],
     "topic": "blefaroplastia",
     "area": "estetica-facial",
     "definition": "A fáscia capsulopalpebral é o análogo do LPS na pálpebra inferior. Origina-se do músculo reto inferior, envolve o oblíquo inferior (formando o ligamento de Lockwood — suspensor do globo), e insere-se na borda inferior do tarso inferior. É frequentemente confundida com o septo orbital durante a dissecção.",
     "location": "Músculo reto inferior → envolve o oblíquo inferior (ligamento de Lockwood) → borda inferior do tarso inferior.",
-    "relations": ["Músculo reto inferior (origem)", "Músculo oblíquo inferior (ligamento de Lockwood)", "Tarso inferior (inserção)", "Septo orbital inferior (frequentemente confundido)"],
+    "relations": [
+      "Músculo reto inferior (origem)",
+      "Músculo oblíquo inferior (ligamento de Lockwood)",
+      "Tarso inferior (inserção)",
+      "Septo orbital inferior (frequentemente confundido)"
+    ],
     "surgical_relevance": "A lesão da fáscia capsulopalpebral é uma causa de ectrópio por retração da lamela posterior. A incisão subtarsal na fáscia capsulopalpebral (Nomoto & Ogawa, 2025) é um novo paradigma para blefaroplastia inferior livre de ectrópio.",
     "how_to_identify": "Membrana fibrosa profunda ao septo orbital inferior; pode ser confundida com o septo — a fáscia capsulopalpebral é mais posterior e está aderida à borda inferior do tarso.",
-    "images": ["blef-13-33-fascia-capsulopalpebral.png", "blef-13-34-flap-capsulopalpebral.png", "fig13-33-blefaroplastia-inferior.jpeg"],
-    "citations": ["Neligan, 2023, vol. 2, cap. 9"],
+    "images": [
+      "blef-13-33-fascia-capsulopalpebral.png",
+      "blef-13-34-flap-capsulopalpebral.png",
+      "fig13-33-blefaroplastia-inferior.jpeg"
+    ],
+    "citations": [
+      "Neligan, 2023, vol. 2, cap. 9"
+    ],
     "updates": [],
-    "tags": ["anatomia", "capsulopalpebral", "Lockwood", "retratores", "pálpebra-inferior"]
+    "tags": [
+      "anatomia",
+      "capsulopalpebral",
+      "Lockwood",
+      "retratores",
+      "pálpebra-inferior"
+    ]
   },
   {
     "id": "blef-anat-009",
     "type": "anatomy",
     "title": "Tarso (Superior e Inferior)",
-    "aliases": ["placa tarsal", "tarsus", "tarsal plate"],
+    "aliases": [
+      "placa tarsal",
+      "tarsus",
+      "tarsal plate"
+    ],
     "topic": "blefaroplastia",
     "area": "estetica-facial",
     "definition": "Placa fibrosa densa (não cartilagem) que confere rigidez à pálpebra. Tarso superior: 10–12 mm de altura. Tarso inferior: 3,5–5 mm. Contém as glândulas de Meibomius (glândulas tarsais), que secretam o componente lipídico do filme lacrimal.",
     "location": "Estrutura central de cada pálpebra, formando o esqueleto fibroso. Superior: 10–12 mm de altura; inferior: 3,5–5 mm.",
-    "relations": ["Aponeurose do LPS (insere-se na face anterior do tarso superior)", "Músculo de Müller (insere-se na borda superior do tarso)", "Fáscia capsulopalpebral (insere-se na borda inferior do tarso)", "Conjuntiva (face posterior)", "Glândulas de Meibomius (intratarsais)"],
+    "relations": [
+      "Aponeurose do LPS (insere-se na face anterior do tarso superior)",
+      "Músculo de Müller (insere-se na borda superior do tarso)",
+      "Fáscia capsulopalpebral (insere-se na borda inferior do tarso)",
+      "Conjuntiva (face posterior)",
+      "Glândulas de Meibomius (intratarsais)"
+    ],
     "surgical_relevance": "A disfunção das glândulas de Meibomius (meibomite) causa evaporação excessiva e olho seco. Cirurgias sobre o tarso (suturas de eversão, enxertos) devem considerar a integridade dessas glândulas. O tarso é a referência para a prega palpebral e para a marcação de incisões.",
     "how_to_identify": "Placa fibrosa densa palpável sob a pele; face posterior revestida por conjuntiva; glândulas de Meibomius visíveis como estrias amareladas ao everter a pálpebra.",
-    "images": ["blef-13-8-anatomia-palpebral-sagital.png", "diagrama-camadas-palpebrais.png"],
-    "citations": ["Neligan, 2023, vol. 2, cap. 8", "Grabb & Smith, 2024, cap. 35"],
+    "images": [
+      "blef-13-8-anatomia-palpebral-sagital.png",
+      "diagrama-camadas-palpebrais.png"
+    ],
+    "citations": [
+      "Neligan, 2023, vol. 2, cap. 8",
+      "Grabb & Smith, 2024, cap. 35"
+    ],
     "updates": [],
-    "tags": ["anatomia", "tarso", "Meibomius", "esqueleto", "lamela-posterior"]
+    "tags": [
+      "anatomia",
+      "tarso",
+      "Meibomius",
+      "esqueleto",
+      "lamela-posterior"
+    ]
   },
   {
     "id": "blef-anat-010",
     "type": "anatomy",
     "title": "Ligamento Cantal Medial",
-    "aliases": ["tendão cantal medial", "medial canthal tendon", "MCT"],
+    "aliases": [
+      "tendão cantal medial",
+      "medial canthal tendon",
+      "MCT"
+    ],
     "topic": "blefaroplastia",
     "area": "estetica-facial",
     "definition": "Ligamento com porção anterior (insere-se na crista lacrimal anterior) e porção posterior (crista lacrimal posterior — é a mais forte). A porção posterior mantém a posição medial da pálpebra e é essencial para a função de drenagem lacrimal.",
     "location": "Do tarso medial à crista lacrimal anterior (porção anterior) e posterior (porção posterior). Envolve o saco lacrimal.",
-    "relations": ["Crista lacrimal anterior (inserção anterior)", "Crista lacrimal posterior (inserção posterior — mais forte)", "Saco lacrimal (envolvido pelo ligamento)", "Tarso (origem)"],
+    "relations": [
+      "Crista lacrimal anterior (inserção anterior)",
+      "Crista lacrimal posterior (inserção posterior — mais forte)",
+      "Saco lacrimal (envolvido pelo ligamento)",
+      "Tarso (origem)"
+    ],
     "surgical_relevance": "A porção posterior é a âncora medial da pálpebra. Sua lesão pode causar telecanto e obstrução lacrimal. Reconstrução demanda fixação transnasal.",
     "how_to_identify": "Banda fibrosa firme palpável no canto medial; tracionar a pálpebra lateralmente revela a tensão do ligamento.",
-    "images": ["blef-13-5-tendao-cantal-medial.png"],
-    "citations": ["Neligan, 2023, vol. 2, cap. 8"],
+    "images": [
+      "blef-13-5-tendao-cantal-medial.png"
+    ],
+    "citations": [
+      "Neligan, 2023, vol. 2, cap. 8"
+    ],
     "updates": [],
-    "tags": ["anatomia", "ligamento", "cantal-medial", "saco-lacrimal"]
+    "tags": [
+      "anatomia",
+      "ligamento",
+      "cantal-medial",
+      "saco-lacrimal"
+    ]
   },
   {
     "id": "blef-anat-011",
     "type": "anatomy",
     "title": "Ligamento Cantal Lateral e Tendão Cantal Lateral",
-    "aliases": ["tendão cantal lateral", "lateral canthal tendon", "LCT", "tarsal strap"],
+    "aliases": [
+      "tendão cantal lateral",
+      "lateral canthal tendon",
+      "LCT",
+      "tarsal strap"
+    ],
     "topic": "blefaroplastia",
     "area": "estetica-facial",
     "definition": "Insere-se no tubérculo de Whitnall, localizado 2–3 mm posterior ao rebordo orbitário lateral (face interna da parede orbitária lateral). Posição normal do canto lateral: 2 mm acima do canto medial. Canto lateral no mesmo nível ou abaixo do medial é fator de risco para ectrópio.",
     "location": "Do tarso lateral ao tubérculo de Whitnall na parede orbitária lateral, 2–3 mm posterior ao rebordo. Possui componentes superficial e profundo.",
-    "relations": ["Tubérculo de Whitnall (inserção)", "Tarso (origem)", "Parede orbitária lateral", "Músculo orbicular", "Fáscia temporal"],
+    "relations": [
+      "Tubérculo de Whitnall (inserção)",
+      "Tarso (origem)",
+      "Parede orbitária lateral",
+      "Músculo orbicular",
+      "Fáscia temporal"
+    ],
     "surgical_relevance": "Laxidez do canto lateral (distraction test > 6 mm ou snap-back test positivo) é a principal causa de ectrópio pós-blefaroplastia inferior. Deve ser corrigida com cantopexia ou cantoplastia no mesmo tempo cirúrgico. A fixação na cantoplastia é feita com sutura não-absorvível ao periósteo, 2 mm acima da posição original para compensar relaxamento.",
     "how_to_identify": "Distraction test: tracionar a pálpebra lateralmente — deslocamento > 6 mm = laxidez significativa. Snap-back test: tracionar e soltar — retorno lento > 1 s indica laxidez.",
-    "images": ["blef-13-3-tendao-cantal-lateral.png", "blef-13-4-tarsal-strap.png", "blef-13-35-canto-lateral-envelhecimento.png", "fig13-35-ptose-canto-lateral.jpeg"],
-    "citations": ["Neligan, 2023, vol. 2, cap. 9", "Core Procedures, 2020, cap. 3", "Grabb & Smith, 2024, cap. 35"],
+    "images": [
+      "blef-13-3-tendao-cantal-lateral.png",
+      "blef-13-4-tarsal-strap.png",
+      "blef-13-35-canto-lateral-envelhecimento.png",
+      "fig13-35-ptose-canto-lateral.jpeg"
+    ],
+    "citations": [
+      "Neligan, 2023, vol. 2, cap. 9",
+      "Core Procedures, 2020, cap. 3",
+      "Grabb & Smith, 2024, cap. 35"
+    ],
     "updates": [],
-    "tags": ["anatomia", "ligamento", "cantal-lateral", "Whitnall", "ectrópio", "cantopexia"]
+    "tags": [
+      "anatomia",
+      "ligamento",
+      "cantal-lateral",
+      "Whitnall",
+      "ectrópio",
+      "cantopexia"
+    ]
   },
   {
     "id": "blef-anat-012",
     "type": "anatomy",
     "title": "Ligamento de Whitnall",
-    "aliases": ["Whitnall's ligament", "ligamento suspensor superior"],
+    "aliases": [
+      "Whitnall's ligament",
+      "ligamento suspensor superior"
+    ],
     "topic": "blefaroplastia",
     "area": "estetica-facial",
     "definition": "Condensado fascial que atua como fulcro e suspensor do LPS na região onde a porção muscular transiciona em aponeurose. Localiza-se superiormente na órbita.",
     "location": "Região da transição músculo-aponeurose do LPS, ~10 mm acima do tarso superior. Estende-se da tróclea (medial) à glândula lacrimal (lateral).",
-    "relations": ["LPS (transição músculo-aponeurose)", "Tróclea (fixação medial)", "Glândula lacrimal (fixação lateral)"],
+    "relations": [
+      "LPS (transição músculo-aponeurose)",
+      "Tróclea (fixação medial)",
+      "Glândula lacrimal (fixação lateral)"
+    ],
     "surgical_relevance": "Marco anatômico para a transição do LPS de músculo para aponeurose. Importante referência em cirurgia de ptose e blefaroplastia superior quando se acessa o espaço pré-aponeurótico.",
     "how_to_identify": "Banda fibrosa transversal esbranquiçada visível profundamente na órbita superior quando se disseca acima da aponeurose do LPS.",
-    "images": ["blef-13-2-corte-horizontal-orbita.png"],
-    "citations": ["Neligan, 2023, vol. 2, cap. 8"],
+    "images": [
+      "blef-13-2-corte-horizontal-orbita.png"
+    ],
+    "citations": [
+      "Neligan, 2023, vol. 2, cap. 8"
+    ],
     "updates": [],
-    "tags": ["anatomia", "ligamento", "Whitnall", "fulcro", "levantador"]
+    "tags": [
+      "anatomia",
+      "ligamento",
+      "Whitnall",
+      "fulcro",
+      "levantador"
+    ]
   },
   {
     "id": "blef-anat-013",
     "type": "anatomy",
     "title": "Vascularização Periorbital",
-    "aliases": ["irrigação palpebral", "arcos palpebrais", "artéria oftálmica"],
+    "aliases": [
+      "irrigação palpebral",
+      "arcos palpebrais",
+      "artéria oftálmica"
+    ],
     "topic": "blefaroplastia",
     "area": "estetica-facial",
     "definition": "O suprimento arterial da pálpebra provém de dois arcos: (1) arco marginal (2 mm da margem ciliar), formado por ramos da artéria oftálmica (medial) e da artéria lacrimal (lateral); e (2) arco periférico, localizado na borda superior do tarso, entre o LPS e o músculo de Müller. A artéria angular (ramo terminal da facial) conecta-se com a artéria oftálmica — anastomose entre circulações interna e externa da carótida. A veia oftálmica superior drena para o seio cavernoso.",
     "location": "Arco marginal: 2 mm da margem ciliar. Arco periférico: borda superior do tarso, entre LPS e Müller. Artéria angular: lateral ao nariz, ascendente.",
-    "relations": ["Artéria oftálmica (ramo da carótida interna)", "Artéria lacrimal (ramo lateral)", "Artéria angular (ramo terminal da facial — carótida externa)", "Veia oftálmica superior → seio cavernoso"],
+    "relations": [
+      "Artéria oftálmica (ramo da carótida interna)",
+      "Artéria lacrimal (ramo lateral)",
+      "Artéria angular (ramo terminal da facial — carótida externa)",
+      "Veia oftálmica superior → seio cavernoso"
+    ],
     "surgical_relevance": "Anastomose angular-oftálmica é via de comunicação carotídea. Infecções perioculares podem causar trombose do seio cavernoso. Hemostasia meticulosa é essencial: sangramento arterial das etmoidais ou ramos orbitários é causa de hematoma retrobulbar.",
     "how_to_identify": "Arco marginal visível como vasos finos 2 mm da margem; artéria angular palpável lateralmente ao dorso nasal.",
-    "images": ["blef-13-14-vascularizacao-periorbital.png", "fig13-14-suprimento-arterial.jpeg"],
-    "citations": ["Neligan, 2023, vol. 2, cap. 8"],
+    "images": [
+      "blef-13-14-vascularizacao-periorbital.png",
+      "fig13-14-suprimento-arterial.jpeg"
+    ],
+    "citations": [
+      "Neligan, 2023, vol. 2, cap. 8"
+    ],
     "updates": [],
-    "tags": ["anatomia", "vascularização", "artéria-oftálmica", "arco-marginal", "arco-periférico", "angular"]
+    "tags": [
+      "anatomia",
+      "vascularização",
+      "artéria-oftálmica",
+      "arco-marginal",
+      "arco-periférico",
+      "angular"
+    ]
   },
   {
     "id": "blef-anat-014",
     "type": "anatomy",
     "title": "Inervação Palpebral — Sensitiva e Motora",
-    "aliases": ["nervos palpebrais", "inervação periorbital", "V1", "V2", "nervo facial VII"],
+    "aliases": [
+      "nervos palpebrais",
+      "inervação periorbital",
+      "V1",
+      "V2",
+      "nervo facial VII"
+    ],
     "topic": "blefaroplastia",
     "area": "estetica-facial",
     "definition": "Inervação sensitiva: pálpebra superior por V1 (ramos supraorbital, supratroclear, infratroclear e lacrimal); pálpebra inferior por V2 (ramo infraorbital). Inervação motora: LPS pelo III par (oculomotor, ramo superior); músculo de Müller por simpático (gânglio cervical superior); orbicular pelo VII par (facial) — ramos temporal (porção superior) e zigomático (porção inferior).",
     "location": "Nervo supraorbital: forame supraorbital na junção do terço medial com os 2/3 laterais do rebordo orbitário superior. Nervo infraorbital: forame infraorbital. Ramo temporal do VII: cruza arco zigomático 1 cm anterior ao tragus.",
-    "relations": ["V1 — trigêmeo, divisão oftálmica (sensitiva superior)", "V2 — trigêmeo, divisão maxilar (sensitiva inferior)", "III par — oculomotor (motor do LPS)", "VII par — facial (motor do orbicular)", "Simpático (motor do Müller)"],
+    "relations": [
+      "V1 — trigêmeo, divisão oftálmica (sensitiva superior)",
+      "V2 — trigêmeo, divisão maxilar (sensitiva inferior)",
+      "III par — oculomotor (motor do LPS)",
+      "VII par — facial (motor do orbicular)",
+      "Simpático (motor do Müller)"
+    ],
     "surgical_relevance": "Bloqueio do nervo supraorbital para anestesia da pálpebra superior. Lesão do ramo temporal do facial durante lifting temporal causa ptose de sobrancelha. O nervo frontal (V1) pode ser lesado em acessos à região glabelar ou lifting frontal endoscópico.",
     "how_to_identify": "Nervo supraorbital: bloqueável no forame na junção 1/3 medial e 2/3 laterais do rebordo. Ramo temporal do VII: zona perigosa 1 cm anterior ao tragus sobre o arco zigomático.",
-    "images": ["blef-13-15-inervacao-palpebral.png", "blef-13-16-inervacao-temporal-sobrancelha.png", "fig13-15-nervos-sensoriais.jpeg", "fig13-16-anatomia-sobrancelha.jpeg"],
-    "citations": ["Neligan, 2023, vol. 2, cap. 8", "Core Procedures, 2020, cap. 3"],
+    "images": [
+      "blef-13-15-inervacao-palpebral.png",
+      "blef-13-16-inervacao-temporal-sobrancelha.png",
+      "fig13-15-nervos-sensoriais.jpeg",
+      "fig13-16-anatomia-sobrancelha.jpeg"
+    ],
+    "citations": [
+      "Neligan, 2023, vol. 2, cap. 8",
+      "Core Procedures, 2020, cap. 3"
+    ],
     "updates": [],
-    "tags": ["anatomia", "inervação", "V1", "V2", "nervo-facial", "supraorbital", "infraorbital"]
+    "tags": [
+      "anatomia",
+      "inervação",
+      "V1",
+      "V2",
+      "nervo-facial",
+      "supraorbital",
+      "infraorbital"
+    ]
   },
   {
     "id": "blef-anat-015",
     "type": "anatomy",
     "title": "Sulco Palpebro-Malar e Tear Trough",
-    "aliases": ["tear trough", "sulco nasojugal", "lid-cheek junction", "nasojugal groove"],
+    "aliases": [
+      "tear trough",
+      "sulco nasojugal",
+      "lid-cheek junction",
+      "nasojugal groove"
+    ],
     "topic": "blefaroplastia",
     "area": "estetica-facial",
     "definition": "O tear trough (sulco nasojugal) é uma depressão curvilínea do canto medial em direção inferolateral, delimitada superiormente pela transição gordura orbitária/orbicular e inferiormente pela eminência malar. O sulco palpebro-malar (lid-cheek junction) é a continuação lateral. Tornam-se mais pronunciados com envelhecimento por: herniação de gordura acima, perda de volume malar abaixo, e laxidez do septo.",
     "location": "Do canto medial em direção inferolateral ao longo do rebordo infraorbitário. O sulco palpebro-malar é a continuação lateral.",
-    "relations": ["Gordura orbitária inferior (herniação acima do sulco)", "Eminência malar (abaixo)", "Ligamento de retenção orbicular (ORL)", "Septo orbital inferior"],
+    "relations": [
+      "Gordura orbitária inferior (herniação acima do sulco)",
+      "Eminência malar (abaixo)",
+      "Ligamento de retenção orbicular (ORL)",
+      "Septo orbital inferior"
+    ],
     "surgical_relevance": "A correção pode incluir reposicionamento de gordura orbitária, preenchimento com ácido hialurônico ou lipoenxertia. O reposicionamento de gordura é a técnica mais atual (evita hollowing tardio da ressecção). Teste do tear trough: inserção lateral do dedo no sulco — abertura indica benefício potencial de preenchimento.",
     "how_to_identify": "Depressão visível do canto medial ao longo do rebordo infraorbitário; pronuncia-se com olhar para cima. Teste digital: inserir dedo lateralmente no sulco e observar abertura.",
-    "images": ["blef-13-21-anatomia-tear-trough.png", "blef-13-22-teste-tear-trough.png", "blef-13-23-24-preenchimento-ptose-compensada.png"],
-    "citations": ["Neligan, 2023, vol. 2, cap. 9", "Grabb & Smith, 2024, cap. 35"],
+    "images": [
+      "blef-13-21-anatomia-tear-trough.png",
+      "blef-13-22-teste-tear-trough.png",
+      "blef-13-23-24-preenchimento-ptose-compensada.png"
+    ],
+    "citations": [
+      "Neligan, 2023, vol. 2, cap. 9",
+      "Grabb & Smith, 2024, cap. 35"
+    ],
     "updates": [],
-    "tags": ["anatomia", "tear-trough", "sulco-nasojugal", "envelhecimento", "preenchimento"]
+    "tags": [
+      "anatomia",
+      "tear-trough",
+      "sulco-nasojugal",
+      "envelhecimento",
+      "preenchimento"
+    ]
   },
   {
     "id": "blef-anat-016",
     "type": "anatomy",
     "title": "Ligamento de Retenção Orbicular (ORL)",
-    "aliases": ["ORL", "orbicularis retaining ligament", "ligamento de retenção orbital"],
+    "aliases": [
+      "ORL",
+      "orbicularis retaining ligament",
+      "ligamento de retenção orbital"
+    ],
     "topic": "blefaroplastia",
     "area": "estetica-facial",
     "definition": "Origem no periósteo do rebordo orbital e arco zigomático, unindo diretamente o orbicular ao periósteo. Delimita a transição pálpebra–bochecha e o espaço pré-septal inferior.",
     "location": "Do periósteo do rebordo orbitário inferior ao músculo orbicular; delimita a junção pálpebra-bochecha.",
-    "relations": ["Periósteo do rebordo orbital (origem)", "Músculo orbicular (inserção)", "Arco zigomático", "Sulco palpebro-malar"],
+    "relations": [
+      "Periósteo do rebordo orbital (origem)",
+      "Músculo orbicular (inserção)",
+      "Arco zigomático",
+      "Sulco palpebro-malar"
+    ],
     "surgical_relevance": "A liberação do ORL é necessária para midfacelift e para reposicionamento de gordura transconjuntival amplo. A preservação do ORL ajuda a manter a posição da junção pálpebra-bochecha em blefaroplastias conservadoras.",
     "how_to_identify": "Banda fibrosa palpável ao longo do rebordo orbitário inferior; resistência sentida ao tentar avançar tecidos inferiormente.",
-    "images": ["blef-13-12-ligamento-retencao-orbicular.png", "blef-13-13-ligamento-retencao-orbital.png"],
-    "citations": ["Neligan, 2023, vol. 2, cap. 9"],
+    "images": [
+      "blef-13-12-ligamento-retencao-orbicular.png",
+      "blef-13-13-ligamento-retencao-orbital.png"
+    ],
+    "citations": [
+      "Neligan, 2023, vol. 2, cap. 9"
+    ],
     "updates": [],
-    "tags": ["anatomia", "ORL", "ligamento", "retenção", "rebordo-orbitário", "junção-pálpebra-bochecha"]
+    "tags": [
+      "anatomia",
+      "ORL",
+      "ligamento",
+      "retenção",
+      "rebordo-orbitário",
+      "junção-pálpebra-bochecha"
+    ]
   },
   {
     "id": "blef-anat-017",
     "type": "anatomy",
     "title": "Pálpebra Asiática — Particularidades Anatômicas",
-    "aliases": ["Asian eyelid", "single eyelid", "epicanto", "pálpebra oriental"],
+    "aliases": [
+      "Asian eyelid",
+      "single eyelid",
+      "epicanto",
+      "pálpebra oriental"
+    ],
     "topic": "blefaroplastia",
     "area": "estetica-facial",
     "definition": "A diferença fundamental reside na inserção da aponeurose do LPS: nos ocidentais, fibras aponeuróticas atravessam o orbicular e se inserem na derme pré-tarsal, criando a prega. Em ~50% dos asiáticos, a aponeurose funde-se com o septo em posição mais inferior (próximo à borda tarsal), e a gordura pré-aponeurótica desce anteriormente ao tarso — impedindo a formação da prega e causando fullness pré-tarsal. O epicanto é uma prega de pele semilunar que cobre parcialmente o canto medial.",
     "location": "Pálpebra superior de indivíduos de ascendência asiática oriental; diferença primária na junção septo-aponeurose e posição da gordura pré-aponeurótica.",
-    "relations": ["Aponeurose do LPS (inserção mais baixa)", "Septo orbital (fusão mais inferior)", "Gordura pré-aponeurótica (anteriorizada ao tarso)", "Epicanto (prega cutânea medial)"],
+    "relations": [
+      "Aponeurose do LPS (inserção mais baixa)",
+      "Septo orbital (fusão mais inferior)",
+      "Gordura pré-aponeurótica (anteriorizada ao tarso)",
+      "Epicanto (prega cutânea medial)"
+    ],
     "surgical_relevance": "A cirurgia de dupla pálpebra (double eyelid surgery) é a cirurgia estética mais realizada mundialmente. Método de sutura: reversível, menor edema, 15–30% recorrência a longo prazo. Método incisional: mais permanente, permite remoção de gordura/orbicular. Altura da prega: 6–8 mm (vs. 8–10 mm caucasianos).",
     "how_to_identify": "Ausência de prega palpebral superior (single eyelid); fullness pré-tarsal; epicanto presente em graus variáveis.",
-    "images": ["blef-13-10ab-variacoes-palpebra-superior.png", "blef-13-10cd-palpebra-asiatica-baggy.png", "fig13-10-variacoes-palpebra-superior.jpeg"],
-    "citations": ["Neligan, 2023, vol. 2, cap. 8", "Grabb & Smith, 2024, cap. 35"],
+    "images": [
+      "blef-13-10ab-variacoes-palpebra-superior.png",
+      "blef-13-10cd-palpebra-asiatica-baggy.png",
+      "fig13-10-variacoes-palpebra-superior.jpeg"
+    ],
+    "citations": [
+      "Neligan, 2023, vol. 2, cap. 8",
+      "Grabb & Smith, 2024, cap. 35"
+    ],
     "updates": [],
-    "tags": ["anatomia", "pálpebra-asiática", "dupla-pálpebra", "epicanto", "single-eyelid"]
+    "tags": [
+      "anatomia",
+      "pálpebra-asiática",
+      "dupla-pálpebra",
+      "epicanto",
+      "single-eyelid"
+    ]
   },
   {
     "id": "blef-anat-018",
     "type": "anatomy",
     "title": "Ossos da Órbita",
-    "aliases": ["órbita óssea", "rebordo orbitário", "forames orbitários"],
+    "aliases": [
+      "órbita óssea",
+      "rebordo orbitário",
+      "forames orbitários"
+    ],
     "topic": "blefaroplastia",
     "area": "estetica-facial",
     "definition": "A órbita é uma cavidade piramidal formada por 7 ossos. Contém os forames supraorbitário, infraorbitário, óptico e etmoidais. O arcus marginalis é o periósteo espessado do rebordo orbitário, onde se origina o septo orbital. O tubérculo de Whitnall localiza-se na parede lateral orbital, 2–3 mm posterior ao rebordo.",
     "location": "Cavidade piramidal com base anterior (abertura) e ápice posterior (canal óptico). Rebordo orbitário como margem óssea palpável.",
-    "relations": ["Septo orbital (origina-se do arcus marginalis)", "Tubérculo de Whitnall (parede lateral, inserção do tendão cantal lateral)", "Forame supraorbital (nervo supraorbital — V1)", "Forame infraorbital (nervo infraorbital — V2)", "Artérias etmoidais (forames etmoidais)"],
+    "relations": [
+      "Septo orbital (origina-se do arcus marginalis)",
+      "Tubérculo de Whitnall (parede lateral, inserção do tendão cantal lateral)",
+      "Forame supraorbital (nervo supraorbital — V1)",
+      "Forame infraorbital (nervo infraorbital — V2)",
+      "Artérias etmoidais (forames etmoidais)"
+    ],
     "surgical_relevance": "O rebordo orbitário é referência para todas as medidas em blefaroplastia. O vetor orbitário (relação anteroposterior córnea-rebordo) determina o risco de complicações. Forames são pontos de reparo para bloqueios anestésicos e marcos cirúrgicos.",
     "how_to_identify": "Rebordo orbitário palpável em toda a circunferência; forame supraorbital na junção 1/3 medial e 2/3 laterais do rebordo superior; forame infraorbital ~7 mm abaixo do rebordo inferior.",
-    "images": ["blef-13-1-ossos-orbitarios.png", "fig13-1-ossos-orbitarios.jpeg", "blef-13-2-corte-horizontal-orbita.png", "fig13-2-secao-horizontal-orbita.jpeg"],
-    "citations": ["Neligan, 2023, vol. 2, cap. 8"],
+    "images": [
+      "blef-13-1-ossos-orbitarios.png",
+      "fig13-1-ossos-orbitarios.jpeg",
+      "blef-13-2-corte-horizontal-orbita.png",
+      "fig13-2-secao-horizontal-orbita.jpeg",
+      "blef-p0592-ossos-da-orbita-vista-lateral-com-cavidade-orbitar.jpeg"
+    ],
+    "citations": [
+      "Neligan, 2023, vol. 2, cap. 8"
+    ],
     "updates": [],
-    "tags": ["anatomia", "órbita", "ossos", "rebordo", "forames", "arcus-marginalis"]
+    "tags": [
+      "anatomia",
+      "órbita",
+      "ossos",
+      "rebordo",
+      "forames",
+      "arcus-marginalis"
+    ]
   }
 ]
