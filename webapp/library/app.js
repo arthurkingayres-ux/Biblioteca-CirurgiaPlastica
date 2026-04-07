@@ -11,6 +11,7 @@ const App = (() => {
 
   let _allCards = [];
   let _history = [];
+  let _testQuestions = {}; // { topic: { area, questions[] } }
 
   // --- Data Loading ---
   async function loadAllCards() {
@@ -30,6 +31,17 @@ const App = (() => {
     }
     SearchEngine.buildIndex(_allCards);
     console.log(`Loaded ${_allCards.length} cards from ${CARD_MANIFEST.length} topics`);
+  }
+
+  async function loadTestQuestions() {
+    for (const { area, topic } of CARD_MANIFEST) {
+      try {
+        const questions = await TestEngine.loadQuestions(area, topic);
+        _testQuestions[topic] = { area, questions };
+      } catch (_) {
+        _testQuestions[topic] = { area, questions: [] };
+      }
+    }
   }
 
   // --- Navigation ---
@@ -140,6 +152,110 @@ const App = (() => {
     document.getElementById('preop-briefing').innerHTML = PreOp.buildBriefing(topic);
   }
 
+  // --- Test Mode ---
+
+  function showTestView(view) {
+    ['test-view-topics', 'test-view-question', 'test-view-results'].forEach(id => {
+      document.getElementById(id).classList.add('hidden');
+    });
+    document.getElementById(`test-view-${view}`).classList.remove('hidden');
+  }
+
+  function renderTestTopicList() {
+    const container = document.getElementById('test-topic-list');
+    const entries = Object.entries(_testQuestions);
+    const hasAny = entries.some(([, t]) => t.questions.length > 0);
+
+    if (!hasAny) {
+      container.innerHTML = '<div class="no-results">Nenhuma questão disponível.<br>Execute: node tools/generate_questions.js --topic blefaroplastia</div>';
+      return;
+    }
+
+    container.innerHTML = entries.map(([topic, { questions }]) => {
+      if (questions.length === 0) return '';
+      const profile = TestEngine.getTopicProfile(topic);
+      const lastTested = profile?.lastTested ? `Último: ${profile.lastTested}` : 'Nunca testado';
+      const sessions = profile?.sessions || 0;
+      return `<div class="test-topic-item" data-topic="${topic}">
+        <div>
+          <div class="test-topic-name">${topic}</div>
+          <div class="test-topic-meta">${questions.length} questões · ${lastTested} · ${sessions} sessão(ões)</div>
+        </div>
+        <div class="test-topic-arrow">&#8250;</div>
+      </div>`;
+    }).join('');
+  }
+
+  function startTestSession(topic) {
+    const { area, questions } = _testQuestions[topic] || { area: '', questions: [] };
+    if (questions.length === 0) return;
+    const firstQ = TestEngine.startSession(topic, area, questions);
+    if (!firstQ) return;
+    showTestView('question');
+    _renderTestQuestion(firstQ);
+  }
+
+  function _renderTestQuestion(q) {
+    const prog = TestEngine.progress();
+    const pct = prog.total > 0 ? (prog.current / prog.total) * 100 : 0;
+    document.getElementById('test-progress-fill').style.width = `${pct}%`;
+    document.getElementById('test-domain-badge').textContent = q.domain;
+    document.getElementById('test-question-text').textContent = q.question;
+    // Reset answer state
+    document.getElementById('test-view-answer').classList.add('hidden');
+    document.getElementById('btn-show-answer').classList.remove('hidden');
+  }
+
+  function _showTestAnswer() {
+    const q = TestEngine.currentQuestion();
+    if (!q) return;
+    document.getElementById('test-answer-text').textContent = q.expected;
+    document.getElementById('test-view-answer').classList.remove('hidden');
+    document.getElementById('btn-show-answer').classList.add('hidden');
+  }
+
+  function _rateAnswer(correct) {
+    const next = TestEngine.rate(correct);
+    if (TestEngine.isDone()) {
+      _showTestResults();
+    } else {
+      _renderTestQuestion(next);
+    }
+  }
+
+  function _showTestResults() {
+    const result = TestEngine.finishSession();
+    showTestView('results');
+
+    const pct = Math.round((result.correct / result.total) * 100);
+    const scoreColor = pct >= 70 ? 'var(--accent-green)' : pct >= 50 ? 'var(--accent-yellow)' : 'var(--accent-red)';
+
+    const domainsHtml = Object.entries(result.domainResults)
+      .map(([domain, { correct, total }]) => {
+        const dp = Math.round((correct / total) * 100);
+        const cls = dp >= 70 ? 'domain-score-good' : dp >= 50 ? 'domain-score-mid' : 'domain-score-bad';
+        return `<div class="test-domain-row"><span>${domain}</span><span class="${cls}">${correct}/${total} (${dp}%)</span></div>`;
+      }).join('');
+
+    const weakHtml = result.weakCards.length > 0
+      ? result.weakCards.map(id => {
+          const card = SearchEngine.getById(id);
+          return card ? Renderer.searchResult({ id: card.id, type: card.type, title: card.title, topic: card.topic }) : '';
+        }).join('')
+      : '';
+
+    document.getElementById('test-view-results').innerHTML = `
+      <div class="test-results-header">
+        <div class="test-score" style="color:${scoreColor}">${result.correct}/${result.total}</div>
+        <div class="test-score-pct">${pct}%</div>
+      </div>
+      <div>${domainsHtml}</div>
+      ${result.weakCards.length > 0 ? '<p class="test-weak-title">Revisar</p>' : ''}
+      <div>${weakHtml}</div>
+      <button id="btn-test-again" class="btn-primary" style="margin-top:20px">Testar Novamente</button>
+    `;
+  }
+
   // --- Event Wiring ---
   function init() {
     // Search
@@ -159,6 +275,13 @@ const App = (() => {
     const preopInput = document.getElementById('preop-input');
     preopInput.addEventListener('input', () => handlePreOp(preopInput.value));
 
+    // Test button
+    document.getElementById('btn-test').addEventListener('click', () => {
+      navigateTo('screen-test', 'Teste');
+      showTestView('topics');
+      renderTestTopicList();
+    });
+
     // Delegated clicks
     document.addEventListener('click', e => {
       const result = e.target.closest('.search-result');
@@ -169,10 +292,19 @@ const App = (() => {
 
       const preopTopic = e.target.closest('.preop-topic-item');
       if (preopTopic) { showPreOpForTopic(preopTopic.dataset.topic); return; }
+
+      const testTopic = e.target.closest('.test-topic-item');
+      if (testTopic) { startTestSession(testTopic.dataset.topic); return; }
+
+      if (e.target.closest('#btn-show-answer')) { _showTestAnswer(); return; }
+      if (e.target.closest('#btn-errei'))       { _rateAnswer(false); return; }
+      if (e.target.closest('#btn-acertei'))     { _rateAnswer(true);  return; }
+      if (e.target.closest('#btn-test-again'))  { showTestView('topics'); renderTestTopicList(); return; }
     });
 
     // Load data then render
-    loadAllCards().then(() => {
+    loadAllCards().then(async () => {
+      await loadTestQuestions();
       renderTopicBrowser();
       showScreen('screen-search');
       searchInput.focus();
