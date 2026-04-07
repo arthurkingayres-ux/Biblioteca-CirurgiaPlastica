@@ -1,0 +1,1016 @@
+{
+  "topic": "blefaroplastia",
+  "area": "estetica-facial",
+  "generated": "2026-04-07",
+  "total": 144,
+  "questions": [
+    {
+      "id": "q-blef-anat-001-1",
+      "card_id": "blef-anat-001",
+      "domain": "anatomia",
+      "question": "Durante a marcação pré-operatória de uma blefaroplastia superior, qual é a margem de segurança mínima que deve ser mantida entre a borda ciliar e a sobrancelha, e qual é a estrutura anatômica responsável por essa limitação?",
+      "expected": "A margem de segurança mínima é de 20 mm entre a borda ciliar e a sobrancelha. Essa limitação existe para prevenir o lagoftalmo pós-operatório, que resulta de insuficiência do mecanismo de fechamento palpebral. A pele pré-septal é o principal alvo de ressecção na blefaroplastia, mas excessiva remoção compromete a capacidade de oclusão palpebral completa."
+    },
+    {
+      "id": "q-blef-anat-001-2",
+      "card_id": "blef-anat-001",
+      "domain": "anatomia",
+      "question": "Explique por que a pele pré-septal (e não a pré-tarsal) é o alvo primário da blefaroplastia superior, fundamentando sua resposta na anatomia e fisiologia das estruturas palpebrais.",
+      "expected": "A pele pré-septal é escolhida como alvo primário porque é mais laxa e frouxamente aderida às estruturas profundas, sendo a principal responsável pela dermatocálase. Em contraste, a pele pré-tarsal (~0,5 mm) é firmemente aderida ao tarso através de fibras do septo orbital, do levantador da pálpebra superior (LPS) e do músculo orbicular pré-tarsal, formando a prega palpebral funcional. Ressecar excessivamente a pele pré-tarsal prejudicaria essa função crítica e poderia gerar assimetria da prega."
+    },
+    {
+      "id": "q-blef-anat-002-1",
+      "card_id": "blef-anat-002",
+      "domain": "anatomia",
+      "question": "Durante uma blefaroplastia superior, você identifica hipertrofia do músculo orbicular pré-septal. Qual é o efeito estético dessa hipertrofia e qual a consequência cirúrgica esperada ao ressecar essa porção muscular?",
+      "expected": "A hipertrofia do orbicular causa 'squinch' — fullness muscular que simula excesso de pele e prejudica a definição da prega palpebral. A ressecção da porção pré-septal melhora a definição da prega e o contorno, porém aumenta significativamente o edema inicial pós-operatório, exigindo orientações reforçadas ao paciente sobre o período de recuperação."
+    },
+    {
+      "id": "q-blef-anat-002-2",
+      "card_id": "blef-anat-002",
+      "domain": "anatomia",
+      "question": "Qual é a localização crítica do ramo temporal do nervo facial em relação ao arco zigomático e qual complicação pode resultar de sua lesão durante blefaroplastia inferior?",
+      "expected": "O ramo temporal cruza o arco zigomático em sua zona perigosa, localizada 1 cm anteriormente ao tragus. Sua lesão compromete o fechamento palpebral inferior, podendo resultar em lagoftalmo, exposição corneal e úlceração, além de paralisia dos músculos da pálpebra inferior — complicação potencialmente grave que requer manejo imediato."
+    },
+    {
+      "id": "q-blef-anat-003-1",
+      "card_id": "blef-anat-003",
+      "domain": "anatomia",
+      "question": "Durante uma blefaroplastia superior, após incisão cutânea e dissecção do músculo orbicular, você identifica uma membrana fibrosa branco-perolada. A que profundidade estrutural você chegou e qual é o risco crítico de dissecção excessiva além dessa membrana?",
+      "expected": "Você identificou o septo orbital, que é a barreira fibrosa entre os compartimentos pré-septal e intraorbitário. A dissecção excessiva além do septo, particularmente além da fusão septo-aponeurose do levantador palpebral superior (que ocorre 2–5 mm acima da borda superior do tarso), pode lesionar a aponeurose do LPS e resultar em ptose iatrogênica. O septo deve ser aberto de forma controlada apenas para acessar a gordura pré-aponeurótica amarela, mantendo integridade da aponeurose do LPS."
+    },
+    {
+      "id": "q-blef-anat-003-2",
+      "card_id": "blef-anat-003",
+      "domain": "anatomia",
+      "question": "Explique por que pacientes de descendência asiática frequentemente apresentam ausência de prega palpebral (single eyelid) e qual é a base anatômica dessa variação em relação ao septo orbital.",
+      "expected": "Em pacientes asiáticos, o septo orbital funde-se com a aponeurose do levantador palpebral superior em posição mais inferior (abaixo do nível observado em caucasianos). Isso permite que a gordura pré-aponeurótica desça anteriormente ao tarso superior, ocupando o espaço pré-septo onde normalmente se forma a prega palpebral. Essa anatomia normal não representa patologia, mas uma variação populacional que deve ser respeitada na avaliação pré-operatória e no planejamento cirúrgico estético."
+    },
+    {
+      "id": "q-blef-anat-004-1",
+      "card_id": "blef-anat-004",
+      "domain": "anatomia",
+      "question": "Durante blefaroplastia de pálpebra superior, você identifica uma estrutura rosa-acinzentada com textura glandular firme no compartimento lateral. Qual é essa estrutura, por que ela não deve ser ressecada e qual a consequência de sua remoção inadvertida?",
+      "expected": "Trata-se da glândula lacrimal, localizada sempre no compartimento lateral (temporalmente ao limbo). Sua ressecção inadvertida causa síndrome de olho seco permanente e grave, comprometendo a qualidade de vida do paciente. A regra prática é: qualquer estrutura com aspecto glandular no compartimento lateral deve ser respeitada; na dúvida, reposicionar — nunca ressecar."
+    },
+    {
+      "id": "q-blef-anat-004-2",
+      "card_id": "blef-anat-004",
+      "domain": "anatomia",
+      "question": "Explique as características de identificação dos dois compartimentos gordurosos da pálpebra superior e qual manobra cirúrgica deve ser EVITADA durante sua manipulação e por quê.",
+      "expected": "O compartimento medial (nasal) apresenta gordura pálida e firme, enquanto o compartimento central (pré-aponeurótico) contém gordura amarela, lobulada e que flui livremente quando o globo é pressionado. A manobra que DEVE ser evitada é tracionar a gordura, pois isso causa risco de hemorragia retrobulbar por avulsão de vasos profundos, complicação potencialmente grave. A técnica segura é resseccionar sob visão direta e sem tração excessiva."
+    },
+    {
+      "id": "q-blef-anat-005-1",
+      "card_id": "blef-anat-005",
+      "domain": "anatomia",
+      "question": "Durante uma blefaroplastia estética de pálpebra inferior, você identifica três compartimentos de gordura. Qual é o compartimento mais frequentemente herniado, quais são suas características de aparência, e qual estrutura anatômica você deve usar como referência para delimitá-lo durante a dissecção?",
+      "expected": "O compartimento medial é o mais frequentemente herniado, causando a proeminência nasojugal ('bolsa'). Caracteriza-se por gordura mais pálida e firme em relação aos outros compartimentos. O músculo oblíquo inferior serve como referência anatômica crucial, pois o compartimento medial situa-se medialmente a este músculo. O oblíquo inferior origina-se na fossa lacrimal e cruza inferiormente ao globo em direção póstero-lateral, fornecendo um limite óbvio durante a dissecção."
+    },
+    {
+      "id": "q-blef-anat-005-2",
+      "card_id": "blef-anat-005",
+      "domain": "anatomia",
+      "question": "Qual complicação ocular específica pode resultar da lesão iatrógena do músculo oblíquo inferior durante ressecção de gordura em blefaroplastia de pálpebra inferior, e em quais movimentos oculares ela se manifesta predominantemente?",
+      "expected": "A lesão do músculo oblíquo inferior causa diplopia (visão dupla), complicação séria e potencialmente permanente. Ela se manifesta predominantemente durante elevação do olhar e adução (convergência), pois o oblíquo inferior é responsável pela depressão e abdução, e sua inervação pelo terceiro par craniano é crítica para o movimento coordenado. Este músculo tem origem na fossa lacrimal e inserção na esclera posterior, tornando-o vulnerável durante ressecção de gordura medial e central, particularmente se a dissecção for muito profunda ou lateral."
+    },
+    {
+      "id": "q-blef-anat-006-1",
+      "card_id": "blef-anat-006",
+      "domain": "anatomia",
+      "question": "Durante uma blefaroplastia para correção de ptose aponeurótica, qual é o marco anatômico crítico que deve ser identificado e respeitado para evitar lesão iatrógena do músculo levantador, e como ele se relaciona com as estruturas adjacentes?",
+      "expected": "O ligamento de Whitnall é o marco crítico, localizado na região onde a porção muscular do levantador transiciona em aponeurose. A fusão septo-aponeurose neste nível demarca a transição entre o septo orbital (estrutura a ser aberta) e a aponeurose (estrutura a ser manipulada). Profundamente à aponeurose encontra-se a gordura pré-aponeurótica que, ao ser identificada, confirma que a dissecção atingiu o plano correto, permitindo visualizar a aponeurose como uma estrutura branca brilhante e proceder com segurança ao avanço ou plicatura."
+    },
+    {
+      "id": "q-blef-anat-006-2",
+      "card_id": "blef-anat-006",
+      "domain": "anatomia",
+      "question": "Explique o mecanismo fisiopatológico da ptose aponeurótica involutiva e identifique qual é a técnica cirúrgica padrão para sua correção, citando os passos essenciais da abordagem.",
+      "expected": "A ptose aponeurótica involutiva resulta de deiscência ou alongamento da aponeurose do levantador da pálpebra superior, levando à diminuição da força de elevação palpebral. A técnica-padrão de correção é o avanço ou plicatura da aponeurose, realizado através de: (1) abertura do septo orbital via incisão natural (assimetria palpebral) ou conjuntival; (2) identificação e exposição da aponeurose branca brilhante profunda à gordura pré-aponeurótica; (3) reposicionamento anterior (avanço) ou dobradura (plicatura) da aponeurose; (4) fixação adequada à face anterior do tarso superior, restabelecendo a altura e contorno da prega palpebral superior."
+    },
+    {
+      "id": "q-blef-anat-007-1",
+      "card_id": "blef-anat-007",
+      "domain": "anatomia",
+      "question": "Um paciente com síndrome de Horner apresenta ptose de 1,5 mm com MRD1 de 3,5 mm. Descreva o mecanismo fisiopatológico da ptose neste caso e explique por que o teste com fenilefrina 2,5% é fundamental para indicar müllerectomia.",
+      "expected": "Na síndrome de Horner, há desnervação simpática do músculo de Müller (inervado pelo gânglio cervical superior), resultando em perda de seus 2 mm de contribuição na elevação palpebral e ptose de 1–2 mm. O teste com fenilefrina 2,5% tópica restaura a função simpática residual: uma elevação ≥ 1,5 mm confirma que o tônus simpático ainda está presente e que a müllerectomy será eficaz. Uma resposta menor sugere envolvimento do LPS, exigindo técnica de avanço levator em vez de ressecção mülleriana."
+    },
+    {
+      "id": "q-blef-anat-007-2",
+      "card_id": "blef-anat-007",
+      "domain": "anatomia",
+      "question": "Durante uma müllerectomy para ptose leve, qual é a localização exata do músculo de Müller e quais estruturas anatômicas você deve evitar lesionar? Descreva o plano dissectivo.",
+      "expected": "O músculo de Müller localiza-se na face inferior do levantador palpebral superior (LPS), entre a aponeurose do LPS e a conjuntiva, inserindo-se na borda superior do tarso superior. É identificado como um músculo liso vermelho-escuro. Durante a ressecção conjuntivo-mülleriana (ou Fasanella-Servat), o cirurgião deve evitar lesão da conjuntiva anterior (que será preservada como revestimento) e perfuração do tarso, mantendo dissecção cuidadosa no plano correto entre o tecido mülleriano e a conjuntiva posterior para garantir cicatrização adequada sem erosão conjuntival."
+    },
+    {
+      "id": "q-blef-anat-008-1",
+      "card_id": "blef-anat-008",
+      "domain": "anatomia",
+      "question": "Durante uma blefaroplastia inferior, você identifica uma membrana fibrosa posterior ao septo orbital que está aderida à borda inferior do tarso. Qual é a estrutura anatômica e qual é sua relevância clínica se lesionada durante a dissecção?",
+      "expected": "Trata-se da fáscia capsulopalpebral, o análogo do ligamento palpebral superior na pálpebra inferior. Origina-se do músculo reto inferior e envolve o oblíquo inferior, formando o ligamento de Lockwood (suspensor do globo), inserindo-se na borda inferior do tarso. Sua lesão é uma causa importante de ectrópio por retração da lamela posterior, complicação que compromete a função e estética palpebral."
+    },
+    {
+      "id": "q-blef-anat-008-2",
+      "card_id": "blef-anat-008",
+      "domain": "anatomia",
+      "question": "Explique a técnica de incisão subtarsal na fáscia capsulopalpebral (Nomoto & Ogawa, 2025) e seu principal benefício em relação às abordagens tradicionais de blefaroplastia inferior.",
+      "expected": "A incisão subtarsal na fáscia capsulopalpebral representa um novo paradigma que permite blefaroplastia inferior com menor risco de ectrópio induzido. Diferentemente da abordagem tradicional, essa técnica evita a retração excessiva da lamela posterior ao respeitar a integridade da fáscia capsulopalpebral durante a ressecção de tecido, reduzindo significativamente a complicação de ectrópio, mantendo a suspensão adequada do globo pelo ligamento de Lockwood."
+    },
+    {
+      "id": "q-blef-anat-009-1",
+      "card_id": "blef-anat-009",
+      "domain": "anatomia",
+      "question": "Durante uma blefaroplastia superior, você identifica o tarso através da palpação e o marca como referência para a incisão. Qual é a altura do tarso superior e por que sua integridade é crítica na técnica cirúrgica?",
+      "expected": "O tarso superior mede 10-12 mm de altura e funciona como placa fibrosa densa que confere rigidez à pálpebra. Sua preservação é crítica porque lesões ao tarso comprometem a integridade estrutural palpebral e podem danificar as glândulas de Meibomius, causando meibomite e síndrome do olho seco pós-operatória. O tarso também serve como referência anatômica para marcação precisa da incisão cirúrgica."
+    },
+    {
+      "id": "q-blef-anat-009-2",
+      "card_id": "blef-anat-009",
+      "domain": "anatomia",
+      "question": "Um paciente apresenta meibomite com queixa de olho seco refratário. Qual é a composição do filme lacrimal que as glândulas tarsais mantêm e onde essas glândulas estão localizadas anatomicamente?",
+      "expected": "As glândulas de Meibomius (glândulas tarsais) secretam o componente lipídico do filme lacrimal e estão localizadas dentro da placa tarsal, principalmente visíveis como estrias amareladas ao everter a pálpebra. Estão presentes tanto no tarso superior quanto inferior, contribuindo essencialmente para a estabilidade do filme lacrimal pela sua camada lipídica, cuja evaporação excessiva resulta em olho seco."
+    },
+    {
+      "id": "q-blef-anat-010-1",
+      "card_id": "blef-anat-010",
+      "domain": "anatomia",
+      "question": "Durante uma blefaroplastia, você identifica uma lesão iatrógena da porção posterior do ligamento cantal medial. Quais são as consequências clínicas esperadas e qual é a abordagem cirúrgica recomendada para reconstrução?",
+      "expected": "A lesão da porção posterior do ligamento cantal medial resulta em telecanto (afastamento do canto medial) e obstrução do sistema de drenagem lacrimal, comprometendo a função de bombeamento lacrimal. A reconstrução demanda fixação transnasal do tarso medial à crista lacrimal posterior, utilizando técnicas como cantopexia transnasal com sutura ou placa de titânio, para restaurar a âncora medial da pálpebra e reestabelecer a drenagem lacrimal adequada."
+    },
+    {
+      "id": "q-blef-anat-010-2",
+      "card_id": "blef-anat-010",
+      "domain": "anatomia",
+      "question": "Como você identificaria clinicamente a integridade do ligamento cantal medial durante o exame físico pré-operatório, e qual seria o teste de tensão específico?",
+      "expected": "A integridade pode ser avaliada através da palpação de uma banda fibrosa firme no canto medial da órbita. O teste específico é tracionar a pálpebra lateral e superiormente; uma pálpebra íntegra apresentará resistência e retorno rápido à posição original devido à tensão do ligamento cantal medial, enquanto ligamentos lesados mostram afrouxamento, deslocamento medial inadequado e possível telecanto associado."
+    },
+    {
+      "id": "q-blef-anat-011-1",
+      "card_id": "blef-anat-011",
+      "domain": "anatomia",
+      "question": "Durante uma blefaroplastia inferior, você realiza o snap-back test e observa retorno lento da pálpebra em aproximadamente 2 segundos. Qual é o significado clínico deste achado e qual conduta você adotaria?",
+      "expected": "O retorno lento > 1 segundo indica laxidez significativa do canto lateral, sugerindo insuficiência do ligamento cantal lateral. Essa laxidez é a principal causa de ectrópio pós-blefaroplastia. A conduta apropriada é realizar cantopexia ou cantoplastia no mesmo tempo cirúrgico, fixando a sutura não-absorvível 2 mm acima da posição original para compensar o relaxamento pós-operatório esperado."
+    },
+    {
+      "id": "q-blef-anat-011-2",
+      "card_id": "blef-anat-011",
+      "domain": "anatomia",
+      "question": "Um paciente apresenta canto lateral no mesmo nível ou ligeiramente abaixo do canto medial. Qual é a importância desta observação pré-operatória e como ela influencia o planejamento de uma blefaroplastia inferior?",
+      "expected": "A posição do canto lateral no mesmo nível ou abaixo do medial é um fator de risco importante para ectrópio pós-operatório. Normalmente, o canto lateral deve estar 2 mm acima do canto medial. Este achado indica que o paciente já apresenta predisposição anatômica à laxidez, tornando imprescindível avaliar rigorosamente a estabilidade cantal pré-operatória (distraction test e snap-back test) e planejar reforço cantal (cantopexia/cantoplastia) desde o início, mesmo em casos onde a laxidez não seria habitualmente corrigida."
+    },
+    {
+      "id": "q-blef-anat-012-1",
+      "card_id": "blef-anat-012",
+      "domain": "anatomia",
+      "question": "Durante uma blefaroplastia superior com acesso ao espaço pré-aponeurótico, qual é a localização precisa do ligamento de Whitnall e qual sua importância como marco anatômico nesta abordagem?",
+      "expected": "O ligamento de Whitnall é uma banda fibrosa condensada localizada aproximadamente 10 mm acima do tarso superior, na região de transição entre a porção muscular e a aponeurose do levantador da pálpebra superior (LPS). Estende-se medialmente da tróclea até lateralmente à glândula lacrimal. Serve como fulcro e ponto de suspensão do LPS, funcionando como marco crítico para identificar o plano correto de dissecção no espaço pré-aponeurótico e evitar lesão à musculatura levantadora durante a cirurgia de ptose."
+    },
+    {
+      "id": "q-blef-anat-012-2",
+      "card_id": "blef-anat-012",
+      "domain": "anatomia",
+      "question": "Como você identificaria intraoperatoriamente o ligamento de Whitnall durante dissecção superior em órbita, e quais estruturas anatômicas adjacentes devem ser preservadas para evitar complicações?",
+      "expected": "O ligamento de Whitnall é identificado como uma banda fibrosa transversal esbranquiçada visível profundamente quando se disseca acima da aponeurose do LPS. Localiza-se entre a inserção medial na tróclea e a lateral na glândula lacrimal, marcando a transição músculo-aponeurose. Deve-se preservar cuidadosamente a musculatura do LPS superiormente e a aponeurose inferiormente. Evitar lesão ao sistema de inervação (ramo lacrimal do V1) e às estruturas vasculares orbitárias adjacentes é fundamental para prevenir ptose, diplopia ou hemorragia retrobulbar."
+    },
+    {
+      "id": "q-blef-anat-013-1",
+      "card_id": "blef-anat-013",
+      "domain": "anatomia",
+      "question": "Durante uma blefaroplastia superior, você identifica sangramento arterial na região do arco marginal. A qual distância da margem ciliar está localizado este arco vascular, e qual é a origem embriológica dessa anastomose que conecta as circulações carótida interna e externa?",
+      "expected": "O arco marginal está localizado a 2 mm da margem ciliar, formado por ramos da artéria oftálmica (medial) e da artéria lacrimal (lateral). A anastomose crítica ocorre entre a artéria angular (ramo terminal da artéria facial) e a artéria oftálmica, representando uma comunicação direta entre a circulação externa (carótida externa) e interna (carótida interna), anatomicamente significante para possíveis complicações vasculares graves como trombose do seio cavernoso."
+    },
+    {
+      "id": "q-blef-anat-013-2",
+      "card_id": "blef-anat-013",
+      "domain": "anatomia",
+      "question": "Qual estrutura anatômica delimita superiormente o arco periférico palpebral, em qual plano anatômico ele se localiza, e por que a hemostasia meticulosa nesta região é crítica para evitar complicações pós-operatórias graves?",
+      "expected": "O arco periférico localiza-se na borda superior do tarso, entre o músculo levantador da pálpebra superior (LPS) e o músculo de Müller. Hemostasia meticulosa é essencial porque sangramento não controlado dos ramos das artérias etmoidais ou dos ramos orbitários pode originar hematoma retrobulbar, complicação potencialmente grave que pode comprometer a visão através de aumento da pressão intraorbitária."
+    },
+    {
+      "id": "q-blef-anat-014-1",
+      "card_id": "blef-anat-014",
+      "domain": "anatomia",
+      "question": "Durante um lifting temporal, você lesiona o ramo temporal do nervo facial. Qual é a localização anatômica exata deste ramo que deveria ter sido respeitada, e qual é a complicação clínica esperada desta lesão?",
+      "expected": "O ramo temporal do nervo facial cruza o arco zigomático aproximadamente 1 cm anterior ao tragus, constituindo uma zona perigosa durante acessos temporais. A lesão deste ramo causa ptose de sobrancelha ipsilateral devido à paralisia da porção superior do músculo orbicular do olho e músculos elevadores da sobrancelha, com consequente queda da sobrancelha e alteração da estética palpebral superior."
+    },
+    {
+      "id": "q-blef-anat-014-2",
+      "card_id": "blef-anat-014",
+      "domain": "anatomia",
+      "question": "Você planeja realizar bloqueio anestésico do nervo supraorbital para procedimento na pálpebra superior. Descreva a localização exata do forame supraorbital no rebordo orbitário e quais estruturas serão anestesiadas com este bloqueio.",
+      "expected": "O forame supraorbital localiza-se na junção do terço medial com os dois terços laterais do rebordo orbitário superior. O bloqueio do nervo supraorbital anestesia a pálpebra superior através de seus ramos supraorbital, supratroclear, infratroclear e lacrimal (todos derivados de V1 — oftálmico), fornecendo inervação sensitiva adequada para procedimentos palpebrais superiores."
+    },
+    {
+      "id": "q-blef-anat-015-1",
+      "card_id": "blef-anat-015",
+      "domain": "anatomia",
+      "question": "Descreva a anatomia do tear trough, suas delimitações e qual estrutura anatômica marca sua transição lateral para o sulco palpebro-malar.",
+      "expected": "O tear trough é uma depressão curvilínea que se estende do canto medial em direção inferolateral, delimitado superiormente pela transição entre a gordura orbitária e o músculo orbicular do olho, e inferiormente pela eminência malar. O sulco palpebro-malar (lid-cheek junction) representa a continuação lateral do tear trough, marcando a transição da região palpebral para a região malar."
+    },
+    {
+      "id": "q-blef-anat-015-2",
+      "card_id": "blef-anat-015",
+      "domain": "anatomia",
+      "question": "Um paciente de 58 anos apresenta tear trough pronunciado com herniação de gordura orbitária acima e perda de volume malar abaixo. Qual é a técnica cirúrgica mais atual para correção e por que ela é preferida em relação à ressecção de gordura?",
+      "expected": "A técnica mais atual é o reposicionamento de gordura orbitária, que realoca o excesso de gordura para áreas deficientes inferiormente. É preferida à ressecção porque evita o hollowing tardio (depressão pós-operatória) que frequentemente ocorre meses após a ressecção simples de gordura, proporcionando resultados mais duradouros e estéticos."
+    },
+    {
+      "id": "q-blef-anat-016-1",
+      "card_id": "blef-anat-016",
+      "domain": "anatomia",
+      "question": "Durante uma blefaroplastia transconjuntival com remoção ampla de gordura orbital, você percebe resistência ao tentar avançar os tecidos inferiormente. Qual estrutura anatômica está limitando esse movimento e qual é a conduta cirúrgica apropriada para permitir maior mobilidade?",
+      "expected": "O Ligamento de Retenção Orbicular (ORL) está limitando o movimento. Esta estrutura fibrosa origina-se do periósteo do rebordo orbitário inferior e arco zigomático, unindo-se diretamente ao músculo orbicular. Para permitir maior mobilidade dos tecidos inferiores, é necessário realizar a liberação (divisão) do ORL, procedimento essencial em casos de midfacelift e avanço extenso de gordura transconjuntival. A identificação ocorre pela resistência palpável ao longo do rebordo orbitário inferior durante o procedimento."
+    },
+    {
+      "id": "q-blef-anat-016-2",
+      "card_id": "blef-anat-016",
+      "domain": "anatomia",
+      "question": "Em uma blefaroplastia inferior conservadora com objetivo de preservar a posição da junção pálpebra-bochecha, qual é a importância de manter a integridade do ORL e como sua lesão inadvertida pode comprometer o resultado estético?",
+      "expected": "A preservação do ORL é crítica em blefaroplastias conservadoras pois esta estrutura delimita a transição pálpebra-bochecha e o espaço pré-septal inferior, mantendo a anatomia normal dessa junção. Sua divisão inadvertida resultará em descenso ou ptose da junção pálpebra-bochecha, criando aspecto de envelhecimento com perda da definição do contorno inferior palpebral e alteração da relação entre pálpebra e região malar. Este é um erro anatômico comum que compromete significativamente o resultado estético final, tornando necessária a dissecção cautelosa dos tecidos inferiores com preservação dessa estrutura em procedimentos minimamente invasivos."
+    },
+    {
+      "id": "q-blef-anat-017-1",
+      "card_id": "blef-anat-017",
+      "domain": "anatomia",
+      "question": "Explique a diferença anatômica fundamental entre a pálpebra asiática e ocidental em relação à inserção da aponeurose do levantador da pálpebra superior (LPS) e suas consequências clínicas.",
+      "expected": "Nos ocidentais, as fibras aponeuróticas do LPS atravessam o músculo orbicular e se inserem na derme pré-tarsal, criando uma prega palpebral bem definida. Em aproximadamente 50% dos indivíduos asiáticos, a aponeurose funde-se com o septo em posição mais inferior (próximo à borda tarsal), e a gordura pré-aponeurótica desce anteriormente ao tarso, causando fullness pré-tarsal e impedindo a formação da prega (single eyelid). O epicanto, uma prega de pele semilunar que cobre o canto medial, é outra característica distintiva presente em graus variáveis."
+    },
+    {
+      "id": "q-blef-anat-017-2",
+      "card_id": "blef-anat-017",
+      "domain": "anatomia",
+      "question": "Um residente precisa escolher entre técnica de sutura versus incisional para dupla pálpebra em uma paciente asiática. Quais são os critérios que devem guiar essa decisão e as diferenças de permanência e complicações?",
+      "expected": "A técnica de sutura é reversível, resulta em menor edema pós-operatório e permite ajustes, mas apresenta taxa de recorrência de 15–30% a longo prazo, sendo indicada para pacientes indecisos ou que desejam reversibilidade. A técnica incisional é mais permanente, permite remoção controlada de gordura e excesso de orbicular, oferecendo resultado definitivo, mas é irreversível. A altura da prega em asiáticos deve ser 6–8 mm (inferior aos 8–10 mm dos caucasianos) para manter proporções faciais harmônicas. A escolha depende de expectativas da paciente, grau de fullness pré-tarsal e desejo de permanência."
+    },
+    {
+      "id": "q-blef-anat-018-1",
+      "card_id": "blef-anat-018",
+      "domain": "anatomia",
+      "question": "Durante uma blefaroplastia superior, você precisa localizar o forame supraorbitário para realizar um bloqueio anestésico regional. Descreva a localização deste forame em relação ao rebordo orbitário superior e sua importância cirúrgica.",
+      "expected": "O forame supraorbitário localiza-se na junção entre o 1/3 medial e 2/3 laterais do rebordo orbitário superior, sendo palpável e facilmente identificável. Este forame é crítico para bloqueios anestésicos do ramo supraorbitário do nervo trigêmeo, garantindo anestesia adequada da pálpebra superior. Sua identificação precisa evita lesão neurovascular e complicações hemorrágicas durante a dissecção cirúrgica."
+    },
+    {
+      "id": "q-blef-anat-018-2",
+      "card_id": "blef-anat-018",
+      "domain": "anatomia",
+      "question": "Explique o conceito de vetor orbitário e sua relação com o risco de complicações em cirurgias palpebrais. Como o rebordo orbitário funciona como referência para essa avaliação?",
+      "expected": "O vetor orbitário corresponde à relação anteroposterior entre a córnea e o rebordo orbitário, determinando o posicionamento do globo ocular. Um vetor orbitário positivo (globo proeminente) aumenta significativamente o risco de complicações como exposição corneana, lagoftalmo e úlcera em procedimentos que removem suporte palpebral. O rebordo orbitário palpável em toda sua circunferência serve como marco de referência para mensurar esta distância e quantificar o risco cirúrgico antes de qualquer procedimento blefaroplástico."
+    },
+    {
+      "id": "q-blef-tec-001-1",
+      "card_id": "blef-tec-001",
+      "domain": "tecnicas",
+      "question": "Durante o planejamento de uma blefaroplastia superior, você realiza o pinch test e identifica que a distância entre a margem ciliar e a sobrancelha será inferior a 20 mm após a ressecção de pele. Qual é a sua conduta e qual é o diagnóstico subjacente que explica esse achado?",
+      "expected": "O achado de menos de 20 mm entre margem ciliar e sobrancelha indica que parte do excesso palpebral é devido a ptose de sobrancelha (pseudo-dermatocálase) e não apenas dermatocálase verdadeira. A conduta apropriada é suspender a blefaroplastia isolada e indicar um brow lift (lifting da sobrancelha) associado ou como procedimento prévio, evitando aumento excessivo do edema, lagoftalmo e possível ptose iatrogênica. O pinch test é o teste fundamental para diferenciar esses componentes intraoperatoriamente."
+    },
+    {
+      "id": "q-blef-tec-001-2",
+      "card_id": "blef-tec-001",
+      "domain": "tecnicas",
+      "question": "Um paciente apresenta Schirmer de 4 mm/5 min, ausência de bell phenomenon demonstrada clinicamente e lagoftalmo significativo. Você pode realizar blefaroplastia superior clássica com ressecção de pele? Justifique com base no risco de complicação específica.",
+      "expected": "Não. Este paciente possui duas contraindicações absolutas: olho seco grave (Schirmer < 5 mm/5 min) e bell phenomenon ausente com lagoftalmo significativo. A ressecção de pele aumentará ainda mais a exposição ocular e o risco de lagoftalmo permanente, ceratite e possível úlcera de córnea. Sem um mecanismo compensatório de proteção (bell phenomenon), a blefaroplastia pode resultar em complicação ocular severa e irreversível. Estes pacientes devem ser otimizados ou contraindicados para o procedimento."
+    },
+    {
+      "id": "q-blef-tec-002-1",
+      "card_id": "blef-tec-002",
+      "domain": "tecnicas",
+      "question": "Qual é o passo crítico que diferencia a blefaroplastia anchor da blefaroplastia superior clássica por excisão simples, e qual estrutura anatômica serve como ponto de fixação dessa 'âncora'?",
+      "expected": "O passo crítico é a fixação da derme do retalho pré-tarsal à borda livre da aponeurose do levantador com suturas. Essa ancoragem derme-aponeurose cria uma prega palpebral mais definida, alta e estável comparada à simples excisão, sendo particularmente útil em casos com deiscência da aponeurose do levantador onde há deslocamento superior da prega."
+    },
+    {
+      "id": "q-blef-tec-002-2",
+      "card_id": "blef-tec-002",
+      "domain": "tecnicas",
+      "question": "Um residente realiza blefaroplastia anchor e o paciente evolui com prega palpebral excessivamente alta no pós-operatório imediato. Qual foi o erro técnico mais provável e como isso poderia ter sido evitado?",
+      "expected": "O erro técnico foi posicionar a fixação da derme muito superiormente na aponeurose do levantador, resultando em prega excessivamente alta. Isso poderia ter sido evitado mediante cuidado na localização precisa da borda livre da aponeurose e na realização de uma marcação prévia adequada da altura desejada da prega, assegurando que a fixação ocorra no nível apropriado para criar altura de prega estável e simétrica."
+    },
+    {
+      "id": "q-blef-tec-003-1",
+      "card_id": "blef-tec-003",
+      "domain": "tecnicas",
+      "question": "Um paciente apresenta bolsas palpebrais inferiores com excesso de gordura moderado e mínimo excesso de pele. Qual é a via de acesso preferida atualmente e qual é a principal vantagem desta abordagem em relação à via transcutânea?",
+      "expected": "A via transconjuntival é a preferida atualmente (dados ABPS 2025). As principais vantagens são: ausência de cicatriz cutânea, menor risco de ectrópio, acesso direto aos compartimentos de gordura intraorbitária, e menor morbidade. A via transcutânea fica reservada para casos com excesso de pele significativo que necessita excisão cutânea associada."
+    },
+    {
+      "id": "q-blef-tec-003-2",
+      "card_id": "blef-tec-003",
+      "domain": "tecnicas",
+      "question": "Ao realizar blefaroplastia transconjuntival via retroseptal, você identifica uma quemose (5–15% dos casos). Qual é a diferença técnica entre as vias pré-septal e retroseptal que pode explicar esta complicação, e qual via oferece melhor controle para reposicionamento de gordura (fat transposition)?",
+      "expected": "A via pré-septal oferece dissecção entre o orbicular e o septo, permitindo melhor exposição e controle dos compartimentos de gordura para reposicionamento. A via retroseptal é mais direta e rápida, mas entra diretamente através do septo com menor exposição para reposicionamento. A quemose ocorre por reação inflamatória e manipulação conjuntival. A via pré-septal é preferida para fat transposition (técnica atual), pois facilita a liberação conservadora da gordura mantendo o pedículo vascular e a sutura ao periósteo infraorbitário."
+    },
+    {
+      "id": "q-blef-tec-004-1",
+      "card_id": "blef-tec-004",
+      "domain": "tecnicas",
+      "question": "Um paciente com laxidez horizontal grave da pálpebra inferior e vetor negativo procura você para blefaroplastia inferior via transcutânea. Qual é a armadilha principal dessa combinação e como você a evitaria?",
+      "expected": "A armadilha principal é o risco elevado de ectrópio e retração palpebral, pois a laxidez horizontal grave associada ao vetor negativo predispõe à malposição palpebral após ressecção de pele. Isso é uma contraindicação relativa à via transcutânea sem planejamento prévio de cantopexia ou cantoplastia. A solução é incorporar um procedimento de suspensão lateral (cantopexia/cantoplastia) para restaurar a tensão horizontal e o vetor positivo, estabilizando o resultado e reduzindo a incidência de ectrópio para níveis aceitáveis."
+    },
+    {
+      "id": "q-blef-tec-004-2",
+      "card_id": "blef-tec-004",
+      "domain": "tecnicas",
+      "question": "Descreva as três opções de dissecção na blefaroplastia inferior transcutânea e qual delas apresenta menor risco de complicação cicatricial. Qual é o mecanismo que a torna mais segura?",
+      "expected": "As três opções são: (a) skin flap — pele sobre orbicular; (b) skin-muscle flap — pele e orbicular como retalho único; (c) step-incision — pele e orbicular em níveis diferentes. A step-incision apresenta menor risco de aderência cicatricial e retração porque separa os planos de dissecção em níveis diferentes, evitando que a cicatriz da pele se adira diretamente ao músculo orbicular subjacente. Isso mantém melhor mobilidade das estruturas durante a cicatrização e reduz a retração secundária."
+    },
+    {
+      "id": "q-blef-tec-005-1",
+      "card_id": "blef-tec-005",
+      "domain": "tecnicas",
+      "question": "Durante uma blefaroplastia inferior, você identifica laxidez horizontal moderada com distraction test de 5 mm e snap-back lento mas completo. Qual técnica você escolheria e por quê? Descreva o passo crítico que diferencia essa técnica de uma cantoplastia.",
+      "expected": "Você escolheria cantopexia lateral, pois a laxidez está na faixa indicada (4-6 mm com snap-back completo). O passo crítico diferenciador é NÃO seccionar o tendão cantal lateral — apenas passar sutura não-absorvível (nylon 5-0 ou 4-0) através do tendão e fixá-lo ao periósteo do rebordo orbitário lateral. Na cantoplastia, o tendão seria seccionado, indicada apenas para laxidez grave (>6 mm com snap-back incompleto)."
+    },
+    {
+      "id": "q-blef-tec-005-2",
+      "card_id": "blef-tec-005",
+      "domain": "tecnicas",
+      "question": "Ao fixar o tendão cantal lateral durante uma cantopexia, qual é o posicionamento correto do ponto de fixação em relação à posição anatômica ideal e qual é a justificativa clínica dessa decisão?",
+      "expected": "O ponto de fixação deve ser posicionado 2 mm acima da posição anatômica ideal do canto. A justificativa é compensar o relaxamento pós-operatório natural dos tecidos, evitando ectrópio tardio ou deslocamento inferior do canto. Essa é uma das pérolas técnicas mais importantes, aplicada em aproximadamente 68% das blefaroplastias inferiores atualmente."
+    },
+    {
+      "id": "q-blef-tec-006-1",
+      "card_id": "blef-tec-006",
+      "domain": "tecnicas",
+      "question": "Um paciente apresenta laxidez palpebral inferior grave com distraction test > 6 mm e snap-back incompleto. Durante a cantoplastia lateral, em qual localização anatômica específica você realizaria a reinserção da tira tarsal com sutura não-absorvível, e qual seria a profundidade em relação ao rebordo orbitário?",
+      "expected": "A reinserção deve ser realizada no periósteo do tubérculo de Whitnall, na FACE INTERNA da parede orbitária lateral, 2-3 mm POSTERIOR ao rebordo orbitário. A fixação deve ser realizada 2 mm acima da posição original para compensar o relaxamento progressivo dos tecidos. Utilizar nylon 5-0 ou 4-0 como sutura não-absorvível, e opcionalmente adicionar segunda camada fixando a musculatura orbicular à fáscia temporal profunda para maior estabilidade."
+    },
+    {
+      "id": "q-blef-tec-006-2",
+      "card_id": "blef-tec-006",
+      "domain": "tecnicas",
+      "question": "Qual é a principal diferença técnica entre cantoplastia e cantopexia no tratamento da laxidez palpebral, e por que a cantoplastia é considerada mais robusta para casos graves?",
+      "expected": "A cantoplastia envolve a criação de uma tira tarsal mediante desnudação do epitélio da borda lateral da pálpebra inferior, enquanto a cantopexia apenas reposiciona o tendão cantal lateral existente sem secção completa. A cantoplastia é mais robusta para laxidez grave (distraction > 6 mm) porque a tarsal strip cria um novo tecido de ancoragem mais resistente e oferece maior durabilidade biomecânica, reduzindo a taxa de recorrência comparada à cantopexia simples, que pode ser insuficiente em casos de comprometimento significativo do ligamento cantal lateral."
+    },
+    {
+      "id": "q-blef-tec-007-1",
+      "card_id": "blef-tec-007",
+      "domain": "tecnicas",
+      "question": "Um paciente apresenta excesso leve de pele na pálpebra inferior (2-3 mm) sem bolsas de gordura significativas. Por que a pinch blepharoplasty é particularmente vantajosa neste caso em relação ao risco de ectrópio, e qual é o plano anatômico crítico que NÃO deve ser violado?",
+      "expected": "A pinch blepharoplasty é vantajosa porque não viola o septo orbitário nem disseca o músculo orbicular ocular, estruturas críticas na fisiopatologia do ectrópio. A técnica remove apenas a faixa de pele de 2-3 mm imediatamente abaixo da linha ciliar, preservando os suportes profundos da pálpebra. Isso reduz significativamente o risco de retração palpebral pós-operatória comparado à blefaroplastia transcutânea convencional."
+    },
+    {
+      "id": "q-blef-tec-007-2",
+      "card_id": "blef-tec-007",
+      "domain": "tecnicas",
+      "question": "Descreva a sequência operatória completa da pinch blepharoplasty, especificando o tipo de instrumento de corte utilizado, o padrão de sutura recomendado e por que a dissecção profunda deve ser evitada nesta abordagem.",
+      "expected": "A sequência consiste em: (1) pinçar faixa de pele de 2-3 mm imediatamente abaixo da linha ciliar; (2) excisão com tesoura fina ou bisturi; (3) hemostasia adequada; (4) fechamento com sutura contínua fina (6-0 ou 7-0). A dissecção profunda deve ser evitada porque viola o septo e o orbicular, aumentando risco de ectrópio, hematoma orbital e complicações funcionais. A técnica preserva a integridade dos suportes anatômicos profundos."
+    },
+    {
+      "id": "q-blef-tec-008-1",
+      "card_id": "blef-tec-008",
+      "domain": "tecnicas",
+      "question": "Um paciente asiático procura você para dupla pálpebra e relata desejo de prega 'mais ocidentalizada possível'. Qual é a altura ideal que você planejaria e por que essa expectativa representa uma contraindicação relativa?",
+      "expected": "A altura ideal em asiáticos é 6–8 mm, não superior. Pregas excessivamente altas (>8 mm) parecem ocidentalizadas e são frequentemente rejeitadas pelos pacientes asiáticos, pois desarmônizam com a anatomia facial e características étnicas. Essa expectativa discordante entre desejo do paciente e resultado esteticamente aceitável representa contraindicação relativa e deve ser abordada em consulta com educação sobre padrões naturais e harmonioso."
+    },
+    {
+      "id": "q-blef-tec-008-2",
+      "card_id": "blef-tec-008",
+      "domain": "tecnicas",
+      "question": "Compare as taxas de recorrência e os critérios de seleção entre o método de sutura (non-incisional) e o método incisional na cirurgia de dupla pálpebra. Em qual situação clínica você escolheria cada técnica?",
+      "expected": "O método de sutura apresenta recorrência de 15–30% a longo prazo, é reversível, causa menor edema e recuperação rápida, sendo ideal para pacientes sem excesso de gordura/pele que desejam resultado natural. O método incisional é mais permanente, mas deixa cicatriz e edema prolongado, sendo indicado quando há excesso de gordura pré-aponeurótica ou músculo orbicular a ressecar. A escolha depende da análise da espessura do tecido pré-tarsal e das expectativas do paciente."
+    },
+    {
+      "id": "q-blef-tec-009-1",
+      "card_id": "blef-tec-009",
+      "domain": "tecnicas",
+      "question": "Um paciente com ptose leve (MRD1 = 2 mm) apresenta função do LPS de 14 mm. Durante o exame pré-operatório, você realiza o teste de Hering ocluindo o olho ptótico por 2 minutos e observa queda de 1,5 mm da margem palpebral contralateral. Qual é a conduta mais apropriada e por quê?",
+      "expected": "A conduta é planejar correção bilateral, pois o teste de Hering positivo (queda > 1 mm no lado contralateral) indica ptose contralateral latente mascarada pela Lei de Hering. Se apenas o olho ptótico for corrigido, a correção unilateral permitirá que a ptose contralateral se manifeste, resultando em assimetria pós-operatória. O LPS > 12 mm em ambos os lados permite técnica de avanço/plicatura aponeurótica bilateral."
+    },
+    {
+      "id": "q-blef-tec-009-2",
+      "card_id": "blef-tec-009",
+      "domain": "tecnicas",
+      "question": "Durante uma correção de ptose por avanço da aponeurose do LPS, após identificar a estrutura profundamente ao septo orbitário, você observa que a aponeurose apresenta-se branca, fina e translúcida. Descreva o achado anatomopatológico presente e a modificação técnica necessária para otimizar o resultado.",
+      "expected": "O achado indica aponeurose deiscente, característica de ptose involutiva/aponeurótica por alongamento. Neste caso, além do avanço simples, recomenda-se plicatura (dobragem sobre si mesma com sutura em U ao tarso) para criar redundância de tecido e reforçar a inserção. O ajuste intraoperatório com paciente sentado é crítico para avaliar a posição da margem palpebral (MRD1 alvo) e garantir simetria, evitando sobrecorreção (lagoftalmo) ou subcorreção."
+    },
+    {
+      "id": "q-blef-tec-010-1",
+      "card_id": "blef-tec-010",
+      "domain": "tecnicas",
+      "question": "Um paciente apresenta ptose unilateral com MRD1 de 2,5 mm, função do LPS de 14 mm e teste da fenilefrina 2,5% mostra elevação de 1,8 mm. Qual é a técnica mais apropriada e por quê?",
+      "expected": "A técnica de Müllerectomy (Fasanella-Servat) é a mais apropriada. O paciente apresenta ptose leve (MRD1 2–3 mm), boa função do LPS (≥ 12 mm) e teste da fenilefrina POSITIVO com elevação > 1,5 mm, confirmando tônus simpático residual. Estes critérios selecionam idealmente candidatos para esta técnica, que é mais previsível para ptose leve simétrica e oferece abordagem posterior via conjuntival com ressecção do bloco Müller + conjuntiva."
+    },
+    {
+      "id": "q-blef-tec-010-2",
+      "card_id": "blef-tec-010",
+      "domain": "tecnicas",
+      "question": "Durante a execução de uma Müllerectomy (Fasanella-Servat), qual é a principal diferença técnica entre a simples ressecção do músculo de Müller e a técnica de Fasanella-Servat clássica, e qual complicação isso pode evitar?",
+      "expected": "A técnica de Fasanella-Servat clássica inclui ressecção de uma faixa da borda superior do tarso além do músculo de Müller e conjuntiva, tornando-a mais agressiva que a simples Müllerectomy. Esta abordagem mais extensa permite maior amplitude de elevação e reduz risco de subcorreção, sendo particularmente importante em casos onde se deseja maior grau de levantamento palpebral dentro do espectro de ptose leve a moderada."
+    },
+    {
+      "id": "q-blef-tec-011-1",
+      "card_id": "blef-tec-011",
+      "domain": "tecnicas",
+      "question": "Um paciente com ptose congênita apresenta MRD1 de -2 mm e função do levantador da pálpebra superior (LPS) de 3 mm. Qual técnica cirúrgica você indicaria e por quê? Qual material você escolheria se o paciente fosse uma criança de 6 anos?",
+      "expected": "A técnica indicada é a suspensão frontal (frontalis sling), pois o paciente apresenta ptose grave (MRD1 < 0 mm) associada a função LPS pobre (< 5 mm), critério clássico para essa abordagem. Em crianças, a fáscia lata autóloga é o padrão-ouro por apresentar melhor integração tecidual, menor taxa de extrusão e resultados mais duradouros em comparação com materiais sintéticos."
+    },
+    {
+      "id": "q-blef-tec-011-2",
+      "card_id": "blef-tec-011",
+      "domain": "tecnicas",
+      "question": "Qual complicação é esperada e previsível após suspensão frontal com sling, e como você orientaria o paciente no pós-operatório para manejá-la?",
+      "expected": "O lagoftalmo noturno é a complicação esperada e fisiológica após suspensão frontal, ocorrendo porque a elevação palpebral depende da contração do músculo frontal, que está relaxado durante o sono. O manejo consiste em lubrificação ocular noturna obrigatória com lágrimas artificiais ou pomadas oftálmicas para prevenir ceratite e ressecamento corneano. O paciente deve ser orientado que esta é uma compensação aceitável pelo ganho funcional de visão."
+    },
+    {
+      "id": "q-blef-tec-012-1",
+      "card_id": "blef-tec-012",
+      "domain": "tecnicas",
+      "question": "Um paciente chega ao pronto-socorro com hematoma retrobulbar, proptose progressiva, dor retro-orbitária e midríase fixa. Qual é o tempo máximo de isquemia retiniana tolerável antes de dano irreversível, e qual deve ser sua primeira atitude antes de iniciar a cantotomia de emergência?",
+      "expected": "O tempo máximo tolerável é de 60–100 minutos de isquemia retiniana antes de dano irreversível. A primeira atitude deve ser remover IMEDIATAMENTE qualquer sutura presente (de blefaroplastia ou outro procedimento prévio) antes de qualquer outro passo, pois estas podem estar contribuindo para compressão do globo. Apenas após isso proceder com infiltração anestésica, crush, cantotomia e cantólise lateral."
+    },
+    {
+      "id": "q-blef-tec-012-2",
+      "card_id": "blef-tec-012",
+      "domain": "tecnicas",
+      "question": "Durante a cantólise lateral de emergência, descreva a técnica do 'crush' no canto lateral e explique o mecanismo da cantólise inferior. Por que é importante identificar corretamente a banda do tendão cantal lateral durante a tenotomia?",
+      "expected": "O crush consiste em pinçar o canto lateral com pinça hemostática por 1–2 minutos para reduzir sangramento durante o procedimento. A cantólise inferior envolve identificar e seccionar completamente o ramo inferior do tendão cantal lateral (sentido como uma banda tensa com a tesoura). É crítico identificar corretamente esta banda porque sua secção permite expansão do conteúdo orbitário para fora do cone muscular, aliviando a pressão intraorbitária. Se insuficiente, procede-se à cantólise superior. Erro na identificação ou secção incompleta resulta em descompressão inadequada e risco de perda visual permanente."
+    },
+    {
+      "id": "q-blef-dec-001-1",
+      "card_id": "blef-dec-001",
+      "domain": "decisoes",
+      "question": "Um paciente apresenta ptose palpebral unilateral com MRD1 de 2 mm. Após ocluir o olho ptótico por 2 minutos, o MRD1 contralateral diminui 2 mm. Qual é o diagnóstico fisiopatológico e qual deve ser sua estratégia cirúrgica?",
+      "expected": "O paciente apresenta ptose unilateral verdadeira com Lei de Hering desmascarada, evidenciando ptose contralateral latente (queda > 1 mm do MRD1 contralateral após oclusão). A estratégia cirúrgica deve ser correção BILATERAL escalonada: primeiro o olho mais afetado com ajuste intraoperatório (paciente sentado), seguido de correção do contralateral em segundo tempo (2–4 semanas) para evitar assimetria residual e garantir simetria definitiva."
+    },
+    {
+      "id": "q-blef-dec-001-2",
+      "card_id": "blef-dec-001",
+      "domain": "decisoes",
+      "question": "Paciente com ptose bilateral simétrica, MRD1 = 2 mm, função do levator palpebral superior (LPS) de 6 mm. Qual é a técnica indicada e quais são os pontos críticos do ajuste intraoperatório?",
+      "expected": "Indicada plicatura ou ressecção da aponeurose do LPS por abordagem anterior (função LPS moderada: 5–11 mm). Pontos críticos: (1) Ressecção ampla estimada em 3–4 mm inicialmente; (2) Ajuste simétrico bilateral INTRAOPERATÓRIO com paciente sentado, atento à posição de repouso e fechamento dos olhos; (3) Evitar overcorrection que causa lagoftalmo; (4) Conferir simetria de MRD1 e altura da prega no final do procedimento antes do fechamento."
+    },
+    {
+      "id": "q-blef-dec-002-1",
+      "card_id": "blef-dec-002",
+      "domain": "decisoes",
+      "question": "Um paciente apresenta bolsas palpebrais inferiores com excesso de pele leve e laxidez horizontal leve-moderada (distração 4-6 mm, snap-back lento mas completo). O vetor orbitário é neutro. Qual é a melhor estratégia técnica e por quê?",
+      "expected": "A via transconjuntival associada a cantopexia lateral é a melhor escolha. O vetor neutro confere risco alto de ectrópio e scleral show; portanto, deve-se evitar cicatriz cutânea e ressecção de pele que aumentem esse risco. A distração de 4-6 mm (laxidez leve-moderada) indica necessidade de cantopexia (não apenas cantoplastia, pois não há grave incompetência). A via transconjuntival acessa as bolsas de gordura sem corte cutâneo e a cantopexia reposiciona o canto lateral, estabilizando a pálpebra inferior e prevenindo complicações."
+    },
+    {
+      "id": "q-blef-dec-002-2",
+      "card_id": "blef-dec-002",
+      "domain": "decisoes",
+      "question": "Durante uma blefaroplastia inferior por via transcutânea subciliar, você identifica um tear trough pronunciado após avaliação inicial. Qual manobra intraoperatória você deve priorizar durante o tratamento das bolsas gordurosas e por quê?",
+      "expected": "Deve-se priorizar o reposicionamento de gordura (fat transposition) do arcus marginalis em direção ao tear trough, em vez de ressecção agressiva. Isso porque o tear trough já representa deficiência de volume nessa região, e ressectar gordura agravaria o aspecto de \"hollowing\" e envelhecimento precoce. O reposicionamento preserva volume, melhora o contorno e evita complicações estéticas. Se houver gordura excessiva, fazer ressecção conservadora apenas do excedente e complementar com filler ou lipoenxertia se necessário."
+    },
+    {
+      "id": "q-blef-dec-003-1",
+      "card_id": "blef-dec-003",
+      "domain": "decisoes",
+      "question": "Um paciente apresenta queixa de 'pálpebra pesada' bilateral. Ao elevar manualmente as sobrancelhas à posição ideal, o excesso de pele palpebral superior desaparece completamente. Qual é o diagnóstico mais provável e qual o procedimento cirúrgico indicado?",
+      "expected": "O diagnóstico é ptose de sobrancelha (pseudo-dermatocálase). O procedimento indicado é brow lift (elevação de sobrancelha) e NÃO blefaroplastia isolada. A realização de blefaroplastia sem corrigir a ptose de sobrancelha resultaria em insatisfação estética, pois o excesso de pele retornaria. O brow lift repositiona a sobrancelha e restabelece o MRD (distância margem-reflexo) adequado."
+    },
+    {
+      "id": "q-blef-dec-003-2",
+      "card_id": "blef-dec-003",
+      "domain": "decisoes",
+      "question": "Durante a avaliação pré-operatória de um paciente candidato a blefaroplastia superior, você mensura MRD1 (distância margem-reflexo) de 2,8 mm à direita e 4,2 mm à esquerda, com função normal do músculo levantador palpebral (LPS). Como essa assimetria altera sua decisão cirúrgica?",
+      "expected": "O olho direito apresenta ptose palpebral (MRD1 < 4 mm), enquanto o olho esquerdo é normal. A assimetria exige abordagem diferenciada: no olho direito, além da blefaroplastia, está indicada ptoseplastia (plicatura/avanço de aponeurose do LPS) para restaurar MRD1 a 4-4,5 mm. No olho esquerdo, apenas blefaroplastia é necessária. Sem a ptoseplastia ipsilateral, ocorreria persistência ou piora da ptose direita."
+    },
+    {
+      "id": "q-blef-dec-004-1",
+      "card_id": "blef-dec-004",
+      "domain": "decisoes",
+      "question": "Um paciente apresenta vetor orbitário negativo (córnea anterior ao rebordo infraorbitário) e será submetido a blefaroplastia inferior. Qual é a conduta obrigatória quanto à via de acesso e reforço de estabilidade palpebral?",
+      "expected": "A via de acesso preferencial é a transconjuntival, pois minimiza agressão ao músculo orbicular e reduz risco de ectrópio. Caso seja necessária abordagem transcutânea, cantopexia ou cantoplastia é obrigatória para prevenir complicações como ectrópio e scleral show, que são de alta probabilidade neste vetor de risco."
+    },
+    {
+      "id": "q-blef-dec-004-2",
+      "card_id": "blef-dec-004",
+      "domain": "decisoes",
+      "question": "Durante a avaliação pré-operatória, você identifica que o canto lateral do paciente está no mesmo nível que o canto medial (ou discretamente abaixo). Como isso influencia sua estratégia cirúrgica na blefaroplastia inferior?",
+      "expected": "Essa configuração (canto lateral não elevado em relação ao medial) representa fator de risco adicional para desenvolvimento de ectrópio pós-operatório. A cantopexia profilática deve ser realizada durante a blefaroplastia inferior mesmo que o vetor seja neutro ou positivo, para restaurar a angulação normal de aproximadamente 2 mm de elevação do canto lateral em relação ao medial e prevenir complicações."
+    },
+    {
+      "id": "q-blef-nota-001-1",
+      "card_id": "blef-nota-001",
+      "domain": "notas",
+      "question": "Qual é a principal diferença entre as indicações de blefaroplastia superior puramente estética versus funcional, e qual achado clínico justifica a indicação funcional?",
+      "expected": "A blefaroplastia funcional é indicada na dermatocálase obstrutiva com restrição do campo visual superior, onde o excesso de pele interfere na visão. A indicação estética tem como objetivo o rejuvenescimento periocular sem comprometimento funcional. O critério principal é a presença de obstrução do campo visual superior documentada, enquanto na estética busca-se apenas melhor aparência facial."
+    },
+    {
+      "id": "q-blef-nota-001-2",
+      "card_id": "blef-nota-001",
+      "domain": "notas",
+      "question": "Considerando a epidemiologia da blefaroplastia, qual procedimento tem maior frequência relativa nos EUA, qual vem ganhando importância recentemente, e qual razão justifica essa mudança?",
+      "expected": "A blefaroplastia superior é o quarto procedimento estético mais frequente nos EUA. A blefaroplastia inferior vem ganhando importância com o desenvolvimento de técnicas menos invasivas, que reduzem complicações e recuperação, tornando-a mais atrativa para pacientes e cirurgiões em comparação às técnicas tradicionais mais agressivas."
+    },
+    {
+      "id": "q-blef-nota-002-1",
+      "card_id": "blef-nota-002",
+      "domain": "notas",
+      "question": "Um paciente de 65 anos apresenta bolsas palpebrais inferiores proeminentes e simultaneamente hollowing superior. Explique o mecanismo fisiopatológico que causa simultaneamente herniação de gordura e perda de volume na região periorbital, e qual implicação isso tem para o planejamento cirúrgico.",
+      "expected": "O septo orbital sofre laxidez progressiva com a idade, permitindo herniação anterior da gordura orbitária (formando as bolsas). Simultaneamente, ocorre perda de volume global da gordura orbitária por atrofia e reabsorção, causando hollowing superior e perda de projeção malar. Cirurgicamente, isso significa que remover gordura agressivamente piorará o hollowing e a aparência côncava; portanto, a estratégia deve incluir repositório de gordura, enxertos de gordura estruturada ou preenchimento com ácido hialurônico, além da ressecção seletiva de bolsas excessivas."
+    },
+    {
+      "id": "q-blef-nota-002-2",
+      "card_id": "blef-nota-002",
+      "domain": "notas",
+      "question": "Durante a avaliação pré-operatória de blefaroplastia inferior, como você diferenciaria clinicamente entre hipertrofia do músculo orbicular e laxidez septal primária como causa principal das bolsas palpebrais, e qual seria o impacto dessa diferenciação na técnica cirúrgica?",
+      "expected": "Hipertrofia do orbicular curva a pálpebra inferior e cria projeção horizontal com pele redundante localmente; laxidez septal causa protrusão simétrica anterior da gordura com septo visualmente frouxo. O teste do snapback e análise estática ajudam a diferença. Pacientes com hipertrofia predominante se beneficiam de miotomia ou ressecção do orbicular; aqueles com laxidez septal precisam de reforço septal (técnica retro-orbicular ou ressuspensão) associado a manejo cuidadoso da gordura, evitando seu ressecção excessiva que pioraria o resultado."
+    },
+    {
+      "id": "q-blef-nota-003-1",
+      "card_id": "blef-nota-003",
+      "domain": "notas",
+      "question": "Um paciente apresenta MRD1 de 1,8 mm bilateralmente e relata diplopia ocasional ao olhar para cima. Qual é a relevância clínica deste achado na avaliação pré-operatória de blefaroplastia e que conduta você tomaria?",
+      "expected": "O MRD1 de 1,8 mm indica ptose (valor normal: 4–5 mm), o que representa contraindicação relativa ou fator de risco para blefaroplastia convencional, pois a ressecção de pele poderia piorar a ptose e agravar a diplopia. A conduta apropriada é realizar consulta obrigatória com oftalmologista antes de qualquer procedimento, pois pode haver envolvimento muscular ou neurológico subjacente que requer avaliação especializada e possível tratamento paralelo."
+    },
+    {
+      "id": "q-blef-nota-003-2",
+      "card_id": "blef-nota-003",
+      "domain": "notas",
+      "question": "Descreva os componentes essenciais que devem ser incluídos na avaliação pré-operatória sistemática de um candidato à blefaroplastia, destacando quais achados clínicos exigem parecer oftalmológico antes do procedimento.",
+      "expected": "A avaliação sistemática deve incluir: exame oftalmológico básico (acuidade visual, motilidade ocular, MRD1), avaliação da simetria palpebral e da posição das sobrancelhas, fotografias padronizadas para comparação pós-operatória, e discussão detalhada das expectativas do paciente. Consultoria oftalmológica é obrigatória na presença de: glaucoma, síndrome do olho seco, cirurgias oculares prévias (LASIK, catarata), ptose (MRD1 < 2 mm), ou queixas visuais, pois essas condições aumentam significativamente o risco de complicações."
+    },
+    {
+      "id": "q-blef-nota-004-1",
+      "card_id": "blef-nota-004",
+      "domain": "notas",
+      "question": "Qual é o intervalo de tempo crítico entre o início do hematoma retrobulbar e a isquemia retiniana irreversível, e qual estrutura vascular é comprimida pela pressão compartmental intra-orbitária crescente?",
+      "expected": "A isquemia retiniana irreversível ocorre em 60–100 minutos após o hematoma retrobulbar. A pressão intra-orbitária elevada comprime a artéria central da retina, levando a isquemia retiniana irreversível. Portanto, o reconhecimento e tratamento imediatos são essenciais para preservar a visão nesta emergência oftalmológica."
+    },
+    {
+      "id": "q-blef-nota-004-2",
+      "card_id": "blef-nota-004",
+      "domain": "notas",
+      "question": "Cite os sinais clínicos cardinais do hematoma retrobulbar que devem alertar o cirurgião nas primeiras 3–24 horas pós-operatórias de blefaroplastia, e qual é a incidência desta complicação?",
+      "expected": "Os sinais cardinais incluem: dor retro-orbitária progressiva e intensa, proptose, pupila dilatada fixa (midríase), perda visual e tensão palpebral aumentada. A incidência do hematoma retrobulbar em blefaroplastia é de 0,04–0,05%. O reconhecimento precoce destes sinais permite intervenção imediata para descompressão orbitária e preservação da visão."
+    },
+    {
+      "id": "q-blef-nota-005-1",
+      "card_id": "blef-nota-005",
+      "domain": "notas",
+      "question": "Um paciente apresenta ptose iatrogênica no pós-operatório imediato de blefaroplastia transcutânea. Qual é o protocolo de manejo inicial e qual o tempo de observação antes de indicar ptoseplastia?",
+      "expected": "O manejo inicial é conservador com observação de 3 a 6 meses, pois a ptose iatrogênica (0,5-1% dos casos) frequentemente é causada por edema do levantador palpebral superior (LPS) que regride espontaneamente. Apenas se a ptose persistir após este período de observação, indica-se ptoseplastia para correção da aponeurose do LPS lesada. O diagnóstico diferencial com lesão direta da aponeurose deve ser considerado."
+    },
+    {
+      "id": "q-blef-nota-005-2",
+      "card_id": "blef-nota-005",
+      "domain": "notas",
+      "question": "Descreva a abordagem de tratamento para ectrópio pós-blefaroplastia transcutânea, incluindo indicação de técnicas conservadoras versus cirúrgicas e enxertos específicos.",
+      "expected": "O ectrópio ocorre em 1-2% dos casos e resulta de retração cicatricial da lamela anterior/média ou laxidez não corrigida. Para grau leve: massagem, steri-strip e colírio são suficientes. Para casos moderados a graves: cantoplastia lateral é indicada, frequentemente associada a enxerto espaçador de lamela posterior (AlloDerm, palato duro ou cartilagem auricular) para restaurar a altura e suporte da lamela posterior, prevenindo recorrência."
+    },
+    {
+      "id": "q-blef-nota-006-1",
+      "card_id": "blef-nota-006",
+      "domain": "notas",
+      "question": "Um paciente com rugas finas e flacidez de pele na região periocular deseja melhorar a textura sem risco de retração. Qual é a melhor estratégia técnica e por que o laser CO₂ ou Er:YAG é preferível à excisão direta de pele nesta localização?",
+      "expected": "O resurfacing com laser CO₂ ou Er:YAG é preferível porque melhora rugas finas e textura da pele sem o risco de retração cicatricial que ocorre com excisão de pele na pálpebra inferior. A técnica pode ser utilizada isoladamente ou combinada com blefaroplastia transconjuntival (para remoção de gordura) e pinch excision (para pequeno excesso de pele), permitindo melhor controle de altura palpebral e contorno."
+    },
+    {
+      "id": "q-blef-nota-006-2",
+      "card_id": "blef-nota-006",
+      "domain": "notas",
+      "question": "Qual é a principal complicação a ser evitada ao combinar resurfacing periocular com blefaroplastia transcutânea, e como isso afeta a seleção da técnica cirúrgica?",
+      "expected": "A principal complicação é o risco aumentado de retração cicatricial quando resurfacing da pálpebra inferior é associado com blefaroplastia transcutânea. Por isso, recomenda-se preferir a blefaroplastia transconjuntival (que não envolve excisão de pele anterior) quando houver necessidade de remover gordura, reservando o resurfacing com laser para melhorar apenas a textura e rugas, evitando duplo trauma à pele palpebral."
+    },
+    {
+      "id": "q-blef-nota-007-1",
+      "card_id": "blef-nota-007",
+      "domain": "notas",
+      "question": "Durante lipoenxertia periocular em paciente com tear trough acentuado, qual é o volume máximo recomendado por lado e por qual razão esse limite é crítico nesta região?",
+      "expected": "O volume conservador recomendado é de 0,5–1,5 mL por lado no tear trough. Este limite é crítico porque a pálpebra inferior apresenta pele extremamente fina e delicada, e volumes excessivos resultam em sobrecorreção com irregularidades visíveis, edema persistente e deformidades estéticas. A injeção profunda (suborbicular/supraperiosteal) é essencial para minimizar essas complicações."
+    },
+    {
+      "id": "q-blef-nota-007-2",
+      "card_id": "blef-nota-007",
+      "domain": "notas",
+      "question": "Explique a técnica adequada de injeção de gordura na região periocular e identifique o principal risco de complicação se a profundidade de injeção não for respeitada.",
+      "expected": "A gordura deve ser injetada em profundidade na camada suborbicular ou supraperiosteal, utilizando cânula de 0,7–1,0 mm com microfat ou nanofat. Se a injeção for feita superficialmente na derme ou subcutâneo superficial, o principal risco é o surgimento de irregularidades visíveis, nodosidades e contornos irregulares na pele fina da pálpebra, comprometendo o resultado estético e exigindo possível revisão cirúrgica."
+    },
+    {
+      "id": "q-blef-nota-008-1",
+      "card_id": "blef-nota-008",
+      "domain": "notas",
+      "question": "Um paciente com dermatocálase funcional comprovada por campimetria apresenta ptose palpebral bilateral não diagnosticada no pré-operatório. Qual é o principal risco dessa omissão diagnóstica e como isso impactará os resultados pós-operatórios?",
+      "expected": "A presença de ptose não diagnosticada é o principal preditor de insatisfação pós-operatória em blefaroplastia superior. Sem o tratamento concomitante da ptose, o paciente apresentará persistência de limitação do campo visual e insatisfação estética, pois a blefaroplastia isolada não corrige o déficit da função do músculo levantador. Estudos mostram que essa omissão compromete os resultados funcionais (>80% de melhora) e estéticos (>90% de satisfação) esperados nas séries publicadas."
+    },
+    {
+      "id": "q-blef-nota-008-2",
+      "card_id": "blef-nota-008",
+      "domain": "notas",
+      "question": "Qual é a complicação mais frequente após blefaroplastia superior para dermatocálase funcional, qual é sua incidência, e qual é o padrão de evolução esperado dessa complicação?",
+      "expected": "A complicação mais frequente é o olho seco transitório, com incidência de 18% dos casos. Essa complicação é de natureza transitória, ocorrendo no período pós-operatório imediato e apresentando resolução espontânea com seguimento clínico adequado. Diferencia-se de complicações permanentes, sendo importante comunicar essa possibilidade aos pacientes durante o consentimento informado e implementar medidas de proteção ocular no pós-operatório imediato."
+    },
+    {
+      "id": "q-blef-nota-009-1",
+      "card_id": "blef-nota-009",
+      "domain": "notas",
+      "question": "Um residente questiona por que as compressas geladas devem ser aplicadas de forma intermitente (20 minutos on/20 minutos off) nas primeiras 48 horas após blefaroplastia, em vez de serem mantidas continuamente. Qual é a justificativa fisiológica para esse protocolo?",
+      "expected": "A aplicação intermitente previne lesão térmica e vasodilatação reativa. A compressão contínua pode causar isquemia tecidual, necrose localizada e paradoxalmente aumentar o edema pela vasodilatação de rebote após retirada. O ciclo de 20 minutos on/off permite vasoconstrição efetiva sem dano tecidual, mantendo a redução do edema sem comprometer a perfusão das pálpebras."
+    },
+    {
+      "id": "q-blef-nota-009-2",
+      "card_id": "blef-nota-009",
+      "domain": "notas",
+      "question": "No pós-operatório de blefaroplastia, qual é o principal motivo de se manter a elevação da cabeça entre 30–45° durante os primeiros dias, e qual complicação pode resultar se o paciente não seguir essa orientação?",
+      "expected": "A elevação de 30–45° reduz o edema palpebral pela diminuição da pressão hidrostática venosa e melhora a drenagem linfática. A não observância dessa medida resulta em edema excessivo, que além de comprometer a cicatrização e o resultado estético, pode levar a exposição corneana, ressecamento ocular e até ceratite se associado ao aumento da pressão intraocular ou à insuficiência da lubrificação."
+    },
+    {
+      "id": "q-blef-nota-010-1",
+      "card_id": "blef-nota-010",
+      "domain": "notas",
+      "question": "Durante um midfacelift via blefaroplastia, qual é o passo anatômico crítico para evitar complicações e qual estrutura deve ser desinserida subperiosteal?",
+      "expected": "O passo crítico é a desinserção subperiosteal do ligamento orbitomalar, que prende o terço médio facial. Esta manobra libera o SOOF (sub-orbicularis oculi fat) e a bolsa malar, permitindo sua suspensão cranial à fáscia temporal profunda. A desinserção inadequada resulta em elevação insuficiente, enquanto lesão periosteal excessiva pode causar deformidade óssea ou sensibilidade alterada. A estrutura deve ser identificada no plano profundo ao SMAS, lateral à órbita."
+    },
+    {
+      "id": "q-blef-nota-010-2",
+      "card_id": "blef-nota-010",
+      "domain": "notas",
+      "question": "Qual é a principal indicação clínica para realizar um midfacelift via blefaroplastia e como este procedimento complementa a abordagem periorbital?",
+      "expected": "A indicação principal é descenso do terço médio associado a aprofundamento do sulco nasogeniano e tear trough, em pacientes com envelhecimento periorbital. O midfacelift via blefaroplastia complementa a abordagem periorbital porque utiliza a mesma incisão, elevando e repositionando os tecidos moles do terço médio simultaneamente à correção das estruturas oculares, otimizando o rejuvenescimento global da região e evitando incisões adicionais. A cantopexia em duas camadas pode ser ancorada para amplificar o efeito de suspensão."
+    },
+    {
+      "id": "q-flashcard-1",
+      "card_id": "blef-fc-001",
+      "domain": "avaliação",
+      "question": "MRD1 normal",
+      "expected": "4–5 mm (< 2 mm = ptose)"
+    },
+    {
+      "id": "q-flashcard-2",
+      "card_id": "blef-fc-001",
+      "domain": "avaliação",
+      "question": "MRD2 normal",
+      "expected": "5 mm"
+    },
+    {
+      "id": "q-flashcard-3",
+      "card_id": "blef-fc-001",
+      "domain": "anatomia",
+      "question": "Fissura palpebral — largura normal",
+      "expected": "28–32 mm"
+    },
+    {
+      "id": "q-flashcard-4",
+      "card_id": "blef-fc-001",
+      "domain": "anatomia",
+      "question": "Fissura palpebral — altura normal",
+      "expected": "10–12 mm (< 8 mm sugere ptose ou blefaroespasmo)"
+    },
+    {
+      "id": "q-flashcard-5",
+      "card_id": "blef-fc-001",
+      "domain": "técnica",
+      "question": "Prega palpebral superior ♀",
+      "expected": "8–10 mm da margem ciliar"
+    },
+    {
+      "id": "q-flashcard-6",
+      "card_id": "blef-fc-001",
+      "domain": "técnica",
+      "question": "Prega palpebral superior ♂",
+      "expected": "7–8 mm da margem ciliar"
+    },
+    {
+      "id": "q-flashcard-7",
+      "card_id": "blef-fc-001",
+      "domain": "técnica",
+      "question": "Prega palpebral — dupla pálpebra asiática",
+      "expected": "6–8 mm (menor que caucasiana para evitar aparência ocidentalizada)"
+    },
+    {
+      "id": "q-flashcard-8",
+      "card_id": "blef-fc-001",
+      "domain": "técnica",
+      "question": "Mínimo de pele entre margem ciliar e sobrancelha",
+      "expected": "≥ 20 mm (segurança contra lagoftalmo)"
+    },
+    {
+      "id": "q-flashcard-9",
+      "card_id": "blef-fc-001",
+      "domain": "anatomia",
+      "question": "Tarso superior — altura",
+      "expected": "10–12 mm"
+    },
+    {
+      "id": "q-flashcard-10",
+      "card_id": "blef-fc-001",
+      "domain": "anatomia",
+      "question": "Tarso inferior — altura",
+      "expected": "3,5–5 mm"
+    },
+    {
+      "id": "q-flashcard-11",
+      "card_id": "blef-fc-001",
+      "domain": "avaliação",
+      "question": "Teste de Schirmer — contraindicação relativa",
+      "expected": "< 10 mm / 5 min = risco de olho seco"
+    },
+    {
+      "id": "q-flashcard-12",
+      "card_id": "blef-fc-001",
+      "domain": "avaliação",
+      "question": "Teste de Schirmer — contraindicação relativa forte",
+      "expected": "< 5 mm / 5 min = olho seco grave"
+    },
+    {
+      "id": "q-flashcard-13",
+      "card_id": "blef-fc-001",
+      "domain": "avaliação",
+      "question": "Distraction test — anormal (laxidez significativa)",
+      "expected": "≥ 6 mm → indicar cantoplastia"
+    },
+    {
+      "id": "q-flashcard-14",
+      "card_id": "blef-fc-001",
+      "domain": "avaliação",
+      "question": "Snap-back test — anormal",
+      "expected": "Retorno lento > 1 segundo → laxidez horizontal → cantopexia"
+    },
+    {
+      "id": "q-flashcard-15",
+      "card_id": "blef-fc-001",
+      "domain": "complicações",
+      "question": "Incidência de hematoma retrobulbar",
+      "expected": "0,04–0,05%"
+    },
+    {
+      "id": "q-flashcard-16",
+      "card_id": "blef-fc-001",
+      "domain": "complicações",
+      "question": "Tempo para isquemia retiniana irreversível",
+      "expected": "60–100 minutos"
+    },
+    {
+      "id": "q-flashcard-17",
+      "card_id": "blef-fc-001",
+      "domain": "emergência",
+      "question": "Cantotomia + cantólise — quando fazer",
+      "expected": "IMEDIATA ao diagnóstico de hematoma retrobulbar (não esperar imagem)"
+    },
+    {
+      "id": "q-flashcard-18",
+      "card_id": "blef-fc-001",
+      "domain": "avaliação",
+      "question": "Função LPS — boa",
+      "expected": "≥ 12 mm de excursão → avanço de aponeurose"
+    },
+    {
+      "id": "q-flashcard-19",
+      "card_id": "blef-fc-001",
+      "domain": "avaliação",
+      "question": "Função LPS — moderada",
+      "expected": "5–11 mm"
+    },
+    {
+      "id": "q-flashcard-20",
+      "card_id": "blef-fc-001",
+      "domain": "decisão",
+      "question": "Função LPS — pobre",
+      "expected": "< 5 mm → indicar suspensão frontal (frontalis sling)"
+    },
+    {
+      "id": "q-flashcard-21",
+      "card_id": "blef-fc-001",
+      "domain": "avaliação",
+      "question": "Teste da fenilefrina 2,5% — positivo",
+      "expected": "Elevação ≥ 1,5 mm → candidato a Müllerectomy"
+    },
+    {
+      "id": "q-flashcard-22",
+      "card_id": "blef-fc-001",
+      "domain": "decisão",
+      "question": "Müllerectomy — indicação",
+      "expected": "Ptose leve (MRD1 2–3 mm) + fenilefrina positiva (≥ 1,5 mm)"
+    },
+    {
+      "id": "q-flashcard-23",
+      "card_id": "blef-fc-001",
+      "domain": "anatomia",
+      "question": "Posição normal do canto lateral vs. medial",
+      "expected": "Canto lateral 2 mm ACIMA do medial"
+    },
+    {
+      "id": "q-flashcard-24",
+      "card_id": "blef-fc-001",
+      "domain": "pós-operatório",
+      "question": "Retirada de suturas — blefaroplastia",
+      "expected": "5–7 dias"
+    },
+    {
+      "id": "q-flashcard-25",
+      "card_id": "blef-fc-001",
+      "domain": "pós-operatório",
+      "question": "Resultado final — quando avaliar",
+      "expected": "3–6 meses"
+    },
+    {
+      "id": "q-flashcard-26",
+      "card_id": "blef-fc-001",
+      "domain": "técnica",
+      "question": "Recorrência da prega no método de sutura (asiática)",
+      "expected": "15–30% a longo prazo"
+    },
+    {
+      "id": "q-flashcard-27",
+      "card_id": "blef-fc-001",
+      "domain": "anatomia",
+      "question": "Espessura da pele palpebral",
+      "expected": "~0,5 mm (mais fina do corpo; face = 2–3 mm)"
+    },
+    {
+      "id": "q-flashcard-28",
+      "card_id": "blef-fc-001",
+      "domain": "anatomia",
+      "question": "Septo orbital superior — fusão com aponeurose do LPS",
+      "expected": "2–5 mm acima da borda superior do tarso"
+    },
+    {
+      "id": "q-flashcard-29",
+      "card_id": "blef-fc-001",
+      "domain": "anatomia",
+      "question": "Septo orbital inferior — fusão com fáscia capsulopalpebral",
+      "expected": "~5 mm abaixo da borda inferior do tarso"
+    },
+    {
+      "id": "q-flashcard-30",
+      "card_id": "blef-fc-001",
+      "domain": "anatomia",
+      "question": "Contribuição do músculo de Müller para elevação palpebral",
+      "expected": "2 mm (inervação simpática)"
+    },
+    {
+      "id": "q-flashcard-31",
+      "card_id": "blef-fc-001",
+      "domain": "anatomia",
+      "question": "Ptose na síndrome de Horner",
+      "expected": "1–2 mm (por desnervação simpática do músculo de Müller)"
+    },
+    {
+      "id": "q-flashcard-32",
+      "card_id": "blef-fc-001",
+      "domain": "anatomia",
+      "question": "Tubérculo de Whitnall — localização",
+      "expected": "2–3 mm posterior ao rebordo orbitário lateral, face interna da parede orbital"
+    },
+    {
+      "id": "q-flashcard-33",
+      "card_id": "blef-fc-001",
+      "domain": "anatomia",
+      "question": "Gordura palpebral superior — quantos compartimentos",
+      "expected": "2 (medial/nasal e central/pré-aponeurótico). Lateral = glândula lacrimal, NÃO gordura"
+    },
+    {
+      "id": "q-flashcard-34",
+      "card_id": "blef-fc-001",
+      "domain": "anatomia",
+      "question": "Gordura palpebral inferior — quantos compartimentos",
+      "expected": "3 (medial, central e lateral), separados pelo m. oblíquo inferior"
+    },
+    {
+      "id": "q-flashcard-35",
+      "card_id": "blef-fc-001",
+      "domain": "complicações",
+      "question": "Lesão do m. oblíquo inferior — consequência",
+      "expected": "Diplopia (particularmente em elevação e adução)"
+    },
+    {
+      "id": "q-flashcard-36",
+      "card_id": "blef-fc-001",
+      "domain": "anatomia",
+      "question": "Ramo temporal do facial — zona perigosa",
+      "expected": "1 cm anteriormente ao tragus, sobre o arco zigomático"
+    },
+    {
+      "id": "q-flashcard-37",
+      "card_id": "blef-fc-001",
+      "domain": "anatomia",
+      "question": "Arco marginal palpebral — localização",
+      "expected": "2 mm da margem ciliar"
+    },
+    {
+      "id": "q-flashcard-38",
+      "card_id": "blef-fc-001",
+      "domain": "avaliação",
+      "question": "Distância sobrancelha-margem — mínima normal",
+      "expected": "≥ 25 mm (< 25 mm sugere ptose de sobrancelha)"
+    },
+    {
+      "id": "q-flashcard-39",
+      "card_id": "blef-fc-001",
+      "domain": "avaliação",
+      "question": "Exoftalmometria — normal vs. proptose",
+      "expected": "< 20 mm normal; > 20 mm = proptose"
+    },
+    {
+      "id": "q-flashcard-40",
+      "card_id": "blef-fc-001",
+      "domain": "complicações",
+      "question": "Incidência de ectrópio pós-blefaroplastia transcutânea",
+      "expected": "1–2%"
+    },
+    {
+      "id": "q-flashcard-41",
+      "card_id": "blef-fc-001",
+      "domain": "complicações",
+      "question": "Incidência de olho seco transitório pós-blefaroplastia",
+      "expected": "18%"
+    },
+    {
+      "id": "q-flashcard-42",
+      "card_id": "blef-fc-001",
+      "domain": "resultados",
+      "question": "Satisfação estética após blefaroplastia superior",
+      "expected": "91% (meta-análise de 12 ECRs, n = 1.847)"
+    },
+    {
+      "id": "q-flashcard-43",
+      "card_id": "blef-fc-001",
+      "domain": "resultados",
+      "question": "Melhora de campo visual após blefaroplastia funcional",
+      "expected": "84% dos casos com dermatocálase funcional"
+    },
+    {
+      "id": "q-flashcard-44",
+      "card_id": "blef-fc-001",
+      "domain": "técnica",
+      "question": "Cantopexia lateral — frequência atual em blefaroplastia inferior",
+      "expected": "68% dos casos (dados ABPS 2025)"
+    },
+    {
+      "id": "q-flashcard-45",
+      "card_id": "blef-fc-001",
+      "domain": "técnica",
+      "question": "Volume de lipoenxertia no tear trough",
+      "expected": "0,5–1,5 mL por lado (conservador — pele fina)"
+    },
+    {
+      "id": "q-flashcard-46",
+      "card_id": "blef-fc-001",
+      "domain": "técnica",
+      "question": "Incisão subciliar — localização",
+      "expected": "2 mm abaixo da linha ciliar"
+    },
+    {
+      "id": "q-flashcard-47",
+      "card_id": "blef-fc-001",
+      "domain": "decisão",
+      "question": "Lei de Hering — protocolo de teste",
+      "expected": "Ocluir olho ptótico por 2 min → observar MRD1 contralateral. Se queda > 1 mm → ptose latente contralateral"
+    },
+    {
+      "id": "q-flashcard-48",
+      "card_id": "blef-fc-001",
+      "domain": "decisão",
+      "question": "Estratégia de Hering — redução de ptose desmascarada",
+      "expected": "De 22% para 7% com avaliação pré-operatória da lei de Hering e correção bilateral escalonada"
+    },
+    {
+      "id": "q-flashcard-49",
+      "card_id": "blef-fc-001",
+      "domain": "técnica",
+      "question": "Nomoto & Ogawa — incisão subtarsal na fáscia capsulopalpebral",
+      "expected": "ZERO ectrópio em 74 casos / 18 meses. Preserva tensão do septo e capsulopalpebral"
+    },
+    {
+      "id": "q-flashcard-50",
+      "card_id": "blef-fc-001",
+      "domain": "epidemiologia",
+      "question": "Aumento de volume da blefaroplastia superior em 15 anos (ABPS)",
+      "expected": "42%"
+    },
+    {
+      "id": "q-flashcard-51",
+      "card_id": "blef-fc-001",
+      "domain": "avaliação",
+      "question": "Bell phenomenon — importância",
+      "expected": "Ausente = risco GRAVE de exposição corneal pós-blefaroplastia"
+    },
+    {
+      "id": "q-flashcard-52",
+      "card_id": "blef-fc-001",
+      "domain": "avaliação",
+      "question": "Ptose — classificação por MRD1",
+      "expected": "Leve: 2–3 mm | Moderada: 0–1 mm | Grave: < 0 mm (margem abaixo do centro pupilar)"
+    },
+    {
+      "id": "q-flashcard-53",
+      "card_id": "blef-fc-001",
+      "domain": "decisão",
+      "question": "Distraction test — cantopexia vs. cantoplastia",
+      "expected": "4–6 mm → cantopexia (sem secção do tendão). > 6 mm → cantoplastia (com secção e reinserção)"
+    },
+    {
+      "id": "q-flashcard-54",
+      "card_id": "blef-fc-001",
+      "domain": "emergência",
+      "question": "Hematoma retrobulbar — primeiro passo",
+      "expected": "Remover suturas IMEDIATAMENTE"
+    },
+    {
+      "id": "q-flashcard-55",
+      "card_id": "blef-fc-001",
+      "domain": "pós-operatório",
+      "question": "Equimose pós-blefaroplastia — duração",
+      "expected": "7–14 dias"
+    },
+    {
+      "id": "q-flashcard-56",
+      "card_id": "blef-fc-001",
+      "domain": "pós-operatório",
+      "question": "Edema grosseiro pós-blefaroplastia — duração",
+      "expected": "2–4 semanas"
+    }
+  ]
+}
