@@ -1,0 +1,251 @@
+[
+  {
+    "id": "blef-dec-001",
+    "type": "decision",
+    "title": "Escolha de Técnica para Correção de Ptose",
+    "topic": "blefaroplastia",
+    "area": "estetica-facial",
+    "trigger": "Paciente com ptose palpebral (MRD1 < 4 mm) avaliado para correção cirúrgica.",
+    "steps": [
+      {
+        "question": "Qual a função do LPS (excursão do levator da infraversão à supraversão máxima, bloqueando frontal)?",
+        "options": [
+          {
+            "answer": "Boa (≥ 12 mm)",
+            "next": "Avaliar grau da ptose e teste de fenilefrina."
+          },
+          {
+            "answer": "Moderada (5–11 mm)",
+            "next": "Ressecção extensa do LPS ou avanço amplo da aponeurose. Considerar Fasanella-Servat para ptose moderada."
+          },
+          {
+            "answer": "Pobre (< 5 mm)",
+            "next": "Suspensão frontal (frontalis sling) com fáscia lata autóloga ou material sintético."
+          }
+        ]
+      },
+      {
+        "question": "Se função LPS boa (≥ 12 mm): qual o grau da ptose e resultado do teste da fenilefrina 2,5%?",
+        "options": [
+          {
+            "answer": "Ptose leve (MRD1 2–3 mm) + fenilefrina positiva (elevação ≥ 1,5 mm)",
+            "next": "Müllerectomy (ressecção conjuntivo-mülleriana) — abordagem posterior."
+          },
+          {
+            "answer": "Ptose leve (MRD1 2–3 mm) + fenilefrina negativa",
+            "next": "Avanço ou plicatura da aponeurose do LPS — abordagem anterior."
+          },
+          {
+            "answer": "Ptose leve a moderada (MRD1 1–3 mm)",
+            "next": "Avanço da aponeurose do LPS (via anterior). Ajuste intraoperatório com paciente sentado."
+          }
+        ]
+      },
+      {
+        "question": "A ptose é unilateral? Avaliar Lei de Hering.",
+        "options": [
+          {
+            "answer": "Unilateral: ocluir olho ptótico 2 min, MRD1 contralateral cai > 1 mm",
+            "next": "Ptose contralateral latente desmascarada → planejar correção BILATERAL escalonada."
+          },
+          {
+            "answer": "Unilateral: MRD1 contralateral estável após oclusão",
+            "next": "Ptose unilateral verdadeira → correção unilateral com ajuste intraoperatório."
+          },
+          {
+            "answer": "Bilateral",
+            "next": "Correção bilateral simultânea. Ajuste simétrico intraoperatório."
+          }
+        ]
+      }
+    ],
+    "citations": ["Neligan, 2023, vol. 2, cap. 8", "Grabb & Smith, 2024, cap. 35", "Li X et al. Plast Reconstr Surg 2026;157(1):38e–48e"],
+    "updates": [],
+    "tags": ["decisão", "ptose", "LPS", "fenilefrina", "Hering", "técnica"]
+  },
+  {
+    "id": "blef-dec-002",
+    "type": "decision",
+    "title": "Blefaroplastia Inferior: Transconjuntival vs. Transcutânea",
+    "topic": "blefaroplastia",
+    "area": "estetica-facial",
+    "trigger": "Paciente com queixa de bolsas ou excesso de pele na pálpebra inferior avaliado para blefaroplastia inferior.",
+    "steps": [
+      {
+        "question": "Qual o problema principal?",
+        "options": [
+          {
+            "answer": "Bolsas de gordura com pouco/nenhum excesso de pele",
+            "next": "Via transconjuntival ± pinch blepharoplasty para excesso de pele mínimo."
+          },
+          {
+            "answer": "Excesso de pele significativo + bolsas de gordura",
+            "next": "Via transcutânea (subciliar). Avaliar necessidade de cantopexia/cantoplastia."
+          },
+          {
+            "answer": "Excesso de pele leve sem bolsas de gordura significativas",
+            "next": "Pinch blepharoplasty isolada ou laser resurfacing periocular."
+          }
+        ]
+      },
+      {
+        "question": "Qual o status da laxidez horizontal (snap-back test, distraction test)?",
+        "options": [
+          {
+            "answer": "Snap-back imediato, distraction < 4 mm (normal)",
+            "next": "Não requer cantopexia. Prosseguir com via escolhida."
+          },
+          {
+            "answer": "Snap-back lento mas completo, distraction 4–6 mm (laxidez leve-moderada)",
+            "next": "Associar CANTOPEXIA lateral ao procedimento escolhido."
+          },
+          {
+            "answer": "Snap-back incompleto, distraction > 6 mm (laxidez grave)",
+            "next": "Associar CANTOPLASTIA lateral (secção e reinserção do tendão cantal)."
+          }
+        ]
+      },
+      {
+        "question": "Qual o vetor orbitário?",
+        "options": [
+          {
+            "answer": "Vetor positivo (rebordo anterior à córnea)",
+            "next": "Menor risco. Via transcutânea aceitável sem cantopexia adicional se laxidez normal."
+          },
+          {
+            "answer": "Vetor neutro ou negativo (córnea anterior ou no mesmo plano que rebordo)",
+            "next": "ALTO RISCO de ectrópio e scleral show. Preferir transconjuntival. Se transcutânea: cantopexia OBRIGATÓRIA."
+          }
+        ]
+      },
+      {
+        "question": "Há deformidade de tear trough?",
+        "options": [
+          {
+            "answer": "Sim — tear trough pronunciado",
+            "next": "Reposicionamento de gordura (fat transposition) ao arcus marginalis. Preferir sobre ressecção de gordura. Pode associar filler ou lipoenxertia."
+          },
+          {
+            "answer": "Não — tear trough mínimo",
+            "next": "Ressecção conservadora de gordura aceitável. Evitar hollowing — ressecar o mínimo necessário."
+          }
+        ]
+      }
+    ],
+    "citations": ["Neligan, 2023, vol. 2, cap. 9", "Grabb & Smith, 2024, cap. 35", "Core Procedures, 2020, cap. 3", "Chen J et al. Plast Reconstr Surg 2026;157(4):622–631"],
+    "updates": [],
+    "tags": ["decisão", "blefaroplastia-inferior", "transconjuntival", "transcutânea", "cantopexia", "vetor"]
+  },
+  {
+    "id": "blef-dec-003",
+    "type": "decision",
+    "title": "Diagnóstico Diferencial da Pálpebra Pesada",
+    "topic": "blefaroplastia",
+    "area": "estetica-facial",
+    "trigger": "Paciente queixa-se de 'pálpebra pesada' ou aparência cansada/envelhecida do terço superior da face.",
+    "steps": [
+      {
+        "question": "Elevar manualmente as sobrancelhas à posição ideal. O excesso de pele desaparece?",
+        "options": [
+          {
+            "answer": "Sim — excesso desaparece com sobrancelha elevada",
+            "next": "PTOSE DE SOBRANCELHA (pseudo-dermatocálase). Indicar brow lift, NÃO blefaroplastia isolada."
+          },
+          {
+            "answer": "Não — excesso persiste mesmo com sobrancelha elevada",
+            "next": "Dermatocálase verdadeira. Candidato a blefaroplastia superior."
+          },
+          {
+            "answer": "Parcialmente — excesso diminui mas não desaparece",
+            "next": "Componente misto: ptose de sobrancelha + dermatocálase. Considerar procedimento COMBINADO (brow lift + blefaroplastia)."
+          }
+        ]
+      },
+      {
+        "question": "Avaliar MRD1 (distância margem-reflexo). Há ptose palpebral?",
+        "options": [
+          {
+            "answer": "MRD1 ≥ 4 mm (normal)",
+            "next": "Sem ptose palpebral. Dermatocálase e/ou ptose de sobrancelha conforme avaliação anterior."
+          },
+          {
+            "answer": "MRD1 < 4 mm (ptose presente)",
+            "next": "PTOSE PALPEBRAL. A correção é ptoseplastia (avanço/plicatura de aponeurose, Müllerectomy ou suspensão frontal conforme função do LPS)."
+          }
+        ]
+      },
+      {
+        "question": "Há herniação de gordura isolada (bolsas) sem excesso de pele significativo?",
+        "options": [
+          {
+            "answer": "Sim — bolsas proeminentes com pele relativamente normal",
+            "next": "Ressecção ou reposicionamento de gordura via transconjuntival (sem incisão cutânea)."
+          },
+          {
+            "answer": "Não — excesso de pele é o componente principal",
+            "next": "Blefaroplastia com excisão de pele ± gordura."
+          }
+        ]
+      }
+    ],
+    "citations": ["Neligan, 2023, vol. 2, cap. 8", "Grabb & Smith, 2024, cap. 35"],
+    "updates": [
+      {
+        "color": "green",
+        "title": "Dica clínica: teste da sobrancelha elevada",
+        "content": [
+          "Com o paciente sentado e relaxado, elevar manualmente as sobrancelhas à posição ideal e reavaliar a pálpebra.",
+          "Se o excesso de pele desaparece com a elevação do supercílio → ptose de sobrancelha (indicar brow lift).",
+          "Se o excesso de pele persiste mesmo com sobrancelha elevada → dermatocálase verdadeira (indicar blefaroplastia).",
+          "Muitos pacientes necessitam procedimento combinado (brow lift + blefaroplastia)."
+        ],
+        "citation": "Neligan, 2023, vol. 2, cap. 8",
+        "paradigm_shift": false
+      }
+    ],
+    "tags": ["decisão", "diagnóstico-diferencial", "pálpebra-pesada", "dermatocálase", "ptose-sobrancelha", "brow-lift"]
+  },
+  {
+    "id": "blef-dec-004",
+    "type": "decision",
+    "title": "Avaliação do Vetor Orbitário",
+    "topic": "blefaroplastia",
+    "area": "estetica-facial",
+    "trigger": "Avaliação pré-operatória de blefaroplastia inferior para determinar risco de ectrópio e scleral show.",
+    "steps": [
+      {
+        "question": "Em perfil: uma linha reta da córnea ao ponto mais proeminente da bochecha. Qual a relação?",
+        "options": [
+          {
+            "answer": "Rebordo infraorbitário anterior à córnea → VETOR POSITIVO",
+            "next": "Proteção natural. Menor risco de ectrópio. Via transcutânea aceitável com avaliação de laxidez adequada."
+          },
+          {
+            "answer": "Córnea e rebordo alinhados → VETOR NEUTRO",
+            "next": "Risco intermediário. Preferir transconjuntival. Se transcutânea: considerar cantopexia profilática."
+          },
+          {
+            "answer": "Córnea anterior ao rebordo → VETOR NEGATIVO",
+            "next": "ALTO RISCO de ectrópio, scleral show e complicações. Preferir via transconjuntival. Se transcutânea: cantopexia/cantoplastia OBRIGATÓRIA."
+          }
+        ]
+      },
+      {
+        "question": "Canto lateral: qual a posição relativa ao canto medial?",
+        "options": [
+          {
+            "answer": "Canto lateral 2 mm acima do medial (normal)",
+            "next": "Posição normal. Risco basal de complicações."
+          },
+          {
+            "answer": "Canto lateral no mesmo nível ou abaixo do medial",
+            "next": "Fator de risco adicional para ectrópio. Cantopexia profilática indicada durante blefaroplastia inferior."
+          }
+        ]
+      }
+    ],
+    "citations": ["Neligan, 2023, vol. 2, cap. 9", "Grabb & Smith, 2024, cap. 35"],
+    "updates": [],
+    "tags": ["decisão", "vetor-orbitário", "ectrópio", "risco", "blefaroplastia-inferior", "scleral-show"]
+  }
+]

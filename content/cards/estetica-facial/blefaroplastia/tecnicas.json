@@ -1,0 +1,434 @@
+[
+  {
+    "id": "blef-tec-001",
+    "type": "technique",
+    "title": "Blefaroplastia Superior (Clássica)",
+    "aliases": ["upper blepharoplasty", "blefaroplastia de pálpebra superior", "excisão de pele palpebral"],
+    "topic": "blefaroplastia",
+    "area": "estetica-facial",
+    "indication": "Dermatocálase da pálpebra superior com excesso de pele redundante, funcional (obstrução do campo visual superior) ou estética. Confirmada pelo pinch test e pela manutenção de ≥ 20 mm entre margem ciliar e sobrancelha após ressecção.",
+    "contraindication": "Ptose de sobrancelha não corrigida (pseudo-dermatocálase); olho seco grave (Schirmer < 5 mm/5 min); blefarospasmo ativo; expectativas irrealistas; Bell phenomenon ausente com lagoftalmo significativo.",
+    "steps": [
+      "1. Paciente sentado, olhos abertos, repouso, sem contração do frontal.",
+      "2. Marca inferior na prega palpebral natural: 8–10 mm da margem ciliar (♀), 7–8 mm (♂). Medialmente: acima ou lateral ao ponto lacrimal (não ultrapassar — risco de web epicantal). Lateralmente: até canto lateral ou além, angulando superiormente para crow's foot.",
+      "3. Marca superior determinada pelo pinch test: pele pinçada até orbicular ficar visível. Manter ≥ 20 mm entre margem ciliar e sobrancelha.",
+      "4. Anestesia: infiltração com lidocaína 2% + epinefrina 1:100.000. Aguardar 7–10 min para hemostasia.",
+      "5. Incisão com lâmina 15 ou radiofrequência.",
+      "6. Excisão da faixa de pele ± faixa de orbicular pré-septal (ressecção de músculo melhora definição da prega mas aumenta edema).",
+      "7. Se herniação de gordura: abrir septo orbital com tesoura de Westcott. Identificar gordura pré-aponeurótica medial (pálida) e central (amarela). Pressão gentil sobre o globo para prolapsar gordura.",
+      "8. Ressecção conservadora de gordura com cautério bipolar. NUNCA tracionar gordura — risco de hemorragia retrobulbar por avulsão de vasos profundos.",
+      "9. Hemostasia meticulosa.",
+      "10. Fechamento: sutura contínua ou pontos separados com nylon 6-0 ou prolene 6-0.",
+      "11. Compressas geladas intermitentes. Retirada de suturas em 5–7 dias."
+    ],
+    "complications": ["Hematoma retrobulbar (0,04–0,05%)", "Lagoftalmo (transitório comum; permanente raro)", "Ptose iatrogênica (0,5–1%)", "Olho seco transitório (18%)", "Assimetria (5–10%)", "Cicatriz hipertrófica / web epicantal", "Milia (5–10%)"],
+    "pearls": [
+      "Se < 20 mm entre margem e sobrancelha → parte do excesso é ptose de sobrancelha; paciente necessita brow lift.",
+      "A gordura é cauterizada e seccionada, e o coto retrai-se espontaneamente para a órbita.",
+      "Ressecção de orbicular melhora definição da prega mas aumenta edema inicial.",
+      "A blefaroplastia superior é o quarto procedimento estético mais frequente nos EUA."
+    ],
+    "images": ["blef-13-25-blefaro-superior-tecnica.png", "blef-13-26-resultado-blefaro-superior.png", "blef-13-28-gordura-medial-fechamento.png", "fig13-25-blefaroplastia-superior.jpeg"],
+    "citations": ["Neligan, 2023, vol. 2, cap. 8", "Core Procedures, 2020, cap. 3", "Operative Dictations, 2017, cap. 8"],
+    "updates": [
+      {
+        "color": "blue",
+        "title": "Prática atual em blefaroplastia — análise de 15 anos de dados do ABPS",
+        "content": [
+          "Revisão de 15 anos de dados de certificação do American Board of Plastic Surgery (Stein et al., 2025): blefaroplastia superior aumentou 42% em volume.",
+          "Lower blepharoplasty transconjuntival superou a transcutânea em frequência.",
+          "Cantopexia lateral passou a ser realizada em 68% das blefaroplastias inferiores, refletindo mudança de paradigma em relação à laxidez horizontal."
+        ],
+        "citation": "Stein MJ et al. Plast Reconstr Surg 2025;155(5):895–901. DOI: 10.1097/PRS.0000000000011843",
+        "paradigm_shift": false
+      },
+      {
+        "color": "blue",
+        "title": "Correção de retração palpebral superior pós-blefaroplastia com AlloDerm",
+        "content": [
+          "Park NS et al. (2025): técnica de alongamento precoce da aponeurose do LPS com AlloDerm para correção de retração palpebral após blefaroplastia cosmética.",
+          "Série de 12 pacientes: MRD1 melhorou de 5,8 mm para 4,1 mm em 6 meses.",
+          "Indicação: retração detectada no PO imediato ou primeiras semanas (intervenção precoce tem melhor resultado)."
+        ],
+        "citation": "Park NS et al. Plast Reconstr Surg 2025;156(2):189e–193e. DOI: 10.1097/PRS.0000000000011980",
+        "paradigm_shift": false
+      },
+      {
+        "color": "blue",
+        "title": "Meta-análise: resultados funcionais e estéticos após blefaroplastia superior",
+        "content": [
+          "Todorov D et al. (2025): revisão sistemática e meta-análise de 12 ECRs (n = 1.847).",
+          "Blefaroplastia superior melhora campo visual em 84% dos casos com dermatocálase funcional.",
+          "Satisfação estética: 91%. Complicação mais frequente: olho seco transitório (18%).",
+          "A melhora funcional é mensurável por campimetria e sustentada em seguimento médio de 24 meses."
+        ],
+        "citation": "Todorov D et al. Aesthet Surg J 2025;45(6):554–562. DOI: 10.1093/asj/sjaf022",
+        "paradigm_shift": false
+      }
+    ],
+    "tags": ["técnica", "blefaroplastia-superior", "dermatocálase", "excisão", "prega-palpebral"]
+  },
+  {
+    "id": "blef-tec-002",
+    "type": "technique",
+    "title": "Anchor Blepharoplasty",
+    "aliases": ["anchor technique", "técnica anchor"],
+    "topic": "blefaroplastia",
+    "area": "estetica-facial",
+    "indication": "Blefaroplastia superior quando se deseja criação de prega palpebral alta e estável, especialmente em casos com deiscência do levantador ou necessidade de definição precisa.",
+    "contraindication": "Mesmas da blefaroplastia superior clássica.",
+    "steps": [
+      "1. Incisão e excisão de pele/orbicular conforme técnica padrão de blefaroplastia superior.",
+      "2. Exposição da borda livre da aponeurose do levantador.",
+      "3. Fixação da derme do retalho pré-tarsal à borda livre da aponeurose do levantador com suturas.",
+      "4. Essa 'âncora' derme-aponeurose cria uma prega palpebral definida, alta e estável.",
+      "5. Fechamento da pele com sutura contínua ou pontos separados."
+    ],
+    "complications": ["Prega excessivamente alta se fixação muito superior", "Assimetria de prega", "Ptose iatrogênica se lesão do levantador"],
+    "pearls": [
+      "A técnica anchor produz uma prega mais definida e estável que a blefaroplastia por excisão simples.",
+      "Particularmente útil em pacientes com deiscência de aponeurose onde a prega está deslocada superiormente."
+    ],
+    "images": ["blef-13-27-anchor-blepharoplasty.png"],
+    "citations": ["Neligan, 2023, vol. 2, cap. 8"],
+    "updates": [],
+    "tags": ["técnica", "anchor", "blefaroplastia-superior", "prega-palpebral", "levantador"]
+  },
+  {
+    "id": "blef-tec-003",
+    "type": "technique",
+    "title": "Blefaroplastia Inferior — Via Transconjuntival",
+    "aliases": ["transconjunctival blepharoplasty", "blefaroplastia transconjuntival", "via retroseptal"],
+    "topic": "blefaroplastia",
+    "area": "estetica-facial",
+    "indication": "Excesso de gordura palpebral inferior (bolsas) com excesso de pele mínimo. Via preferida atualmente. Pode ser pré-septal ou retroseptal (pós-septal).",
+    "contraindication": "Excesso de pele significativo que necessita excisão cutânea (considerar via transcutânea ou pinch associado). Coagulopatia não corrigida.",
+    "steps": [
+      "1. Anestesia local com lidocaína 2% + epinefrina via infiltração subconjuntival.",
+      "2. Via pré-septal: incisão conjuntival inferior ao tarso → dissecção pré-septal (entre orbicular e septo) → abertura do septo → acesso aos compartimentos de gordura.",
+      "3. Via retroseptal (pós-septal): incisão conjuntival → entrada direta através do septo para a gordura (mais direta e rápida, mas menor exposição para reposicionamento).",
+      "4. Identificação dos 3 compartimentos (medial, central, lateral) separados pelo oblíquo inferior.",
+      "5. Opção de ressecção: ressecção conservadora com cautério bipolar. ATENÇÃO ao oblíquo inferior.",
+      "6. Opção de reposicionamento (fat transposition — técnica preferida atualmente): liberar gordura medial herniada da cápsula mantendo pedículo vascular → suturar ao periósteo do rebordo infraorbitário abaixo do arcus marginalis → preenche tear trough sem material adicional.",
+      "7. Hemostasia meticulosa.",
+      "8. Conjuntiva pode ser deixada sem sutura (cicatriza por segunda intenção) ou sutura absorvível."
+    ],
+    "complications": ["Hematoma retrobulbar", "Quemose (5–15%)", "Hollowing / esqueletização (se ressecção excessiva — 5–10%)", "Diplopia (raro, < 0,1% — lesão do oblíquo inferior)"],
+    "pearls": [
+      "Sem cicatriz cutânea, menor risco de ectrópio, acesso direto à gordura intraorbitária.",
+      "O reposicionamento de gordura (fat transposition) é a técnica mais atual para correção do tear trough.",
+      "Pode ser combinada com pinch blepharoplasty para excesso de pele leve.",
+      "Transconjuntival superou a transcutânea em frequência (dados ABPS 2025)."
+    ],
+    "images": ["blef-13-30-transconjuntival.png", "blef-13-31-gordura-compartimentos-inferiores.png", "blef-13-33-fascia-capsulopalpebral.png", "blef-13-34-flap-capsulopalpebral.png", "fig13-30-acesso-transconjuntival.jpeg"],
+    "citations": ["Neligan, 2023, vol. 2, cap. 9", "Operative Dictations, 2017, cap. 9", "Grabb & Smith, 2024, cap. 35"],
+    "updates": [
+      {
+        "color": "red",
+        "title": "Mudança de paradigma: reposicionamento de gordura > ressecção",
+        "content": [
+          "Chen J et al. (2025): reposicionamento de gordura com excisão profunda (deep fat) na blefaroplastia inferior transcutânea.",
+          "Comparação com ressecção isolada: melhor contorno do sulco nasojugal e menor risco de hollowing tardio.",
+          "Recomendação atual: preferir reposicionamento (transpor gordura para o tear trough). Ressecção somente quando o volume é genuinamente excessivo e o tear trough é mínimo."
+        ],
+        "citation": "Chen J et al. Plast Reconstr Surg 2026;157(4):622–631. DOI: 10.1097/PRS.0000000000012416",
+        "paradigm_shift": true
+      }
+    ],
+    "tags": ["técnica", "transconjuntival", "blefaroplastia-inferior", "fat-transposition", "reposicionamento"]
+  },
+  {
+    "id": "blef-tec-004",
+    "type": "technique",
+    "title": "Blefaroplastia Inferior — Via Transcutânea (Subciliar)",
+    "aliases": ["transcutaneous blepharoplasty", "subciliar", "skin-muscle flap", "skin flap"],
+    "topic": "blefaroplastia",
+    "area": "estetica-facial",
+    "indication": "Excesso de pele significativo na pálpebra inferior, laxidez do orbicular, necessidade de acesso simultâneo a gordura e pele.",
+    "contraindication": "Vetor negativo sem planejamento de cantopexia/cantoplastia; laxidez horizontal grave não passível de correção; Schirmer muito baixo.",
+    "steps": [
+      "1. Incisão 2 mm abaixo da linha ciliar (subciliar) ou na prega subciliar.",
+      "2. Dissecção — opções: (a) skin flap (pele sobre orbicular), (b) skin-muscle flap (pele+orbicular como retalho único), (c) step-incision (pele e orbicular em níveis diferentes — previne aderência cicatricial).",
+      "3. Exposição do septo orbital.",
+      "4. Abertura do septo, identificação dos 3 compartimentos de gordura.",
+      "5. Ressecção conservadora ou reposicionamento de gordura conforme planejamento.",
+      "6. Excisão conservadora de pele redundante.",
+      "7. SEMPRE considerar cantopexia/cantoplastia lateral, particularmente em laxidez horizontal (snap-back lento, distraction > 6 mm) ou vetor negativo.",
+      "8. Fechamento com sutura contínua ou pontos separados."
+    ],
+    "complications": ["Ectrópio (1–2%)", "Retração palpebral inferior", "Scleral show", "Hematoma retrobulbar", "Hollowing"],
+    "pearls": [
+      "Maior risco de retração e ectrópio que transconjuntival — cantopexia é mandatória em pacientes de risco.",
+      "Excelente acesso ao septo, gordura e pele simultaneamente.",
+      "Step-incision reduz risco de aderência cicatricial."
+    ],
+    "images": ["blef-13-32-blefaro-inferior-pele.png", "algoritmo-tecnica-blefaroplastia-inferior.png", "fig13-33-blefaroplastia-inferior.jpeg"],
+    "citations": ["Neligan, 2023, vol. 2, cap. 9", "Operative Dictations, 2017, cap. 10", "Grabb & Smith, 2024, cap. 35"],
+    "updates": [
+      {
+        "color": "blue",
+        "title": "Incisão na fáscia capsulopalpebral subtarsal — novo paradigma para blefaroplastia inferior",
+        "content": [
+          "Nomoto e Ogawa (2025): incisão na fáscia capsulopalpebral no nível subtarsal (vs. nível septal tradicional) na via transcutânea.",
+          "Série de 74 casos: ZERO ectrópio em 18 meses de seguimento.",
+          "Mecanismo: incisão subtarsal preserva a tensão do septo e da fáscia capsulopalpebral, reduzindo a tração vertical sobre a pálpebra.",
+          "Pode reduzir a necessidade de cantopexia concomitante em pacientes selecionados."
+        ],
+        "citation": "Nomoto S, Ogawa R. Plast Reconstr Surg 2026;157(4):486e–495e. DOI: 10.1097/PRS.0000000000012429",
+        "paradigm_shift": false
+      }
+    ],
+    "tags": ["técnica", "transcutânea", "subciliar", "blefaroplastia-inferior", "skin-flap"]
+  },
+  {
+    "id": "blef-tec-005",
+    "type": "technique",
+    "title": "Cantopexia Lateral",
+    "aliases": ["lateral canthoplasty", "canthopexy", "re-suspensão cantal"],
+    "topic": "blefaroplastia",
+    "area": "estetica-facial",
+    "indication": "Laxidez horizontal leve a moderada (distraction test 4–6 mm, snap-back lento mas completo). Re-suspensão do tendão cantal lateral sem secção.",
+    "contraindication": "Laxidez grave (distraction > 6 mm, snap-back incompleto) — nesse caso, cantoplastia é preferida.",
+    "steps": [
+      "1. Acesso lateral via incisão de blefaroplastia ou cantotomia lateral.",
+      "2. Exposição do tendão cantal lateral inferior.",
+      "3. Sem seccionar o tendão: passar sutura não-absorvível (nylon 5-0 ou 4-0) através do tendão cantal lateral.",
+      "4. Fixar ao periósteo do rebordo orbitário lateral (ou tubérculo de Whitnall).",
+      "5. Ponto de fixação 2 mm acima da posição original para compensar relaxamento pós-operatório.",
+      "6. Verificar posição e tensão do canto antes de fechar."
+    ],
+    "complications": ["Assimetria cantal", "Deslocamento do ponto de fixação", "Cicatriz lateral"],
+    "pearls": [
+      "Cantopexia: sem secção do tendão (laxidez leve-moderada). Cantoplastia: com secção (laxidez grave).",
+      "Cantopexia lateral é realizada em 68% das blefaroplastias inferiores atualmente (dados ABPS 2025).",
+      "Fixar sempre 2 mm acima da posição ideal para compensar relaxamento."
+    ],
+    "images": ["blef-13-37-cantopexia-periosteal.png", "blef-13-38-cantopexia-duas-camadas.png", "fig13-37a-cantopexia-periosteal.jpeg"],
+    "citations": ["Neligan, 2023, vol. 2, cap. 9", "Core Procedures, 2020, cap. 3"],
+    "updates": [],
+    "tags": ["técnica", "cantopexia", "cantal-lateral", "laxidez", "blefaroplastia-inferior"]
+  },
+  {
+    "id": "blef-tec-006",
+    "type": "technique",
+    "title": "Cantoplastia Lateral",
+    "aliases": ["lateral canthoplasty", "tarsal strip", "reinserção cantal"],
+    "topic": "blefaroplastia",
+    "area": "estetica-facial",
+    "indication": "Laxidez horizontal moderada a grave (distraction test > 6 mm, snap-back incompleto). Envolve secção completa do tendão cantal lateral inferior.",
+    "contraindication": "Tecido insuficiente para tarsal strip; cicatriz prévia com comprometimento vascular lateral.",
+    "steps": [
+      "1. Cantotomia lateral: incisão horizontal do canto lateral.",
+      "2. Cantólise inferior: secção do ramo inferior do tendão cantal lateral.",
+      "3. Tarsal strip: desnudar o epitélio da borda lateral da pálpebra inferior para criar tira tarsal.",
+      "4. Reinserção ao periósteo do tubérculo de Whitnall (2–3 mm posterior ao rebordo, face interna da parede orbitária lateral) com sutura não-absorvível (nylon 5-0 ou 4-0).",
+      "5. Fixação 2 mm acima da posição original para compensar relaxamento.",
+      "6. Reposicionar canto lateral com ponto de ancoragem à fáscia temporal profunda.",
+      "7. Fechar cantotomia."
+    ],
+    "complications": ["Ectrópio por tensão excessiva", "Entrópio por overcorrection", "Exposição/extrusão de sutura"],
+    "pearls": [
+      "A fixação deve ser na face INTERNA da parede orbitária lateral, posterior ao rebordo.",
+      "Cantoplastia é mais robusta que cantopexia para laxidez grave.",
+      "Pode ser em duas camadas: tarso ao osso + orbicular à fáscia temporal profunda."
+    ],
+    "images": ["blef-13-38-cantopexia-duas-camadas.png"],
+    "citations": ["Neligan, 2023, vol. 2, cap. 9", "Core Procedures, 2020, cap. 3"],
+    "updates": [],
+    "tags": ["técnica", "cantoplastia", "tarsal-strip", "cantal-lateral", "laxidez-grave"]
+  },
+  {
+    "id": "blef-tec-007",
+    "type": "technique",
+    "title": "Pinch Blepharoplasty (Skin Pinch)",
+    "aliases": ["skin pinch", "blefaroplastia pinch", "excisão pinch"],
+    "topic": "blefaroplastia",
+    "area": "estetica-facial",
+    "indication": "Excesso de pele leve na pálpebra inferior, sem necessidade de acesso profundo. Pode ser combinada com blefaroplastia transconjuntival para bolsas de gordura.",
+    "contraindication": "Excesso de pele moderado a grande (requer abordagem transcutânea).",
+    "steps": [
+      "1. Pinçar faixa de pele imediatamente abaixo da linha ciliar (2–3 mm).",
+      "2. Excisão da pele pinçada com tesoura fina ou bisturi.",
+      "3. Não dissecar planos profundos — orbicular e septo preservados.",
+      "4. Hemostasia.",
+      "5. Fechamento com sutura contínua fina (6-0 ou 7-0)."
+    ],
+    "complications": ["Cicatriz visível (raro se bem posicionada)", "Assimetria"],
+    "pearls": [
+      "Técnica minimamente invasiva com menor risco de ectrópio por não violar septo nem orbicular.",
+      "Ideal quando combinada com transconjuntival: gordura por trás + pinch por fora."
+    ],
+    "images": ["blef-13-32-blefaro-inferior-pele.png"],
+    "citations": ["Neligan, 2023, vol. 2, cap. 9"],
+    "updates": [],
+    "tags": ["técnica", "pinch", "pele", "blefaroplastia-inferior", "minimamente-invasiva"]
+  },
+  {
+    "id": "blef-tec-008",
+    "type": "technique",
+    "title": "Double Eyelid Surgery — Dupla Pálpebra Asiática",
+    "aliases": ["double eyelid", "cirurgia de dupla pálpebra", "Asian blepharoplasty", "suture method", "incisional method"],
+    "topic": "blefaroplastia",
+    "area": "estetica-facial",
+    "indication": "Pacientes com single eyelid que desejam criação de prega palpebral superior ou aprofundamento de prega rasa. Cirurgia estética mais realizada mundialmente em volume absoluto.",
+    "contraindication": "Expectativa de prega excessivamente alta ('ocidentalizada'); blefaroespasmo; ptose não diagnosticada.",
+    "steps": [
+      "1. Determinar altura da prega: 6–8 mm em asiáticos (pregas mais altas parecem ocidentalizadas e são rejeitadas); 8–10 mm em caucasianos.",
+      "2. MÉTODO DE SUTURA (non-incisional): suturas passadas através da pele, orbicular, aponeurose do LPS e conjuntiva para criar aderência. Reversível, menor edema, recuperação rápida. Recorrência 15–30% a longo prazo.",
+      "3. MÉTODO INCISIONAL: incisão cutânea, excisão de orbicular e gordura pré-aponeurótica excedente, fixação da derme ao tarso/aponeurose. Resultado mais permanente, cicatriz, edema prolongado.",
+      "4. Se epicanto presente: considerar epicantoplastia medial simultânea.",
+      "5. Ajustar altura da prega conforme espessura do tecido pré-tarsal de cada paciente.",
+      "6. Fechamento com sutura contínua intracuticular ou pontos separados."
+    ],
+    "complications": ["Recorrência da prega (15–30% no método de sutura)", "Assimetria (3,3%)", "Cicatriz visível (método incisional)", "Prega excessivamente alta ou ocidentalizada"],
+    "pearls": [
+      "A altura ideal não é uma medida fixa, mas ajustada conforme espessura do tecido pré-tarsal individual (Yu AY et al., 2025).",
+      "Método de sutura: melhor para pacientes sem excesso de gordura/pele, desejando resultado natural e reversível.",
+      "Método incisional: quando há excesso de gordura pré-aponeurótica ou orbicular a ressecar."
+    ],
+    "images": ["blef-13-10ab-variacoes-palpebra-superior.png", "blef-13-10cd-palpebra-asiatica-baggy.png"],
+    "citations": ["Neligan, 2023, vol. 2, cap. 8", "Grabb & Smith, 2024, cap. 35"],
+    "updates": [
+      {
+        "color": "blue",
+        "title": "Dupla pálpebra — técnica conservadora com ajuste de altura da prega",
+        "content": [
+          "Yu AY et al. (2025): técnica conservadora baseada em estudos anatômicos in vivo.",
+          "Altura da prega individualizável por análise direta da pretarsal fullness intraoperatória.",
+          "Série de 180 pacientes: 97% satisfeitos; 3,3% revisão por assimetria.",
+          "O conceito-chave: a altura ideal da prega não é uma medida fixa, mas sim ajustada conforme a espessura do tecido pré-tarsal de cada paciente."
+        ],
+        "citation": "Yu AY et al. Plast Reconstr Surg 2025;156(1):29–40. DOI: 10.1097/PRS.0000000000011948",
+        "paradigm_shift": false
+      }
+    ],
+    "tags": ["técnica", "dupla-pálpebra", "asiática", "sutura", "incisional", "epicantoplastia"]
+  },
+  {
+    "id": "blef-tec-009",
+    "type": "technique",
+    "title": "Correção de Ptose — Avanço/Plicatura da Aponeurose do LPS",
+    "aliases": ["levator advancement", "avanço do levantador", "plicatura do levantador", "ptoseplastia anterior"],
+    "topic": "blefaroplastia",
+    "area": "estetica-facial",
+    "indication": "Ptose leve a moderada (MRD1 1–3 mm) com boa função do LPS (≥ 12 mm). Causa mais comum: ptose involutiva/aponeurótica por deiscência ou alongamento da aponeurose.",
+    "contraindication": "Função LPS pobre (< 5 mm) — indicar suspensão frontal. Ptose miogênica com LPS < 5 mm.",
+    "steps": [
+      "1. Incisão na prega palpebral (pode ser combinada com blefaroplastia superior).",
+      "2. Excisão de pele e orbicular se necessário.",
+      "3. Identificação da aponeurose do LPS profundamente ao septo.",
+      "4. Plicatura: dobrar a aponeurose sobre si mesma e suturar com ponto em U ao tarso. OU Avanço: desinserir a aponeurose do tarso, avançar inferiormente e reinserir.",
+      "5. Ajuste intraoperatório com paciente sentado (se anestesia local): verificar posição da margem (MRD1 alvo) e contorno.",
+      "6. Fechamento."
+    ],
+    "complications": ["Sobrecorreção (lagoftalmo)", "Subcorreção", "Assimetria", "Ptose contralateral desmascarada (Lei de Hering)"],
+    "pearls": [
+      "SEMPRE testar a Lei de Hering: ocluir olho ptótico por 2 min e observar contralateral. Se cai > 1 mm → planejar correção bilateral.",
+      "Ajuste intraoperatório com paciente sentado é a chave para resultado simétrico.",
+      "A aponeurose deiscente é branca, fina e translúcida; a aponeurose saudável é branca e brilhante."
+    ],
+    "images": ["blef-13-29-incisao-levantador-plicatura.png"],
+    "citations": ["Neligan, 2023, vol. 2, cap. 8", "Grabb & Smith, 2024, cap. 35"],
+    "updates": [
+      {
+        "color": "blue",
+        "title": "Correção estética de ptose leve — balanceando a lei de Hering",
+        "content": [
+          "Li X et al. (2025): análise de 68 pacientes com ptose leve unilateral. Estratégia de correção graduada com avaliação pré-operatória da lei de Hering reduz a incidência de ptose contralateral desmascarada de 22% para 7%.",
+          "Protocolo: ocluir o olho ptótico por 2 min, medir MRD1 contralateral. Se queda > 1 mm → planejar correção bilateral escalonada."
+        ],
+        "citation": "Li X et al. Plast Reconstr Surg 2026;157(1):38e–48e. DOI: 10.1097/PRS.0000000000012230",
+        "paradigm_shift": false
+      }
+    ],
+    "tags": ["técnica", "ptose", "avanço", "plicatura", "levantador", "aponeurose", "Hering"]
+  },
+  {
+    "id": "blef-tec-010",
+    "type": "technique",
+    "title": "Correção de Ptose — Müllerectomy (Fasanella-Servat)",
+    "aliases": ["Müllerectomy", "Fasanella-Servat", "ressecção conjuntivo-mülleriana", "posterior approach ptosis"],
+    "topic": "blefaroplastia",
+    "area": "estetica-facial",
+    "indication": "Ptose leve (MRD1 2–3 mm) com boa função do LPS (≥ 12 mm) e teste da fenilefrina 2,5% POSITIVO (elevação ≥ 1,5 mm confirma tônus simpático residual).",
+    "contraindication": "Teste da fenilefrina negativo; ptose moderada a grave; função LPS < 12 mm.",
+    "steps": [
+      "1. Abordagem posterior (via conjuntival).",
+      "2. Eversão da pálpebra superior.",
+      "3. Identificação e marcação do músculo de Müller e conjuntiva.",
+      "4. Colocação de clamp (Putterman ou similar) no tecido a ser ressecado.",
+      "5. Excisão do bloco conjuntiva + Müller (± borda superior do tarso na técnica de Fasanella-Servat).",
+      "6. Sutura contínua absorvível para fechar conjuntiva.",
+      "7. Verificar posição da margem palpebral."
+    ],
+    "complications": ["Corneal abrasion pela sutura", "Sobrecorreção", "Subcorreção", "Olho seco"],
+    "pearls": [
+      "O teste da fenilefrina é o seletor: elevação ≥ 1,5 mm indica candidato ideal.",
+      "Técnica mais previsível para ptose leve simétrica.",
+      "Fasanella-Servat inclui uma faixa de tarso superior além do Müller — mais agressivo."
+    ],
+    "images": [],
+    "citations": ["Neligan, 2023, vol. 2, cap. 8", "Grabb & Smith, 2024, cap. 35"],
+    "updates": [],
+    "tags": ["técnica", "ptose", "Müllerectomy", "Fasanella-Servat", "conjuntival", "fenilefrina"]
+  },
+  {
+    "id": "blef-tec-011",
+    "type": "technique",
+    "title": "Correção de Ptose — Suspensão Frontal (Frontalis Sling)",
+    "aliases": ["frontalis sling", "suspensão frontal", "sling de fáscia lata"],
+    "topic": "blefaroplastia",
+    "area": "estetica-facial",
+    "indication": "Ptose grave (MRD1 < 0 mm) com função LPS pobre (< 5 mm). Ptose congênita com LPS < 5 mm.",
+    "contraindication": "Função LPS boa (≥ 12 mm) — preferir avanço de aponeurose. Paralisia do frontal (sling ineficaz sem músculo motor).",
+    "steps": [
+      "1. Coleta de fáscia lata autóloga (coxa) ou uso de material sintético (silicone, Gore-Tex, polipropileno).",
+      "2. Incisões de acesso: 3 pontos na pálpebra superior + 2 pontos na sobrancelha.",
+      "3. Passagem do material em configuração pentagonal ou triangular dupla (Crawford ou Fox).",
+      "4. Fixação ao tarso inferiormente e ao frontal superiormente.",
+      "5. Ajuste de tensão: a elevação da pálpebra depende da contração do frontal.",
+      "6. Fechamento das incisões."
+    ],
+    "complications": ["Lagoftalmo (esperado — necessita lubrificação noturna)", "Extrusão do material", "Assimetria", "Infecção do material"],
+    "pearls": [
+      "Fáscia lata autóloga é o padrão-ouro em crianças (integra-se melhor, menor risco de extrusão).",
+      "Material sintético aceitável em adultos quando se deseja evitar morbidade da doadora.",
+      "Lagoftalmo noturno é esperado e deve ser manejado com lubrificante."
+    ],
+    "images": [],
+    "citations": ["Neligan, 2023, vol. 2, cap. 8", "Grabb & Smith, 2024, cap. 35"],
+    "updates": [],
+    "tags": ["técnica", "ptose", "suspensão-frontal", "fáscia-lata", "frontalis", "congênita"]
+  },
+  {
+    "id": "blef-tec-012",
+    "type": "technique",
+    "title": "Cantotomia + Cantólise Lateral de Emergência",
+    "aliases": ["lateral canthotomy", "cantólise", "descompressão orbitária", "emergência orbital"],
+    "topic": "blefaroplastia",
+    "area": "estetica-facial",
+    "indication": "Hematoma retrobulbar com proptose progressiva, dor retro-orbitária, perda visual, midríase fixa. EMERGÊNCIA — não esperar exames de imagem. Isquemia retiniana irreversível em 60–100 minutos.",
+    "contraindication": "Nenhuma contraindicação absoluta em situação de emergência com risco de perda visual.",
+    "steps": [
+      "1. Infiltrar com lidocaína + epinefrina no canto lateral.",
+      "2. Crush: pinçar o canto lateral por 1–2 min com pinça hemostática (reduz sangramento).",
+      "3. Cantotomia: incisão horizontal do canto lateral até o rebordo orbitário lateral (~1 cm).",
+      "4. Cantólise inferior: identificar o ramo inferior do tendão cantal lateral (banda tensa sentida com tesoura) → seccionar por completo.",
+      "5. Confirmar descompressão: redução da proptose, melhora da pupila.",
+      "6. Se insuficiente: seccionar também o ramo superior (cantólise superior).",
+      "7. Medidas adjuvantes: Manitol 20% IV 1–2 g/kg; Acetazolamida 500 mg IV; Timolol 0,5% tópico; Dexametasona 8 mg IV.",
+      "8. Encaminhar URGENTE para oftalmologia."
+    ],
+    "complications": ["Deformidade do canto lateral (reparável)", "Ectrópio temporal"],
+    "pearls": [
+      "Este procedimento deve ser dominado por todo cirurgião plástico que realiza blefaroplastia.",
+      "Pode ser realizado à beira do leito com anestesia local — não atrasar.",
+      "A cantólise permite expansão do conteúdo orbitário para fora do cone muscular, aliviando a pressão.",
+      "Hematoma retrobulbar: remover suturas IMEDIATAMENTE primeiro, antes de qualquer outro passo."
+    ],
+    "images": ["cantotomia-lateral-emergencia.png"],
+    "citations": ["Neligan, 2023, vol. 2, cap. 8", "Core Procedures, 2020, cap. 3"],
+    "updates": [],
+    "tags": ["técnica", "emergência", "cantotomia", "cantólise", "hematoma-retrobulbar", "descompressão"]
+  }
+]
