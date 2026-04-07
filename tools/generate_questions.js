@@ -40,6 +40,8 @@ function buildPrompt(card, domain) {
     ...(card.complications ? { complications: card.complications.slice(0, 5) } : {}),
     ...(card.pearls ? { pearls: card.pearls } : {}),
     ...(card.trigger ? { trigger: card.trigger } : {}),
+    ...(card.content ? { content: card.content.slice(0, 5) } : {}),
+    ...(card.section ? { section: card.section } : {}),
   };
 
   return `Você é um professor de cirurgia plástica gerando questões de avaliação para residentes.
@@ -167,6 +169,10 @@ async function main() {
             const wait = 15 * retries;
             process.stdout.write(`[rate-limit, aguardando ${wait}s] `);
             await sleep(wait * 1000);
+          } else if (e instanceof SyntaxError) {
+            console.log(`ERRO [JSON inválido]: ${e.message}`);
+            errorCount++;
+            break;
           } else {
             console.log(`ERRO: ${e.message}`);
             errorCount++;
