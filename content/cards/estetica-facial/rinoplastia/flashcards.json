@@ -1,0 +1,411 @@
+{
+  "id": "rino-fc-001",
+  "type": "flashcard",
+  "topic": "rinoplastia",
+  "area": "estetica-facial",
+  "cards": [
+    {
+      "front": "Ângulo nasolabial ♀",
+      "back": "95–100°",
+      "citation": "Neligan, 2023, vol. 2, cap. 18",
+      "domain": "análise"
+    },
+    {
+      "front": "Ângulo nasolabial ♂",
+      "back": "90–95°",
+      "citation": "Neligan, 2023, vol. 2, cap. 18",
+      "domain": "análise"
+    },
+    {
+      "front": "Ângulo nasofrontal",
+      "back": "115–135° (formado pelo glabela–radix–ponta)",
+      "citation": "Neligan, 2023, vol. 2, cap. 18",
+      "domain": "análise"
+    },
+    {
+      "front": "Ângulo columelar-lobular ♀",
+      "back": "30–45°",
+      "citation": "Neligan, 2023, vol. 2, cap. 18",
+      "domain": "análise"
+    },
+    {
+      "front": "Projeção da ponta (Goode)",
+      "back": "0,55–0,60 × comprimento nasal",
+      "citation": "Neligan, 2023, vol. 2, cap. 18",
+      "domain": "análise"
+    },
+    {
+      "front": "Projeção da ponta (Crumley)",
+      "back": "0,67 × comprimento nasal (radix–ponta)",
+      "citation": "Neligan, 2023, vol. 2, cap. 18",
+      "domain": "análise"
+    },
+    {
+      "front": "Projeção lateral (Simons)",
+      "back": "50–60% anterior à linha vertical do lábio",
+      "citation": "Neligan, 2023, vol. 2, cap. 18",
+      "domain": "análise"
+    },
+    {
+      "front": "Largura basal ideal",
+      "back": "≈ distância intercantal = 1 largura de olho",
+      "citation": "Neligan, 2023, vol. 2, cap. 18",
+      "domain": "análise"
+    },
+    {
+      "front": "Profundidade do radix",
+      "back": "~15 mm (nasion–canto medial)",
+      "citation": "Neligan, 2023, vol. 2, cap. 18",
+      "domain": "análise"
+    },
+    {
+      "front": "Supratip break ♀",
+      "back": "2–3 mm atrás da linha radix–ponta",
+      "citation": "Neligan, 2023, vol. 2, cap. 18",
+      "domain": "análise"
+    },
+    {
+      "front": "Show columelar lateral",
+      "back": "1–2 mm abaixo do eixo longo da narina",
+      "citation": "Neligan, 2023, vol. 2, cap. 18",
+      "domain": "análise"
+    },
+    {
+      "front": "Lóbulo infraponta (vista basal)",
+      "back": "1/3 da distância base alar–ponta",
+      "citation": "Neligan, 2023, vol. 2, cap. 18",
+      "domain": "análise"
+    },
+    {
+      "front": "Flare alar normal (vista basal)",
+      "back": "2 mm",
+      "citation": "Neligan, 2023, vol. 2, cap. 18",
+      "domain": "análise"
+    },
+    {
+      "front": "Ângulo da valva nasal interna",
+      "back": "10–15° (septo–CLS)",
+      "citation": "Neligan, 2023, vol. 2, cap. 18",
+      "domain": "anatomia"
+    },
+    {
+      "front": "Largura do L-strut mínimo",
+      "back": "≥ 10 mm (ideal ≥ 15 mm em cartilagem fraca)",
+      "citation": "Neligan, 2023, vol. 2, cap. 18",
+      "domain": "técnica"
+    },
+    {
+      "front": "Overlap keystone (osso nasal sobre CLS)",
+      "back": "4–5 mm",
+      "citation": "Neligan, 2023, vol. 2, cap. 18",
+      "domain": "anatomia"
+    },
+    {
+      "front": "Corneto inferior — contribuição para resistência aérea",
+      "back": "Até 2/3 da resistência total",
+      "citation": "Neligan, 2023, vol. 2, cap. 18",
+      "domain": "fisiologia"
+    },
+    {
+      "front": "Valva interna — contribuição para resistência aérea",
+      "back": "~50% da resistência total das vias aéreas",
+      "citation": "Neligan, 2023, vol. 2, cap. 18",
+      "domain": "fisiologia"
+    },
+    {
+      "front": "Alar rim strip mínimo (cephalic trim)",
+      "back": "5–6 mm",
+      "citation": "Neligan, 2023, vol. 2, cap. 19",
+      "domain": "técnica"
+    },
+    {
+      "front": "Columellar strut — dimensões",
+      "back": "3 × 25 mm",
+      "citation": "Neligan, 2023, vol. 2, cap. 19",
+      "domain": "técnica"
+    },
+    {
+      "front": "Spreader graft — dimensões típicas",
+      "back": "5–6 mm altura × 30–32 mm comprimento",
+      "citation": "Neligan, 2023, vol. 2, cap. 19",
+      "domain": "técnica"
+    },
+    {
+      "front": "Mini-spreader graft",
+      "back": "~8 × 2 × 2 mm (colocado endonasalmente)",
+      "citation": "Grabb & Smith, 2024, cap. 54",
+      "domain": "técnica"
+    },
+    {
+      "front": "Shield graft — dimensões",
+      "back": "8 mm largura × 10–12 mm comprimento",
+      "citation": "Neligan, 2023, vol. 2, cap. 19",
+      "domain": "técnica"
+    },
+    {
+      "front": "Septal extension graft — dimensões ideais",
+      "back": "20 × 10 mm",
+      "citation": "Neligan, 2023, vol. 2, cap. 19",
+      "domain": "técnica"
+    },
+    {
+      "front": "Alar contour graft — dimensões",
+      "back": "4 × 10 mm",
+      "citation": "Neligan, 2023, vol. 2, cap. 19",
+      "domain": "técnica"
+    },
+    {
+      "front": "Lateral crural strut graft — dimensões",
+      "back": "4 × 25 mm",
+      "citation": "Neligan, 2023, vol. 2, cap. 19",
+      "domain": "técnica"
+    },
+    {
+      "front": "Lateral crural mattress suture — largura",
+      "back": "6–8 mm (não penetrar revestimento vestibular)",
+      "citation": "Neligan, 2023, vol. 2, cap. 19",
+      "domain": "técnica"
+    },
+    {
+      "front": "Fáscia temporal — área de coleta bruta",
+      "back": "~8 × 6 cm → contrai para ~5 × 4 cm",
+      "citation": "Neligan, 2023, vol. 2, cap. 19",
+      "domain": "técnica"
+    },
+    {
+      "front": "9ª costela — comprimento de cartilagem obtido",
+      "back": "4–5 cm",
+      "citation": "Neligan, 2023, vol. 2, cap. 19",
+      "domain": "técnica"
+    },
+    {
+      "front": "Tempo para resolução de edema externo",
+      "back": "3–4 semanas (grosseiro); 12 meses (sutil)",
+      "citation": "Neligan, 2023, vol. 2, cap. 19",
+      "domain": "pós-operatório"
+    },
+    {
+      "front": "Tempo mínimo antes de revisão",
+      "back": "12 meses",
+      "citation": "Neligan, 2023, vol. 2, cap. 22",
+      "domain": "pós-operatório"
+    },
+    {
+      "front": "Triancinolona para supratip — dose",
+      "back": "3–5 mg (10 mg/mL) + lidocaína 2% 1:1, agulha 27G",
+      "citation": "Neligan, 2023, vol. 2, cap. 19",
+      "domain": "pós-operatório"
+    },
+    {
+      "front": "Taxa de complicações significativas em rinoplastia",
+      "back": "1,7–18%",
+      "citation": "Neligan, 2023, vol. 2, cap. 22",
+      "domain": "complicações"
+    },
+    {
+      "front": "Osteotomia — não ultrapassar superiormente",
+      "back": "Nível do canto medial (risco de rocker deformity)",
+      "citation": "Neligan, 2023, vol. 2, cap. 19",
+      "domain": "técnica"
+    },
+    {
+      "front": "Costal cartilage — tempo para warping inicial",
+      "back": "≥ 30 minutos antes de talhar",
+      "citation": "Neligan, 2023, vol. 2, cap. 19",
+      "domain": "técnica"
+    },
+    {
+      "front": "Profilaxia antibiótica na rinoplastia",
+      "back": "Dose única IV pré-op (cefalosporina); sem ATB pós-op",
+      "citation": "Neligan, 2023, vol. 2, cap. 19",
+      "domain": "pós-operatório"
+    },
+    {
+      "front": "Lei de Poiseuille aplicada ao nariz",
+      "back": "Fluxo ∝ ΔP × r⁴ / comprimento — mudanças mínimas no calibre da valva causam efeitos exponenciais",
+      "citation": "Neligan, 2023, vol. 2, cap. 21",
+      "domain": "fisiologia"
+    },
+    {
+      "front": "Número de Reynolds — limites para fluxo nasal",
+      "back": "Re < 2300 → laminar; 2300–4000 → transição; > 4000 → turbulento",
+      "citation": "Neligan, 2023, vol. 2, cap. 21",
+      "domain": "fisiologia"
+    },
+    {
+      "front": "Ciclo nasal (de Minz) — duração",
+      "back": "30 min a 5 h — tumefação/contração alternada, resistência total constante",
+      "citation": "Neligan, 2023, vol. 2, cap. 18",
+      "domain": "fisiologia"
+    },
+    {
+      "front": "Paralisia facial — efeito na valva nasal externa",
+      "back": "Até 20% de aumento na resistência por perda do levator alae",
+      "citation": "Neligan, 2023, vol. 2, cap. 21",
+      "domain": "fisiologia"
+    },
+    {
+      "front": "Área de Kiesselbach",
+      "back": "Zona de vascularidade densa no septo anterior — local mais comum de epistaxe",
+      "citation": "Neligan, 2023, vol. 2, cap. 18",
+      "domain": "anatomia"
+    },
+    {
+      "front": "Nervo infraorbital — distância do rebordo orbitário",
+      "back": "~10–12 mm abaixo do rebordo orbitário",
+      "citation": "Neligan, 2023, vol. 2, cap. 18",
+      "domain": "anatomia"
+    },
+    {
+      "front": "Nervo nasal externo — distância da linha média",
+      "back": "~6–10 mm da linha média no dorso nasal",
+      "citation": "Neligan, 2023, vol. 2, cap. 18",
+      "domain": "anatomia"
+    },
+    {
+      "front": "Conceito de trípode da ponta nasal",
+      "back": "2 pilares (cruras laterais) + 1 pilar (cruras mediais unidas) = projeção e rotação",
+      "citation": "Grabb & Smith, 2024, cap. 55",
+      "domain": "anatomia"
+    },
+    {
+      "front": "Infiltração ideal para anestesia completa do nariz",
+      "back": "Base alar (V2) + dorso sobre forame do nasal externo (V1)",
+      "citation": "Neligan, 2023, vol. 2, cap. 18",
+      "domain": "técnica"
+    },
+    {
+      "front": "Hierarquia de enxertos (Rhinoplasty Society)",
+      "back": "Septo > costela autóloga > costela homóloga fresca > concha > costela irradiada > aloplástico",
+      "citation": "Rohrich RN et al. PRS 2026;157(1):54–61",
+      "domain": "técnica"
+    },
+    {
+      "front": "FFHCC (costela homóloga fresca) — taxa de infecção",
+      "back": "2,4% (3/123 pacientes)",
+      "citation": "Taylor CM, Barrera JE. PRS 2026;157(1):28e–37e",
+      "domain": "técnica"
+    },
+    {
+      "front": "FFHCC — taxa de reabsorção",
+      "back": "0,8% (1/123 pacientes)",
+      "citation": "Taylor CM, Barrera JE. PRS 2026;157(1):28e–37e",
+      "domain": "técnica"
+    },
+    {
+      "front": "Recorrência de giba na preservação dorsal: bisturi vs. eletrocautério",
+      "back": "Bisturi 13,6% vs. eletrocautério 2,5% (P significativo)",
+      "citation": "Şibar S et al. ASJ 2025;46(1):16–23",
+      "domain": "técnica"
+    },
+    {
+      "front": "Implante de silicone nasal — taxa de malposicionamento (1019 pacientes)",
+      "back": "4% (37/1019)",
+      "citation": "Kwan E et al. ASJ 2025;45(9):887–892",
+      "domain": "complicações"
+    },
+    {
+      "front": "Implante de silicone nasal — taxa de extrusão",
+      "back": "< 1% (9/1019)",
+      "citation": "Kwan E et al. ASJ 2025;45(9):887–892",
+      "domain": "complicações"
+    },
+    {
+      "front": "SYLVIA — paciente ideal para rinoplastia",
+      "back": "Secure, Young, Listens, Verbal, Intelligent, Attractive",
+      "citation": "Neligan, 2023, vol. 2, cap. 19",
+      "domain": "análise"
+    },
+    {
+      "front": "SIMON — paciente inadequado para rinoplastia",
+      "back": "Single, Immature, Male, Overly expectant, Narcissistic",
+      "citation": "Neligan, 2023, vol. 2, cap. 19",
+      "domain": "análise"
+    },
+    {
+      "front": "Classificação de desvio nasal de Rohrich — quantas classes?",
+      "back": "3 classes: I (desvio caudal), II (deformidade côncava), III (côncava/convexa S-shaped)",
+      "citation": "Neligan, 2023, vol. 2, cap. 19",
+      "domain": "técnica"
+    },
+    {
+      "front": "Classificação alar-columelar de Rohrich — quantas classes?",
+      "back": "6 classes: I (columela pendente), II (retração alar), III (I+II), IV (ala pendente), V (retração columelar), VI (IV+V)",
+      "citation": "Neligan, 2023, vol. 2, cap. 19",
+      "domain": "técnica"
+    },
+    {
+      "front": "Depressor septi nasi — tipos de inserção",
+      "back": "Tipo I: footplates mediocrurais; Tipo II: periósteo maxilar; Tipo III: rudimentar/ausente",
+      "citation": "Neligan, 2023, vol. 2, cap. 19",
+      "domain": "anatomia"
+    },
+    {
+      "front": "Turbinoplastia de primeira escolha",
+      "back": "Ressecção submucosa conservadora + outfracture (Passàli et al., 382 pacientes, 6 anos)",
+      "citation": "Grabb & Smith, 2024, cap. 54",
+      "domain": "técnica"
+    },
+    {
+      "front": "Septal extension graft — ângulo para manter rotação",
+      "back": "90° ao dorso nasal",
+      "citation": "Neligan, 2023, vol. 2, cap. 19",
+      "domain": "técnica"
+    },
+    {
+      "front": "Septal extension graft — ângulo para alongar/desrotar",
+      "back": "45° inferior ao dorso nasal",
+      "citation": "Neligan, 2023, vol. 2, cap. 19",
+      "domain": "técnica"
+    },
+    {
+      "front": "Sete funções do nariz",
+      "back": "Respiração, regulação térmica, umidificação, filtração, olfação, fonação, órgão sexual secundário",
+      "citation": "Neligan, 2023, vol. 2, cap. 21",
+      "domain": "fisiologia"
+    },
+    {
+      "front": "Resistência nasal em relação à árvore respiratória total",
+      "back": "~50% da resistência total",
+      "citation": "Neligan, 2023, vol. 2, cap. 21",
+      "domain": "fisiologia"
+    },
+    {
+      "front": "Manobra de Cottle — o que avalia?",
+      "back": "Incompetência da valva nasal interna (tração lateral da bochecha abre a valva)",
+      "citation": "Neligan, 2023, vol. 2, cap. 21",
+      "domain": "análise"
+    },
+    {
+      "front": "Dexametasona intraoperatória na rinoplastia — dose",
+      "back": "8 mg IV (± Medrol Dosepak 6 dias)",
+      "citation": "Neligan, 2023, vol. 2, cap. 19",
+      "domain": "pós-operatório"
+    },
+    {
+      "front": "TXA tópico na rinoplastia — efeito no sangramento",
+      "back": "Redução significativa (SMD −1,20; P = 0,04) + menor edema e equimose",
+      "citation": "Di Martino L et al. ASJ 2025;45(12):1220–1226",
+      "domain": "técnica"
+    },
+    {
+      "front": "Columellar strut floating vs. fixed — diferença",
+      "back": "Floating (2–3 mm anterior à espinha) = mantém projeção. Fixed (sobre a maxila) = aumenta projeção",
+      "citation": "Neligan, 2023, vol. 2, cap. 19",
+      "domain": "técnica"
+    },
+    {
+      "front": "Shield graft — posição em relação aos tip-defining points",
+      "back": "Estende-se 2–3 mm além dos tip-defining points",
+      "citation": "Neligan, 2023, vol. 2, cap. 19",
+      "domain": "técnica"
+    },
+    {
+      "front": "Rinoplastia definitiva em fissura — timing",
+      "back": "> 14–16 anos ♀, > 18 anos ♂ (maturidade esquelética), APÓS Le Fort I se planejado",
+      "citation": "Grabb & Smith, 2024, cap. 22",
+      "domain": "técnica"
+    }
+  ],
+  "tags": ["flashcards", "rinoplastia", "parâmetros", "ângulos", "dimensões", "enxertos"]
+}
