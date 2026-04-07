@@ -38,7 +38,8 @@ const App = (() => {
       try {
         const questions = await TestEngine.loadQuestions(area, topic);
         _testQuestions[topic] = { area, questions };
-      } catch (_) {
+      } catch (e) {
+        console.warn(`Failed to load test questions for ${topic}:`, e.message);
         _testQuestions[topic] = { area, questions: [] };
       }
     }
@@ -215,7 +216,7 @@ const App = (() => {
   }
 
   function _rateAnswer(correct) {
-    const next = TestEngine.rate(correct);
+    const next = TestEngine.rate(correct); // returns next question or null when done
     if (TestEngine.isDone()) {
       _showTestResults();
     } else {
