@@ -1,0 +1,249 @@
+[
+  {
+    "id": "blef-nota-001",
+    "type": "note",
+    "title": "Introdução e Epidemiologia da Blefaroplastia",
+    "topic": "blefaroplastia",
+    "area": "estetica-facial",
+    "section": "Introdução",
+    "content": [
+      "A blefaroplastia é a cirurgia de correção do excesso de pele, músculo e/ou gordura das pálpebras superiores e inferiores.",
+      "É um dos procedimentos estéticos faciais mais frequentemente realizados mundialmente e apresenta uma das mais altas taxas de satisfação quando corretamente indicada.",
+      "A indicação pode ser puramente estética (rejuvenescimento periocular), funcional (dermatocálase obstrutiva com restrição do campo visual superior) ou combinada.",
+      "A blefaroplastia superior é o quarto procedimento estético mais frequente nos EUA.",
+      "A blefaroplastia inferior vem ganhando importância com o desenvolvimento de técnicas menos invasivas.",
+      "O entendimento anatômico detalhado da região periocular e a avaliação pré-operatória minuciosa são pré-requisitos indispensáveis para evitar complicações potencialmente devastadoras como a cegueira por hematoma retrobulbar, o ectrópio e o lagoftalmo.",
+      "A região periocular é a área anatômica mais complexa da face. A blefaroplastia segura exige conhecimento tridimensional das camadas, estruturas de suporte e relações neurovasculares.",
+      "A pálpebra é dividida em lamela anterior (pele e músculo orbicular) e lamela posterior (tarso e conjuntiva), com o septo orbital como limite entre os compartimentos pré-septal e orbitário."
+    ],
+    "images": ["diagrama-camadas-palpebrais.png"],
+    "citations": ["Neligan, 2023, vol. 2, caps. 8–9", "Grabb & Smith, 2024, cap. 35"],
+    "updates": [],
+    "tags": ["introdução", "epidemiologia", "conceito", "lamelas"]
+  },
+  {
+    "id": "blef-nota-002",
+    "type": "note",
+    "title": "Fisiopatologia do Envelhecimento Periorbital",
+    "topic": "blefaroplastia",
+    "area": "estetica-facial",
+    "section": "Fisiopatologia",
+    "content": [
+      "O envelhecimento periorbital é multifatorial e envolve mudanças em todas as camadas anatômicas.",
+      "Pele: perda de elasticidade, afinamento, formação de rugas dinâmicas e estáticas (crow's feet).",
+      "Músculo orbicular: hipertrofia em alguns pacientes (squinch), atrofia em outros.",
+      "Septo orbital: laxidez progressiva → permite herniação anterior da gordura orbitária (bolsas).",
+      "Gordura orbitária: herniação pela laxidez do septo (bolsas superiores e inferiores), mas simultaneamente perda de volume global (hollowing superior).",
+      "Aponeurose do LPS: deiscência ou alongamento → ptose involutiva/aponeurótica.",
+      "Tear trough e sulco palpebro-malar: aprofundamento por herniação da gordura orbitária acima do sulco, perda de volume malar abaixo e laxidez do septo.",
+      "Deflação da bochecha: laxidade do septo orbital, descenso do orbicular, ptose da junção pálpebra–bochecha e aprofundamento do sulco nasogeniano.",
+      "Ligamento cantal lateral: alongamento → descenso e declínio angular de 10 a 15 graus, com exposição escleral e proeminência de gordura orbital lateral.",
+      "Conceito de lamelas: envelhecimento diferencial da lamela anterior (pele/músculo) e posterior (tarso/conjuntiva), que explica a necessidade de abordagens distintas para cada componente."
+    ],
+    "images": ["blef-13-19-deflacao-bochecha-envelhecimento.png", "blef-13-35-canto-lateral-envelhecimento.png"],
+    "citations": ["Neligan, 2023, vol. 2, caps. 8–9", "Grabb & Smith, 2024, cap. 35"],
+    "updates": [],
+    "tags": ["envelhecimento", "fisiopatologia", "bolsas", "deflação", "laxidez"]
+  },
+  {
+    "id": "blef-nota-003",
+    "type": "note",
+    "title": "Avaliação Pré-operatória Sistemática",
+    "topic": "blefaroplastia",
+    "area": "estetica-facial",
+    "section": "Avaliação Pré-operatória",
+    "content": [
+      "A avaliação pré-operatória é a etapa mais importante da blefaroplastia. Determina a indicação, previne complicações e orienta a escolha técnica.",
+      "Deve ser sistemática, incluindo exame oftalmológico básico, fotografias padronizadas e discussão de expectativas.",
+      "Consulta com oftalmologista recomendada para: glaucoma, olho seco, cirurgia ocular prévia (LASIK, catarata) ou queixas visuais.",
+      "PARÂMETROS DO EXAME:",
+      "MRD1 (margin-reflex distance 1): normal 4–5 mm; < 2 mm = ptose.",
+      "MRD2 (margin-reflex distance 2): normal 5 mm; retração se < 5 mm.",
+      "Fissura palpebral: largura 28–32 mm; altura 10–12 mm (< 8 mm sugere ptose).",
+      "Prega palpebral: ♀ 8–10 mm; ♂ 7–8 mm acima da margem.",
+      "Distância sobrancelha-margem: ≥ 25 mm (< 25 mm sugere ptose de sobrancelha).",
+      "Teste de Schirmer: ≥ 10 mm/5 min (< 5 mm = olho seco grave).",
+      "Snap-back test: retorno imediato é normal; lento (> 1 s) = laxidez horizontal → cantopexia.",
+      "Distraction test: < 6 mm é normal; ≥ 6 mm = laxidez significativa → cantoplastia.",
+      "Exoftalmometria: < 20 mm normal; > 20 mm = proptose → investigar.",
+      "Bell phenomenon: presente (uprolling) é normal; ausente = risco grave de exposição corneal.",
+      "Teste da fenilefrina 2,5%: elevação ≥ 1,5 mm sugere tônus simpático residual (candidato a Müllerectomy).",
+      "AVALIAÇÃO DE PTOSE: Classificação: leve (MRD1 2–3 mm), moderada (MRD1 0–1 mm), grave (MRD1 < 0 mm).",
+      "Função do LPS (excursão): ≥ 12 mm = boa (aponeurótica); 5–11 mm = moderada; < 5 mm = pobre (miogênica).",
+      "Lei de Hering: ocluir olho ptótico por 2 min e observar contralateral. Se cai → ptose contralateral latente.",
+      "VISTAS FOTOGRÁFICAS: face completa frontal, oblíqua e perfil em repouso e sorrindo; periorbital em olhar para cima e para baixo, com olhos fechados e sobrancelha elevada com dedo."
+    ],
+    "images": ["blef-13-17-palpebra-superior-ideal.png", "blef-13-20-avaliacao-periorbital.png", "blef-box13-1-principios-palpebra-jovem.png", "blef-box13-2-historia-exame-fisico.png", "blef-box13-3-vistas-fotograficas.png", "blef-box13-4-plano-periorbital.png", "fig13-20-avaliacao-paciente.jpeg", "fig13-20a-acuidade-visual.png", "algoritmo-diagnostico-palpebra-pesada.png"],
+    "citations": ["Neligan, 2023, vol. 2, caps. 8–9", "Grabb & Smith, 2024, cap. 35", "Core Procedures, 2020, cap. 3"],
+    "updates": [],
+    "tags": ["avaliação", "pré-operatória", "MRD1", "Schirmer", "snap-back", "distraction", "fotografia"]
+  },
+  {
+    "id": "blef-nota-004",
+    "type": "note",
+    "title": "Hematoma Retrobulbar — Emergência",
+    "topic": "blefaroplastia",
+    "area": "estetica-facial",
+    "section": "Complicações — Emergência",
+    "content": [
+      "O hematoma retrobulbar é a complicação mais temida da blefaroplastia (incidência 0,04–0,05%).",
+      "Geralmente ocorre nas primeiras 3–24 horas pós-operatórias, embora possa surgir intraoperatoriamente.",
+      "Causas: sangramento arterial (artérias etmoidais ou ramos orbitários) ou venoso (veia oftálmica) com pressão compartmental intra-orbitária → isquemia do nervo óptico e retina.",
+      "A pressão intra-orbitária crescente comprime a artéria central da retina — isquemia retiniana IRREVERSÍVEL em 60–100 minutos.",
+      "SINAIS: dor retro-orbitária progressiva e intensa, proptose, pupila dilatada fixa (midríase), perda visual, tensão palpebral.",
+      "CONDUTA IMEDIATA (não esperar exames de imagem):",
+      "1. Remover suturas IMEDIATAMENTE.",
+      "2. Drenar o hematoma.",
+      "3. Se pressão não alivia → CANTOTOMIA + CANTÓLISE LATERAL à beira do leito.",
+      "4. Manitol 20% IV 1–2 g/kg.",
+      "5. Acetazolamida 500 mg IV.",
+      "6. Timolol 0,5% tópico.",
+      "7. Dexametasona 8 mg IV.",
+      "8. Encaminhar URGENTE para oftalmologia.",
+      "A cantólise lateral (secção do ramo inferior do tendão cantal lateral) permite expansão do conteúdo orbitário para fora do cone muscular, aliviando a pressão."
+    ],
+    "images": ["cantotomia-lateral-emergencia.png"],
+    "citations": ["Neligan, 2023, vol. 2, cap. 8", "Core Procedures, 2020, cap. 3", "Grabb & Smith, 2024, cap. 35"],
+    "updates": [
+      {
+        "color": "green",
+        "title": "Protocolo de cantotomia + cantólise lateral de emergência",
+        "content": [
+          "1. Infiltrar com lidocaína + epinefrina no canto lateral.",
+          "2. Crush: pinçar o canto lateral por 1–2 min com hemostática (reduz sangramento).",
+          "3. Cantotomia: incisão horizontal do canto lateral até o rebordo orbitário lateral (~1 cm).",
+          "4. Cantólise: identificar o ramo inferior do tendão cantal lateral (sentir como banda tensa com tesoura) → seccionar por completo.",
+          "5. Confirmar descompressão: redução da proptose, melhora da pupila.",
+          "6. Se insuficiente: seccionar também o ramo superior (cantólise superior).",
+          "7. Encaminhar URGENTE para oftalmologia.",
+          "Este procedimento deve ser dominado por todo cirurgião plástico que realiza blefaroplastia."
+        ],
+        "citation": "Neligan, 2023, vol. 2, cap. 8",
+        "paradigm_shift": false
+      }
+    ],
+    "tags": ["emergência", "hematoma-retrobulbar", "cantotomia", "cantólise", "cegueira", "descompressão"]
+  },
+  {
+    "id": "blef-nota-005",
+    "type": "note",
+    "title": "Complicações da Blefaroplastia",
+    "topic": "blefaroplastia",
+    "area": "estetica-facial",
+    "section": "Complicações",
+    "content": [
+      "LAGOFTALMO: transitório (comum) ou permanente (raro). Causa: ressecção excessiva de pele superior; edema PO. Conduta leve: lubrificante + pomada noturna. Grave/permanente: enxerto de pele total (supraclavicular ou retroauricular).",
+      "ECTRÓPIO: 1–2% (via transcutânea). Causa: retração cicatricial da lamela anterior/média; laxidez não corrigida. Grau leve: massagem + steri-strip + colírio. Moderado/grave: cantoplastia lateral ± enxerto espaçador de lamela posterior (AlloDerm, hard palate, cartilagem auricular).",
+      "PTOSE IATROGÊNICA: 0,5–1%. Causa: lesão da aponeurose do LPS; edema do LPS. Se PO imediato com edema: observar 3–6 meses. Se persistir: ptoseplastia.",
+      "DIPLOPIA: raro (< 0,1%). Causa: lesão do m. oblíquo inferior entre compartimentos medial e central. Encaminhar oftalmologia. Exploração urgente se secção completa.",
+      "OLHO SECO: transitório 18%; permanente raro. Causa: lagoftalmo, perda de lubrificação, glândula lacrimal lesada. Colírio lubrificante; gel noturno; plug lacrimal; câmara úmida se grave.",
+      "HOLLOWING / ESQUELETIZAÇÃO: 5–10%. Causa: ressecção excessiva de gordura. Conduta: preenchimento com AH ou lipoenxertia. Conceito atual: preferir transpor, não ressecar.",
+      "QUEMOSE: 5–15%. Edema conjuntival PO. Colírio lubrificante; resolução em 1–4 semanas; dexametasona tópica se severa.",
+      "ASSIMETRIA: 5–10%. Ressecção assimétrica ou ptose não diagnosticada. Revisão ≥ 6 meses.",
+      "CICATRIZ HIPERTRÓFICA / WEB EPICANTAL: raro. Extensão medial excessiva da incisão. Z-plastia ou revisão cicatricial.",
+      "MILIA: 5–10%. Cistos de inclusão epidérmica na sutura. Remoção com agulha 18G; resolve espontaneamente.",
+      "INFECÇÃO: < 0,1%. Raro pois pálpebra tem excelente vascularização. ATB tópico + sistêmico se celulite."
+    ],
+    "images": [],
+    "citations": ["Neligan, 2023, vol. 2, caps. 8–9", "Grabb & Smith, 2024, cap. 35"],
+    "updates": [],
+    "tags": ["complicações", "ectrópio", "lagoftalmo", "ptose-iatrogênica", "diplopia", "olho-seco", "hollowing"]
+  },
+  {
+    "id": "blef-nota-006",
+    "type": "note",
+    "title": "Resurfacing Periocular",
+    "topic": "blefaroplastia",
+    "area": "estetica-facial",
+    "section": "Procedimentos Complementares",
+    "content": [
+      "O laser CO₂ ou Er:YAG pode ser aplicado na pele da pálpebra inferior como alternativa à excisão de pele.",
+      "Melhora rugas finas e textura sem risco de retração por excisão.",
+      "Frequentemente combinado com blefaroplastia transconjuntival (para gordura) + pinch excision (para excesso mínimo de pele) ou laser isolado.",
+      "CUIDADO: resurfacing da pálpebra inferior combinado com blefaroplastia transcutânea aumenta o risco de retração cicatricial."
+    ],
+    "images": [],
+    "citations": ["Neligan, 2023, vol. 2, cap. 9"],
+    "updates": [],
+    "tags": ["resurfacing", "laser", "CO2", "Er:YAG", "rugas", "complementar"]
+  },
+  {
+    "id": "blef-nota-007",
+    "type": "note",
+    "title": "Lipoenxertia Periocular",
+    "topic": "blefaroplastia",
+    "area": "estetica-facial",
+    "section": "Procedimentos Complementares",
+    "content": [
+      "Restaura volume no tear trough, sulco palpebro-malar e região temporal.",
+      "Técnica de microfat ou nanofat com cânula de 0,7–1,0 mm.",
+      "Injeção profunda (suborbicular/supraperiosteal) para evitar irregularidades na pele fina da pálpebra.",
+      "Volume conservador: 0,5–1,5 mL por lado no tear trough — risco de sobrecorreção em pele fina.",
+      "Pode ser associada a blefaroplastia inferior (transconjuntival com reposicionamento de gordura + lipoenxertia para volume residual deficiente)."
+    ],
+    "images": [],
+    "citations": ["Grabb & Smith, 2024, cap. 35"],
+    "updates": [],
+    "tags": ["lipoenxertia", "microfat", "nanofat", "tear-trough", "volume", "complementar"]
+  },
+  {
+    "id": "blef-nota-008",
+    "type": "note",
+    "title": "Resultados Funcionais e Estéticos",
+    "topic": "blefaroplastia",
+    "area": "estetica-facial",
+    "section": "Resultados",
+    "content": [
+      "A blefaroplastia superior para dermatocálase funcional demonstra melhora objetiva do campo visual superior em mais de 80% dos casos.",
+      "A satisfação estética excede 90% na maioria das séries publicadas.",
+      "O principal preditor de insatisfação é a presença de ptose não diagnosticada pré-operatoriamente e a persistência de ptose de sobrancelha não tratada.",
+      "A melhora funcional é mensurável por campimetria e sustentada em seguimento médio de 24 meses (Todorov et al., 2025).",
+      "Complicação mais frequente: olho seco transitório (18%)."
+    ],
+    "images": [],
+    "citations": ["Neligan, 2023, vol. 2, cap. 8", "Core Procedures, 2020, cap. 3", "Todorov D et al. Aesthet Surg J 2025;45(6):554–562"],
+    "updates": [],
+    "tags": ["resultados", "satisfação", "campo-visual", "campimetria", "funcional"]
+  },
+  {
+    "id": "blef-nota-009",
+    "type": "note",
+    "title": "Pós-operatório da Blefaroplastia",
+    "topic": "blefaroplastia",
+    "area": "estetica-facial",
+    "section": "Pós-operatório",
+    "content": [
+      "Compressas geladas intermitentes por 48 h (20 min on / 20 min off).",
+      "Elevação da cabeça a 30–45° para reduzir edema.",
+      "Lubrificante ocular (colírio e pomada) a cada 2–4 horas inicialmente.",
+      "Evitar atividades que aumentem pressão venosa (exercício, Valsalva, curvar-se) por 2 semanas.",
+      "Retirada de suturas cutâneas em 5–7 dias.",
+      "Edema grosseiro resolve em 2–4 semanas; resultado final em 3–6 meses.",
+      "Equimose esperada, dura 7–14 dias.",
+      "Fotoproteção rigorosa por 3–6 meses."
+    ],
+    "images": [],
+    "citations": ["Neligan, 2023, vol. 2, caps. 8–9", "Operative Dictations, 2017, caps. 8–10"],
+    "updates": [],
+    "tags": ["pós-operatório", "cuidados", "compressas", "suturas", "recuperação"]
+  },
+  {
+    "id": "blef-nota-010",
+    "type": "note",
+    "title": "Midfacelift via Blefaroplastia",
+    "topic": "blefaroplastia",
+    "area": "estetica-facial",
+    "section": "Procedimentos Complementares",
+    "content": [
+      "O midfacelift pode ser realizado via incisão de blefaroplastia para rejuvenescimento do terço médio da face.",
+      "Anatomia: SOOF (sub-orbicularis oculi fat), bolsa malar, ligamento orbitomalar e SMAS.",
+      "Técnica: desinserção subperiosteal do ligamento orbitomalar e suspensão do SOOF e tecidos do terço médio à fáscia temporal profunda.",
+      "Indicação: descenso do terço médio com aprofundamento do sulco nasogeniano e tear trough, associado a envelhecimento periorbital.",
+      "A cantopexia em duas camadas pode incluir opção de ancoramento para midfacelift simultâneo."
+    ],
+    "images": ["blef-13-40-midfacelift.png"],
+    "citations": ["Neligan, 2023, vol. 2, cap. 9"],
+    "updates": [],
+    "tags": ["midfacelift", "SOOF", "terço-médio", "complementar", "suspensão"]
+  }
+]

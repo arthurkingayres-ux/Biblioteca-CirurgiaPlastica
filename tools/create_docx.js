@@ -51,7 +51,7 @@ const COLORS = {
 
 const AUTHOR  = 'Dr. Arthur Balestra Silveira Ayres';
 const PROGRAM = 'Residência em Cirurgia Plástica – UNICAMP (R2, 2025–2028)';
-const CM_TO_EMU = 360000;
+const CM_TO_PX = 96 / 2.54;  // ~37.8 px/cm (docx lib expects pixels, converts to EMU internally)
 
 // ─── Helpers de renderização ─────────────────────────────────────────────────
 
@@ -211,8 +211,8 @@ function figure(imageName, widthCm, heightCm, caption, tema) {
       new ImageRun({
         data: imageBuffer,
         transformation: {
-          width: Math.round(widthCm * CM_TO_EMU),
-          height: Math.round(heightCm * CM_TO_EMU),
+          width: Math.round(widthCm * CM_TO_PX),
+          height: Math.round(heightCm * CM_TO_PX),
         },
       }),
     ],

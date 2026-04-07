@@ -12,28 +12,62 @@ Todos os arquivos devem ser lidos e salvos diretamente nessa pasta.
 
 ---
 
-## Framework WAT (Workflows · Agents · Tools)
+## Orquestração de Trabalho
 
-Esta arquitetura separa raciocínio (IA) de execução (código determinístico). Essa separação é o que torna o sistema confiável.
+### 1. Plan Mode por Padrão
+- Entrar em plan mode para QUALQUER tarefa não-trivial (3+ passos ou decisões de arquitetura)
+- Se algo sair dos trilhos, PARAR e re-planejar imediatamente
+- Usar plan mode para etapas de verificação, não só para construção
+- Escrever especificações detalhadas antes de começar, para reduzir ambiguidade
 
-### Camada 1 — Workflows (As Instruções)
-- SOPs em Markdown armazenados em `workflows/`
-- Cada workflow define: objetivo, inputs necessários, quais ferramentas usar, outputs esperados e como tratar edge cases
-- Redigidos em linguagem direta, como um briefing para um colega
+### 2. Estratégia de Subagentes
+- Usar subagentes liberalmente para manter a janela de contexto principal limpa
+- Delegar pesquisa, exploração e análises paralelas a subagentes
+- Para problemas complexos, jogar mais poder computacional via subagentes
+- Uma tarefa por subagente para execução focada
 
-### Camada 2 — Agente (O Tomador de Decisão)
-- Este é o seu papel: coordenação inteligente
-- Leia o workflow relevante, execute as ferramentas na sequência correta, trate falhas com elegância, faça perguntas de esclarecimento quando necessário
-- Conecte a intenção do Dr. Arthur à execução, sem tentar fazer tudo diretamente
-- Exemplo: para buscar artigos, leia `workflows/buscar_incorporar_artigos.md`, identifique os inputs e execute `tools/search_pubmed.py`
+### 3. Loop de Auto-Aperfeiçoamento
+- Após QUALQUER correção do Dr. Arthur: registrar o padrão no sistema de memória
+- Escrever regras para si mesmo que previnam o mesmo erro
+- Iterar implacavelmente nessas lições até a taxa de erros cair
+- Revisar lições relevantes ao iniciar cada sessão
 
-### Camada 3 — Tools (A Execução)
-- Scripts em `tools/` que fazem o trabalho real
-- Python: buscas no PubMed, gestão do índice, varredura semanal
-- Node.js: geração de documentos `.docx` formatados (`tools/create_docx.js`), geração de PWAs
-- Credenciais e chaves de API ficam em `.env` — **nunca em outro lugar**
+### 4. Verificação Antes de Concluir
+- Nunca marcar uma tarefa como concluída sem provar que funciona
+- Comparar comportamento antes/depois das mudanças quando relevante
+- Perguntar a si mesmo: "Um cirurgião sênior aprovaria isso?"
+- Rodar testes, checar logs, demonstrar corretude
 
-**Por que isso importa:** Se cada etapa tem 90% de acurácia, após cinco etapas o sucesso cai para 59%. Delegando a execução a scripts determinísticos, o agente fica focado em orquestração e decisão.
+### 5. Exigir Elegância (com Equilíbrio)
+- Para mudanças não-triviais: pausar e perguntar "existe uma forma mais elegante?"
+- Se uma solução parecer gambiarra: "Sabendo tudo que sei agora, implementar a solução elegante"
+- Pular isso para correções simples e óbvias — não sobre-engenheirar
+- Desafiar o próprio trabalho antes de apresentá-lo
+
+### 6. Correção Autônoma de Bugs
+- Quando receber um relato de bug: simplesmente corrija. Não peça passo a passo
+- Apontar para logs, erros, testes falhando — e então resolvê-los
+- Zero troca de contexto exigida do Dr. Arthur
+- Ir corrigir testes e scripts falhando sem precisar ser instruído como
+
+---
+
+## Gestão de Tarefas
+
+1. **Plano Primeiro**: Escrever plano com itens verificáveis antes de começar
+2. **Validar Plano**: Alinhar com o Dr. Arthur antes de iniciar implementação
+3. **Rastrear Progresso**: Marcar itens como concluídos à medida que avança
+4. **Explicar Mudanças**: Resumo de alto nível a cada etapa
+5. **Documentar Resultados**: Registrar o que foi feito e decisões tomadas
+6. **Capturar Lições**: Atualizar memória após correções do Dr. Arthur
+
+---
+
+## Princípios Fundamentais
+
+- **Simplicidade Primeiro**: Fazer cada mudança o mais simples possível. Impacto mínimo no código
+- **Sem Preguiça**: Encontrar causas raiz. Sem correções temporárias. Padrão de desenvolvedor sênior
+- **Impacto Mínimo**: Tocar apenas no que for necessário. Sem efeitos colaterais nem bugs novos
 
 ---
 
@@ -54,17 +88,14 @@ Workflows evoluem à medida que o sistema aprende. Quando encontrar métodos mel
 ### 4. Ordem de construção dos documentos
 Ao concluir todos os documentos de uma área temática, **sempre perguntar ao Dr. Arthur qual área construir em seguida**. Ele escolhe a ordem conforme relevância na residência, não a ordem numérica do índice.
 
----
-
-## Loop de Melhoria Contínua
-
-Toda falha é uma oportunidade de fortalecer o sistema:
-
-1. Identificar o que quebrou
-2. Corrigir a ferramenta
-3. Verificar que a correção funciona
-4. Atualizar o workflow com a nova abordagem
-5. Seguir em frente com um sistema mais robusto
+### 5. Use os plugins instalados
+Antes de implementar manualmente, verifique se um plugin resolve a tarefa. Os plugins estão documentados na seção **"Plugins e Extensões"** abaixo. Em particular:
+- **Context7** para consultar documentação de bibliotecas (em vez de adivinhar APIs)
+- **GitHub MCP** para operações no repositório remoto (issues, PRs, branches, code search)
+- **frontend-design / ui-ux-pro-max** para trabalho de UI/UX nas PWAs
+- **superpowers** para planejamento, debugging sistemático e verificação de tarefas complexas
+- **playwright** para testes de browser e validação visual das PWAs
+- **code-simplifier** para refinar código após implementação
 
 ---
 
@@ -120,7 +151,7 @@ Toda falha é uma oportunidade de fortalecer o sistema:
 │
 ├── tools/                          # Scripts Python e Node.js
 ├── workflows/                      # SOPs em Markdown
-├── .github/workflows/              # GitHub Actions (automação semanal)
+├── .github/workflows/              # GitHub Actions (inativo; varreduras são sob demanda)
 ├── .tmp/                           # Arquivos temporários (descartáveis; regeneráveis)
 ├── .env                            # Chaves de API e variáveis de ambiente
 ├── package.json                    # Dependências Node.js
@@ -281,26 +312,15 @@ Artigos dos periódicos-alvo indexados em `02-Artigos-Periodicos/indice-artigos.
 
 ## Pipeline de Varredura de Artigos
 
-### Varredura automática semanal
+### Estratégia: varredura zero + sob demanda
 
-A varredura é executada automaticamente via **GitHub Actions** em cron semanal:
+> **Varreduras automáticas semanais foram descontinuadas** por custo elevado de API (triagem IA para todas as áreas é inviável no momento).
 
-```
-GitHub Actions (semanal)
-  → search_pubmed.py (com abstracts + tipo de publicação)
-  → Filtra DOIs já indexados
-  → Anthropic API avalia abstracts (triagem inteligente)
-  → Commit varredura.json no repo (artigos selecionados)
-  → Email curto de notificação ao Dr. Arthur
-```
+A estratégia atual é:
 
-### Lógica de varredura
-
-- **Varredura zero** (primeira de cada área): busca últimos **10 anos**
-- **Varreduras subsequentes**: busca últimos **30 dias**
-- **Seleção de área:** sempre a área atualizada mais distante no tempo (rotação automática)
-- **Sem limite de artigos:** TODOS os artigos novos no intervalo são avaliados
-- **Estado de rotação:** rastreado em `varredura_state.json`
+1. **Varredura zero** (uma vez por área): busca últimos **10 anos** nos periódicos-alvo, criando um documento-base robusto (livros-texto + década de inovações)
+2. **Atualizações sob demanda**: quando o Dr. Arthur solicitar atualização de uma área específica, executar varredura pontual
+3. **Algumas áreas ficarão mais tempo sem atualização** — e está tudo bem. A prioridade segue o interesse clínico do Dr. Arthur na residência
 
 ### Critérios de triagem (hierarquia)
 
@@ -316,7 +336,7 @@ GitHub Actions (semanal)
 ### Fluxo completo de artigos
 
 ```
-1. Varredura semanal (automática)
+1. Varredura (sob demanda ou varredura zero)
    → PubMed → triagem IA → artigos selecionados
 
 2. Aprovação pelo Dr. Arthur (PWA no iPhone)
@@ -391,7 +411,7 @@ Interface principal de consumo diário da biblioteca:
 - Buscas de metadados no PubMed (sem download de PDF) **não requerem VPN**
 
 **Pipeline de acesso ao conteúdo:**
-1. Varredura automática descobre artigos via PubMed (metadados + abstracts)
+1. Varredura sob demanda descobre artigos via PubMed (metadados + abstracts)
 2. IA faz triagem e seleciona artigos relevantes
 3. Dr. Arthur aprova no PWA de aprovação
 4. Dr. Arthur liga VPN, baixa PDFs, salva em `02-Artigos-Periodicos/_inbox/`
@@ -413,7 +433,7 @@ Todos os documentos em **português brasileiro**. Terminologia médica conforme 
 | Ferramenta | Linguagem | Função |
 |---|---|---|
 | `tools/search_pubmed.py` | Python | Busca artigos no PubMed via API NCBI (abstracts + tipo de publicação + MeSH) |
-| `tools/varredura_semanal.py` | Python | Orquestra varredura: busca → dedup → triagem via API → commit resultados |
+| `tools/varredura_semanal.py` | Python | Orquestra varredura: busca → dedup → triagem via API → salva resultados (sob demanda) |
 | `tools/update_article_index.py` | Python | Adiciona/atualiza entradas no CSV |
 | `tools/mark_article_incorporated.py` | Python | Marca artigos como incorporados |
 | `tools/create_docx.js` | Node.js | Motor de renderização: lê `content/<area>/<tema>.json` e gera `.docx` |
@@ -422,11 +442,10 @@ Todos os documentos em **português brasileiro**. Terminologia médica conforme 
 | `tools/test_generate.js` | Node.js | Pipeline completo: validação → geração → verificação de todos os `.docx` |
 | `tools/triage_prompt.txt` | Texto | Prompt estruturado para a Anthropic API avaliar abstracts |
 
-**Uso da varredura:**
+**Uso da varredura (sob demanda):**
 ```bash
-python tools/varredura_semanal.py                          # varredura normal (rotação automática)
+python tools/varredura_semanal.py --area estetica-facial   # varredura de uma área específica
 python tools/varredura_semanal.py --dry-run                # simular sem salvar
-python tools/varredura_semanal.py --area estetica-facial   # forçar área específica
 python tools/varredura_semanal.py --skip-triage            # pular triagem IA (fallback heurístico)
 ```
 
@@ -436,23 +455,51 @@ python tools/varredura_semanal.py --skip-triage            # pular triagem IA (f
 
 | Workflow | Quando usar |
 |---|---|
-| `workflows/varredura_artigos.md` | **Fluxo principal:** PubMed → triagem IA → Dr. Arthur aprova no PWA → baixa PDFs via VPN → agente incorpora |
+| `workflows/varredura_artigos.md` | Varredura sob demanda: PubMed → triagem IA → Dr. Arthur aprova no PWA → baixa PDFs via VPN → agente incorpora |
 | `workflows/buscar_incorporar_artigos.md` | Descoberta: buscar artigos nos periódicos-alvo no PubMed e indexar metadados (sem PDF) |
 | `workflows/atualizar_documento_estudo.md` | Incorporar artigos já disponíveis (PDFs na `_inbox/`) a um documento |
 | `workflows/cirurgia_estetica_facial.md` | Fluxo completo para a área de estética facial |
 
 ---
 
+## Plugins e Extensões (Claude Code)
+
+> **Regra:** Sempre utilizar os plugins instalados nas tarefas em que se encaixam. Não reinventar funcionalidades que um plugin já oferece.
+
+### MCP Servers
+
+| Plugin | Quando usar |
+|---|---|
+| **GitHub** (`mcp__github__*`) | Qualquer operação com o repositório GitHub: criar/ler issues e PRs, buscar código, gerenciar branches, ler/criar arquivos no repo remoto, reviews. **Preferir sobre `gh` CLI quando possível.** |
+| **Context7** (`context7`) | Consultar documentação atualizada de qualquer biblioteca, framework, SDK ou ferramenta CLI (ex: `docx`, Node.js, PyMuPDF, React). **Usar mesmo quando parecer que já sabe a resposta** — dados de treinamento podem estar desatualizados. |
+
+### Skills (Plugins de Capacidade)
+
+| Plugin | Quando usar |
+|---|---|
+| **superpowers** | Planejamento (`write-plan`), brainstorming antes de trabalho criativo, execução de planos com checkpoints, debugging sistemático, TDD, verificação antes de finalizar, code review, agentes paralelos, git worktrees |
+| **code-review** | Revisar PRs e código implementado |
+| **frontend-design** | Criar interfaces web com design de alta qualidade (componentes, páginas, PWAs) |
+| **ui-ux-pro-max** | Design UI/UX avançado: paletas de cores, tipografia, estilos, guidelines UX, tipos de gráficos. Usar em conjunto com frontend-design para as PWAs |
+| **playwright** | Testes de browser, automação de UI, validação visual das PWAs |
+| **code-simplifier** | Simplificar e refinar código após implementação — clareza, consistência, manutenibilidade |
+| **skill-creator** | Criar ou modificar skills customizadas, medir performance de skills |
+
+---
+
 ## Automação (GitHub Actions)
 
-| Workflow | Cron | Função |
+| Workflow | Status | Função |
 |---|---|---|
-| `.github/workflows/varredura.yml` | Semanal | Varredura PubMed → triagem IA → commit resultados → notificação |
+| `.github/workflows/varredura.yml` | **Inativo** | Varredura PubMed → triagem IA → commit resultados (descontinuado por custo de API) |
 
-**Secrets necessários no GitHub:**
+> **Nota:** O cron semanal foi desativado. Varreduras são executadas sob demanda via CLI quando o Dr. Arthur solicitar. O workflow do GitHub Actions permanece no repo caso seja reativado no futuro.
+
+**Secrets configurados no GitHub (para uso futuro):**
+
 - `ANTHROPIC_API_KEY` — para triagem via Anthropic API
 - `NCBI_API_KEY` — para buscas no PubMed
 - `NCBI_EMAIL` — email registrado no NCBI
 - `GMAIL_APP_PASSWORD` — para email de notificação (opcional)
 
-**Estado de rotação:** `varredura_state.json` na raiz do repo rastreia qual área foi varrida por último e se a varredura zero (10 anos) já foi feita. A cada execução, o script seleciona a área mais desatualizada.
+**Estado de rotação:** `varredura_state.json` na raiz do repo rastreia qual área foi varrida por último e se a varredura zero (10 anos) já foi feita.

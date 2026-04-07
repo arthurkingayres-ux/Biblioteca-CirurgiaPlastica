@@ -1,0 +1,235 @@
+[
+  {
+    "id": "rino-dec-001",
+    "type": "decision",
+    "title": "Abordagem Aberta vs. Fechada",
+    "topic": "rinoplastia",
+    "area": "estetica-facial",
+    "trigger": "Paciente candidato a rinoplastia — decisão sobre via de acesso cirúrgico.",
+    "steps": [
+      {
+        "question": "Qual a complexidade da deformidade nasal?",
+        "options": [
+          {
+            "answer": "Deformidade complexa do dorso e ponta, nariz desviado, revisão complexa, necessidade de enxertos múltiplos",
+            "next": "Via aberta (transcolumelar) — oferece visualização binocular direta, uso de ambas as mãos, controle de enxertos e suturas."
+          },
+          {
+            "answer": "Deformidade menor do dorso isolada, ponta que necessita de enxerto mais que ressecção, pele que camufla bem",
+            "next": "Considerar via fechada (endonasal). Avaliar fatores adicionais."
+          }
+        ]
+      },
+      {
+        "question": "Se deformidade menor: qual o algoritmo diagnóstico (Constantian)?",
+        "options": [
+          {
+            "answer": "Dorso alto para a base — precisa de redução dorsal",
+            "next": "Via fechada viável: redução dorsal + delivery technique para modificações da ponta."
+          },
+          {
+            "answer": "Dorso baixo para a base — precisa de augmentation e tip grafts",
+            "next": "Via fechada preferida: tip grafts são o principal recurso. Múltiplos enxertos (nunca um único) produzem pontas mais naturais."
+          }
+        ]
+      },
+      {
+        "question": "Há necessidade de septoplastia ou osteotomias extensas?",
+        "options": [
+          {
+            "answer": "Sim — desvio septal + osteotomias + reconstrução valvar",
+            "next": "Via aberta preferida para visualização completa e controle."
+          },
+          {
+            "answer": "Não — apenas modificações limitadas",
+            "next": "Via fechada viável se cirurgião experiente. Curva de aprendizado maior."
+          }
+        ]
+      }
+    ],
+    "citations": ["Neligan, 2023, vol. 2, caps. 19–20", "Core Procedures, 2020, cap. 4", "Operative Dictations, 2017, caps. 1–2"],
+    "updates": [],
+    "tags": ["decisão", "aberta", "fechada", "abordagem", "indicação"]
+  },
+  {
+    "id": "rino-dec-002",
+    "type": "decision",
+    "title": "Algoritmo de Osteotomias",
+    "topic": "rinoplastia",
+    "area": "estetica-facial",
+    "trigger": "Avaliação intraoperatória do vault ósseo após redução dorsal ou para correção de desvio nasal.",
+    "steps": [
+      {
+        "question": "Qual a indicação primária?",
+        "options": [
+          {
+            "answer": "Vault ósseo largo (assimétrico ou simétrico)",
+            "next": "Osteotomia lateral bilateral (low-to-high ou low-to-low). Técnica percutânea descontínua preferida."
+          },
+          {
+            "answer": "Open roof deformity após redução dorsal",
+            "next": "Osteotomia lateral bilateral para fechar o teto aberto. Considerar spreader grafts complementares."
+          },
+          {
+            "answer": "Desvio ósseo nasal",
+            "next": "Osteotomia lateral + medial no lado côncavo. Greenstick fracture com pressão digital."
+          }
+        ]
+      },
+      {
+        "question": "Há contraindicações relativas?",
+        "options": [
+          {
+            "answer": "Ossos nasais curtos, paciente idoso com ossos finos, pele espessa",
+            "next": "Proceder com cautela. Risco de instabilidade, fragmentação ou resultado pouco perceptível."
+          },
+          {
+            "answer": "Nariz baixo e largo em etnia não-europeia",
+            "next": "Osteotomias geralmente contraindicadas. Avaliar necessidade real vs. alternativas."
+          },
+          {
+            "answer": "Nenhuma contraindicação relativa",
+            "next": "Proceder com osteotomia percutânea descontínua. NÃO ultrapassar o canto medial superiormente."
+          }
+        ]
+      }
+    ],
+    "citations": ["Neligan, 2023, vol. 2, cap. 19", "Grabb & Smith, 2024, cap. 54"],
+    "updates": [],
+    "tags": ["decisão", "osteotomia", "vault-ósseo", "open-roof", "desvio"]
+  },
+  {
+    "id": "rino-dec-003",
+    "type": "decision",
+    "title": "Escolha de Material de Enxerto (Septal vs. Auricular vs. Costal)",
+    "topic": "rinoplastia",
+    "area": "estetica-facial",
+    "trigger": "Necessidade de enxerto cartilaginoso durante rinoplastia — seleção do sítio doador.",
+    "steps": [
+      {
+        "question": "Qual a função do enxerto necessário?",
+        "options": [
+          {
+            "answer": "Suporte estrutural (strut, spreader, extensão septal)",
+            "next": "Preferência: septo (1°) > costela autóloga (2°) > costela homóloga fresca (3°)."
+          },
+          {
+            "answer": "Contorno (onlay dorsal, onlay de ponta)",
+            "next": "Preferência: concha auricular (quando disponível) > septo > diced cartilage fascia-wrapped."
+          }
+        ]
+      },
+      {
+        "question": "A cartilagem septal é suficiente?",
+        "options": [
+          {
+            "answer": "Sim — quantidade adequada após preservação do L-strut (≥ 10 mm, ideal ≥ 15 mm)",
+            "next": "Cartilagem septal — primeira escolha. Facilmente colhida, campo operatório, morbidade mínima, serve para todas as aplicações."
+          },
+          {
+            "answer": "Não — septo insuficiente (cirurgia prévia, septo pequeno, múltiplos enxertos necessários)",
+            "next": "Avaliar fonte alternativa."
+          }
+        ]
+      },
+      {
+        "question": "Se septo insuficiente: qual a prioridade?",
+        "options": [
+          {
+            "answer": "Enxertos de contorno (tip, camouflage) sem necessidade de rigidez",
+            "next": "Cartilagem auricular. Via anterior ou posterior. Manter 3 mm de borda de concha. Não serve para suporte estrutural rígido."
+          },
+          {
+            "answer": "Suporte estrutural rígido ou quantidade abundante necessária",
+            "next": "Cartilagem costal autóloga (9ª costela preferida — 4–5 cm). Aguardar ≥ 30 min antes de talhar. Precaução: pneumotórax."
+          },
+          {
+            "answer": "Material off-the-shelf desejado ou morbidade do sítio doador inaceitável",
+            "next": "Costela homóloga fresca (FFHCC) — infecção 2,4%, reabsorção 0,8% (Taylor, PRS 2026). Alternativa conveniente e econômica."
+          }
+        ]
+      }
+    ],
+    "citations": ["Neligan, 2023, vol. 2, cap. 19", "Grabb & Smith, 2024, cap. 54", "Rohrich RN et al. PRS 2026;157(1):54–61", "Taylor CM, Barrera JE. PRS 2026;157(1):28e–37e"],
+    "updates": [
+      {
+        "color": "blue",
+        "title": "Hierarquia de enxertos em material limitado — survey The Rhinoplasty Society",
+        "content": [
+          "Survey com 47 cirurgiões membros da The Rhinoplasty Society (Rohrich RN et al., PRS 2026).",
+          "Algoritmo geral: septo (1°) > costela autóloga (2°) > costela homóloga fresca (3°) > concha (4°) > costela irradiada (5°) > aloplástico (6°).",
+          "Enxertos de suporte estrutural (strut, spreader, extensão septal anterior): preferência por septo, seguido de costela e homólogo fresco.",
+          "Enxertos de contorno (onlay dorsal, onlay de ponta): concha preferida quando disponível.",
+          "Desvios do padrão geral: lateral crural strut e alar batten fogem à hierarquia habitual."
+        ],
+        "citation": "Rohrich RN et al. Plast Reconstr Surg 2026;157(1):54–61. DOI: 10.1097/PRS.0000000000012301",
+        "paradigm_shift": false
+      },
+      {
+        "color": "blue",
+        "title": "Cartilagem costal homóloga fresca (FFHCC) — segurança e desfechos",
+        "content": [
+          "Revisão retrospectiva de 123 rinoplastias com costela homóloga fresca (Taylor CM, Barrera JE, PRS 2026). Seguimento médio: 11 meses.",
+          "Infecção: 2,4% (3/123); reabsorção: 0,8% (1/123).",
+          "Melhora significativa em NOSE (P < 0,001), SNOT-22 (P < 0,001), Epworth (P < 0,001) e SCHNOS total/funcional/cosmético (P < 0,001).",
+          "Alternativa 'off-the-shelf' conveniente e econômica quando septo é insuficiente."
+        ],
+        "citation": "Taylor CM, Barrera JE. Plast Reconstr Surg 2026;157(1):28e–37e. DOI: 10.1097/PRS.0000000000012303",
+        "paradigm_shift": false
+      }
+    ],
+    "tags": ["decisão", "enxerto", "septal", "auricular", "costal", "homólogo"]
+  },
+  {
+    "id": "rino-dec-004",
+    "type": "decision",
+    "title": "Manejo do Dorso: Preservação vs. Redução por Componentes",
+    "topic": "rinoplastia",
+    "area": "estetica-facial",
+    "trigger": "Paciente com giba dorsal — decisão entre rinoplastia de preservação dorsal e redução por componentes.",
+    "steps": [
+      {
+        "question": "Qual o tamanho da giba dorsal?",
+        "options": [
+          {
+            "answer": "Giba pequena a moderada",
+            "next": "Candidato a preservação dorsal (push-down). Avaliar pele e anatomia."
+          },
+          {
+            "answer": "Giba grande",
+            "next": "Redução por componentes preferida. Preservação não adequada para gibas grandes."
+          }
+        ]
+      },
+      {
+        "question": "Se giba pequena a moderada: a pele e anatomia são adequadas para preservação?",
+        "options": [
+          {
+            "answer": "Sim — pele adequada, anatomia favorável, keystone intacto",
+            "next": "Preservação dorsal. Usar eletrocautério (não bisturi) para remodelamento das CLS — recorrência 2,5% vs. 13,6%."
+          },
+          {
+            "answer": "Não — pele espessa, anatomia desfavorável ou necessidade de múltiplas modificações",
+            "next": "Redução por componentes. Abordagem mais versátil e previsível."
+          }
+        ]
+      },
+      {
+        "question": "O cirurgião adota abordagem híbrida?",
+        "options": [
+          {
+            "answer": "Sim — incorporar seletivamente princípios de preservação à abordagem estrutural",
+            "next": "Abordagem individualizada: preservar quando possível, reconstruir quando necessário (Sergesketter et al.)."
+          },
+          {
+            "answer": "Não — uma filosofia consistente",
+            "next": "Seguir a abordagem escolhida com consistência técnica."
+          }
+        ]
+      }
+    ],
+    "citations": ["Neligan, 2023, vol. 2, caps. 18–19", "Sergesketter AR et al. PRS 2026;157(4):496e–503e", "Şibar S et al. ASJ 2025;46(1):16–23"],
+    "updates": [],
+    "tags": ["decisão", "preservação", "redução", "dorso", "giba", "híbrido"]
+  }
+]
