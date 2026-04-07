@@ -1,0 +1,168 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "biblioteca-cirurgia-plastica/cards-schema",
+  "title": "Fichas Atomicas — Biblioteca de Cirurgia Plastica",
+  "description": "Schema para fichas atomicas consumidas pela PWA Library",
+
+  "$defs": {
+    "technique": {
+      "type": "object",
+      "required": ["id", "type", "title", "topic", "area", "steps", "citations", "tags"],
+      "additionalProperties": false,
+      "properties": {
+        "id": { "type": "string", "pattern": "^[a-z]+-tec-" },
+        "type": { "const": "technique" },
+        "title": { "type": "string" },
+        "aliases": { "type": "array", "items": { "type": "string" }, "default": [] },
+        "topic": { "type": "string" },
+        "area": { "type": "string" },
+        "indication": { "type": "string" },
+        "contraindication": { "type": "string" },
+        "steps": { "type": "array", "items": { "type": "string" }, "minItems": 1 },
+        "complications": { "type": "array", "items": { "type": "string" }, "default": [] },
+        "pearls": { "type": "array", "items": { "type": "string" }, "default": [] },
+        "images": { "type": "array", "items": { "type": "string" }, "default": [] },
+        "citations": { "type": "array", "items": { "type": "string" }, "minItems": 1 },
+        "updates": { "type": "array", "items": { "$ref": "#/$defs/update" }, "default": [] },
+        "tags": { "type": "array", "items": { "type": "string" }, "minItems": 1 }
+      }
+    },
+    "anatomy": {
+      "type": "object",
+      "required": ["id", "type", "title", "topic", "area", "definition", "location", "citations", "tags"],
+      "additionalProperties": false,
+      "properties": {
+        "id": { "type": "string", "pattern": "^[a-z]+-anat-" },
+        "type": { "const": "anatomy" },
+        "title": { "type": "string" },
+        "aliases": { "type": "array", "items": { "type": "string" }, "default": [] },
+        "topic": { "type": "string" },
+        "area": { "type": "string" },
+        "definition": { "type": "string" },
+        "location": { "type": "string" },
+        "relations": { "type": "array", "items": { "type": "string" }, "default": [] },
+        "surgical_relevance": { "type": "string" },
+        "how_to_identify": { "type": "string" },
+        "images": { "type": "array", "items": { "type": "string" }, "default": [] },
+        "citations": { "type": "array", "items": { "type": "string" }, "minItems": 1 },
+        "updates": { "type": "array", "items": { "$ref": "#/$defs/update" }, "default": [] },
+        "tags": { "type": "array", "items": { "type": "string" }, "minItems": 1 }
+      }
+    },
+    "decision": {
+      "type": "object",
+      "required": ["id", "type", "title", "topic", "area", "trigger", "steps", "citations", "tags"],
+      "additionalProperties": false,
+      "properties": {
+        "id": { "type": "string", "pattern": "^[a-z]+-dec-" },
+        "type": { "const": "decision" },
+        "title": { "type": "string" },
+        "topic": { "type": "string" },
+        "area": { "type": "string" },
+        "trigger": { "type": "string" },
+        "steps": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["question", "options"],
+            "properties": {
+              "question": { "type": "string" },
+              "options": {
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "required": ["answer", "next"],
+                  "properties": {
+                    "answer": { "type": "string" },
+                    "next": { "type": "string" }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "citations": { "type": "array", "items": { "type": "string" }, "minItems": 1 },
+        "updates": { "type": "array", "items": { "$ref": "#/$defs/update" }, "default": [] },
+        "tags": { "type": "array", "items": { "type": "string" }, "minItems": 1 }
+      }
+    },
+    "note": {
+      "type": "object",
+      "required": ["id", "type", "title", "topic", "area", "content", "citations", "tags"],
+      "additionalProperties": false,
+      "properties": {
+        "id": { "type": "string", "pattern": "^[a-z]+-nota-" },
+        "type": { "const": "note" },
+        "title": { "type": "string" },
+        "topic": { "type": "string" },
+        "area": { "type": "string" },
+        "section": { "type": "string" },
+        "content": { "type": "array", "items": { "type": "string" }, "minItems": 1 },
+        "images": { "type": "array", "items": { "type": "string" }, "default": [] },
+        "citations": { "type": "array", "items": { "type": "string" }, "minItems": 1 },
+        "updates": { "type": "array", "items": { "$ref": "#/$defs/update" }, "default": [] },
+        "tags": { "type": "array", "items": { "type": "string" }, "minItems": 1 }
+      }
+    },
+    "flashcard": {
+      "type": "object",
+      "required": ["id", "type", "topic", "area", "cards", "tags"],
+      "additionalProperties": false,
+      "properties": {
+        "id": { "type": "string", "pattern": "^[a-z]+-fc-" },
+        "type": { "const": "flashcard" },
+        "topic": { "type": "string" },
+        "area": { "type": "string" },
+        "cards": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["front", "back"],
+            "properties": {
+              "front": { "type": "string" },
+              "back": { "type": "string" },
+              "citation": { "type": "string" },
+              "domain": { "type": "string" }
+            }
+          }
+        },
+        "tags": { "type": "array", "items": { "type": "string" }, "minItems": 1 }
+      }
+    },
+    "update": {
+      "type": "object",
+      "required": ["color", "title", "content", "citation"],
+      "properties": {
+        "color": { "enum": ["blue", "red", "green"] },
+        "title": { "type": "string" },
+        "content": { "type": "array", "items": { "type": "string" } },
+        "citation": { "type": "string" },
+        "paradigm_shift": { "type": "boolean", "default": false }
+      }
+    },
+    "meta": {
+      "type": "object",
+      "required": ["topic", "area", "displayName", "version", "date", "status", "references"],
+      "properties": {
+        "topic": { "type": "string" },
+        "area": { "type": "string" },
+        "displayName": { "type": "string" },
+        "version": { "type": "string", "pattern": "^v\\d+\\.\\d+$" },
+        "date": { "type": "string", "format": "date" },
+        "status": { "enum": ["draft", "complete"] },
+        "references": { "type": "array", "items": { "type": "string" } },
+        "articles": { "type": "array", "items": { "type": "string" }, "default": [] },
+        "cardCounts": {
+          "type": "object",
+          "properties": {
+            "anatomia": { "type": "integer" },
+            "tecnicas": { "type": "integer" },
+            "decisoes": { "type": "integer" },
+            "notas": { "type": "integer" },
+            "flashcards": { "type": "integer" }
+          }
+        }
+      }
+    }
+  }
+}
