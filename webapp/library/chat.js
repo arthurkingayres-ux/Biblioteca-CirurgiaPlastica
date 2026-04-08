@@ -1,7 +1,6 @@
 // chat.js — Chat module for AI-powered surgical Q&A
 const Chat = (() => {
-  // Dr. Arthur: replace with your Cloudflare Worker URL after deploy
-  const WORKER_URL = 'https://biblioteca-chat-proxy.YOUR_SUBDOMAIN.workers.dev/chat';
+  const WORKER_URL = 'https://biblioteca-chat-proxy.arthurkingayres.workers.dev/chat';
   const MAX_HISTORY = 10; // 5 turnos (user + assistant)
 
   let _messages = [];

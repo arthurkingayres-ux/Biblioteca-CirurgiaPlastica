@@ -12,7 +12,7 @@ REGRAS:
 6. Para parâmetros numéricos, forneça valores exatos das fichas.
 7. Mencione citações bibliográficas quando relevante.`;
 
-const GEMINI_URL = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent';
+const GEMINI_URL = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent';
 
 // Simple in-memory rate limiter (per-isolate, resets on cold start)
 const rateLimiter = new Map();
