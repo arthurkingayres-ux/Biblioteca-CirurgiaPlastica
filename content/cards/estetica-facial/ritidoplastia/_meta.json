@@ -1,6 +1,6 @@
 {
   "topic": "ritidoplastia",
-  "area": "estetica-facial",
+  "area": "estética-facial",
   "displayName": "Ritidoplastia (Facelift)",
   "version": "v1.0",
   "date": "2026-04-08",
@@ -22,7 +22,7 @@
   ],
   "cardCounts": {
     "anatomia": 4,
-    "tecnicas": 7,
+    "técnicas": 7,
     "decisoes": 2,
     "notas": 4,
     "flashcards": 12

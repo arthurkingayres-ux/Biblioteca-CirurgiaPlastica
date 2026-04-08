@@ -2,7 +2,7 @@
   "id": "rino-fc-001",
   "type": "flashcard",
   "topic": "rinoplastia",
-  "area": "estetica-facial",
+  "area": "estética-facial",
   "cards": [
     {
       "front": "Ângulo nasolabial ♀",
@@ -216,7 +216,7 @@
     },
     {
       "front": "Profilaxia antibiótica na rinoplastia",
-      "back": "Dose única IV pré-op (cefalosporina); sem ATB pós-op",
+      "back": "Dose única IV pré-op (cefalosporina); sem antibiótico (ATB) pós-op",
       "citation": "Neligan, 2023, vol. 2, cap. 19",
       "domain": "pós-operatório"
     },
@@ -251,7 +251,7 @@
       "domain": "anatomia"
     },
     {
-      "front": "Nervo infraorbital — distância do rebordo orbitário",
+      "front": "Nervo infraórbital — distância do rebordo orbitário",
       "back": "~10–12 mm abaixo do rebordo orbitário",
       "citation": "Neligan, 2023, vol. 2, cap. 18",
       "domain": "anatomia"
@@ -336,7 +336,7 @@
     },
     {
       "front": "Depressor septi nasi — tipos de inserção",
-      "back": "Tipo I: footplates mediocrurais; Tipo II: periósteo maxilar; Tipo III: rudimentar/ausente",
+      "back": "Tipo I: footplates médiocrurais; Tipo II: periósteo maxilar; Tipo III: rudimentar/ausente",
       "citation": "Neligan, 2023, vol. 2, cap. 19",
       "domain": "anatomia"
     },
@@ -383,8 +383,8 @@
       "domain": "pós-operatório"
     },
     {
-      "front": "TXA tópico na rinoplastia — efeito no sangramento",
-      "back": "Redução significativa (SMD −1,20; P = 0,04) + menor edema e equimose",
+      "front": "Ácido tranexâmico (TXA) tópico na rinoplastia — efeito no sangramento",
+      "back": "Redução significativa (SMD — diferença média padronizada — −1,20; P = 0,04) + menor edema e equimose",
       "citation": "Di Martino L et al. ASJ 2025;45(12):1220–1226",
       "domain": "técnica"
     },

@@ -2,34 +2,34 @@
   {
     "id": "riti-dec-001",
     "type": "decision",
-    "title": "Escolha da Tecnica de SMAS",
+    "title": "Escolha da Técnica de SMAS",
     "topic": "ritidoplastia",
-    "area": "estetica-facial",
-    "trigger": "Paciente candidato a ritidoplastia necessita definicao da tecnica de manejo do SMAS (Sistema Musculo-Aponeurotico Superficial).",
+    "area": "estética-facial",
+    "trigger": "Paciente candidato a ritidoplastia necessita definição da técnica de manejo do SMAS (Sistema Músculo-Aponeurótico Superficial).",
     "steps": [
       {
         "question": "Qual o grau de envelhecimento facial e ptose dos tecidos?",
         "options": [
           {
-            "answer": "Leve a moderado: ptose discreta do terco medio, sulco nasolabial pouco profundo, jowl minimo",
-            "next": "Considerar SMAS plication ou U-SMAS lift (menor disseccao, perfil de seguranca superior)."
+            "answer": "Leve a moderado: ptose discreta do terco médio, sulco nasolabial pouco profundo, jowl mínimo",
+            "next": "Considerar SMAS plication ou U-SMAS lift (menor dissecção, perfil de seguranca superior)."
           },
           {
-            "answer": "Moderado a avancado: ptose malar evidente, sulco nasolabial profundo, jowl significativo, laxidez da linha mandibular",
+            "answer": "Moderado a avancado: ptose malar evidente, sulco nasolabial profundo, jowl significativo, laxidez da linha mandíbular",
             "next": "Avaliar deep plane (resultado mais duradouro: 8-12 anos vs. 5-7 anos para plication)."
           }
         ]
       },
       {
-        "question": "O cirurgiao tem experiencia com a tecnica deep plane?",
+        "question": "O cirurgiao tem experiencia com a técnica deep plane?",
         "options": [
           {
             "answer": "Sim — experiencia comprovada em deep plane",
-            "next": "Deep plane e a tecnica de escolha para ptose moderada a avancada. Resultado mais natural e duradouro."
+            "next": "Deep plane e a técnica de escolha para ptose moderada a avancada. Resultado mais natural e duradouro."
           },
           {
             "answer": "Nao — experiencia limitada em deep plane",
-            "next": "SMAS plication ou imbrication — perfil de seguranca superior; resultado adequado para 5-7 anos. Evolucao tecnica gradual em direcao ao deep plane."
+            "next": "SMAS plication ou imbrication — perfil de seguranca superior; resultado adequado para 5-7 anos. Evolucao técnica gradual em direção ao deep plane."
           }
         ]
       },
@@ -37,12 +37,12 @@
         "question": "O paciente tem ptose moderada isolada sem envelhecimento avancado?",
         "options": [
           {
-            "answer": "Sim — ptose moderada, sem necessidade de disseccao extensa",
-            "next": "U-SMAS lift pode ser adequado: combina disseccao subcutanea anterior com suspensao do SMAS em 'U' invertido. Menor disseccao que deep plane com bons resultados em 6-12 meses."
+            "answer": "Sim — ptose moderada, sem necessidade de dissecção extensa",
+            "next": "U-SMAS lift pode ser adequado: combina dissecção subcutânea anterior com suspensao do SMAS em 'U' invertido. Menor dissecção que deep plane com bons resultados em 6-12 meses."
           },
           {
-            "answer": "Nao — envelhecimento avancado ou necessidade de mobilizacao completa",
-            "next": "Deep plane com divisao dos ligamentos de retencao para mobilizacao maxima do retalho composto."
+            "answer": "Nao — envelhecimento avancado ou necessidade de mobilização completa",
+            "next": "Deep plane com divisao dos ligamentos de retenção para mobilização máxima do retalho composto."
           }
         ]
       }
@@ -54,12 +54,12 @@
     ],
     "updates": [],
     "tags": [
-      "decisao",
+      "decisão",
       "SMAS",
       "deep-plane",
       "plication",
       "U-SMAS",
-      "tecnica"
+      "técnica"
     ]
   },
   {
@@ -67,23 +67,23 @@
     "type": "decision",
     "title": "Manejo do Pescoco na Ritidoplastia",
     "topic": "ritidoplastia",
-    "area": "estetica-facial",
-    "trigger": "Paciente submetido a ritidoplastia necessita definicao da estrategia de manejo cervical (pescoco).",
+    "area": "estética-facial",
+    "trigger": "Paciente submetido a ritidoplastia necessita definição da estrategia de manejo cervical (pescoco).",
     "steps": [
       {
         "question": "Qual o grau de ptose do platisma e presenca de bandas platismais?",
         "options": [
           {
-            "answer": "Minimo: sem bandas visiveis, contorno cervical aceitavel",
-            "next": "Lipoaspiracao submentoniana isolada (se gordura pre-platismal presente) + suspensao lateral do SMAS/platisma durante o facelift pode ser suficiente."
+            "answer": "Mínimo: sem bandas visiveis, contorno cervical aceitavel",
+            "next": "Lipoaspiração submentoniana isolada (se gordura pre-platismal presente) + suspensao lateral do SMAS/platisma durante o facelift pode ser suficiente."
           },
           {
-            "answer": "Moderado: bandas platismais visiveis, diastase moderada, angulo cervicomental subotimo",
+            "answer": "Moderado: bandas platismais visiveis, diástase moderada, ângulo cervicomental subotimo",
             "next": "Avaliar suturas seletivas vs. platismaplastia anterior completa."
           },
           {
-            "answer": "Avancado: bandas platismais proeminentes, diastase significativa, acumulo de gordura subplatismal, angulo cervicomental muito obtuso",
-            "next": "Considerar transeccao completa do platisma ou suspensao completa como extensao do deep plane."
+            "answer": "Avancado: bandas platismais proeminentes, diástase significativa, acumulo de gordura subplatismal, ângulo cervicomental muito obtuso",
+            "next": "Considerar transeccao completa do platisma ou suspensao completa como extensão do deep plane."
           }
         ]
       },
@@ -92,11 +92,11 @@
         "options": [
           {
             "answer": "Suturas cervicais seletivas (individualizadas por grau de ptose)",
-            "next": "Reducao de 40% no tempo cirurgico sem diferenca em resultado a 1 ano vs. platismaplastia completa. Indicacao individualizada."
+            "next": "Redução de 40% no tempo cirúrgico sem diferenca em resultado a 1 ano vs. platismaplastia completa. Indicação individualizada."
           },
           {
             "answer": "Platismaplastia anterior completa (plicatura das bordas mediais na linha media)",
-            "next": "Tecnica classica; correcao uniforme das bandas; maior tempo cirurgico."
+            "next": "Técnica classica; correção uniforme das bandas; maior tempo cirúrgico."
           }
         ]
       },
@@ -105,11 +105,11 @@
         "options": [
           {
             "answer": "Transeccao completa do platisma via acesso submentoniano",
-            "next": "Melhora significativa do angulo cervicomental (143 graus para 116 graus). Menor recidiva de bandas vs. plicatura isolada. Serie de 87 casos."
+            "next": "Melhora significativa do ângulo cervicomental (143 graus para 116 graus). Menor recidiva de bandas vs. plicatura isolada. Serie de 87 casos."
           },
           {
-            "answer": "Suspensao completa do platisma como extensao do deep plane",
-            "next": "Resultado cervical superior vs. tecnicas parciais em 234 pacientes. Sem aumento de complicacoes neurais. Unifica manejo facial e cervical em um unico plano."
+            "answer": "Suspensao completa do platisma como extensão do deep plane",
+            "next": "Resultado cervical superior vs. técnicas parciais em 234 pacientes. Sem aumento de complicações neurais. Unifica manejo facial e cervical em um único plano."
           }
         ]
       },
@@ -118,11 +118,11 @@
         "options": [
           {
             "answer": "Sim — gordura profunda ao platisma contribui para fullness cervical",
-            "next": "Lipectomia subplatismal direta via acesso submentoniano. Cuidado com estruturas profundas (glandula submandibular, nervo marginal mandibular)."
+            "next": "Lipectomia subplatismal direta via acesso submentoniano. Cuidado com estruturas profundas (glândula submandíbular, nervo marginal mandíbular)."
           },
           {
             "answer": "Nao — fullness e predominantemente pre-platismal ou muscular",
-            "next": "Lipoaspiracao pre-platismal + manejo muscular (plicatura, suturas seletivas ou transeccao) conforme indicado."
+            "next": "Lipoaspiração pre-platismal + manejo muscular (plicatura, suturas seletivas ou transeccao) conforme indicado."
           }
         ]
       }
@@ -136,12 +136,12 @@
     ],
     "updates": [],
     "tags": [
-      "decisao",
+      "decisão",
       "pescoco",
       "platismaplastia",
       "suturas-seletivas",
       "transeccao",
-      "angulo-cervicomental"
+      "ângulo-cervicomental"
     ]
   }
 ]

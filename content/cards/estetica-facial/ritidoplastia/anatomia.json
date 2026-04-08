@@ -2,26 +2,26 @@
   {
     "id": "riti-anat-001",
     "type": "anatomy",
-    "title": "SMAS (Sistema Musculo-Aponeurotico Superficial)",
+    "title": "SMAS (Sistema Músculo-Aponeurótico Superficial)",
     "aliases": [
       "SMAS",
-      "sistema musculo-aponeurotico superficial",
-      "camada musculo-aponeurotica"
+      "sistema músculo-aponeurótico superficial",
+      "camada músculo-aponeurótica"
     ],
     "topic": "ritidoplastia",
-    "area": "estetica-facial",
-    "definition": "O SMAS (Sistema Musculo-Aponeurotico Superficial) e uma camada fibromuscular continua que conecta o platisma no pescoco ao musculo zigomatico menor e ao orbicular do olho na face. Representa a estrutura-chave para resultados duradouros na ritidoplastia, pois transmite a forca de tracao da suspensao cirurgica aos tecidos profundos da face.",
-    "location": "Camada entre a gordura subcutanea e a fascia parotidomasseteria. Estende-se do arco zigomatico superiormente ao platisma inferiormente, cobrindo toda a regiao lateral da face.",
+    "area": "estética-facial",
+    "definition": "O SMAS (Sistema Músculo-Aponeurótico Superficial) e uma camada fibromuscular contínua que conecta o platisma no pescoco ao músculo zigomático menor e ao orbicular do olho na face. Representa a estrutura-chave para resultados duradouros na ritidoplastia, pois transmite a força de tração da suspensao cirúrgica aos tecidos profundos da face.",
+    "location": "Camada entre a gordura subcutânea e a fáscia parotidomasseteria. Estende-se do arco zigomático superiormente ao platisma inferiormente, cobrindo toda a região lateral da face.",
     "relations": [
-      "Platisma (continuacao cervical do SMAS)",
-      "Musculo zigomatico menor (insercao superior)",
-      "Musculo orbicular do olho (continuacao superior)",
-      "Fascia parotidomasseteria (plano profundo)",
-      "Gordura subcutanea (plano superficial)",
+      "Platisma (continuação cervical do SMAS)",
+      "Músculo zigomático menor (insercao superior)",
+      "Músculo orbicular do olho (continuação superior)",
+      "Fáscia parotidomasseteria (plano profundo)",
+      "Gordura subcutânea (plano superficial)",
       "Nervo facial (profundo ao SMAS na maioria da face)"
     ],
-    "surgical_relevance": "A manipulacao do SMAS e o pilar da ritidoplastia moderna. A zona de adesao firme sobre o masseter e considerada a 'zona de seguranca' por ter risco neural minimo. A suspensao do SMAS em vetor posterior-superior produz resultados mais naturais e duradouros do que a tracao cutanea isolada. Deep plane, plication, imbrication e U-SMAS sao todas tecnicas que variam na forma de manipular o SMAS.",
-    "how_to_identify": "Camada fibromuscular esbranquicada logo abaixo da gordura subcutanea apos elevacao do retalho cutaneo. Sobre o masseter, o SMAS e fino e aponeurotico; sobre a glandula parotida, e mais espesso e muscular.",
+    "surgical_relevance": "A manipulação do SMAS e o pilar da ritidoplastia moderna. A zona de adesao firme sobre o masseter e considerada a 'zona de seguranca' por ter risco neural mínimo. A suspensao do SMAS em vetor posterior-superior produz resultados mais naturais e duradouros do que a tração cutânea isolada. Deep plane, plication, imbrication e U-SMAS sao todas técnicas que variam na forma de manipular o SMAS.",
+    "how_to_identify": "Camada fibromuscular esbranquiçada logo abaixo da gordura subcutânea após elevação do retalho cutâneo. Sobre o masseter, o SMAS e fino e aponeurotico; sobre a glândula parotida, e mais espesso e muscular.",
     "images": [],
     "citations": [
       "Neligan, 2023, vol. 2, cap. 11",
@@ -39,25 +39,25 @@
   {
     "id": "riti-anat-002",
     "type": "anatomy",
-    "title": "Ligamentos de Retencao Facial (Furnas)",
+    "title": "Ligamentos de Retenção Facial (Furnas)",
     "aliases": [
       "ligamentos de Furnas",
       "retaining ligaments",
       "ligamentos verdadeiros da face"
     ],
     "topic": "ritidoplastia",
-    "area": "estetica-facial",
-    "definition": "Os ligamentos de retencao facial (descritos por Furnas) sao condensacoes fibrosas que conectam o esqueleto facial e a fascia profunda diretamente a derme, ancorando os tecidos moles da face. Sua divisao cirurgica e essencial para a mobilizacao adequada dos retalhos na ritidoplastia, especialmente na tecnica deep plane. Os tres principais sao: zigomatico-cutaneo, masseter ico-cutaneo e mandibular.",
-    "location": "Zigomatico-cutaneo: do arco zigomatico a pele malar. Masseterico-cutaneo: do masseter a pele do jowl. Mandibular: da borda mandibular a pele do sulco labiomandibular.",
+    "area": "estética-facial",
+    "definition": "Os ligamentos de retenção facial (descritos por Furnas) sao condensacoes fibrosas que conectam o esqueleto facial e a fáscia profunda diretamente a derme, ancorando os tecidos moles da face. Sua divisao cirúrgica e essencial para a mobilização adequada dos retalhos na ritidoplastia, especialmente na técnica deep plane. Os tres principais sao: zigomático-cutâneo, masseter ico-cutâneo e mandíbular.",
+    "location": "Zigomático-cutâneo: do arco zigomático a pele malar. Masseterico-cutâneo: do masseter a pele do jowl. Mandíbular: da borda mandíbular a pele do sulco labiomandíbular.",
     "relations": [
-      "Arco zigomatico (origem do ligamento zigomatico-cutaneo)",
-      "Musculo masseter (origem do ligamento masseterico-cutaneo)",
-      "Borda inferior da mandibula (origem do ligamento mandibular)",
-      "SMAS (Sistema Musculo-Aponeurotico Superficial) — os ligamentos perfuram o SMAS",
-      "Derme (insercao cutanea de todos os ligamentos)"
+      "Arco zigomático (origem do ligamento zigomático-cutâneo)",
+      "Músculo masseter (origem do ligamento masseterico-cutâneo)",
+      "Borda inferior da mandíbula (origem do ligamento mandíbular)",
+      "SMAS (Sistema Músculo-Aponeurótico Superficial) — os ligamentos perfuram o SMAS",
+      "Derme (insercao cutânea de todos os ligamentos)"
     ],
-    "surgical_relevance": "A divisao do ligamento zigomatico-cutaneo libera a ptose malar e melhora o sulco nasojugal. A divisao do ligamento masseterico-cutaneo libera o jowl e melhora a linha mandibular. A divisao do ligamento mandibular corrige o sulco labiomandibular. Na tecnica deep plane, a divisao desses ligamentos e o passo que permite a mobilizacao completa do retalho composto SMAS-gordura malar.",
-    "how_to_identify": "Traves fibrosas firmes que resistem a elevacao do retalho; sentem-se como 'cordas' ao dissecar. O ligamento zigomatico-cutaneo e encontrado sobre o arco zigomatico, e o masseterico-cutaneo na borda anterior do masseter.",
+    "surgical_relevance": "A divisao do ligamento zigomático-cutâneo libera a ptose malar e melhora o sulco nasojugal. A divisao do ligamento masseterico-cutâneo libera o jowl e melhora a linha mandíbular. A divisao do ligamento mandíbular corrige o sulco labiomandíbular. Na técnica deep plane, a divisao desses ligamentos e o passo que permite a mobilização completa do retalho composto SMAS-gordura malar.",
+    "how_to_identify": "Traves fibrosas firmes que resistem a elevação do retalho; sentem-se como 'cordas' ao dissecar. O ligamento zigomático-cutâneo e encontrado sobre o arco zigomático, e o masseterico-cutâneo na borda anterior do masseter.",
     "images": [],
     "citations": [
       "Neligan, 2023, vol. 2, cap. 11",
@@ -68,9 +68,9 @@
       "anatomia",
       "ligamentos",
       "Furnas",
-      "retencao",
+      "retenção",
       "deep-plane",
-      "mobilizacao"
+      "mobilização"
     ]
   },
   {
@@ -84,18 +84,18 @@
       "nervo facial na ritidoplastia"
     ],
     "topic": "ritidoplastia",
-    "area": "estetica-facial",
-    "definition": "O nervo facial (VII par craniano) fornece inervacao motora a toda a musculatura mimica da face. Na ritidoplastia, tres ramos sao particularmente vulneraveis: o ramo temporal (frontal), o ramo zigomatico e o ramo marginal mandibular. A lesao permanente do nervo facial ocorre em menos de 1% dos casos.",
-    "location": "Ramo temporal (frontal): cruza o arco zigomatico superficialmente, na fascia temporoparietal. Ramo zigomatico: na regiao pre-zigomatica profunda, proximo aos ligamentos de retencao. Ramo marginal mandibular: abaixo da borda inferior da mandibula, profundo ao platisma.",
+    "area": "estética-facial",
+    "definition": "O nervo facial (VII par craniano) fornece inervação motora a toda a musculatura mimica da face. Na ritidoplastia, tres ramos sao particularmente vulneraveis: o ramo temporal (frontal), o ramo zigomático e o ramo marginal mandíbular. A lesao permanente do nervo facial ocorre em menos de 1% dos casos.",
+    "location": "Ramo temporal (frontal): cruza o arco zigomático superficialmente, na fáscia temporoparietal. Ramo zigomático: na região pre-zigomática profunda, proximo aos ligamentos de retenção. Ramo marginal mandíbular: abaixo da borda inferior da mandíbula, profundo ao platisma.",
     "relations": [
-      "SMAS (Sistema Musculo-Aponeurotico Superficial) — nervo tipicamente profundo ao SMAS",
-      "Fascia temporoparietal (ramo temporal cursa nesta camada)",
-      "Glandula parotida (ponto de emergencia dos ramos)",
-      "Arteria facial (o ramo marginal cruza proximo)",
-      "Ligamentos de retencao (ramos zigomaticos proximos)"
+      "SMAS (Sistema Músculo-Aponeurótico Superficial) — nervo típicamente profundo ao SMAS",
+      "Fáscia temporoparietal (ramo temporal cursa nesta camada)",
+      "Glândula parotida (ponto de emergencia dos ramos)",
+      "Artéria facial (o ramo marginal cruza proximo)",
+      "Ligamentos de retenção (ramos zigomáticos proximos)"
     ],
-    "surgical_relevance": "Ramo temporal (frontal): prevencao por disseccao profunda ao SMAS na regiao temporal. Ramo zigomatico: prevencao por identificacao antes de dividir os ligamentos de retencao. Ramo marginal mandibular: prevencao por disseccao superficial na borda inferior da mandibula e cuidado durante lipoaspiracao cervical. A lesao do marginal e a mais temida por causar assimetria do sorriso (paralisia do depressor do labio inferior).",
-    "how_to_identify": "Os ramos sao estruturas nervosas finas (1-2 mm) brancas e brilhantes. O ramo temporal corre na fascia temporoparietal acima do arco zigomatico. O marginal mandibular pode ser localizado 1-2 cm abaixo da borda da mandibula, profundo ao platisma. O uso de estimulador nervoso pode auxiliar na identificacao.",
+    "surgical_relevance": "Ramo temporal (frontal): prevenção por dissecção profunda ao SMAS na região temporal. Ramo zigomático: prevenção por identificacao antes de dividir os ligamentos de retenção. Ramo marginal mandíbular: prevenção por dissecção superficial na borda inferior da mandíbula e cuidado durante lipoaspiração cervical. A lesao do marginal e a mais temida por causar assimetria do sorriso (paralisia do depressor do labio inferior).",
+    "how_to_identify": "Os ramos sao estruturas nervosas finas (1-2 mm) brancas e brilhantes. O ramo temporal corre na fáscia temporoparietal acima do arco zigomático. O marginal mandíbular pode ser localizado 1-2 cm abaixo da borda da mandíbula, profundo ao platisma. O uso de estimulador nervoso pode auxiliar na identificacao.",
     "images": [],
     "citations": [
       "Neligan, 2023, vol. 2, cap. 11",
@@ -106,9 +106,9 @@
       "anatomia",
       "nervo-facial",
       "ramo-temporal",
-      "ramo-zigomatico",
-      "marginal-mandibular",
-      "complicacao",
+      "ramo-zigomático",
+      "marginal-mandíbular",
+      "complicação",
       "seguranca"
     ]
   },
@@ -117,22 +117,22 @@
     "type": "anatomy",
     "title": "Platisma",
     "aliases": [
-      "musculo platisma",
+      "músculo platisma",
       "platysma"
     ],
     "topic": "ritidoplastia",
-    "area": "estetica-facial",
-    "definition": "O platisma e um musculo fino e superficial do pescoco que se estende do torax superior (fascia peitoral) ate a borda inferior da mandibula e a comissura labial, sendo a continuacao cervical do SMAS (Sistema Musculo-Aponeurotico Superficial). Com o envelhecimento, sofre ptose, separacao das bordas mediais (diastase) e formacao de bandas platismais verticais, contribuindo para o aspecto envelhecido do pescoco.",
-    "location": "Pescoco anterior e lateral: da fascia peitoral e deltoide inferiormente ate a borda mandibular e comissura labial superiormente. As bordas mediais se encontram na linha media cervical em individuos jovens, podendo separar-se com o envelhecimento.",
+    "area": "estética-facial",
+    "definition": "O platisma e um músculo fino e superficial do pescoco que se estende do torax superior (fáscia peitoral) ate a borda inferior da mandíbula e a comissura labial, sendo a continuação cervical do SMAS (Sistema Músculo-Aponeurótico Superficial). Com o envelhecimento, sofre ptose, separação das bordas mediais (diástase) e formação de bandas platismais verticais, contribuindo para o aspecto envelhecido do pescoco.",
+    "location": "Pescoco anterior e lateral: da fáscia peitoral e deltoide inferiormente ate a borda mandíbular e comissura labial superiormente. As bordas mediais se encontram na linha média cervical em individuos jovens, podendo separar-se com o envelhecimento.",
     "relations": [
-      "SMAS (Sistema Musculo-Aponeurotico Superficial) — continuacao cranial do platisma",
-      "Gordura subcutanea cervical (superficial ao platisma)",
+      "SMAS (Sistema Músculo-Aponeurótico Superficial) — continuação cranial do platisma",
+      "Gordura subcutânea cervical (superficial ao platisma)",
       "Gordura subplatismal (profunda ao platisma)",
-      "Glandula submandibular (profunda ao platisma)",
-      "Nervo marginal mandibular (cruza profundamente)"
+      "Glândula submandíbular (profunda ao platisma)",
+      "Nervo marginal mandíbular (cruza profundamente)"
     ],
-    "surgical_relevance": "O manejo do platisma e componente essencial do facelift cervical. Opcoes incluem: platismaplastia anterior (plicatura das bordas mediais), suturas seletivas (individualizadas por grau de ptose), transeccao completa (melhora significativa do angulo cervicomental) e suspensao completa como extensao do deep plane. A escolha depende do grau de ptose e diastase do platisma.",
-    "how_to_identify": "Musculo fino, largo e rosa-palido logo abaixo da gordura subcutanea do pescoco. As bandas platismais sao visiveis clinicamente como cordoes verticais no pescoco anterior. Intraoperatoriamente, aparece apos elevacao do retalho cutaneo cervical.",
+    "surgical_relevance": "O manejo do platisma e componente essencial do facelift cervical. Opcoes incluem: platismaplastia anterior (plicatura das bordas mediais), suturas seletivas (individualizadas por grau de ptose), transeccao completa (melhora significativa do ângulo cervicomental) e suspensao completa como extensão do deep plane. A escolha depende do grau de ptose e diástase do platisma.",
+    "how_to_identify": "Músculo fino, largo e rosa-palido logo abaixo da gordura subcutânea do pescoco. As bandas platismais sao visiveis clinicamente como cordoes verticais no pescoco anterior. Intraoperatoriamente, aparece após elevação do retalho cutâneo cervical.",
     "images": [],
     "citations": [
       "Neligan, 2023, vol. 2, cap. 11",

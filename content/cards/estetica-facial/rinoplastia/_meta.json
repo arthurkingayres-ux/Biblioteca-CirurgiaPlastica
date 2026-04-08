@@ -1,6 +1,6 @@
 {
   "topic": "rinoplastia",
-  "area": "estetica-facial",
+  "area": "estética-facial",
   "displayName": "Rinoplastia",
   "version": "v1.0",
   "date": "2026-04-07",
@@ -27,7 +27,7 @@
   ],
   "cardCounts": {
     "anatomia": 16,
-    "tecnicas": 17,
+    "técnicas": 17,
     "decisoes": 4,
     "notas": 10,
     "flashcards": 67

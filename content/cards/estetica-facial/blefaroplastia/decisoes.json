@@ -4,8 +4,8 @@
     "type": "decision",
     "title": "Escolha de Técnica para Correção de Ptose",
     "topic": "blefaroplastia",
-    "area": "estetica-facial",
-    "trigger": "Paciente com ptose palpebral (MRD1 < 4 mm) avaliado para correção cirúrgica.",
+    "area": "estética-facial",
+    "trigger": "Paciente com ptose pálpebral (MRD1 < 4 mm) avaliado para correção cirúrgica.",
     "steps": [
       {
         "question": "Qual a função do LPS (excursão do levator da infraversão à supraversão máxima, bloqueando frontal)?",
@@ -68,7 +68,7 @@
     "type": "decision",
     "title": "Blefaroplastia Inferior: Transconjuntival vs. Transcutânea",
     "topic": "blefaroplastia",
-    "area": "estetica-facial",
+    "area": "estética-facial",
     "trigger": "Paciente com queixa de bolsas ou excesso de pele na pálpebra inferior avaliado para blefaroplastia inferior.",
     "steps": [
       {
@@ -141,7 +141,7 @@
     "type": "decision",
     "title": "Diagnóstico Diferencial da Pálpebra Pesada",
     "topic": "blefaroplastia",
-    "area": "estetica-facial",
+    "area": "estética-facial",
     "trigger": "Paciente queixa-se de 'pálpebra pesada' ou aparência cansada/envelhecida do terço superior da face.",
     "steps": [
       {
@@ -162,11 +162,11 @@
         ]
       },
       {
-        "question": "Avaliar MRD1 (distância margem-reflexo). Há ptose palpebral?",
+        "question": "Avaliar MRD1 (distância margem-reflexo). Há ptose pálpebral?",
         "options": [
           {
             "answer": "MRD1 ≥ 4 mm (normal)",
-            "next": "Sem ptose palpebral. Dermatocálase e/ou ptose de sobrancelha conforme avaliação anterior."
+            "next": "Sem ptose pálpebral. Dermatocálase e/ou ptose de sobrancelha conforme avaliação anterior."
           },
           {
             "answer": "MRD1 < 4 mm (ptose presente)",
@@ -210,7 +210,7 @@
     "type": "decision",
     "title": "Avaliação do Vetor Orbitário",
     "topic": "blefaroplastia",
-    "area": "estetica-facial",
+    "area": "estética-facial",
     "trigger": "Avaliação pré-operatória de blefaroplastia inferior para determinar risco de ectrópio e scleral show.",
     "steps": [
       {

@@ -2,27 +2,27 @@
   {
     "id": "oto-tec-001",
     "type": "technique",
-    "title": "Tecnica de Mustarde (Suturas para Anti-helice)",
+    "title": "Técnica de Mustarde (Suturas para Anti-helice)",
     "aliases": [
       "Mustarde otoplasty",
       "sutura de Mustarde",
       "otoplastia por suturas"
     ],
     "topic": "otoplastia",
-    "area": "estetica-facial",
+    "area": "estética-facial",
     "indication": "Orelha em abano por anti-helice hipoplasica ou ausente (~60% dos casos). Cartilagem maleavel (ideal em criancas). Pode ser combinada com Furnas quando ha componente de concha.",
-    "contraindication": "Cartilagem muito rigida (adultos com cartilagem espessa) pode ter maior taxa de recidiva apenas com suturas. Considerar tecnicas de escarificacao associadas nesses casos.",
+    "contraindication": "Cartilagem muito rigida (adultos com cartilagem espessa) pode ter maior taxa de recidiva apenas com suturas. Considerar técnicas de escarificação associadas nesses casos.",
     "steps": [
-      "1. Marcacao pre-operatoria: identificar a anti-helice desejada com agulhas de insulina pela face anterior, marcando os pontos de referencia na face posterior.",
-      "2. Anestesia local com lidocaina 2% + epinefrina 1:100.000. Infiltracao em ambas as faces da orelha.",
-      "3. Incisao eliptica na face posterior do pavilhao auricular.",
-      "4. Disseccao da pele posterior ate expor a cartilagem.",
+      "1. Marcação pré-operatória: identificar a anti-helice desejada com agulhas de insulina pela face anterior, marcando os pontos de referencia na face posterior.",
+      "2. Anestesia local com lidocaina 2% + epinefrina 1:100.000. Infiltração em ambas as faces da orelha.",
+      "3. Incisão eliptica na face posterior do pavilhão auricular.",
+      "4. Dissecção da pele posterior ate expor a cartilagem.",
       "5. Suturas permanentes horizontais de colchoeiro (mattress sutures) com Prolene ou Nylon incolor na cartilagem auricular posterior, criando a dobra da anti-helice.",
-      "6. Ajuste da tensao das suturas ate obter o angulo cefaloauricular desejado (25-35 graus).",
-      "7. Sem escarificacao obrigatoria da cartilagem.",
-      "8. Resseccao do excesso de pele posterior se necessario.",
+      "6. Ajuste da tensão das suturas ate obter o ângulo cefaloauricular desejado (25-35 graus).",
+      "7. Sem escarificação obrigatoria da cartilagem.",
+      "8. Ressecção do excesso de pele posterior se necessário.",
       "9. Fechamento da pele com suturas absorviveis.",
-      "10. Curativo compressivo moldante por 7-10 dias. Faixa elastica noturna por 4-6 semanas."
+      "10. Curativo compressivo moldante por 7-10 dias. Faixa elástica noturna por 4-6 semanas."
     ],
     "complications": [
       "Extrusao de sutura (1-6%)",
@@ -31,9 +31,9 @@
       "Irregularidades de contorno (sharp edges)"
     ],
     "pearls": [
-      "Sem escarificacao obrigatoria da cartilagem - a moldagem e feita apenas pelas suturas.",
+      "Sem escarificação obrigatoria da cartilagem - a moldagem e feita apenas pelas suturas.",
       "Indicada em criancas com cartilagem maleavel - melhor resposta a moldagem por sutura.",
-      "O ajuste da tensao das suturas deve ser feito com o paciente sentado para avaliar simetria."
+      "O ajuste da tensão das suturas deve ser feito com o paciente sentado para avaliar simetria."
     ],
     "images": [],
     "citations": [
@@ -42,7 +42,7 @@
     ],
     "updates": [],
     "tags": [
-      "tecnica",
+      "técnica",
       "mustarde",
       "sutura",
       "anti-helice",
@@ -52,34 +52,34 @@
   {
     "id": "oto-tec-002",
     "type": "technique",
-    "title": "Tecnica de Furnas (Sutura Concha-Mastoide)",
+    "title": "Técnica de Furnas (Sutura Concha-Mastoide)",
     "aliases": [
       "Furnas otoplasty",
       "sutura conchomastoidea",
       "conchal setback"
     ],
     "topic": "otoplastia",
-    "area": "estetica-facial",
-    "indication": "Orelha em abano por concha hiperdesenvolvida (concha profunda, ~20% dos casos). Reduz projecao fixando a concha ao periósteo mastoideo.",
-    "contraindication": "Nao indicada isoladamente quando a causa e anti-helice hipoplasica. Cuidado com excesso de tensao — pode causar distorcao do MAE (Meato Acustico Externo).",
+    "area": "estética-facial",
+    "indication": "Orelha em abano por concha hiperdesenvolvida (concha profunda, ~20% dos casos). Reduz projeção fixando a concha ao periósteo mastoideo.",
+    "contraindication": "Nao indicada isoladamente quando a causa e anti-helice hipoplasica. Cuidado com excesso de tensão — pode causar distorcao do MAE (Meato Acústico Externo).",
     "steps": [
-      "1. Abordagem posterior: incisao na face posterior do pavilhao.",
-      "2. Disseccao ate expor a concha e o periósteo mastoideo.",
+      "1. Abordagem posterior: incisão na face posterior do pavilhão.",
+      "2. Dissecção ate expor a concha e o periósteo mastoideo.",
       "3. Colocacao de 2-3 suturas permanentes (Prolene ou Nylon) entre a cartilagem conchal e o periósteo mastoideo.",
-      "4. Reducao progressiva da projecao da concha com ajuste da tensao.",
-      "5. Verificar que nao ha estreitamento do MAE (Meato Acustico Externo) apos tensionamento.",
+      "4. Redução progressiva da projeção da concha com ajuste da tensão.",
+      "5. Verificar que nao ha estreitamento do MAE (Meato Acústico Externo) após tensionamento.",
       "6. Fechamento da pele posterior.",
       "7. Curativo compressivo."
     ],
     "complications": [
-      "Distorcao do MAE (Meato Acustico Externo) por tensao excessiva",
+      "Distorcao do MAE (Meato Acústico Externo) por tensão excessiva",
       "Extrusao de sutura",
       "Assimetria"
     ],
     "pearls": [
-      "Frequentemente combinada com Mustarde (tecnica combinada em 78% dos casos na serie de Belfast).",
-      "Evitar excesso de tensao — risco de distorcao do MAE (Meato Acustico Externo).",
-      "Verificar permeabilidade do canal auditivo externo apos fixacao."
+      "Frequentemente combinada com Mustarde (técnica combinada em 78% dos casos na serie de Belfast).",
+      "Evitar excesso de tensão — risco de distorcao do MAE (Meato Acústico Externo).",
+      "Verificar permeabilidade do canal auditivo externo após fixação."
     ],
     "images": [],
     "citations": [
@@ -91,14 +91,14 @@
         "color": "blue",
         "title": "Otoplastia - experiencia de Belfast: 2333 orelhas em 10 anos",
         "content": [
-          "McGarry et al. (2023): revisao retrospectiva de 2333 orelhas. Tecnica combinada (Mustarde + Furnas) em 78%. Taxa de revisao: 5,1%. Principais causas: assimetria (2,3%), recidiva (1,8%), extrusao (1%). Satisfacao geral: 94,2%."
+          "McGarry et al. (2023): revisão retrospectiva de 2333 orelhas. Técnica combinada (Mustarde + Furnas) em 78%. Taxa de revisão: 5,1%. Principais causas: assimetria (2,3%), recidiva (1,8%), extrusao (1%). Satisfacao geral: 94,2%."
         ],
         "citation": "McGarry KM et al. Plast Reconstr Surg 2023;151(3):388e-397e. DOI: 10.1097/PRS.0000000000009908",
         "paradigm_shift": false
       }
     ],
     "tags": [
-      "tecnica",
+      "técnica",
       "furnas",
       "concha",
       "mastoide",
@@ -111,17 +111,17 @@
     "title": "Otoplastia Poupadora de Cartilagem (Cartilage-Sparing)",
     "aliases": [
       "cartilage-sparing otoplasty",
-      "otoplastia sem incisao de cartilagem"
+      "otoplastia sem incisão de cartilagem"
     ],
     "topic": "otoplastia",
-    "area": "estetica-facial",
-    "indication": "Orelha em abano leve a moderada. Pacientes que desejam abordagem minimamente invasiva. Cartilagem maleavel.",
-    "contraindication": "Deformidade severa com cartilagem muito rigida. Concha muito hipertrofica que necessita resseccao.",
+    "area": "estética-facial",
+    "indication": "Orelha em abano leve a moderada. Pacientes que desejam abordagem mínimamente invasiva. Cartilagem maleavel.",
+    "contraindication": "Deformidade severa com cartilagem muito rigida. Concha muito hipertrofica que necessita ressecção.",
     "steps": [
-      "1. Sem incisao ou escarificacao de cartilagem.",
-      "2. Suturas percutaneas de Prolene para criar a anti-helice.",
-      "3. Combinacao com sutura concha-mastoide (Furnas) quando necessario.",
-      "4. Ajuste de tensao sob visao direta pela incisao posterior minima.",
+      "1. Sem incisão ou escarificação de cartilagem.",
+      "2. Suturas percutâneas de Prolene para criar a anti-helice.",
+      "3. Combinacao com sutura concha-mastoide (Furnas) quando necessário.",
+      "4. Ajuste de tensão sob visao direta pela incisão posterior mínima.",
       "5. Fechamento e curativo compressivo."
     ],
     "complications": [
@@ -129,7 +129,7 @@
       "Extrusao de sutura"
     ],
     "pearls": [
-      "Abordagem mais conservadora - sem incisao ou escarificacao de cartilagem.",
+      "Abordagem mais conservadora - sem incisão ou escarificação de cartilagem.",
       "Serie piloto de 24 orelhas com 91% de satisfacao em 18 meses."
     ],
     "images": [],
@@ -139,38 +139,38 @@
     "updates": [
       {
         "color": "blue",
-        "title": "Abordagem poupadora de cartilagem - nova tecnica",
+        "title": "Abordagem poupadora de cartilagem - nova técnica",
         "content": [
-          "Benkler et al. (2023): otoplastia sem incisao ou escarificacao de cartilagem. Apenas suturas percutaneas de Prolene combinadas com sutura concha-mastoide. Serie piloto de 24 orelhas (18 meses): 91% satisfacao; 4% recidiva."
+          "Benkler et al. (2023): otoplastia sem incisão ou escarificação de cartilagem. Apenas suturas percutâneas de Prolene combinadas com sutura concha-mastoide. Serie piloto de 24 orelhas (18 meses): 91% satisfacao; 4% recidiva."
         ],
         "citation": "Benkler M et al. Plast Reconstr Surg 2023;152(4):689e-692e. DOI: 10.1097/PRS.0000000000010401",
         "paradigm_shift": false
       }
     ],
     "tags": [
-      "tecnica",
+      "técnica",
       "cartilage-sparing",
-      "minimamente-invasiva",
+      "mínimamente-invasiva",
       "otoplastia"
     ]
   },
   {
     "id": "oto-tec-004",
     "type": "technique",
-    "title": "Prevencao de Extrusao com Retalho Dermofascial Pos-Auricular",
+    "title": "Prevenção de Extrusao com Retalho Dermofáscial Pos-Auricular",
     "aliases": [
-      "dermofascial flap otoplasty",
-      "retalho dermofascial de Bulstrode"
+      "dermofáscial flap otoplasty",
+      "retalho dermofáscial de Bulstrode"
     ],
     "topic": "otoplastia",
-    "area": "estetica-facial",
-    "indication": "Adjunto a qualquer tecnica de otoplastia por suturas (Mustarde, Furnas ou combinada) para prevenir extrusao de suturas. Especialmente indicado em pacientes com pele fina pos-auricular.",
-    "contraindication": "Nao ha contraindicacoes absolutas especificas ao retalho. Pode adicionar tempo cirurgico.",
+    "area": "estética-facial",
+    "indication": "Adjunto a qualquer técnica de otoplastia por suturas (Mustarde, Furnas ou combinada) para prevenir extrusao de suturas. Especialmente indicado em pacientes com pele fina pos-auricular.",
+    "contraindication": "Nao ha contraindicações absolutas especificas ao retalho. Pode adicionar tempo cirúrgico.",
     "steps": [
-      "1. Apos colocacao das suturas de cartilagem (Mustarde e/ou Furnas), antes do fechamento cutaneo.",
-      "2. Elevacao de retalho dermofascial da pele pos-auricular.",
-      "3. Posicionamento do retalho como cobertura sobre os nos das suturas de cartilagem, criando um 'bolso' de protecao.",
-      "4. Fixacao do retalho com suturas absorviveis.",
+      "1. Após colocacao das suturas de cartilagem (Mustarde e/ou Furnas), antes do fechamento cutâneo.",
+      "2. Elevação de retalho dermofáscial da pele pos-auricular.",
+      "3. Posicionamento do retalho como cobertura sobre os nos das suturas de cartilagem, criando um 'bolso' de proteção.",
+      "4. Fixação do retalho com suturas absorviveis.",
       "5. Fechamento da pele pos-auricular sobre o retalho.",
       "6. Curativo compressivo habitual."
     ],
@@ -189,46 +189,46 @@
     "updates": [
       {
         "color": "blue",
-        "title": "Retalho dermofascial pos-auricular para cobrir suturas - refinamento tecnico",
+        "title": "Retalho dermofáscial pos-auricular para cobrir suturas - refinamento técnico",
         "content": [
-          "Bulstrode et al. (2024): retalho dermofascial pos-auricular usado para cobrir as suturas de cartilagem, criando 'bolso' de protecao. Serie de 340 orelhas: extrusao de 0% vs. 5,8% historico do mesmo cirurgiao."
+          "Bulstrode et al. (2024): retalho dermofáscial pos-auricular usado para cobrir as suturas de cartilagem, criando 'bolso' de proteção. Serie de 340 orelhas: extrusao de 0% vs. 5,8% historico do mesmo cirurgiao."
         ],
         "citation": "Bulstrode NW et al. Plast Reconstr Surg 2024;154(6):1191e-1199e. DOI: 10.1097/PRS.0000000000011342",
         "paradigm_shift": false
       }
     ],
     "tags": [
-      "tecnica",
-      "retalho-dermofascial",
-      "prevencao-extrusao",
+      "técnica",
+      "retalho-dermofáscial",
+      "prevenção-extrusao",
       "otoplastia"
     ]
   },
   {
     "id": "oto-tec-005",
     "type": "technique",
-    "title": "Prevencao de Extrusao com Enxerto de Tecido Mole Livre",
+    "title": "Prevenção de Extrusao com Enxerto de Tecido Mole Livre",
     "aliases": [
       "free soft tissue graft otoplasty",
       "enxerto mole livre de Alzayadneh"
     ],
     "topic": "otoplastia",
-    "area": "estetica-facial",
-    "indication": "Adjunto a qualquer tecnica de otoplastia por suturas para prevenir extrusao. Alternativa ao retalho dermofascial.",
-    "contraindication": "Nao ha contraindicacoes absolutas especificas.",
+    "area": "estética-facial",
+    "indication": "Adjunto a qualquer técnica de otoplastia por suturas para prevenir extrusao. Alternativa ao retalho dermofáscial.",
+    "contraindication": "Nao ha contraindicações absolutas especificas.",
     "steps": [
-      "1. Apos colocacao das suturas de cartilagem, antes do fechamento cutaneo.",
-      "2. Coleta de enxerto livre de tecido mole (pele e subcutaneo excedentes da propria incisao pos-auricular).",
-      "3. Interposicao do enxerto entre o no da sutura e o pericondrio.",
-      "4. Fixacao do enxerto com sutura absorvivel.",
-      "5. Fechamento cutaneo habitual.",
+      "1. Após colocacao das suturas de cartilagem, antes do fechamento cutâneo.",
+      "2. Coleta de enxerto livre de tecido mole (pele e subcutâneo excedentes da propria incisão pos-auricular).",
+      "3. Interposição do enxerto entre o no da sutura e o pericondrio.",
+      "4. Fixação do enxerto com sutura absorvivel.",
+      "5. Fechamento cutâneo habitual.",
       "6. Curativo compressivo."
     ],
     "complications": [
-      "Reabsorcao parcial do enxerto (sem impacto clinico relatado)"
+      "Reabsorção parcial do enxerto (sem impacto clinico relatado)"
     ],
     "pearls": [
-      "Utiliza tecido descartado da propria incisao - sem morbidade de area doadora adicional.",
+      "Utiliza tecido descartado da propria incisão - sem morbidade de area doadora adicional.",
       "Serie de 58 orelhas: zero extrusao em 24 meses vs. 8,6% no grupo controle historico."
     ],
     "images": [],
@@ -238,18 +238,18 @@
     "updates": [
       {
         "color": "blue",
-        "title": "Prevencao de extrusao de suturas - enxerto de tecido mole livre",
+        "title": "Prevenção de extrusao de suturas - enxerto de tecido mole livre",
         "content": [
-          "Alzayadneh et al. (2022): interposicao de enxerto livre de tecido mole entre sutura e pericondrio. Serie de 58 orelhas: zero extrusao em 24 meses vs. 8,6% no grupo controle historico."
+          "Alzayadneh et al. (2022): interposição de enxerto livre de tecido mole entre sutura e pericondrio. Serie de 58 orelhas: zero extrusao em 24 meses vs. 8,6% no grupo controle historico."
         ],
         "citation": "Alzayadneh I et al. Aesthet Surg J 2022;42(9):NP571-NP575. DOI: 10.1093/asj/sjac079",
         "paradigm_shift": false
       }
     ],
     "tags": [
-      "tecnica",
+      "técnica",
       "enxerto-tecido-mole",
-      "prevencao-extrusao",
+      "prevenção-extrusao",
       "otoplastia"
     ]
   },
@@ -264,19 +264,19 @@
       "Auri"
     ],
     "topic": "otoplastia",
-    "area": "estetica-facial",
+    "area": "estética-facial",
     "indication": "Orelha em abano ou deformidades auriculares congenitas leves a moderadas diagnosticadas nas primeiras 6 semanas de vida. Aproveita a maleabilidade da cartilagem neonatal sob influencia do estrogenio materno.",
-    "contraindication": "Inicio apos 6 semanas de vida (cartilagem ja enrijecida). Deformidades severas (microtia, anotia). Condicoes que impedem uso de dispositivo (dermatite, infeccao local).",
+    "contraindication": "Inicio após 6 semanas de vida (cartilagem ja enrijecida). Deformidades severas (microtia, anotia). Condicoes que impedem uso de dispositivo (dermatite, infecção local).",
     "steps": [
       "1. Diagnostico precoce da deformidade auricular (idealmente na maternidade).",
       "2. Aplicacao do dispositivo de moldagem (EarWell, Auri ou similar) nas primeiras 1-2 semanas de vida.",
-      "3. Moldagem continua por 4-6 semanas.",
-      "4. Reavaliacao semanal para ajuste do dispositivo.",
-      "5. Remocao do dispositivo apos obtencao da forma desejada.",
+      "3. Moldagem contínua por 4-6 semanas.",
+      "4. Reavaliação semanal para ajuste do dispositivo.",
+      "5. Remocao do dispositivo após obtencao da forma desejada.",
       "6. Monitoramento de recidiva nos primeiros 6 meses."
     ],
     "complications": [
-      "Irritacao cutanea sob o dispositivo",
+      "Irritacao cutânea sob o dispositivo",
       "Recidiva parcial (raro quando iniciada precocemente)",
       "Ulceracao de pressao (raro)"
     ],
@@ -284,7 +284,7 @@
       "Taxa de sucesso > 90% quando iniciada antes de 6 semanas de vida.",
       "A eficacia depende da janela de oportunidade: estrogenio materno mantem a cartilagem maleavel nas primeiras semanas.",
       "Evita cirurgia em casos de orelha em abano leve-moderada.",
-      "Custo-efetiva: tratamento nao cirurgico ambulatorial, sem anestesia."
+      "Custo-efetiva: tratamento nao cirúrgico ambulatorial, sem anestesia."
     ],
     "images": [],
     "citations": [
@@ -292,10 +292,10 @@
     ],
     "updates": [],
     "tags": [
-      "tecnica",
+      "técnica",
       "moldagem-neonatal",
       "EarWell",
-      "nao-cirurgica",
+      "nao-cirúrgica",
       "otoplastia"
     ]
   }

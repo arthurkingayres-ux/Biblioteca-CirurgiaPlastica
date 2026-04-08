@@ -2,25 +2,25 @@
   {
     "id": "oto-anat-001",
     "type": "anatomy",
-    "title": "Pavilhao Auricular - Estrutura e Dimensoes Normais",
+    "title": "Pavilhão Auricular - Estrutura e Dimensões Normais",
     "aliases": [
       "orelha externa",
       "auricula",
       "pinna"
     ],
     "topic": "otoplastia",
-    "area": "estetica-facial",
-    "definition": "O pavilhao auricular e uma estrutura de cartilagem elastica coberta por pele fina e aderente na face anterior, e pele mais espessa e movel na face posterior. Atinge ~85% do tamanho adulto aos 5-6 anos de idade, o que define a idade minima para otoplastia. Dimensoes adultas: altura ~6 cm, largura ~3,5 cm.",
-    "location": "Face lateral do cranio, entre a articulacao temporomandibular (ATM) anteriormente e o processo mastoide posteriormente. O MAE (Meato Acustico Externo) localiza-se na porcao central.",
+    "area": "estética-facial",
+    "definition": "O pavilhão auricular e uma estrutura de cartilagem elástica coberta por pele fina e aderente na face anterior, e pele mais espessa e móvel na face posterior. Atinge ~85% do tamanho adulto aos 5-6 anos de idade, o que define a idade mínima para otoplastia. Dimensões adultas: altura ~6 cm, largura ~3,5 cm.",
+    "location": "Face lateral do crânio, entre a articulação temporomandíbular (ATM) anteriormente e o processo mastoide posteriormente. O MAE (Meato Acústico Externo) localiza-se na porção central.",
     "relations": [
-      "Meato Acustico Externo (MAE)",
+      "Meato Acústico Externo (MAE)",
       "Processo mastoide",
-      "Articulacao temporomandibular (ATM)",
+      "Articulação temporomandíbular (ATM)",
       "Nervo auricular maior (ramo do plexo cervical, C2-C3)",
-      "Nervo auriculotemporal (ramo do V3 - nervo mandibular)"
+      "Nervo auriculotemporal (ramo do V3 - nervo mandíbular)"
     ],
-    "surgical_relevance": "O angulo cefaloauricular normal e de 25-35 graus. Projecao helice-mastoide: 10-12 mm (superior), 16-18 mm (medio), 20-22 mm (inferior). Valores acima desses indicam orelha em abano. A idade minima para otoplastia (5-6 anos) e determinada pelo grau de desenvolvimento do pavilhao.",
-    "how_to_identify": "Estrutura cartilaginea proeminente na regiao temporal lateral. Marcos anatomicos de superficie: helice (borda superior enrolada), anti-helice (crista paralela interna), tragus (protuberancia anterior ao MAE), antitragus (protuberancia inferior oposta ao tragus), lobulo (porcao inferior sem cartilagem), concha (depressao central dividida em cymba e cavum pelo crus helicis).",
+    "surgical_relevance": "O ângulo cefaloauricular normal e de 25-35 graus. Projeção helice-mastoide: 10-12 mm (superior), 16-18 mm (médio), 20-22 mm (inferior). Valores acima desses indicam orelha em abano. A idade mínima para otoplastia (5-6 anos) e determinada pelo grau de desenvolvimento do pavilhão.",
+    "how_to_identify": "Estrutura cartilaginosa proeminente na região temporal lateral. Marcos anatômicos de superfície: helice (borda superior enrolada), anti-helice (crista paralela interna), tragus (protuberância anterior ao MAE), antitragus (protuberância inferior oposta ao tragus), lóbulo (porção inferior sem cartilagem), concha (depressão central dividida em cymba e cavum pelo crus helicis).",
     "images": [],
     "citations": [
       "Neligan, 2023, vol. 3, cap. 28",
@@ -29,10 +29,10 @@
     "updates": [],
     "tags": [
       "anatomia",
-      "pavilhao-auricular",
+      "pavilhão-auricular",
       "orelha",
-      "dimensoes",
-      "angulo-cefaloauricular"
+      "dimensões",
+      "ângulo-cefaloauricular"
     ]
   },
   {
@@ -40,20 +40,20 @@
     "type": "anatomy",
     "title": "Cartilagem Auricular",
     "aliases": [
-      "cartilagem elastica auricular",
+      "cartilagem elástica auricular",
       "cartilagem da orelha"
     ],
     "topic": "otoplastia",
-    "area": "estetica-facial",
-    "definition": "A cartilagem auricular e do tipo elastica (nao hialina), com nutricao exclusivamente por difusao atraves do pericondrio. Hematoma subpericondral nao drenado causa pericondrite e fibrose, resultando em deformidade tipo orelha em couve-flor (cauliflower ear). Obedece ao Principio de Gibson: escarificacao da superficie convexa causa curvatura da cartilagem para o lado escarificado, por liberacao de tensoes intrinsecas.",
-    "location": "Forma o arcabouco estrutural de todo o pavilhao auricular, exceto o lobulo (tecido fibroadiposo). A cartilagem e contínua em uma unica peca, com dobras que formam a helice, anti-helice, crus superior e inferior, tragus e antitragus.",
+    "area": "estética-facial",
+    "definition": "A cartilagem auricular e do tipo elástica (nao hialina), com nutrição exclusivamente por difusao através do pericondrio. Hematoma subpericondral nao drenado causa pericondrite e fibrose, resultando em deformidade tipo orelha em couve-flor (cauliflower ear). Obedece ao Princípio de Gibson: escarificação da superfície convexa causa curvatura da cartilagem para o lado escarificado, por liberacao de tensoes intrínsecas.",
+    "location": "Forma o arcabouço estrutural de todo o pavilhão auricular, exceto o lóbulo (tecido fibroadiposo). A cartilagem e contínua em uma única peca, com dobras que formam a helice, anti-helice, crus superior e inferior, tragus e antitragus.",
     "relations": [
       "Pericondrio (membrana vascularizada que nutre a cartilagem)",
-      "Pele auricular (anterior: fina e aderente; posterior: mais espessa e movel)",
-      "Musculatura intrinseca auricular (vestigial)"
+      "Pele auricular (anterior: fina e aderente; posterior: mais espessa e móvel)",
+      "Musculatura intrínseca auricular (vestigial)"
     ],
-    "surgical_relevance": "Fundamento de todas as tecnicas de otoplastia: (1) Tecnicas de sutura (Mustarde) moldam a cartilagem sem cortá-la; (2) Tecnicas de escarificacao (Stenstrom) usam o Principio de Gibson para criar curvatura; (3) A nutricao por difusao via pericondrio torna a drenagem de hematomas urgente para prevenir necrose. O pericondrio deve ser preservado sempre que possivel.",
-    "how_to_identify": "Palpacao firme mas flexivel do pavilhao auricular. Transluminacao com lanterna mostra a cartilagem como sombra. Ausencia de cartilagem no lobulo (macio, depressivel).",
+    "surgical_relevance": "Fundamento de todas as técnicas de otoplastia: (1) Técnicas de sutura (Mustarde) moldam a cartilagem sem cortá-la; (2) Técnicas de escarificação (Stenstrom) usam o Princípio de Gibson para criar curvatura; (3) A nutrição por difusao via pericondrio torna a drenagem de hematomas urgente para prevenir necrose. O pericondrio deve ser preservado sempre que possível.",
+    "how_to_identify": "Palpacao firme mas flexivel do pavilhão auricular. Transluminação com lanterna mostra a cartilagem como sombra. Ausencia de cartilagem no lóbulo (macio, depressivel).",
     "images": [],
     "citations": [
       "Neligan, 2023, vol. 3, cap. 28"
@@ -64,7 +64,7 @@
       "cartilagem",
       "pericondrio",
       "gibson",
-      "escarificacao"
+      "escarificação"
     ]
   }
 ]

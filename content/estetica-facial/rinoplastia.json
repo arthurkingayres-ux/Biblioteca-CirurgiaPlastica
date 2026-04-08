@@ -39,7 +39,7 @@
       "Sergesketter AR et al. Aspects and Concepts of What I Preserve in Rhinoplasty. Plast Reconstr Surg 2026;157(4):496e–503e.",
       "Mattos D et al. Positioning the Nasal Tip in Rhinoplasty. Plast Reconstr Surg 2025;156(4):606e–615e.",
       "Şibar S et al. Scalpel vs Electrocautery for Upper Lateral Cartilage Contouring in Dorsal Preservation Rhinoplasty. Aesthet Surg J 2025;46(1):16–23.",
-      "Niu K et al. Diced Cartilage Grafts Semi-wrapped in Rectus Abdominis Fascia for Nasal Dorsum Augmentation. Aesthet Surg J 2025;46(1):24–30.",
+      "Niu K et al. Diced Cartilage Grafts Semi-wrapped in Rectus Abdominis Fáscia for Nasal Dorsum Augmentation. Aesthet Surg J 2025;46(1):24–30.",
       "Duan Y et al. Integrated Biomimetic Groove Graft for Moderate-to-Severe Saddle-Nose Deformity Correction. Aesthet Surg J 2025;45(11):1115–1124.",
       "Di Martino L et al. Local Tranexamic Acid vs Placebo in Septorhinoplasty: A Systematic Review and Meta-analysis. Aesthet Surg J 2025;45(12):1220–1226.",
       "Kwan E et al. Thirty-Year Experience in Augmentation Rhinoplasty Using Silicone Implants. Aesthet Surg J 2025;45(9):887–892.",
@@ -56,7 +56,7 @@
     },
     {
       "type": "paragraph",
-      "text": "A rinoplastia é considerada o procedimento mais tecnicamente exigente da cirurgia plástica estética. Requer domínio simultâneo de anatomia tridimensional complexa, análise estética subjetiva, fisiologia das vias aéreas e compreensão das consequências cicatriciais a curto e longo prazo. Pode ser realizada por via aberta (transcolumelar) ou fechada (endonasal), cada abordagem com indicações, vantagens e limitações específicas. A evolução da rinoplastia ao longo das últimas três décadas afastou-se das técnicas ablativas com redução excessiva do arcabouço osseocartilaginoso, em direção à preservação da anatomia nativa, uso de enxertos cartilaginosos e técnicas de sutura para correção de deformidades e restauração do suporte estrutural.",
+      "text": "A rinoplastia é considerada o procedimento mais técnicamente exigente da cirurgia plástica estética. Requer domínio simultâneo de anatomia tridimensional complexa, análise estética subjetiva, fisiologia das vias aéreas e compreensão das consequências cicatriciais a curto e longo prazo. Pode ser realizada por via aberta (transcolumelar) ou fechada (endonasal), cada abordagem com indicações, vantagens e limitações específicas. A evolução da rinoplastia ao longo das últimas três décadas afastou-se das técnicas ablativas com redução excessiva do arcabouço ósseocartilaginoso, em direção à preservação da anatomia nativa, uso de enxertos cartilaginosos e técnicas de sutura para correção de deformidades e restauração do suporte estrutural.",
       "citation": "Neligan, 2023, vol. 2, cap. 18–19"
     },
     {
@@ -75,13 +75,27 @@
       "citation": "Neligan, 2023, vol. 2, cap. 18"
     },
     {
+      "type": "figure",
+      "image": "fig18-1-terminologia-nasal.jpeg",
+      "widthCm": 16,
+      "heightCm": 5.4,
+      "caption": "Figura — Terminologia padronizada da anatomia nasal externa (Neligan, 2023, vol. 2, cap. 18)."
+    },
+    {
+      "type": "figure",
+      "image": "fig18-25-tres-abobadas-nasais.jpeg",
+      "widthCm": 10,
+      "heightCm": 9.0,
+      "caption": "Figura — As três abóbadas nasais: superior (óssea), média (CLS) e inferior (CLA) (Neligan, 2023, vol. 2, cap. 18)."
+    },
+    {
       "type": "heading",
       "level": 2,
-      "text": "2.1 Envelope de Partes Moles (SSTE)"
+      "text": "2.1 Envelope de Partes Moles (SSTE — Soft-Tissue Skin Envelope)"
     },
     {
       "type": "paragraph",
-      "text": "A pele nasal varia significativamente em espessura ao longo do nariz. É tipicamente mais fina e móvel superiormente, mais espessa ao redor da ponta nasal, mais fina sobre a junção osseocartilaginosa, e mais espessa sobre o nasion e a área supraponta. As características da pele — sebácea espessa vs. fina — influenciam diretamente o resultado e a recuperação. Pele espessa limita o grau de definição possível e prolonga o edema pós-operatório. Pele fina torna visíveis irregularidades sutis do arcabouço.",
+      "text": "A pele nasal varia significativamente em espessura ao longo do nariz. É típicamente mais fina e móvel superiormente, mais espessa ao redor da ponta nasal, mais fina sobre a junção ósseocartilaginosa, e mais espessa sobre o nasion e a área supraponta. As características da pele — sebácea espessa vs. fina — influenciam diretamente o resultado e a recuperação. Pele espessa limita o grau de definição possível e prolonga o edema pós-operatório. Pele fina torna visíveis irregularidades sutis do arcabouço.",
       "citation": "Neligan, 2023, vol. 2, cap. 19"
     },
     {
@@ -106,15 +120,8 @@
     },
     {
       "type": "paragraph",
-      "text": "A valva nasal interna é formada pelo ângulo entre a junção do septo nasal e a margem caudal das CLS, tipicamente de 10–15°. Essa valva é responsável por aproximadamente 50% da resistência total das vias aéreas. Alterações mínimas em seu calibre causam mudanças exponenciais no fluxo aéreo (lei de Poiseuille: fluxo ∝ r⁴). A remoção das CLS ou ressecção excessiva do septo pode causar colapso valvar; spreader grafts reconstituem o 'I-beam' e restauram a patência.",
+      "text": "A valva nasal interna é formada pelo ângulo entre a junção do septo nasal e a margem caudal das CLS, típicamente de 10–15°. Essa valva é responsável por aproximadamente 50% da resistência total das vias aéreas. Alterações mínimas em seu calibre causam mudanças exponenciais no fluxo aéreo (lei de Poiseuille: fluxo ∝ r⁴). A remoção das CLS ou ressecção excessiva do septo pode causar colapso valvar; spreader grafts reconstituem o 'I-beam' e restauram a patência.",
       "citation": "Neligan, 2023, vol. 2, caps. 18 e 21; Grabb & Smith, 2024, cap. 54"
-    },
-    {
-      "type": "figure",
-      "image": "fig18-25-tres-abobadas-nasais.jpeg",
-      "widthCm": 10,
-      "heightCm": 9.0,
-      "caption": "Figura — As três abóbadas nasais: superior (óssea), média (CLS) e inferior (CLA) (Neligan, 2023, vol. 2, cap. 18)."
     },
     {
       "type": "heading",
@@ -133,7 +140,7 @@
     },
     {
       "type": "figure",
-      "image": "fig18-24-arcabouco-cartilaginoso.jpeg",
+      "image": "fig18-24-arcabouço-cartilaginoso.jpeg",
       "widthCm": 10,
       "heightCm": 4.4,
       "caption": "Figura — Arcabouço cartilaginoso nasal, vista frontal: CLS e CLA em relação ao esqueleto ósseo (Neligan, 2023, vol. 2, cap. 18)."
@@ -192,7 +199,7 @@
     },
     {
       "type": "figure",
-      "image": "fig18-15-vascularizacao-nasal.jpeg",
+      "image": "fig18-15-vascularização-nasal.jpeg",
       "widthCm": 12,
       "heightCm": 9.5,
       "caption": "Figura — Vascularização nasal: contribuições dos ramos das artérias carótida interna e externa (Neligan, 2023, vol. 2, cap. 18)."
@@ -204,7 +211,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Os principais nervos sensitivos do nariz são ramos do trigêmeo: (1) Nervo infraorbital (V2): sai pelo forame infraorbital (~10–12 mm abaixo do rebordo orbitário) e emite múltiplos ramos para a base alar, lábio superior e parede nasal lateral. A confluência densa de ramos sensitivos de V2 na base alar torna a infiltração local nesse ponto ideal para anestesia da ponta nasal. As artérias alar e da soleira estão em contato direto com esses ramos sensitivos. (2) Nervo nasal externo (V1): ramo do etmoidal anterior, sai por um pequeno forame na porção média do osso nasal (~6–10 mm da linha média). A infiltração de anestésico local nesses dois pontos (base alar + dorso sobre o forame) resulta em anestesia quase completa da pele nasal.",
+      "text": "Os principais nervos sensitivos do nariz são ramos do trigêmeo: (1) Nervo infraórbital (V2): sai pelo forame infraórbital (~10–12 mm abaixo do rebordo orbitário) e emite múltiplos ramos para a base alar, lábio superior e parede nasal lateral. A confluência densa de ramos sensitivos de V2 na base alar torna a infiltração local nesse ponto ideal para anestesia da ponta nasal. As artérias alar e da soleira estão em contato direto com esses ramos sensitivos. (2) Nervo nasal externo (V1): ramo do etmoidal anterior, sai por um pequeno forame na porção média do osso nasal (~6–10 mm da linha média). A infiltração de anestésico local nesses dois pontos (base alar + dorso sobre o forame) resulta em anestesia quase completa da pele nasal.",
       "citation": "Neligan, 2023, vol. 2, cap. 18"
     },
     {
@@ -219,7 +226,7 @@
     },
     {
       "type": "figure",
-      "image": "fig18-20-musculos-nasais.jpeg",
+      "image": "fig18-20-músculos-nasais.jpeg",
       "widthCm": 10,
       "heightCm": 12.8,
       "caption": "Figura — Musculatura nasal intrínseca e extrínseca (Neligan, 2023, vol. 2, cap. 18)."
@@ -242,13 +249,6 @@
       "caption": "Figura — Cornetos nasais (superior, médio e inferior) e suas relações anatômicas (Neligan, 2023, vol. 2, cap. 18)."
     },
     {
-      "type": "figure",
-      "image": "fig18-1-terminologia-nasal.jpeg",
-      "widthCm": 16,
-      "heightCm": 5.4,
-      "caption": "Figura — Terminologia padronizada da anatomia nasal externa (Neligan, 2023, vol. 2, cap. 18)."
-    },
-    {
       "type": "heading",
       "level": 1,
       "text": "3. Análise Nasal e Planejamento Pré-operatório"
@@ -260,7 +260,7 @@
     },
     {
       "type": "paragraph",
-      "text": "A consulta inicial serve para: (1) obter história nasal completa — trauma, cirurgias prévias, alergias, rinite vasomotora, sinusite, uso de drogas (cocaína compromete resultados), medicamentos que aumentam sangramento (AAS, AINEs, óleo de peixe); (2) avaliar estabilidade emocional — diferenciar motivações saudáveis de insalubres (sentimentos de inadequação, imaturidade, conflitos familiares, divórcio); (3) identificar expectativas do paciente e classificá-las como realistas ou não. O acrônimo SYLVIA descreve o paciente ideal: Secure, Young, Listens, Verbal, Intelligent, Attractive. O acrônimo SIMON descreve o paciente inadequado: Single, Immature, Male, Overly expectant, Narcissistic.",
+      "text": "A consulta inicial serve para: (1) obter história nasal completa — trauma, cirurgias prévias, alergias, rinite vasomotora, sinusite, uso de drogas (cocaína compromete resultados), medicamentos que aumentam sangramento (ácido acetilsalicílico — AAS, anti-inflamatórios não esteroidais — AINEs, óleo de peixe); (2) avaliar estabilidade emocional — diferenciar motivações saudáveis de insalubres (sentimentos de inadequação, imaturidade, conflitos familiares, divórcio); (3) identificar expectativas do paciente e classificá-las como realistas ou não. O acrônimo SYLVIA descreve o paciente ideal: Secure, Young, Listens, Verbal, Intelligent, Attractive. O acrônimo SIMON descreve o paciente inadequado: Single, Immature, Male, Overly expectant, Narcissistic.",
       "citation": "Neligan, 2023, vol. 2, cap. 19; Core Procedures, 2020, cap. 4"
     },
     {
@@ -290,7 +290,7 @@
     },
     {
       "type": "figure",
-      "image": "diagrama-angulos-nasais.png",
+      "image": "diagrama-ângulos-nasais.png",
       "widthCm": 16,
       "heightCm": 12.5,
       "caption": "Figura — Ângulos nasais e valores de referência para análise pré-operatória."
@@ -312,7 +312,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Antes do exame interno, avaliar externamente: colapso da valva externa à inspiração profunda e teste de Cottle. O exame interno com espéculo nasal identifica: estreitamento ou colapso da valva interna com inspiração, hipertrofia de corneto inferior (tipicamente contralateral ao desvio septal), deformidades septais (desvio, tilt, esporões, perfurações), qualidade e quantidade de cartilagem septal disponível para enxerto. Em pacientes de revisão, um aplicador de algodão inserido ao longo do septo identifica step-off indicativo de coleta prévia. Pólipos ou tumores requerem investigação.",
+      "text": "Antes do exame interno, avaliar externamente: colapso da valva externa à inspiração profunda e teste de Cottle. O exame interno com espéculo nasal identifica: estreitamento ou colapso da valva interna com inspiração, hipertrofia de corneto inferior (típicamente contralateral ao desvio septal), deformidades septais (desvio, tilt, esporões, perfurações), qualidade e quantidade de cartilagem septal disponível para enxerto. Em pacientes de revisão, um aplicador de algodão inserido ao longo do septo identifica step-off indicativo de coleta prévia. Pólipos ou tumores requerem investigação.",
       "citation": "Neligan, 2023, vol. 2, cap. 19; Grabb & Smith, 2024, cap. 54"
     },
     {
@@ -500,7 +500,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Incisão transcolumelar stair-step (preferida por Rohrich): feita na parte mais estreita da columela (porção média), com lâmina 15, superficialmente para não lesionar as cruras mediais. Continua para dentro do vestíbulo nasal ao longo da borda caudal da crura medial. A ala é evertida com pressão digital contra double hook, e uma incisão separada inicia na borda caudal da crura lateral, conectando-se com a incisão medial, caudal à crura média. Outras opções de incisão columelar: V invertido e transversa. Incisão em broken-line pode produzir menor notching.",
+      "text": "Incisão transcolumelar stair-step (preferida por Rohrich): feita na parte mais estreita da columela (porção média), com lâmina 15, superficialmente para não lesionar as cruras mediais. Contínua para dentro do vestíbulo nasal ao longo da borda caudal da crura medial. A ala é evertida com pressão digital contra double hook, e uma incisão separada inicia na borda caudal da crura lateral, conectando-se com a incisão medial, caudal à crura média. Outras opções de incisão columelar: V invertido e transversa. Incisão em broken-line pode produzir menor notching.",
       "citation": "Neligan, 2023, vol. 2, cap. 19"
     },
     {
@@ -520,7 +520,7 @@
     },
     {
       "type": "paragraph",
-      "text": "A preservação das CLS durante a redução septal dorsal é fundamental: ressecção igual de septo e CLS causa arredondamento do dorso; ressecção excessiva das CLS causa deformidade em V invertido. Pacientes com ossos nasais curtos e arcabouço osseocartilaginoso alto e estreito têm maior risco de problemas na região do terço médio.",
+      "text": "A preservação das CLS durante a redução septal dorsal é fundamental: ressecção igual de septo e CLS causa arredondamento do dorso; ressecção excessiva das CLS causa deformidade em V invertido. Pacientes com ossos nasais curtos e arcabouço ósseocartilaginoso alto e estreito têm maior risco de problemas na região do terço médio.",
       "citation": "Neligan, 2023, vol. 2, cap. 19; Grabb & Smith, 2024, cap. 54"
     },
     {
@@ -567,12 +567,12 @@
     },
     {
       "type": "paragraph",
-      "text": "Indicada na obstrução por hipertrofia refratária ao tratamento clínico. Abordagem conservadora preferida para evitar sangramento, crostas, disfunção ciliar, infecção crônica, rinite atrófica e síndrome do nariz vazio (empty nose syndrome). Duas técnicas: (1) Outfracture (fratura lateral) — espéculo de Vienna microfratrura todo o corneto lateralmente; (2) Ressecção submucosa limitada — eletrocautério incisa a borda inferior dos 1–2 cm anteriores do corneto até o osso conchal → descolador de Cottle cria retalho mucoperiosteal de base medial → pinças de Takahashi ressecam o osso do terço anterior → retalho é reposicionado sobre a superfície cruenta (não suturar — adere espontaneamente).",
+      "text": "Indicada na obstrução por hipertrofia refratária ao tratamento clínico. Abordagem conservadora preferida para evitar sangramento, crostas, disfunção ciliar, infecção crônica, rinite atrófica e síndrome do nariz vazio (empty nose syndrome). Duas técnicas: (1) Outfracture (fratura lateral) — espéculo de Vienna microfratrura todo o corneto lateralmente; (2) Ressecção submucosa limitada — eletrocautério incisa a borda inferior dos 1–2 cm anteriores do corneto até o osso conchal → descolador de Cottle cria retalho mucoperiosteal de base medial → pinças de Takahashi ressecam o osso do terço anterior → retalho é reposicionado sobre a superfície cruenta (não suturar — adere espontâneamente).",
       "citation": "Neligan, 2023, vol. 2, cap. 19"
     },
     {
       "type": "paragraph",
-      "text": "ECR de Passàli et al. com 382 pacientes e 6 anos de seguimento: a ressecção submucosa conservadora combinada com outfracture teve as menores complicações com altas taxas de respiração normalizada, produção preservada de IgA e patência nasal — recomendada como técnica de primeira escolha.",
+      "text": "Ensaio clínico randomizado (ECR) de Passàli et al. com 382 pacientes e 6 anos de seguimento: a ressecção submucosa conservadora combinada com outfracture teve as menores complicações com altas taxas de respiração normalizada, produção preservada de IgA (imunoglobulina A) e patência nasal — recomendada como técnica de primeira escolha.",
       "citation": "Grabb & Smith, 2024, cap. 54"
     },
     {
@@ -722,7 +722,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Indicada quando há descida da ponta com animação, encurtamento do lábio superior e vinco transverso do filtro. Tipo I: inserção nos footplates mediocrurais interdigitando-se com o orbicular. Tipo II: origem no periósteo maxilar. Tipo III: rudimentar ou ausente. Abordagem via gingivolabial superior (incisão horizontal de 8–10 mm centrada no frênulo): dissecção e liberação dos músculos próximo à origem → transposição das extremidades cortadas para fornecer volume ao lábio superior central → fechamento vertical da incisão para alongar o lábio.",
+      "text": "Indicada quando há descida da ponta com animação, encurtamento do lábio superior e vinco transverso do filtro. Tipo I: inserção nos footplates médiocrurais interdigitando-se com o orbicular. Tipo II: origem no periósteo maxilar. Tipo III: rudimentar ou ausente. Abordagem via gingivolabial superior (incisão horizontal de 8–10 mm centrada no frênulo): dissecção e liberação dos músculos próximo à origem → transposição das extremidades cortadas para fornecer volume ao lábio superior central → fechamento vertical da incisão para alongar o lábio.",
       "citation": "Neligan, 2023, vol. 2, cap. 19"
     },
     {
@@ -732,7 +732,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Irrigação com soro fisiológico morno para remover debris. Fechamento da incisão transcolumelar em stair-step com nylon 6-0 preto (PC-3) — meticuloso para prevenir notching. Incisões infracartilaginosas com chromic gut 5-0. Sem suturas profundas ao soft triangle. Steri-Strips aplicados do supratip break ao dorso com comprimentos decrescentes. Splint dorsal de Denver sobre os 2/3 superiores do dorso. Se septoplastia/turbinoplastia: splints de Doyle com pomada antibiótica antiestafilocócica, fixados com sutura colchoneiro de nylon 3-0 no septo membranoso. Remoção de splints e suturas tipicamente no 7° dia pós-operatório.",
+      "text": "Irrigação com soro fisiológico morno para remover debris. Fechamento da incisão transcolumelar em stair-step com nylon 6-0 preto (PC-3) — meticuloso para prevenir notching. Incisões infracartilaginosas com chromic gut 5-0. Sem suturas profundas ao soft triangle. Steri-Strips aplicados do supratip break ao dorso com comprimentos decrescentes. Splint dorsal de Denver sobre os 2/3 superiores do dorso. Se septoplastia/turbinoplastia: splints de Doyle com pomada antibiótica antiestafilocócica, fixados com sutura colchoneiro de nylon 3-0 no septo membranoso. Remoção de splints e suturas típicamente no 7° dia pós-operatório.",
       "citation": "Neligan, 2023, vol. 2, cap. 19"
     },
     {
@@ -797,7 +797,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Incisão em V posterior, ~5 cm craniocaudal × 2,5 cm anteroposterior, no nível do tragus. Coleta da fáscia temporal profunda (deep temporal fascia), dissecando-a do músculo temporal subjacente (não incluir fibras musculares). Área de coleta: ~8 × 6 cm, mas contrai significativamente → rendimento final ~5 × 4 cm. Usos: camuflagem de irregularidades dorsais, enxertos compostos de cartilagem picada envolta em fáscia (diced cartilage wrapped in fascia — DC-F).",
+      "text": "Incisão em V posterior, ~5 cm crâniocaudal × 2,5 cm anteroposterior, no nível do tragus. Coleta da fáscia temporal profunda (deep temporal fáscia), dissecando-a do músculo temporal subjacente (não incluir fibras musculares). Área de coleta: ~8 × 6 cm, mas contrai significativamente → rendimento final ~5 × 4 cm. Usos: camuflagem de irregularidades dorsais, enxertos compostos de cartilagem picada envolta em fáscia (diced cartilage wrapped in fáscia — DC-F).",
       "citation": "Neligan, 2023, vol. 2, cap. 19"
     },
     {
@@ -816,11 +816,11 @@
     {
       "type": "box",
       "color": "blue",
-      "title": "Cartilagem costal homóloga fresca (FFHCC) — segurança e desfechos",
+      "title": "Cartilagem costal homóloga fresca e congelada (FFHCC — Fresh Frozen Homologous Costal Cartilage) — segurança e desfechos",
       "lines": [
         "Revisão retrospectiva de 123 rinoplastias com costela homóloga fresca (Taylor CM, Barrera JE, PRS 2026). Seguimento médio: 11 meses.",
         "Infecção: 2,4% (3/123); reabsorção: 0,8% (1/123).",
-        "Melhora significativa em NOSE (P < 0,001), SNOT-22 (P < 0,001), Epworth (P < 0,001) e SCHNOS total/funcional/cosmético (P < 0,001).",
+        "Melhora significativa em NOSE (Nasal Obstruction Symptom Evaluation; P < 0,001), SNOT-22 (Sino-Nasal Outcome Test; P < 0,001), Epworth (P < 0,001) e SCHNOS (Standardized Cosmesis and Health Nasal Outcomes Survey) total/funcional/cosmético (P < 0,001).",
         "Alternativa 'off-the-shelf' conveniente e econômica quando septo é insuficiente."
       ],
       "citation": "Taylor CM, Barrera JE. Plast Reconstr Surg 2026;157(1):28e–37e. DOI: 10.1097/PRS.0000000000012303"
@@ -839,7 +839,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Técnica que preserva a relação intrínseca do keystone (ligamento entre septo e CLS), evitando o 'teto aberto' e a necessidade de osteotomias tradicionais. A ressecção é feita no plano sub-SMAS do dorso, não componente por componente. Indicações: giba dorsal pequena a moderada, pele adequada, anatomia favorável. A técnica utiliza push-down da pirâmide nasal intacta, com auxílio frequente de equipamento piezoelétrico. Debate atual: alguns cirurgiões incorporam seletivamente princípios de preservação a uma abordagem estrutural moderna (Sergesketter et al., 4 cirurgiões seniores, 115 anos de prática).",
+      "text": "Técnica que preserva a relação intrínseca do keystone (ligamento entre septo e CLS), evitando o 'teto aberto' e a necessidade de osteotomias tradicionais. A ressecção é feita no plano sub-SMAS (Sistema Músculo-Aponeurótico Superficial) do dorso, não componente por componente. Indicações: giba dorsal pequena a moderada, pele adequada, anatomia favorável. A técnica utiliza push-down da pirâmide nasal intacta, com auxílio frequente de equipamento piezoelétrico. Debate atual: alguns cirurgiões incorporam seletivamente princípios de preservação a uma abordagem estrutural moderna (Sergesketter et al., 4 cirurgiões seniores, 115 anos de prática).",
       "citation": "Neligan, 2023, vol. 2, caps. 18–19; Sergesketter AR et al. PRS 2026;157(4):496e–503e"
     },
     {
@@ -849,7 +849,7 @@
       "lines": [
         "Estudo retrospectivo comparativo com 205 pacientes (Şibar S et al., ASJ 2025): bisturi (n = 88) vs. eletrocautério monopolar (n = 117) para remodelamento das CLS na preservação por low septal strip.",
         "Recorrência da giba dorsal: bisturi 13,6% vs. eletrocautério 2,5% (P significativo).",
-        "ROE scores similares (84,4 vs. 85,0; P > 0,05): satisfação equivalente, mas recorrência muito menor com eletrocautério.",
+        "Escores ROE (Rhinoplasty Outcome Evaluation) similares (84,4 vs. 85,0; P > 0,05): satisfação equivalente, mas recorrência muito menor com eletrocautério.",
         "Conclusão: eletrocautério oferece remodelamento mais consistente e duradouro das CLS."
       ],
       "citation": "Şibar S et al. Aesthet Surg J 2025;46(1):16–23. DOI: 10.1093/asj/sjaf180"
@@ -944,7 +944,7 @@
       "lines": [
         "Série retrospectiva de 33 pacientes (Duan Y et al., ASJ 2025). Seguimento médio: 16,4 meses.",
         "3 variantes do IBGG para diferentes categorias de defeito (Cakmak 1, 2 e 3).",
-        "VAS médio: 8,57/10. Melhora significativa em projeção/rotação da ponta e índice de sela.",
+        "Média na EVA (Escala Visual Analógica — VAS): 8,57/10. Melhora significativa em projeção/rotação da ponta e índice de sela.",
         "Ângulo nasofrontal: sem mudança na Cat. 1; redução significativa nas Cat. 2 e 3."
       ],
       "citation": "Duan Y et al. Aesthet Surg J 2025;45(11):1115–1124. DOI: 10.1093/asj/sjaf134"
@@ -961,7 +961,7 @@
     },
     {
       "type": "paragraph",
-      "text": "O nariz com fissura apresenta: deformidade da base alar ipsilateral, desvio de columela, assimetria de cúpulas, encurtamento columelar (bilateral). Rinoplastia primária (durante a queiloplastia, < 2 anos): centralização do septo caudal, reparo do assoalho nasal e parede lateral, posicionamento da base alar. Rinoplastia definitiva: deferida até maturidade esquelética (> 14–16 anos para mulheres, > 18 anos para homens) e, se cirurgia ortognática for planejada, adiada até após o Le Fort I, pois os movimentos esqueléticos afetam imprevisivelmente a fundação nasal.",
+      "text": "O nariz com fissura apresenta: deformidade da base alar ipsilateral, desvio de columela, assimetria de cúpulas, encurtamento columelar (bilateral). Rinoplastia primária (durante a queiloplastia, < 2 anos): centralização do septo caudal, reparo do assoalho nasal e parede lateral, posicionamento da base alar. Rinoplastia definitiva: deferida até maturidade esquelética (> 14–16 anos para mulheres, > 18 anos para homens) e, se cirurgia ortognática for planejada, adiada até após o Le Fort I, pois os movimentos esqueléticos afetam imprevisívelmente a fundação nasal.",
       "citation": "Grabb & Smith, 2024, cap. 22 (Cleft); Neligan, 2023, vol. 2, cap. 19"
     },
     {
@@ -969,7 +969,7 @@
       "color": "blue",
       "title": "Enxerto septal primário na rinoplastia para fissura unilateral — 10 anos",
       "lines": [
-        "60 pacientes com FLP unilateral completa (Ueno K et al., PRS 2026): 23 com enxerto septal alar rim na queiloplastia vs. 37 sem.",
+        "60 pacientes com fissura labiopalatal (FLP) unilateral completa (Ueno K et al., PRS 2026): 23 com enxerto septal alar rim na queiloplastia vs. 37 sem.",
         "Grupo com enxerto: maior altura na porção medial da narina (P = 0,031); desvio septal e comprimento do desvio significativamente menores (P < 0,001).",
         "Enxerto septal primário não causou desvio septal clinicamente significativo em 10 anos."
       ],
@@ -1005,10 +1005,10 @@
     {
       "type": "box",
       "color": "blue",
-      "title": "TXA tópico na septorrinoplastia — meta-análise de 7 ECRs",
+      "title": "Ácido tranexâmico (TXA) tópico na septorrinoplastia — meta-análise de 7 ECRs (ensaios clínicos randomizados)",
       "lines": [
         "514 pacientes (Di Martino L et al., ASJ 2025).",
-        "TXA tópico reduziu significativamente: sangramento intraoperatório (SMD −1,20; IC 95% −2,34 a −0,07; P = 0,04), edema pós-operatório (SMD −0,87; P < 0,001) e equimose (SMD −1,16; P < 0,001).",
+        "TXA tópico reduziu significativamente: sangramento intraoperatório (SMD — Standardized Mean Difference, diferença média padronizada — −1,20; IC — intervalo de confiança — 95% −2,34 a −0,07; P = 0,04), edema pós-operatório (SMD −0,87; P < 0,001) e equimose (SMD −1,16; P < 0,001).",
         "Sem diferença significativa em satisfação do cirurgião (P = 0,14) ou tempo operatório (P = 0,22).",
         "TXA tópico como adjuvante eficaz para hemostasia e recuperação."
       ],
@@ -1055,12 +1055,12 @@
         [
           "Infecção / Celulite",
           "Rara",
-          "Celulite leve: cefalosporinas. Se em uso profilático: fluoroquinolona. Refratária: considerar MRSA (levofloxacina, SMX-TMP, minociclina). Celulite grave: internação + ATB IV. Abscessos: drenagem + cultura."
+          "Celulite leve: cefalosporinas. Se em uso profilático: fluoroquinolona. Refratária: considerar MRSA (Staphylococcus aureus resistente à meticilina) — tratar com levofloxacina, sulfametoxazol-trimetoprima (SMX-TMP) ou minociclina. Celulite grave: internação + antibióticos (ATB) IV. Abscessos: drenagem + cultura."
         ],
         [
           "Síndrome do choque tóxico",
           "Muito rara",
-          "Descrita com packing e splints nasais. Exotoxinas de S. aureus ou S. pyogenes. Manejo: remoção de tampões/splints + ATB IV + UTI."
+          "Descrita com packing e splints nasais. Exotoxinas de S. aureus ou S. pyogenes. Manejo: remoção de tampões/splints + ATB IV + internação em UTI (Unidade de Terapia Intensiva)."
         ],
         [
           "Edema prolongado / Supratip fullness",
@@ -1070,7 +1070,7 @@
         [
           "Irregularidade de dorso",
           "5–10%",
-          "Revisão ≥ 12 meses; AH para defeitos menores."
+          "Revisão ≥ 12 meses; ácido hialurônico (AH) para defeitos menores."
         ],
         [
           "Recorrência de giba (preservação)",
@@ -1100,7 +1100,7 @@
         [
           "Sela pós-operatória",
           "< 1%",
-          "Enxerto de dorso (DC-F, rib)."
+          "Enxerto de dorso (DC-F — cartilagem picada em fáscia, diced cartilage-fáscia — ou costela)."
         ],
         [
           "Desvio residual",
@@ -1207,7 +1207,7 @@
         ],
         [
           "Profilaxia antibiótica",
-          "Dose única IV pré-op (cefalosporina); sem ATB pós-op"
+          "Dose única IV pré-op (cefalosporina); sem antibiótico (ATB) pós-op"
         ]
       ]
     }

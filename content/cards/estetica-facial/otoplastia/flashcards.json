@@ -2,46 +2,46 @@
   "id": "oto-fc-001",
   "type": "flashcard",
   "topic": "otoplastia",
-  "area": "estetica-facial",
+  "area": "estética-facial",
   "cards": [
     {
-      "front": "Angulo cefaloauricular normal",
+      "front": "Ângulo cefaloauricular normal",
       "back": "25-35 graus",
       "citation": "Neligan, 2023, vol. 3, cap. 28",
       "domain": "anatomia"
     },
     {
-      "front": "Projecao helice-mastoide (terco superior)",
+      "front": "Projeção helice-mastoide (terco superior)",
       "back": "10-12 mm",
       "citation": "Neligan, 2023, vol. 3, cap. 28",
       "domain": "anatomia"
     },
     {
-      "front": "Projecao helice-mastoide (terco medio)",
+      "front": "Projeção helice-mastoide (terco médio)",
       "back": "16-18 mm",
       "citation": "Neligan, 2023, vol. 3, cap. 28",
       "domain": "anatomia"
     },
     {
-      "front": "Projecao helice-mastoide (terco inferior)",
+      "front": "Projeção helice-mastoide (terco inferior)",
       "back": "20-22 mm",
       "citation": "Neligan, 2023, vol. 3, cap. 28",
       "domain": "anatomia"
     },
     {
-      "front": "Altura do pavilhao auricular (adulto)",
+      "front": "Altura do pavilhão auricular (adulto)",
       "back": "~6 cm",
       "citation": "Neligan, 2023, vol. 3, cap. 28",
       "domain": "anatomia"
     },
     {
-      "front": "Largura do pavilhao auricular (adulto)",
+      "front": "Largura do pavilhão auricular (adulto)",
       "back": "~3,5 cm",
       "citation": "Neligan, 2023, vol. 3, cap. 28",
       "domain": "anatomia"
     },
     {
-      "front": "Desenvolvimento do pavilhao auricular - percentual aos 5-6 anos",
+      "front": "Desenvolvimento do pavilhão auricular - percentual aos 5-6 anos",
       "back": "85% do tamanho adulto",
       "citation": "Neligan, 2023, vol. 3, cap. 28",
       "domain": "crescimento"
@@ -50,8 +50,8 @@
   "tags": [
     "flashcards",
     "angulacao",
-    "projecao",
-    "dimensoes",
+    "projeção",
+    "dimensões",
     "otoplastia"
   ]
 }

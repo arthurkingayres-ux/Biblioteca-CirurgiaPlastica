@@ -143,7 +143,20 @@ Antes de implementar manualmente, verifique se um plugin resolve a tarefa. Os pl
 │   │   └── otoplastia.json
 │   └── (demais áreas)
 │
-├── assets/images/                  # Imagens para os documentos (subpastas por tema)
+├── assets/images/                  # Imagens renderizadas nos documentos (subpastas por tema)
+│   ├── blefaroplastia/             # ex: blef-13-6-musculos-orbitais.png
+│   ├── rinoplastia/
+│   └── (demais temas conforme expansão)
+│
+├── 01-Documentos-Estudo/
+│   └── Imagens/                    # ← INBOX de imagens curadas pelo Dr. Arthur
+│       ├── Estética Facial/
+│       │   ├── Blefaroplastia/     # Screenshots/fotos salvas pelo Dr. Arthur
+│       │   ├── Rinoplastia/
+│       │   └── (demais subtemas)
+│       ├── Contorno Corporal/
+│       ├── Mama/
+│       └── (todas as áreas da especialidade)
 │
 ├── webapp/                         # PWAs (Progressive Web Apps)
 │   ├── approval/                   # PWA de aprovação de artigos (triagem)
@@ -177,6 +190,8 @@ A estrutura espelha-se em `content/`, `01-Documentos-Estudo/` e `02-Artigos-Peri
 > **Os documentos são uma biblioteca de conhecimento — não uma coleção de resumos.**
 >
 > Cada documento deve ser tão completo quanto um capítulo de referência: anatomia, fisiologia, classificações, técnicas cirúrgicas detalhadas, complicações, condutas, parâmetros numéricos. O objetivo é que o Dr. Arthur consulte o documento e encontre ali tudo que precisa saber sobre o tema — sem precisar abrir o livro para o essencial.
+>
+> **Este é um material de ensino.** Siglas e abreviações (ex: MRD1, SMAS, SOOF) devem **sempre** vir acompanhadas do nome por extenso na primeira ocorrência em cada seção/ficha — formato "SIGLA (Nome por Extenso)". Se o leitor não consegue entender o texto sem conhecimento prévio da sigla, o material falhou no seu propósito.
 >
 > **Nunca escrever uma seção sem ter lido o capítulo correspondente do Neligan** (e obras complementares pertinentes ao tema).
 
@@ -226,13 +241,14 @@ cd ~/Documents/Biblioteca-CirurgiaPlastica
 > Estas regras são invioláveis.
 
 1. **NUNCA** apagar conteúdo existente ao atualizar
-2. **SEMPRE** adicionar citação inline ao novo conteúdo
-3. Usar **box AZUL** quando o artigo complementa o conhecimento existente
-4. Usar **box VERMELHO** quando o artigo muda conduta ou paradigma
-5. Usar **box VERDE** para dicas práticas cirúrgicas
-6. Atualizar a tabela de **flashcards** com novos dados numéricos relevantes
-7. Adicionar a referência na seção **"Atualizações Incorporadas"**
-8. Incrementar a **versão** na capa e registrar no histórico
+2. **SEMPRE** validar acentuação portuguesa antes de publicar conteúdo. Rodar `node tools/validate_content.js` e corrigir todos os erros de acentuação. Conferir especialmente: -ção/-ções, -ância/-ência, -ável/-ível, -ário/-ária, -ático/-ática, -âneo/-ânea, -ósteo, -álpebra, -órbita. Todo texto em português DEVE ter diacríticos corretos — este é material de ensino.
+3. **SEMPRE** adicionar citação inline ao novo conteúdo
+4. Usar **box AZUL** quando o artigo complementa o conhecimento existente
+5. Usar **box VERMELHO** quando o artigo muda conduta ou paradigma
+6. Usar **box VERDE** para dicas práticas cirúrgicas
+7. Atualizar a tabela de **flashcards** com novos dados numéricos relevantes
+8. Adicionar a referência na seção **"Atualizações Incorporadas"**
+9. Incrementar a **versão** na capa e registrar no histórico
 
 **Fluxo de atualização (automatizado):**
 ```bash
@@ -441,12 +457,52 @@ Todos os documentos em **português brasileiro**. Terminologia médica conforme 
 | `tools/validate_content.js` | Node.js | Valida todos os `content/*.json` contra schema + checagens semânticas |
 | `tools/test_generate.js` | Node.js | Pipeline completo: validação → geração → verificação de todos os `.docx` |
 | `tools/triage_prompt.txt` | Texto | Prompt estruturado para a Anthropic API avaliar abstracts |
+| `tools/extract_labeled_figures.py` | Python | **DESCONTINUADO** — extração de figuras de PDFs (substituído pelo fluxo manual abaixo) |
 
 **Uso da varredura (sob demanda):**
 ```bash
 python tools/varredura_semanal.py --area estetica-facial   # varredura de uma área específica
 python tools/varredura_semanal.py --dry-run                # simular sem salvar
 python tools/varredura_semanal.py --skip-triage            # pular triagem IA (fallback heurístico)
+```
+
+---
+
+## Fluxo de Imagens para os Documentos
+
+> **Regra fundamental:** A extração automática de imagens de PDFs foi descontinuada por ser imprecisa e trabalhosa. O Dr. Arthur seleciona e salva manualmente as imagens de interesse.
+
+### Como o Dr. Arthur contribui com imagens
+
+1. Captura screenshots ou fotos das figuras que julga relevantes
+2. Salva em `01-Documentos-Estudo/Imagens/<Área>/<Tema>/`
+   - Ex: `01-Documentos-Estudo/Imagens/Estética Facial/Blefaroplastia/`
+3. Informa ao agente que há imagens novas para incorporar
+
+### Como o agente processa as imagens
+
+1. **Visualiza** cada imagem com a ferramenta Read (Claude é multimodal)
+2. **Identifica** o conteúdo (anatomia, técnica, resultado, tabela, box de texto)
+3. **Determina** a seção do documento onde a imagem pertence
+4. **Copia** para `assets/images/<tema>/` com nome descritivo (formato: `<sigla>-<fig>-<descricao>.png`)
+   - Ex: `blef-13-6-musculos-orbitais.png`
+5. **Obtém dimensões** via Python PIL e calcula `widthCm`/`heightCm` (padrão: 14cm para paisagem, 10cm para retrato, 12cm para boxes de texto)
+6. **Insere** elemento `figure` no JSON `content/<area>/<tema>.json` na seção correta
+7. **Regenera** o `.docx` com `node tools/create_docx.js --topic <tema>`
+
+### Estrutura de pastas Imagens (completa)
+
+```
+01-Documentos-Estudo/Imagens/
+├── Estética Facial/         Rinoplastia/ Blefaroplastia/ Ritidoplastia/ Otoplastia/ ...
+├── Contorno Corporal/       Abdominoplastia/ Lipoaspiração/ Pós-Bariátrico/ ...
+├── Mama/                    Mamoplastia de Aumento/ Redutora/ Mastopexia/ ...
+├── Mão e Membro Superior/   Anatomia da Mão/ Tenoplastia/ Nervos/ Fraturas/ ...
+├── Craniofacial/            Fissura Labiopalatina/ Craniossinostose/ Fraturas Faciais/ ...
+├── Microcirurgia e Retalhos/ Locais/ Pediculados/ Livres/ Linfedema/
+├── Queimaduras e Feridas/   Agudas/ Cicatrizes Patológicas/ Úlceras/
+├── Tronco e Membro Inferior/ Parede Abdominal/ Reconstrução/
+└── Oncologia Cutânea/       Carcinoma Basocelular/ Espinocelular/ Melanoma/
 ```
 
 ---
@@ -464,26 +520,135 @@ python tools/varredura_semanal.py --skip-triage            # pular triagem IA (f
 
 ## Plugins e Extensões (Claude Code)
 
-> **Regra:** Sempre utilizar os plugins instalados nas tarefas em que se encaixam. Não reinventar funcionalidades que um plugin já oferece.
+> **REGRA INVIOLÁVEL:** Os triggers abaixo são **obrigatórios**, não sugestões. Se uma situação gatilho ocorrer, o plugin correspondente DEVE ser usado — sem exceção. Pular um trigger é tão grave quanto apagar conteúdo de um documento.
 
 ### MCP Servers
 
-| Plugin | Quando usar |
-|---|---|
-| **GitHub** (`mcp__github__*`) | Qualquer operação com o repositório GitHub: criar/ler issues e PRs, buscar código, gerenciar branches, ler/criar arquivos no repo remoto, reviews. **Preferir sobre `gh` CLI quando possível.** |
-| **Context7** (`context7`) | Consultar documentação atualizada de qualquer biblioteca, framework, SDK ou ferramenta CLI (ex: `docx`, Node.js, PyMuPDF, React). **Usar mesmo quando parecer que já sabe a resposta** — dados de treinamento podem estar desatualizados. |
+**GitHub** (`mcp__github__*`)
 
-### Skills (Plugins de Capacidade)
+- **TRIGGER:** SEMPRE que precisar interagir com o repositório remoto (issues, PRs, branches, arquivos, code search, reviews)
+- Preferir sobre `gh` CLI. Cobre: criar/ler issues e PRs, buscar código no repo, gerenciar branches, ler/criar arquivos remotos, reviews de PR
 
-| Plugin | Quando usar |
+**Context7** (`mcp__plugin_context7_context7__*`)
+
+- **TRIGGER:** SEMPRE que for usar qualquer biblioteca, framework, SDK ou ferramenta CLI — mesmo que pareça saber a API de cor
+- Consultar documentação atualizada antes de escrever código que dependa de APIs externas (docx, Node.js, PyMuPDF, React, Tailwind, etc.)
+- Dados de treinamento podem estar desatualizados — Context7 é a fonte de verdade
+
+**Playwright** (`mcp__plugin_playwright_playwright__*`)
+
+- **TRIGGER:** SEMPRE que precisar testar, validar ou interagir com as PWAs no browser
+- Cobre: navegar páginas, clicar elementos, preencher formulários, tirar screenshots, inspecionar console, testar responsividade, validar visual
+- Usar para testes de integração das PWAs (approval e library)
+
+### Skills de Workflow — Core
+
+**`/superpowers:brainstorming`**
+
+- **TRIGGER:** ANTES de começar qualquer feature, componente, funcionalidade nova, ou mudança criativa/arquitetural
+- Explora intenção, requisitos e design antes de implementar. Produz spec escrita
+
+**`/superpowers:writing-plans`**
+
+- **TRIGGER:** QUANDO tiver uma spec ou requisitos para tarefa multi-step, ANTES de tocar em código
+- Transforma spec em plano de implementação detalhado com passos verificáveis
+
+**`/superpowers:executing-plans`**
+
+- **TRIGGER:** QUANDO tiver um plano escrito para executar em sessão separada, com checkpoints de review
+- Executa plano passo a passo com verificação a cada etapa
+
+**`/superpowers:subagent-driven-development`**
+
+- **TRIGGER:** QUANDO executar planos com tarefas independentes na sessão atual
+- Delega tarefas a subagentes especializados. Estratégia principal de execução do projeto v2
+
+**`/superpowers:dispatching-parallel-agents`**
+
+- **TRIGGER:** QUANDO houver 2+ tarefas independentes que podem rodar em paralelo
+- Lança múltiplos agentes simultâneos sem dependências entre si
+
+**`/superpowers:verification-before-completion`**
+
+- **TRIGGER:** ANTES de afirmar que o trabalho está completo, corrigido ou passando — antes de commit ou PR
+- Obriga rodar comandos de verificação e confirmar output. Evidência antes de afirmação
+
+**`/superpowers:systematic-debugging`**
+
+- **TRIGGER:** QUANDO encontrar qualquer bug, teste falhando ou comportamento inesperado, ANTES de propor correções
+- Investigação metódica: reproduzir → isolar → diagnosticar → corrigir → verificar
+
+**`/superpowers:requesting-code-review`**
+
+- **TRIGGER:** APÓS completar tarefa significativa, implementar feature major, ou antes de merge
+- Solicita review estruturado para verificar que o trabalho atende requisitos
+
+### Outras Skills
+
+**`/frontend-design:frontend-design`**
+
+- **TRIGGER:** QUANDO construir ou modificar interfaces web (componentes, páginas, PWAs)
+- Gera código frontend com design de alta qualidade, evitando estética genérica de IA
+
+**`/ui-ux-pro-max:ui-ux-pro-max`**
+
+- **TRIGGER:** QUANDO tomar decisões de design visual — paletas de cores, tipografia, layout, UX guidelines
+- Usar em conjunto com frontend-design para as PWAs. Inclui 50+ estilos, 161 paletas, 57 pares de fontes
+
+**`/code-review:code-review`**
+
+- **TRIGGER:** QUANDO precisar revisar um PR existente
+- Review estruturado de pull requests
+
+**`/claude-api`**
+
+- **TRIGGER:** QUANDO escrever código que importe `anthropic`, `@anthropic-ai/sdk`, ou use a API Claude/Anthropic
+- Essencial nas Fases 3 (test engine) e 4 (chat/RAG) do plano v2
+
+**`/simplify`**
+
+- **TRIGGER:** APÓS implementação concluída, antes de commitar — quando o código funciona mas pode ser mais limpo
+- Revisa código alterado buscando reuso, qualidade e eficiência
+
+**`/skill-creator:skill-creator`**
+
+- **TRIGGER:** QUANDO precisar criar, modificar ou medir performance de skills customizadas
+
+### Skills Situacionais (superpowers)
+
+Disponíveis quando a situação específica surgir — não têm trigger recorrente:
+
+| Skill | Quando usar |
 |---|---|
-| **superpowers** | Planejamento (`write-plan`), brainstorming antes de trabalho criativo, execução de planos com checkpoints, debugging sistemático, TDD, verificação antes de finalizar, code review, agentes paralelos, git worktrees |
-| **code-review** | Revisar PRs e código implementado |
-| **frontend-design** | Criar interfaces web com design de alta qualidade (componentes, páginas, PWAs) |
-| **ui-ux-pro-max** | Design UI/UX avançado: paletas de cores, tipografia, estilos, guidelines UX, tipos de gráficos. Usar em conjunto com frontend-design para as PWAs |
-| **playwright** | Testes de browser, automação de UI, validação visual das PWAs |
-| **code-simplifier** | Simplificar e refinar código após implementação — clareza, consistência, manutenibilidade |
-| **skill-creator** | Criar ou modificar skills customizadas, medir performance de skills |
+| `receiving-code-review` | Ao receber feedback de code review — antes de implementar sugestões |
+| `finishing-a-development-branch` | Quando implementação está completa e precisa decidir como integrar (merge, PR, cleanup) |
+| `using-git-worktrees` | Quando feature precisa de isolamento do workspace atual |
+| `test-driven-development` | Se adotarmos TDD para uma feature específica |
+| `writing-skills` | Quando criando/editando skills antes de deploy |
+
+### Agent Types (Subagentes Especializados)
+
+Subagentes disponíveis via ferramenta `Agent`. Diferentes das skills — são processos autônomos delegados.
+
+**`Explore`**
+
+- **TRIGGER:** QUANDO precisar explorar o codebase em profundidade (busca aberta, múltiplos arquivos, padrões de código)
+- Mais lento que Glob/Grep direto — usar apenas quando busca simples não bastar ou tarefa exigir 3+ queries
+
+**`Plan`**
+
+- **TRIGGER:** QUANDO precisar planejar estratégia de implementação, identificar arquivos críticos, avaliar trade-offs arquiteturais
+- Retorna planos passo a passo. Usar como complemento ao writing-plans para análise técnica
+
+**`superpowers:code-reviewer`**
+
+- **TRIGGER:** QUANDO uma etapa major do projeto for concluída e precisa ser validada contra o plano original
+- Review de código implementado contra especificação e padrões de qualidade
+
+**`code-simplifier:code-simplifier`**
+
+- **TRIGGER:** APÓS implementação de código significativo — simplifica e refina para clareza, consistência e manutenibilidade
+- Focado em código recém-modificado, a menos que instruído diferente
 
 ---
 

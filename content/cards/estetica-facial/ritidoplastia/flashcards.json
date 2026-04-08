@@ -2,87 +2,87 @@
   "id": "riti-fc-001",
   "type": "flashcard",
   "topic": "ritidoplastia",
-  "area": "estetica-facial",
+  "area": "estética-facial",
   "cards": [
     {
       "front": "Hematoma na ritidoplastia — frequencia",
       "back": "1-8% (homens > mulheres)",
       "citation": "Neligan, 2023, vol. 2, cap. 11",
-      "domain": "complicacoes"
+      "domain": "complicações"
     },
     {
       "front": "Principal fator de risco para hematoma pos-facelift",
-      "back": "Hipertensao arterial sistemica (HAS)",
+      "back": "Hipertensão arterial sistemica (HAS)",
       "citation": "Neligan, 2023, vol. 2, cap. 11",
-      "domain": "complicacoes"
+      "domain": "complicações"
     },
     {
-      "front": "Necrose cutanea — principal fator de risco",
-      "back": "Tabagismo (RR — Risco Relativo — 12x); tensao excessiva no retalho cutaneo",
+      "front": "Necrose cutânea — principal fator de risco",
+      "back": "Tabagismo (RR — Risco Relativo — 12x); tensão excessiva no retalho cutâneo",
       "citation": "Neligan, 2023, vol. 2, cap. 11",
-      "domain": "complicacoes"
+      "domain": "complicações"
     },
     {
       "front": "Lesao permanente do nervo facial na ritidoplastia",
       "back": "< 1%",
       "citation": "Neligan, 2023, vol. 2, cap. 11",
-      "domain": "complicacoes"
+      "domain": "complicações"
     },
     {
-      "front": "Deformidade do lobulo auricular (pixie ear) — causa",
-      "back": "Tensao inferior excessiva no retalho cutaneo; incisao incorreta ao redor do lobulo",
+      "front": "Deformidade do lóbulo auricular (pixie ear) — causa",
+      "back": "Tensão inferior excessiva no retalho cutâneo; incisão incorreta ao redor do lóbulo",
       "citation": "Grabb & Smith, 2020, cap. 32",
-      "domain": "complicacoes"
+      "domain": "complicações"
     },
     {
       "front": "Durabilidade do deep plane facelift",
       "back": "8-12 anos",
       "citation": "Schultz KP et al. Plast Reconstr Surg 2026;157(4):615-620",
-      "domain": "tecnica"
+      "domain": "técnica"
     },
     {
       "front": "Durabilidade do SMAS plication",
       "back": "5-7 anos",
       "citation": "Schultz KP et al. Plast Reconstr Surg 2026;157(4):615-620",
-      "domain": "tecnica"
+      "domain": "técnica"
     },
     {
-      "front": "Angulo cervicomental apos transeccao completa do platisma",
+      "front": "Ângulo cervicomental após transeccao completa do platisma",
       "back": "Melhora de 143 graus para 116 graus",
       "citation": "Bartow MJ, Core G. Aesthet Surg J 2025;45(5):448-453",
-      "domain": "tecnica"
+      "domain": "técnica"
     },
     {
-      "front": "Suturas cervicais seletivas — reducao do tempo cirurgico",
-      "back": "Reducao de 40% no tempo cirurgico sem diferenca em resultado a 1 ano vs. platismaplastia completa",
+      "front": "Suturas cervicais seletivas — redução do tempo cirúrgico",
+      "back": "Redução de 40% no tempo cirúrgico sem diferenca em resultado a 1 ano vs. platismaplastia completa",
       "citation": "Ganesh Kumar N et al. Plast Reconstr Surg 2025;156(2):194e-197e",
-      "domain": "tecnica"
+      "domain": "técnica"
     },
     {
-      "front": "Browlift endoscopico — elevacao mantida em 5 anos",
+      "front": "Browlift endoscopico — elevação mantida em 5 anos",
       "back": "6,8 mm; recidiva gradual de ~0,4 mm/ano",
       "citation": "Sibar S et al. Aesthet Surg J 2025;45(3):232-240",
-      "domain": "tecnica"
+      "domain": "técnica"
     },
     {
       "front": "TXA (Acido Tranexamico) local no facelift — taxa de hematoma",
       "back": "Tendencia: 2,1% (TXA) vs. 3,9% (controle) — sem significancia estatistica",
       "citation": "Darras O et al. Aesthet Surg J 2025;45(12):1213-1219",
-      "domain": "tecnica"
+      "domain": "técnica"
     },
     {
       "front": "Suspensao completa do platisma no deep plane — serie",
-      "back": "234 pacientes; resultado cervical superior vs. tecnicas parciais; sem aumento de complicacoes neurais",
+      "back": "234 pacientes; resultado cervical superior vs. técnicas parciais; sem aumento de complicações neurais",
       "citation": "Timberlake AT et al. Plast Reconstr Surg 2025;155(4):699e-703e",
-      "domain": "tecnica"
+      "domain": "técnica"
     }
   ],
   "tags": [
     "flashcards",
     "ritidoplastia",
     "parametros",
-    "complicacoes",
+    "complicações",
     "durabilidade",
-    "angulo-cervicomental"
+    "ângulo-cervicomental"
   ]
 }

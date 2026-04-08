@@ -1,12 +1,12 @@
 {
-  "name": "Biblioteca CP — Consulta Cirurgica",
-  "short_name": "Biblioteca CP",
-  "description": "Consulta rapida de fichas cirurgicas — Biblioteca de Cirurgia Plastica",
+  "name": "Briefing Pré-Op — Cirurgia Plástica",
+  "short_name": "Briefing Pré-Op",
+  "description": "Planejamento cirúrgico — briefing pré-operatório com anatomia, técnicas e decisões",
   "start_url": "./index.html",
   "display": "standalone",
   "orientation": "portrait",
-  "theme_color": "#1a1a2e",
-  "background_color": "#0f0f1a",
+  "theme_color": "#FFFFFF",
+  "background_color": "#FFFFFF",
   "icons": [
     {
       "src": "icons/icon-192.svg",

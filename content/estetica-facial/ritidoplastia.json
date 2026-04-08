@@ -38,15 +38,15 @@
     { "type": "heading", "level": 2, "text": "2.3 Ligamentos de Retenção (Furnas)" },
     { "type": "dataTable", "headers": ["Ligamento", "Localização", "Divisão libera"], "rows": [
       ["Zigomático-cutâneo", "Arco zigomático → pele", "Ptose malar; sulco nasojugal"],
-      ["Massetérico-cutâneo", "Masséter → pele", "Jowl; linha mandibular"],
-      ["Mandibular", "Mandíbula → pele", "Sulco labiomandibular; jowl"]
+      ["Massetérico-cutâneo", "Masséter → pele", "Jowl; linha mandíbular"],
+      ["Mandíbular", "Mandíbula → pele", "Sulco labiomandíbular; jowl"]
     ]},
 
     { "type": "heading", "level": 2, "text": "2.4 Nervo Facial — Ramos Vulneráveis" },
     { "type": "dataTable", "headers": ["Ramo", "Vulnerabilidade", "Prevenção"], "rows": [
       ["Temporal (frontal)", "Cruzamento do arco zigomático superficialmente", "Dissecção profunda ao SMAS na região temporal"],
       ["Zigomático", "Dissecção pré-zigomática profunda", "Identificar ramo antes de dividir ligamentos"],
-      ["Marginal mandibular", "Abaixo da mandíbula; lipoaspiração cervical", "Dissecar superficialmente na borda inferior"]
+      ["Marginal mandíbular", "Abaixo da mandíbula; lipoaspiração cervical", "Dissecar superficialmente na borda inferior"]
     ]},
 
     { "type": "heading", "level": 1, "text": "3. Técnicas Cirúrgicas" },
@@ -88,21 +88,21 @@
       "Movassaghi et al. (2025): U-SMAS lift combina dissecção subcutânea anterior com suspensão do SMAS em forma de \"U\" invertido. Adequado para pacientes com ptose moderada; menor dissecção que o deep plane; bons resultados em 6–12 meses."
     ], "citation": "Movassaghi K et al. Plast Reconstr Surg 2025;155(4):632–636. DOI: 10.1097/PRS.0000000000011673" },
 
-    { "type": "heading", "level": 1, "text": "4. Técnicas Adjuvantes e Minimamente Invasivas" },
+    { "type": "heading", "level": 1, "text": "4. Técnicas Adjuvantes e Mínimamente Invasivas" },
     { "type": "box", "color": "blue", "title": "Ultrassom microfocado (MFU-V / Ultherapy) — meta-análise", "lines": [
-      "Amiri et al. (2025): meta-análise de 18 estudos (n = 1.932): MFU-V melhora o malar e o contorno mandibular em casos selecionados de envelhecimento leve a moderado. Complemento ao facelift, não substituto."
+      "Amiri et al. (2025): meta-análise de 18 estudos (n = 1.932): MFU-V (Microfocused Ultrasound with Visualization) melhora o malar e o contorno mandíbular em casos selecionados de envelhecimento leve a moderado. Complemento ao facelift, não substituto."
     ], "citation": "Amiri M et al. Aesthet Surg J 2025;45(3):NP86–NP94. DOI: 10.1093/asj/sjae228" },
 
     { "type": "heading", "level": 1, "text": "5. Ácido Tranexâmico no Facelift" },
     { "type": "box", "color": "blue", "title": "Ácido tranexâmico local no facelift — coorte pareada", "lines": [
-      "Darras et al. (2025): TXA local aplicado aos retalhos durante facelift (n = 204 pareados): sem aumento de complicações de cicatrização ou infecção. Tendência a menor taxa de hematoma (2,1% vs. 3,9%), sem significância estatística neste estudo. Segurança confirmada."
+      "Darras et al. (2025): TXA (Ácido Tranexâmico) local aplicado aos retalhos durante facelift (n = 204 pareados): sem aumento de complicações de cicatrização ou infecção. Tendência a menor taxa de hematoma (2,1% vs. 3,9%), sem significância estatística neste estudo. Segurança confirmada."
     ], "citation": "Darras O et al. Aesthet Surg J 2025;45(12):1213–1219. DOI: 10.1093/asj/sjaf130" },
 
     { "type": "heading", "level": 1, "text": "6. Complicações" },
     { "type": "flashcards", "rows": [
       ["Hematoma — frequência", "1–8% (homens > mulheres)"],
       ["Principal fator de risco hematoma", "Hipertensão arterial sistêmica"],
-      ["Necrose cutânea — FR principal", "Tabagismo (RR 12×); tensão excessiva"],
+      ["Necrose cutânea — FR principal", "Tabagismo (RR — Risco Relativo — 12×); tensão excessiva"],
       ["Lesão permanente do n. facial", "< 1%"],
       ["Deformidade do lóbulo (\"pixie\")", "Tensão inferior; incisão incorreta"],
       ["Durabilidade (deep plane)", "8–12 anos"],

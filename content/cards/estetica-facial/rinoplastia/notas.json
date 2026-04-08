@@ -4,13 +4,13 @@
     "type": "note",
     "title": "Introdução à Rinoplastia",
     "topic": "rinoplastia",
-    "area": "estetica-facial",
+    "area": "estética-facial",
     "section": "Introdução",
     "content": [
-      "A rinoplastia é considerada o procedimento mais tecnicamente exigente da cirurgia plástica estética.",
+      "A rinoplastia é considerada o procedimento mais técnicamente exigente da cirurgia plástica estética.",
       "Requer domínio simultâneo de anatomia tridimensional complexa, análise estética subjetiva, fisiologia das vias aéreas e compreensão das consequências cicatriciais a curto e longo prazo.",
       "Pode ser realizada por via aberta (transcolumelar) ou fechada (endonasal), cada abordagem com indicações, vantagens e limitações específicas.",
-      "A evolução da rinoplastia ao longo das últimas três décadas afastou-se das técnicas ablativas com redução excessiva do arcabouço osseocartilaginoso, em direção à preservação da anatomia nativa, uso de enxertos cartilaginosos e técnicas de sutura para correção de deformidades.",
+      "A evolução da rinoplastia ao longo das últimas três décadas afastou-se das técnicas ablativas com redução excessiva do arcabouço ósseocartilaginoso, em direção à preservação da anatomia nativa, uso de enxertos cartilaginosos e técnicas de sutura para correção de deformidades.",
       "A rinoplastia funcional, frequentemente combinada com septoplastia, aborda dificuldade respiratória, desvios septais e outras anormalidades estruturais.",
       "A manutenção ou melhora da respiração é uma medida fundamental do sucesso cirúrgico — como afirmou John Mulliken, analogamente a 'speech is the measure of success for a pediatric cleft surgeon', a respiração é a medida para o cirurgião de rinoplastia."
     ],
@@ -24,7 +24,7 @@
     "type": "note",
     "title": "Análise Nasal Sistemática",
     "topic": "rinoplastia",
-    "area": "estetica-facial",
+    "area": "estética-facial",
     "section": "Análise e Planejamento",
     "content": [
       "AVALIAÇÃO DO PACIENTE:",
@@ -34,9 +34,9 @@
       "VISTA FRONTAL: (1) proporções faciais (regra dos terços); (2) tipo de pele (Fitzpatrick, fina vs. espessa); (3) simetria e desvio nasal; (4) vault ósseo; (5) terço médio; (6) linhas estéticas dorsais (curvas suaves do supercílio aos tip-defining points); (7) ponta (ideal/bulbosa/box/pinçada); (8) rim alar (gull-shaped, retração, notching); (9) base alar (largura ≈ distância intercantal); (10) lábio superior.",
       "VISTA LATERAL: (1) posição do radix (entre linha dos cílios e sulco supratarsal; profundidade ~15 mm); (2) ângulo nasofrontal (115–135°); (3) dorso nasal; (4) supratip break (2–3 mm em ♀); (5) ângulo nasolabial (95–100° ♀, 90–95° ♂); (6) ângulo columelar-lobular (30–45° ♀); (7) projeção da ponta (50–60% de Simons, ou 0,67 do comprimento nasal); (8) relação alar-columelar (1–2 mm).",
       "VISTA BASAL: (1) projeção nasal; (2) triângulo equilátero (base da columela + rim alar); (3) lóbulo infraponta = 1/3 da distância base alar-ponta; (4) largura da base alar e flaring (normal: 2 mm); (5) assimetrias da narina.",
-      "EXAME INTERNO: colapso da valva externa à inspiração + teste de Cottle. Espéculo nasal: valva interna, hipertrofia de corneto (tipicamente contralateral ao desvio), deformidades septais, quantidade de cartilagem septal para enxerto. Em revisão: aplicador de algodão ao longo do septo identifica step-off de coleta prévia."
+      "EXAME INTERNO: colapso da valva externa à inspiração + teste de Cottle. Espéculo nasal: valva interna, hipertrofia de corneto (típicamente contralateral ao desvio), deformidades septais, quantidade de cartilagem septal para enxerto. Em revisão: aplicador de algodão ao longo do septo identifica step-off de coleta prévia."
     ],
-    "images": ["fig18-2-angulos-nasais.jpeg", "diagrama-angulos-nasais.png"],
+    "images": ["fig18-2-ângulos-nasais.jpeg", "diagrama-ângulos-nasais.png"],
     "citations": ["Neligan, 2023, vol. 2, caps. 18–19", "Core Procedures, 2020, cap. 4"],
     "updates": [],
     "tags": ["análise", "planejamento", "frontal", "lateral", "basal", "SYLVIA", "SIMON"]
@@ -46,7 +46,7 @@
     "type": "note",
     "title": "Ângulos e Parâmetros Nasais",
     "topic": "rinoplastia",
-    "area": "estetica-facial",
+    "area": "estética-facial",
     "section": "Análise e Planejamento",
     "content": [
       "ÂNGULOS PRINCIPAIS:",
@@ -72,7 +72,7 @@
       "Corneto inferior: até 2/3 da resistência total das vias aéreas.",
       "Valva interna: ~50% da resistência total."
     ],
-    "images": ["diagrama-angulos-nasais.png"],
+    "images": ["diagrama-ângulos-nasais.png"],
     "citations": ["Neligan, 2023, vol. 2, cap. 18"],
     "updates": [],
     "tags": ["ângulos", "parâmetros", "projeção", "medidas", "referência"]
@@ -82,7 +82,7 @@
     "type": "note",
     "title": "Fisiologia Nasal e Vias Aéreas",
     "topic": "rinoplastia",
-    "area": "estetica-facial",
+    "area": "estética-facial",
     "section": "Fisiologia",
     "content": [
       "O nariz tem sete funções básicas: respiração, regulação térmica, umidificação, filtração de partículas, olfação, fonação e órgão sexual secundário.",
@@ -104,14 +104,14 @@
     "type": "note",
     "title": "Enxertos — Tipos e Fontes",
     "topic": "rinoplastia",
-    "area": "estetica-facial",
+    "area": "estética-facial",
     "section": "Enxertos",
     "content": [
       "CARTILAGEM SEPTAL: primeira escolha. Facilmente colhida, morbidade mínima, disponível no campo operatório, serve para todas as aplicações. Coleta após redução dorsal. Cartilagem excedente recolocada entre retalhos mucopericondriais para uso em eventual revisão.",
       "CARTILAGEM AURICULAR: alternativa quando septo insuficiente. Boa para tip grafts, dorsal onlay, alar contour, reconstrução de CLA. Flacidez impede uso para suporte rígido. Acesso anterior (3 mm dentro da concha) ou posterior (3 cm pós-auricular). Manter 3 mm de borda de concha.",
       "CARTILAGEM COSTAL: abundante, ideal para dorsal onlay e suporte estrutural. 9ª costela preferida (4–5 cm, reta medialmente). Incisão de 2 cm. Aguardar ≥ 30 min antes de talhar (warping). Usar cartilagem central (menos warping). Risco: pneumotórax.",
-      "FÁSCIA TEMPORAL: incisão em V posterior, ~5 cm × 2,5 cm, no nível do tragus. Deep temporal fascia. Área: ~8 × 6 cm → contrai para ~5 × 4 cm. Usos: camouflage de irregularidades dorsais, diced cartilage wrapped in fascia (DC-F).",
-      "MATERIAIS ALTERNATIVOS: costela homóloga fresca (FFHCC — infecção 2,4%, reabsorção 0,8%), costela irradiada, aloplásticos (implantes de silicone — malposição 4%, extrusão < 1%).",
+      "FÁSCIA TEMPORAL: incisão em V posterior, ~5 cm × 2,5 cm, no nível do tragus. Deep temporal fáscia. Área: ~8 × 6 cm → contrai para ~5 × 4 cm. Usos: camouflage de irregularidades dorsais, diced cartilage wrapped in fáscia (DC-F).",
+      "MATERIAIS ALTERNATIVOS: costela homóloga fresca (FFHCC (Fresh Frozen Homologous Costal Cartilage — cartilagem costal homóloga fresca congelada) — infecção 2,4%, reabsorção 0,8%), costela irradiada, aloplásticos (implantes de silicone — malposição 4%, extrusão < 1%).",
       "HIERARQUIA (Rhinoplasty Society): septo > costela autóloga > costela homóloga fresca > concha > costela irradiada > aloplástico."
     ],
     "images": ["diagrama-tipos-enxertos.png"],
@@ -138,7 +138,7 @@
     "type": "note",
     "title": "Rinoplastia Secundária (Revisão)",
     "topic": "rinoplastia",
-    "area": "estetica-facial",
+    "area": "estética-facial",
     "section": "Rinoplastia Secundária",
     "content": [
       "Taxa de complicações significativas: 1,7–18%. Aguardar mínimo 12 meses após cirurgia prévia.",
@@ -178,13 +178,13 @@
     "type": "note",
     "title": "Rinoplastia em Fissura Labiopalatal",
     "topic": "rinoplastia",
-    "area": "estetica-facial",
+    "area": "estética-facial",
     "section": "Casos Especiais",
     "content": [
       "O nariz com fissura apresenta: deformidade da base alar ipsilateral, desvio de columela, assimetria de cúpulas, encurtamento columelar (bilateral).",
       "Rinoplastia primária (durante queiloplastia, < 2 anos): centralização do septo caudal, reparo do assoalho nasal e parede lateral, posicionamento da base alar.",
       "Rinoplastia definitiva: deferida até maturidade esquelética (> 14–16 anos para ♀, > 18 anos para ♂).",
-      "Se cirurgia ortognática planejada: adiar rinoplastia até após Le Fort I — movimentos esqueléticos afetam imprevisivelmente a fundação nasal.",
+      "Se cirurgia ortognática planejada: adiar rinoplastia até após Le Fort I — movimentos esqueléticos afetam imprevisívelmente a fundação nasal.",
       "Enxerto septal primário na queiloplastia (Ueno et al., 10 anos): maior altura na porção medial da narina, desvio septal significativamente menor, sem causar desvio septal clinicamente significativo.",
       "Tip plasty aberta precoce (3–5 anos) na fissura bilateral (Mohan et al.): melhora de projeção e altura da narina mantidas ao longo do tempo, pode reduzir necessidade de rinoplastia definitiva."
     ],
@@ -222,19 +222,19 @@
     "type": "note",
     "title": "Complicações da Rinoplastia",
     "topic": "rinoplastia",
-    "area": "estetica-facial",
+    "area": "estética-facial",
     "section": "Complicações",
     "content": [
       "EPISTAXE (< 1% grave): elevação da cabeça > 60°, oximetazolina spray, pressão 15 min. Tamponamento anterior se persistir. < 1% necessita exploração (ressecção de corneto geralmente é a fonte). Última opção: embolização angiográfica.",
       "HEMATOMA (dorso, ponta, septo): TODOS devem ser drenados. Hematoma subdérmico → fibrose e deformidade. Hematoma septal ('blackberry') → perfuração ou necrose → sela pós-operatória.",
       "INFECÇÃO / CELULITE (rara): cefalosporinas para celulite leve. MRSA: levofloxacina, SMX-TMP, minociclina. Grave: internação + IV. Abscessos: drenagem + cultura.",
-      "SÍNDROME DO CHOQUE TÓXICO (muito rara): com packing e splints. S. aureus ou S. pyogenes. Remoção + ATB IV + UTI.",
+      "SÍNDROME DO CHOQUE TÓXICO (muito rara): com packing e splints. S. aureus ou S. pyogenes. Remoção + antibiótico (ATB) IV + UTI (Unidade de Terapia Intensiva).",
       "EDEMA PROLONGADO / SUPRATIP FULLNESS (5–15%): taping, compressas frias, corticoide perioperatório. Se persistir > 6 sem: triancinolona 3–5 mg intralesional a cada 4–8 semanas.",
       "IRREGULARIDADE DE DORSO (5–10%): revisão ≥ 12 meses; AH para defeitos menores.",
       "RECORRÊNCIA DE GIBA (preservação) (2,5–13,6%): menor com eletrocautério.",
       "DEFORMIDADE EM V INVERTIDO: spreader grafts + batten grafts.",
       "POLLYBEAK: subressecção dorsal ou excesso de tecido mole.",
-      "PINCHED TIP / COLAPSO ALAR (2–5%): alar rim graft, LCSG, batten graft.",
+      "PINCHED TIP / COLAPSO ALAR (2–5%): alar rim graft, LCSG (lateral crural strut graft), batten graft.",
       "COLAPSO DE VALVA INTERNA (1–3%): spreader grafts ou flaps.",
       "SELA PÓS-OPERATÓRIA (< 1%): enxerto de dorso (DC-F, rib).",
       "DESVIO RESIDUAL (3–8%): moldagem nasal digital 3–4×/dia por 4–6 sem; revisão se persistir > 12 meses.",
@@ -249,10 +249,10 @@
     "updates": [
       {
         "color": "blue",
-        "title": "TXA tópico na septorrinoplastia — meta-análise de 7 ECRs",
+        "title": "Ácido tranexâmico (TXA) tópico na septorrinoplastia — meta-análise de 7 ECRs (ensaios clínicos randomizados)",
         "content": [
           "514 pacientes (Di Martino L et al., ASJ 2025).",
-          "TXA tópico reduziu significativamente: sangramento intraoperatório (SMD −1,20; IC 95% −2,34 a −0,07; P = 0,04), edema pós-operatório (SMD −0,87; P < 0,001) e equimose (SMD −1,16; P < 0,001).",
+          "TXA tópico reduziu significativamente: sangramento intraoperatório (SMD — diferença média padronizada — −1,20; IC — intervalo de confiança — 95% −2,34 a −0,07; P = 0,04), edema pós-operatório (SMD −0,87; P < 0,001) e equimose (SMD −1,16; P < 0,001).",
           "Sem diferença significativa em satisfação do cirurgião (P = 0,14) ou tempo operatório (P = 0,22).",
           "TXA tópico como adjuvante eficaz para hemostasia e recuperação."
         ],
@@ -267,7 +267,7 @@
     "type": "note",
     "title": "Manejo da Sela Nasal",
     "topic": "rinoplastia",
-    "area": "estetica-facial",
+    "area": "estética-facial",
     "section": "Casos Especiais",
     "content": [
       "Nariz em sela: deficiência de suporte dorsal, pós-trauma ou iatrogênica.",
@@ -275,7 +275,7 @@
       "Fáscia do reto abdominal é alternativa à fáscia temporal.",
       "Casos graves: Integrated Biomimetic Groove Graft (IBGG) — 3 variantes para diferentes padrões de defeito septal (Cakmak 1, 2 e 3).",
       "Niu et al. (95 pacientes): fáscia do reto introduzida no espaço dorsal, cartilagem costal picada injetada e moldada. Taxa de absorção ~10%. Indicação: revisão pós-infecção, thinning nasal.",
-      "Duan et al. (33 pacientes): IBGG para sela moderada a grave. VAS médio 8,57/10. Melhora significativa em projeção/rotação da ponta."
+      "Duan et al. (33 pacientes): IBGG para sela moderada a grave. média na EVA (Escala Visual Analógica — VAS) 8,57/10. Melhora significativa em projeção/rotação da ponta."
     ],
     "images": [],
     "citations": ["Neligan, 2023, vol. 2, cap. 19", "Grabb & Smith, 2024, cap. 55"],
@@ -312,11 +312,11 @@
     "type": "note",
     "title": "Cuidados Pós-operatórios",
     "topic": "rinoplastia",
-    "area": "estetica-facial",
+    "area": "estética-facial",
     "section": "Pós-operatório",
     "content": [
       "CURATIVOS: Steri-Strips do supratip ao dorso → splint dorsal Denver → splints de Doyle se septoplastia. Remoção no 7° dia. Suturas de base alar: 7–10 dias.",
-      "MEDICAÇÕES: cefalosporinas IV profiláticas (dose única pré-op; sem ATB pós-op — sem diferença em taxa de infecção). Dexametasona 8 mg IV intraoperatória (± Medrol Dosepak 6 dias). Analgesia narcótica oral por poucos dias + laxantes.",
+      "MEDICAÇÕES: cefalosporinas IV profiláticas (dose única pré-op; sem antibiótico pós-op — sem diferença em taxa de infecção). Dexametasona 8 mg IV intraoperatória (± Medrol Dosepak 6 dias). Analgesia narcótica oral por poucos dias + laxantes.",
       "ATIVIDADE: cabeça elevada > 30° nas primeiras 48 h; compressas frias; sem esforço/exercício por 3 semanas; evitar trauma/pressão (inclusive óculos) por 4 semanas.",
       "SEGUIMENTO: 1 semana, 1 mês, 3 meses, 6 meses, 1 ano, depois anualmente.",
       "EDEMA E EQUIMOSE: maioria resolve em 3–4 semanas. Edema sutil resolve em ~12 meses (mais em pele espessa). Definição da ponta e fluxo aéreo continuam melhorando nesse período.",

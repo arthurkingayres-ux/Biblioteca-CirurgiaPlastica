@@ -4,40 +4,40 @@
     "type": "decision",
     "title": "Tratamento da Orelha em Abano",
     "topic": "otoplastia",
-    "area": "estetica-facial",
-    "trigger": "Paciente com orelha em abano (angulo cefaloauricular > 35 graus e/ou projecao helice-mastoide acima dos valores normais) avaliado para correcao.",
+    "area": "estética-facial",
+    "trigger": "Paciente com orelha em abano (ângulo cefaloauricular > 35 graus e/ou projeção helice-mastoide acima dos valores normais) avaliado para correção.",
     "steps": [
       {
         "question": "Qual a idade do paciente?",
         "options": [
           {
             "answer": "Neonato (< 6 semanas de vida)",
-            "next": "Moldagem neonatal (EarWell, Auri). Taxa de sucesso > 90%. Iniciar o mais precocemente possivel para aproveitar maleabilidade da cartilagem sob efeito do estrogenio materno."
+            "next": "Moldagem neonatal (EarWell, Auri). Taxa de sucesso > 90%. Iniciar o mais precocemente possível para aproveitar maleabilidade da cartilagem sob efeito do estrogenio materno."
           },
           {
             "answer": "Lactente (6 semanas - 5 anos)",
-            "next": "Acompanhamento clinico. Janela de moldagem perdida. Aguardar ate 5-6 anos para indicacao cirurgica (pavilhao atinge ~85% do tamanho adulto)."
+            "next": "Acompanhamento clinico. Janela de moldagem perdida. Aguardar ate 5-6 anos para indicação cirúrgica (pavilhão atinge ~85% do tamanho adulto)."
           },
           {
             "answer": "Crianca >= 5-6 anos ou adulto",
-            "next": "Avaliar causa anatomica da prominencia para escolha da tecnica cirurgica."
+            "next": "Avaliar causa anatômica da prominencia para escolha da técnica cirúrgica."
           }
         ]
       },
       {
-        "question": "Qual a causa anatomica predominante da orelha em abano?",
+        "question": "Qual a causa anatômica predominante da orelha em abano?",
         "options": [
           {
             "answer": "Anti-helice hipoplasica ou ausente (~60% dos casos)",
-            "next": "Tecnica de Mustarde (suturas horizontais de colchoeiro na cartilagem posterior para criar anti-helice). Indicada especialmente em criancas com cartilagem maleavel."
+            "next": "Técnica de Mustarde (suturas horizontais de colchoeiro na cartilagem posterior para criar anti-helice). Indicada especialmente em criancas com cartilagem maleavel."
           },
           {
             "answer": "Concha hiperdesenvolvida / profunda (~20% dos casos)",
-            "next": "Tecnica de Furnas (sutura concha-mastoide). Cuidado para nao distorcer o MAE (Meato Acustico Externo). Considerar resseccao conchal se concha muito profunda."
+            "next": "Técnica de Furnas (sutura concha-mastoide). Cuidado para nao distorcer o MAE (Meato Acústico Externo). Considerar ressecção conchal se concha muito profunda."
           },
           {
             "answer": "Combinacao: anti-helice + concha (~20% dos casos)",
-            "next": "Tecnica combinada (Mustarde + Furnas). Abordagem mais frequente na pratica (78% na serie de Belfast, 2333 orelhas)."
+            "next": "Técnica combinada (Mustarde + Furnas). Abordagem mais frequente na pratica (78% na serie de Belfast, 2333 orelhas)."
           }
         ]
       },
@@ -46,11 +46,11 @@
         "options": [
           {
             "answer": "Sim - risco elevado de extrusao",
-            "next": "Associar retalho dermofascial pos-auricular (Bulstrode, 0% extrusao em 340 orelhas) ou enxerto de tecido mole livre (Alzayadneh, 0% em 58 orelhas) para cobrir nos das suturas."
+            "next": "Associar retalho dermofáscial pos-auricular (Bulstrode, 0% extrusao em 340 orelhas) ou enxerto de tecido mole livre (Alzayadneh, 0% em 58 orelhas) para cobrir nos das suturas."
           },
           {
             "answer": "Nao - risco habitual",
-            "next": "Tecnica padrao sem cobertura adicional. Taxa de extrusao esperada: 1-6%."
+            "next": "Técnica padrao sem cobertura adicional. Taxa de extrusao esperada: 1-6%."
           }
         ]
       },
@@ -59,7 +59,7 @@
         "options": [
           {
             "answer": "Sim - cartilagem rigida",
-            "next": "Considerar escarificacao anterior (Stenstrom - Principio de Gibson) associada as suturas para facilitar moldagem da anti-helice."
+            "next": "Considerar escarificação anterior (Stenstrom - Princípio de Gibson) associada as suturas para facilitar moldagem da anti-helice."
           },
           {
             "answer": "Nao - cartilagem maleavel (crianca ou adulto jovem)",
@@ -75,10 +75,10 @@
     ],
     "updates": [],
     "tags": [
-      "decisao",
+      "decisão",
       "orelha-em-abano",
-      "indicacao",
-      "tecnica",
+      "indicação",
+      "técnica",
       "otoplastia"
     ]
   }

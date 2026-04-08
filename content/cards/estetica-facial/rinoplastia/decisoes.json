@@ -4,7 +4,7 @@
     "type": "decision",
     "title": "Abordagem Aberta vs. Fechada",
     "topic": "rinoplastia",
-    "area": "estetica-facial",
+    "area": "estética-facial",
     "trigger": "Paciente candidato a rinoplastia — decisão sobre via de acesso cirúrgico.",
     "steps": [
       {
@@ -56,7 +56,7 @@
     "type": "decision",
     "title": "Algoritmo de Osteotomias",
     "topic": "rinoplastia",
-    "area": "estetica-facial",
+    "area": "estética-facial",
     "trigger": "Avaliação intraoperatória do vault ósseo após redução dorsal ou para correção de desvio nasal.",
     "steps": [
       {
@@ -103,7 +103,7 @@
     "type": "decision",
     "title": "Escolha de Material de Enxerto (Septal vs. Auricular vs. Costal)",
     "topic": "rinoplastia",
-    "area": "estetica-facial",
+    "area": "estética-facial",
     "trigger": "Necessidade de enxerto cartilaginoso durante rinoplastia — seleção do sítio doador.",
     "steps": [
       {
@@ -115,7 +115,7 @@
           },
           {
             "answer": "Contorno (onlay dorsal, onlay de ponta)",
-            "next": "Preferência: concha auricular (quando disponível) > septo > diced cartilage fascia-wrapped."
+            "next": "Preferência: concha auricular (quando disponível) > septo > diced cartilage fáscia-wrapped."
           }
         ]
       },
@@ -171,7 +171,7 @@
         "content": [
           "Revisão retrospectiva de 123 rinoplastias com costela homóloga fresca (Taylor CM, Barrera JE, PRS 2026). Seguimento médio: 11 meses.",
           "Infecção: 2,4% (3/123); reabsorção: 0,8% (1/123).",
-          "Melhora significativa em NOSE (P < 0,001), SNOT-22 (P < 0,001), Epworth (P < 0,001) e SCHNOS total/funcional/cosmético (P < 0,001).",
+          "Melhora significativa em NOSE (Nasal Obstruction Symptom Evaluation; P < 0,001), SNOT-22 (Sino-Nasal Outcome Test; P < 0,001), Epworth (P < 0,001) e SCHNOS (Standardized Cosmesis and Health Nasal Outcomes Survey) total/funcional/cosmético (P < 0,001).",
           "Alternativa 'off-the-shelf' conveniente e econômica quando septo é insuficiente."
         ],
         "citation": "Taylor CM, Barrera JE. Plast Reconstr Surg 2026;157(1):28e–37e. DOI: 10.1097/PRS.0000000000012303",
@@ -185,7 +185,7 @@
     "type": "decision",
     "title": "Manejo do Dorso: Preservação vs. Redução por Componentes",
     "topic": "rinoplastia",
-    "area": "estetica-facial",
+    "area": "estética-facial",
     "trigger": "Paciente com giba dorsal — decisão entre rinoplastia de preservação dorsal e redução por componentes.",
     "steps": [
       {

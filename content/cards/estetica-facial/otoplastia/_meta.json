@@ -1,6 +1,6 @@
 {
   "topic": "otoplastia",
-  "area": "estetica-facial",
+  "area": "estética-facial",
   "displayName": "Otoplastia",
   "version": "v1.0",
   "date": "2026-04-08",
@@ -10,7 +10,7 @@
     "Grotting JC, Rubin JP. Grabb & Smith's Plastic Surgery, 8a Ed. Wolters Kluwer, 2020. Cap. 36."
   ],
   "articles": [
-    "Bulstrode NW et al. Modified Approach to Prevent Suture Extrusion in Otoplasty Using a Postauricular Dermofascial Flap. Plast Reconstr Surg 2024;154(6):1191e-1199e.",
+    "Bulstrode NW et al. Modified Approach to Prevent Suture Extrusion in Otoplasty Using a Postauricular Dermofáscial Flap. Plast Reconstr Surg 2024;154(6):1191e-1199e.",
     "Benkler M et al. Cartilage-Sparing Otoplasty: A New Approach. Plast Reconstr Surg 2023;152(4):689e-692e.",
     "McGarry KM et al. Otoplasty: The Belfast Experience. 10-Year Review of 2333 Ear Outcomes. Plast Reconstr Surg 2023;151(3):388e-397e.",
     "Savetsky IL et al. Revisiting Primary Otoplasty: Surgical Approach to the Prominent Ear. Plast Reconstr Surg 2021;148(1):28e-31e.",
@@ -18,7 +18,7 @@
   ],
   "cardCounts": {
     "anatomia": 2,
-    "tecnicas": 6,
+    "técnicas": 6,
     "decisoes": 1,
     "notas": 3,
     "flashcards": 7

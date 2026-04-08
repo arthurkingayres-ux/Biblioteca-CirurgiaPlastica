@@ -2,46 +2,46 @@
   "id": "blef-fc-001",
   "type": "flashcard",
   "topic": "blefaroplastia",
-  "area": "estetica-facial",
+  "area": "estética-facial",
   "cards": [
     {
-      "front": "MRD1 normal",
+      "front": "MRD1 (distância margem-reflexo 1) — normal",
       "back": "4–5 mm (< 2 mm = ptose)",
       "citation": "Neligan, 2023, vol. 2, cap. 8",
       "domain": "avaliação"
     },
     {
-      "front": "MRD2 normal",
+      "front": "MRD2 (distância margem-reflexo 2) — normal",
       "back": "5 mm",
       "citation": "Neligan, 2023, vol. 2, cap. 9",
       "domain": "avaliação"
     },
     {
-      "front": "Fissura palpebral — largura normal",
+      "front": "Fissura pálpebral — largura normal",
       "back": "28–32 mm",
       "citation": "Neligan, 2023, vol. 2, cap. 8",
       "domain": "anatomia"
     },
     {
-      "front": "Fissura palpebral — altura normal",
+      "front": "Fissura pálpebral — altura normal",
       "back": "10–12 mm (< 8 mm sugere ptose ou blefaroespasmo)",
       "citation": "Neligan, 2023, vol. 2, cap. 8",
       "domain": "anatomia"
     },
     {
-      "front": "Prega palpebral superior ♀",
+      "front": "Prega pálpebral superior ♀",
       "back": "8–10 mm da margem ciliar",
       "citation": "Neligan, 2023, vol. 2, cap. 8",
       "domain": "técnica"
     },
     {
-      "front": "Prega palpebral superior ♂",
+      "front": "Prega pálpebral superior ♂",
       "back": "7–8 mm da margem ciliar",
       "citation": "Neligan, 2023, vol. 2, cap. 8",
       "domain": "técnica"
     },
     {
-      "front": "Prega palpebral — dupla pálpebra asiática",
+      "front": "Prega pálpebral — dupla pálpebra asiática",
       "back": "6–8 mm (menor que caucasiana para evitar aparência ocidentalizada)",
       "citation": "Neligan, 2023, vol. 2, cap. 8",
       "domain": "técnica"
@@ -161,25 +161,25 @@
       "domain": "técnica"
     },
     {
-      "front": "Espessura da pele palpebral",
+      "front": "Espessura da pele pálpebral",
       "back": "~0,5 mm (mais fina do corpo; face = 2–3 mm)",
       "citation": "Neligan, 2023, vol. 2, cap. 8",
       "domain": "anatomia"
     },
     {
-      "front": "Septo orbital superior — fusão com aponeurose do LPS",
+      "front": "Septo órbital superior — fusão com aponeurose do LPS",
       "back": "2–5 mm acima da borda superior do tarso",
       "citation": "Neligan, 2023, vol. 2, cap. 8",
       "domain": "anatomia"
     },
     {
-      "front": "Septo orbital inferior — fusão com fáscia capsulopalpebral",
+      "front": "Septo órbital inferior — fusão com fáscia capsulopálpebral",
       "back": "~5 mm abaixo da borda inferior do tarso",
       "citation": "Neligan, 2023, vol. 2, cap. 9",
       "domain": "anatomia"
     },
     {
-      "front": "Contribuição do músculo de Müller para elevação palpebral",
+      "front": "Contribuição do músculo de Müller para elevação pálpebral",
       "back": "2 mm (inervação simpática)",
       "citation": "Neligan, 2023, vol. 2, cap. 8",
       "domain": "anatomia"
@@ -192,18 +192,18 @@
     },
     {
       "front": "Tubérculo de Whitnall — localização",
-      "back": "2–3 mm posterior ao rebordo orbitário lateral, face interna da parede orbital",
+      "back": "2–3 mm posterior ao rebordo orbitário lateral, face interna da parede órbital",
       "citation": "Neligan, 2023, vol. 2, cap. 9",
       "domain": "anatomia"
     },
     {
-      "front": "Gordura palpebral superior — quantos compartimentos",
+      "front": "Gordura pálpebral superior — quantos compartimentos",
       "back": "2 (medial/nasal e central/pré-aponeurótico). Lateral = glândula lacrimal, NÃO gordura",
       "citation": "Neligan, 2023, vol. 2, cap. 8",
       "domain": "anatomia"
     },
     {
-      "front": "Gordura palpebral inferior — quantos compartimentos",
+      "front": "Gordura pálpebral inferior — quantos compartimentos",
       "back": "3 (medial, central e lateral), separados pelo m. oblíquo inferior",
       "citation": "Neligan, 2023, vol. 2, cap. 9",
       "domain": "anatomia"
@@ -221,7 +221,7 @@
       "domain": "anatomia"
     },
     {
-      "front": "Arco marginal palpebral — localização",
+      "front": "Arco marginal pálpebral — localização",
       "back": "2 mm da margem ciliar",
       "citation": "Neligan, 2023, vol. 2, cap. 8",
       "domain": "anatomia"
@@ -293,8 +293,8 @@
       "domain": "decisão"
     },
     {
-      "front": "Nomoto & Ogawa — incisão subtarsal na fáscia capsulopalpebral",
-      "back": "ZERO ectrópio em 74 casos / 18 meses. Preserva tensão do septo e capsulopalpebral",
+      "front": "Nomoto & Ogawa — incisão subtarsal na fáscia capsulopálpebral",
+      "back": "ZERO ectrópio em 74 casos / 18 meses. Preserva tensão do septo e capsulopálpebral",
       "citation": "Nomoto S, Ogawa R. PRS 2026;157(4):486e–495e",
       "domain": "técnica"
     },

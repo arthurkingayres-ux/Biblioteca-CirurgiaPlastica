@@ -5,7 +5,7 @@
     "title": "Rinoplastia Aberta (Via Transcolumelar)",
     "aliases": ["open rhinoplasty", "via aberta", "transcolumelar approach"],
     "topic": "rinoplastia",
-    "area": "estetica-facial",
+    "area": "estética-facial",
     "indication": "Deformidades complexas do dorso e ponta, nariz desviado, rinoplastia secundária, necessidade de reconstrução com enxertos, deformidades da ponta que requerem suturas complexas.",
     "contraindication": "Relativas: deformidades menores do dorso isoladas, pele muito espessa (limitará definição), pacientes com preocupação excessiva com cicatriz columelar.",
     "steps": [
@@ -28,7 +28,7 @@
       "A dissecção sobre os ossos é feita apenas na área central — não perturbar as inserções periostais laterais (estabilidade pós-osteotomia).",
       "Hemostasia comparável é obtida com lidocaína + oximetazolina, evitando efeitos cardíacos da cocaína.",
       "Incisão em broken-line pode produzir menor notching columelar.",
-      "Remoção de splints e suturas tipicamente no 7° dia pós-operatório."
+      "Remoção de splints e suturas típicamente no 7° dia pós-operatório."
     ],
     "images": ["algoritmo-abordagem-aberta-fechada.png"],
     "citations": ["Neligan, 2023, vol. 2, cap. 19", "Core Procedures, 2020, cap. 4"],
@@ -41,7 +41,7 @@
     "title": "Rinoplastia Fechada (Endonasal)",
     "aliases": ["closed rhinoplasty", "endonasal rhinoplasty", "via fechada"],
     "topic": "rinoplastia",
-    "area": "estetica-facial",
+    "area": "estética-facial",
     "indication": "Dorso baixo para o tamanho da base, pontas que necessitam de enxerto mais que de ressecção, pacientes com pele que camufla bem as correções, revisões secundárias com anatomia favorável.",
     "contraindication": "Deformidades complexas da ponta, nariz desviado severo, necessidade de múltiplas manobras de sutura, casos de revisão complexa.",
     "steps": [
@@ -70,7 +70,7 @@
     "title": "Septoplastia e Reconstrução Septal",
     "aliases": ["septoplasty", "reconstrução septal", "correção do desvio septal"],
     "topic": "rinoplastia",
-    "area": "estetica-facial",
+    "area": "estética-facial",
     "indication": "Desvio septal com obstrução nasal, coleta de cartilagem para enxertos, nariz desviado. Classificação de Rohrich: I — desvio caudal (tilt reto, C-shaped, S-shaped); II — deformidade dorsal côncava; III — deformidade côncava/convexa (S-shaped).",
     "contraindication": "Ausência de cartilagem septal suficiente (cirurgias prévias), perfuração septal extensa ativa.",
     "steps": [
@@ -102,7 +102,7 @@
     "title": "Redução Dorsal por Componentes (Component Dorsal Hump Reduction)",
     "aliases": ["component reduction", "redução do dorso", "hump reduction"],
     "topic": "rinoplastia",
-    "area": "estetica-facial",
+    "area": "estética-facial",
     "indication": "Giba dorsal osteocartilaginosa. Preferida sobre a redução composta com osteótomo.",
     "contraindication": "Giba mínima onde preservação dorsal é mais apropriada.",
     "steps": [
@@ -116,7 +116,7 @@
     "pearls": [
       "O dorso é modificado ANTES da ponta, estabelecendo o equilíbrio dorso-ponta essencial.",
       "A técnica por componentes é preferida sobre a redução composta com osteótomo.",
-      "Pacientes com ossos nasais curtos e arcabouço osseocartilaginoso alto e estreito têm maior risco de problemas no terço médio."
+      "Pacientes com ossos nasais curtos e arcabouço ósseocartilaginoso alto e estreito têm maior risco de problemas no terço médio."
     ],
     "images": [],
     "citations": ["Neligan, 2023, vol. 2, cap. 19", "Grabb & Smith, 2024, cap. 54"],
@@ -129,7 +129,7 @@
     "title": "Spreader Grafts e Autospreader Flaps",
     "aliases": ["spreader grafts", "autospreader flaps", "enxertos de espalhamento"],
     "topic": "rinoplastia",
-    "area": "estetica-facial",
+    "area": "estética-facial",
     "indication": "Recriar linhas estéticas dorsais, alargar terço médio, corrigir nariz desviado, restaurar patência da valva interna, prevenir/tratar deformidade em V invertido.",
     "contraindication": "Uso excessivo pode causar largura excessiva do terço médio.",
     "steps": [
@@ -158,7 +158,7 @@
     "title": "Osteotomias Nasais",
     "aliases": ["osteotomies", "osteotomia lateral", "osteotomia medial", "osteotomia percutânea"],
     "topic": "rinoplastia",
-    "area": "estetica-facial",
+    "area": "estética-facial",
     "indication": "Estreitar vault ósseo largo, fechar open roof deformity após redução dorsal, retificar ossos nasais desviados.",
     "contraindication": "Relativas: ossos nasais curtos, pacientes idosos com ossos finos, pele espessa, nariz baixo e largo em etnia não-europeia.",
     "steps": [
@@ -187,7 +187,7 @@
     "title": "Cephalic Trim da Crura Lateral",
     "aliases": ["cephalic trim", "ressecção cefálica", "volume reduction lower laterals"],
     "topic": "rinoplastia",
-    "area": "estetica-facial",
+    "area": "estética-facial",
     "indication": "Ponta bulbosa ou boxy. Remove a proeminência cefálica da crura média e lateral, reduzindo fullness paradomal e definindo a ponta.",
     "contraindication": "Cartilagens de qualidade ruim (turnover flap preferível), CLA finas ou fracas.",
     "steps": [
@@ -214,7 +214,7 @@
     "title": "Suturas da Ponta Nasal",
     "aliases": ["tip sutures", "sutura transdomal", "sutura interdomal", "sutura de ponta"],
     "topic": "rinoplastia",
-    "area": "estetica-facial",
+    "area": "estética-facial",
     "indication": "Refinamento e controle da projeção, definição e simetria da ponta nasal. Primeira abordagem antes de enxertos.",
     "contraindication": "Cartilagens extremamente fracas que não mantêm sutura.",
     "steps": [
@@ -244,7 +244,7 @@
     "title": "Columellar Strut Graft",
     "aliases": ["columellar strut", "strut columelar", "enxerto intercrural"],
     "topic": "rinoplastia",
-    "area": "estetica-facial",
+    "area": "estética-facial",
     "indication": "Manter ou aumentar projeção da ponta, unificar o complexo da ponta. Uso rotineiro na via aberta para compensar perda de suporte ligamentar.",
     "contraindication": "Casos onde não há necessidade de suporte adicional da ponta (raro na via aberta).",
     "steps": [
@@ -272,7 +272,7 @@
     "title": "Septal Extension Graft (Extensão Septal)",
     "aliases": ["septal extension graft", "extensão septal", "caudal extension"],
     "topic": "rinoplastia",
-    "area": "estetica-facial",
+    "area": "estética-facial",
     "indication": "Controle efetivo de projeção e rotação da ponta. Versatilidade para alongar ou encurtar o nariz.",
     "contraindication": "Insuficiência de material cartilaginoso (necessita ≥ 20 × 10 mm).",
     "steps": [
@@ -299,7 +299,7 @@
     "title": "Enxertos da Ponta (Shield, Onlay, Cap)",
     "aliases": ["tip grafts", "shield graft", "onlay graft", "cap graft", "anatomic tip graft"],
     "topic": "rinoplastia",
-    "area": "estetica-facial",
+    "area": "estética-facial",
     "indication": "Quando projeção, definição ou simetria adequadas não são obtidas por sutura. Preferência por enxertos invisíveis em rinoplastia primária.",
     "contraindication": "Pele muito fina (risco de visibilidade), excesso de projeção.",
     "steps": [
@@ -325,7 +325,7 @@
     "title": "Alar Contour Graft e Lateral Crural Strut Graft",
     "aliases": ["alar rim graft", "alar contour graft", "lateral crural strut graft", "LCSG"],
     "topic": "rinoplastia",
-    "area": "estetica-facial",
+    "area": "estética-facial",
     "indication": "Alar contour: corrigir/prevenir notching ou retração alar, facetas dos soft triangles. Lateral crural strut: CLA fracas, colapso de valva externa, malposição das CLA, aumento de projeção.",
     "contraindication": "Material insuficiente para talhar os enxertos.",
     "steps": [
@@ -352,7 +352,7 @@
     "title": "Cirurgia da Base Alar",
     "aliases": ["alar base reduction", "redução da base alar", "Weir excision"],
     "topic": "rinoplastia",
-    "area": "estetica-facial",
+    "area": "estética-facial",
     "indication": "Flaring alar, assimetria de narinas, narinas excessivamente grandes, alae laterais alongadas, base alar alargada.",
     "contraindication": "Ângulo perpendicular ou obtuso entre plano alar e plano basal (ressecção resultará em 'bowling pin').",
     "steps": [
@@ -378,7 +378,7 @@
     "title": "Turbinoplastia Inferior",
     "aliases": ["turbinoplasty", "turbinectomia", "redução de corneto inferior"],
     "topic": "rinoplastia",
-    "area": "estetica-facial",
+    "area": "estética-facial",
     "indication": "Obstrução por hipertrofia de corneto inferior refratária ao tratamento clínico.",
     "contraindication": "Hipertrofia compensatória de corneto normal (contralateral ao desvio septal) — corrigir desvio primeiro.",
     "steps": [
@@ -386,12 +386,12 @@
       "2. Ressecção submucosa limitada: eletrocautério incisa a borda inferior dos 1–2 cm anteriores do corneto até o osso conchal.",
       "3. Descolador de Cottle cria retalho mucoperiosteal de base medial.",
       "4. Pinças de Takahashi ressecam o osso do terço anterior.",
-      "5. Retalho reposicionado sobre a superfície cruenta (não suturar — adere espontaneamente)."
+      "5. Retalho reposicionado sobre a superfície cruenta (não suturar — adere espontâneamente)."
     ],
     "complications": ["Sangramento (vasos posteriores de maior calibre)", "Crostas", "Disfunção ciliar", "Infecção crônica", "Rinite atrófica", "Síndrome do nariz vazio (empty nose syndrome)"],
     "pearls": [
       "Abordagem conservadora preferida para evitar complicações graves.",
-      "ECR de Passàli et al. (382 pacientes, 6 anos): ressecção submucosa + outfracture teve menores complicações com altas taxas de respiração normalizada — recomendada como técnica de primeira escolha.",
+      "Ensaio clínico randomizado (ECR) de Passàli et al. (382 pacientes, 6 anos): ressecção submucosa + outfracture teve menores complicações com altas taxas de respiração normalizada — recomendada como técnica de primeira escolha.",
       "Evitar ressecção posterior (vasos de maior calibre, sangramento significativo)."
     ],
     "images": [],
@@ -405,11 +405,11 @@
     "title": "Liberação do Músculo Depressor Septi Nasi",
     "aliases": ["depressor septi release", "liberação do depressor", "depressor septi nasi release"],
     "topic": "rinoplastia",
-    "area": "estetica-facial",
+    "area": "estética-facial",
     "indication": "Descida da ponta com animação, encurtamento do lábio superior e vinco transverso do filtro.",
     "contraindication": "Depressor tipo III (rudimentar ou ausente — liberação não necessária).",
     "steps": [
-      "1. Classificar: Tipo I (inserção nos footplates mediocrurais interdigitando com orbicular), Tipo II (origem no periósteo maxilar), Tipo III (rudimentar/ausente).",
+      "1. Classificar: Tipo I (inserção nos footplates médiocrurais interdigitando com orbicular), Tipo II (origem no periósteo maxilar), Tipo III (rudimentar/ausente).",
       "2. Incisão gingivolabial superior horizontal de 8–10 mm centrada no frênulo.",
       "3. Dissecção e liberação dos músculos próximo à origem.",
       "4. Transposição das extremidades cortadas para fornecer volume ao lábio superior central.",
@@ -432,11 +432,11 @@
     "title": "Rinoplastia de Preservação Dorsal (Dorsal Preservation)",
     "aliases": ["dorsal preservation", "preservação dorsal", "push-down technique"],
     "topic": "rinoplastia",
-    "area": "estetica-facial",
+    "area": "estética-facial",
     "indication": "Giba dorsal pequena a moderada, pele adequada, anatomia favorável. Preserva a relação intrínseca do keystone.",
     "contraindication": "Gibas grandes, pele muito espessa, anatomia desfavorável.",
     "steps": [
-      "1. Ressecção no plano sub-SMAS do dorso, não componente por componente.",
+      "1. Ressecção no plano sub-SMAS (Sistema Músculo-Aponeurótico Superficial) do dorso, não componente por componente.",
       "2. Preservar relação intrínseca do keystone (ligamento entre septo e CLS).",
       "3. Push-down da pirâmide nasal intacta.",
       "4. Auxílio frequente de equipamento piezoelétrico.",
@@ -472,12 +472,12 @@
     "title": "Correção da Relação Alar-Columelar (Classificação de Rohrich)",
     "aliases": ["alar-columellar relationship", "relação alar-columelar", "classificação de Rohrich"],
     "topic": "rinoplastia",
-    "area": "estetica-facial",
+    "area": "estética-facial",
     "indication": "Desproporção entre a posição da ala nasal e a columela, avaliada na vista lateral.",
     "contraindication": "Assimetria aceitável quando dentro dos limites normais.",
     "steps": [
       "1. Classificar: Classe I (columela pendente > 2 mm) → ressecção de septo membranoso ± septo caudal ± cruras mediais.",
-      "2. Classe II (retração alar > 2 mm) → reposicionamento caudal da crura lateral, alar contour/LCSG, enxertos compostos.",
+      "2. Classe II (retração alar > 2 mm) → reposicionamento caudal da crura lateral, alar contour/LCSG (lateral crural strut graft), enxertos compostos.",
       "3. Classe III (combinação I + II).",
       "4. Classe IV (ala pendente < 1 mm) → excisão de elipse horizontal de pele vestibular (máximo 3 mm).",
       "5. Classe V (retração columelar < 1 mm) → columellar strut contornado entre as cruras mediais.",

@@ -1,6 +1,6 @@
 {
   "topic": "blefaroplastia",
-  "area": "estetica-facial",
+  "area": "estética-facial",
   "displayName": "Blefaroplastia",
   "version": "v1.0",
   "date": "2026-04-07",
@@ -22,7 +22,7 @@
   ],
   "cardCounts": {
     "anatomia": 18,
-    "tecnicas": 12,
+    "técnicas": 12,
     "decisoes": 4,
     "notas": 10,
     "flashcards": 56
