@@ -21,7 +21,7 @@
     ],
     "surgical_relevance": "O ângulo cefaloauricular normal e de 25-35 graus. Projeção helice-mastoide: 10-12 mm (superior), 16-18 mm (médio), 20-22 mm (inferior). Valores acima desses indicam orelha em abano. A idade mínima para otoplastia (5-6 anos) e determinada pelo grau de desenvolvimento do pavilhão.",
     "how_to_identify": "Estrutura cartilaginosa proeminente na região temporal lateral. Marcos anatômicos de superfície: helice (borda superior enrolada), anti-helice (crista paralela interna), tragus (protuberância anterior ao MAE), antitragus (protuberância inferior oposta ao tragus), lóbulo (porção inferior sem cartilagem), concha (depressão central dividida em cymba e cavum pelo crus helicis).",
-    "images": [],
+    "images": ["oto-anat-pavilhao-anatomia.jpg", "oto-anat-pavilhao-protrusao.jpg"],
     "citations": [
       "Neligan, 2023, vol. 3, cap. 28",
       "Grabb & Smith, 2020, cap. 36"
@@ -54,7 +54,7 @@
     ],
     "surgical_relevance": "Fundamento de todas as técnicas de otoplastia: (1) Técnicas de sutura (Mustarde) moldam a cartilagem sem cortá-la; (2) Técnicas de escarificação (Stenstrom) usam o Princípio de Gibson para criar curvatura; (3) A nutrição por difusao via pericondrio torna a drenagem de hematomas urgente para prevenir necrose. O pericondrio deve ser preservado sempre que possível.",
     "how_to_identify": "Palpacao firme mas flexivel do pavilhão auricular. Transluminação com lanterna mostra a cartilagem como sombra. Ausencia de cartilagem no lóbulo (macio, depressivel).",
-    "images": [],
+    "images": ["oto-anat-cartilagem-deformidades.jpg", "oto-anat-cartilagem-scoring.jpg"],
     "citations": [
       "Neligan, 2023, vol. 3, cap. 28"
     ],

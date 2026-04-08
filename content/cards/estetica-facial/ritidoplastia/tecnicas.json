@@ -38,7 +38,7 @@
       "Exige maior experiencia cirúrgica mas produz melhora superior do sulco nasolabial.",
       "O plano sub-SMAS e relativamente avascular quando corretamente identificado."
     ],
-    "images": [],
+    "images": ["riti-tec-deep-plane-sequencia.jpg", "riti-tec-deep-plane-monobloc.jpg", "riti-tec-deep-plane-orbicular.jpg"],
     "citations": [
       "Neligan, 2023, vol. 2, cap. 11",
       "Schultz KP et al. Plast Reconstr Surg 2026;157(4):615-620"
@@ -93,7 +93,7 @@
       "Menor tensão no retalho evita aparencia artificial.",
       "Preservação da gordura malar e ainda mais critica na face asiatica."
     ],
-    "images": [],
+    "images": ["riti-tec-deep-plane-sequencia.jpg"],
     "citations": [
       "Wong CH et al. Plast Reconstr Surg 2025;156(4):485e-496e"
     ],
@@ -146,7 +146,7 @@
       "Adequado para ptose moderada; menor dissecção que o deep plane.",
       "Bons resultados em seguimento de 6-12 meses na serie original."
     ],
-    "images": [],
+    "images": ["riti-dec-smas-disseccao.jpg"],
     "citations": [
       "Movassaghi K et al. Plast Reconstr Surg 2025;155(4):632-636"
     ],
@@ -207,7 +207,7 @@
       "Transeccao completa do platisma oferece reconturno cervical superior, mas e técnica mais agressiva.",
       "Suspensao completa do platisma como extensão do deep plane combina resultado cervical e facial em um único plano."
     ],
-    "images": [],
+    "images": ["riti-tec-pescoco-suspensao.jpg", "riti-tec-pescoco-bandas.jpg", "riti-tec-pescoco-transeccao.jpg"],
     "citations": [
       "Neligan, 2023, vol. 2, cap. 11",
       "Grabb & Smith, 2020, cap. 32",
@@ -285,7 +285,7 @@
       "Elevação média mantida de 6,8 mm em 5 anos, com recidiva gradual de ~0,4 mm/ano.",
       "Frequentemente combinado com blefaroplastia superior e ritidoplastia."
     ],
-    "images": [],
+    "images": ["riti-tec-browlift-tecnicas.jpg"],
     "citations": [
       "Sibar S et al. Aesthet Surg J 2025;45(3):232-240"
     ],
@@ -335,7 +335,7 @@
       "Tendencia a menor taxa de hematoma (2,1% vs. 3,9%), porém sem significancia estatistica neste estudo.",
       "Uso local (nao sistemico) — perfil de seguranca favoravel."
     ],
-    "images": [],
+    "images": ["riti-tec-deep-plane-monobloc.jpg"],
     "citations": [
       "Darras O et al. Aesthet Surg J 2025;45(12):1213-1219"
     ],
@@ -392,7 +392,7 @@
       "Complemento ao facelift cirúrgico, nunca substituto.",
       "Meta-análise de 18 estudos (n = 1.932) confirma eficacia em casos selecionados."
     ],
-    "images": [],
+    "images": ["riti-anat-smas-camadas.jpg"],
     "citations": [
       "Amiri M et al. Aesthet Surg J 2025;45(3):NP86-NP94"
     ],

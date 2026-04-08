@@ -35,7 +35,7 @@
       "Indicada em criancas com cartilagem maleavel - melhor resposta a moldagem por sutura.",
       "O ajuste da tensão das suturas deve ser feito com o paciente sentado para avaliar simetria."
     ],
-    "images": [],
+    "images": ["oto-tec-mustarde-sutura.jpg", "oto-tec-antihelice-sutura.jpg"],
     "citations": [
       "Grabb & Smith, 2020, cap. 36",
       "Neligan, 2023, vol. 3, cap. 28"
@@ -81,7 +81,7 @@
       "Evitar excesso de tensão — risco de distorcao do MAE (Meato Acústico Externo).",
       "Verificar permeabilidade do canal auditivo externo após fixação."
     ],
-    "images": [],
+    "images": ["oto-tec-furnas-conchal.jpg", "oto-tec-furnas-projecao.jpg"],
     "citations": [
       "Grabb & Smith, 2020, cap. 36",
       "Neligan, 2023, vol. 3, cap. 28"
@@ -132,7 +132,7 @@
       "Abordagem mais conservadora - sem incisão ou escarificação de cartilagem.",
       "Serie piloto de 24 orelhas com 91% de satisfacao em 18 meses."
     ],
-    "images": [],
+    "images": ["oto-tec-cartilage-sparing.jpg"],
     "citations": [
       "Benkler M et al. Plast Reconstr Surg 2023;152(4):689e-692e. DOI: 10.1097/PRS.0000000000010401"
     ],
@@ -182,7 +182,7 @@
       "O retalho cria uma camada de tecido mole entre a sutura e a pele, eliminando extrusao.",
       "Serie de 340 orelhas: 0% de extrusao vs. 5,8% no historico do mesmo cirurgiao sem o retalho."
     ],
-    "images": [],
+    "images": ["oto-tec-mustarde-sutura.jpg"],
     "citations": [
       "Bulstrode NW et al. Plast Reconstr Surg 2024;154(6):1191e-1199e. DOI: 10.1097/PRS.0000000000011342"
     ],
@@ -231,7 +231,7 @@
       "Utiliza tecido descartado da propria incisão - sem morbidade de area doadora adicional.",
       "Serie de 58 orelhas: zero extrusao em 24 meses vs. 8,6% no grupo controle historico."
     ],
-    "images": [],
+    "images": ["oto-tec-antihelice-sutura.jpg"],
     "citations": [
       "Alzayadneh I et al. Aesthet Surg J 2022;42(9):NP571-NP575. DOI: 10.1093/asj/sjac079"
     ],
@@ -286,7 +286,7 @@
       "Evita cirurgia em casos de orelha em abano leve-moderada.",
       "Custo-efetiva: tratamento nao cirúrgico ambulatorial, sem anestesia."
     ],
-    "images": [],
+    "images": ["oto-tec-moldagem-neonatal.jpg", "oto-tec-moldagem-prominente.jpg"],
     "citations": [
       "Neligan, 2023, vol. 3, cap. 28"
     ],

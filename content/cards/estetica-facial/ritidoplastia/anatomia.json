@@ -22,7 +22,7 @@
     ],
     "surgical_relevance": "A manipulação do SMAS e o pilar da ritidoplastia moderna. A zona de adesao firme sobre o masseter e considerada a 'zona de seguranca' por ter risco neural mínimo. A suspensao do SMAS em vetor posterior-superior produz resultados mais naturais e duradouros do que a tração cutânea isolada. Deep plane, plication, imbrication e U-SMAS sao todas técnicas que variam na forma de manipular o SMAS.",
     "how_to_identify": "Camada fibromuscular esbranquiçada logo abaixo da gordura subcutânea após elevação do retalho cutâneo. Sobre o masseter, o SMAS e fino e aponeurotico; sobre a glândula parotida, e mais espesso e muscular.",
-    "images": [],
+    "images": ["riti-anat-smas-camadas.jpg", "riti-anat-smas-axial.jpg"],
     "citations": [
       "Neligan, 2023, vol. 2, cap. 11",
       "Grabb & Smith, 2020, cap. 32"
@@ -58,7 +58,7 @@
     ],
     "surgical_relevance": "A divisao do ligamento zigomático-cutâneo libera a ptose malar e melhora o sulco nasojugal. A divisao do ligamento masseterico-cutâneo libera o jowl e melhora a linha mandíbular. A divisao do ligamento mandíbular corrige o sulco labiomandíbular. Na técnica deep plane, a divisao desses ligamentos e o passo que permite a mobilização completa do retalho composto SMAS-gordura malar.",
     "how_to_identify": "Traves fibrosas firmes que resistem a elevação do retalho; sentem-se como 'cordas' ao dissecar. O ligamento zigomático-cutâneo e encontrado sobre o arco zigomático, e o masseterico-cutâneo na borda anterior do masseter.",
-    "images": [],
+    "images": ["riti-anat-ligamentos-overview.jpg", "riti-anat-ligamentos-disseccao.jpg"],
     "citations": [
       "Neligan, 2023, vol. 2, cap. 11",
       "Grabb & Smith, 2020, cap. 32"
@@ -96,7 +96,7 @@
     ],
     "surgical_relevance": "Ramo temporal (frontal): prevenção por dissecção profunda ao SMAS na região temporal. Ramo zigomático: prevenção por identificacao antes de dividir os ligamentos de retenção. Ramo marginal mandíbular: prevenção por dissecção superficial na borda inferior da mandíbula e cuidado durante lipoaspiração cervical. A lesao do marginal e a mais temida por causar assimetria do sorriso (paralisia do depressor do labio inferior).",
     "how_to_identify": "Os ramos sao estruturas nervosas finas (1-2 mm) brancas e brilhantes. O ramo temporal corre na fáscia temporoparietal acima do arco zigomático. O marginal mandíbular pode ser localizado 1-2 cm abaixo da borda da mandíbula, profundo ao platisma. O uso de estimulador nervoso pode auxiliar na identificacao.",
-    "images": [],
+    "images": ["riti-anat-nervo-facial-ramos.jpg", "riti-anat-nervo-facial-riscos.jpg"],
     "citations": [
       "Neligan, 2023, vol. 2, cap. 11",
       "Grabb & Smith, 2020, cap. 32"
@@ -133,7 +133,7 @@
     ],
     "surgical_relevance": "O manejo do platisma e componente essencial do facelift cervical. Opcoes incluem: platismaplastia anterior (plicatura das bordas mediais), suturas seletivas (individualizadas por grau de ptose), transeccao completa (melhora significativa do ângulo cervicomental) e suspensao completa como extensão do deep plane. A escolha depende do grau de ptose e diástase do platisma.",
     "how_to_identify": "Músculo fino, largo e rosa-palido logo abaixo da gordura subcutânea do pescoco. As bandas platismais sao visiveis clinicamente como cordoes verticais no pescoco anterior. Intraoperatoriamente, aparece após elevação do retalho cutâneo cervical.",
-    "images": [],
+    "images": ["riti-anat-platisma-anatomia.jpg", "riti-anat-platisma-camadas.jpg"],
     "citations": [
       "Neligan, 2023, vol. 2, cap. 11",
       "Grabb & Smith, 2020, cap. 32"

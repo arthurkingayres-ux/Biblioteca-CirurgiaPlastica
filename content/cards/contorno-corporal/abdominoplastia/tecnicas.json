@@ -48,7 +48,7 @@
       "Botao ocular plástico suturado ao coto umbilical permite identificacao precisa da posição por palpacao através da pele.",
       "Sutura de seda longa na linha média (xifoide-pubis) confirma simetria bilateral antes de qualquer incisão."
     ],
-    "images": [],
+    "images": ["abdo-tec-classica-marcacao.jpg", "abdo-tec-classica-plicatura.jpg"],
     "citations": [
       "Neligan, 2023, vol. 2, cap. 27 — Matarasso",
       "Grabb & Smith, 2024, cap. 75 — Colwell"
@@ -85,7 +85,7 @@
       "Frequentemente incorpora a cicatriz de cesarea previa na area de excisão.",
       "O umbigo NAO e transposicionado na mini-abdominoplastia."
     ],
-    "images": [],
+    "images": ["abdo-dec-incisoes-tipos.jpg"],
     "citations": [
       "Grabb & Smith, 2024, cap. 75 — Colwell",
       "Neligan, 2023, vol. 2, cap. 27 — Matarasso"
@@ -121,7 +121,7 @@
       "A descolagem descontínua por canula libera o retalho mantendo suprimento axial dos perfuradores laterais.",
       "Seroma em lipoabdominoplastia e comparavel ou menor ao da abdominoplastia tradicional."
     ],
-    "images": [],
+    "images": ["abdo-tec-lipoabdominoplastia-saldanha.jpg", "abdo-tec-lipoabdominoplastia-selectiva.jpg"],
     "citations": [
       "Grabb & Smith, 2024, cap. 75 — Colwell",
       "Neligan, 2023, vol. 2, cap. 27 — Matarasso"
@@ -162,7 +162,7 @@
       "Pannus volumoso pode deslocar anatômicamente o cordao espermatico para o campo operatorio — cautela ao aprofundar a incisão.",
       "FDL (Fleur-de-Lis): combina abdominoplastia transversal + excisão vertical para excesso de pele duplo (pannus superior E inferior). Cicatriz em T (transversal + vertical). Descolagem limitada tipo lipoabdominoplastia reduz complicações na juncao T."
     ],
-    "images": [],
+    "images": ["abdo-tec-belt-lipectomy.jpg"],
     "citations": [
       "Grabb & Smith, 2024, cap. 75 — Colwell"
     ],

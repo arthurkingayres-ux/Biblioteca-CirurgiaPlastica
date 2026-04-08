@@ -16,7 +16,7 @@
     ],
     "surgical_relevance": "O conhecimento das camadas e essencial para o plano de dissecção correto na abdominoplastia. A dissecção e realizada profundamente a fáscia de Scarpa na técnica classica, porém a preservação da fáscia de Scarpa reduz a incidencia de seroma ao manter os linfáticos subdérmicos intactos.",
     "how_to_identify": "Pele e tecido subcutâneo sao incisados ate a visualização da fáscia esbranquiçada da bainha anterior do reto. A fáscia de Scarpa e uma camada membranosa distinta entre as gorduras superficial e profunda, identificavel na região infra-umbilical.",
-    "images": [],
+    "images": ["abdo-anat-camadas-us.jpg", "abdo-anat-camadas-histologia.jpg"],
     "citations": [
       "Grabb & Smith, 2024, cap. 75 — Colwell",
       "Neligan, 2023, vol. 2, cap. 27 — Matarasso"
@@ -42,7 +42,7 @@
     ],
     "surgical_relevance": "Após a elevação do retalho, a perfusão e sustentada primáriamente pelos perfuradores laterais da Zona III (intercostais). A descolagem em V invertido preserva uma faixa intacta de tecido lateral, sendo a manobra-chave para garantir viabilidade do retalho. O triângulo terrivel do abdome — ponto de máxima tensão na linha média ao nível do fechamento — e o local mais suscetível a isquemia, pois esta mais distante dos perfuradores laterais.",
     "how_to_identify": "As zonas sao definidas anatômicamente pela distribuicao territorial dos vasos. Intraoperatoriamente, os perfuradores da Zona III sao visualizados na face lateral do retalho durante a descolagem seletiva.",
-    "images": [],
+    "images": ["abdo-anat-huger-zonas.jpg", "abdo-anat-huger-perfuradores.jpg", "abdo-anat-huger-ilustracao.jpg"],
     "citations": [
       "Neligan, 2023, vol. 2, cap. 27 — Matarasso"
     ],
@@ -66,7 +66,7 @@
     ],
     "surgical_relevance": "A preservação da fáscia de Scarpa durante a abdominoplastia reduz a incidencia de seroma ao manter os linfáticos subdérmicos. Estudos anatômicos com injecao de latex corado demonstraram que a fáscia de Scarpa funciona como substrato para o plexo linfático subdérmico inferior. O fechamento por camadas incorporando a fáscia de Scarpa (sutura Quill Monoderm 2-0) e parte do protocolo de fechamento.",
     "how_to_identify": "Camada membranosa esbranquiçada distinta entre as camadas de gordura subcutânea, mais proeminente na região infra-umbilical. Identificada durante a dissecção do retalho abdominal.",
-    "images": [],
+    "images": ["abdo-anat-scarpa-linfaticos.jpg", "abdo-anat-camadas-histologia.jpg"],
     "citations": [
       "Neligan, 2023, vol. 2, cap. 27 — Matarasso",
       "Grabb & Smith, 2024, cap. 75 — Colwell"
@@ -91,7 +91,7 @@
     ],
     "surgical_relevance": "Na abdominoplastia classica, o umbigo e liberado do pannus com tesoura de Metzenbaum, marcado com botao ocular plástico e reimplantado (umbilicoplastia) ao final. Na técnica de float umbilical, o pediculo profundo e seccionado para permitir plicatura completa, mas o pediculo dermal e preservado. O umbigo NAO e ancorado a fáscia (ancoragem pode causar distorcao unilateral se um lado se soltar). Hernias umbilicais sao identificadas e corrigidas simultâneamente (Ventralex patch).",
     "how_to_identify": "Cicatriz cutânea natural na linha media. Intraoperatoriamente, o coto umbilical e identificado por palpacao do botao ocular plástico suturado ao coto após liberacao.",
-    "images": [],
+    "images": ["abdo-anat-huger-ilustracao.jpg"],
     "citations": [
       "Neligan, 2023, vol. 2, cap. 27 — Matarasso"
     ],
@@ -115,7 +115,7 @@
     ],
     "surgical_relevance": "O planejamento pré-operatório deve abordar todas as unidades estéticas relevantes para o paciente. A lipoaspiração pode tratar flancos, monte pubiano e rolos dorsais simultâneamente a abdominoplastia. A nao abordagem de unidades adjacentes pode levar a insatisfacao do paciente, que percebe o resultado como incompleto.",
     "how_to_identify": "Inspecao clinica com paciente em pe, de frente, perfil e posterior. Cada unidade tem limites anatômicos definidos pela transicao de contorno.",
-    "images": [],
+    "images": ["abdo-anat-unidades-esteticas.jpg", "abdo-anat-unidades-marcacao.jpg"],
     "citations": [
       "Neligan, 2023, vol. 2, cap. 27 — Matarasso"
     ],
@@ -139,7 +139,7 @@
     ],
     "surgical_relevance": "Sua presenca deve ser identificada no pré-operatório: abdome que permanece convexo (nao concavo) na posição supina indica predominancia visceral. Nesses pacientes, a plicatura do reto esta CONTRAINDICADA (nao oferece beneficio e pode alargar o contorno da cintura em sentido anteroposterior). E um fator limitante do resultado estético da abdominoplastia que deve ser comúnicado ao paciente.",
     "how_to_identify": "Abdome que permanece convexo em decubito dorsal, com palpacao firme e profunda (nao depressivel como a gordura subcutânea). Diferente da gordura subcutânea que e macia e pincavel.",
-    "images": [],
+    "images": ["abdo-anat-camadas-us.jpg"],
     "citations": [
       "Neligan, 2023, vol. 2, cap. 27 — Matarasso"
     ],
