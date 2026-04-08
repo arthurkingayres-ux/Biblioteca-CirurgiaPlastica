@@ -1,0 +1,156 @@
+[
+  {
+    "id": "abdo-dec-001",
+    "type": "decision",
+    "title": "Classificacao de Matarasso — Selecao da Tecnica de Abdominoplastia",
+    "topic": "abdominoplastia",
+    "area": "contorno-corporal",
+    "trigger": "Paciente candidato a cirurgia de contorno abdominal. Avaliar camadas de tecido tratavel (pele, gordura, musculo) para definir a tecnica indicada.",
+    "steps": [
+      {
+        "question": "Qual o padrao de excesso de tecido mole? (pele, gordura subcutanea, diastase do reto)",
+        "options": [
+          {
+            "answer": "Excesso isolado de gordura; tonus cutaneo bom; sem diastase significativa",
+            "next": "Tipo I — Lipoaspiracao isolada (SAL — Suction-Assisted Lipoplasty). Avaliar gordura visceral vs. subcutanea."
+          },
+          {
+            "answer": "Excesso de pele infra-umbilical leve a moderado; diastase infra-umbilical; tonus cutaneo razoavel supra-umbilicalmente",
+            "next": "Tipo II — Mini-abdominoplastia: excisao limitada infra-umbilical +/- plicatura infra-umbilical. Umbigo nao transposicionado."
+          },
+          {
+            "answer": "Excesso de pele moderado supra e infra-umbilical; diastase ao longo de todo o reto; lipodistrofia",
+            "next": "Tipo III — Abdominoplastia modificada: transposicao umbilical ou float umbilical + plicatura completa +/- lipoaspiracao."
+          },
+          {
+            "answer": "Excesso franco de pele; lipodistrofia generalizada; diastase grave; ptose do umbigo",
+            "next": "Tipo IV — Abdominoplastia classica completa +/- lipoabdominoplastia."
+          }
+        ]
+      },
+      {
+        "question": "Ha excesso de pele circunferencial (flancos, costas, gluteos)?",
+        "options": [
+          {
+            "answer": "Sim — excesso circunferencial (frequente em pos-bariatrico)",
+            "next": "Belt lipectomy (excesso acima da ancoragem) ou Lower body lift (excesso abaixo). IMC deve ser < 37-38 kg/m2 e peso estabilizado 3-6 meses. Rastrear deficiencias nutricionais."
+          },
+          {
+            "answer": "Nao — excesso limitado ao abdome anterior +/- flancos",
+            "next": "Prosseguir com a tecnica definida pelo tipo (I-IV). Flancos tratados com lipoaspiracao concomitante."
+          }
+        ]
+      },
+      {
+        "question": "Ha excesso de pele em duplo pannus (superior E inferior) sem indicacao circunferencial?",
+        "options": [
+          {
+            "answer": "Sim — pannus vertical e horizontal",
+            "next": "FDL (Fleur-de-Lis): abdominoplastia transversal + excisao vertical. Cicatriz em T. Descolagem limitada tipo lipoabdominoplastia para reduzir complicacoes na juncao T."
+          },
+          {
+            "answer": "Nao — excesso predominantemente horizontal",
+            "next": "Abdominoplastia classica padrao (Tipo IV)."
+          }
+        ]
+      },
+      {
+        "question": "Avaliar gordura visceral: abdome permanece convexo em posicao supina?",
+        "options": [
+          {
+            "answer": "Sim — predominancia de gordura visceral",
+            "next": "Plicatura do reto CONTRAINDICADA (nao oferece beneficio; pode alargar cintura em AP). Comunicar limitacao ao paciente. Lipoaspiracao subcutanea +/- excisao cutanea conforme o tipo."
+          },
+          {
+            "answer": "Nao — gordura subcutanea predominante, abdome concavo em supino",
+            "next": "Plicatura do reto indicada conforme o grau de diastase."
+          }
+        ]
+      }
+    ],
+    "citations": [
+      "Neligan, 2023, vol. 2, cap. 27 — Matarasso",
+      "Grabb & Smith, 2024, cap. 75 — Colwell"
+    ],
+    "updates": [],
+    "tags": ["decisao", "classificacao", "matarasso", "selecao-tecnica", "tipo-I-IV"]
+  },
+  {
+    "id": "abdo-dec-002",
+    "type": "decision",
+    "title": "Contraindicacoes e Selecao de Pacientes para Abdominoplastia",
+    "topic": "abdominoplastia",
+    "area": "contorno-corporal",
+    "trigger": "Paciente solicita cirurgia de contorno abdominal. Rastrear contraindicacoes absolutas e relativas antes de prosseguir com planejamento.",
+    "steps": [
+      {
+        "question": "Ha contraindicacoes absolutas?",
+        "options": [
+          {
+            "answer": "Tabagismo ativo",
+            "next": "CONTRAINDICADO. Suspender minimo 4 semanas antes E apos a cirurgia. Risco de necrose de retalho."
+          },
+          {
+            "answer": "TDC (Transtorno Dismorfico Corporal) identificado",
+            "next": "CONTRAINDICADO. Encaminhar para avaliacao psiquiatrica. Insatisfacao pos-operatoria previsivel."
+          },
+          {
+            "answer": "IMC (Indice de Massa Corporal) > 35 kg/m2",
+            "next": "CONTRAINDICADO. Risco elevado de complicacoes. Indicar cirurgia de reducao de peso primeiro."
+          },
+          {
+            "answer": "Instabilidade de peso",
+            "next": "CONTRAINDICADO. Aguardar estabilizacao por 3-6 meses."
+          },
+          {
+            "answer": "Gravidez futura planejada",
+            "next": "CONTRAINDICADO. A gestacao desfaz a plicatura do reto. Adiar cirurgia."
+          },
+          {
+            "answer": "Coagulopatia nao corrigida",
+            "next": "CONTRAINDICADO. Corrigir disturbio hematologico antes de planejar cirurgia."
+          },
+          {
+            "answer": "Nenhuma contraindicacao absoluta",
+            "next": "Avaliar contraindicacoes relativas."
+          }
+        ]
+      },
+      {
+        "question": "Ha contraindicacoes relativas?",
+        "options": [
+          {
+            "answer": "Cicatrizes abdominais desfavoraveis (podem comprometer suprimento do retalho)",
+            "next": "Avaliar vascularizacao do retalho. Cicatriz de Pfannenstiel geralmente incorporada na excisao. Cicatrizes medianas alteram suprimento vascular — cautela maior na descolagem lateral."
+          },
+          {
+            "answer": "Doencas cardiopulmonares",
+            "next": "Risco de compressao diafragmatica pela plicatura. Avaliacao cardiologica pre-operatoria obrigatoria."
+          },
+          {
+            "answer": "Uso de anticoagulantes ou imunossupressores",
+            "next": "Anticoagulantes: aguardar ate retirada dos drenos para reintroduzir. Imunossupressores: suspender >= 3 semanas antes e apos."
+          },
+          {
+            "answer": "Obesidade moderada (IMC 30-35 kg/m2)",
+            "next": "Prosseguir com cautela. Risco aumentado de complicacoes. Otimizar peso antes quando possivel."
+          },
+          {
+            "answer": "Historia pessoal ou familiar de trombose venosa",
+            "next": "Investigar trombofilia hereditaria. Estratificacao rigorosa pelo escore de Davison-Caprini. Enoxaparina profilatica obrigatoria."
+          },
+          {
+            "answer": "Nenhuma contraindicacao relativa significativa",
+            "next": "Prosseguir com planejamento cirurgico: exame fisico, classificacao de Matarasso, documentacao fotografica padronizada e profilaxia de TEV."
+          }
+        ]
+      }
+    ],
+    "citations": [
+      "Neligan, 2023, vol. 2, cap. 27 — Matarasso",
+      "Grabb & Smith, 2024, cap. 75 — Colwell"
+    ],
+    "updates": [],
+    "tags": ["decisao", "contraindicacoes", "selecao-paciente", "tabagismo", "IMC", "TEV"]
+  }
+]

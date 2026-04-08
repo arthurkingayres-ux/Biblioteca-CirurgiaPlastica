@@ -1,0 +1,6 @@
+name = "biblioteca-chat-proxy"
+main = "index.js"
+compatibility_date = "2024-09-23"
+
+[vars]
+ALLOWED_ORIGIN = "https://arthurkingayres-ux.github.io"

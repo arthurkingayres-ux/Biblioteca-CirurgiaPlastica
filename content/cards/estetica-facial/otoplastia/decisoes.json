@@ -1,0 +1,85 @@
+[
+  {
+    "id": "oto-dec-001",
+    "type": "decision",
+    "title": "Tratamento da Orelha em Abano",
+    "topic": "otoplastia",
+    "area": "estetica-facial",
+    "trigger": "Paciente com orelha em abano (angulo cefaloauricular > 35 graus e/ou projecao helice-mastoide acima dos valores normais) avaliado para correcao.",
+    "steps": [
+      {
+        "question": "Qual a idade do paciente?",
+        "options": [
+          {
+            "answer": "Neonato (< 6 semanas de vida)",
+            "next": "Moldagem neonatal (EarWell, Auri). Taxa de sucesso > 90%. Iniciar o mais precocemente possivel para aproveitar maleabilidade da cartilagem sob efeito do estrogenio materno."
+          },
+          {
+            "answer": "Lactente (6 semanas - 5 anos)",
+            "next": "Acompanhamento clinico. Janela de moldagem perdida. Aguardar ate 5-6 anos para indicacao cirurgica (pavilhao atinge ~85% do tamanho adulto)."
+          },
+          {
+            "answer": "Crianca >= 5-6 anos ou adulto",
+            "next": "Avaliar causa anatomica da prominencia para escolha da tecnica cirurgica."
+          }
+        ]
+      },
+      {
+        "question": "Qual a causa anatomica predominante da orelha em abano?",
+        "options": [
+          {
+            "answer": "Anti-helice hipoplasica ou ausente (~60% dos casos)",
+            "next": "Tecnica de Mustarde (suturas horizontais de colchoeiro na cartilagem posterior para criar anti-helice). Indicada especialmente em criancas com cartilagem maleavel."
+          },
+          {
+            "answer": "Concha hiperdesenvolvida / profunda (~20% dos casos)",
+            "next": "Tecnica de Furnas (sutura concha-mastoide). Cuidado para nao distorcer o MAE (Meato Acustico Externo). Considerar resseccao conchal se concha muito profunda."
+          },
+          {
+            "answer": "Combinacao: anti-helice + concha (~20% dos casos)",
+            "next": "Tecnica combinada (Mustarde + Furnas). Abordagem mais frequente na pratica (78% na serie de Belfast, 2333 orelhas)."
+          }
+        ]
+      },
+      {
+        "question": "Ha preocupacao com extrusao de sutura? (paciente com pele fina pos-auricular ou historico de extrusao)",
+        "options": [
+          {
+            "answer": "Sim - risco elevado de extrusao",
+            "next": "Associar retalho dermofascial pos-auricular (Bulstrode, 0% extrusao em 340 orelhas) ou enxerto de tecido mole livre (Alzayadneh, 0% em 58 orelhas) para cobrir nos das suturas."
+          },
+          {
+            "answer": "Nao - risco habitual",
+            "next": "Tecnica padrao sem cobertura adicional. Taxa de extrusao esperada: 1-6%."
+          }
+        ]
+      },
+      {
+        "question": "Cartilagem e rigida (adulto, cartilagem espessa)?",
+        "options": [
+          {
+            "answer": "Sim - cartilagem rigida",
+            "next": "Considerar escarificacao anterior (Stenstrom - Principio de Gibson) associada as suturas para facilitar moldagem da anti-helice."
+          },
+          {
+            "answer": "Nao - cartilagem maleavel (crianca ou adulto jovem)",
+            "next": "Suturas isoladas (Mustarde) sao suficientes. Considerar abordagem cartilage-sparing (Benkler) para deformidades leves-moderadas."
+          }
+        ]
+      }
+    ],
+    "citations": [
+      "Neligan, 2023, vol. 3, cap. 28",
+      "Grabb & Smith, 2020, cap. 36",
+      "McGarry KM et al. Plast Reconstr Surg 2023;151(3):388e-397e"
+    ],
+    "updates": [],
+    "tags": [
+      "decisao",
+      "orelha-em-abano",
+      "indicacao",
+      "tecnica",
+      "otoplastia"
+    ]
+  }
+]

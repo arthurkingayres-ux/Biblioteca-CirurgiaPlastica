@@ -1,0 +1,118 @@
+[
+  {
+    "id": "riti-nota-001",
+    "type": "note",
+    "title": "Introducao a Ritidoplastia",
+    "topic": "ritidoplastia",
+    "area": "estetica-facial",
+    "section": "Introducao",
+    "content": [
+      "A ritidoplastia e o conjunto de tecnicas cirurgicas para rejuvenescimento do terco medio e inferior da face e pescoco.",
+      "Trata o envelhecimento gravitacional por redistribuicao de tecidos e manejo variavel do SMAS (Sistema Musculo-Aponeurotico Superficial).",
+      "E o padrao-ouro para rejuvenescimento facial cirurgico de longa duracao.",
+      "O procedimento envolve elevacao de retalhos cutaneos e/ou compostos, manipulacao do SMAS e redrapeamento dos tecidos em vetores de suspensao definidos.",
+      "A evolucao tecnica passou de facelifts puramente cutaneos (resultados curtos e aparencia artificial) para tecnicas de plano profundo com manipulacao do SMAS (resultados mais naturais e duradouros)."
+    ],
+    "images": [],
+    "citations": [
+      "Neligan, 2023, vol. 2, cap. 11"
+    ],
+    "updates": [],
+    "tags": [
+      "introducao",
+      "conceito",
+      "rejuvenescimento",
+      "facelift"
+    ]
+  },
+  {
+    "id": "riti-nota-002",
+    "type": "note",
+    "title": "Mecanismos do Envelhecimento Facial",
+    "topic": "ritidoplastia",
+    "area": "estetica-facial",
+    "section": "Envelhecimento",
+    "content": [
+      "O envelhecimento facial e multifatorial e envolve quatro componentes principais que devem ser avaliados individualmente para definicao do plano cirurgico.",
+      "1. Ptose gravitacional: descenso dos tecidos moles por laxidez dos ligamentos de retencao e do SMAS (Sistema Musculo-Aponeurotico Superficial). Manifesta-se como sulco nasolabial profundo, jowl e perda da linha mandibular.",
+      "2. Deflacao volumetrica: perda de gordura subcutanea e reabsorcao ossea do esqueleto facial. Contribui para hollowing temporal, aprofundamento de sulcos e esqueletizacao.",
+      "3. Alteracao da qualidade cutanea: perda de elasticidade, rugas finas e grossas, alteracoes de pigmentacao e textura (fotoenvelhecimento).",
+      "4. Hipertrofia e ptose muscular: o platisma sofre diastase (separacao das bordas mediais), formacao de bandas verticais e ptose, contribuindo para o envelhecimento cervical.",
+      "A ritidoplastia trata primariamente os componentes 1 e 4 (ptose gravitacional e muscular). Os componentes 2 e 3 podem necessitar procedimentos complementares (lipoenxertia, resurfacing, preenchimentos)."
+    ],
+    "images": [],
+    "citations": [
+      "Neligan, 2023, vol. 2, cap. 11"
+    ],
+    "updates": [],
+    "tags": [
+      "envelhecimento",
+      "fisiopatologia",
+      "ptose",
+      "deflacao",
+      "pele"
+    ]
+  },
+  {
+    "id": "riti-nota-003",
+    "type": "note",
+    "title": "Complicacoes da Ritidoplastia",
+    "topic": "ritidoplastia",
+    "area": "estetica-facial",
+    "section": "Complicacoes",
+    "content": [
+      "HEMATOMA: complicacao mais frequente (1-8%); mais comum em homens. Principal fator de risco: hipertensao arterial sistemica (HAS). Manejo: drenagem cirurgica precoce se expansivo (risco de necrose cutanea por compressao).",
+      "NECROSE CUTANEA: tabagismo e o principal fator de risco (risco relativo — RR — de 12 vezes). Tensao excessiva no retalho cutaneo tambem contribui. Prevencao: cessar tabagismo 4-6 semanas antes; manter tensao na camada do SMAS (Sistema Musculo-Aponeurotico Superficial), nao na pele.",
+      "LESAO DO NERVO FACIAL: lesao permanente em menos de 1% dos casos. Ramos mais vulneraveis: temporal (frontal), zigomatico e marginal mandibular. Paresia transitoria e mais comum (especialmente do ramo marginal) e resolve em semanas a meses.",
+      "DEFORMIDADE DO LOBULO AURICULAR (PIXIE EAR): causada por tensao inferior excessiva na pele do lobulo e/ou incisao mal posicionada. Prevencao: suspensao adequada do SMAS para reduzir tensao cutanea; incisao ao redor do lobulo cuidadosamente planejada.",
+      "ALOPECIA CICATRICIAL: perda de cabelo na regiao da incisao temporal. Prevencao: incisao paralela aos foliculos, evitar cauterizacao excessiva.",
+      "INFECCAO: rara; tratamento com antibioticoterapia e, se necessario, drenagem.",
+      "ASSIMETRIA: avaliacao pre-operatoria cuidadosa e documentacao fotografica sao essenciais para identificar assimetrias pre-existentes."
+    ],
+    "images": [],
+    "citations": [
+      "Neligan, 2023, vol. 2, cap. 11",
+      "Grabb & Smith, 2020, cap. 32"
+    ],
+    "updates": [],
+    "tags": [
+      "complicacoes",
+      "hematoma",
+      "necrose",
+      "nervo-facial",
+      "pixie-ear",
+      "seguranca"
+    ]
+  },
+  {
+    "id": "riti-nota-004",
+    "type": "note",
+    "title": "Revisao Sistematica das Tecnicas de SMAS — Evidencia Comparativa",
+    "topic": "ritidoplastia",
+    "area": "estetica-facial",
+    "section": "Evidencia",
+    "content": [
+      "Schultz et al. (2025) realizaram revisao sistematica de 89 estudos comparando diferentes tecnicas de manejo do SMAS (Sistema Musculo-Aponeurotico Superficial) na ritidoplastia.",
+      "DEEP PLANE e COMPOSITE FLAP: maior durabilidade (8-12 anos) e melhor melhora do sulco nasolabial. Exigem maior experiencia cirurgica.",
+      "PLICATION e IMBRICATION: durabilidade de 5-7 anos. Perfil de seguranca superior (menor risco de lesao neural). Curva de aprendizado mais acessivel.",
+      "U-SMAS: variante intermediaria; combina disseccao subcutanea anterior com suspensao do SMAS em formato de 'U' invertido. Adequado para ptose moderada.",
+      "CONCLUSAO: a escolha da tecnica deve considerar o grau de envelhecimento, a experiencia do cirurgiao e as expectativas do paciente. Deep plane e composite flap sao superiores em termos de resultado e durabilidade, mas plication/imbrication sao opcoes seguras e eficazes.",
+      "MFU-V (Ultrassom Microfocado com Visualizacao / Ultherapy): complemento nao-cirurgico para envelhecimento leve a moderado; meta-analise de 18 estudos (n = 1.932) demonstra melhora do contorno malar e mandibular em casos selecionados. Nao substitui o facelift cirurgico."
+    ],
+    "images": [],
+    "citations": [
+      "Schultz KP et al. Plast Reconstr Surg 2026;157(4):615-620",
+      "Movassaghi K et al. Plast Reconstr Surg 2025;155(4):632-636",
+      "Amiri M et al. Aesthet Surg J 2025;45(3):NP86-NP94"
+    ],
+    "updates": [],
+    "tags": [
+      "evidencia",
+      "revisao-sistematica",
+      "SMAS",
+      "deep-plane",
+      "plication",
+      "comparacao"
+    ]
+  }
+]

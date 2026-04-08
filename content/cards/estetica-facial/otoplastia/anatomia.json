@@ -1,0 +1,70 @@
+[
+  {
+    "id": "oto-anat-001",
+    "type": "anatomy",
+    "title": "Pavilhao Auricular - Estrutura e Dimensoes Normais",
+    "aliases": [
+      "orelha externa",
+      "auricula",
+      "pinna"
+    ],
+    "topic": "otoplastia",
+    "area": "estetica-facial",
+    "definition": "O pavilhao auricular e uma estrutura de cartilagem elastica coberta por pele fina e aderente na face anterior, e pele mais espessa e movel na face posterior. Atinge ~85% do tamanho adulto aos 5-6 anos de idade, o que define a idade minima para otoplastia. Dimensoes adultas: altura ~6 cm, largura ~3,5 cm.",
+    "location": "Face lateral do cranio, entre a articulacao temporomandibular (ATM) anteriormente e o processo mastoide posteriormente. O MAE (Meato Acustico Externo) localiza-se na porcao central.",
+    "relations": [
+      "Meato Acustico Externo (MAE)",
+      "Processo mastoide",
+      "Articulacao temporomandibular (ATM)",
+      "Nervo auricular maior (ramo do plexo cervical, C2-C3)",
+      "Nervo auriculotemporal (ramo do V3 - nervo mandibular)"
+    ],
+    "surgical_relevance": "O angulo cefaloauricular normal e de 25-35 graus. Projecao helice-mastoide: 10-12 mm (superior), 16-18 mm (medio), 20-22 mm (inferior). Valores acima desses indicam orelha em abano. A idade minima para otoplastia (5-6 anos) e determinada pelo grau de desenvolvimento do pavilhao.",
+    "how_to_identify": "Estrutura cartilaginea proeminente na regiao temporal lateral. Marcos anatomicos de superficie: helice (borda superior enrolada), anti-helice (crista paralela interna), tragus (protuberancia anterior ao MAE), antitragus (protuberancia inferior oposta ao tragus), lobulo (porcao inferior sem cartilagem), concha (depressao central dividida em cymba e cavum pelo crus helicis).",
+    "images": [],
+    "citations": [
+      "Neligan, 2023, vol. 3, cap. 28",
+      "Grabb & Smith, 2020, cap. 36"
+    ],
+    "updates": [],
+    "tags": [
+      "anatomia",
+      "pavilhao-auricular",
+      "orelha",
+      "dimensoes",
+      "angulo-cefaloauricular"
+    ]
+  },
+  {
+    "id": "oto-anat-002",
+    "type": "anatomy",
+    "title": "Cartilagem Auricular",
+    "aliases": [
+      "cartilagem elastica auricular",
+      "cartilagem da orelha"
+    ],
+    "topic": "otoplastia",
+    "area": "estetica-facial",
+    "definition": "A cartilagem auricular e do tipo elastica (nao hialina), com nutricao exclusivamente por difusao atraves do pericondrio. Hematoma subpericondral nao drenado causa pericondrite e fibrose, resultando em deformidade tipo orelha em couve-flor (cauliflower ear). Obedece ao Principio de Gibson: escarificacao da superficie convexa causa curvatura da cartilagem para o lado escarificado, por liberacao de tensoes intrinsecas.",
+    "location": "Forma o arcabouco estrutural de todo o pavilhao auricular, exceto o lobulo (tecido fibroadiposo). A cartilagem e contínua em uma unica peca, com dobras que formam a helice, anti-helice, crus superior e inferior, tragus e antitragus.",
+    "relations": [
+      "Pericondrio (membrana vascularizada que nutre a cartilagem)",
+      "Pele auricular (anterior: fina e aderente; posterior: mais espessa e movel)",
+      "Musculatura intrinseca auricular (vestigial)"
+    ],
+    "surgical_relevance": "Fundamento de todas as tecnicas de otoplastia: (1) Tecnicas de sutura (Mustarde) moldam a cartilagem sem cortá-la; (2) Tecnicas de escarificacao (Stenstrom) usam o Principio de Gibson para criar curvatura; (3) A nutricao por difusao via pericondrio torna a drenagem de hematomas urgente para prevenir necrose. O pericondrio deve ser preservado sempre que possivel.",
+    "how_to_identify": "Palpacao firme mas flexivel do pavilhao auricular. Transluminacao com lanterna mostra a cartilagem como sombra. Ausencia de cartilagem no lobulo (macio, depressivel).",
+    "images": [],
+    "citations": [
+      "Neligan, 2023, vol. 3, cap. 28"
+    ],
+    "updates": [],
+    "tags": [
+      "anatomia",
+      "cartilagem",
+      "pericondrio",
+      "gibson",
+      "escarificacao"
+    ]
+  }
+]

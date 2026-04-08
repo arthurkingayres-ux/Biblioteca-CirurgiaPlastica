@@ -1,0 +1,113 @@
+[
+  {
+    "id": "abdo-nota-001",
+    "type": "note",
+    "title": "Exame Fisico e Planejamento Pre-Operatorio",
+    "topic": "abdominoplastia",
+    "area": "contorno-corporal",
+    "section": "Avaliacao Pre-operatoria",
+    "content": [
+      "O exame fisico avalia: excesso de pele supra e infra-umbilical (pinch test), quantidade e distribuicao da gordura subcutanea vs. visceral (abdome convexo em supino = visceral), tonus cutaneo (elasticidade), grau e extensao da diastase do reto (palpacao com elevacao ativa dos MMII — Membros Inferiores), hernias umbilicais, cicatrizes previas (Pfannenstiel, minilaparotomia, laparoscopia) e assimetrias (umbilical, quadril).",
+      "A 'manobra de Matarasso' — pre-excisao pela apreensao bimanual do pannus da cicatriz umbilical ao monte pubiano — confirma que a area a ser removida pode ser excisada com fechamento sem tensao excessiva.",
+      "Investigar trombofilia hereditaria em pacientes com historia pessoal ou familiar de trombose venosa.",
+      "Rastrear TDC (Transtorno Dismorfico Corporal).",
+      "Para cirurgias combinadas, limitar tempo operatorio a < 4 horas para minimizar risco de TEV (Tromboembolismo Venoso).",
+      "Documentacao fotografica padronizada: anteroposterior, obliqua bilateral, lateral.",
+      "Classificar o paciente pelo sistema de Matarasso (Tipos I a IV) para definir a tecnica indicada.",
+      "Percentual consistentemente alto de candidatos a abdominoplastia tem umbigo nao-central e assimetria de quadril — documentar e comunicar ao paciente."
+    ],
+    "images": [],
+    "citations": [
+      "Neligan, 2023, vol. 2, cap. 27 — Matarasso"
+    ],
+    "updates": [],
+    "tags": ["avaliacao", "exame-fisico", "planejamento", "matarasso", "diastase", "assimetria"]
+  },
+  {
+    "id": "abdo-nota-002",
+    "type": "note",
+    "title": "Preparo Pre-Operatorio e Profilaxia de TEV",
+    "topic": "abdominoplastia",
+    "area": "contorno-corporal",
+    "section": "Preparo Pre-operatorio",
+    "content": [
+      "Suspensao de tabaco: minimo 4 semanas antes e apos a cirurgia.",
+      "Suspensao de anticoagulantes: aguardar ate retirada dos drenos para reintroduzir anticoagulacao plena.",
+      "Medicamentos que alteram cicatrizacao (imunossupressores, antimetabolitos): suspender >= 3 semanas antes e apos.",
+      "Avaliacao laboratorial basica: hemograma, coagulograma. Em grandes volumes (> 5 L de lipoaspirado): eletrolitos e creatinina pre-op.",
+      "Em pos-bariatrico: albumina, pre-albumina, ferro (a deficiencia de ferro e a carencia nutricional mais comum; corrigir antes da cirurgia).",
+      "Profilaxia de TEV — Escore de Davison-Caprini: a abdominoplastia e considerada cirurgia de alto risco para TEV. Uma abdominoplastia tipica pontua >= 4 (alto risco): cirurgia eletiva (1 pt), procedimento > 45 min (2 pts), idade 41-60 anos (1 pt).",
+      "Enoxaparina 40 mg SC (subcutaneo) 1x/dia iniciada 8 horas apos o procedimento; manter por 7-10 dias.",
+      "Dispositivos de compressao pneumatica intermitente (CPI) intraoperatoriamente e no pos-op imediato.",
+      "Deambulacao precoce no dia da cirurgia — paciente caminha inclinado, progressivamente erguendo o tronco.",
+      "Contraceptivos hormonais (anel vaginal aumenta risco de TEV): suspender pre-op.",
+      "Evitar viagem aerea proxima a cirurgia (risco de TEV)."
+    ],
+    "images": [],
+    "citations": [
+      "Neligan, 2023, vol. 2, cap. 27 — Matarasso",
+      "Grabb & Smith, 2024, cap. 75 — Colwell"
+    ],
+    "updates": [],
+    "tags": ["pre-operatorio", "profilaxia", "TEV", "caprini", "enoxaparina", "tabagismo", "pos-bariatrico"]
+  },
+  {
+    "id": "abdo-nota-003",
+    "type": "note",
+    "title": "Complicacoes da Abdominoplastia",
+    "topic": "abdominoplastia",
+    "area": "contorno-corporal",
+    "section": "Complicacoes",
+    "content": [
+      "SEROMA: complicacao local mais frequente. Acumulo de linfa e liquido seroso no espaco morto. Fatores de risco: area ampla de descolagem, ausencia de quiltagem, obesidade, lipoaspiracao concomitante. Prevencao: (1) preservacao da fascia de Scarpa — mantem linfaticos subdermicos; (2) suturas de quiltagem progressivas (Pollock & Pollock) — eliminam espaco morto, permitem abdominoplastia sem drenos; (3) drenos de aspiracao continua; (4) cola de fibrina ou TissuGlu (menor evidencia).",
+      "HEMATOMA (~2%): retorno ao centro cirurgico para drenagem. Atentar ao hematoma expansivo nas primeiras 24h.",
+      "INFECCAO SUPERFICIAL (1-3,8%): antibiotico e curativo. Vigilancia para fasciite necrosante (rara mas grave). Diagnostico: escore LRINEC (Laboratory Risk Indicator for Necrotizing Fasciitis) >= 6. Conduta: desbridamento cirurgico de urgencia + antibiotico IV.",
+      "TEV/EP (Tromboembolismo Venoso / Embolia Pulmonar) (0,5-1,1%): a abdominoplastia e o procedimento estetico com maior risco de TEV (dados CosmetAssure, NSQUIP). Riscos adicionais: cirurgias combinadas, plicatura apertada (aumenta pressao intraabdominal), contraceptivos hormonais. O procedimento ativa a cascata de coagulacao (aumento de D-dimero e fibrinogenio). Estratificacao rigorosa pelo Caprini e mandatoria.",
+      "NECROSE/ISQUEMIA DO RETALHO: o triangulo terrivel do abdome — ponto de convergencia das forcas de tensao na linha media ao nivel da incisao. O retalho esta mais distante dos perfuradores laterais e sujeito a maior tensao. Fatores de risco: tabagismo, obesidade, tensao excessiva, lipoaspiracao central excessiva. Tratamento: desbridamento, cicatrizacao por 2a intencao ou enxerto.",
+      "DOG-EAR: correcao com incisao em 90 graus (tecnica de Grassetti). Planejamento adequado das extremidades laterais previne.",
+      "LESAO NERVOSA: nervo cutaneo femoral lateral — mais comum; passa 1 cm medial a EIAS (Espinha Iliaca Anterossuperior); causa entorpecimento da face anterolateral da coxa. Nervos ilioinguinal/iliohipogastrico (1,9% entrapment): incisao lateral baixa proxima ao ligamento inguinal; entorpecimento inguinal/labia/escroto.",
+      "CICATRIZ ALARGADA/HIPERTROFICA: silicone topico, laser, revisao cirurgica >= 12 meses.",
+      "DISTOPIA UMBILICAL: por tracao assimetrica. Prevencao: NAO ancorar umbigo a fascia; verificar midline com sutura de referencia.",
+      "COMPLICACAO GERAL (CosmetAssure): ~4% total. Redo/revisao em 13-15% dos pacientes."
+    ],
+    "images": [],
+    "citations": [
+      "Neligan, 2023, vol. 2, cap. 27 — Matarasso",
+      "Grabb & Smith, 2024, cap. 75 — Colwell"
+    ],
+    "updates": [],
+    "tags": ["complicacoes", "seroma", "TEV", "hematoma", "necrose", "triangulo-terrivel", "lesao-nervosa"]
+  },
+  {
+    "id": "abdo-nota-004",
+    "type": "note",
+    "title": "Pos-Operatorio, Reabilitacao e Procedimentos Combinados",
+    "topic": "abdominoplastia",
+    "area": "contorno-corporal",
+    "section": "Pos-operatorio",
+    "content": [
+      "Deambulacao precoce no dia da cirurgia, em posicao inclinada (como usando andador), progressivamente erguendo o tronco nos dias seguintes.",
+      "Posicao de cadeira de praia mantida por 3-5 dias.",
+      "Restricao de atividade por 2 semanas (sem atividade fisica alem de caminhada).",
+      "Cintas compressivas: tempo integral por 4-6 semanas, depois parcial por mais 2-4 meses.",
+      "Massagem de cicatriz: iniciar a partir de 4 semanas.",
+      "Atividade fisica progressiva: permitida apos 1 mes; retorno completo em 1-2 meses.",
+      "Drenos retirados quando debito < 30 mL/dia e liquido seroso.",
+      "Retorno ao trabalho (escritorio): tipicamente 2 semanas. Belt lipectomy: repouso prolongado com internacao hospitalar.",
+      "Protocolo ERAS (Enhanced Recovery After Surgery — Recuperacao Acelerada Pos-Operatoria): Tylenol (paracetamol) pre-operatorio + gabapentina pre-op + lidocaina na solucao superwet + Exparel/bupivacaina no plano fascial + cateteres de analgesia na parede abdominal (opcional). Objetivo: reduzir uso de opioides e facilitar deambulacao precoce.",
+      "Rash cutaneo por adesivo tissular: tratado com leite, creme anti-prurido Aveeno, esteroide topico ou Benadryl/Zyrtec oral.",
+      "PROCEDIMENTOS COMBINADOS: mais de 50% das abdominoplastias sao realizadas com outros procedimentos esteticos. 'Mommy Makeover' (abdominoplastia + mamoplastia). Limite de tempo operatorio < 4 horas. Lipoaspiracao circunferencial 360 graus (flancos, costas, sacral, coxas laterais) segura dentro da margem de seguranca de perda sanguinea.",
+      "Abdominoplastia combinada com histerectomia ou correcao de hernia abdominal (tela — cuidado para nao comprometer suprimento do retalho) e possivel.",
+      "Abdominoplastia reversa: raramente indicada; excisao pela borda inferior das mamas para excesso supraumbilical isolado com cicatriz no sulco inframamario.",
+      "Abdominoplastia secundaria (redo): 13-15% dos casos. Via aberta preferida. Revisao completa tem alta satisfacao quando bem indicada.",
+      "Abdominoplastia masculina: homens procuram predominantemente lipoaspiracao abdominal isolada (80-89% dos casos). Incisao reta (nao curva ascendente lateral). Cuidado com gordura visceral."
+    ],
+    "images": [],
+    "citations": [
+      "Neligan, 2023, vol. 2, cap. 27 — Matarasso",
+      "Grabb & Smith, 2024, cap. 75 — Colwell"
+    ],
+    "updates": [],
+    "tags": ["pos-operatorio", "reabilitacao", "ERAS", "procedimentos-combinados", "mommy-makeover", "redo", "masculina"]
+  }
+]

@@ -1,4 +1,4 @@
-const CACHE_NAME = 'biblioteca-cp-v2';
+const CACHE_NAME = 'briefing-preop-v6';
 const ASSETS = [
   './',
   './index.html',
@@ -7,7 +7,7 @@ const ASSETS = [
   './search.js',
   './renderer.js',
   './preop.js',
-  './test.js',
+  './chat.js',
   './manifest.json'
 ];
 
@@ -26,6 +26,12 @@ self.addEventListener('activate', e => {
 });
 
 self.addEventListener('fetch', e => {
+  // Network-only for chat API calls (never cache)
+  if (e.request.url.includes('workers.dev/chat')) {
+    e.respondWith(fetch(e.request));
+    return;
+  }
+
   e.respondWith(
     caches.match(e.request).then(r => r || fetch(e.request).then(resp => {
       if (resp.ok && (e.request.url.includes('/content/') || e.request.url.includes('/assets/'))) {

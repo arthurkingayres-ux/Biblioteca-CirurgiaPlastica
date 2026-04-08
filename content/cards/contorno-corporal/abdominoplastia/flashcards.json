@@ -1,0 +1,195 @@
+{
+  "id": "abdo-fc-001",
+  "type": "flashcard",
+  "topic": "abdominoplastia",
+  "area": "contorno-corporal",
+  "cards": [
+    {
+      "front": "Incisao inferior — distancia da vulva",
+      "back": "5-9 cm acima da fenda vulvar (Matarasso) / 5-7 cm da comissura (Colwell)",
+      "citation": "Neligan, 2023, vol. 2, cap. 27; Grabb & Smith, 2024, cap. 75",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Encurtamento pos-op xifoide-umbigo",
+      "back": "2,8 cm em media (seguimento 6 meses)",
+      "citation": "Neligan, 2023, vol. 2, cap. 27",
+      "domain": "resultado"
+    },
+    {
+      "front": "Encurtamento pos-op umbigo-vulva",
+      "back": "5,09 cm em media (seguimento 6 meses)",
+      "citation": "Neligan, 2023, vol. 2, cap. 27",
+      "domain": "resultado"
+    },
+    {
+      "front": "Reducao de cintura apos abdominoplastia",
+      "back": "7,9 cm em media (seguimento 6 meses)",
+      "citation": "Neligan, 2023, vol. 2, cap. 27",
+      "domain": "resultado"
+    },
+    {
+      "front": "Plicatura do reto: sutura supraumbilical",
+      "back": "Loop nylon 0 ou Quill 1-0 polipropileno (CT-1, 45 cm), unidirecional, corrida",
+      "citation": "Neligan, 2023, vol. 2, cap. 27",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Plicatura do reto: sutura infraumbilical",
+      "back": "Segunda sutura similar; estender abaixo do retalho ate o osso pubiano",
+      "citation": "Neligan, 2023, vol. 2, cap. 27",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Reforco: sutura de waistline (pacientes magros)",
+      "back": "1-2 pontos Nurolon 2-0 horizontal ao umbigo, 5-8 cm, estreitando a cintura",
+      "citation": "Neligan, 2023, vol. 2, cap. 27",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Fechamento profundo — sutura",
+      "back": "Quill Monoderm 2-0 (30x30 cm, PS-1) — incorpora fascia de Scarpa",
+      "citation": "Neligan, 2023, vol. 2, cap. 27",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Fechamento subdermico — sutura",
+      "back": "Quill Monoderm 3-0 (30x30 cm, PS-2) — subcuticular",
+      "citation": "Neligan, 2023, vol. 2, cap. 27",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Drenos na abdominoplastia",
+      "back": "Dois Jackson-Pratt (JP) No. 10 pre-embebidos em Betadine; saida lateral na ferida; retirar quando <= 30 mL/dia",
+      "citation": "Neligan, 2023, vol. 2, cap. 27",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Umbilicoplastia: incisao cutanea",
+      "back": "Incisao em V invertido 2,5 cm na linha media",
+      "citation": "Neligan, 2023, vol. 2, cap. 27",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Umbilicoplastia: sutura umbilical",
+      "back": "Pontos profundos absorviveis + interrompidos Nylon 3-0 e 4-0; NAO ancorar ao plano fascial",
+      "citation": "Neligan, 2023, vol. 2, cap. 27",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Dose epinefrina superwet (toxica)",
+      "back": "0,07 mg/kg de adrenalina 1:1.000 — limite maximo",
+      "citation": "Neligan, 2023, vol. 2, cap. 27",
+      "domain": "anestesia"
+    },
+    {
+      "front": "Solucao superwet Matarasso",
+      "back": "1 L Ringer lactato + 20 mL lidocaina 1% + 1 mL epinefrina 1:1.000",
+      "citation": "Neligan, 2023, vol. 2, cap. 27",
+      "domain": "anestesia"
+    },
+    {
+      "front": "Analgesico pre-plicatura (Exparel)",
+      "back": "20 mL Exparel 1,3% + 80 mL SF (soro fisiologico) 0,9% + 30 mL bupivacaina 0,25% c/ epinefrina 1:200.000",
+      "citation": "Neligan, 2023, vol. 2, cap. 27",
+      "domain": "anestesia"
+    },
+    {
+      "front": "Seroma — frequencia na abdominoplastia",
+      "back": "Complicacao local mais comum; reduzida com fascia de Scarpa preservada + quilting/drenos",
+      "citation": "Neligan, 2023, vol. 2, cap. 27",
+      "domain": "complicacao"
+    },
+    {
+      "front": "TEV (tromboembolismo venoso) em abdominoplastia isolada",
+      "back": "0,5-1,1%",
+      "citation": "Neligan, 2023, vol. 2, cap. 27",
+      "domain": "complicacao"
+    },
+    {
+      "front": "Hematoma apos abdominoplastia",
+      "back": "~2%",
+      "citation": "Neligan, 2023, vol. 2, cap. 27",
+      "domain": "complicacao"
+    },
+    {
+      "front": "Infeccao apos abdominoplastia",
+      "back": "1-3,8%",
+      "citation": "Neligan, 2023, vol. 2, cap. 27",
+      "domain": "complicacao"
+    },
+    {
+      "front": "Lesao nervosa (entrapment) apos abdominoplastia",
+      "back": "1,9%",
+      "citation": "Neligan, 2023, vol. 2, cap. 27",
+      "domain": "complicacao"
+    },
+    {
+      "front": "Complicacao geral apos abdominoplastia (CosmetAssure)",
+      "back": "~4% total",
+      "citation": "Neligan, 2023, vol. 2, cap. 27",
+      "domain": "complicacao"
+    },
+    {
+      "front": "Redo/revisao de abdominoplastia",
+      "back": "13-15% de todos os pacientes",
+      "citation": "Neligan, 2023, vol. 2, cap. 27",
+      "domain": "complicacao"
+    },
+    {
+      "front": "IMC (Indice de Massa Corporal) maximo recomendado para abdominoplastia",
+      "back": "35 kg/m2 (contraindicacao absoluta acima desse limite)",
+      "citation": "Neligan, 2023, vol. 2, cap. 27",
+      "domain": "indicacao"
+    },
+    {
+      "front": "Tempo operatorio maximo recomendado (procedimentos combinados)",
+      "back": "< 4 horas",
+      "citation": "Neligan, 2023, vol. 2, cap. 27",
+      "domain": "seguranca"
+    },
+    {
+      "front": "Tabagismo: suspensao pre-operatoria para abdominoplastia",
+      "back": "Minimo 4 semanas antes E apos a cirurgia",
+      "citation": "Neligan, 2023, vol. 2, cap. 27",
+      "domain": "indicacao"
+    },
+    {
+      "front": "Escore de Davison-Caprini em abdominoplastia padrao",
+      "back": ">= 4 pontos (alto risco de TEV)",
+      "citation": "Neligan, 2023, vol. 2, cap. 27",
+      "domain": "seguranca"
+    },
+    {
+      "front": "Enoxaparina profilatica na abdominoplastia",
+      "back": "40 mg SC 1x/dia, iniciada 8h apos o procedimento",
+      "citation": "Neligan, 2023, vol. 2, cap. 27",
+      "domain": "seguranca"
+    },
+    {
+      "front": "Distancia minima umbigo-incisao (float umbilical)",
+      "back": ">= 8 cm",
+      "citation": "Grabb & Smith, 2024, cap. 75",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Fasciite necrosante: escore diagnostico",
+      "back": "LRINEC (Laboratory Risk Indicator for Necrotizing Fasciitis) >= 6 pontos",
+      "citation": "Neligan, 2023, vol. 2, cap. 27",
+      "domain": "complicacao"
+    },
+    {
+      "front": "Nervo cutaneo femoral lateral — relacao com EIAS",
+      "back": "Passa 1 cm medial a EIAS (Espinha Iliaca Anterossuperior); lesao causa entorpecimento na face anterolateral da coxa",
+      "citation": "Neligan, 2023, vol. 2, cap. 27",
+      "domain": "anatomia"
+    },
+    {
+      "front": "Belt lipectomy — IMC maximo",
+      "back": "< 37-38 kg/m2, estabilizado por 3-6 meses",
+      "citation": "Grabb & Smith, 2024, cap. 75",
+      "domain": "indicacao"
+    }
+  ],
+  "tags": ["flashcards", "abdominoplastia", "parametros", "medidas", "suturas", "complicacoes", "anestesia"]
+}

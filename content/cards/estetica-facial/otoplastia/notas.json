@@ -1,0 +1,90 @@
+[
+  {
+    "id": "oto-nota-001",
+    "type": "note",
+    "title": "Introducao e Indicacoes da Otoplastia",
+    "topic": "otoplastia",
+    "area": "estetica-facial",
+    "section": "Introducao",
+    "content": [
+      "A otoplastia corrige deformidades auriculares congenitas, com destaque para a orelha em abano (prominent ear).",
+      "E indicada a partir dos 5-6 anos de idade, quando o pavilhao auricular atinge aproximadamente 85% do tamanho adulto.",
+      "O impacto na autoestima e significativo, especialmente em criancas em idade escolar — razao pela qual a indicacao precoce e justificada.",
+      "A deformidade mais comum e a orelha em abano, caracterizada por angulo cefaloauricular > 35 graus e/ou projecao helice-mastoide acima dos valores normais.",
+      "Alternativa nao cirurgica: moldagem neonatal (EarWell, Auri) com taxa de sucesso > 90% quando iniciada nas primeiras 6 semanas de vida."
+    ],
+    "images": [],
+    "citations": [
+      "Neligan, 2023, vol. 3, cap. 28",
+      "Grabb & Smith, 2020, cap. 36"
+    ],
+    "updates": [],
+    "tags": [
+      "introducao",
+      "indicacao",
+      "orelha-em-abano",
+      "otoplastia"
+    ]
+  },
+  {
+    "id": "oto-nota-002",
+    "type": "note",
+    "title": "Classificacao das Deformidades Auriculares - Orelha em Abano",
+    "topic": "otoplastia",
+    "area": "estetica-facial",
+    "section": "Classificacao",
+    "content": [
+      "A orelha em abano (prominent ear) tem tres causas anatomicas principais, que podem ocorrer isoladamente ou em combinacao:",
+      "1. Anti-helice hipoplasica ou ausente (~60% dos casos): a dobra da anti-helice nao se forma adequadamente, resultando em projecao lateral excessiva do terco superior e medio da orelha.",
+      "2. Concha hiperdesenvolvida (~20% dos casos): a concha (cavum e/ou cymba) e anormalmente profunda, empurrando todo o pavilhao para lateral. Componente identificado pela projecao excessiva do terco medio.",
+      "3. Combinacao de anti-helice + concha (~20% dos casos): ambos os componentes contribuem para a deformidade. E a apresentacao mais frequente em casos severos.",
+      "A identificacao da causa anatomica e fundamental para a escolha da tecnica cirurgica: anti-helice hipoplasica → Mustarde (suturas); concha hipertrofica → Furnas (concha-mastoide); combinacao → tecnica combinada.",
+      "Outras deformidades auriculares congenitas (menos frequentes): macrotia, criptotia, constricted ear (lop ear, cup ear), orelha de Stahl, microtia (graus I-IV)."
+    ],
+    "images": [],
+    "citations": [
+      "Neligan, 2023, vol. 3, cap. 28",
+      "Grabb & Smith, 2020, cap. 36"
+    ],
+    "updates": [],
+    "tags": [
+      "classificacao",
+      "deformidade",
+      "anti-helice",
+      "concha",
+      "otoplastia"
+    ]
+  },
+  {
+    "id": "oto-nota-003",
+    "type": "note",
+    "title": "Complicacoes da Otoplastia",
+    "topic": "otoplastia",
+    "area": "estetica-facial",
+    "section": "Complicacoes",
+    "content": [
+      "Hematoma subpericondral (1-3%): complicacao precoce mais temida. Drenagem imediata e obrigatoria — hematoma nao drenado causa pericondrite e fibrose, resultando em deformidade tipo orelha em couve-flor (cauliflower ear).",
+      "Pericondrite (< 1%): infeccao da cartilagem. Tratamento com ATB (antibiotico) intravenoso — ciprofloxacino e a primeira escolha por boa penetracao na cartilagem (cobertura para Pseudomonas). Drenagem cirurgica se colecao.",
+      "Extrusao de sutura (1-6%): causa mais frequente de reintervencao menor. Conduta: retirada da sutura extruida e curativo local. Prevencao: retalho dermofascial (Bulstrode, 0% em 340 orelhas) ou enxerto de tecido mole livre (Alzayadneh, 0% em 58 orelhas).",
+      "Recidiva (3-5%): retorno da projecao excessiva por afrouxamento ou ruptura das suturas. Revisao cirurgica apos 6 meses de estabilizacao.",
+      "Hipercorrecao (frequencia variavel): orelha excessivamente aderida ao cranio (telephone ear deformity). Revisao apos 6 meses.",
+      "Assimetria (frequencia variavel): causa mais comum de revisao na serie de Belfast (2,3% de 2333 orelhas). Revisao apos 6 meses."
+    ],
+    "images": [],
+    "citations": [
+      "Neligan, 2023, vol. 3, cap. 28",
+      "McGarry KM et al. Plast Reconstr Surg 2023;151(3):388e-397e",
+      "Bulstrode NW et al. Plast Reconstr Surg 2024;154(6):1191e-1199e",
+      "Alzayadneh I et al. Aesthet Surg J 2022;42(9):NP571-NP575"
+    ],
+    "updates": [],
+    "tags": [
+      "complicacoes",
+      "hematoma",
+      "pericondrite",
+      "extrusao",
+      "recidiva",
+      "otoplastia"
+    ]
+  }
+]

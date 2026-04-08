@@ -1,17 +1,17 @@
-// app.js — Main application logic
+// app.js — Briefing Pré-Op application logic
 const App = (() => {
-  // Card data paths — add new topics here as they are migrated
   const CARD_MANIFEST = [
     { area: 'estetica-facial', topic: 'blefaroplastia' },
-    { area: 'estetica-facial', topic: 'rinoplastia' }
+    { area: 'estetica-facial', topic: 'rinoplastia' },
+    { area: 'estetica-facial', topic: 'ritidoplastia' },
+    { area: 'estetica-facial', topic: 'otoplastia' },
+    { area: 'contorno-corporal', topic: 'abdominoplastia' }
   ];
 
-  const CARD_TYPES = ['anatomia', 'tecnicas', 'decisoes', 'notas'];
+  const CARD_TYPES = ['anatomia', 'tecnicas', 'decisoes', 'notas', 'flashcards'];
   const CARDS_BASE = '../../content/cards/';
 
   let _allCards = [];
-  let _history = [];
-  let _testQuestions = {}; // { topic: { area, questions[] } }
 
   // --- Data Loading ---
   async function loadAllCards() {
@@ -24,6 +24,7 @@ const App = (() => {
           if (!resp.ok) continue;
           const cards = await resp.json();
           if (Array.isArray(cards)) _allCards.push(...cards);
+          else if (cards && cards.id) _allCards.push(cards);
         } catch (e) {
           console.warn(`Failed to load ${area}/${topic}/${type}:`, e.message);
         }
@@ -33,282 +34,214 @@ const App = (() => {
     console.log(`Loaded ${_allCards.length} cards from ${CARD_MANIFEST.length} topics`);
   }
 
-  async function loadTestQuestions() {
-    for (const { area, topic } of CARD_MANIFEST) {
-      try {
-        const questions = await TestEngine.loadQuestions(area, topic);
-        _testQuestions[topic] = { area, questions };
-      } catch (e) {
-        console.warn(`Failed to load test questions for ${topic}:`, e.message);
-        _testQuestions[topic] = { area, questions: [] };
-      }
-    }
-  }
-
   // --- Navigation ---
   function showScreen(id) {
     document.querySelectorAll('.screen').forEach(s => s.classList.add('hidden'));
     document.getElementById(id).classList.remove('hidden');
 
     const backBtn = document.getElementById('btn-back');
-    if (id === 'screen-search') {
+    if (id === 'screen-home') {
       backBtn.classList.add('hidden');
-      document.getElementById('nav-title').textContent = 'Biblioteca CP';
+      document.getElementById('nav-title').textContent = 'Briefing Pré-Op';
     } else {
       backBtn.classList.remove('hidden');
     }
   }
 
-  function navigateTo(screenId, title) {
-    _history.push('screen-search');
-    showScreen(screenId);
-    if (title) document.getElementById('nav-title').textContent = title;
-  }
-
   function goBack() {
-    const prev = _history.pop() || 'screen-search';
-    showScreen(prev);
-  }
-
-  // --- Search ---
-  function handleSearch(query) {
-    const container = document.getElementById('search-results');
-    const browser = document.getElementById('topic-browser');
-
-    if (!query.trim()) {
-      container.innerHTML = '';
-      browser.classList.remove('hidden');
-      return;
+    // If leaving chat, reset conversation and show chat button again
+    if (!document.getElementById('screen-chat').classList.contains('hidden')) {
+      Chat.reset();
+      document.getElementById('chat-messages').innerHTML = '';
+      document.getElementById('btn-chat').classList.remove('hidden');
     }
-
-    browser.classList.add('hidden');
-    const results = SearchEngine.search(query);
-
-    if (results.length === 0) {
-      container.innerHTML = '<div class="no-results">Nenhum resultado</div>';
-      return;
-    }
-
-    container.innerHTML = results.slice(0, 30).map(r => Renderer.searchResult(r)).join('');
+    showScreen('screen-home');
   }
 
-  function showCard(id) {
-    const card = SearchEngine.getById(id);
-    if (!card) return;
-    const screen = document.getElementById('screen-card');
-    screen.innerHTML = Renderer.render(card);
-    navigateTo('screen-card', card.title);
-  }
-
-  // --- Topic Browser (shown when search is empty) ---
-  function renderTopicBrowser() {
+  // --- Procedure List ---
+  function renderProcedureList(filter) {
     const topics = SearchEngine.getTopics();
-    const container = document.getElementById('topic-browser');
-    container.innerHTML = `<h3 class="browser-title">Temas</h3>` +
-      topics.map(t =>
-        `<div class="topic-item" data-topic="${t.topic}">
-          <span class="topic-name">${t.topic}</span>
-          <span class="topic-count">${t.count} fichas</span>
-        </div>`
-      ).join('');
-  }
+    const container = document.getElementById('procedure-list');
 
-  function showTopicCards(topic) {
-    const cards = SearchEngine.getByTopic(topic);
-    const container = document.getElementById('search-results');
-    const browser = document.getElementById('topic-browser');
-    browser.classList.add('hidden');
-    container.innerHTML = cards
-      .filter(c => c.type !== 'flashcard')
-      .map(c => Renderer.searchResult({ id: c.id, type: c.type, title: c.title || c.id, topic: c.topic }))
-      .join('');
-  }
+    const filtered = filter
+      ? topics.filter(t => t.topic.toLowerCase().includes(filter.toLowerCase()))
+      : topics;
 
-  // --- Pre-Op ---
-  function handlePreOp(query) {
-    const resultsEl = document.getElementById('preop-results');
-    const briefingEl = document.getElementById('preop-briefing');
-
-    if (!query.trim()) {
-      // Show topic list for pre-op
-      const topics = SearchEngine.getTopics();
-      resultsEl.innerHTML = topics.map(t =>
-        `<div class="preop-topic-item" data-topic="${t.topic}">${t.topic}</div>`
-      ).join('');
-      briefingEl.innerHTML = '';
+    if (filtered.length === 0) {
+      container.innerHTML = '<div class="no-results">Nenhum procedimento encontrado</div>';
       return;
     }
 
-    // Find matching topic
-    const topics = SearchEngine.getTopics();
-    const match = topics.find(t => t.topic.includes(query.toLowerCase()));
-    if (match) {
-      resultsEl.innerHTML = '';
-      briefingEl.innerHTML = PreOp.buildBriefing(match.topic);
+    container.innerHTML = filtered.map(t =>
+      `<div class="topic-item" data-topic="${t.topic}">
+        <span class="topic-name">${t.topic}</span>
+        <span class="topic-count">${t.count} fichas</span>
+      </div>`
+    ).join('');
+  }
+
+  // --- Briefing ---
+  function openBriefing(topic) {
+    const screen = document.getElementById('screen-briefing');
+    screen.innerHTML = PreOp.buildBriefing(topic);
+    showScreen('screen-briefing');
+    document.getElementById('nav-title').textContent = topic;
+    screen.scrollTop = 0;
+  }
+
+  // --- Chat ---
+  const SUGGESTIONS = [
+    'Quais enxertos usar numa rinoplastia secundária com septo insuficiente?',
+    'Como manejar hematoma retrobulbar na blefaroplastia?',
+    'Diferenças entre deep plane e SMAS plication?'
+  ];
+
+  function openChat() {
+    showScreen('screen-chat');
+    document.getElementById('nav-title').textContent = 'Chat IA';
+    document.getElementById('btn-chat').classList.add('hidden');
+    _updateOnlineStatus();
+    const msgs = document.getElementById('chat-messages');
+    if (Chat.getMessages().length === 0) {
+      msgs.innerHTML = _renderEmpty();
     }
+    document.getElementById('chat-input').focus();
   }
 
-  function showPreOpForTopic(topic) {
-    document.getElementById('preop-results').innerHTML = '';
-    document.getElementById('preop-briefing').innerHTML = PreOp.buildBriefing(topic);
-  }
-
-  // --- Test Mode ---
-
-  function showTestView(view) {
-    ['test-view-topics', 'test-view-question', 'test-view-results'].forEach(id => {
-      document.getElementById(id).classList.add('hidden');
-    });
-    document.getElementById(`test-view-${view}`).classList.remove('hidden');
-  }
-
-  function renderTestTopicList() {
-    const container = document.getElementById('test-topic-list');
-    const entries = Object.entries(_testQuestions);
-    const hasAny = entries.some(([, t]) => t.questions.length > 0);
-
-    if (!hasAny) {
-      container.innerHTML = '<div class="no-results">Questões não disponíveis para este tópico.</div>';
-      return;
-    }
-
-    container.innerHTML = entries.map(([topic, { questions }]) => {
-      if (questions.length === 0) return '';
-      const profile = TestEngine.getTopicProfile(topic);
-      const lastTested = profile?.lastTested ? `Último: ${profile.lastTested}` : 'Nunca testado';
-      const sessions = profile?.sessions || 0;
-      return `<div class="test-topic-item" data-topic="${topic}">
-        <div>
-          <div class="test-topic-name">${topic}</div>
-          <div class="test-topic-meta">${questions.length} questões · ${lastTested} · ${sessions} sessão(ões)</div>
-        </div>
-        <div class="test-topic-arrow">&#8250;</div>
-      </div>`;
-    }).join('');
-  }
-
-  function startTestSession(topic) {
-    const { area, questions } = _testQuestions[topic] || { area: '', questions: [] };
-    if (questions.length === 0) return;
-    const firstQ = TestEngine.startSession(topic, area, questions);
-    if (!firstQ) return;
-    showTestView('question');
-    _renderTestQuestion(firstQ);
-  }
-
-  function _renderTestQuestion(q) {
-    const prog = TestEngine.progress();
-    const pct = prog.total > 0 ? (prog.current / prog.total) * 100 : 0;
-    document.getElementById('test-progress-fill').style.width = `${pct}%`;
-    document.getElementById('test-domain-badge').textContent = q.domain;
-    document.getElementById('test-question-text').textContent = q.question;
-    // Reset answer state
-    document.getElementById('test-view-answer').classList.add('hidden');
-    document.getElementById('btn-show-answer').classList.remove('hidden');
-  }
-
-  function _showTestAnswer() {
-    const q = TestEngine.currentQuestion();
-    if (!q) return;
-    document.getElementById('test-answer-text').textContent = q.expected;
-    document.getElementById('test-view-answer').classList.remove('hidden');
-    document.getElementById('btn-show-answer').classList.add('hidden');
-  }
-
-  function _rateAnswer(correct) {
-    const next = TestEngine.rate(correct); // returns next question or null when done
-    if (TestEngine.isDone()) {
-      _showTestResults();
-    } else {
-      _renderTestQuestion(next);
-    }
-  }
-
-  function _showTestResults() {
-    const result = TestEngine.finishSession();
-    showTestView('results');
-
-    const pct = Math.round((result.correct / result.total) * 100);
-    const scoreColor = pct >= 70 ? 'var(--accent-green)' : pct >= 50 ? 'var(--accent-yellow)' : 'var(--accent-red)';
-
-    const domainsHtml = Object.entries(result.domainResults)
-      .map(([domain, { correct, total }]) => {
-        const dp = Math.round((correct / total) * 100);
-        const cls = dp >= 70 ? 'domain-score-good' : dp >= 50 ? 'domain-score-mid' : 'domain-score-bad';
-        return `<div class="test-domain-row"><span>${domain}</span><span class="${cls}">${correct}/${total} (${dp}%)</span></div>`;
-      }).join('');
-
-    const weakHtml = result.weakCards.length > 0
-      ? result.weakCards.map(id => {
-          const card = SearchEngine.getById(id);
-          return card ? Renderer.searchResult({ id: card.id, type: card.type, title: card.title, topic: card.topic }) : '';
-        }).join('')
-      : '';
-
-    document.getElementById('test-view-results').innerHTML = `
-      <div class="test-results-header">
-        <div class="test-score" style="color:${scoreColor}">${result.correct}/${result.total}</div>
-        <div class="test-score-pct">${pct}%</div>
+  function _renderEmpty() {
+    return `<div class="chat-empty">
+      <div class="chat-empty-icon">&#128218;</div>
+      <div class="chat-empty-title">Assistente Cirúrgico</div>
+      <div class="chat-empty-subtitle">Pergunte sobre anatomia, técnicas, decisões clínicas ou parâmetros</div>
+      <div class="chat-suggestions">
+        ${SUGGESTIONS.map(s => `<button class="chat-suggestion">${s}</button>`).join('')}
       </div>
-      <div>${domainsHtml}</div>
-      ${result.weakCards.length > 0 ? '<p class="test-weak-title">Revisar</p>' : ''}
-      <div>${weakHtml}</div>
-      <button id="btn-test-again" class="btn-primary" style="margin-top:20px">Testar Novamente</button>
-    `;
+    </div>`;
+  }
+
+  function _renderMessage(role, text) {
+    const div = document.createElement('div');
+    div.className = `chat-msg chat-msg-${role}`;
+    if (role === 'assistant') {
+      // Convert [Title] to highlighted citations and **bold** to <strong>
+      let html = text
+        .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
+        .replace(/\[([^\]]+)\]/g, '<span class="chat-cite">[$1]</span>')
+        .replace(/\n/g, '<br>');
+      div.innerHTML = html;
+    } else {
+      div.textContent = text;
+    }
+    return div;
+  }
+
+  function _renderError(msg) {
+    const div = document.createElement('div');
+    div.className = 'chat-msg chat-msg-error';
+    div.textContent = msg;
+    return div;
+  }
+
+  function _showTyping() {
+    const msgs = document.getElementById('chat-messages');
+    const typing = document.createElement('div');
+    typing.className = 'chat-typing';
+    typing.id = 'chat-typing';
+    typing.innerHTML = '<div class="chat-typing-dot"></div><div class="chat-typing-dot"></div><div class="chat-typing-dot"></div>';
+    msgs.appendChild(typing);
+    msgs.scrollTop = msgs.scrollHeight;
+  }
+
+  function _hideTyping() {
+    const el = document.getElementById('chat-typing');
+    if (el) el.remove();
+  }
+
+  async function handleSend(text) {
+    const input = document.getElementById('chat-input');
+    const msg = text || input.value.trim();
+    if (!msg || Chat.isLoading()) return;
+
+    input.value = '';
+    const msgs = document.getElementById('chat-messages');
+
+    // Clear empty state
+    const empty = msgs.querySelector('.chat-empty');
+    if (empty) empty.remove();
+
+    msgs.appendChild(_renderMessage('user', msg));
+    msgs.scrollTop = msgs.scrollHeight;
+
+    _showTyping();
+    input.disabled = true;
+    document.getElementById('btn-send').disabled = true;
+
+    try {
+      const response = await Chat.send(msg);
+      _hideTyping();
+      msgs.appendChild(_renderMessage('assistant', response));
+    } catch (err) {
+      _hideTyping();
+      msgs.appendChild(_renderError(err.message || 'Erro ao enviar mensagem'));
+    }
+
+    input.disabled = false;
+    document.getElementById('btn-send').disabled = false;
+    input.focus();
+    msgs.scrollTop = msgs.scrollHeight;
+  }
+
+  function _updateOnlineStatus() {
+    const offline = document.getElementById('chat-offline');
+    const input = document.getElementById('chat-input');
+    const send = document.getElementById('btn-send');
+    if (!offline) return;
+    if (navigator.onLine) {
+      offline.classList.add('hidden');
+      input.disabled = false;
+      send.disabled = false;
+    } else {
+      offline.classList.remove('hidden');
+      input.disabled = true;
+      send.disabled = true;
+    }
   }
 
   // --- Event Wiring ---
   function init() {
-    // Search
-    const searchInput = document.getElementById('search-input');
-    searchInput.addEventListener('input', () => handleSearch(searchInput.value));
+    // Filter input
+    const filterInput = document.getElementById('procedure-filter');
+    filterInput.addEventListener('input', () => renderProcedureList(filterInput.value));
 
     // Back button
     document.getElementById('btn-back').addEventListener('click', goBack);
 
-    // Pre-op button
-    document.getElementById('btn-preop').addEventListener('click', () => {
-      navigateTo('screen-preop', 'Briefing Pre-Op');
-      handlePreOp('');
+    // Chat button
+    document.getElementById('btn-chat').addEventListener('click', openChat);
+
+    // Chat send
+    document.getElementById('btn-send').addEventListener('click', () => handleSend());
+    document.getElementById('chat-input').addEventListener('keydown', e => {
+      if (e.key === 'Enter' && !e.shiftKey) { e.preventDefault(); handleSend(); }
     });
 
-    // Pre-op input
-    const preopInput = document.getElementById('preop-input');
-    preopInput.addEventListener('input', () => handlePreOp(preopInput.value));
-
-    // Test button
-    document.getElementById('btn-test').addEventListener('click', () => {
-      navigateTo('screen-test', 'Teste');
-      showTestView('topics');
-      renderTestTopicList();
-    });
+    // Online/offline
+    window.addEventListener('online', _updateOnlineStatus);
+    window.addEventListener('offline', _updateOnlineStatus);
 
     // Delegated clicks
     document.addEventListener('click', e => {
-      const result = e.target.closest('.search-result');
-      if (result) { showCard(result.dataset.id); return; }
-
       const topicItem = e.target.closest('.topic-item');
-      if (topicItem) { showTopicCards(topicItem.dataset.topic); return; }
+      if (topicItem) { openBriefing(topicItem.dataset.topic); return; }
 
-      const preopTopic = e.target.closest('.preop-topic-item');
-      if (preopTopic) { showPreOpForTopic(preopTopic.dataset.topic); return; }
-
-      const testTopic = e.target.closest('.test-topic-item');
-      if (testTopic) { startTestSession(testTopic.dataset.topic); return; }
-
-      if (e.target.closest('#btn-show-answer')) { _showTestAnswer(); return; }
-      if (e.target.closest('#btn-errei'))       { _rateAnswer(false); return; }
-      if (e.target.closest('#btn-acertei'))     { _rateAnswer(true);  return; }
-      if (e.target.closest('#btn-test-again'))  { showTestView('topics'); renderTestTopicList(); return; }
+      const suggestion = e.target.closest('.chat-suggestion');
+      if (suggestion) { handleSend(suggestion.textContent); return; }
     });
 
     // Load data then render
-    loadAllCards().then(async () => {
-      await loadTestQuestions();
-      renderTopicBrowser();
-      showScreen('screen-search');
-      searchInput.focus();
+    loadAllCards().then(() => {
+      renderProcedureList();
+      showScreen('screen-home');
     });
 
     // Register service worker

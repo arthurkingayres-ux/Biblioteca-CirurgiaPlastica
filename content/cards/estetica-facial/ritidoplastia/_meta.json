@@ -1,0 +1,30 @@
+{
+  "topic": "ritidoplastia",
+  "area": "estetica-facial",
+  "displayName": "Ritidoplastia (Facelift)",
+  "version": "v1.0",
+  "date": "2026-04-08",
+  "status": "complete",
+  "references": [
+    "Neligan PC (Ed.). Plastic Surgery, 5a Ed. Elsevier, 2023. Vol. 2, Cap. 11.",
+    "Grotting JC, Rubin JP. Grabb & Smith's Plastic Surgery, 8a Ed. Wolters Kluwer, 2020. Cap. 32."
+  ],
+  "articles": [
+    "Schultz KP et al. Demystifying Deep Layer Face-Lift Techniques: Systematic Review. Plast Reconstr Surg 2026;157(4):615-620.",
+    "Ganesh Kumar N et al. Role of Selective Neck Sutures in Face Lifts. Plast Reconstr Surg 2025;156(2):194e-197e.",
+    "Wong CH et al. Deep Plane Face Lift in Asian Patients. Plast Reconstr Surg 2025;156(4):485e-496e.",
+    "Timberlake AT et al. Complete Platysma Muscle Suspension in Deep-Plane Face-Lift Surgery. Plast Reconstr Surg 2025;155(4):699e-703e.",
+    "Movassaghi K et al. The U-SMAS Lift. Plast Reconstr Surg 2025;155(4):632-636.",
+    "Darras O et al. Local Tranexamic Acid in Facelift Surgery. Aesthet Surg J 2025;45(12):1213-1219.",
+    "Bartow MJ, Core G. Effective Recontouring of the Neck by Complete Platysmal Transection. Aesthet Surg J 2025;45(5):448-453.",
+    "Sibar S et al. Long-term Stability in Endoscopic Brow Lift: Systematic Review and Meta-Analysis. Aesthet Surg J 2025;45(3):232-240.",
+    "Amiri M et al. Microfocused Ultrasound With Visualization (MFU-V): Systematic Review and Meta-Analysis. Aesthet Surg J 2025;45(3):NP86-NP94."
+  ],
+  "cardCounts": {
+    "anatomia": 4,
+    "tecnicas": 7,
+    "decisoes": 2,
+    "notas": 4,
+    "flashcards": 12
+  }
+}

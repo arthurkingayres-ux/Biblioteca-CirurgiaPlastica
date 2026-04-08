@@ -8,15 +8,30 @@ const Renderer = (() => {
 
   function _section(title, content, className) {
     if (!content) return '';
+    // If content is already HTML (starts with <), don't re-format
+    const body = typeof content === 'string' && !content.startsWith('<') ? _formatText(content) : content;
     return `<div class="card-section ${className || ''}">
       <h3 class="section-title">${title}</h3>
-      <div class="section-body">${content}</div>
+      <div class="section-body">${body}</div>
     </div>`;
+  }
+
+  // Inline formatting: **bold**, numbers/measurements, parenthetical citations
+  function _formatText(html) {
+    if (!html || typeof html !== 'string') return html || '';
+    return html
+      // **bold** markers
+      .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
+      // Highlight key measurements (e.g., 15 mm, 2–3 cm, 0,5 mm, ≥ 10 mm)
+      .replace(/([\d.,]+\s*[–-]\s*[\d.,]+\s*(?:mm|cm|%|°|mg|mL|kg|anos|meses|semanas|dias|horas))/g, '<span class="measure">$1</span>')
+      .replace(/((?:[≥≤><~]\s*)?[\d.,]+\s*(?:mm|cm|%|°|mg|mL|kg|anos|meses|semanas|dias|horas))/g, '<span class="measure">$1</span>')
+      // Italic citations in parentheses
+      .replace(/\(([^)]*(?:Neligan|Grabb|Core Procedures|Operative Dictations|PRS|ASJ|JPRAS)[^)]*)\)/g, '<cite class="inline-cite">($1)</cite>');
   }
 
   function _list(items) {
     if (!items || items.length === 0) return '';
-    return '<ul>' + items.map(i => `<li>${i}</li>`).join('') + '</ul>';
+    return '<ul>' + items.map(i => `<li>${_formatText(i)}</li>`).join('') + '</ul>';
   }
 
   function _images(topic, filenames) {
@@ -35,7 +50,9 @@ const Renderer = (() => {
     if (!updates || updates.length === 0) return '';
     return updates.map(u => {
       const colorClass = u.color === 'red' ? 'update-red' : u.color === 'green' ? 'update-green' : 'update-blue';
+      const label = u.color === 'red' ? 'MUDANÇA DE CONDUTA' : u.color === 'green' ? 'DICA PRÁTICA' : 'ATUALIZAÇÃO';
       return `<div class="card-update ${colorClass}">
+        <div class="update-label">${label}</div>
         <strong>${u.title}</strong>
         ${_list(u.content)}
         <div class="update-cite">${u.citation}</div>
@@ -44,7 +61,7 @@ const Renderer = (() => {
   }
 
   function _badge(type) {
-    const labels = { technique: 'Tecnica', anatomy: 'Anatomia', decision: 'Decisao', note: 'Nota', flashcard: 'Flashcard' };
+    const labels = { technique: 'Técnica', anatomy: 'Anatomia', decision: 'Decisão', note: 'Nota', flashcard: 'Flashcard' };
     return `<span class="card-badge badge-${type}">${labels[type] || type}</span>`;
   }
 
@@ -53,11 +70,10 @@ const Renderer = (() => {
       ${_badge('technique')}
       <h2>${card.title}</h2>
       ${card.aliases ? `<div class="card-aliases">${card.aliases.join(' · ')}</div>` : ''}
-      ${_section('Indicacao', card.indication)}
-      ${_section('Contraindicacao', card.contraindication, 'warning')}
+      ${_section('Indicação', card.indication)}
+      ${_section('Contraindicação', card.contraindication, 'warning')}
       ${_section('Passo a Passo', _list(card.steps), 'steps')}
-      ${_section('Complicacoes', _list(card.complications), 'warning')}
-      ${_section('Pearls', _list(card.pearls), 'pearls')}
+      ${_section('Complicações', _list(card.complications), 'warning')}
       ${_images(card.topic, card.images)}
       ${_updates(card.updates)}
       ${_citations(card.citations)}
@@ -69,10 +85,10 @@ const Renderer = (() => {
       ${_badge('anatomy')}
       <h2>${card.title}</h2>
       ${card.aliases ? `<div class="card-aliases">${card.aliases.join(' · ')}</div>` : ''}
-      ${_section('Definicao', card.definition)}
-      ${_section('Localizacao', card.location)}
-      ${_section('Relacoes', _list(card.relations))}
-      ${_section('Relevancia Cirurgica', card.surgical_relevance, 'highlight')}
+      ${_section('Definição', card.definition)}
+      ${_section('Localização', card.location)}
+      ${_section('Relações', _list(card.relations))}
+      ${_section('Relevância Cirúrgica', card.surgical_relevance, 'highlight')}
       ${_section('Como Identificar', card.how_to_identify, 'highlight')}
       ${_images(card.topic, card.images)}
       ${_updates(card.updates)}
@@ -91,7 +107,7 @@ const Renderer = (() => {
     return `<article class="card card-decision">
       ${_badge('decision')}
       <h2>${card.title}</h2>
-      ${_section('Quando usar', card.trigger)}
+      ${_section('Quando Usar', card.trigger)}
       <div class="decision-tree">${stepsHtml}</div>
       ${_updates(card.updates)}
       ${_citations(card.citations)}
