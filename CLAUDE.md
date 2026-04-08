@@ -14,16 +14,19 @@ Todos os arquivos devem ser lidos e salvos diretamente nessa pasta.
 
 ## Orquestração de Trabalho
 
-### 1. Plan Mode por Padrão
-- Entrar em plan mode para QUALQUER tarefa não-trivial (3+ passos ou decisões de arquitetura)
-- Se algo sair dos trilhos, PARAR e re-planejar imediatamente
-- Usar plan mode para etapas de verificação, não só para construção
+### 1. Planejamento via `/superpowers:brainstorming`
+
+- **OBRIGATÓRIO:** Para QUALQUER tarefa de planejamento, design ou nova funcionalidade, invocar `/superpowers:brainstorming` ANTES de implementar. Sem exceção.
+- O brainstorming produz uma spec escrita que deve ser aprovada pelo Dr. Arthur antes de seguir para implementação
+- Se algo sair dos trilhos, PARAR e re-planejar via brainstorming imediatamente
 - Escrever especificações detalhadas antes de começar, para reduzir ambiguidade
 
-### 2. Estratégia de Subagentes
+### 2. Execução via `/superpowers:dispatching-parallel-agents` — **OBRIGATÓRIO**
+
+- **TODAS as tarefas de execução** DEVEM ser orquestradas por agentes paralelos (`/superpowers:dispatching-parallel-agents`). Sem exceção.
+- Decompor o trabalho em subtarefas independentes e lançar agentes em paralelo sempre que possível
 - Usar subagentes liberalmente para manter a janela de contexto principal limpa
-- Delegar pesquisa, exploração e análises paralelas a subagentes
-- Para problemas complexos, jogar mais poder computacional via subagentes
+- Para problemas complexos, jogar mais poder computacional via agentes paralelos
 - Uma tarefa por subagente para execução focada
 
 ### 3. Loop de Auto-Aperfeiçoamento
@@ -241,7 +244,7 @@ cd ~/Documents/Biblioteca-CirurgiaPlastica
 > Estas regras são invioláveis.
 
 1. **NUNCA** apagar conteúdo existente ao atualizar
-2. **SEMPRE** validar acentuação portuguesa antes de publicar conteúdo. Rodar `node tools/validate_content.js` e corrigir todos os erros de acentuação. Conferir especialmente: -ção/-ções, -ância/-ência, -ável/-ível, -ário/-ária, -ático/-ática, -âneo/-ânea, -ósteo, -álpebra, -órbita. Todo texto em português DEVE ter diacríticos corretos — este é material de ensino.
+2. **SEMPRE** validar acentuação portuguesa antes de publicar conteúdo. Rodar `node tools/validate_content.js` e corrigir todos os erros de acentuação. Conferir especialmente: -ção/-ções, -ância/-ência, -ável/-ível, -ário/-ária, -ático/-ática, -âneo/-ânea, -ósteo, -álpebra, -órbita. Todo texto em português DEVE ter diacríticos corretos — este é material de ensino. **EXCEÇÃO CRÍTICA:** Nomes de arquivos de imagem (campo `images` nos JSONs) NUNCA devem receber acentos — os arquivos no disco usam nomes ASCII sem diacríticos. Correções de acentuação devem afetar apenas campos de texto (title, definition, steps, etc.), NUNCA nomes de arquivo.
 3. **SEMPRE** adicionar citação inline ao novo conteúdo
 4. Usar **box AZUL** quando o artigo complementa o conhecimento existente
 5. Usar **box VERMELHO** quando o artigo muda conduta ou paradigma
@@ -543,10 +546,11 @@ python tools/varredura_semanal.py --skip-triage            # pular triagem IA (f
 
 ### Skills de Workflow — Core
 
-**`/superpowers:brainstorming`**
+**`/superpowers:brainstorming`** — **USO OBRIGATÓRIO**
 
-- **TRIGGER:** ANTES de começar qualquer feature, componente, funcionalidade nova, ou mudança criativa/arquitetural
-- Explora intenção, requisitos e design antes de implementar. Produz spec escrita
+- **TRIGGER:** ANTES de começar QUALQUER tarefa de planejamento, design, nova funcionalidade, ou mudança arquitetural. Sem exceção.
+- Toda tarefa não-trivial DEVE passar pelo brainstorming antes de implementação
+- Explora intenção, requisitos e design antes de implementar. Produz spec escrita aprovada pelo Dr. Arthur
 
 **`/superpowers:writing-plans`**
 
@@ -563,10 +567,11 @@ python tools/varredura_semanal.py --skip-triage            # pular triagem IA (f
 - **TRIGGER:** QUANDO executar planos com tarefas independentes na sessão atual
 - Delega tarefas a subagentes especializados. Estratégia principal de execução do projeto v2
 
-**`/superpowers:dispatching-parallel-agents`**
+**`/superpowers:dispatching-parallel-agents`** — **USO OBRIGATÓRIO**
 
-- **TRIGGER:** QUANDO houver 2+ tarefas independentes que podem rodar em paralelo
-- Lança múltiplos agentes simultâneos sem dependências entre si
+- **TRIGGER:** TODAS as tarefas de execução DEVEM ser orquestradas por agentes paralelos. Sem exceção.
+- Decompor trabalho em subtarefas independentes e lançar agentes em paralelo sempre que possível
+- Estratégia padrão de execução do projeto — não executar tarefas sequencialmente quando podem ser paralelizadas
 
 **`/superpowers:verification-before-completion`**
 
@@ -585,9 +590,10 @@ python tools/varredura_semanal.py --skip-triage            # pular triagem IA (f
 
 ### Outras Skills
 
-**`/frontend-design:frontend-design`**
+**`/frontend-design:frontend-design`** — **USO OBRIGATÓRIO**
 
-- **TRIGGER:** QUANDO construir ou modificar interfaces web (componentes, páginas, PWAs)
+- **TRIGGER:** SEMPRE que construir ou modificar QUALQUER interface web (componentes, páginas, PWAs, CSS, HTML, JS de UI). Sem exceção.
+- Toda tarefa de criação ou modificação de frontend DEVE invocar esta skill antes de escrever código
 - Gera código frontend com design de alta qualidade, evitando estética genérica de IA
 
 **`/ui-ux-pro-max:ui-ux-pro-max`**

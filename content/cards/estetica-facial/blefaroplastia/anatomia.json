@@ -55,10 +55,10 @@
     "surgical_relevance": "A ressecção de músculo orbicular pré-septal durante blefaroplastia superior melhora a definição da prega mas aumenta edema inicial. A lesão do ramo zigomático do nervo facial pode comprometer o fechamento pálpebral inferior. O ramo temporal cruza o arco zigomático na zona perigosa — 1 cm anteriormente ao tragus.",
     "how_to_identify": "Músculo rosa-pálido imediatamente profundo à pele; porção pré-tarsal aderida ao tarso, porção pré-septal mais frouxa sobre o septo.",
     "images": [
-      "blef-13-6-músculos-órbitais.png",
+      "blef-13-6-musculos-orbitais.png",
       "blef-13-7-frontalis.png",
-      "blef-13-16-inervação-temporal-sobrancelha.png",
-      "fig13-6-músculos-periórbitarios.jpeg"
+      "blef-13-16-inervacao-temporal-sobrancelha.png",
+      "fig13-6-musculos-periorbitarios.jpeg"
     ],
     "citations": [
       "Neligan, 2023, vol. 2, cap. 8",
@@ -94,10 +94,10 @@
     "surgical_relevance": "Dissecar além da fusão septo-aponeurose pode lesar a aponeurose do LPS e causar ptose iatrogênica. A abertura do septo é o passo que permite acessar a gordura orbitária. Em asiáticos, o septo funde-se com a aponeurose do LPS em posição mais inferior, permitindo que a gordura pré-aponeurótica desça anteriormente ao tarso — base anatômica da ausência de prega pálpebral ('single eyelid').",
     "how_to_identify": "Membrana fibrosa branco-perolada profunda ao orbicular; ao abrir, expõe a gordura pré-aponeurótica amarela. Relação com a fusão à aponeurose é o marco crítico.",
     "images": [
-      "blef-13-11-septo-órbital.png",
-      "blef-13-8-anatomia-pálpebral-sagital.png",
-      "fig13-11-septo-órbital.jpeg",
-      "fig13-9-anatomia-pálpebral-sagital.jpeg"
+      "blef-13-11-septo-orbital.png",
+      "blef-13-8-anatomia-palpebral-sagital.png",
+      "fig13-11-septo-orbital.jpeg",
+      "fig13-9-anatomia-palpebral-sagital.jpeg"
     ],
     "citations": [
       "Neligan, 2023, vol. 2, cap. 8",
@@ -133,7 +133,7 @@
     "surgical_relevance": "A gordura pré-aponeurótica medial e central é amarela, lobulada e flui livremente quando exposta. A glândula lacrimal é rosa-acinzentada, firme, com textura glândular, SEMPRE no compartimento lateral. Regra prática: qualquer estrutura lateralmente ao limbo temporal com aspecto glândular NÃO deve ser ressecada. Na dúvida, reposicionar — nunca ressecar. NUNCA tracionar gordura — risco de hemorragia retrobulbar por avulsão de vasos profundos.",
     "how_to_identify": "Gordura medial: pálida, firme. Gordura central: amarela, lobulada, flui ao pressionar o globo. Glândula lacrimal lateral: rosa-acinzentada, firme, textura glândular.",
     "images": [
-      "blef-p0592-anatomia-da-órbita-e-compartimentos-de-gordura-per.jpeg"
+      "blef-p0592-anatomia-da-orbita-e-compartimentos-de-gordura-per.jpeg"
     ],
     "citations": [
       "Neligan, 2023, vol. 2, cap. 8",
@@ -221,10 +221,10 @@
     "surgical_relevance": "A deiscência ou alongamento da aponeurose é a causa mais comum de ptose involutiva (aponeurótica). O avanço ou plicatura da aponeurose é a técnica-padrão para correção. A relação fusão septo-aponeurose é o marco cirúrgico para evitar lesão iatrogênica do levantador.",
     "how_to_identify": "Aponeurose branca brilhante, profunda ao septo órbital; ao abrir o septo, a gordura pré-aponeurótica recobre a aponeurose. Fibras que se estendem à pele formam a prega.",
     "images": [
-      "blef-13-8-anatomia-pálpebral-sagital.png",
-      "blef-13-2-corte-horizontal-órbita.png",
-      "blef-13-29-incisão-levantador-plicatura.png",
-      "fig13-9-anatomia-pálpebral-sagital.jpeg"
+      "blef-13-8-anatomia-palpebral-sagital.png",
+      "blef-13-2-corte-horizontal-orbita.png",
+      "blef-13-29-incisao-levantador-plicatura.png",
+      "fig13-9-anatomia-palpebral-sagital.jpeg"
     ],
     "citations": [
       "Neligan, 2023, vol. 2, cap. 8"
@@ -261,7 +261,7 @@
     "surgical_relevance": "A Müllerectomy (ressecção conjuntivo-mülleriana) é a base da correção de ptose leve (MRD1 3–4 mm) quando o teste da fenilefrina 2,5% é positivo (elevação ≥ 1,5 mm confirma tônus simpático residual). Fasanella-Servat = variante que inclui tarso.",
     "how_to_identify": "Músculo liso vermelho-escuro profundo à aponeurose do LPS; teste com fenilefrina 2,5% tópica: elevação ≥ 1,5 mm confirma função.",
     "images": [
-      "blef-13-8-anatomia-pálpebral-sagital.png"
+      "blef-13-8-anatomia-palpebral-sagital.png"
     ],
     "citations": [
       "Neligan, 2023, vol. 2, cap. 8",
@@ -299,8 +299,8 @@
     "surgical_relevance": "A lesão da fáscia capsulopálpebral é uma causa de ectrópio por retração da lamela posterior. A incisão subtarsal na fáscia capsulopálpebral (Nomoto & Ogawa, 2025) é um novo paradigma para blefaroplastia inferior livre de ectrópio.",
     "how_to_identify": "Membrana fibrosa profunda ao septo órbital inferior; pode ser confundida com o septo — a fáscia capsulopálpebral é mais posterior e está aderida à borda inferior do tarso.",
     "images": [
-      "blef-13-33-fáscia-capsulopálpebral.png",
-      "blef-13-34-flap-capsulopálpebral.png",
+      "blef-13-33-fascia-capsulopalpebral.png",
+      "blef-13-34-flap-capsulopalpebral.png",
       "fig13-33-blefaroplastia-inferior.jpeg"
     ],
     "citations": [
@@ -338,8 +338,8 @@
     "surgical_relevance": "A disfunção das glândulas de Meibomius (meibomite) causa evaporação excessiva e olho seco. Cirurgias sobre o tarso (suturas de eversão, enxertos) devem considerar a integridade dessas glândulas. O tarso é a referência para a prega pálpebral e para a marcação de incisões.",
     "how_to_identify": "Placa fibrosa densa palpável sob a pele; face posterior revestida por conjuntiva; glândulas de Meibomius visíveis como estrias amareladas ao everter a pálpebra.",
     "images": [
-      "blef-13-8-anatomia-pálpebral-sagital.png",
-      "diagrama-camadas-pálpebrais.png"
+      "blef-13-8-anatomia-palpebral-sagital.png",
+      "diagrama-camadas-palpebrais.png"
     ],
     "citations": [
       "Neligan, 2023, vol. 2, cap. 8",
@@ -453,7 +453,7 @@
     "surgical_relevance": "Marco anatômico para a transição do LPS de músculo para aponeurose. Importante referência em cirurgia de ptose e blefaroplastia superior quando se acessa o espaço pré-aponeurótico.",
     "how_to_identify": "Banda fibrosa transversal esbranquiçada visível profundamente na órbita superior quando se disseca acima da aponeurose do LPS.",
     "images": [
-      "blef-13-2-corte-horizontal-órbita.png"
+      "blef-13-2-corte-horizontal-orbita.png"
     ],
     "citations": [
       "Neligan, 2023, vol. 2, cap. 8"
@@ -489,7 +489,7 @@
     "surgical_relevance": "Anastomose angular-oftálmica é via de comúnicação carotídea. Infecções perioculares podem causar trombose do seio cavernoso. Hemostasia meticulosa é essencial: sangramento arterial das etmoidais ou ramos orbitários é causa de hematoma retrobulbar.",
     "how_to_identify": "Arco marginal visível como vasos finos 2 mm da margem; artéria angular palpável lateralmente ao dorso nasal.",
     "images": [
-      "blef-13-14-vascularização-periórbital.png",
+      "blef-13-14-vascularizacao-periorbital.png",
       "fig13-14-suprimento-arterial.jpeg"
     ],
     "citations": [
@@ -530,8 +530,8 @@
     "surgical_relevance": "Bloqueio do nervo supraórbital para anestesia da pálpebra superior. Lesão do ramo temporal do facial durante lifting temporal causa ptose de sobrancelha. O nervo frontal (V1) pode ser lesado em acessos à região glabelar ou lifting frontal endoscópico.",
     "how_to_identify": "Nervo supraórbital: bloqueável no forame na junção 1/3 medial e 2/3 laterais do rebordo. Ramo temporal do VII: zona perigosa 1 cm anterior ao tragus sobre o arco zigomático.",
     "images": [
-      "blef-13-15-inervação-pálpebral.png",
-      "blef-13-16-inervação-temporal-sobrancelha.png",
+      "blef-13-15-inervacao-palpebral.png",
+      "blef-13-16-inervacao-temporal-sobrancelha.png",
       "fig13-15-nervos-sensoriais.jpeg",
       "fig13-16-anatomia-sobrancelha.jpeg"
     ],
@@ -612,8 +612,8 @@
     "surgical_relevance": "A liberação do ORL é necessária para midfacelift e para reposicionamento de gordura transconjuntival amplo. A preservação do ORL ajuda a manter a posição da junção pálpebra-bochecha em blefaroplastias conservadoras.",
     "how_to_identify": "Banda fibrosa palpável ao longo do rebordo orbitário inferior; resistência sentida ao tentar avançar tecidos inferiormente.",
     "images": [
-      "blef-13-12-ligamento-retenção-orbicular.png",
-      "blef-13-13-ligamento-retenção-órbital.png"
+      "blef-13-12-ligamento-retencao-orbicular.png",
+      "blef-13-13-ligamento-retencao-orbital.png"
     ],
     "citations": [
       "Neligan, 2023, vol. 2, cap. 9"
@@ -651,9 +651,9 @@
     "surgical_relevance": "A cirurgia de dupla pálpebra (double eyelid surgery) é a cirurgia estética mais realizada mundialmente. Método de sutura: reversível, menor edema, 15–30% recorrência a longo prazo. Método incisional: mais permanente, permite remoção de gordura/orbicular. Altura da prega: 6–8 mm (vs. 8–10 mm caucasianos).",
     "how_to_identify": "Ausência de prega pálpebral superior (single eyelid); fullness pré-tarsal; epicanto presente em graus variáveis.",
     "images": [
-      "blef-13-10ab-variacoes-pálpebra-superior.png",
-      "blef-13-10cd-pálpebra-asiatica-baggy.png",
-      "fig13-10-variacoes-pálpebra-superior.jpeg"
+      "blef-13-10ab-variacoes-palpebra-superior.png",
+      "blef-13-10cd-palpebra-asiatica-baggy.png",
+      "fig13-10-variacoes-palpebra-superior.jpeg"
     ],
     "citations": [
       "Neligan, 2023, vol. 2, cap. 8",
@@ -691,11 +691,11 @@
     "surgical_relevance": "O rebordo orbitário é referência para todas as medidas em blefaroplastia. O vetor orbitário (relação anteroposterior córnea-rebordo) determina o risco de complicações. Forames são pontos de reparo para bloqueios anestésicos e marcos cirúrgicos.",
     "how_to_identify": "Rebordo orbitário palpável em toda a circunferência; forame supraórbital na junção 1/3 medial e 2/3 laterais do rebordo superior; forame infraórbital ~7 mm abaixo do rebordo inferior.",
     "images": [
-      "blef-13-1-ossos-órbitarios.png",
-      "fig13-1-ossos-órbitarios.jpeg",
-      "blef-13-2-corte-horizontal-órbita.png",
-      "fig13-2-secao-horizontal-órbita.jpeg",
-      "blef-p0592-ossos-da-órbita-vista-lateral-com-cavidade-órbitar.jpeg"
+      "blef-13-1-ossos-orbitarios.png",
+      "fig13-1-ossos-orbitarios.jpeg",
+      "blef-13-2-corte-horizontal-orbita.png",
+      "fig13-2-secao-horizontal-orbita.jpeg",
+      "blef-p0592-ossos-da-orbita-vista-lateral-com-cavidade-orbitar.jpeg"
     ],
     "citations": [
       "Neligan, 2023, vol. 2, cap. 8"

@@ -15,9 +15,18 @@
       "A manutenção ou melhora da respiração é uma medida fundamental do sucesso cirúrgico — como afirmou John Mulliken, analogamente a 'speech is the measure of success for a pediatric cleft surgeon', a respiração é a medida para o cirurgião de rinoplastia."
     ],
     "images": [],
-    "citations": ["Neligan, 2023, vol. 2, caps. 18–19", "Grabb & Smith, 2024, cap. 54"],
+    "citations": [
+      "Neligan, 2023, vol. 2, caps. 18–19",
+      "Grabb & Smith, 2024, cap. 54"
+    ],
     "updates": [],
-    "tags": ["introdução", "conceito", "evolução", "funcional", "estética"]
+    "tags": [
+      "introdução",
+      "conceito",
+      "evolução",
+      "funcional",
+      "estética"
+    ]
   },
   {
     "id": "rino-nota-002",
@@ -36,10 +45,24 @@
       "VISTA BASAL: (1) projeção nasal; (2) triângulo equilátero (base da columela + rim alar); (3) lóbulo infraponta = 1/3 da distância base alar-ponta; (4) largura da base alar e flaring (normal: 2 mm); (5) assimetrias da narina.",
       "EXAME INTERNO: colapso da valva externa à inspiração + teste de Cottle. Espéculo nasal: valva interna, hipertrofia de corneto (típicamente contralateral ao desvio), deformidades septais, quantidade de cartilagem septal para enxerto. Em revisão: aplicador de algodão ao longo do septo identifica step-off de coleta prévia."
     ],
-    "images": ["fig18-2-ângulos-nasais.jpeg", "diagrama-ângulos-nasais.png"],
-    "citations": ["Neligan, 2023, vol. 2, caps. 18–19", "Core Procedures, 2020, cap. 4"],
+    "images": [
+      "fig18-2-angulos-nasais.jpeg",
+      "diagrama-angulos-nasais.png"
+    ],
+    "citations": [
+      "Neligan, 2023, vol. 2, caps. 18–19",
+      "Core Procedures, 2020, cap. 4"
+    ],
     "updates": [],
-    "tags": ["análise", "planejamento", "frontal", "lateral", "basal", "SYLVIA", "SIMON"]
+    "tags": [
+      "análise",
+      "planejamento",
+      "frontal",
+      "lateral",
+      "basal",
+      "SYLVIA",
+      "SIMON"
+    ]
   },
   {
     "id": "rino-nota-003",
@@ -72,10 +95,20 @@
       "Corneto inferior: até 2/3 da resistência total das vias aéreas.",
       "Valva interna: ~50% da resistência total."
     ],
-    "images": ["diagrama-ângulos-nasais.png"],
-    "citations": ["Neligan, 2023, vol. 2, cap. 18"],
+    "images": [
+      "diagrama-angulos-nasais.png"
+    ],
+    "citations": [
+      "Neligan, 2023, vol. 2, cap. 18"
+    ],
     "updates": [],
-    "tags": ["ângulos", "parâmetros", "projeção", "medidas", "referência"]
+    "tags": [
+      "ângulos",
+      "parâmetros",
+      "projeção",
+      "medidas",
+      "referência"
+    ]
   },
   {
     "id": "rino-nota-004",
@@ -95,9 +128,19 @@
       "Corneto inferior: até 2/3 da resistência total. Sinusoides cavernosos sob controle autonômico (simpático: vasos de resistência; parassimpático: vasos de capacitância)."
     ],
     "images": [],
-    "citations": ["Neligan, 2023, vol. 2, caps. 18 e 21", "Grabb & Smith, 2024, cap. 54"],
+    "citations": [
+      "Neligan, 2023, vol. 2, caps. 18 e 21",
+      "Grabb & Smith, 2024, cap. 54"
+    ],
     "updates": [],
-    "tags": ["fisiologia", "vias-aéreas", "Poiseuille", "Reynolds", "valva", "ciclo-nasal"]
+    "tags": [
+      "fisiologia",
+      "vias-aéreas",
+      "Poiseuille",
+      "Reynolds",
+      "valva",
+      "ciclo-nasal"
+    ]
   },
   {
     "id": "rino-nota-005",
@@ -114,8 +157,13 @@
       "MATERIAIS ALTERNATIVOS: costela homóloga fresca (FFHCC (Fresh Frozen Homologous Costal Cartilage — cartilagem costal homóloga fresca congelada) — infecção 2,4%, reabsorção 0,8%), costela irradiada, aloplásticos (implantes de silicone — malposição 4%, extrusão < 1%).",
       "HIERARQUIA (Rhinoplasty Society): septo > costela autóloga > costela homóloga fresca > concha > costela irradiada > aloplástico."
     ],
-    "images": ["diagrama-tipos-enxertos.png"],
-    "citations": ["Neligan, 2023, vol. 2, cap. 19", "Grabb & Smith, 2024, cap. 54"],
+    "images": [
+      "diagrama-tipos-enxertos.png"
+    ],
+    "citations": [
+      "Neligan, 2023, vol. 2, cap. 19",
+      "Grabb & Smith, 2024, cap. 54"
+    ],
     "updates": [
       {
         "color": "blue",
@@ -131,7 +179,14 @@
         "paradigm_shift": false
       }
     ],
-    "tags": ["enxertos", "septal", "auricular", "costal", "fáscia", "hierarquia"]
+    "tags": [
+      "enxertos",
+      "septal",
+      "auricular",
+      "costal",
+      "fáscia",
+      "hierarquia"
+    ]
   },
   {
     "id": "rino-nota-006",
@@ -155,7 +210,10 @@
       "Algoritmo de sutura idêntico ao primário: hemi-transdomal → colchoneiro da crura lateral → demais."
     ],
     "images": [],
-    "citations": ["Neligan, 2023, vol. 2, cap. 22", "Core Procedures, 2020, cap. 4"],
+    "citations": [
+      "Neligan, 2023, vol. 2, cap. 22",
+      "Core Procedures, 2020, cap. 4"
+    ],
     "updates": [
       {
         "color": "blue",
@@ -171,7 +229,13 @@
         "paradigm_shift": false
       }
     ],
-    "tags": ["revisão", "secundária", "complicações", "reconstrução", "insatisfação"]
+    "tags": [
+      "revisão",
+      "secundária",
+      "complicações",
+      "reconstrução",
+      "insatisfação"
+    ]
   },
   {
     "id": "rino-nota-007",
@@ -189,7 +253,10 @@
       "Tip plasty aberta precoce (3–5 anos) na fissura bilateral (Mohan et al.): melhora de projeção e altura da narina mantidas ao longo do tempo, pode reduzir necessidade de rinoplastia definitiva."
     ],
     "images": [],
-    "citations": ["Grabb & Smith, 2024, cap. 22", "Neligan, 2023, vol. 2, cap. 19"],
+    "citations": [
+      "Grabb & Smith, 2024, cap. 22",
+      "Neligan, 2023, vol. 2, cap. 19"
+    ],
     "updates": [
       {
         "color": "blue",
@@ -215,7 +282,13 @@
         "paradigm_shift": false
       }
     ],
-    "tags": ["fissura", "labiopalatal", "cleft", "primária", "definitiva"]
+    "tags": [
+      "fissura",
+      "labiopalatal",
+      "cleft",
+      "primária",
+      "definitiva"
+    ]
   },
   {
     "id": "rino-nota-008",
@@ -245,7 +318,12 @@
       "EXTRUSÃO DE IMPLANTE (< 1%): remoção; conversão para enxerto autólogo."
     ],
     "images": [],
-    "citations": ["Neligan, 2023, vol. 2, caps. 19 e 22", "Grabb & Smith, 2024, cap. 54", "Şibar S et al. ASJ 2025;46(1):16–23", "Kwan E et al. ASJ 2025;45(9):887–892"],
+    "citations": [
+      "Neligan, 2023, vol. 2, caps. 19 e 22",
+      "Grabb & Smith, 2024, cap. 54",
+      "Şibar S et al. ASJ 2025;46(1):16–23",
+      "Kwan E et al. ASJ 2025;45(9):887–892"
+    ],
     "updates": [
       {
         "color": "blue",
@@ -260,7 +338,15 @@
         "paradigm_shift": false
       }
     ],
-    "tags": ["complicações", "epistaxe", "hematoma", "infecção", "edema", "pollybeak", "colapso"]
+    "tags": [
+      "complicações",
+      "epistaxe",
+      "hematoma",
+      "infecção",
+      "edema",
+      "pollybeak",
+      "colapso"
+    ]
   },
   {
     "id": "rino-nota-009",
@@ -278,7 +364,10 @@
       "Duan et al. (33 pacientes): IBGG para sela moderada a grave. média na EVA (Escala Visual Analógica — VAS) 8,57/10. Melhora significativa em projeção/rotação da ponta."
     ],
     "images": [],
-    "citations": ["Neligan, 2023, vol. 2, cap. 19", "Grabb & Smith, 2024, cap. 55"],
+    "citations": [
+      "Neligan, 2023, vol. 2, cap. 19",
+      "Grabb & Smith, 2024, cap. 55"
+    ],
     "updates": [
       {
         "color": "blue",
@@ -305,7 +394,13 @@
         "paradigm_shift": false
       }
     ],
-    "tags": ["sela", "saddle-nose", "reconstrução", "DC-F", "IBGG"]
+    "tags": [
+      "sela",
+      "saddle-nose",
+      "reconstrução",
+      "DC-F",
+      "IBGG"
+    ]
   },
   {
     "id": "rino-nota-010",
@@ -324,8 +419,16 @@
       "Nariz desviado: avaliação pela linha média intercantal (não inter-sobrancelhas). Via aberta preferida. Correção requer septoplastia + osteotomias + manejo CLS/CLA."
     ],
     "images": [],
-    "citations": ["Neligan, 2023, vol. 2, cap. 19"],
+    "citations": [
+      "Neligan, 2023, vol. 2, cap. 19"
+    ],
     "updates": [],
-    "tags": ["pós-operatório", "curativos", "edema", "seguimento", "triancinolona"]
+    "tags": [
+      "pós-operatório",
+      "curativos",
+      "edema",
+      "seguimento",
+      "triancinolona"
+    ]
   }
 ]

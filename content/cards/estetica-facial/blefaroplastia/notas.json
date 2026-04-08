@@ -16,10 +16,20 @@
       "A região periocular é a área anatômica mais complexa da face. A blefaroplastia segura exige conhecimento tridimensional das camadas, estruturas de suporte e relações neurovasculares.",
       "A pálpebra é dividida em lamela anterior (pele e músculo orbicular) e lamela posterior (tarso e conjuntiva), com o septo órbital como limite entre os compartimentos pré-septal e orbitário."
     ],
-    "images": ["diagrama-camadas-pálpebrais.png"],
-    "citations": ["Neligan, 2023, vol. 2, caps. 8–9", "Grabb & Smith, 2024, cap. 35"],
+    "images": [
+      "diagrama-camadas-palpebrais.png"
+    ],
+    "citations": [
+      "Neligan, 2023, vol. 2, caps. 8–9",
+      "Grabb & Smith, 2024, cap. 35"
+    ],
     "updates": [],
-    "tags": ["introdução", "epidemiologia", "conceito", "lamelas"]
+    "tags": [
+      "introdução",
+      "epidemiologia",
+      "conceito",
+      "lamelas"
+    ]
   },
   {
     "id": "blef-nota-002",
@@ -40,10 +50,22 @@
       "Ligamento cantal lateral: alongamento → descenso e declínio angular de 10 a 15 graus, com exposição escleral e proeminência de gordura órbital lateral.",
       "Conceito de lamelas: envelhecimento diferencial da lamela anterior (pele/músculo) e posterior (tarso/conjuntiva), que explica a necessidade de abordagens distintas para cada componente."
     ],
-    "images": ["blef-13-19-deflacao-bochecha-envelhecimento.png", "blef-13-35-canto-lateral-envelhecimento.png"],
-    "citations": ["Neligan, 2023, vol. 2, caps. 8–9", "Grabb & Smith, 2024, cap. 35"],
+    "images": [
+      "blef-13-19-deflacao-bochecha-envelhecimento.png",
+      "blef-13-35-canto-lateral-envelhecimento.png"
+    ],
+    "citations": [
+      "Neligan, 2023, vol. 2, caps. 8–9",
+      "Grabb & Smith, 2024, cap. 35"
+    ],
     "updates": [],
-    "tags": ["envelhecimento", "fisiopatologia", "bolsas", "deflação", "laxidez"]
+    "tags": [
+      "envelhecimento",
+      "fisiopatologia",
+      "bolsas",
+      "deflação",
+      "laxidez"
+    ]
   },
   {
     "id": "blef-nota-003",
@@ -73,10 +95,32 @@
       "Lei de Hering: ocluir olho ptótico por 2 min e observar contralateral. Se cai → ptose contralateral latente.",
       "VISTAS FOTOGRÁFICAS: face completa frontal, oblíqua e perfil em repouso e sorrindo; periórbital em olhar para cima e para baixo, com olhos fechados e sobrancelha elevada com dedo."
     ],
-    "images": ["blef-13-17-pálpebra-superior-ideal.png", "blef-13-20-avaliação-periórbital.png", "blef-box13-1-princípios-pálpebra-jovem.png", "blef-box13-2-historia-exame-fisico.png", "blef-box13-3-vistas-fotograficas.png", "blef-box13-4-plano-periórbital.png", "fig13-20-avaliação-paciente.jpeg", "fig13-20a-acuidade-visual.png", "algoritmo-diagnostico-pálpebra-pesada.png"],
-    "citations": ["Neligan, 2023, vol. 2, caps. 8–9", "Grabb & Smith, 2024, cap. 35", "Core Procedures, 2020, cap. 3"],
+    "images": [
+      "blef-13-17-palpebra-superior-ideal.png",
+      "blef-13-20-avaliacao-periorbital.png",
+      "blef-box13-1-principios-palpebra-jovem.png",
+      "blef-box13-2-historia-exame-fisico.png",
+      "blef-box13-3-vistas-fotograficas.png",
+      "blef-box13-4-plano-periorbital.png",
+      "fig13-20-avaliacao-paciente.jpeg",
+      "fig13-20a-acuidade-visual.png",
+      "algoritmo-diagnostico-palpebra-pesada.png"
+    ],
+    "citations": [
+      "Neligan, 2023, vol. 2, caps. 8–9",
+      "Grabb & Smith, 2024, cap. 35",
+      "Core Procedures, 2020, cap. 3"
+    ],
     "updates": [],
-    "tags": ["avaliação", "pré-operatória", "MRD1", "Schirmer", "snap-back", "distraction", "fotografia"]
+    "tags": [
+      "avaliação",
+      "pré-operatória",
+      "MRD1",
+      "Schirmer",
+      "snap-back",
+      "distraction",
+      "fotografia"
+    ]
   },
   {
     "id": "blef-nota-004",
@@ -102,8 +146,14 @@
       "8. Encaminhar URGENTE para oftalmologia.",
       "A cantólise lateral (secção do ramo inferior do tendão cantal lateral) permite expansão do conteúdo orbitário para fora do cone muscular, aliviando a pressão."
     ],
-    "images": ["cantotomia-lateral-emergencia.png"],
-    "citations": ["Neligan, 2023, vol. 2, cap. 8", "Core Procedures, 2020, cap. 3", "Grabb & Smith, 2024, cap. 35"],
+    "images": [
+      "cantotomia-lateral-emergencia.png"
+    ],
+    "citations": [
+      "Neligan, 2023, vol. 2, cap. 8",
+      "Core Procedures, 2020, cap. 3",
+      "Grabb & Smith, 2024, cap. 35"
+    ],
     "updates": [
       {
         "color": "green",
@@ -122,7 +172,14 @@
         "paradigm_shift": false
       }
     ],
-    "tags": ["emergência", "hematoma-retrobulbar", "cantotomia", "cantólise", "cegueira", "descompressão"]
+    "tags": [
+      "emergência",
+      "hematoma-retrobulbar",
+      "cantotomia",
+      "cantólise",
+      "cegueira",
+      "descompressão"
+    ]
   },
   {
     "id": "blef-nota-005",
@@ -145,9 +202,20 @@
       "INFECÇÃO: < 0,1%. Raro pois pálpebra tem excelente vascularização. Antibiótico (ATB) tópico + sistêmico se celulite."
     ],
     "images": [],
-    "citations": ["Neligan, 2023, vol. 2, caps. 8–9", "Grabb & Smith, 2024, cap. 35"],
+    "citations": [
+      "Neligan, 2023, vol. 2, caps. 8–9",
+      "Grabb & Smith, 2024, cap. 35"
+    ],
     "updates": [],
-    "tags": ["complicações", "ectrópio", "lagoftalmo", "ptose-iatrogênica", "diplopia", "olho-seco", "hollowing"]
+    "tags": [
+      "complicações",
+      "ectrópio",
+      "lagoftalmo",
+      "ptose-iatrogênica",
+      "diplopia",
+      "olho-seco",
+      "hollowing"
+    ]
   },
   {
     "id": "blef-nota-006",
@@ -163,9 +231,18 @@
       "CUIDADO: resurfacing da pálpebra inferior combinado com blefaroplastia transcutânea aumenta o risco de retração cicatricial."
     ],
     "images": [],
-    "citations": ["Neligan, 2023, vol. 2, cap. 9"],
+    "citations": [
+      "Neligan, 2023, vol. 2, cap. 9"
+    ],
     "updates": [],
-    "tags": ["resurfacing", "laser", "CO2", "Er:YAG", "rugas", "complementar"]
+    "tags": [
+      "resurfacing",
+      "laser",
+      "CO2",
+      "Er:YAG",
+      "rugas",
+      "complementar"
+    ]
   },
   {
     "id": "blef-nota-007",
@@ -182,9 +259,18 @@
       "Pode ser associada a blefaroplastia inferior (transconjuntival com reposicionamento de gordura + lipoenxertia para volume residual deficiente)."
     ],
     "images": [],
-    "citations": ["Grabb & Smith, 2024, cap. 35"],
+    "citations": [
+      "Grabb & Smith, 2024, cap. 35"
+    ],
     "updates": [],
-    "tags": ["lipoenxertia", "microfat", "nanofat", "tear-trough", "volume", "complementar"]
+    "tags": [
+      "lipoenxertia",
+      "microfat",
+      "nanofat",
+      "tear-trough",
+      "volume",
+      "complementar"
+    ]
   },
   {
     "id": "blef-nota-008",
@@ -201,9 +287,19 @@
       "Complicação mais frequente: olho seco transitório (18%)."
     ],
     "images": [],
-    "citations": ["Neligan, 2023, vol. 2, cap. 8", "Core Procedures, 2020, cap. 3", "Todorov D et al. Aesthet Surg J 2025;45(6):554–562"],
+    "citations": [
+      "Neligan, 2023, vol. 2, cap. 8",
+      "Core Procedures, 2020, cap. 3",
+      "Todorov D et al. Aesthet Surg J 2025;45(6):554–562"
+    ],
     "updates": [],
-    "tags": ["resultados", "satisfação", "campo-visual", "campimetria", "funcional"]
+    "tags": [
+      "resultados",
+      "satisfação",
+      "campo-visual",
+      "campimetria",
+      "funcional"
+    ]
   },
   {
     "id": "blef-nota-009",
@@ -223,9 +319,18 @@
       "Fotoproteção rigorosa por 3–6 meses."
     ],
     "images": [],
-    "citations": ["Neligan, 2023, vol. 2, caps. 8–9", "Operative Dictations, 2017, caps. 8–10"],
+    "citations": [
+      "Neligan, 2023, vol. 2, caps. 8–9",
+      "Operative Dictations, 2017, caps. 8–10"
+    ],
     "updates": [],
-    "tags": ["pós-operatório", "cuidados", "compressas", "suturas", "recuperação"]
+    "tags": [
+      "pós-operatório",
+      "cuidados",
+      "compressas",
+      "suturas",
+      "recuperação"
+    ]
   },
   {
     "id": "blef-nota-010",
@@ -241,9 +346,19 @@
       "Indicação: descenso do terço médio com aprofundamento do sulco nasogeniano e tear trough, associado a envelhecimento periórbital.",
       "A cantopexia em duas camadas pode incluir opção de ancoramento para midfacelift simultâneo."
     ],
-    "images": ["blef-13-40-midfacelift.png"],
-    "citations": ["Neligan, 2023, vol. 2, cap. 9"],
+    "images": [
+      "blef-13-40-midfacelift.png"
+    ],
+    "citations": [
+      "Neligan, 2023, vol. 2, cap. 9"
+    ],
     "updates": [],
-    "tags": ["midfacelift", "SOOF", "terço-médio", "complementar", "suspensão"]
+    "tags": [
+      "midfacelift",
+      "SOOF",
+      "terço-médio",
+      "complementar",
+      "suspensão"
+    ]
   }
 ]
