@@ -43,3 +43,6 @@ Desktop.ini
 
 # Screenshots de smoke test (gerados ad-hoc na raiz, nao vao pra master)
 /test-*.png
+
+# Worktrees isolados (superpowers:using-git-worktrees)
+.worktrees/
