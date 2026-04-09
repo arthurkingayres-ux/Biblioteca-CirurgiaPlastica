@@ -7,6 +7,14 @@ const App = (() => {
   let _allCards = [];
   let _manifest = [];
 
+  // --- Helpers ---
+  function toTitleCase(slug) {
+    return String(slug || '')
+      .split(/[-_]/)
+      .map(w => w ? w[0].toUpperCase() + w.slice(1) : '')
+      .join(' ');
+  }
+
   // --- Data Loading ---
   async function loadAllCards() {
     _allCards = [];
@@ -32,7 +40,7 @@ const App = (() => {
         }
       }
     }
-    SearchEngine.buildIndex(_allCards);
+    SearchEngine.buildIndex(_allCards, _manifest);
     console.log(`Loaded ${_allCards.length} cards from ${_manifest.length} topics`);
   }
 
@@ -63,10 +71,16 @@ const App = (() => {
   // --- Procedure List ---
   function renderProcedureList(filter) {
     const topics = SearchEngine.getTopics();
+    const displayMap = {};
+    for (const m of _manifest) displayMap[m.topic] = m.displayName;
     const container = document.getElementById('procedure-list');
 
     const filtered = filter
-      ? topics.filter(t => t.topic.toLowerCase().includes(filter.toLowerCase()))
+      ? topics.filter(t => {
+          const dn = displayMap[t.topic] || toTitleCase(t.topic);
+          const q = filter.toLowerCase();
+          return dn.toLowerCase().includes(q) || t.topic.toLowerCase().includes(q);
+        })
       : topics;
 
     if (filtered.length === 0) {
@@ -74,12 +88,13 @@ const App = (() => {
       return;
     }
 
-    container.innerHTML = filtered.map(t =>
-      `<div class="topic-item" data-topic="${t.topic}">
-        <span class="topic-name">${t.topic}</span>
+    container.innerHTML = filtered.map(t => {
+      const dn = displayMap[t.topic] || toTitleCase(t.topic);
+      return `<div class="topic-item" data-topic="${t.topic}">
+        <span class="topic-name">${dn}</span>
         <span class="topic-count">${t.count} fichas</span>
-      </div>`
-    ).join('');
+      </div>`;
+    }).join('');
   }
 
   // --- Briefing ---
