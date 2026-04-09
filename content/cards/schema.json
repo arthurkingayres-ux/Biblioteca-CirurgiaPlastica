@@ -21,7 +21,20 @@
         "steps": { "type": "array", "items": { "type": "string" }, "minItems": 1 },
         "complications": { "type": "array", "items": { "type": "string" }, "default": [] },
         "pearls": { "type": "array", "items": { "type": "string" }, "default": [] },
-        "images": { "type": "array", "items": { "type": "string" }, "default": [] },
+        "images": {
+          "type": "array",
+          "default": [],
+          "items": {
+            "type": "object",
+            "required": ["file", "caption", "credit"],
+            "additionalProperties": false,
+            "properties": {
+              "file":    { "type": "string", "pattern": "^[a-z0-9._-]+\\.(jpg|jpeg|png|webp|svg)$" },
+              "caption": { "type": "string", "minLength": 4 },
+              "credit":  { "type": "string", "minLength": 4 }
+            }
+          }
+        },
         "citations": { "type": "array", "items": { "type": "string" }, "minItems": 1 },
         "updates": { "type": "array", "items": { "$ref": "#/$defs/update" }, "default": [] },
         "tags": { "type": "array", "items": { "type": "string" }, "minItems": 1 }
@@ -43,7 +56,20 @@
         "relations": { "type": "array", "items": { "type": "string" }, "default": [] },
         "surgical_relevance": { "type": "string" },
         "how_to_identify": { "type": "string" },
-        "images": { "type": "array", "items": { "type": "string" }, "default": [] },
+        "images": {
+          "type": "array",
+          "default": [],
+          "items": {
+            "type": "object",
+            "required": ["file", "caption", "credit"],
+            "additionalProperties": false,
+            "properties": {
+              "file":    { "type": "string", "pattern": "^[a-z0-9._-]+\\.(jpg|jpeg|png|webp|svg)$" },
+              "caption": { "type": "string", "minLength": 4 },
+              "credit":  { "type": "string", "minLength": 4 }
+            }
+          }
+        },
         "citations": { "type": "array", "items": { "type": "string" }, "minItems": 1 },
         "updates": { "type": "array", "items": { "$ref": "#/$defs/update" }, "default": [] },
         "tags": { "type": "array", "items": { "type": "string" }, "minItems": 1 }
@@ -81,6 +107,20 @@
             }
           }
         },
+        "images": {
+          "type": "array",
+          "default": [],
+          "items": {
+            "type": "object",
+            "required": ["file", "caption", "credit"],
+            "additionalProperties": false,
+            "properties": {
+              "file":    { "type": "string", "pattern": "^[a-z0-9._-]+\\.(jpg|jpeg|png|webp|svg)$" },
+              "caption": { "type": "string", "minLength": 4 },
+              "credit":  { "type": "string", "minLength": 4 }
+            }
+          }
+        },
         "citations": { "type": "array", "items": { "type": "string" }, "minItems": 1 },
         "updates": { "type": "array", "items": { "$ref": "#/$defs/update" }, "default": [] },
         "tags": { "type": "array", "items": { "type": "string" }, "minItems": 1 }
@@ -98,7 +138,20 @@
         "area": { "type": "string" },
         "section": { "type": "string" },
         "content": { "type": "array", "items": { "type": "string" }, "minItems": 1 },
-        "images": { "type": "array", "items": { "type": "string" }, "default": [] },
+        "images": {
+          "type": "array",
+          "default": [],
+          "items": {
+            "type": "object",
+            "required": ["file", "caption", "credit"],
+            "additionalProperties": false,
+            "properties": {
+              "file":    { "type": "string", "pattern": "^[a-z0-9._-]+\\.(jpg|jpeg|png|webp|svg)$" },
+              "caption": { "type": "string", "minLength": 4 },
+              "credit":  { "type": "string", "minLength": 4 }
+            }
+          }
+        },
         "citations": { "type": "array", "items": { "type": "string" }, "minItems": 1 },
         "updates": { "type": "array", "items": { "$ref": "#/$defs/update" }, "default": [] },
         "tags": { "type": "array", "items": { "type": "string" }, "minItems": 1 }

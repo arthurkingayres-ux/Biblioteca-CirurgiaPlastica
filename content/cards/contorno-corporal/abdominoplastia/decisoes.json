@@ -72,7 +72,18 @@
       "Neligan, 2023, vol. 2, cap. 27 — Matarasso",
       "Grabb & Smith, 2024, cap. 75 — Colwell"
     ],
-    "images": ["abdo-dec-incisoes-tipos.jpg", "abdo-anat-huger-zonas.jpg"],
+    "images": [
+      {
+        "file": "abdo-dec-incisoes-tipos.jpg",
+        "caption": "Padrões de incisão da abdominoplastia conforme a classificação de Matarasso (Tipos I a IV): lipoaspiração isolada, mini, modificada e clássica — cada desenho corresponde ao grau de excesso de pele, diástase e gordura.",
+        "credit": "Neligan vol. 2, cap. 27 — Matarasso (Abdominoplasty)"
+      },
+      {
+        "file": "abdo-anat-huger-zonas.jpg",
+        "caption": "Zonas vasculares de Huger da parede abdominal: Zona I (DIEA/SIEA central), Zona II (SCIA/SIEA inguinal) e Zona III (intercostais, subcostais e lombares) — esta última sustenta o retalho após a abdominoplastia.",
+        "credit": "Neligan vol. 2, cap. 27 — Matarasso (Abdominoplasty), Huger 1979"
+      }
+    ],
     "updates": [],
     "tags": ["decisão", "classificação", "matarasso", "selecao-técnica", "tipo-I-IV"]
   },
@@ -151,7 +162,13 @@
       "Neligan, 2023, vol. 2, cap. 27 — Matarasso",
       "Grabb & Smith, 2024, cap. 75 — Colwell"
     ],
-    "images": ["abdo-anat-camadas-us.jpg"],
+    "images": [
+      {
+        "file": "abdo-anat-camadas-us.jpg",
+        "caption": "Camadas da parede abdominal visualizadas por ultrassonografia pré-operatória: pele, tecido celular subcutâneo superficial e profundo separados pela fáscia de Scarpa, aponeurose do reto e peritônio — essencial para triagem de cicatrizes e avaliação de gordura visceral vs. subcutânea.",
+        "credit": "Neligan vol. 2, cap. 27 — Matarasso (Abdominoplasty)"
+      }
+    ],
     "updates": [],
     "tags": ["decisão", "contraindicações", "selecao-paciente", "tabagismo", "IMC", "TEV"]
   }

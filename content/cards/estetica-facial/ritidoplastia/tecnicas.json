@@ -38,7 +38,23 @@
       "Exige maior experiencia cirúrgica mas produz melhora superior do sulco nasolabial.",
       "O plano sub-SMAS e relativamente avascular quando corretamente identificado."
     ],
-    "images": ["riti-tec-deep-plane-sequencia.jpg", "riti-tec-deep-plane-monobloc.jpg", "riti-tec-deep-plane-orbicular.jpg"],
+    "images": [
+      {
+        "file": "riti-tec-deep-plane-sequencia.jpg",
+        "caption": "Sequência cirúrgica do deep plane facelift: elevação sub-SMAS em monobloco, liberação dos ligamentos de retenção e reposicionamento vertical do complexo SMAS-platisma.",
+        "credit": "Neligan vol. 2, cap. 11 — Facelift (Deep Plane)"
+      },
+      {
+        "file": "riti-tec-deep-plane-monobloc.jpg",
+        "caption": "Elevação em monobloco (skin-SMAS): o plano profundo mantém vascularização axial do retalho, permitindo tração efetiva sem descolagem ampla da pele.",
+        "credit": "Neligan vol. 2, cap. 11 — Facelift (Deep Plane)"
+      },
+      {
+        "file": "riti-tec-deep-plane-orbicular.jpg",
+        "caption": "Extensão da dissecção deep plane sob o orbicular do olho para tratar a ptose malar e o sulco palpebromalar.",
+        "credit": "Neligan vol. 2, cap. 11 — Facelift (Deep Plane)"
+      }
+    ],
     "citations": [
       "Neligan, 2023, vol. 2, cap. 11",
       "Schultz KP et al. Plast Reconstr Surg 2026;157(4):615-620"
@@ -93,7 +109,13 @@
       "Menor tensão no retalho evita aparencia artificial.",
       "Preservação da gordura malar e ainda mais critica na face asiatica."
     ],
-    "images": ["riti-tec-deep-plane-sequencia.jpg"],
+    "images": [
+      {
+        "file": "riti-tec-deep-plane-sequencia.jpg",
+        "caption": "Adaptações da técnica deep plane na face asiática: particularidades da aderência periosteal malar e do contorno mandibular na dissecção sub-SMAS.",
+        "credit": "Neligan vol. 2, cap. 11 — Facelift (Deep Plane)"
+      }
+    ],
     "citations": [
       "Wong CH et al. Plast Reconstr Surg 2025;156(4):485e-496e"
     ],
@@ -146,7 +168,13 @@
       "Adequado para ptose moderada; menor dissecção que o deep plane.",
       "Bons resultados em seguimento de 6-12 meses na serie original."
     ],
-    "images": ["riti-dec-smas-disseccao.jpg"],
+    "images": [
+      {
+        "file": "riti-dec-smas-disseccao.jpg",
+        "caption": "Dissecção do U-SMAS lift: elevação do SMAS em retalho em U e fixação cefalolateral — opção intermediária entre plicatura simples e deep plane.",
+        "credit": "Neligan vol. 2, cap. 11 — Facelift (Deep Plane)"
+      }
+    ],
     "citations": [
       "Movassaghi K et al. Plast Reconstr Surg 2025;155(4):632-636"
     ],
@@ -207,7 +235,23 @@
       "Transeccao completa do platisma oferece reconturno cervical superior, mas e técnica mais agressiva.",
       "Suspensao completa do platisma como extensão do deep plane combina resultado cervical e facial em um único plano."
     ],
-    "images": ["riti-tec-pescoco-suspensao.jpg", "riti-tec-pescoco-bandas.jpg", "riti-tec-pescoco-transeccao.jpg"],
+    "images": [
+      {
+        "file": "riti-tec-pescoco-suspensao.jpg",
+        "caption": "Suspensão do pescoço: sutura de tração vertical do SMAS/platisma à mastoide ou fáscia parotídea, restaurando o ângulo cervicomental.",
+        "credit": "Neligan vol. 2, cap. 11 — Facelift (Deep Plane)"
+      },
+      {
+        "file": "riti-tec-pescoco-bandas.jpg",
+        "caption": "Correção de bandas platismais mediais por plicatura em corset: aproximação das bordas do platisma na linha média submental.",
+        "credit": "Neligan vol. 2, cap. 11 — Facelift (Deep Plane)"
+      },
+      {
+        "file": "riti-tec-pescoco-transeccao.jpg",
+        "caption": "Transecção do platisma: secção transversa horizontal abaixo da cartilagem cricoide para eliminar bandas e melhorar o contorno cervical.",
+        "credit": "Neligan vol. 2, cap. 11 — Facelift (Deep Plane)"
+      }
+    ],
     "citations": [
       "Neligan, 2023, vol. 2, cap. 11",
       "Grabb & Smith, 2020, cap. 32",
@@ -285,7 +329,13 @@
       "Elevação média mantida de 6,8 mm em 5 anos, com recidiva gradual de ~0,4 mm/ano.",
       "Frequentemente combinado com blefaroplastia superior e ritidoplastia."
     ],
-    "images": ["riti-tec-browlift-tecnicas.jpg"],
+    "images": [
+      {
+        "file": "riti-tec-browlift-tecnicas.jpg",
+        "caption": "Browlift endoscópico: portais no couro cabeludo, dissecção subperiosteal e fixação com parafuso cortical ou âncora para elevação da sobrancelha.",
+        "credit": "Neligan vol. 2, cap. 11 — Facelift (Deep Plane)"
+      }
+    ],
     "citations": [
       "Sibar S et al. Aesthet Surg J 2025;45(3):232-240"
     ],
@@ -335,7 +385,13 @@
       "Tendencia a menor taxa de hematoma (2,1% vs. 3,9%), porém sem significancia estatistica neste estudo.",
       "Uso local (nao sistemico) — perfil de seguranca favoravel."
     ],
-    "images": ["riti-tec-deep-plane-monobloc.jpg"],
+    "images": [
+      {
+        "file": "riti-tec-deep-plane-monobloc.jpg",
+        "caption": "Aplicação tópica de ácido tranexâmico (TXA) nos retalhos de facelift durante a dissecção — adjuvante para redução de sangramento e risco de hematoma.",
+        "credit": "Neligan vol. 2, cap. 11 — Facelift (Deep Plane)"
+      }
+    ],
     "citations": [
       "Darras O et al. Aesthet Surg J 2025;45(12):1213-1219"
     ],
@@ -392,7 +448,13 @@
       "Complemento ao facelift cirúrgico, nunca substituto.",
       "Meta-análise de 18 estudos (n = 1.932) confirma eficacia em casos selecionados."
     ],
-    "images": ["riti-anat-smas-camadas.jpg"],
+    "images": [
+      {
+        "file": "riti-anat-smas-camadas.jpg",
+        "caption": "Ultrassom microfocado com visualização (MFU-V / Ultherapy) aplicado nas camadas superficiais do SMAS — opção não cirúrgica para envelhecimento leve a moderado.",
+        "credit": "Neligan vol. 2, cap. 11 — Facelift (Deep Plane)"
+      }
+    ],
     "citations": [
       "Amiri M et al. Aesthet Surg J 2025;45(3):NP86-NP94"
     ],

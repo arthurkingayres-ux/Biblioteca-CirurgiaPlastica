@@ -22,7 +22,18 @@
     ],
     "surgical_relevance": "A manipulação do SMAS e o pilar da ritidoplastia moderna. A zona de adesao firme sobre o masseter e considerada a 'zona de seguranca' por ter risco neural mínimo. A suspensao do SMAS em vetor posterior-superior produz resultados mais naturais e duradouros do que a tração cutânea isolada. Deep plane, plication, imbrication e U-SMAS sao todas técnicas que variam na forma de manipular o SMAS.",
     "how_to_identify": "Camada fibromuscular esbranquiçada logo abaixo da gordura subcutânea após elevação do retalho cutâneo. Sobre o masseter, o SMAS e fino e aponeurotico; sobre a glândula parotida, e mais espesso e muscular.",
-    "images": ["riti-anat-smas-camadas.jpg", "riti-anat-smas-axial.jpg"],
+    "images": [
+      {
+        "file": "riti-anat-smas-camadas.jpg",
+        "caption": "Camadas do SMAS (Sistema Músculo-Aponeurótico Superficial): plano fibromuscular contínuo entre o platisma cervical e o orbicular do olho facial — alvo da tração no facelift.",
+        "credit": "Neligan vol. 2, cap. 11 — Facelift (Deep Plane)"
+      },
+      {
+        "file": "riti-anat-smas-axial.jpg",
+        "caption": "Corte axial do SMAS em diferentes zonas faciais, evidenciando variações regionais de espessura e relação com os ligamentos de retenção.",
+        "credit": "Neligan vol. 2, cap. 11 — Facelift (Deep Plane)"
+      }
+    ],
     "citations": [
       "Neligan, 2023, vol. 2, cap. 11",
       "Grabb & Smith, 2020, cap. 32"
@@ -58,7 +69,18 @@
     ],
     "surgical_relevance": "A divisao do ligamento zigomático-cutâneo libera a ptose malar e melhora o sulco nasojugal. A divisao do ligamento masseterico-cutâneo libera o jowl e melhora a linha mandíbular. A divisao do ligamento mandíbular corrige o sulco labiomandíbular. Na técnica deep plane, a divisao desses ligamentos e o passo que permite a mobilização completa do retalho composto SMAS-gordura malar.",
     "how_to_identify": "Traves fibrosas firmes que resistem a elevação do retalho; sentem-se como 'cordas' ao dissecar. O ligamento zigomático-cutâneo e encontrado sobre o arco zigomático, e o masseterico-cutâneo na borda anterior do masseter.",
-    "images": ["riti-anat-ligamentos-overview.jpg", "riti-anat-ligamentos-disseccao.jpg"],
+    "images": [
+      {
+        "file": "riti-anat-ligamentos-overview.jpg",
+        "caption": "Ligamentos de retenção facial (Furnas): zigomático, mandibular, orbicular-retentor e massetérico cutâneos — ancoram os tecidos moles ao esqueleto.",
+        "credit": "Neligan vol. 2, cap. 11 — Facelift (Deep Plane)"
+      },
+      {
+        "file": "riti-anat-ligamentos-disseccao.jpg",
+        "caption": "Dissecção anatômica demonstrando os ligamentos verdadeiros (ósseos) e falsos (fasciais) de retenção facial — sua liberação é a chave da mobilização no deep plane.",
+        "credit": "Neligan vol. 2, cap. 11 — Facelift (Deep Plane)"
+      }
+    ],
     "citations": [
       "Neligan, 2023, vol. 2, cap. 11",
       "Grabb & Smith, 2020, cap. 32"
@@ -96,7 +118,18 @@
     ],
     "surgical_relevance": "Ramo temporal (frontal): prevenção por dissecção profunda ao SMAS na região temporal. Ramo zigomático: prevenção por identificacao antes de dividir os ligamentos de retenção. Ramo marginal mandíbular: prevenção por dissecção superficial na borda inferior da mandíbula e cuidado durante lipoaspiração cervical. A lesao do marginal e a mais temida por causar assimetria do sorriso (paralisia do depressor do labio inferior).",
     "how_to_identify": "Os ramos sao estruturas nervosas finas (1-2 mm) brancas e brilhantes. O ramo temporal corre na fáscia temporoparietal acima do arco zigomático. O marginal mandíbular pode ser localizado 1-2 cm abaixo da borda da mandíbula, profundo ao platisma. O uso de estimulador nervoso pode auxiliar na identificacao.",
-    "images": ["riti-anat-nervo-facial-ramos.jpg", "riti-anat-nervo-facial-riscos.jpg"],
+    "images": [
+      {
+        "file": "riti-anat-nervo-facial-ramos.jpg",
+        "caption": "Ramos do nervo facial vulneráveis no facelift: temporal (Pitanguy), zigomático (inerva o orbicular) e mandibular marginal — zonas de risco mapeadas para a dissecção segura.",
+        "credit": "Neligan vol. 2, cap. 11 — Facelift (Deep Plane)"
+      },
+      {
+        "file": "riti-anat-nervo-facial-riscos.jpg",
+        "caption": "Mapa das zonas de risco do nervo facial na ritidoplastia: pontos críticos ao longo do arco zigomático, parótida e borda mandibular.",
+        "credit": "Neligan vol. 2, cap. 11 — Facelift (Deep Plane)"
+      }
+    ],
     "citations": [
       "Neligan, 2023, vol. 2, cap. 11",
       "Grabb & Smith, 2020, cap. 32"
@@ -133,7 +166,18 @@
     ],
     "surgical_relevance": "O manejo do platisma e componente essencial do facelift cervical. Opcoes incluem: platismaplastia anterior (plicatura das bordas mediais), suturas seletivas (individualizadas por grau de ptose), transeccao completa (melhora significativa do ângulo cervicomental) e suspensao completa como extensão do deep plane. A escolha depende do grau de ptose e diástase do platisma.",
     "how_to_identify": "Músculo fino, largo e rosa-palido logo abaixo da gordura subcutânea do pescoco. As bandas platismais sao visiveis clinicamente como cordoes verticais no pescoco anterior. Intraoperatoriamente, aparece após elevação do retalho cutâneo cervical.",
-    "images": ["riti-anat-platisma-anatomia.jpg", "riti-anat-platisma-camadas.jpg"],
+    "images": [
+      {
+        "file": "riti-anat-platisma-anatomia.jpg",
+        "caption": "Anatomia do platisma: continuação cervical do SMAS que se estende do tórax superior à mandíbula e à comissura labial — alvo da platismaplastia.",
+        "credit": "Neligan vol. 2, cap. 11 — Facelift (Deep Plane)"
+      },
+      {
+        "file": "riti-anat-platisma-camadas.jpg",
+        "caption": "Relações do platisma em corte cervical: plano superficial sob a pele, cobrindo os vasos e estruturas do pescoço.",
+        "credit": "Neligan vol. 2, cap. 11 — Facelift (Deep Plane)"
+      }
+    ],
     "citations": [
       "Neligan, 2023, vol. 2, cap. 11",
       "Grabb & Smith, 2020, cap. 32"

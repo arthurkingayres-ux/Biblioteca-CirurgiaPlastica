@@ -52,7 +52,23 @@
       "Schultz KP et al. Plast Reconstr Surg 2026;157(4):615-620",
       "Movassaghi K et al. Plast Reconstr Surg 2025;155(4):632-636"
     ],
-    "images": ["riti-dec-smas-transicao.jpg", "riti-dec-smas-zonas.jpg", "riti-dec-smas-axial-comparacao.jpg"],
+    "images": [
+      {
+        "file": "riti-dec-smas-transicao.jpg",
+        "caption": "Zona de transição do SMAS: lateralmente contínuo com a fáscia parotídea (firme), medialmente afilando-se sobre os músculos faciais — referência anatômica para a escolha entre plication (mais superficial) e deep plane (dissecção sub-SMAS ampla).",
+        "credit": "Neligan vol. 2, cap. 11 — Facelift"
+      },
+      {
+        "file": "riti-dec-smas-zonas.jpg",
+        "caption": "Zonas topográficas do SMAS facial e pontos-chave dos ligamentos de retenção (zigomático, massetérico, mandíbular) — cada zona corresponde a uma estratégia cirúrgica diferente para ptose leve, moderada ou avançada.",
+        "credit": "Neligan vol. 2, cap. 11 — Facelift"
+      },
+      {
+        "file": "riti-dec-smas-axial-comparacao.jpg",
+        "caption": "Corte axial esquemático comparando SMAS plication, SMASectomia/imbrication e deep plane: progressão do plano de dissecção e da mobilização do retalho composto conforme o grau de envelhecimento.",
+        "credit": "Neligan vol. 2, cap. 11 — Facelift (Deep Plane)"
+      }
+    ],
     "updates": [],
     "tags": [
       "decisão",
@@ -135,7 +151,18 @@
       "Bartow MJ, Core G. Aesthet Surg J 2025;45(5):448-453",
       "Timberlake AT et al. Plast Reconstr Surg 2025;155(4):699e-703e"
     ],
-    "images": ["riti-dec-pescoco-smas-release.jpg", "riti-tec-pescoco-suspensao.jpg"],
+    "images": [
+      {
+        "file": "riti-dec-pescoco-smas-release.jpg",
+        "caption": "Liberação do SMAS/platisma no pescoço: plano de dissecção estendido do rebordo mandíbular ao ponto médio da região cervical lateral, permitindo suspensão vertical do platisma e melhora do ângulo cervicomental.",
+        "credit": "Neligan vol. 2, cap. 11 — Facelift (manejo cervical)"
+      },
+      {
+        "file": "riti-tec-pescoco-suspensao.jpg",
+        "caption": "Suspensão cervical como extensão do deep plane: platisma mobilizado em continuidade com o retalho facial e reposicionado sobre a fáscia mastoidea, unificando manejo facial e cervical em um único plano.",
+        "credit": "Neligan vol. 2, cap. 11 — Facelift (Deep Plane cervical)"
+      }
+    ],
     "updates": [],
     "tags": [
       "decisão",

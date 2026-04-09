@@ -34,11 +34,19 @@ const Renderer = (() => {
     return '<ul>' + items.map(i => `<li>${_formatText(i)}</li>`).join('') + '</ul>';
   }
 
-  function _images(topic, filenames) {
-    if (!filenames || filenames.length === 0) return '';
-    return filenames.map(f =>
-      `<div class="card-image"><img src="${_imgSrc(topic, f)}" alt="${f}" loading="lazy"></div>`
-    ).join('');
+  function _images(topic, images) {
+    if (!images || images.length === 0) return '';
+    return images.map(img => {
+      const caption = img.caption || '';
+      const credit = img.credit || '';
+      return `<figure class="card-figure">
+      <img src="${_imgSrc(topic, img.file)}" alt="${caption}" loading="lazy">
+      <figcaption>
+        <span class="caption">${caption}</span>
+        <span class="credit">${credit}</span>
+      </figcaption>
+    </figure>`;
+    }).join('');
   }
 
   function _citations(cites) {
@@ -109,6 +117,7 @@ const Renderer = (() => {
       <h2>${card.title}</h2>
       ${_section('Quando Usar', card.trigger)}
       <div class="decision-tree">${stepsHtml}</div>
+      ${_images(card.topic, card.images)}
       ${_updates(card.updates)}
       ${_citations(card.citations)}
     </article>`;

@@ -3,7 +3,11 @@
     "id": "abdo-tec-001",
     "type": "technique",
     "title": "Abdominoplastia Classica Completa (Matarasso — Tipo IV)",
-    "aliases": ["full abdominoplasty", "abdominoplastia completa", "abdominoplastia padrao"],
+    "aliases": [
+      "full abdominoplasty",
+      "abdominoplastia completa",
+      "abdominoplastia padrao"
+    ],
     "topic": "abdominoplastia",
     "area": "contorno-corporal",
     "indication": "Excesso franco de pele supra e infra-umbilical, lipodistrofia generalizada, diástase grave do reto abdominal, ptose do umbigo. Classificação de Matarasso Tipo IV.",
@@ -48,19 +52,40 @@
       "Botao ocular plástico suturado ao coto umbilical permite identificacao precisa da posição por palpacao através da pele.",
       "Sutura de seda longa na linha média (xifoide-pubis) confirma simetria bilateral antes de qualquer incisão."
     ],
-    "images": ["abdo-tec-classica-marcacao.jpg", "abdo-tec-classica-plicatura.jpg"],
+    "images": [
+      {
+        "file": "abdo-tec-classica-marcacao.jpg",
+        "caption": "Marcação pré-operatória da abdominoplastia clássica (Matarasso tipo IV): elipse supra-púbica com ápice próximo ao umbigo, extremidades laterais na prega natural e incisão inferior 5–9 cm acima da fenda vulvar.",
+        "credit": "Neligan vol. 2, cap. 27 — Matarasso (Abdominoplasty)"
+      },
+      {
+        "file": "abdo-tec-classica-plicatura.jpg",
+        "caption": "Plicatura do músculo reto abdominal em sutura contínua na linha alba, do apêndice xifoide ao osso pubiano, corrigindo a diástase após descolagem em V invertido.",
+        "credit": "Neligan vol. 2, cap. 27 — Matarasso (Abdominoplasty)"
+      }
+    ],
     "citations": [
       "Neligan, 2023, vol. 2, cap. 27 — Matarasso",
       "Grabb & Smith, 2024, cap. 75 — Colwell"
     ],
     "updates": [],
-    "tags": ["técnica", "abdominoplastia-classica", "plicatura", "V-invertido", "matarasso"]
+    "tags": [
+      "técnica",
+      "abdominoplastia-classica",
+      "plicatura",
+      "V-invertido",
+      "matarasso"
+    ]
   },
   {
     "id": "abdo-tec-002",
     "type": "technique",
     "title": "Mini-Abdominoplastia (Tipo II — Matarasso)",
-    "aliases": ["mini abdominoplasty", "abdominoplastia parcial", "abdominoplastia limitada"],
+    "aliases": [
+      "mini abdominoplasty",
+      "abdominoplastia parcial",
+      "abdominoplastia limitada"
+    ],
     "topic": "abdominoplastia",
     "area": "contorno-corporal",
     "indication": "Excesso de pele restrito ao abdome inferior (infra-umbilical) leve a moderado, diástase infra-umbilical, tonus cutâneo razoavel supra-umbilicalmente. Frequentemente corrige cicatriz de cesarea deprimida e irregularidades de contorno associadas. Classificação de Matarasso Tipo II.",
@@ -85,19 +110,33 @@
       "Frequentemente incorpora a cicatriz de cesarea previa na area de excisão.",
       "O umbigo NAO e transposicionado na mini-abdominoplastia."
     ],
-    "images": ["abdo-dec-incisoes-tipos.jpg"],
+    "images": [
+      {
+        "file": "abdo-dec-incisoes-tipos.jpg",
+        "caption": "Tipos de incisão na classificação de Matarasso: mini-abdominoplastia (tipo II) usa incisão transversa baixa restrita ao abdome inferior, sem transposição umbilical.",
+        "credit": "Neligan vol. 2, cap. 27 — Matarasso (Abdominoplasty)"
+      }
+    ],
     "citations": [
       "Grabb & Smith, 2024, cap. 75 — Colwell",
       "Neligan, 2023, vol. 2, cap. 27 — Matarasso"
     ],
     "updates": [],
-    "tags": ["técnica", "mini-abdominoplastia", "tipo-II", "infra-umbilical"]
+    "tags": [
+      "técnica",
+      "mini-abdominoplastia",
+      "tipo-II",
+      "infra-umbilical"
+    ]
   },
   {
     "id": "abdo-tec-003",
     "type": "technique",
     "title": "Lipoabdominoplastia (Saldanha)",
-    "aliases": ["lipoabdominoplasty", "abdominoplastia com lipoaspiração ampla"],
+    "aliases": [
+      "lipoabdominoplasty",
+      "abdominoplastia com lipoaspiração ampla"
+    ],
     "topic": "abdominoplastia",
     "area": "contorno-corporal",
     "indication": "Excesso de gordura subcutânea supraumbilical com tonus de pele relativamente bom, associado a diástase do reto e excesso cutâneo que justifique abdominoplastia. Candidatos ideais: pacientes que se beneficiam de lipoaspiração ampla combinada com excisão de pele e plicatura.",
@@ -121,19 +160,41 @@
       "A descolagem descontínua por canula libera o retalho mantendo suprimento axial dos perfuradores laterais.",
       "Seroma em lipoabdominoplastia e comparavel ou menor ao da abdominoplastia tradicional."
     ],
-    "images": ["abdo-tec-lipoabdominoplastia-saldanha.jpg", "abdo-tec-lipoabdominoplastia-selectiva.jpg"],
+    "images": [
+      {
+        "file": "abdo-tec-lipoabdominoplastia-saldanha.jpg",
+        "caption": "Lipoabdominoplastia de Saldanha: lipoaspiração ampla de todo o abdome superior combinada com descolagem limitada em V invertido, preservando perfuradores laterais da Zona III.",
+        "credit": "Neligan vol. 2, cap. 27 — Matarasso (Abdominoplasty); Saldanha et al."
+      },
+      {
+        "file": "abdo-tec-lipoabdominoplastia-selectiva.jpg",
+        "caption": "Descolagem seletiva da lipoabdominoplastia: o túnel central estreito permite plicatura do reto, enquanto a lipoaspiração descola o restante do retalho mantendo o suprimento axial.",
+        "credit": "Neligan vol. 2, cap. 27 — Matarasso (Abdominoplasty); Saldanha et al."
+      }
+    ],
     "citations": [
       "Grabb & Smith, 2024, cap. 75 — Colwell",
       "Neligan, 2023, vol. 2, cap. 27 — Matarasso"
     ],
     "updates": [],
-    "tags": ["técnica", "lipoabdominoplastia", "saldanha", "lipoaspiração", "V-invertido"]
+    "tags": [
+      "técnica",
+      "lipoabdominoplastia",
+      "saldanha",
+      "lipoaspiração",
+      "V-invertido"
+    ]
   },
   {
     "id": "abdo-tec-004",
     "type": "technique",
     "title": "Abdominoplastia Circunferencial (Belt Lipectomy / Lower Body Lift)",
-    "aliases": ["belt lipectomy", "lower body lift", "abdominoplastia 360", "circunferencial"],
+    "aliases": [
+      "belt lipectomy",
+      "lower body lift",
+      "abdominoplastia 360",
+      "circunferencial"
+    ],
     "topic": "abdominoplastia",
     "area": "contorno-corporal",
     "indication": "Excesso de pele circunferencial do tronco, frequentemente em pos-bariatrico. Belt lipectomy remove excesso ACIMA da linha de ancoragem (extensão da abdominoplastia para flancos e costas). Lower body lift remove tecido ABAIXO da linha de ancoragem (efeito de levantamento maior sobre gluteos e coxas). IMC deve ser < 37-38 kg/m2 e estabilizado por 3-6 meses.",
@@ -162,11 +223,24 @@
       "Pannus volumoso pode deslocar anatômicamente o cordao espermatico para o campo operatorio — cautela ao aprofundar a incisão.",
       "FDL (Fleur-de-Lis): combina abdominoplastia transversal + excisão vertical para excesso de pele duplo (pannus superior E inferior). Cicatriz em T (transversal + vertical). Descolagem limitada tipo lipoabdominoplastia reduz complicações na juncao T."
     ],
-    "images": ["abdo-tec-belt-lipectomy.jpg"],
+    "images": [
+      {
+        "file": "abdo-tec-belt-lipectomy.jpg",
+        "caption": "Abdominoplastia circunferencial (belt lipectomy / lower body lift): ressecção em cinta de excesso cutâneo do tronco em paciente pós-bariátrico, combinando tempo posterior prono e anterior supino.",
+        "credit": "Grabb & Smith cap. 75 — Colwell (Liposuction, Abdominoplasty, and Belt Lipectomy)"
+      }
+    ],
     "citations": [
       "Grabb & Smith, 2024, cap. 75 — Colwell"
     ],
     "updates": [],
-    "tags": ["técnica", "circunferencial", "belt-lipectomy", "lower-body-lift", "pos-bariatrico", "fleur-de-lis"]
+    "tags": [
+      "técnica",
+      "circunferencial",
+      "belt-lipectomy",
+      "lower-body-lift",
+      "pos-bariatrico",
+      "fleur-de-lis"
+    ]
   }
 ]
