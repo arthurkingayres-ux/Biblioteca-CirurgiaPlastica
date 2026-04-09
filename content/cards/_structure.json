@@ -1,0 +1,156 @@
+{
+  "description": "Estrutura dos cards atomicos derivados dos documentos RAG e consumidos pelo PWA. Cinco tipos (anatomy, technique, decision, note, flashcard) mais um badge (update) que pode ser inserido em qualquer card.",
+  "file_location": "content/cards/<area>/<tema>/",
+  "schema_formal": "content/cards/schema.json",
+  "generator": "tools/rag_to_cards.js",
+  "id_prefixes_file": "tools/topic_prefixes.json",
+  "files_per_topic": {
+    "_meta.json": "Metadados do tema (versao, data, status, referencias, contagens de cards)",
+    "anatomia.json": "Array de cards type=anatomy — 1 por estrutura anatomica",
+    "tecnicas.json": "Array de cards type=technique — 1 por tecnica cirurgica",
+    "decisoes.json": "Array de cards type=decision — 1 por arvore de decisao clinica",
+    "notas.json": "Array de cards type=note — fisiopatologia, principios, conteudo solto",
+    "flashcards.json": "Objeto unico type=flashcard com array de pares pergunta/resposta"
+  },
+  "id_format": "<prefix>-<type-abbr>-<001>",
+  "id_abbreviations": {
+    "anatomy": "anat",
+    "technique": "tec",
+    "decision": "dec",
+    "note": "nota",
+    "flashcard": "fc"
+  },
+  "card_types": {
+    "anatomy": {
+      "purpose": "1 card por estrutura anatomica — landmarks, relevancia cirurgica, como identificar",
+      "required_fields": ["id", "type", "title", "topic", "area", "definition", "location", "surgical_relevance"],
+      "example": {
+        "id": "blef-anat-001",
+        "type": "anatomy",
+        "title": "Pele Palpebral",
+        "aliases": ["pele da palpebra"],
+        "topic": "blefaroplastia",
+        "area": "estetica-facial",
+        "definition": "A pele mais fina do corpo (~0.5mm)...",
+        "location": "Regiao pre-tarsal e pre-septal...",
+        "relations": ["musculo orbicular", "septo orbital"],
+        "surgical_relevance": "Preservar >=20mm entre borda ciliar e sobrancelha...",
+        "how_to_identify": "Pele translucida, pincavel na regiao pre-septal...",
+        "images": ["blef-pele-palpebral.png"],
+        "citations": ["Neligan, 2023, vol. 2, cap. 8"],
+        "updates": [],
+        "tags": ["anatomia", "palpebra", "pele"]
+      }
+    },
+    "technique": {
+      "purpose": "1 card por tecnica cirurgica — indicacao, passos numerados, complicacoes, perolas",
+      "required_fields": ["id", "type", "title", "topic", "area", "indication", "steps"],
+      "example": {
+        "id": "blef-tec-001",
+        "type": "technique",
+        "title": "Blefaroplastia Superior Classica",
+        "aliases": [],
+        "topic": "blefaroplastia",
+        "area": "estetica-facial",
+        "indication": "Dermatocalase superior com excesso de pele...",
+        "contraindication": "Olho seco grave, oftalmopatia de Graves ativa...",
+        "steps": ["1. Marcacao...", "2. Infiltracao...", "3. Incisao..."],
+        "complications": ["Hematoma retrobulbar (0.05%)", "Lagoftalmo"],
+        "pearls": ["Preservar >=20mm de pele..."],
+        "images": [],
+        "citations": ["Neligan, 2023, vol. 2, cap. 8"],
+        "updates": [],
+        "tags": ["tecnica", "blefaroplastia-superior"]
+      }
+    },
+    "decision": {
+      "purpose": "1 card por arvore de decisao clinica — fluxograma com perguntas e opcoes",
+      "required_fields": ["id", "type", "title", "topic", "area", "trigger", "steps"],
+      "steps_format": "Array de objetos {question, options: [{answer, next}]}",
+      "example": {
+        "id": "blef-dec-001",
+        "type": "decision",
+        "title": "Vetor Orbitario — Selecao de Abordagem Inferior",
+        "topic": "blefaroplastia",
+        "area": "estetica-facial",
+        "trigger": "Paciente candidato a blefaroplastia inferior",
+        "steps": [
+          {
+            "question": "Vetor neutro ou positivo?",
+            "options": [
+              { "answer": "Sim", "next": "Abordagem transcutanea segura" },
+              { "answer": "Nao (vetor negativo)", "next": "Avaliar cantopexia" }
+            ]
+          }
+        ],
+        "citations": ["Neligan, 2023, vol. 2, cap. 8"],
+        "updates": [],
+        "tags": ["decisao", "vetor-orbitario"]
+      }
+    },
+    "note": {
+      "purpose": "Conteudo que nao se encaixa nos outros tipos — fisiopatologia, principios, sinopses, cuidados pos-op",
+      "required_fields": ["id", "type", "title", "topic", "area", "section", "content"],
+      "content_format": "Array de paragrafos (strings)",
+      "example": {
+        "id": "blef-nota-001",
+        "type": "note",
+        "title": "Fisiopatologia do Envelhecimento Periocular",
+        "topic": "blefaroplastia",
+        "area": "estetica-facial",
+        "section": "fisiopatologia",
+        "content": ["O envelhecimento periocular e multifatorial...", "..."],
+        "images": [],
+        "citations": ["Neligan, 2023, vol. 2, cap. 8"],
+        "updates": [],
+        "tags": ["fisiopatologia", "envelhecimento"]
+      }
+    },
+    "flashcard": {
+      "purpose": "Pares pergunta/resposta agrupados — focar em dados numericos, medidas, classificacoes",
+      "required_fields": ["id", "type", "topic", "area", "cards"],
+      "cards_format": "Array de objetos {front, back, citation, domain}",
+      "domain_values": ["anatomia", "tecnica", "decisao", "complicacao", "pos-operatorio", "fisiopatologia"],
+      "example": {
+        "id": "blef-fc-001",
+        "type": "flashcard",
+        "topic": "blefaroplastia",
+        "area": "estetica-facial",
+        "cards": [
+          {
+            "front": "Espessura da pele palpebral?",
+            "back": "~0.5mm (mais fina do corpo)",
+            "citation": "Neligan, 2023, vol. 2, cap. 8",
+            "domain": "anatomia"
+          }
+        ],
+        "tags": ["flashcard", "anatomia"]
+      }
+    }
+  },
+  "update_badge": {
+    "description": "Badge inserido no array 'updates' de qualquer card. Sinaliza que aquela secao foi atualizada por um artigo cientifico incorporado apos a criacao do card.",
+    "fields": {
+      "color": "blue (atualizacao informativa) | red (alerta/risco) | green (confirmacao positiva)",
+      "title": "Titulo curto da atualizacao",
+      "content": "Array de paragrafos explicativos",
+      "citation": "Autor et al., Journal, Ano",
+      "paradigm_shift": "true se muda a pratica padrao do tema; false caso contrario"
+    },
+    "example": {
+      "color": "red",
+      "title": "Embolia gordurosa em BBL — incidencia real",
+      "content": ["Meta-analise de 2022 mostrou incidencia de..."],
+      "citation": "Smith et al., PRS, 2022",
+      "paradigm_shift": true
+    }
+  },
+  "content_rules": {
+    "language": "portugues brasileiro",
+    "acronyms": "Primeira ocorrencia por card deve trazer nome por extenso",
+    "image_filenames": "ASCII sem acentos — NUNCA aplicar diacriticos a nomes de arquivo",
+    "tags": "lowercase, sem acentos, sem espacos (usar hifen)",
+    "citations": "Todo card deve ter ao menos 1 citacao rastreavel ao documento RAG",
+    "status_lifecycle": "draft (recem-gerado por rag_to_cards.js) -> complete (revisado pelo Dr. Arthur)"
+  }
+}

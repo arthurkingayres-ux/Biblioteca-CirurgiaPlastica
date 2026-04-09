@@ -1,0 +1,133 @@
+{
+  "description": "Estrutura canonica dos documentos RAG unificados. Um arquivo por tema cirurgico, agregando livros-texto e artigos cientificos numa narrativa densa. O Dr. Arthur nao consome diretamente; o agente e o unico consumidor.",
+  "file_location": "content/rag/<area>/<tema>.md",
+  "template_file": "content/rag/_template.md",
+  "language_rules": {
+    "headers": "ingles (referencia cruzada com o Neligan 5ed)",
+    "content": "portugues brasileiro, terminologia anatomica oficial"
+  },
+  "mirror_source": "Neligan's Plastic Surgery 5ed — headers e ordem espelham os capitulos do livro",
+  "front_matter": {
+    "title": "# <Tema> — Documento RAG Unificado",
+    "metadata_line": "> Fonte de verdade | Status: <rascunho|completo> | Ultima atualizacao: <data>"
+  },
+  "canonical_sections": [
+    {
+      "level": 2,
+      "title": "Referencias Primarias",
+      "purpose": "Lista de livros-texto consultados na elaboracao do documento"
+    },
+    {
+      "level": 2,
+      "title": "Referencias Secundarias (Artigos)",
+      "purpose": "Lista de artigos cientificos incorporados ao RAG"
+    },
+    {
+      "level": 2,
+      "title": "Synopsis",
+      "purpose": "Pontos-chave para o cirurgiao, como o bloco SYNOPSIS do Neligan",
+      "format": "bullet points"
+    },
+    {
+      "level": 2,
+      "title": "Introduction",
+      "purpose": "Visao geral, epidemiologia, importancia clinica, historico"
+    },
+    {
+      "level": 2,
+      "title": "Basic Science",
+      "children": [
+        {
+          "level": 3,
+          "title": "Anatomy",
+          "structure_template": {
+            "level": 4,
+            "title": "<Estrutura>",
+            "fields": [
+              "**Definicao:** ...",
+              "**Localizacao:** ...",
+              "**Relacoes:** ...",
+              "**Relevancia cirurgica:** ...",
+              "**Como identificar:** ...",
+              "[Imagem: <filename>]",
+              "(Citacao inline)"
+            ]
+          }
+        },
+        {
+          "level": 3,
+          "title": "Physiology / Pathophysiology",
+          "purpose": "Quando aplicavel ao tema"
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "title": "Diagnosis / Patient Presentation",
+      "purpose": "Queixa, exame fisico, testes, classificacoes diagnosticas"
+    },
+    {
+      "level": 2,
+      "title": "Patient Selection",
+      "purpose": "Indicacoes, contraindicacoes, classificacoes, arvores de decisao"
+    },
+    {
+      "level": 2,
+      "title": "Treatment / Surgical Technique",
+      "technique_template": {
+        "level": 3,
+        "title": "<Tecnica>",
+        "fields": [
+          "**Indicacao:** ...",
+          "**Contraindicacao:** ...",
+          "**Passos:** 1. ... 2. ...",
+          "**Complicacoes especificas:** ...",
+          "[Imagem: <filename>]",
+          "(Citacao inline)"
+        ]
+      }
+    },
+    {
+      "level": 2,
+      "title": "Postoperative Care",
+      "purpose": "Curativos, drenos, medicacoes, acompanhamento"
+    },
+    {
+      "level": 2,
+      "title": "Outcomes and Complications",
+      "complication_template": {
+        "level": 3,
+        "title": "<Complicacao>",
+        "fields": [
+          "**Incidencia:** X%",
+          "**Prevencao / Diagnostico / Manejo:** ..."
+        ]
+      }
+    },
+    {
+      "level": 2,
+      "title": "Secondary Procedures",
+      "purpose": "Revisoes, retoques, procedimentos complementares"
+    },
+    {
+      "level": 2,
+      "title": "Atualizacoes de Artigos",
+      "article_template": {
+        "level": 3,
+        "title": "<Autor et al., Journal, Ano>",
+        "fields": [
+          "**Resumo:** achados principais",
+          "**Impacto no RAG:** secoes atualizadas",
+          "**Cross-reference:** secoes afetadas"
+        ]
+      }
+    }
+  ],
+  "content_rules": {
+    "citations": "Toda afirmacao nova deve ter citacao inline no formato (Autor, ano) ou [Neligan, 2023, vol. X, cap. Y]",
+    "images": "Referencias no formato [Imagem: <filename.png>] com filename ASCII sem acentos",
+    "acronyms": "Siglas devem vir com nome por extenso na primeira ocorrencia por secao",
+    "never_delete": "NUNCA apagar conteudo existente ao atualizar — agregar e reestruturar, nao remover",
+    "source_hierarchy": "Livros-texto sao a BASE. Artigos COMPLEMENTAM — nunca substituem"
+  }
+}
