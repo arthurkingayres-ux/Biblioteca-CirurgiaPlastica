@@ -168,11 +168,20 @@ O Dr. Arthur consome a biblioteca exclusivamente pelo iPhone.
 
 ## Orquestração de Trabalho
 
-### 1. Plan Mode por Padrão
+### 1. Planejamento: fluxo único e obrigatório
 
-- Entrar em plan mode para QUALQUER tarefa não-trivial
-- Se algo sair dos trilhos, PARAR e re-planejar imediatamente
-- Usar Superpowers para planejamento — nunca improvisar
+**TODA tarefa de planejamento segue o mesmo fluxo, sem exceção:**
+
+1. Entrar em plan mode (`EnterPlanMode`)
+2. Invocar o skill `superpowers:brainstorming` dentro do plan mode
+
+Não avaliar se a tarefa é "trivial" ou "não-trivial" — esse julgamento não existe neste fluxo. Se é planejamento (decidir o que/como fazer antes de executar), é plan mode + brainstorming. Ponto.
+
+Gatilhos: "retome o projeto", "planeja X", "faça tal tarefa", "o que fazer agora", ou qualquer pedido que exija decidir abordagem antes de executar.
+
+Se algo sair dos trilhos durante a execução, PARAR e voltar ao fluxo (plan mode + brainstorming).
+
+O fluxo vale sempre que houver planejamento. Execução direta de comandos atômicos sem decisão ("rode esse teste", "leia tal arquivo", "abra tal linha") não é planejamento — siga direto. Qualquer outra coisa é planejamento.
 
 ### 2. Estratégia de Subagentes
 
@@ -205,14 +214,14 @@ O Dr. Arthur consome a biblioteca exclusivamente pelo iPhone.
 
 - **Confiança nos Números** — todo dado rastreável ao documento-fonte. Nunca adivinhar
 - **Simplicidade** — impacto mínimo, causas raiz, sem sobre-engenharia, sem efeitos colaterais
-- **Elegância** para mudanças não-triviais; simplicidade para o resto
+- **Elegância** quando a mudança tem peso arquitetural; simplicidade no resto
 - **Specs = Fonte de Verdade da Arquitetura** — consultar antes de tomar decisões de implementação
 
 ---
 
 ## Plugins Claude Code
 
-Lista completa de MCPs, skills de processo (Superpowers), regras de code review e frontend em [`settings.json`](settings.json). Consultar **antes** de começar qualquer tarefa não-trivial — o arquivo define quando cada plugin/skill deve ser usado.
+Lista completa de MCPs, skills de processo (Superpowers), regras de code review e frontend em [`settings.json`](settings.json). Consultar **dentro do plan mode durante o brainstorming** (ver §1 de Orquestração) — o arquivo define quando cada plugin/skill deve ser usado.
 
 ---
 
