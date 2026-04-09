@@ -103,7 +103,7 @@ Periódicos-alvo: PRS, ASJ, JPRAS, Annals, CPS, RBCP. Incorporados ao RAG via pi
 
 ### Temas implementados
 
-Blefaroplastia, rinoplastia, ritidoplastia, otoplastia, abdominoplastia. Expansão contínua tema a tema, conforme demanda do Dr. Arthur.
+Lista viva em [`content/cards/manifest.json`](content/cards/manifest.json) (status `complete` vs `draft`). Expansão contínua tema a tema, conforme demanda do Dr. Arthur.
 
 ---
 
@@ -197,38 +197,22 @@ O Dr. Arthur consome a biblioteca exclusivamente pelo iPhone.
 - Quando receber relato de bug: simplesmente corrigir. Não pedir passo a passo
 - Zero troca de contexto exigida do Dr. Arthur
 
+### 6. Code Review
+
+- **Obrigatório** usar `/code-review:code-review` antes de criar ou mergear qualquer pull request
+
 ### Princípios Fundamentais
 
-- **Simplicidade Primeiro**: impacto mínimo no código
-- **Sem Preguiça**: causas raiz, não correções temporárias
-- **Impacto Mínimo**: tocar apenas no necessário
+- **Confiança nos Números** — todo dado rastreável ao documento-fonte. Nunca adivinhar
+- **Simplicidade** — impacto mínimo, causas raiz, sem sobre-engenharia, sem efeitos colaterais
+- **Elegância** para mudanças não-triviais; simplicidade para o resto
+- **Specs = Fonte de Verdade da Arquitetura** — consultar antes de tomar decisões de implementação
 
 ---
 
 ## Plugins Claude Code
 
 Lista completa de MCPs, skills de processo (Superpowers), regras de code review e frontend em [`settings.json`](settings.json). Consultar **antes** de começar qualquer tarefa não-trivial — o arquivo define quando cada plugin/skill deve ser usado.
-
----
-
-## Princípios
-
-- **Confiança nos Números** — todo dado rastreável ao documento-fonte. Nunca adivinhar
-- **Simplicidade** — impacto mínimo, causas raiz, sem sobre-engenharia, sem efeitos colaterais
-- **Specs = Fonte de Verdade da Arquitetura** — consultar antes de tomar decisões de implementação
-
----
-
-## Regras de Trabalho
-
-1. **Plan mode** para qualquer tarefa não-trivial
-2. **Superpowers** para planejamento — nunca improvisar
-3. **Subagentes** para manter contexto limpo (1 tarefa por agente)
-4. **Registrar correções** do Dr. Arthur na memória imediatamente
-5. **Nunca marcar concluído** sem provar que funciona
-6. **Bug reportado** = corrigir autonomamente, sem pedir passo a passo
-7. **Elegância** para mudanças não-triviais; simplicidade para o resto
-8. **Code review obrigatório** — usar `/code-review:code-review` antes de criar ou mergear qualquer pull request
 
 ---
 
