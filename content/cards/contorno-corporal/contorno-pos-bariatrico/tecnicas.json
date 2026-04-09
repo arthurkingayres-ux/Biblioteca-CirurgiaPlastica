@@ -6,26 +6,26 @@
     "aliases": [],
     "topic": "contorno-pos-bariatrico",
     "area": "contorno-corporal",
-    "indication": "Excesso cutaneo na face medial do braco. Classificacao de Appelt moderada a severa.",
-    "contraindication": "Expectativa de cicatriz invisivel (cicatriz sera permanente e frequentemente bem visivel).",
+    "indication": "Excesso cutâneo na face medial do braço. Classificação de Appelt moderada a severa.",
+    "contraindication": "Expectativa de cicatriz invisível (cicatriz será permanente e frequentemente bem visível).",
     "steps": [
-      "1. Marcacao com braco abduzido a 90 graus, identificar linha de maior redundancia (ponto medio entre cotovelo e axilar).",
-      "2. Incisao medial do braco, da axila ate fossa antecubital (ou ate punho em casos de excesso severo).",
-      "3. Disseccao em plano supramuscular (nao descer alem de fascia muscular para evitar lesao do nervo cutaneo medial do antebraco).",
-      "4. Resseccao de 3-10 cm conforme necessidade, com padrao de sutura em V (Lockwood) ou elipse simples.",
-      "5. Hemostasia meticulosa, dreno de Blake se necessario.",
-      "6. Fechamento em camadas: fascia (Vicryl 2-0), subcuticular (Monocryl 3-0), intradermico.",
-      "7. Localizar cicatriz em face medial de braco (nao lateral visivel). Em mulheres com seios pendentes, considerar cicatriz axilar quando possivel."
+      "1. Marcação com braço abduzido a 90 graus, identificar linha de maior redundância (ponto médio entre cotovelo e axilar).",
+      "2. Incisão medial do braço, da axila até fossa antecubital (ou até punho em casos de excesso severo).",
+      "3. Dissecção em plano supramuscular (não descer além de fáscia muscular para evitar lesão do nervo cutâneo medial do antebraço).",
+      "4. Ressecção de 3-10 cm conforme necessidade, com padrão de sutura em V (Lockwood) ou elipse simples.",
+      "5. Hemostasia meticulosa, dreno de Blake se necessário.",
+      "6. Fechamento em camadas: fáscia (Vicryl 2-0), subcuticular (Monocryl 3-0), intradérmico.",
+      "7. Localizar cicatriz em face medial de braço (não lateral visível). Em mulheres com seios pendentes, considerar cicatriz axilar quando possível."
     ],
     "complications": [
-      "Lesao do nervo cutaneo medial do antebraco - parestesia transitoria (10-30%)",
-      "Lesao do nervo cutaneo medial do antebraco - parestesia permanente (2-5%)",
+      "Lesão do nervo cutâneo medial do antebraço - parestesia transitória (10-30%)",
+      "Lesão do nervo cutâneo medial do antebraço - parestesia permanente (2-5%)",
       "Cicatriz alargada (5-15%)",
-      "Retracao cicatricial (3-8%)"
+      "Retração cicatricial (3-8%)"
     ],
     "pearls": [
-      "Disseccao em plano supramuscular evita lesao do nervo cutaneo medial do antebraco",
-      "Em mulheres com seios pendentes, considerar cicatriz axilar quando possivel para melhor resultado estetico"
+      "Dissecção em plano supramuscular evita lesão do nervo cutâneo medial do antebraço",
+      "Em mulheres com seios pendentes, considerar cicatriz axilar quando possível para melhor resultado estético"
     ],
     "images": [],
     "citations": [
@@ -44,31 +44,31 @@
   {
     "id": "cpb-tec-002",
     "type": "technique",
-    "title": "Lower Body Lift (Body Lift) — Tecnica de Lockwood",
+    "title": "Lower Body Lift (Body Lift) — Técnica de Lockwood",
     "aliases": [
       "Body Lift",
-      "Tecnica de Lockwood"
+      "Técnica de Lockwood"
     ],
     "topic": "contorno-pos-bariatrico",
     "area": "contorno-corporal",
-    "indication": "Excesso cutaneo circunferencial significativo em abdome, flancos, dorso, gluteos e coxas. Pittsburgh Rating Scale grau II-III para tronco inferior.",
-    "contraindication": "IMC > 35 kg/m2, estado nutricional inadequado, comorbidades descompensadas. Tempo cirurgico estimado > 420 minutos sem equipe dupla.",
+    "indication": "Excesso cutâneo circunferencial significativo em abdome, flancos, dorso, glúteos e coxas. Pittsburgh Rating Scale grau II-III para tronco inferior.",
+    "contraindication": "IMC > 35 kg/m2, estado nutricional inadequado, comorbidades descompensadas. Tempo cirúrgico estimado > 420 minutos sem equipe dupla.",
     "steps": [
-      "1. Tecnica de Lockwood (1991): incisao continua unica no plano horizontal baixo (supragluteo, lateral ao trocanter, suprapubiano e inguinal) com resseccao de faixa horizontal continua de tecido.",
-      "2. Permite elevacao simultanea de abdome e coxas mediais.",
-      "3. Manutencao de cicatrizes ocultas ou semi-ocultas (inguinal, submamario para mulheres).",
-      "4. Reducao de tempo operatorio comparado a multiplas incisoes separadas.",
-      "5. Melhor simetria corporal e harmonizacao."
+      "1. Técnica de Lockwood (1991): incisão contínua única no plano horizontal baixo (supraglúteo, lateral ao trocânter, suprapubiano e inguinal) com ressecção de faixa horizontal contínua de tecido.",
+      "2. Permite elevação simultânea de abdome e coxas mediais.",
+      "3. Manutenção de cicatrizes ocultas ou semi-ocultas (inguinal, submamário para mulheres).",
+      "4. Redução de tempo operatório comparado a múltiplas incisões separadas.",
+      "5. Melhor simetria corporal e harmonização."
     ],
     "complications": [
-      "Migracao cicatricial (5-10%)",
-      "Alteracao de sensibilidade (20-30%, usualmente transitoria)",
-      "Dor neuropatica cronica (1-3%)"
+      "Migração cicatricial (5-10%)",
+      "Alteração de sensibilidade (20-30%, usualmente transitória)",
+      "Dor neuropática crônica (1-3%)"
     ],
     "pearls": [
-      "Incisao continua unica reduz tempo operatorio comparado a multiplas incisoes separadas",
-      "Permite elevacao simultanea de abdome e coxas mediais",
-      "Cicatrizes em locais estrategicos (inguinal, submamario) minimizam visibilidade"
+      "Incisão contínua única reduz tempo operatório comparado a múltiplas incisões separadas",
+      "Permite elevação simultânea de abdome e coxas mediais",
+      "Cicatrizes em locais estratégicos (inguinal, submamário) minimizam visibilidade"
     ],
     "images": [],
     "citations": [
@@ -92,24 +92,24 @@
     "aliases": [],
     "topic": "contorno-pos-bariatrico",
     "area": "contorno-corporal",
-    "indication": "Excesso cutaneo na face medial da coxa, classificacao de Appelt leve a moderada. Pittsburgh Rating Scale grau I-II para coxas.",
-    "contraindication": "Excesso circunferencial severo (melhor indicacao para lifting circunferencial), linfedema pre-existente.",
+    "indication": "Excesso cutâneo na face medial da coxa, classificação de Appelt leve a moderada. Pittsburgh Rating Scale grau I-II para coxas.",
+    "contraindication": "Excesso circunferencial severo (melhor indicação para lifting circunferencial), linfedema pré-existente.",
     "steps": [
-      "1. Incisao inguinal continua, estendendo-se de medial do trocanter ate perineo/genitalia externa, passando por fossa inguinal e linha media de coxa medial ate joelho (ou menos se necessario).",
-      "2. Incisao deve passar cranial e paralela a linha natural de Langer para melhor cicatrizacao.",
-      "3. Disseccao em plano supramuscular ate fascia do adutor, preservando linfa e vasos.",
-      "4. Resseccao em padrao vertical-obliquo, removendo faixa de pele/gordura de 5-15 cm de largura dependendo do excesso.",
-      "5. Fixacao critica: ponta superior do retalho fixada ao periosteo da sinfise pubica ou ao ligamento de Cooper para evitar recorrencia de ptose."
+      "1. Incisão inguinal contínua, estendendo-se de medial do trocânter até períneo/genitália externa, passando por fossa inguinal e linha média de coxa medial até joelho (ou menos se necessário).",
+      "2. Incisão deve passar cranial e paralela à linha natural de Langer para melhor cicatrização.",
+      "3. Dissecção em plano supramuscular até fáscia do adutor, preservando linfa e vasos.",
+      "4. Ressecção em padrão vertical-oblíquo, removendo faixa de pele/gordura de 5-15 cm de largura dependendo do excesso.",
+      "5. Fixação crítica: ponta superior do retalho fixada ao periósteo da sínfise púbica ou ao ligamento de Cooper para evitar recorrência de ptose."
     ],
     "complications": [
-      "Migracao cicatricial (10-25%)",
+      "Migração cicatricial (10-25%)",
       "Linfedema (5-15%)",
-      "Deiscencia perineal",
+      "Deiscência perineal",
       "Dispareunia (< 2%)",
-      "Sensacao de queimacao perineal por parestesia do pudendo (5-10%)"
+      "Sensação de queimação perineal por parestesia do pudendo (5-10%)"
     ],
     "pearls": [
-      "Fixacao da ponta superior do retalho ao periosteo da sinfise pubica ou ligamento de Cooper e critica para evitar recorrencia de ptose"
+      "Fixação da ponta superior do retalho ao periósteo da sínfise púbica ou ligamento de Cooper é crítica para evitar recorrência de ptose"
     ],
     "images": [],
     "citations": [
@@ -136,13 +136,13 @@
     "indication": "Excesso moderado na coxa medial em pacientes que desejam menor cicatriz inguinal",
     "contraindication": "Excesso severo ou circunferencial",
     "steps": [
-      "1. Incisao predominantemente vertical na coxa medial (de inguinal ate terco medio da coxa)",
+      "1. Incisão predominantemente vertical na coxa medial (de inguinal até terço médio da coxa)",
       "2. Menor comprimento cicatricial horizontal",
-      "3. Disseccao e resseccao semelhante a tecnica medial"
+      "3. Dissecção e ressecção semelhante à técnica medial"
     ],
     "complications": [
-      "Cicatriz vertical mais visivel",
-      "Recorrencia de ptose (5-20% apos 2-3 anos)"
+      "Cicatriz vertical mais visível",
+      "Recorrência de ptose (5-20% após 2-3 anos)"
     ],
     "pearls": [],
     "images": [],
@@ -166,18 +166,18 @@
     "topic": "contorno-pos-bariatrico",
     "area": "contorno-corporal",
     "indication": "Pittsburgh Rating Scale grau II-IV com excesso circunferencial severo de coxas",
-    "contraindication": "Estado nutricional inadequado, impossibilidade de tempo cirurgico prolongado",
+    "contraindication": "Estado nutricional inadequado, impossibilidade de tempo cirúrgico prolongado",
     "steps": [
-      "1. Combina incisao inguinal + incisao lateral/posterior ate gluteos",
-      "2. Maior extensao cicatricial, porem melhora significativamente contorno circunferencial",
-      "3. Pode ser realizada em unica cirurgia ou em duas fases (anterior e posterior)"
+      "1. Combina incisão inguinal + incisão lateral/posterior até glúteos",
+      "2. Maior extensão cicatricial, porém melhora significativamente contorno circunferencial",
+      "3. Pode ser realizada em única cirurgia ou em duas fases (anterior e posterior)"
     ],
     "complications": [
-      "Todas as da cruroplastia medial, com maior risco por extensao da disseccao"
+      "Todas as da cruroplastia medial, com maior risco por extensão da dissecção"
     ],
     "pearls": [
-      "Combina acessos multiplos para melhor contorno circunferencial",
-      "Opcao de realizacao em duas fases reduz morbidade operatoria"
+      "Combina acessos múltiplos para melhor contorno circunferencial",
+      "Opção de realização em duas fases reduz morbidade operatória"
     ],
     "images": [],
     "citations": [
@@ -196,20 +196,20 @@
   {
     "id": "cpb-tec-006",
     "type": "technique",
-    "title": "Fixacao de Scarpa ao Periosteo (Tecnica de Aly)",
+    "title": "Fixação de Scarpa ao Periósteo (Técnica de Aly)",
     "aliases": [],
     "topic": "contorno-pos-bariatrico",
     "area": "contorno-corporal",
-    "indication": "Adjuvante em cruroplastia e abdominoplastia pos-bariatrica para prevencao de recorrencia de ptose",
-    "contraindication": "Osteoporose severa do pubis",
+    "indication": "Adjuvante em cruroplastia e abdominoplastia pós-bariátrica para prevenção de recorrência de ptose",
+    "contraindication": "Osteoporose severa do púbis",
     "steps": [
-      "1. Sutura da fascia de Scarpa ao periosteo da sinfise pubica com ponto de ancoragem",
-      "2. Uso de ancora ossea (Arthrex) ou sutura de fibra sintetica nao-absorvivel (Ethibond)",
-      "3. Ponto permanente de suspensao"
+      "1. Sutura da fáscia de Scarpa ao periósteo da sínfise púbica com ponto de ancoragem",
+      "2. Uso de âncora óssea (Arthrex) ou sutura de fibra sintética não-absorvível (Ethibond)",
+      "3. Ponto permanente de suspensão"
     ],
     "complications": [
       "Falha de ancoragem",
-      "Dor cronica no sitio de fixacao"
+      "Dor crônica no sítio de fixação"
     ],
     "pearls": [],
     "images": [],
@@ -232,18 +232,18 @@
   {
     "id": "cpb-tec-008",
     "type": "technique",
-    "title": "L-Braquioplastia (Extensao ao Torax Lateral)",
+    "title": "L-Braquioplastia (Extensão ao Tórax Lateral)",
     "aliases": [],
     "topic": "contorno-pos-bariatrico",
     "area": "contorno-corporal",
-    "indication": "Excesso severo circunferencial do braco com redundancia axilar e toracica lateral",
+    "indication": "Excesso severo circunferencial do braço com redundância axilar e torácica lateral",
     "contraindication": "Excesso leve a moderado (braquioplastia convencional suficiente)",
     "steps": [
-      "1. Estender incisao de braquioplastia lateralmente ate lateral do torax (sobre serratil anterior), criando padrao em L",
-      "2. Permite resseccao maior de tecido redundante em regiao axilar e torax lateral, melhorando contorno"
+      "1. Estender incisão de braquioplastia lateralmente até lateral do tórax (sobre serrátil anterior), criando padrão em L",
+      "2. Permite ressecção maior de tecido redundante em região axilar e tórax lateral, melhorando contorno"
     ],
     "complications": [
-      "Deiscencia aumentada em regiao axilar"
+      "Deiscência aumentada em região axilar"
     ],
     "pearls": [],
     "images": [],
@@ -263,14 +263,14 @@
   {
     "id": "cpb-tec-009",
     "type": "technique",
-    "title": "Lipoaspiracao Adjuvante em Braquioplastia",
+    "title": "Lipoaspiração Adjuvante em Braquioplastia",
     "aliases": [],
     "topic": "contorno-pos-bariatrico",
     "area": "contorno-corporal",
-    "indication": "Adjuvante de braquioplastia para melhorar contorno e reduzir tensao cicatricial",
-    "contraindication": "Resseccao excessiva que leve a cicatriz alargada",
+    "indication": "Adjuvante de braquioplastia para melhorar contorno e reduzir tensão cicatricial",
+    "contraindication": "Ressecção excessiva que leve a cicatriz alargada",
     "steps": [
-      "1. Realizada antes ou apos resseccao cutanea, em camada subcuticular",
+      "1. Realizada antes ou após ressecção cutânea, em camada subcuticular",
       "2. Cuidado com volume aspirado para evitar comprometimento vascular do retalho"
     ],
     "complications": [
@@ -279,7 +279,7 @@
     ],
     "pearls": [
       "Executar em camada subcuticular para melhor resultado",
-      "Controlar volume aspirado para preservar perfusao vascular"
+      "Controlar volume aspirado para preservar perfusão vascular"
     ],
     "images": [],
     "citations": [
@@ -298,23 +298,23 @@
   {
     "id": "cpb-tec-010",
     "type": "technique",
-    "title": "Mastopexia com Pediculo Superior (Crescente de Wise)",
+    "title": "Mastopexia com Pedículo Superior (Crescente de Wise)",
     "aliases": [],
     "topic": "contorno-pos-bariatrico",
     "area": "contorno-corporal",
-    "indication": "Ptose mamaria moderada a severa (Regnault Grau II-III) em pacientes pos-bariatricos",
-    "contraindication": "Ptose minima (indicar tecnica menos invasiva), tabagismo ativo",
+    "indication": "Ptose mamária moderada a severa (Regnault Grau II-III) em pacientes pós-bariátricos",
+    "contraindication": "Ptose mínima (indicar técnica menos invasiva), tabagismo ativo",
     "steps": [
-      "1. Incisao periareolar (Benelli simples) + incisao vertical + incisao inframamaria",
-      "2. Resseccao de meia-lua de pele supraareolar e skin flap inferior",
-      "3. Reconstituicao do sulco inframamario (IMF)",
+      "1. Incisão periareolar (Benelli simples) + incisão vertical + incisão inframamária",
+      "2. Ressecção de meia-lua de pele supraareolar e skin flap inferior",
+      "3. Reconstituição do sulco inframamário (IMF)",
       "4. Opcionalmente agregar implante de silicone para aumento de volume"
     ],
     "complications": [
       "Necrose de mamilo (1-3%)",
       "Perda de sensibilidade (10-20%)",
-      "Assimetria pos-operatoria",
-      "Recorrencia de ptose (5-10%)"
+      "Assimetria pós-operatória",
+      "Recorrência de ptose (5-10%)"
     ],
     "pearls": [],
     "images": [],
@@ -336,22 +336,22 @@
   {
     "id": "cpb-tec-011",
     "type": "technique",
-    "title": "Mastopexia com Pediculo Inferior (Tecnica de Palusa)",
+    "title": "Mastopexia com Pedículo Inferior (Técnica de Palusa)",
     "aliases": [],
     "topic": "contorno-pos-bariatrico",
     "area": "contorno-corporal",
-    "indication": "Alternativa que preserva aporte neurovascular pelo pediculo inferior, mantendo melhor sensibilidade. Util em revascularizacao mamaria.",
-    "contraindication": "Mamas muito grandes (risco de comprometimento vascular do pediculo).",
+    "indication": "Alternativa que preserva aporte neurovascular pelo pedículo inferior, mantendo melhor sensibilidade. Útil em revascularização mamária.",
+    "contraindication": "Mamas muito grandes (risco de comprometimento vascular do pedículo).",
     "steps": [
-      "1. Incisao similar a tecnica de Wise.",
-      "2. Disseccao planificada sobre glandula em zona de pediculo inferior.",
-      "3. Preservacao do aporte neurovascular inferior."
+      "1. Incisão similar à técnica de Wise.",
+      "2. Dissecção planificada sobre glândula em zona de pedículo inferior.",
+      "3. Preservação do aporte neurovascular inferior."
     ],
     "complications": [
-      "Similares a tecnica superior, com menor risco de perda de sensibilidade."
+      "Similares à técnica superior, com menor risco de perda de sensibilidade."
     ],
     "pearls": [
-      "Preservacao do pediculo inferior oferece melhor sensibilidade em relacao a outras tecnicas."
+      "Preservação do pedículo inferior oferece melhor sensibilidade em relação a outras técnicas."
     ],
     "images": [],
     "citations": [
@@ -374,21 +374,21 @@
     "aliases": [],
     "topic": "contorno-pos-bariatrico",
     "area": "contorno-corporal",
-    "indication": "Pos-bariatricos com deflacao mamaria significativa necessitando de aumento alem da elevacao",
-    "contraindication": "Rejeicao previa de implantes, expectativa de volume muito grande, pele de qualidade muito comprometida",
+    "indication": "Pós-bariátricos com deflação mamária significativa necessitando de aumento além da elevação",
+    "contraindication": "Rejeição prévia de implantes, expectativa de volume muito grande, pele de qualidade muito comprometida",
     "steps": [
-      "1. Elevacao via mastopexia classica",
-      "2. Insercao de implante de silicone ou solucao salina",
+      "1. Elevação via mastopexia clássica",
+      "2. Inserção de implante de silicone ou solução salina",
       "3. Escolher tamanho conservador (200-300 mL) para evitar deformidade",
       "4. Posicionamento subfascial (sub-muscular maior)"
     ],
     "complications": [
-      "Implante visivel/palpavel",
+      "Implante visível/palpável",
       "Contratura capsular",
-      "Necessidade de revisao"
+      "Necessidade de revisão"
     ],
     "pearls": [
-      "Utilizar tamanho conservador de implante (200-300 mL) em pos-bariatricos para evitar deformidade",
+      "Utilizar tamanho conservador de implante (200-300 mL) em pós-bariátricos para evitar deformidade",
       "Posicionamento subfascial (sub-muscular maior) reduz visibilidade e palpabilidade do implante"
     ],
     "images": [],
@@ -438,7 +438,7 @@
   {
     "id": "cpb-tec-014",
     "type": "technique",
-    "title": "Gigantomastia Pos-Bariatrica",
+    "title": "Gigantomastia Pós-Bariátrica",
     "aliases": [],
     "topic": "contorno-pos-bariatrico",
     "area": "contorno-corporal",
@@ -468,20 +468,20 @@
   {
     "id": "cpb-tec-015",
     "type": "technique",
-    "title": "Submentoplastia e Lifting Cervical Pos-Bariatrico",
+    "title": "Submentoplastia e Lifting Cervical Pós-Bariátrico",
     "aliases": [],
     "topic": "contorno-pos-bariatrico",
     "area": "contorno-corporal",
-    "indication": "Laxidez de platisma, excesso de pele cervical, ptose de glandulas submandibulares",
+    "indication": "Laxidez de platisma, excesso de pele cervical, ptose de glândulas submandibulares",
     "contraindication": "Perda de peso ainda em curso, expectativas irrealistas",
     "steps": [
-      "1. Submentoplastia com plicatura de platisma (incisao submandibular)",
-      "2. Resseccao de faixa de pele cervical (de 3-7 cm)",
-      "3. Lipoaspiracao cervical adjuvante"
+      "1. Submentoplastia com plicatura de platisma (incisão submandibular)",
+      "2. Ressecção de faixa de pele cervical (de 3-7 cm)",
+      "3. Lipoaspiração cervical adjuvante"
     ],
     "complications": [
       "Hematoma cervical",
-      "Lesao de ramo marginal mandibular do nervo facial"
+      "Lesão de ramo marginal mandibular do nervo facial"
     ],
     "pearls": [],
     "images": [],
@@ -501,23 +501,23 @@
   {
     "id": "cpb-tec-016",
     "type": "technique",
-    "title": "Face Lift Pos-Bariatrico (SMAS ou Composite)",
+    "title": "Face Lift Pós-Bariátrico (SMAS ou Composite)",
     "aliases": [],
     "topic": "contorno-pos-bariatrico",
     "area": "contorno-corporal",
-    "indication": "Idade avancada ou perda macica com laxidao facial acentuada. Tipicamente procedimento final apos contorno corporal estar estabilizado.",
-    "contraindication": "Mudancas faciais ainda em curso por perda de peso.",
+    "indication": "Idade avançada ou perda maciça com laxidão facial acentuada. Tipicamente procedimento final após contorno corporal estar estabilizado.",
+    "contraindication": "Mudanças faciais ainda em curso por perda de peso.",
     "steps": [
-      "1. Face lift completo (SMAS ou tecnica composite)",
-      "2. Timing: tipicamente realizado como procedimento final pois continuam ocorrendo mudancas faciais"
+      "1. Face lift completo (SMAS ou técnica composite)",
+      "2. Timing: tipicamente realizado como procedimento final pois continuam ocorrendo mudanças faciais"
     ],
     "complications": [
       "Hematoma",
-      "Lesao de nervo facial",
+      "Lesão de nervo facial",
       "Alopecia periincisional"
     ],
     "pearls": [
-      "Procedimento deve ser realizado como etapa final do contorno corporal para evitar necessidade de reintervencoes"
+      "Procedimento deve ser realizado como etapa final do contorno corporal para evitar necessidade de reintervenções"
     ],
     "images": [],
     "citations": [
@@ -536,24 +536,24 @@
   {
     "id": "cpb-tec-017",
     "type": "technique",
-    "title": "Reabilitacao de Volume Facial (Adjuvantes)",
+    "title": "Reabilitação de Volume Facial (Adjuvantes)",
     "aliases": [],
     "topic": "contorno-pos-bariatrico",
     "area": "contorno-corporal",
-    "indication": "Complemento ao face lift ou procedimento isolado para restauracao de volumes faciais",
-    "contraindication": "Expectativa de resultado dramatico apenas com adjuvantes",
+    "indication": "Complemento ao face lift ou procedimento isolado para restauração de volumes faciais",
+    "contraindication": "Expectativa de resultado dramático apenas com adjuvantes",
     "steps": [
-      "1. Microagulhamento com inducao de colageno",
-      "2. Peeling quimico para melhorar qualidade cutanea",
-      "3. Preenchedores com acido hialuronico para restaurar volumes",
-      "4. Lipoenxertia autologa facial em casos selecionados"
+      "1. Microagulhamento com indução de colágeno",
+      "2. Peeling químico para melhorar qualidade cutânea",
+      "3. Preenchedores com ácido hialurônico para restaurar volumes",
+      "4. Lipoenxertia autóloga facial em casos selecionados"
     ],
     "complications": [
-      "Resultados temporarios (preenchedores)",
-      "Necrose por embolizacao vascular (raro)"
+      "Resultados temporários (preenchedores)",
+      "Necrose por embolização vascular (raro)"
     ],
     "pearls": [
-      "Considerar lipoenxertia autologa apenas em casos selecionados para resultados mais duradouros"
+      "Considerar lipoenxertia autóloga apenas em casos selecionados para resultados mais duradouros"
     ],
     "images": [],
     "citations": [
