@@ -73,7 +73,10 @@
       "Grabb & Smith, 2020, cap. 36",
       "McGarry KM et al. Plast Reconstr Surg 2023;151(3):388e-397e"
     ],
-    "images": ["oto-dec-algoritmo-otoplastia.jpg", "oto-anat-pavilhao-protrusao.jpg"],
+    "images": [
+      "oto-dec-algoritmo-otoplastia.jpg",
+      "oto-anat-pavilhao-protrusao.jpg"
+    ],
     "updates": [],
     "tags": [
       "decisão",
@@ -81,6 +84,72 @@
       "indicação",
       "técnica",
       "otoplastia"
+    ]
+  },
+  {
+    "id": "oto-dec-002",
+    "type": "decision",
+    "title": "Algoritmo de Decisão — Tratamento da Orelha em Abano",
+    "topic": "otoplastia",
+    "area": "estetica-facial",
+    "trigger": "Paciente com orelha em abano (ângulo cefaloauricular > 35 graus e/ou projeção hélice-mastoide acima dos valores normais) avaliado para correção",
+    "steps": [
+      {
+        "question": "O paciente apresenta ângulo cefaloauricular > 35 graus e/ou projeção hélice-mastoide aumentada?",
+        "options": [
+          {
+            "answer": "Sim, diagnóstico confirmado",
+            "next": "Prosseguir para avaliação de candidatura cirúrgica"
+          },
+          {
+            "answer": "Não, valores normais",
+            "next": "Descartar orelha em abano; considerar outras deformidades auriculares"
+          }
+        ]
+      },
+      {
+        "question": "Paciente é candidato para otoplastia (idade ≥ 5 anos, expectativas realistas, sem contraindicações)?",
+        "options": [
+          {
+            "answer": "Sim, candidato adequado",
+            "next": "Indicar otoplastia corretiva; planejar técnica cirúrgica"
+          },
+          {
+            "answer": "Não, contraindicações presentes",
+            "next": "Adiar procedimento ou oferecer alternativas (prótese auricular, camuflagem)"
+          }
+        ]
+      },
+      {
+        "question": "Qual é a principal causa anatômica da deformidade?",
+        "options": [
+          {
+            "answer": "Excessiva cartilagem concha ou protrusão",
+            "next": "Indicar técnica de conchectomia ou plicatura concha"
+          },
+          {
+            "answer": "Deficiência ou hipoplasia do anti-hélix",
+            "next": "Indicar técnica de reconstrução/plicatura anti-hélix"
+          },
+          {
+            "answer": "Combinação de fatores",
+            "next": "Indicar abordagem combinada (conchectomia + anti-hélix plicatura)"
+          }
+        ]
+      }
+    ],
+    "citations": [
+      "Neligan PC. Plastic Surgery. 4th ed. 2023, vol. 3, cap. 28",
+      "Grabb WC, Smith JW. Plastic Surgery. 6th ed. 2020, cap. 36",
+      "McGarry KM et al. Otoplasty: A Comprehensive Review. Plast Reconstr Surg. 2023;151(3):388e-397e"
+    ],
+    "updates": [],
+    "tags": [
+      "decisao",
+      "otoplastia",
+      "estetica-facial",
+      "orelha-em-abano",
+      "algoritmo-cirurgico"
     ]
   }
 ]

@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:8081/app.js)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:8081/search.js)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:8081/renderer.js)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:8081/preop.js)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:8081/style.css)"
+    ]
+  }
+}

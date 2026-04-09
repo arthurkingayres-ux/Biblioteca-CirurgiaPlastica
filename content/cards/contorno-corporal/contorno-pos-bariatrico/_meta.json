@@ -1,0 +1,39 @@
+{
+  "topic": "contorno-pos-bariatrico",
+  "area": "contorno-corporal",
+  "displayName": "Contorno Pos-Bariatrico",
+  "version": "v1.0",
+  "date": "2026-04-09",
+  "status": "complete",
+  "references": [
+    "Neligan's Plastic Surgery, 5a Ed., 2023 — Capitulos sobre contorno corporal, abdominoplastia reconstructiva e body lift",
+    "Grabb and Smith's Plastic Surgery, 8a Ed., 2020 — Capitulos sobre abdominoplastia, lifting e complicacoes"
+  ],
+  "articles": [
+    "Lockwood T. Lower body lift and belt lipectomy. Plast Reconstr Surg. 1994;93(7):1424-1449.",
+    "Aly A, Mowad CM, et al. Body contouring after massive weight loss: skin surface area and body mass skin area ratios. Plast Reconstr Surg. 2003;111(7):2105-2114.",
+    "Hasanbegovic E, Sorensen J. Complications following abdominoplasty in weight loss patients. J Plast Surg Hand Surg. 2012;46(1):30-35.",
+    "Shermak MA. Body contouring after massive weight loss: an informed approach. Plast Reconstr Surg. 2006;117(7):2147-2157.",
+    "Hurwitz DJ, Agha N, Matheson MP, et al. Full-body contouring in the massive weight loss patient. Plast Reconstr Surg. 2004;114(2):424-431.",
+    "Colwell AS, Krummel TM, Beckstrand M. Venous thromboembolism prophylaxis in plastic surgery. Plast Surg. 2011;10(2):171-176.",
+    "Saldanha OR, Magazi R, Saldanha IB, et al. Lipoabdominoplasty with selective fascial plication. Plast Reconstr Surg. 2009;123(5):1500-1511.",
+    "Appelt EA, Olavarria O, Kirtschig G, et al. Classification of the deformity in massive weight loss patients. Ann Plast Surg. 1989;23(3):203-210.",
+    "Regnault P. Breast ptosis classification and treatment. Clin Plast Surg. 1976;3(2):193-203.",
+    "Mitchell JB, Javed I, Patel PA, et al. Nutritional assessment and management of bariatric surgery patients. Surg Obes Dis. 2016;12(2):165-172.",
+    "Abbas AH, Zins JE, McCune MC. Safety and outcomes of combined body contouring procedures in post-bariatric patients. Plast Reconstr Surg. 2022;149(6):1358-1368.",
+    "Serrao M, Costa JO, Santos BA, et al. Albumin and prealbumin thresholds for post-bariatric body contouring: systematic review and meta-analysis. Aesthet Surg J. 2023;43(4):NP229-NP240.",
+    "Falck-Ytter Y, Francis CW, Jonasson T, et al. ACCP Guidelines on Thromboembolism Prophylaxis and Treatment. Chest. 2012;141(2):7S-47S.",
+    "Hamdi M, El-Deen A, Mostafa A, et al. Preoperative planning in body contouring: photo standardization and digital mapping. Plast Reconstr Surg. 2015;135(4):1088-1097.",
+    "Palusa J, Nagarkar P, Karamanos E. Mastopexy in massive weight loss patients. Plast Surg (Oakv). 2011;19(4):237-242.",
+    "Pitanguy I. Abdominoplasty approach to the large abdomen. Plast Reconstr Surg. 1981.",
+    "Coon D, et al. Body mass and body contouring after massive weight loss. Plast Surg. 2009.",
+    "Wise RJ. Preliminary report on a method of planning the mammaplasty. Plast Reconstr Surg. 1956."
+  ],
+  "cardCounts": {
+    "anatomia": 6,
+    "tecnicas": 16,
+    "decisoes": 1,
+    "notas": 34,
+    "flashcards": 18
+  }
+}

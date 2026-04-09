@@ -2,7 +2,7 @@
   "id": "oto-fc-001",
   "type": "flashcard",
   "topic": "otoplastia",
-  "area": "estética-facial",
+  "area": "estetica-facial",
   "cards": [
     {
       "front": "Ângulo cefaloauricular normal",
@@ -45,13 +45,120 @@
       "back": "85% do tamanho adulto",
       "citation": "Neligan, 2023, vol. 3, cap. 28",
       "domain": "crescimento"
+    },
+    {
+      "front": "Qual é a idade mínima recomendada para realizar otoplastia?",
+      "back": "5–6 anos de idade, quando o pavilhão auricular atinge aproximadamente 85% do tamanho adulto",
+      "citation": "Neligan, 2023, vol. 3, cap. 28; Grabb & Smith, 2020, cap. 36",
+      "domain": "decisao"
+    },
+    {
+      "front": "Qual é o ângulo cefaloauricular normal?",
+      "back": "25–35 graus",
+      "citation": "Neligan, 2023, vol. 3, cap. 28; Grabb & Smith, 2020, cap. 36",
+      "domain": "anatomia"
+    },
+    {
+      "front": "Acima de qual ângulo cefaloauricular a orelha é considerada em abano?",
+      "back": "> 35 graus",
+      "citation": "Neligan, 2023, vol. 3, cap. 28",
+      "domain": "anatomia"
+    },
+    {
+      "front": "Qual é a altura normal do pavilhão auricular no adulto?",
+      "back": "Aproximadamente 6 cm",
+      "citation": "Neligan, 2023, vol. 3, cap. 28; Grabb & Smith, 2020, cap. 36",
+      "domain": "anatomia"
+    },
+    {
+      "front": "Qual é a largura normal do pavilhão auricular no adulto?",
+      "back": "Aproximadamente 3,5 cm",
+      "citation": "Neligan, 2023, vol. 3, cap. 28; Grabb & Smith, 2020, cap. 36",
+      "domain": "anatomia"
+    },
+    {
+      "front": "Qual é a projeção normal hélice-mastoide na porção superior?",
+      "back": "10–12 mm",
+      "citation": "Neligan, 2023, vol. 3, cap. 28; Grabb & Smith, 2020, cap. 36",
+      "domain": "anatomia"
+    },
+    {
+      "front": "Qual é a projeção normal hélice-mastoide na porção média?",
+      "back": "16–18 mm",
+      "citation": "Neligan, 2023, vol. 3, cap. 28; Grabb & Smith, 2020, cap. 36",
+      "domain": "anatomia"
+    },
+    {
+      "front": "Qual é a projeção normal hélice-mastoide na porção inferior?",
+      "back": "20–22 mm",
+      "citation": "Neligan, 2023, vol. 3, cap. 28; Grabb & Smith, 2020, cap. 36",
+      "domain": "anatomia"
+    },
+    {
+      "front": "Qual é a janela terapêutica para moldagem neonatal auricular?",
+      "back": "< 6 semanas de vida",
+      "citation": "Neligan, 2023, vol. 3, cap. 28",
+      "domain": "decisao"
+    },
+    {
+      "front": "Qual é a taxa de sucesso da moldagem neonatal quando iniciada adequadamente?",
+      "back": "> 90%",
+      "citation": "Neligan, 2023, vol. 3, cap. 28",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Qual é a percentagem de incidência de extrusão de sutura em otoplastia?",
+      "back": "1–6%",
+      "citation": "Bulstrode et al., 2024; Alzayadneh et al., 2022",
+      "domain": "complicacao"
+    },
+    {
+      "front": "Qual é a frequência de uso da técnica combinada Mustarde + Furnas na prática contemporânea?",
+      "back": "78% na série de Belfast com 2333 orelhas",
+      "citation": "McGarry et al., 2023",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Qual é o tamanho da série piloto da abordagem cartilage-sparing de Benkler?",
+      "back": "24 orelhas",
+      "citation": "Benkler et al., 2023",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Quantos anos de seguimento contempla a série de Belfast de McGarry et al.?",
+      "back": "10 anos, com 2333 orelhas operadas",
+      "citation": "McGarry et al., 2023",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Qual nervo (raiz medular) constitui o nervo auricular maior?",
+      "back": "Ramo do plexo cervical (C2–C3)",
+      "citation": "Neligan, 2023, vol. 3, cap. 28",
+      "domain": "anatomia"
+    },
+    {
+      "front": "Qual divisão do trigêmeo constitui o nervo auriculotemporal?",
+      "back": "Ramo do V3 (nervo mandibular)",
+      "citation": "Neligan, 2023, vol. 3, cap. 28",
+      "domain": "anatomia"
+    },
+    {
+      "front": "Qual é a causa mais frequente de reoperação em otoplastia?",
+      "back": "Extrusão de sutura (1–6% dos casos)",
+      "citation": "Bulstrode et al., 2024; Alzayadneh et al., 2022",
+      "domain": "complicacao"
+    },
+    {
+      "front": "Qual deformidade resulta de hematoma subpericondral não drenado?",
+      "back": "Orelha em couve-flor (cauliflower ear) por isquemia e fibrose da cartilagem",
+      "citation": "Neligan, 2023, vol. 3, cap. 28",
+      "domain": "fisiopatologia"
     }
   ],
   "tags": [
-    "flashcards",
-    "angulacao",
-    "projeção",
-    "dimensões",
-    "otoplastia"
+    "flashcard",
+    "otoplastia",
+    "estetica",
+    "cirurgia-plastica"
   ]
 }

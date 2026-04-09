@@ -1,0 +1,71 @@
+[
+  {
+    "id": "cpb-dec-001",
+    "type": "decision",
+    "title": "Avaliacao de Elegibilidade para Contorno Corporal Pos-Bariatrico",
+    "topic": "contorno-pos-bariatrico",
+    "area": "contorno-corporal",
+    "trigger": "Paciente pos-bariatrico encaminhado para avaliacao de contorno corporal apos perda macica de peso",
+    "steps": [
+      {
+        "question": "Tempo decorrido desde a cirurgia bariatrica e de pelo menos 12-18 meses?",
+        "options": [
+          { "answer": "Sim (>= 12 meses)", "next": "Avancar para avaliacao de estabilizacao ponderal" },
+          { "answer": "Nao (< 12 meses)", "next": "Adiar cirurgia: aguardar recuperacao metabolica, resolucao de comorbidades e adaptacao cutanea. Reavaliar apos completar 12-18 meses." }
+        ]
+      },
+      {
+        "question": "Peso estavel por no minimo 3-6 meses consecutivos (plateau documentado)?",
+        "options": [
+          { "answer": "Sim (peso estavel)", "next": "Avancar para calculo de IMC" },
+          { "answer": "Nao (perda ponderal ativa)", "next": "Contraindicacao relativa: perda continua aumenta risco de deiscencia, seroma e insatisfacao estetica. Adiar ate estabilizacao por 3-6 meses." }
+        ]
+      },
+      {
+        "question": "IMC atual do paciente?",
+        "options": [
+          { "answer": "< 30 kg/m2", "next": "Ideal para qualquer procedimento, incluindo combinacoes" },
+          { "answer": "30-32 kg/m2", "next": "Aceitavel para procedimentos isolados; evitar combinacoes extensas" },
+          { "answer": "32-35 kg/m2", "next": "Contraindicacao relativa: considerar adiar ou limitar a procedimento unico de menor risco" },
+          { "answer": "> 35 kg/m2", "next": "Contraindicacao forte (absoluta se > 40 kg/m2): encaminhar de volta para otimizacao de perda de peso" }
+        ]
+      },
+      {
+        "question": "Estado nutricional adequado? (albumina serica)",
+        "options": [
+          { "answer": "Albumina >= 3.2 g/dL", "next": "Ideal para cirurgias combinadas e de maior porte" },
+          { "answer": "Albumina 3.0-3.2 g/dL", "next": "Limite aceitavel para procedimentos isolados; otimizar nutricao antes de combinar procedimentos" },
+          { "answer": "Albumina < 3.0 g/dL", "next": "Contraindicacao: desnutricao compromete cicatrizacao. Encaminhar ao nutricionista/bariatra para reposicao proteica e reavaliar em 2-3 meses" }
+        ]
+      },
+      {
+        "question": "Comorbidades controladas, sem tabagismo ativo e sem disturbio psiquiatrico grave?",
+        "options": [
+          { "answer": "Sim (tudo compensado)", "next": "Avancar para planejamento de estadiamento" },
+          { "answer": "Tabagismo ativo", "next": "Contraindicacao: risco elevado de necrose cutanea. Exigir cessacao por minimo 4-6 semanas pre-operatorias" },
+          { "answer": "Comorbidades descompensadas (DM, HAS, coagulopatia)", "next": "Contraindicacao: compensar comorbidades antes de reavaliar" },
+          { "answer": "Disturbio psiquiatrico nao tratado / dismorfismo corporal", "next": "Contraindicacao: encaminhar para avaliacao psiquiatrica e documentar expectativas realistas antes de reavaliar" }
+        ]
+      },
+      {
+        "question": "Planejamento: procedimentos combinados em ato unico ou estadiados?",
+        "options": [
+          { "answer": "Combinado (mesmo ato cirurgico)", "next": "Exige IMC < 30, albumina > 3.2, ausencia de comorbidades, equipe experiente e disponibilidade de UTI. Limitar tempo cirurgico total e considerar profilaxia de TEV estendida" },
+          { "answer": "Estadiado (fases sucessivas)", "next": "Preferencia quando ha fatores de risco. Sequencia tipica: (1) abdominoplastia/body lift, (2) mamas e bracos, (3) coxas e face. Intervalo minimo de 3-6 meses entre fases" }
+        ]
+      }
+    ],
+    "citations": [
+      "Lockwood T. PRS, 1994",
+      "Aly A et al. PRS, 2003",
+      "Shermak MA. PRS, 2006",
+      "Hurwitz DJ. PRS, 2004",
+      "Serrao M et al. ASJ, 2023",
+      "Colwell AS et al. Plast Surg, 2011",
+      "Falck-Ytter Y et al. ACCP Guidelines, Chest, 2012",
+      "Grabb & Smith's Plastic Surgery, 8a Ed., 2020"
+    ],
+    "updates": [],
+    "tags": ["decisao", "elegibilidade", "contorno-pos-bariatrico", "timing", "imc", "estadiamento"]
+  }
+]

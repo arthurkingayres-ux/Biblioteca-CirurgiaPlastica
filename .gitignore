@@ -37,3 +37,9 @@ Desktop.ini
 *.swp
 *.swo
 *~
+
+# Runtime MCP Playwright (logs de console)
+.playwright-mcp/
+
+# Screenshots de smoke test (gerados ad-hoc na raiz, nao vao pra master)
+/test-*.png

@@ -1,0 +1,40 @@
+{
+  "topic": "gluteoplastia",
+  "area": "contorno-corporal",
+  "displayName": "Gluteoplastia",
+  "version": "v1.0",
+  "date": "2026-04-09",
+  "status": "complete",
+  "references": [
+    "Neligan's Plastic Surgery, 5ª Ed., Elsevier, 2023 — Cap. 32 (Mendieta CG, Centeno RF)",
+    "Grabb & Smith's Plastic Surgery, 8ª Ed., 2020 — Centeno RF, Saldanha OR",
+    "Plastic Surgery Secrets Plus, 3ª Ed., 2016 — Mendieta CG"
+  ],
+  "articles": [
+    "Mendieta CG et al. Gluteal augmentation. Aesthetic Plast Surg. 2004;28(3):192-199.",
+    "Mofid MM et al. Report on Mortality from Gluteal Fat Grafting. Plast Reconstr Surg. 2015;136(3):338e-346e.",
+    "Castellanos AE et al. Complications in Augmentation Gluteoplasty. Aesthetic Surg J. 2018;38(3):NP95-NP109.",
+    "Villanueva CL, Centeno RF. Gluteal Implant Removal and Replacement. Aesthetic Surg J. 2017;37(9):1035-1043.",
+    "Cárdenas-Camarena L et al. Gluteal Augmentation with Fat Transfer. Aesthetic Surg J. 2014;34(4):623-632.",
+    "Pascal JM, Le Louarn C. Gluteal fold lifting. Rev Chir Esthet. 2001;26(155):59-62.",
+    "Del Vecchio DA. Buttock Augmentation. Clin Plast Surg. 2004;31(2):351-361.",
+    "ISAPS International Survey on Aesthetic/Cosmetic Procedures. 2022.",
+    "Steely RL et al. Fat Embolism Syndrome Associated with Buttock Augmentation. Aesthet Surg J. 2018;38(3):NP88-NP94.",
+    "Saldanha OR et al. Gluteal Augmentation: Anatomical Considerations. In: Grabb & Smith's Plastic Surgery, 8ª Ed., 2020.",
+    "AESRF/ASPS/ISAPS. Safe Gluteal Fat Grafting: Consensus Statement. Aesthetic Surg J. 2023;43(6):621-629.",
+    "Steely RL et al. Gluteal Fat Grafting and Arterial Injury: A Systematic Review. Plast Reconstr Surg. 2023;151(5):1002-1012.",
+    "Scrementi L et al. Gluteal Fat Grafting Complications: Systematic Review and Classification. J Plast Surg Hand Surg. 2024;58(2):127-134.",
+    "de Oliveira RH, Ferreira LM. Comparative Analysis of Gluteal Augmentation Techniques. Aesthetic Plast Surg. 2022;46(4):1585-1595.",
+    "Matarasso A, Rosenberg H. Osseous Landmarks of the Gluteus Maximus and Sciatic Nerve. Plast Reconstr Surg. 1985;76(5):694-698.",
+    "Le Louarn C, Pascal JM. Aesthetic Surgery Journal. 2011.",
+    "Mendieta CG. Gluteal Aesthetics. Aesthetic Surgery Journal. 2016.",
+    "Mofid MM et al. Aesthetic Surgery Journal. 2016."
+  ],
+  "cardCounts": {
+    "anatomia": 8,
+    "tecnicas": 8,
+    "decisoes": 1,
+    "notas": 15,
+    "flashcards": 20
+  }
+}

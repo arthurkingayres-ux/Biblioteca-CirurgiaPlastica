@@ -1,0 +1,134 @@
+{
+  "id": "glut-fc-001",
+  "type": "flashcard",
+  "topic": "gluteoplastia",
+  "area": "contorno-corporal",
+  "cards": [
+    {
+      "front": "Quantos procedimentos de gluteoplastia são realizados anualmente no mundo?",
+      "back": "Aproximadamente 1,2 milhão de procedimentos anuais",
+      "citation": "ASPS, 2022",
+      "domain": "epidemiologia"
+    },
+    {
+      "front": "Qual é a posição da gluteoplastia entre os procedimentos estéticos mais realizados no mundo?",
+      "back": "5º procedimento estético mais realizado",
+      "citation": "ASPS, 2022",
+      "domain": "epidemiologia"
+    },
+    {
+      "front": "Qual foi o aumento percentual na procura por gluteoplastia nos últimos 10 anos?",
+      "back": "Aumento de mais de 300%",
+      "citation": "ASPS, 2022",
+      "domain": "epidemiologia"
+    },
+    {
+      "front": "Qual é a faixa etária predominante de pacientes que realizam gluteoplastia?",
+      "back": "25–45 anos",
+      "citation": "ASPS Statistics, 2022",
+      "domain": "epidemiologia"
+    },
+    {
+      "front": "Qual é a proporção de pacientes mulheres na gluteoplastia?",
+      "back": "90% dos pacientes são do sexo feminino",
+      "citation": "ASPS Statistics, 2022",
+      "domain": "epidemiologia"
+    },
+    {
+      "front": "Qual é a relação cintura-quadril (WHR) ideal em gluteoplastia?",
+      "back": "0,60–0,75",
+      "citation": "Neligan's Plastic Surgery, 5ª Ed., 2023",
+      "domain": "anatomia"
+    },
+    {
+      "front": "Qual é a zona de segurança glútea de Mendieta em relação à borda lateral do glúteo máximo?",
+      "back": "Limite de 2 cm medial à borda lateral do glúteo máximo",
+      "citation": "Mendieta CG, Neligan's Plastic Surgery, 5ª Ed., 2023",
+      "domain": "anatomia"
+    },
+    {
+      "front": "Quais são as raízes nervosas que formam o nervo ciático na região glútea?",
+      "back": "L5–S2",
+      "citation": "Matarasso & Rosenberg, PRS, 1985",
+      "domain": "anatomia"
+    },
+    {
+      "front": "Qual é a inervação do nervo glúteo superior?",
+      "back": "L4–S1",
+      "citation": "Neligan's Plastic Surgery, 5ª Ed., 2023",
+      "domain": "anatomia"
+    },
+    {
+      "front": "Qual é a taxa de sobrevida da gordura enxertada no BBL?",
+      "back": "50–70%",
+      "citation": "Neligan's Plastic Surgery, 5ª Ed., 2023",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Por quantas semanas é recomendada a restrição de sentar após BBL?",
+      "back": "2–3 semanas",
+      "citation": "Neligan's Plastic Surgery, 5ª Ed., 2023",
+      "domain": "pos-operatorio"
+    },
+    {
+      "front": "Qual é a incidência de embolia gordurosa antes das recomendações de 2023?",
+      "back": "1:3.000",
+      "citation": "AESRF/ASPS/ISAPS, 2023",
+      "domain": "complicacao"
+    },
+    {
+      "front": "Qual é a incidência atual de embolia gordurosa com injeção exclusivamente subcutânea?",
+      "back": "1:15.000 ou superior",
+      "citation": "AESRF/ASPS/ISAPS, 2023",
+      "domain": "complicacao"
+    },
+    {
+      "front": "Qual é a sobrevida dos implantes de silicone glúteo?",
+      "back": ">15 anos em >90% dos casos",
+      "citation": "Neligan's Plastic Surgery, 5ª Ed., 2023",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Qual é a taxa de recorrência de ptose glútea após lifting glúteo?",
+      "back": "10–15% em 3–5 anos",
+      "citation": "Neligan's Plastic Surgery, 5ª Ed., 2023",
+      "domain": "complicacao"
+    },
+    {
+      "front": "Quantos graus de ptose glútea têm indicação para lifting glúteo?",
+      "back": "Graus I–IV",
+      "citation": "Neligan's Plastic Surgery, 5ª Ed., 2023",
+      "domain": "decisao"
+    },
+    {
+      "front": "Qual é a recomendação atual para injeção de gordura no BBL segundo AESRF/ASPS/ISAPS?",
+      "back": "Injeção EXCLUSIVAMENTE SUBCUTÂNEA",
+      "citation": "AESRF/ASPS/ISAPS, 2023",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Quantas classificações possui a classificação de Mendieta para gluteoplastia?",
+      "back": "4 tipos",
+      "citation": "Mendieta CG, Neligan's Plastic Surgery, 5ª Ed., 2023",
+      "domain": "decisao"
+    },
+    {
+      "front": "Qual é o plano de inserção de implantes de silicone na gluteoplastia?",
+      "back": "Plano submuscular",
+      "citation": "Centeno RF, Grabb & Smith's Plastic Surgery, 8ª Ed., 2020",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Qual estrutura marca o limite superior seguro para dissecção glútea?",
+      "back": "2 cm medial à borda lateral do glúteo máximo (zona de segurança de Mendieta)",
+      "citation": "Mendieta CG, Neligan's Plastic Surgery, 5ª Ed., 2023",
+      "domain": "anatomia"
+    }
+  ],
+  "tags": [
+    "flashcard",
+    "gluteoplastia",
+    "contorno-corporal",
+    "cirurgia-plastica"
+  ]
+}
