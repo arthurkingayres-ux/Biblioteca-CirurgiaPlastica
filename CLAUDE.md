@@ -383,35 +383,36 @@ O Dr. Arthur consome a biblioteca exclusivamente pelo iPhone.
 
 ---
 
-## Plugins e Skills Obrigatórios
-
-### MCP Servers
+## Plugins Claude Code (settings.json)
 
 | Plugin | Uso |
-| --- | --- |
-| **GitHub MCP** | Operações no repositório remoto (issues, PRs, branches, code search) |
-| **Context7** | Documentação atualizada de bibliotecas — consultar ANTES de usar qualquer API |
-| **Playwright** | Qualquer tarefa que exija uso do browser deve ser executada através do Playwright (testar PWAs, capturar screenshots, navegar páginas, validar UI) |
+|--------|-----|
+| **GitHub** | Operações no repo remoto: issues, PRs, branches, code search |
+| **Context7** | Documentação de bibliotecas — consultar ANTES de usar qualquer API |
+| **Playwright** | Tarefas de browser: testar PWA, screenshots, navegar páginas, validar UI |
+| **Superpowers** | Obrigatório para tarefas não-triviais (3+ passos ou decisão arquitetural) |
+| **Frontend Design + UI/UX Pro Max** | Consultar quando implementar o PWA |
 
-### Skills de Processo (Superpowers)
+---
 
-Obrigatório para toda tarefa não-trivial (3+ passos ou decisão arquitetural):
+## Princípios
 
-- `superpowers:brainstorming` — antes de qualquer design
-- `superpowers:writing-plans` — planos a partir de specs
-- `superpowers:executing-plans` — execução com disciplina
-- `superpowers:systematic-debugging` — diagnóstico de bugs
-- `superpowers:verification-before-completion` — antes de marcar tarefa concluída
-- `superpowers:subagent-driven-development` — execução paralela
-- `superpowers:requesting-code-review` — após features significativas
-- `code-review:code-review` — **OBRIGATÓRIO** ao criar pull requests
+- **Confiança nos Números** — todo dado rastreável ao documento-fonte. Nunca adivinhar
+- **Simplicidade** — impacto mínimo, causas raiz, sem sobre-engenharia, sem efeitos colaterais
+- **Specs = Fonte de Verdade da Arquitetura** — consultar antes de tomar decisões de implementação
 
-### Frontend
+---
 
-Toda tarefa que gere HTML/CSS/JS **deve** consultar:
+## Regras de Trabalho
 
-- `frontend-design:frontend-design` — código de frontend
-- `ui-ux-pro-max:ui-ux-pro-max` — decisões de UI/UX
+1. **Plan mode** para qualquer tarefa não-trivial
+2. **Superpowers** para planejamento — nunca improvisar
+3. **Subagentes** para manter contexto limpo (1 tarefa por agente)
+4. **Registrar correções** do Dr. Arthur na memória imediatamente
+5. **Nunca marcar concluído** sem provar que funciona
+6. **Bug reportado** = corrigir autonomamente, sem pedir passo a passo
+7. **Elegância** para mudanças não-triviais; simplicidade para o resto
+8. **Code review obrigatório** — usar `/code-review:code-review` antes de criar ou mergear qualquer pull request
 
 ---
 
