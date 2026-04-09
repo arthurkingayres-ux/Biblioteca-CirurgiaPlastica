@@ -2,6 +2,17 @@
 const SearchEngine = (() => {
   let _index = [];  // [{id, type, title, topic, area, text, card}]
 
+  // Aliases de topic: termos coloquiais e radicais que o Dr. Arthur pode digitar
+  // e que devem casar com o slug canonico do tema. Expande o corpus indexado.
+  const TOPIC_ALIASES = {
+    'abdominoplastia': ['abdome', 'abdomen', 'abdominal', 'abdominoplastia'],
+    'blefaroplastia': ['blefaro', 'palpebra', 'palpebral', 'blefaroplastia'],
+    'contorno-pos-bariatrico': ['bariatrico', 'pos-bariatrico', 'contorno corporal', 'contorno pos bariatrico', 'massive weight loss', 'mwl'],
+    'gluteoplastia': ['gluteo', 'gluteos', 'bbl', 'brazilian butt lift', 'gluteoplastia'],
+    'rinoplastia': ['nariz', 'nasal', 'rinoplastia', 'septo', 'septal'],
+    'ritidoplastia': ['facelift', 'face lift', 'lifting facial', 'ritidoplastia', 'rejuvenescimento facial']
+  };
+
   function _normalize(s) {
     return s.toLowerCase()
       .normalize('NFD').replace(/[\u0300-\u036f]/g, '')  // strip accents
@@ -23,16 +34,31 @@ const SearchEngine = (() => {
     return _normalize(parts.join(' '));
   }
 
-  function buildIndex(allCards) {
-    _index = allCards.map(card => ({
-      id: card.id,
-      type: card.type,
-      title: card.title || '',
-      topic: card.topic,
-      area: card.area,
-      text: _extractText(card),
-      card
-    }));
+  function buildIndex(allCards, manifest) {
+    // Constroi lookup de displayName por topic a partir do manifest (opcional).
+    // Retrocompativel: se manifest nao for passado, apenas os aliases inline sao usados.
+    const manifestByTopic = {};
+    if (manifest && Array.isArray(manifest)) {
+      for (const m of manifest) {
+        if (m && m.topic) manifestByTopic[m.topic] = m;
+      }
+    }
+
+    _index = allCards.map(card => {
+      const aliases = TOPIC_ALIASES[card.topic] || [];
+      const manifestEntry = manifestByTopic[card.topic];
+      const displayName = manifestEntry && manifestEntry.displayName ? manifestEntry.displayName : '';
+      const topicCorpus = _normalize([card.topic || '', displayName, ...aliases].join(' '));
+      return {
+        id: card.id,
+        type: card.type,
+        title: card.title || '',
+        topic: card.topic,
+        area: card.area,
+        text: _extractText(card) + ' ' + topicCorpus,
+        card
+      };
+    });
   }
 
   function search(query) {
