@@ -1,0 +1,64 @@
+[
+  {
+    "id": "lipo-anat-001",
+    "type": "anatomy",
+    "title": "Compartimentos de Gordura por Região",
+    "aliases": [],
+    "topic": "lipoaspiracao",
+    "area": "contorno-corporal",
+    "definition": "A distribuição de gordura subcutânea varia regionalmente, com compartimentos distintos que respondem diferentemente à lipoaspiração",
+    "location": "Abdome, flancos, dorso, coxas (lateral, medial, anterior, posterior), braços, região submentoniana",
+    "relations": [
+      "espessura do tecido adiposo",
+      "densidade de gordura regional",
+      "vascularização compartimentalizada"
+    ],
+    "surgical_relevance": "O planejamento pré-operatório deve considerar as diferenças regionais na composição do tecido adiposo para otimizar resultados e minimizar complicações. Cada compartimento possui características próprias que influenciam a abordagem cirúrgica",
+    "how_to_identify": "Pinch test e avaliação clínica pré-operatória; marcação pré-operatória com paciente em posição ortostática",
+    "images": [],
+    "citations": [
+      "Rohrich et al., PRS, 2004",
+      "Neligan, 5a Ed., 2023"
+    ],
+    "updates": [],
+    "tags": [
+      "anatomia",
+      "gordura-subcutanea",
+      "lipoaspiracao",
+      "compartimentos-adiposos",
+      "contorno-corporal"
+    ]
+  },
+  {
+    "id": "lipo-anat-003",
+    "type": "anatomy",
+    "title": "Zonas de Segurança e Perigo",
+    "aliases": [],
+    "topic": "lipoaspiracao",
+    "area": "contorno-corporal",
+    "definition": "Áreas de maior risco durante a lipoaspiração, onde estruturas neurovasculares são vulneráveis a lesões por cânulas mal posicionadas ou técnica inadequada",
+    "location": "Triângulo submentoniano, região inguinal, região glútea, face medial da coxa, abdome",
+    "relations": [
+      "nervo marginal da mandíbula",
+      "veia jugular anterior",
+      "vasos femorais",
+      "nervo ciático",
+      "artéria femoral superficial",
+      "peritônio"
+    ],
+    "surgical_relevance": "O conhecimento dessas zonas é essencial para prevenção de complicações graves, incluindo lesão nervosa, hemorragia e perfuração visceral",
+    "how_to_identify": "Landmarks anatômicos superficiais: borda mandibular (manter cânula > 2 cm abaixo), ligamento inguinal, sulco glúteo, trajeto da artéria femoral (pulsação palpável)",
+    "images": [],
+    "citations": [
+      "Rohrich & Beran, Grabb & Smith, 8a Ed., 2020"
+    ],
+    "updates": [],
+    "tags": [
+      "anatomia",
+      "zonas-seguranca",
+      "estruturas-neurovasculares",
+      "complicacoes-cirurgicas",
+      "lipoaspiracao"
+    ]
+  }
+]

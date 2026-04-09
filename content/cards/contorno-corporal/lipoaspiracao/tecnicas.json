@@ -1,0 +1,318 @@
+[
+  {
+    "id": "lipo-tec-001",
+    "type": "technique",
+    "title": "Lipoaspiração Aspirativa Convencional (SAL — Suction-Assisted Liposuction)",
+    "aliases": [
+      "SAL",
+      "Suction-Assisted Liposuction"
+    ],
+    "topic": "lipoaspiracao",
+    "area": "contorno-corporal",
+    "indication": "Técnica padrão aplicável a todas as regiões corporais; amplamente disponível e versátil.",
+    "contraindication": "Nenhuma contraindicação específica além das gerais da lipoaspiração.",
+    "steps": [
+      "1. Infiltração tumescente da área-alvo",
+      "2. Incisões de acesso (2-3 mm) em pontos estratégicos para cross-tunneling",
+      "3. Introdução de cânula rígida (3-6 mm) conectada a sistema de vácuo (aspirador ou seringa)",
+      "4. Movimentos de vai-e-vem em múltiplas direções (fan technique) para fragmentação mecânica da gordura",
+      "5. Aspiração controlada, mantendo profundidade adequada (plano supra-aponeurótico)",
+      "6. Avaliação frequente de simetria e contorno por palpação"
+    ],
+    "complications": [
+      "Irregularidades de contorno (especialmente em camada superficial)",
+      "Maior esforço do cirurgião em áreas fibrosas",
+      "Menor retração cutânea comparada a tecnologias assistidas"
+    ],
+    "pearls": [
+      "Manter movimentos em múltiplas direções (fan technique) para otimizar fragmentação",
+      "Avaliar frequentemente simetria e contorno por palpação durante o procedimento",
+      "Manter profundidade adequada no plano supra-aponeurótico"
+    ],
+    "images": [],
+    "citations": [
+      "Rohrich, Neligan, 5a Ed., 2023"
+    ],
+    "updates": [],
+    "tags": [
+      "tecnica",
+      "lipoaspiracao",
+      "sal",
+      "suction-assisted",
+      "contorno-corporal",
+      "convencional"
+    ]
+  },
+  {
+    "id": "lipo-tec-002",
+    "type": "technique",
+    "title": "Lipoaspiração Assistida por Ultrassom (UAL/VASER)",
+    "aliases": [
+      "UAL",
+      "VASER",
+      "Vibration Amplification of Sound Energy at Resonance"
+    ],
+    "topic": "lipoaspiracao",
+    "area": "contorno-corporal",
+    "indication": "Áreas fibrosas (dorso, flancos, ginecomastia); lipoescultura de alta definição (lipo HD) com escultura muscular; situações que demandem maior retração cutânea",
+    "contraindication": "Inexperiência com a tecnologia (curva de aprendizado significativa); áreas com pele muito fina sem controle adequado de energia",
+    "steps": [
+      "1. Infiltração tumescente da área-alvo",
+      "2. Inserção da sonda de ultrassom (VASER — 3ª geração de UAL, com sondas sólidas multicanais)",
+      "3. Emulsificação da gordura por cavitação acústica — manter sonda em movimento constante para evitar queimaduras",
+      "4. Aspiração do tecido emulsificado com cânula convencional",
+      "5. Controle de tempo de exposição e energia conforme região"
+    ],
+    "complications": [
+      "Queimadura cutânea (risco principal — sonda parada gera calor excessivo)",
+      "Seroma",
+      "Custo elevado do equipamento"
+    ],
+    "pearls": [
+      "Manter sonda em movimento constante para evitar queimaduras cutâneas",
+      "Melhor retração cutânea que SAL (20-30% maior)",
+      "Eficaz em áreas fibrosas e permite lipo HD com escultura muscular",
+      "Controlar tempo de exposição e energia conforme região"
+    ],
+    "images": [],
+    "citations": [
+      "Hoyos & Millard, Aesthet Surg J, 2007",
+      "Nagy & Vanek, Aesthet Surg J, 2012"
+    ],
+    "updates": [],
+    "tags": [
+      "tecnica",
+      "lipoaspiracao",
+      "ultrassom",
+      "vaser",
+      "ual",
+      "lipo-hd",
+      "contorno-corporal",
+      "ginecomastia",
+      "cavitacao-acustica"
+    ]
+  },
+  {
+    "id": "lipo-tec-003",
+    "type": "technique",
+    "title": "Lipoaspiração Assistida por Vibração (PAL — Power-Assisted Liposuction)",
+    "aliases": [
+      "PAL",
+      "Power-Assisted Liposuction"
+    ],
+    "topic": "lipoaspiracao",
+    "area": "contorno-corporal",
+    "indication": "Grandes volumes de aspiração; áreas fibrosas (flancos, dorso); redução da fadiga do cirurgião",
+    "contraindication": "Nenhuma contraindicação específica além das gerais",
+    "steps": [
+      "1. Infiltração tumescente da área-alvo",
+      "2. Introdução de cânula com movimento oscilatório mecânico (MicroAire)",
+      "3. Aspiração com auxílio da vibração — a cânula oscila em alta frequência, facilitando a penetração em tecidos fibrosos",
+      "4. Técnica de cross-tunneling semelhante à SAL, porém com menor esforço manual"
+    ],
+    "complications": [
+      "Complicações semelhantes às da SAL convencional",
+      "Perfil de segurança excelente; não gera calor significativo"
+    ],
+    "pearls": [
+      "Menor esforço manual comparado à SAL convencional",
+      "Oscilação em alta frequência facilita penetração em tecidos fibrosos",
+      "Excelente perfil de segurança sem geração significativa de calor"
+    ],
+    "images": [],
+    "citations": [
+      "Rohrich, Neligan, 5a Ed., 2023"
+    ],
+    "updates": [],
+    "tags": [
+      "tecnica",
+      "lipoaspiracao",
+      "power-assisted-liposuction",
+      "pal",
+      "vibracaomecanica",
+      "contorno-corporal",
+      "aspiracao"
+    ]
+  },
+  {
+    "id": "lipo-tec-004",
+    "type": "technique",
+    "title": "Lipoaspiração Assistida por Laser (LAL — Laser-Assisted Lipolysis)",
+    "aliases": [
+      "LAL",
+      "Laser-Assisted Lipolysis"
+    ],
+    "topic": "lipoaspiracao",
+    "area": "contorno-corporal",
+    "indication": "Áreas pequenas com desejo de retração cutânea (submentual, braços); marketing de retração cutânea superior (evidência controversa)",
+    "contraindication": "Áreas extensas (risco de queimadura aumenta com maior tempo de exposição); inexperiência com a tecnologia",
+    "steps": [
+      "1. Infiltração tumescente da área-alvo",
+      "2. Inserção de fibra óptica com laser (Nd:YAG 1064 nm ou diodo 980 nm) através de cânula",
+      "3. Lipólise térmica por varredura controlada da área",
+      "4. Aspiração subsequente da gordura liquefeita"
+    ],
+    "complications": [
+      "Queimadura cutânea",
+      "Perfuração de vísceras (fibra rígida)"
+    ],
+    "pearls": [
+      "Revisão sistemática de Wollina (2020) não demonstrou superioridade consistente sobre SAL em retração cutânea"
+    ],
+    "images": [],
+    "citations": [
+      "Wollina, J Cosmet Dermatol, 2020",
+      "Mordon & Plot, Aesthet Surg J, 2009"
+    ],
+    "updates": [],
+    "tags": [
+      "tecnica",
+      "lipoaspiracao",
+      "contorno-corporal",
+      "laser-assistida",
+      "retrato-cutaneo",
+      "lipólise-termica"
+    ]
+  },
+  {
+    "id": "lipo-tec-005",
+    "type": "technique",
+    "title": "Lipoaspiração por Radiofrequência (RFAL — Radiofrequency-Assisted Lipolysis)",
+    "aliases": [
+      "RFAL",
+      "Radiofrequency-Assisted Lipolysis"
+    ],
+    "topic": "lipoaspiracao",
+    "area": "contorno-corporal",
+    "indication": "Pacientes com flacidez cutânea moderada em que se deseja retração cutânea sem excisão; braços, abdome, coxas",
+    "contraindication": "Implantes metálicos na área-alvo; marca-passo (contraindicação relativa)",
+    "steps": [
+      "1. Infiltração tumescente da área-alvo",
+      "2. Inserção do eletrodo interno (BodyTite) com eletrodo externo posicionado sobre a pele — radiofrequência bipolar",
+      "3. Aquecimento controlado do tecido subcutâneo e derme profunda: temperatura-alvo de 38-42°C na pele (monitorada em tempo real) e 70°C internamente",
+      "4. O aquecimento dérmico promove contração do colágeno e neocolagênese",
+      "5. Aspiração concomitante ou subsequente"
+    ],
+    "complications": [
+      "Queimadura cutânea (se monitorização térmica inadequada)",
+      "Seroma",
+      "Custo elevado"
+    ],
+    "pearls": [
+      "Monitorização térmica em tempo real é essencial para prevenir queimadura cutânea",
+      "BodyTite utiliza radiofrequência bipolar para aquecimento controlado",
+      "Contração do colágeno ocorre entre 38-42°C na pele"
+    ],
+    "images": [],
+    "citations": [
+      "Paul & Mulholland, Aesthet Surg J, 2009",
+      "Hurwitz & Smith, Aesthet Surg J, 2012"
+    ],
+    "updates": [],
+    "tags": [
+      "tecnica",
+      "lipoaspiracao",
+      "radiofrequencia",
+      "rfal",
+      "contorno-corporal",
+      "retraction-cutanea"
+    ]
+  },
+  {
+    "id": "lipo-tec-006",
+    "type": "technique",
+    "title": "Comparativo de Tecnologias em Lipoaspiração",
+    "aliases": [
+      "SAL",
+      "UAL/VASER",
+      "PAL",
+      "LAL",
+      "RFAL"
+    ],
+    "topic": "lipoaspiracao",
+    "area": "contorno-corporal",
+    "indication": "Seleção de tecnologia conforme indicação específica, experiência do cirurgião e recursos disponíveis",
+    "contraindication": "Não descrito no texto",
+    "steps": [
+      "1. Avaliar indicação cirúrgica e características teciduais",
+      "2. Considerar experiência do cirurgião com cada tecnologia",
+      "3. Avaliar recursos disponíveis",
+      "4. Selecionar tecnologia apropriada conforme perfil de vantagens e limitações"
+    ],
+    "complications": [],
+    "pearls": [
+      "SAL é o padrão versátil e de menor custo",
+      "UAL/VASER sobressai em áreas fibrosas e lipo HD",
+      "PAL reduz fadiga em grandes volumes",
+      "LAL tem evidência controversa de superioridade",
+      "RFAL oferece a melhor proposta de retração cutânea não-excisional"
+    ],
+    "images": [],
+    "citations": [
+      "Rohrich et al., PRS, 2004",
+      "Nagy & Vanek, Aesthet Surg J, 2012"
+    ],
+    "updates": [],
+    "tags": [
+      "lipoaspiracao",
+      "tecnologias",
+      "sal",
+      "ual",
+      "vaser",
+      "pal",
+      "lal",
+      "rfal",
+      "contorno-corporal",
+      "comparativo"
+    ]
+  },
+  {
+    "id": "lipo-tec-007",
+    "type": "technique",
+    "title": "Lipoenxertia (Fat Grafting)",
+    "aliases": [
+      "enxerto autólogo de gordura",
+      "fat grafting"
+    ],
+    "topic": "lipoaspiracao",
+    "area": "contorno-corporal",
+    "indication": "Utilização do aspirado como enxerto autólogo de gordura para aumento volumétrico (rejuvenescimento facial, reconstrução mamária, gluteoplastia de aumento)",
+    "contraindication": "Aspirado contaminado ou de má qualidade; área receptora com infecção ativa ou vascularização inadequada",
+    "steps": [
+      "1. Coleta da gordura por lipoaspiração (preferencialmente com seringa ou baixa pressão de vácuo para preservar viabilidade celular)",
+      "2. Processamento: centrifugação (Coleman — 3.000 rpm por 3 minutos), decantação ou lavagem",
+      "3. Separação em 3 frações: óleo (adipócitos lisados — descartado), gordura viável (camada intermediária — utilizada) e fração aquosa/sanguínea (descartada)",
+      "4. Injeção em múltiplos túneis com pequenas alíquotas (0,1-0,3 mL por passagem) para maximizar contato com leito vascular receptor",
+      "5. Sobrecorreção de 20-30% (reabsorção esperada)"
+    ],
+    "complications": [
+      "Reabsorção imprevisível (30-70%)",
+      "Necrose gordurosa",
+      "Embolia gordurosa (raro, especialmente em injeção glútea)",
+      "Calcificações"
+    ],
+    "pearls": [
+      "Usar seringa ou baixa pressão de vácuo para preservar viabilidade celular durante coleta",
+      "Centrifugação Coleman: 3.000 rpm por 3 minutos é o padrão",
+      "Utilizar apenas a camada intermediária (gordura viável) após processamento",
+      "Injetar em pequenas alíquotas (0,1-0,3 mL) em múltiplos túneis para melhor integração",
+      "Sobrecorrigir em 20-30% devido à reabsorção esperada"
+    ],
+    "images": [],
+    "citations": [
+      "Coleman, PRS, 2006",
+      "Tonnard et al., PRS, 2013"
+    ],
+    "updates": [],
+    "tags": [
+      "tecnica",
+      "lipoenxertia",
+      "fat-grafting",
+      "enxerto-autólogo",
+      "contorno-corporal",
+      "rejuvenescimento-facial",
+      "reconstrução-mamária",
+      "gluteoplastia"
+    ]
+  }
+]

@@ -35,7 +35,10 @@
       "Indicada em criancas com cartilagem maleavel - melhor resposta a moldagem por sutura.",
       "O ajuste da tensão das suturas deve ser feito com o paciente sentado para avaliar simetria."
     ],
-    "images": ["oto-tec-mustarde-sutura.jpg", "oto-tec-antihelice-sutura.jpg"],
+    "images": [
+      "oto-tec-mustarde-sutura.jpg",
+      "oto-tec-antihelice-sutura.jpg"
+    ],
     "citations": [
       "Grabb & Smith, 2020, cap. 36",
       "Neligan, 2023, vol. 3, cap. 28"
@@ -81,7 +84,10 @@
       "Evitar excesso de tensão — risco de distorcao do MAE (Meato Acústico Externo).",
       "Verificar permeabilidade do canal auditivo externo após fixação."
     ],
-    "images": ["oto-tec-furnas-conchal.jpg", "oto-tec-furnas-projecao.jpg"],
+    "images": [
+      "oto-tec-furnas-conchal.jpg",
+      "oto-tec-furnas-projecao.jpg"
+    ],
     "citations": [
       "Grabb & Smith, 2020, cap. 36",
       "Neligan, 2023, vol. 3, cap. 28"
@@ -132,7 +138,9 @@
       "Abordagem mais conservadora - sem incisão ou escarificação de cartilagem.",
       "Serie piloto de 24 orelhas com 91% de satisfacao em 18 meses."
     ],
-    "images": ["oto-tec-cartilage-sparing.jpg"],
+    "images": [
+      "oto-tec-cartilage-sparing.jpg"
+    ],
     "citations": [
       "Benkler M et al. Plast Reconstr Surg 2023;152(4):689e-692e. DOI: 10.1097/PRS.0000000000010401"
     ],
@@ -182,7 +190,9 @@
       "O retalho cria uma camada de tecido mole entre a sutura e a pele, eliminando extrusao.",
       "Serie de 340 orelhas: 0% de extrusao vs. 5,8% no historico do mesmo cirurgiao sem o retalho."
     ],
-    "images": ["oto-tec-mustarde-sutura.jpg"],
+    "images": [
+      "oto-tec-mustarde-sutura.jpg"
+    ],
     "citations": [
       "Bulstrode NW et al. Plast Reconstr Surg 2024;154(6):1191e-1199e. DOI: 10.1097/PRS.0000000000011342"
     ],
@@ -231,7 +241,9 @@
       "Utiliza tecido descartado da propria incisão - sem morbidade de area doadora adicional.",
       "Serie de 58 orelhas: zero extrusao em 24 meses vs. 8,6% no grupo controle historico."
     ],
-    "images": ["oto-tec-antihelice-sutura.jpg"],
+    "images": [
+      "oto-tec-antihelice-sutura.jpg"
+    ],
     "citations": [
       "Alzayadneh I et al. Aesthet Surg J 2022;42(9):NP571-NP575. DOI: 10.1093/asj/sjac079"
     ],
@@ -286,7 +298,10 @@
       "Evita cirurgia em casos de orelha em abano leve-moderada.",
       "Custo-efetiva: tratamento nao cirúrgico ambulatorial, sem anestesia."
     ],
-    "images": ["oto-tec-moldagem-neonatal.jpg", "oto-tec-moldagem-prominente.jpg"],
+    "images": [
+      "oto-tec-moldagem-neonatal.jpg",
+      "oto-tec-moldagem-prominente.jpg"
+    ],
     "citations": [
       "Neligan, 2023, vol. 3, cap. 28"
     ],
@@ -297,6 +312,233 @@
       "EarWell",
       "nao-cirúrgica",
       "otoplastia"
+    ]
+  },
+  {
+    "id": "oto-tec-mustarde",
+    "type": "technique",
+    "title": "Técnica de Mustarde (Suturas para Anti-hélice)",
+    "aliases": [],
+    "topic": "otoplastia",
+    "area": "estetica-facial",
+    "indication": "Orelha em abano por anti-hélice hipoplásica ou ausente (~60% dos casos). Cartilagem maleável, especialmente ideal em crianças. Pode ser combinada com técnica de Furnas quando há componente de concha.",
+    "contraindication": "Cartilagem muito rígida em adultos com cartilagem espessa, que pode ter maior taxa de recidiva apenas com suturas. Considerar técnicas de escarificação associadas nesses casos.",
+    "steps": [
+      "1. Marcação pré-operatória: identificar a anti-hélice desejada com agulhas de insulina pela face anterior, marcando os pontos de referência na face posterior",
+      "2. Anestesia local com lidocaína 2% + epinefrina 1:100.000, com infiltração em ambas as faces da orelha",
+      "3. Incisão elíptica na face posterior do pavilhão auricular",
+      "4. Dissecção da pele posterior até expor a cartilagem",
+      "5. Suturas permanentes horizontais de colchoeiro (mattress sutures) com Prolene ou Nylon incolor na cartilagem auricular posterior, criando a dobra da anti-hélice",
+      "6. Ajuste da tensão das suturas até obter o ângulo cefaloauricular desejado (25–35 graus)",
+      "7. Sem escarificação obrigatória da cartilagem",
+      "8. Ressecção do excesso de pele posterior se necessário",
+      "9. Fechamento da pele com suturas absorvíveis",
+      "10. Curativo compressivo moldante por 7–10 dias e faixa elástica noturna por 4–6 semanas"
+    ],
+    "complications": [
+      "Extrusão de sutura (1–6%)",
+      "Recidiva (3–5%)",
+      "Assimetria",
+      "Irregularidades de contorno (sharp edges)"
+    ],
+    "pearls": [
+      "Sem escarificação obrigatória da cartilagem — a moldagem é feita apenas pelas suturas",
+      "Especialmente indicada em crianças com cartilagem maleável — melhor resposta à moldagem por sutura",
+      "O ajuste da tensão das suturas deve ser feito com o paciente sentado para avaliar simetria"
+    ],
+    "images": [
+      "oto-tec-mustarde-sutura.jpg",
+      "oto-tec-antihelice-sutura.jpg"
+    ],
+    "citations": [
+      "Grabb & Smith, 2020, cap. 36",
+      "Neligan, 2023, vol. 3, cap. 28"
+    ],
+    "updates": [],
+    "tags": [
+      "tecnica",
+      "otoplastia",
+      "estetica-facial",
+      "anti-helice",
+      "suturas",
+      "mustarde",
+      "orelha-em-abano",
+      "mattress-sutures"
+    ]
+  },
+  {
+    "id": "oto-tec-009",
+    "type": "technique",
+    "title": "Otoplastia Poupadora de Cartilagem (Cartilage-Sparing)",
+    "aliases": [],
+    "topic": "otoplastia",
+    "area": "estetica-facial",
+    "indication": "Orelha em abano leve a moderada. Pacientes que desejam abordagem minimamente invasiva. Cartilagem maleável.",
+    "contraindication": "Deformidade severa com cartilagem muito rígida. Concha muito hipertrófica que necessita ressecção.",
+    "steps": [
+      "1. Sem incisão ou escarificação de cartilagem",
+      "2. Suturas percutâneas de Prolene para criar a anti-hélice",
+      "3. Combinação com sutura concha-mastoide (Furnas) quando necessário",
+      "4. Ajuste de tensão sob visão direta pela incisão posterior mínima",
+      "5. Fechamento e curativo compressivo"
+    ],
+    "complications": [
+      "Recidiva (4%)",
+      "Extrusão de sutura"
+    ],
+    "pearls": [
+      "Abordagem conservadora sem incisão ou escarificação de cartilagem",
+      "Série piloto de 24 orelhas com 91% de satisfação em 18 meses"
+    ],
+    "images": [
+      "oto-tec-cartilage-sparing.jpg"
+    ],
+    "citations": [
+      "Benkler M et al. Plast Reconstr Surg 2023;152(4):689e-692e",
+      "Benkler M et al. Plast Reconstr Surg 2023;152(4):689e-692e. DOI: 10.1097/PRS.0000000000010401"
+    ],
+    "updates": [],
+    "tags": [
+      "tecnica",
+      "otoplastia",
+      "estetica-facial",
+      "minimamente-invasiva",
+      "cartilage-sparing",
+      "suturas-percutaneas"
+    ]
+  },
+  {
+    "id": "oto-tec-010",
+    "type": "technique",
+    "title": "Prevenção de Extrusão com Retalho Dermofáscial Pós-Auricular",
+    "aliases": [],
+    "topic": "otoplastia",
+    "area": "estetica-facial",
+    "indication": "Adjunto a qualquer técnica de otoplastia por suturas (Mustarde, Furnas ou combinada) para prevenir extrusão de suturas. Especialmente indicado em pacientes com pele fina pós-auricular.",
+    "contraindication": "Não há contraindicações absolutas específicas ao retalho. Pode adicionar tempo cirúrgico.",
+    "steps": [
+      "1. Após colocação das suturas de cartilagem (Mustarde e/ou Furnas), antes do fechamento cutâneo.",
+      "2. Elevação de retalho dermofáscial da pele pós-auricular.",
+      "3. Posicionamento do retalho como cobertura sobre os nós das suturas de cartilagem, criando um bolso de proteção.",
+      "4. Fixação do retalho com suturas absorvíveis.",
+      "5. Fechamento da pele pós-auricular sobre o retalho.",
+      "6. Curativo compressivo habitual."
+    ],
+    "complications": [
+      "Seroma sob o retalho (raro)",
+      "Necrose parcial do retalho (raro)"
+    ],
+    "pearls": [
+      "Retalho cria bolso de proteção sobre nós de suturas de cartilagem",
+      "Reduz taxa de extrusão de 5,8% para 0% (série de 340 orelhas)"
+    ],
+    "images": [
+      "oto-tec-mustarde-sutura.jpg"
+    ],
+    "citations": [
+      "Bulstrode NW et al. Plast Reconstr Surg 2024;154(6):1191e-1199e",
+      "Bulstrode NW et al. Plast Reconstr Surg 2024;154(6):1191e-1199e. DOI: 10.1097/PRS.0000000000011342"
+    ],
+    "updates": [],
+    "tags": [
+      "tecnica",
+      "otoplastia",
+      "retalho",
+      "dermofascial",
+      "prevencao-extrusao",
+      "estetica-facial",
+      "mustarde",
+      "furnas",
+      "sutura-cartilagem"
+    ]
+  },
+  {
+    "id": "oto-tec-011",
+    "type": "technique",
+    "title": "Prevenção de Extrusão com Enxerto de Tecido Mole Livre",
+    "aliases": [],
+    "topic": "otoplastia",
+    "area": "estetica-facial",
+    "indication": "Adjunto a qualquer técnica de otoplastia por suturas para prevenir extrusão. Alternativa ao retalho dermofáscial.",
+    "contraindication": "Não há contraindicações absolutas específicas.",
+    "steps": [
+      "1. Após colocação das suturas de cartilagem, antes do fechamento cutâneo",
+      "2. Coleta de enxerto livre de tecido mole (pele e subcutâneo excedentes da própria incisão pós-auricular)",
+      "3. Interposição do enxerto entre o nó da sutura e o pericôndrio",
+      "4. Fixação do enxerto com sutura absorvível",
+      "5. Fechamento cutâneo habitual",
+      "6. Curativo compressivo"
+    ],
+    "complications": [
+      "Reabsorção parcial do enxerto (sem impacto clínico relatado)"
+    ],
+    "pearls": [
+      "Utiliza tecido descartado da própria incisão — sem morbidade de área doadora adicional",
+      "Taxa de extrusão zero em 24 meses versus 8,6% no grupo controle histórico"
+    ],
+    "images": [
+      "oto-tec-antihelice-sutura.jpg"
+    ],
+    "citations": [
+      "Alzayadneh I et al. Aesthet Surg J 2022;42(9):NP571-NP575",
+      "Alzayadneh I et al. Aesthet Surg J 2022;42(9):NP571-NP575. DOI: 10.1093/asj/sjac079"
+    ],
+    "updates": [],
+    "tags": [
+      "tecnica",
+      "otoplastia",
+      "estetica-facial",
+      "enxerto",
+      "tecido-mole",
+      "prevencao-extrusao",
+      "sutura-cartilagem"
+    ]
+  },
+  {
+    "id": "oto-tec-012",
+    "type": "technique",
+    "title": "Moldagem Neonatal (Ear Molding)",
+    "aliases": [
+      "Ear Molding"
+    ],
+    "topic": "otoplastia",
+    "area": "estetica-facial",
+    "indication": "Orelha em abano ou deformidades auriculares congênitas leves a moderadas diagnosticadas nas primeiras 6 semanas de vida, aproveitando a maleabilidade da cartilagem neonatal sob influência do estrogênio materno",
+    "contraindication": "Início após 6 semanas de vida (cartilagem já enrijecida); deformidades severas (microtia, anotia); condições que impedem uso de dispositivo (dermatite, infecção local)",
+    "steps": [
+      "1. Diagnóstico precoce da deformidade auricular (idealmente na maternidade)",
+      "2. Aplicação do dispositivo de moldagem (EarWell, Auri ou similar) nas primeiras 1–2 semanas de vida",
+      "3. Moldagem contínua por 4–6 semanas",
+      "4. Reavaliação semanal para ajuste do dispositivo",
+      "5. Remoção do dispositivo após obtenção da forma desejada",
+      "6. Monitoramento de recidiva nos primeiros 6 meses"
+    ],
+    "complications": [
+      "Irritação cutânea sob o dispositivo",
+      "Recidiva parcial (rara quando iniciada precocemente)",
+      "Ulceração de pressão (rara)"
+    ],
+    "pearls": [
+      "Taxa de sucesso > 90% quando iniciada antes de 6 semanas de vida",
+      "A eficácia depende da janela de oportunidade: estrogênio materno mantém a cartilagem maleável nas primeiras semanas",
+      "Evita cirurgia em casos de orelha em abano leve-moderada",
+      "Custo-efetiva: tratamento não cirúrgico ambulatorial, sem anestesia"
+    ],
+    "images": [
+      "oto-tec-moldagem-neonatal.jpg",
+      "oto-tec-moldagem-prominente.jpg"
+    ],
+    "citations": [
+      "Neligan, 2023, vol. 3, cap. 28"
+    ],
+    "updates": [],
+    "tags": [
+      "tecnica",
+      "moldagem-neonatal",
+      "otoplastia",
+      "estetica-facial",
+      "cirurgia-congenita",
+      "nao-cirurgico"
     ]
   }
 ]

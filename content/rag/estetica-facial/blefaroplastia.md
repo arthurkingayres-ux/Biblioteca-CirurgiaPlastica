@@ -25,7 +25,20 @@
 
 ---
 
-## 1. Introdução e Epidemiologia
+## Synopsis
+
+- A blefaroplastia é um dos procedimentos estéticos faciais mais realizados mundialmente, com satisfação estética > 90% e melhora funcional do campo visual em > 80% dos casos de dermatocálase funcional.
+- A região periocular é a área anatômica mais complexa da face; o entendimento tridimensional das lamelas (anterior: pele/orbicular; posterior: tarso/conjuntiva) e do septo órbital é pré-requisito para segurança.
+- O hematoma retrobulbar é a complicação mais temida (0,04–0,05%) e constitui emergência: isquemia retiniana irreversível em 60–100 minutos — cantotomia + cantólise lateral devem ser dominadas por todo cirurgião que realiza blefaroplastia.
+- A avaliação pré-operatória sistemática (MRD1, snap-back test, distraction test, vetor orbitário, teste de Schirmer, Lei de Hering) é a etapa mais importante: determina indicação, previne complicações e orienta escolha técnica.
+- O diagnóstico diferencial da "pálpebra pesada" exige distinção entre dermatocálase verdadeira, ptose de sobrancelha e ptose pálpebral — cada diagnóstico requer conduta diferente.
+- Na blefaroplastia inferior, a tendência atual favorece reposicionamento de gordura (fat transposition) sobre ressecção, para evitar hollowing tardio e preencher o tear trough.
+- A transconjuntival superou a transcutânea como via preferida para blefaroplastia inferior; cantopexia lateral é realizada em 68% das blefaroplastias inferiores (dados ABPS 2025).
+- Laxidez horizontal do canto lateral (snap-back lento, distraction > 6 mm) deve ser corrigida com cantopexia ou cantoplastia no mesmo tempo cirúrgico — omissão é a principal causa de ectrópio pós-operatório.
+- NUNCA tracionar gordura orbitária — risco de hemorragia retrobulbar por avulsão de vasos profundos. NUNCA ressecar estrutura glandular no compartimento lateral superior (glândula lacrimal).
+- A Lei de Hering deve ser avaliada em toda ptose unilateral: ocluir o olho ptótico por 2 min e observar contralateral — queda > 1 mm indica ptose contralateral latente e necessidade de planejamento bilateral.
+
+## Introduction
 
 A blefaroplastia é a cirurgia de correção do excesso de pele, músculo e/ou gordura das pálpebras superiores e inferiores. É um dos procedimentos estéticos faciais mais frequentemente realizados mundialmente e apresenta uma das mais altas taxas de satisfação quando corretamente indicada. A indicação pode ser puramente estética (rejuvenescimento periocular), funcional (dermatocálase obstrutiva com restrição do campo visual superior) ou combinada. A blefaroplastia superior é o quarto procedimento estético mais frequente nos EUA. A blefaroplastia inferior vem ganhando importância com o desenvolvimento de técnicas menos invasivas. (Neligan, 2023, vol. 2, caps. 8–9; Grabb & Smith, 2024, cap. 35)
 
@@ -35,11 +48,11 @@ A pálpebra é dividida em **lamela anterior** (pele e músculo orbicular) e **l
 
 [Imagem: diagrama-camadas-palpebrais.png]
 
----
+## Basic Science
 
-## 2. Anatomia
+### Anatomy
 
-### 2.1 Ossos da Órbita
+#### Ossos da Órbita
 
 A órbita é uma cavidade piramidal formada por 7 ossos. Contém os forames supraorbitário, infraorbitário, óptico e etmoidais. O **arcus marginalis** é o periósteo espessado do rebordo orbitário, onde se origina o septo órbital. O **tubérculo de Whitnall** localiza-se na parede lateral orbital, 2–3 mm posterior ao rebordo, e é a inserção do tendão cantal lateral.
 
@@ -51,7 +64,7 @@ O rebordo orbitário é referência para todas as medidas em blefaroplastia. O *
 [Imagem: fig13-2-secao-horizontal-orbita.jpeg]
 [Imagem: blef-p0592-ossos-da-orbita-vista-lateral-com-cavidade-orbitar.jpeg]
 
-### 2.2 Pele Pálpebral
+#### Pele Pálpebral
 
 A pele das pálpebras é a mais fina do corpo (~0,5 mm na pálpebra superior, comparada a 2–3 mm no restante da face). Não possui gordura subcutânea significativa, permitindo que alterações nas estruturas profundas (gordura, músculo) sejam facilmente visíveis.
 
@@ -59,7 +72,7 @@ A pele das pálpebras é a mais fina do corpo (~0,5 mm na pálpebra superior, co
 - **Relevância cirúrgica:** a marcação cirúrgica deve preservar pelo menos 20 mm de pele entre a borda ciliar e a sobrancelha (margem de segurança contra lagoftalmo). A pele pré-septal redundante é o alvo primário da blefaroplastia superior.
 - **Como identificar:** pele extremamente fina e translúcida; região pré-tarsal aderida ao plano profundo, região pré-septal frouxa e pinçável facilmente com pinça. (Neligan, 2023, vol. 2, cap. 8; Grabb & Smith, 2024, cap. 35)
 
-### 2.3 Músculo Orbicular do Olho
+#### Músculo Orbicular do Olho
 
 Músculo estriado plano e circular que envolve a fissura pálpebral, dividido em três porções: **pré-tarsal** (piscar involuntário), **pré-septal** (fechamento reflexo e voluntário) e **orbital** (fechamento forçado, estende-se sobre o rebordo orbitário). A hipertrofia do orbicular pode causar "squinch" — fullness muscular que simula excesso de pele.
 
@@ -72,7 +85,7 @@ Músculo estriado plano e circular que envolve a fissura pálpebral, dividido em
 [Imagem: blef-13-16-inervacao-temporal-sobrancelha.png]
 [Imagem: fig13-6-musculos-periorbitarios.jpeg]
 
-### 2.4 Septo Órbital
+#### Septo Órbital
 
 Membrana fibrosa que se origina do **arcus marginalis** (periósteo do rebordo orbitário) e constitui a barreira entre os compartimentos pré-septal e intraorbitário. Na pálpebra superior, funde-se com a aponeurose do LPS 2–5 mm acima da borda superior do tarso. Na pálpebra inferior, funde-se com a fáscia capsulopálpebral aproximadamente 5 mm abaixo da borda inferior do tarso.
 
@@ -85,7 +98,7 @@ Membrana fibrosa que se origina do **arcus marginalis** (periósteo do rebordo o
 [Imagem: fig13-11-septo-orbital.jpeg]
 [Imagem: fig13-9-anatomia-palpebral-sagital.jpeg]
 
-### 2.5 Gordura Orbitária — Pálpebra Superior
+#### Gordura Orbitária — Pálpebra Superior
 
 A gordura pálpebral superior apresenta dois compartimentos: **medial (nasal)** — gordura mais pálida e firme — e **central (pré-aponeurótico)** — mais amarelo e lobulado. O compartimento lateral **NÃO** contém gordura; a estrutura que ocupa essa posição é a **glândula lacrimal**, cuja ressecção inadvertida causa síndrome de olho seco permanente e grave.
 
@@ -94,7 +107,7 @@ A gordura pálpebral superior apresenta dois compartimentos: **medial (nasal)** 
 
 [Imagem: blef-p0592-anatomia-da-orbita-e-compartimentos-de-gordura-per.jpeg]
 
-### 2.6 Gordura Orbitária — Pálpebra Inferior
+#### Gordura Orbitária — Pálpebra Inferior
 
 A gordura pálpebral inferior possui três compartimentos (**medial, central e lateral**), separados pelo **músculo oblíquo inferior**. O compartimento medial é medial ao oblíquo inferior e é o mais frequentemente herniado, causando a "bolsa" nasojugal. O central está sobre o oblíquo inferior. O lateral pode estar associado à glândula lacrimal prolapsada.
 
@@ -104,7 +117,7 @@ A gordura pálpebral inferior possui três compartimentos (**medial, central e l
 
 [Imagem: blef-13-31-gordura-compartimentos-inferiores.png]
 
-### 2.7 Músculo Levantador da Pálpebra Superior (LPS) e Aponeurose
+#### Músculo Levantador da Pálpebra Superior (LPS) e Aponeurose
 
 O LPS origina-se no ápice orbitário (asa menor do esfenoide), cursa anteriormente sob o teto orbitário, e sua porção muscular transiciona em aponeurose na região do **ligamento de Whitnall**. A aponeurose insere-se na face anterior do tarso e emite fibras através do orbicular pré-tarsal até a derme, formando a prega pálpebral superior. Inervação: ramo superior do **III par craniano** (oculomotor).
 
@@ -116,7 +129,7 @@ O LPS origina-se no ápice orbitário (asa menor do esfenoide), cursa anteriorme
 [Imagem: blef-13-29-incisao-levantador-plicatura.png]
 [Imagem: fig13-9-anatomia-palpebral-sagital.jpeg]
 
-### 2.8 Músculo de Müller (Tarsal Superior)
+#### Músculo de Müller (Tarsal Superior)
 
 Músculo liso com inervação simpática (gânglio cervical superior) que se origina na face inferior do LPS e insere-se na borda superior do tarso. Contribui com 2 mm de elevação pálpebral. Sua desnervação na síndrome de Horner resulta em ptose leve (1–2 mm).
 
@@ -126,7 +139,7 @@ Músculo liso com inervação simpática (gânglio cervical superior) que se ori
 
 [Imagem: blef-13-8-anatomia-palpebral-sagital.png]
 
-### 2.9 Fáscia Capsulopálpebral e Ligamento de Lockwood
+#### Fáscia Capsulopálpebral e Ligamento de Lockwood
 
 A **fáscia capsulopálpebral** é o análogo do LPS na pálpebra inferior. Origina-se do músculo reto inferior, envolve o oblíquo inferior (formando o **ligamento de Lockwood** — suspensor do globo), e insere-se na borda inferior do tarso inferior. É frequentemente confundida com o septo órbital durante a dissecção.
 
@@ -137,7 +150,7 @@ A **fáscia capsulopálpebral** é o análogo do LPS na pálpebra inferior. Orig
 [Imagem: blef-13-34-flap-capsulopalpebral.png]
 [Imagem: fig13-33-blefaroplastia-inferior.jpeg]
 
-### 2.10 Tarso (Superior e Inferior)
+#### Tarso (Superior e Inferior)
 
 Placa fibrosa densa (não cartilagem) que confere rigidez à pálpebra. **Tarso superior:** 10–12 mm de altura. **Tarso inferior:** 3,5–5 mm. Contém as **glândulas de Meibomius** (glândulas tarsais), que secretam o componente lipídico do filme lacrimal.
 
@@ -147,7 +160,7 @@ Placa fibrosa densa (não cartilagem) que confere rigidez à pálpebra. **Tarso 
 [Imagem: blef-13-8-anatomia-palpebral-sagital.png]
 [Imagem: diagrama-camadas-palpebrais.png]
 
-### 2.11 Ligamento Cantal Medial (LCM)
+#### Ligamento Cantal Medial (LCM)
 
 Ligamento com porção anterior (insere-se na crista lacrimal anterior) e porção posterior (crista lacrimal posterior — é a mais forte). A porção posterior mantém a posição medial da pálpebra e é essencial para a função de drenagem lacrimal. O ligamento envolve o saco lacrimal.
 
@@ -156,7 +169,7 @@ Ligamento com porção anterior (insere-se na crista lacrimal anterior) e porç�
 
 [Imagem: blef-13-5-tendao-cantal-medial.png]
 
-### 2.12 Ligamento Cantal Lateral e Tendão Cantal Lateral (TCL)
+#### Ligamento Cantal Lateral e Tendão Cantal Lateral (TCL)
 
 Insere-se no **tubérculo de Whitnall**, localizado 2–3 mm posterior ao rebordo orbitário lateral (face interna da parede orbitária lateral). Posição normal do canto lateral: **2 mm acima** do canto medial. Canto lateral no mesmo nível ou abaixo do medial é fator de risco para ectrópio.
 
@@ -168,7 +181,7 @@ Insere-se no **tubérculo de Whitnall**, localizado 2–3 mm posterior ao rebord
 [Imagem: blef-13-35-canto-lateral-envelhecimento.png]
 [Imagem: fig13-35-ptose-canto-lateral.jpeg]
 
-### 2.13 Ligamento de Whitnall
+#### Ligamento de Whitnall
 
 Condensado fascial que atua como fulcro e suspensor do LPS na região onde a porção muscular transiciona em aponeurose. Localiza-se superiormente na órbita, ~10 mm acima do tarso superior. Estende-se da tróclea (medial) à glândula lacrimal (lateral).
 
@@ -177,7 +190,7 @@ Condensado fascial que atua como fulcro e suspensor do LPS na região onde a por
 
 [Imagem: blef-13-2-corte-horizontal-orbita.png]
 
-### 2.14 Vascularização Periórbital
+#### Vascularização Periórbital
 
 O suprimento arterial da pálpebra provém de dois arcos:
 1. **Arco marginal** (2 mm da margem ciliar), formado por ramos da artéria oftálmica (medial) e da artéria lacrimal (lateral).
@@ -191,7 +204,7 @@ A **artéria angular** (ramo terminal da facial) conecta-se com a artéria oftá
 [Imagem: blef-13-14-vascularizacao-periorbital.png]
 [Imagem: fig13-14-suprimento-arterial.jpeg]
 
-### 2.15 Inervação Pálpebral — Sensitiva e Motora
+#### Inervação Pálpebral — Sensitiva e Motora
 
 **Inervação sensitiva:**
 - Pálpebra superior por V1 (trigêmeo, divisão oftálmica): ramos supraorbital, supratroclear, infratroclear e lacrimal.
@@ -210,7 +223,7 @@ A **artéria angular** (ramo terminal da facial) conecta-se com a artéria oftá
 [Imagem: fig13-15-nervos-sensoriais.jpeg]
 [Imagem: fig13-16-anatomia-sobrancelha.jpeg]
 
-### 2.16 Sulco Palpebro-Malar e Tear Trough
+#### Sulco Palpebro-Malar e Tear Trough
 
 O **tear trough** (sulco nasojugal) é uma depressão curvilínea do canto medial em direção inferolateral, delimitada superiormente pela transição gordura orbitária/orbicular e inferiormente pela eminência malar. O **sulco palpebro-malar** (lid-cheek junction) é a continuação lateral. Tornam-se mais pronunciados com envelhecimento por: herniação de gordura acima, perda de volume malar abaixo, e laxidez do septo.
 
@@ -222,7 +235,7 @@ O **tear trough** (sulco nasojugal) é uma depressão curvilínea do canto media
 [Imagem: blef-13-22-teste-tear-trough.png]
 [Imagem: blef-13-23-24-preenchimento-ptose-compensada.png]
 
-### 2.17 Ligamento de Retenção Orbicular (ORL)
+#### Ligamento de Retenção Orbicular (ORL)
 
 Origem no periósteo do rebordo orbital e arco zigomático, unindo diretamente o orbicular ao periósteo. Delimita a transição pálpebra–bochecha e o espaço pré-septal inferior.
 
@@ -232,7 +245,7 @@ Origem no periósteo do rebordo orbital e arco zigomático, unindo diretamente o
 [Imagem: blef-13-12-ligamento-retencao-orbicular.png]
 [Imagem: blef-13-13-ligamento-retencao-orbital.png]
 
-### 2.18 Pálpebra Asiática — Particularidades Anatômicas
+#### Pálpebra Asiática — Particularidades Anatômicas
 
 A diferença fundamental reside na inserção da aponeurose do LPS: nos ocidentais, fibras aponeuróticas atravessam o orbicular e se inserem na derme pré-tarsal, criando a prega. Em ~50% dos asiáticos, a aponeurose funde-se com o septo em posição mais inferior (próximo à borda tarsal), e a gordura pré-aponeurótica desce anteriormente ao tarso — impedindo a formação da prega e causando fullness pré-tarsal. O **epicanto** é uma prega de pele semilunar que cobre parcialmente o canto medial.
 
@@ -243,9 +256,7 @@ A diferença fundamental reside na inserção da aponeurose do LPS: nos ocidenta
 [Imagem: blef-13-10cd-palpebra-asiatica-baggy.png]
 [Imagem: fig13-10-variacoes-palpebra-superior.jpeg]
 
----
-
-## 3. Fisiopatologia do Envelhecimento Periórbital
+### Physiology / Pathophysiology
 
 O envelhecimento periórbital é multifatorial e envolve mudanças em todas as camadas anatômicas. (Neligan, 2023, vol. 2, caps. 8–9; Grabb & Smith, 2024, cap. 35)
 
@@ -262,15 +273,13 @@ O envelhecimento periórbital é multifatorial e envolve mudanças em todas as c
 [Imagem: blef-13-19-deflacao-bochecha-envelhecimento.png]
 [Imagem: blef-13-35-canto-lateral-envelhecimento.png]
 
----
+## Diagnosis / Patient Presentation
 
-## 4. Avaliação do Paciente
-
-### 4.1 Princípios Gerais
+### Princípios Gerais
 
 A avaliação pré-operatória é a etapa mais importante da blefaroplastia. Determina a indicação, previne complicações e orienta a escolha técnica. Deve ser sistemática, incluindo exame oftalmológico básico, fotografias padronizadas e discussão de expectativas. Consulta com oftalmologista recomendada para: glaucoma, olho seco, cirurgia ocular prévia (LASIK, catarata) ou queixas visuais. (Neligan, 2023, vol. 2, caps. 8–9; Grabb & Smith, 2024, cap. 35; Core Procedures, 2020, cap. 3)
 
-### 4.2 Parâmetros do Exame
+### Parâmetros do Exame
 
 | Parâmetro | Normal | Interpretação |
 |---|---|---|
@@ -287,13 +296,13 @@ A avaliação pré-operatória é a etapa mais importante da blefaroplastia. Det
 
 **Teste da fenilefrina 2,5%:** elevação ≥ 1,5 mm sugere tônus simpático residual (candidato a Müllerectomy).
 
-### 4.3 Avaliação de Ptose
+### Avaliação de Ptose
 
 - **Classificação:** leve (MRD1 2–3 mm), moderada (MRD1 0–1 mm), grave (MRD1 < 0 mm).
 - **Função do LPS (excursão):** ≥ 12 mm = boa (aponeurótica); 5–11 mm = moderada; < 5 mm = pobre (miogênica).
 - **Lei de Hering:** ocluir olho ptótico por 2 min e observar contralateral. Se cai → ptose contralateral latente.
 
-### 4.4 Documentação Fotográfica
+### Documentação Fotográfica
 
 Face completa frontal, oblíqua e perfil em repouso e sorrindo; periórbital em olhar para cima e para baixo, com olhos fechados e sobrancelha elevada com dedo. (Neligan, 2023, vol. 2, caps. 8–9; Grabb & Smith, 2024, cap. 35; Core Procedures, 2020, cap. 3)
 
@@ -307,11 +316,94 @@ Face completa frontal, oblíqua e perfil em repouso e sorrindo; periórbital em 
 [Imagem: fig13-20a-acuidade-visual.png]
 [Imagem: algoritmo-diagnostico-palpebra-pesada.png]
 
----
+## Patient Selection
 
-## 5. Técnicas Cirúrgicas
+### Diagnóstico Diferencial da Pálpebra Pesada
 
-### 5.1 Blefaroplastia Superior (Clássica)
+**Gatilho:** paciente queixa-se de "pálpebra pesada" ou aparência cansada/envelhecida do terço superior da face.
+
+**Algoritmo:**
+
+**Passo 1 — Elevar manualmente as sobrancelhas à posição ideal. O excesso de pele desaparece?**
+- Sim — excesso desaparece com sobrancelha elevada → **PTOSE DE SOBRANCELHA** (pseudo-dermatocálase). Indicar brow lift, NÃO blefaroplastia isolada.
+- Não — excesso persiste mesmo com sobrancelha elevada → **Dermatocálase verdadeira**. Candidato a blefaroplastia superior.
+- Parcialmente — excesso diminui mas não desaparece → **Componente misto**: ptose de sobrancelha + dermatocálase. Considerar procedimento COMBINADO (brow lift + blefaroplastia).
+
+*Dica clínica:* com o paciente sentado e relaxado, elevar manualmente as sobrancelhas à posição ideal e reavaliar a pálpebra. Muitos pacientes necessitam procedimento combinado. (Neligan, 2023, vol. 2, cap. 8)
+
+**Passo 2 — Avaliar MRD1. Há ptose pálpebral?**
+- MRD1 ≥ 4 mm (normal) → sem ptose pálpebral. Dermatocálase e/ou ptose de sobrancelha conforme avaliação anterior.
+- MRD1 < 4 mm (ptose presente) → **PTOSE PALPEBRAL**. A correção é ptoseplastia (avanço/plicatura de aponeurose, Müllerectomy ou suspensão frontal conforme função do LPS).
+
+**Passo 3 — Há herniação de gordura isolada (bolsas) sem excesso de pele significativo?**
+- Sim — bolsas proeminentes com pele relativamente normal → ressecção ou reposicionamento de gordura via transconjuntival (sem incisão cutânea).
+- Não — excesso de pele é o componente principal → blefaroplastia com excisão de pele ± gordura.
+
+(Neligan, 2023, vol. 2, cap. 8; Grabb & Smith, 2024, cap. 35)
+
+### Blefaroplastia Inferior: Transconjuntival vs. Transcutânea
+
+**Gatilho:** paciente com queixa de bolsas ou excesso de pele na pálpebra inferior avaliado para blefaroplastia inferior.
+
+**Passo 1 — Qual o problema principal?**
+- Bolsas de gordura com pouco/nenhum excesso de pele → Via transconjuntival ± pinch blepharoplasty para excesso de pele mínimo.
+- Excesso de pele significativo + bolsas de gordura → Via transcutânea (subciliar). Avaliar necessidade de cantopexia/cantoplastia.
+- Excesso de pele leve sem bolsas de gordura significativas → Pinch blepharoplasty isolada ou laser resurfacing periocular.
+
+**Passo 2 — Qual o status da laxidez horizontal (snap-back test, distraction test)?**
+- Snap-back imediato, distraction < 4 mm (normal) → Não requer cantopexia. Prosseguir com via escolhida.
+- Snap-back lento mas completo, distraction 4–6 mm (laxidez leve-moderada) → Associar **CANTOPEXIA** lateral ao procedimento escolhido.
+- Snap-back incompleto, distraction > 6 mm (laxidez grave) → Associar **CANTOPLASTIA** lateral (secção e reinserção do tendão cantal).
+
+**Passo 3 — Qual o vetor orbitário?**
+- Vetor positivo (rebordo anterior à córnea) → menor risco. Via transcutânea aceitável sem cantopexia adicional se laxidez normal.
+- Vetor neutro ou negativo (córnea anterior ou no mesmo plano que rebordo) → ALTO RISCO de ectrópio e scleral show. Preferir transconjuntival. Se transcutânea: cantopexia OBRIGATÓRIA.
+
+**Passo 4 — Há deformidade de tear trough?**
+- Sim — tear trough pronunciado → reposicionamento de gordura (fat transposition) ao arcus marginalis. Preferir sobre ressecção de gordura. Pode associar filler ou lipoenxertia.
+- Não — tear trough mínimo → ressecção conservadora de gordura aceitável. Evitar hollowing — ressecar o mínimo necessário.
+
+(Neligan, 2023, vol. 2, cap. 9; Grabb & Smith, 2024, cap. 35; Core Procedures, 2020, cap. 3; Chen J et al. PRS 2026;157:622)
+
+### Avaliação do Vetor Orbitário
+
+**Gatilho:** avaliação pré-operatória de blefaroplastia inferior para determinar risco de ectrópio e scleral show.
+
+**Passo 1 — Em perfil: linha reta da córnea ao ponto mais proeminente da bochecha. Qual a relação?**
+- Rebordo infraorbitário anterior à córnea → **VETOR POSITIVO**: proteção natural. Menor risco de ectrópio. Via transcutânea aceitável com avaliação de laxidez adequada.
+- Córnea e rebordo alinhados → **VETOR NEUTRO**: risco intermediário. Preferir transconjuntival. Se transcutânea: considerar cantopexia profilática.
+- Córnea anterior ao rebordo → **VETOR NEGATIVO**: ALTO RISCO de ectrópio, scleral show e complicações. Preferir via transconjuntival. Se transcutânea: cantopexia/cantoplastia OBRIGATÓRIA.
+
+**Passo 2 — Canto lateral: qual a posição relativa ao canto medial?**
+- Canto lateral 2 mm acima do medial (normal) → posição normal. Risco basal de complicações.
+- Canto lateral no mesmo nível ou abaixo do medial → fator de risco adicional para ectrópio. Cantopexia profilática indicada durante blefaroplastia inferior.
+
+(Neligan, 2023, vol. 2, cap. 9; Grabb & Smith, 2024, cap. 35)
+
+### Escolha de Técnica para Correção de Ptose
+
+**Gatilho:** paciente com ptose pálpebral (MRD1 < 4 mm) avaliado para correção cirúrgica.
+
+**Passo 1 — Qual a função do LPS (excursão do levator da infraversão à supraversão máxima, bloqueando frontal)?**
+- Boa (≥ 12 mm) → avaliar grau da ptose e teste de fenilefrina.
+- Moderada (5–11 mm) → ressecção extensa do LPS ou avanço amplo da aponeurose. Considerar Fasanella-Servat para ptose moderada.
+- Pobre (< 5 mm) → **Suspensão frontal** (frontalis sling) com fáscia lata autóloga ou material sintético.
+
+**Passo 2 — Se função LPS boa (≥ 12 mm): qual o grau da ptose e resultado do teste da fenilefrina 2,5%?**
+- Ptose leve (MRD1 2–3 mm) + fenilefrina positiva (elevação ≥ 1,5 mm) → **Müllerectomy** (ressecção conjuntivo-mülleriana) — abordagem posterior.
+- Ptose leve (MRD1 2–3 mm) + fenilefrina negativa → **Avanço ou plicatura da aponeurose do LPS** — abordagem anterior.
+- Ptose leve a moderada (MRD1 1–3 mm) → Avanço da aponeurose do LPS (via anterior). Ajuste intraoperatório com paciente sentado.
+
+**Passo 3 — A ptose é unilateral? Avaliar Lei de Hering.**
+- Unilateral: ocluir olho ptótico 2 min, MRD1 contralateral cai > 1 mm → ptose contralateral latente desmascarada → planejar correção BILATERAL escalonada.
+- Unilateral: MRD1 contralateral estável após oclusão → ptose unilateral verdadeira → correção unilateral com ajuste intraoperatório.
+- Bilateral → correção bilateral simultânea. Ajuste simétrico intraoperatório.
+
+(Neligan, 2023, vol. 2, cap. 8; Grabb & Smith, 2024, cap. 35; Li X et al. PRS 2026;157:38e)
+
+## Treatment / Surgical Technique
+
+### Blefaroplastia Superior (Clássica)
 
 **Indicação:** dermatocálase da pálpebra superior com excesso de pele redundante, funcional (obstrução do campo visual superior) ou estética. Confirmada pelo pinch test e pela manutenção de ≥ 20 mm entre margem ciliar e sobrancelha após ressecção.
 
@@ -339,11 +431,11 @@ Face completa frontal, oblíqua e perfil em repouso e sorrindo; periórbital em 
 
 **Atualização — Stein et al., 2025 (PRS 155:895):** revisão de 15 anos de dados de certificação do ABPS (American Board of Plastic Surgery) mostra que blefaroplastia superior aumentou 42% em volume. Lower blepharoplasty transconjuntival superou a transcutânea em frequência. Cantopexia lateral passou a ser realizada em 68% das blefaroplastias inferiores, refletindo mudança de paradigma em relação à laxidez horizontal.
 
-**Atualização — Park et al., 2025 (PRS 156:189e):** técnica de alongamento precoce da aponeurose do LPS com AlloDerm para correção de retração pálpebral após blefaroplastia cosmética. Série de 12 pacientes: MRD1 melhorou de 5,8 mm para 4,1 mm em 6 meses. Indicação: retração detectada no pós-operatório (PO) imediato ou primeiras semanas (intervenção precoce tem melhor resultado).
+**Atualização — Park et al., 2025 (PRS 156:189e):** técnica de alongamento precoce da aponeurose do LPS com AlloDerm para correção de retração pálpebral após blefaroplastia cosmética. Série de 12 pacientes: MRD1 melhorou de 5,8 mm para 4,1 mm em 6 meses. Indicação: retração detectada no PO imediato ou primeiras semanas (intervenção precoce tem melhor resultado).
 
 **Atualização — Todorov et al., 2025 (ASJ 45:554):** revisão sistemática e meta-análise de 12 ECRs (ensaios clínicos randomizados, n = 1.847). Blefaroplastia superior melhora campo visual em 84% dos casos com dermatocálase funcional. Satisfação estética: 91%. Complicação mais frequente: olho seco transitório (18%). A melhora funcional é mensurável por campimetria e sustentada em seguimento médio de 24 meses.
 
-### 5.2 Anchor Blepharoplasty
+### Anchor Blepharoplasty
 
 **Indicação:** blefaroplastia superior quando se deseja criação de prega pálpebral alta e estável, especialmente em casos com deiscência do levantador ou necessidade de definição precisa.
 
@@ -362,7 +454,7 @@ A técnica anchor produz uma prega mais definida e estável que a blefaroplastia
 
 [Imagem: blef-13-27-anchor-blepharoplasty.png]
 
-### 5.3 Blefaroplastia Inferior — Via Transconjuntival
+### Blefaroplastia Inferior — Via Transconjuntival
 
 **Indicação:** excesso de gordura pálpebral inferior (bolsas) com excesso de pele mínimo. Via preferida atualmente. Pode ser pré-septal ou retroseptal (pós-septal).
 
@@ -388,7 +480,7 @@ A técnica anchor produz uma prega mais definida e estável que a blefaroplastia
 
 **MUDANÇA DE PARADIGMA — Chen et al., 2026 (PRS 157:622):** reposicionamento de gordura com excisão profunda (deep fat) na blefaroplastia inferior transcutânea é superior à ressecção isolada: melhor contorno do sulco nasojugal e menor risco de hollowing tardio. Recomendação atual: preferir reposicionamento (transpor gordura para o tear trough). Ressecção somente quando o volume é genuinamente excessivo e o tear trough é mínimo.
 
-### 5.4 Blefaroplastia Inferior — Via Transcutânea (Subciliar)
+### Blefaroplastia Inferior — Via Transcutânea (Subciliar)
 
 **Indicação:** excesso de pele significativo na pálpebra inferior, laxidez do orbicular, necessidade de acesso simultâneo a gordura e pele.
 
@@ -412,7 +504,7 @@ A técnica anchor produz uma prega mais definida e estável que a blefaroplastia
 
 **Atualização — Nomoto & Ogawa, 2026 (PRS 157:486e):** incisão na fáscia capsulopálpebral no nível subtarsal (vs. nível septal tradicional) na via transcutânea. Série de 74 casos: ZERO ectrópio em 18 meses de seguimento. Mecanismo: incisão subtarsal preserva a tensão do septo e da fáscia capsulopálpebral, reduzindo a tração vertical sobre a pálpebra. Pode reduzir a necessidade de cantopexia concomitante em pacientes selecionados.
 
-### 5.5 Cantopexia Lateral
+### Cantopexia Lateral
 
 **Indicação:** laxidez horizontal leve a moderada (distraction test 4–6 mm, snap-back lento mas completo). Re-suspensão do tendão cantal lateral sem secção.
 
@@ -434,7 +526,7 @@ Cantopexia: sem secção do tendão (laxidez leve-moderada). Cantoplastia: com s
 [Imagem: blef-13-38-cantopexia-duas-camadas.png]
 [Imagem: fig13-37a-cantopexia-periosteal.jpeg]
 
-### 5.6 Cantoplastia Lateral (Tarsal Strip)
+### Cantoplastia Lateral (Tarsal Strip)
 
 **Indicação:** laxidez horizontal moderada a grave (distraction test > 6 mm, snap-back incompleto). Envolve secção completa do tendão cantal lateral inferior.
 
@@ -455,7 +547,7 @@ A fixação deve ser na face INTERNA da parede orbitária lateral, posterior ao 
 
 [Imagem: blef-13-38-cantopexia-duas-camadas.png]
 
-### 5.7 Pinch Blepharoplasty (Skin Pinch)
+### Pinch Blepharoplasty (Skin Pinch)
 
 **Indicação:** excesso de pele leve na pálpebra inferior, sem necessidade de acesso profundo. Pode ser combinada com blefaroplastia transconjuntival para bolsas de gordura.
 
@@ -474,7 +566,7 @@ Técnica minimamente invasiva com menor risco de ectrópio por não violar septo
 
 [Imagem: blef-13-32-blefaro-inferior-pele.png]
 
-### 5.8 Double Eyelid Surgery — Dupla Pálpebra Asiática
+### Double Eyelid Surgery — Dupla Pálpebra Asiática
 
 **Indicação:** pacientes com single eyelid que desejam criação de prega pálpebral superior ou aprofundamento de prega rasa. Cirurgia estética mais realizada mundialmente em volume absoluto.
 
@@ -495,7 +587,7 @@ Técnica minimamente invasiva com menor risco de ectrópio por não violar septo
 
 **Atualização — Yu et al., 2025 (PRS 156:29):** técnica conservadora baseada em estudos anatômicos in vivo. Altura da prega individualizável por análise direta da pretarsal fullness intraoperatória. Série de 180 pacientes: 97% satisfeitos; 3,3% revisão por assimetria. O conceito-chave: a altura ideal da prega não é uma medida fixa, mas sim ajustada conforme a espessura do tecido pré-tarsal de cada paciente.
 
-### 5.9 Correção de Ptose — Avanço/Plicatura da Aponeurose do LPS
+### Correção de Ptose — Avanço/Plicatura da Aponeurose do LPS
 
 **Indicação:** ptose leve a moderada (MRD1 1–3 mm) com boa função do LPS (≥ 12 mm). Causa mais comum: ptose involutiva/aponeurótica por deiscência ou alongamento da aponeurose.
 
@@ -517,7 +609,7 @@ SEMPRE testar a Lei de Hering: ocluir olho ptótico por 2 min e observar contral
 
 **Atualização — Li et al., 2026 (PRS 157:38e):** análise de 68 pacientes com ptose leve unilateral. Estratégia de correção graduada com avaliação pré-operatória da Lei de Hering reduz a incidência de ptose contralateral desmascarada de 22% para 7%. Protocolo: ocluir o olho ptótico por 2 min, medir MRD1 contralateral. Se queda > 1 mm → planejar correção bilateral escalonada.
 
-### 5.10 Correção de Ptose — Müllerectomy (Fasanella-Servat)
+### Correção de Ptose — Müllerectomy (Fasanella-Servat)
 
 **Indicação:** ptose leve (MRD1 2–3 mm) com boa função do LPS (≥ 12 mm) e teste da fenilefrina 2,5% POSITIVO (elevação ≥ 1,5 mm confirma tônus simpático residual).
 
@@ -536,7 +628,7 @@ SEMPRE testar a Lei de Hering: ocluir olho ptótico por 2 min e observar contral
 
 O teste da fenilefrina é o seletor: elevação ≥ 1,5 mm indica candidato ideal. Técnica mais previsível para ptose leve simétrica. Fasanella-Servat inclui uma faixa de tarso superior além do Müller — mais agressivo. (Neligan, 2023, vol. 2, cap. 8; Grabb & Smith, 2024, cap. 35)
 
-### 5.11 Correção de Ptose — Suspensão Frontal (Frontalis Sling)
+### Correção de Ptose — Suspensão Frontal (Frontalis Sling)
 
 **Indicação:** ptose grave (MRD1 < 0 mm) com função LPS pobre (< 5 mm). Ptose congênita com LPS < 5 mm.
 
@@ -554,7 +646,7 @@ O teste da fenilefrina é o seletor: elevação ≥ 1,5 mm indica candidato idea
 
 Fáscia lata autóloga é o padrão-ouro em crianças (integra-se melhor, menor risco de extrusão). Material sintético aceitável em adultos quando se deseja evitar morbidade da doadora. Lagoftalmo noturno é esperado e deve ser manejado com lubrificante. (Neligan, 2023, vol. 2, cap. 8; Grabb & Smith, 2024, cap. 35)
 
-### 5.12 Cantotomia + Cantólise Lateral de Emergência
+### Cantotomia + Cantólise Lateral de Emergência
 
 **Indicação:** hematoma retrobulbar com proptose progressiva, dor retro-orbitária, perda visual, midríase fixa. EMERGÊNCIA — não esperar exames de imagem. Isquemia retiniana irreversível em 60–100 minutos.
 
@@ -576,98 +668,32 @@ Este procedimento deve ser dominado por todo cirurgião plástico que realiza bl
 
 [Imagem: cantotomia-lateral-emergencia.png]
 
----
+## Postoperative Care
 
-## 6. Decisões Clínicas
+- Compressas geladas intermitentes por 48 h (20 min on / 20 min off).
+- Elevação da cabeça a 30–45° para reduzir edema.
+- Lubrificante ocular (colírio e pomada) a cada 2–4 horas inicialmente.
+- Evitar atividades que aumentem pressão venosa (exercício, Valsalva, curvar-se) por 2 semanas.
+- Retirada de suturas cutâneas em 5–7 dias.
+- Edema grosseiro resolve em 2–4 semanas; resultado final em 3–6 meses.
+- Equimose esperada, dura 7–14 dias.
+- Fotoproteção rigorosa por 3–6 meses.
 
-### 6.1 Diagnóstico Diferencial da Pálpebra Pesada
+(Neligan, 2023, vol. 2, caps. 8–9; Operative Dictations, 2017, caps. 8–10)
 
-**Gatilho:** paciente queixa-se de "pálpebra pesada" ou aparência cansada/envelhecida do terço superior da face.
+## Outcomes and Complications
 
-**Algoritmo:**
+### Resultados Gerais
 
-**Passo 1 — Elevar manualmente as sobrancelhas à posição ideal. O excesso de pele desaparece?**
-- Sim — excesso desaparece com sobrancelha elevada → **PTOSE DE SOBRANCELHA** (pseudo-dermatocálase). Indicar brow lift, NÃO blefaroplastia isolada.
-- Não — excesso persiste mesmo com sobrancelha elevada → **Dermatocálase verdadeira**. Candidato a blefaroplastia superior.
-- Parcialmente — excesso diminui mas não desaparece → **Componente misto**: ptose de sobrancelha + dermatocálase. Considerar procedimento COMBINADO (brow lift + blefaroplastia).
+- Blefaroplastia superior para dermatocálase funcional demonstra melhora objetiva do campo visual superior em mais de 80% dos casos.
+- A satisfação estética excede 90% na maioria das séries publicadas.
+- O principal preditor de insatisfação é a presença de ptose não diagnosticada pré-operatoriamente e a persistência de ptose de sobrancelha não tratada.
+- A melhora funcional é mensurável por campimetria e sustentada em seguimento médio de 24 meses (Todorov et al., 2025 — ASJ 45:554).
+- Complicação mais frequente: olho seco transitório (18%).
 
-*Dica clínica:* com o paciente sentado e relaxado, elevar manualmente as sobrancelhas à posição ideal e reavaliar a pálpebra. Muitos pacientes necessitam procedimento combinado. (Neligan, 2023, vol. 2, cap. 8)
+(Neligan, 2023, vol. 2, cap. 8; Core Procedures, 2020, cap. 3; Todorov D et al. Aesthet Surg J 2025;45(6):554–562)
 
-**Passo 2 — Avaliar MRD1. Há ptose pálpebral?**
-- MRD1 ≥ 4 mm (normal) → sem ptose pálpebral. Dermatocálase e/ou ptose de sobrancelha conforme avaliação anterior.
-- MRD1 < 4 mm (ptose presente) → **PTOSE PALPEBRAL**. A correção é ptoseplastia (avanço/plicatura de aponeurose, Müllerectomy ou suspensão frontal conforme função do LPS).
-
-**Passo 3 — Há herniação de gordura isolada (bolsas) sem excesso de pele significativo?**
-- Sim — bolsas proeminentes com pele relativamente normal → ressecção ou reposicionamento de gordura via transconjuntival (sem incisão cutânea).
-- Não — excesso de pele é o componente principal → blefaroplastia com excisão de pele ± gordura.
-
-(Neligan, 2023, vol. 2, cap. 8; Grabb & Smith, 2024, cap. 35)
-
-### 6.2 Blefaroplastia Inferior: Transconjuntival vs. Transcutânea
-
-**Gatilho:** paciente com queixa de bolsas ou excesso de pele na pálpebra inferior avaliado para blefaroplastia inferior.
-
-**Passo 1 — Qual o problema principal?**
-- Bolsas de gordura com pouco/nenhum excesso de pele → Via transconjuntival ± pinch blepharoplasty para excesso de pele mínimo.
-- Excesso de pele significativo + bolsas de gordura → Via transcutânea (subciliar). Avaliar necessidade de cantopexia/cantoplastia.
-- Excesso de pele leve sem bolsas de gordura significativas → Pinch blepharoplasty isolada ou laser resurfacing periocular.
-
-**Passo 2 — Qual o status da laxidez horizontal (snap-back test, distraction test)?**
-- Snap-back imediato, distraction < 4 mm (normal) → Não requer cantopexia. Prosseguir com via escolhida.
-- Snap-back lento mas completo, distraction 4–6 mm (laxidez leve-moderada) → Associar **CANTOPEXIA** lateral ao procedimento escolhido.
-- Snap-back incompleto, distraction > 6 mm (laxidez grave) → Associar **CANTOPLASTIA** lateral (secção e reinserção do tendão cantal).
-
-**Passo 3 — Qual o vetor orbitário?**
-- Vetor positivo (rebordo anterior à córnea) → menor risco. Via transcutânea aceitável sem cantopexia adicional se laxidez normal.
-- Vetor neutro ou negativo (córnea anterior ou no mesmo plano que rebordo) → ALTO RISCO de ectrópio e scleral show. Preferir transconjuntival. Se transcutânea: cantopexia OBRIGATÓRIA.
-
-**Passo 4 — Há deformidade de tear trough?**
-- Sim — tear trough pronunciado → reposicionamento de gordura (fat transposition) ao arcus marginalis. Preferir sobre ressecção de gordura. Pode associar filler ou lipoenxertia.
-- Não — tear trough mínimo → ressecção conservadora de gordura aceitável. Evitar hollowing — ressecar o mínimo necessário.
-
-(Neligan, 2023, vol. 2, cap. 9; Grabb & Smith, 2024, cap. 35; Core Procedures, 2020, cap. 3; Chen J et al. PRS 2026;157:622)
-
-### 6.3 Avaliação do Vetor Orbitário
-
-**Gatilho:** avaliação pré-operatória de blefaroplastia inferior para determinar risco de ectrópio e scleral show.
-
-**Passo 1 — Em perfil: linha reta da córnea ao ponto mais proeminente da bochecha. Qual a relação?**
-- Rebordo infraorbitário anterior à córnea → **VETOR POSITIVO**: proteção natural. Menor risco de ectrópio. Via transcutânea aceitável com avaliação de laxidez adequada.
-- Córnea e rebordo alinhados → **VETOR NEUTRO**: risco intermediário. Preferir transconjuntival. Se transcutânea: considerar cantopexia profilática.
-- Córnea anterior ao rebordo → **VETOR NEGATIVO**: ALTO RISCO de ectrópio, scleral show e complicações. Preferir via transconjuntival. Se transcutânea: cantopexia/cantoplastia OBRIGATÓRIA.
-
-**Passo 2 — Canto lateral: qual a posição relativa ao canto medial?**
-- Canto lateral 2 mm acima do medial (normal) → posição normal. Risco basal de complicações.
-- Canto lateral no mesmo nível ou abaixo do medial → fator de risco adicional para ectrópio. Cantopexia profilática indicada durante blefaroplastia inferior.
-
-(Neligan, 2023, vol. 2, cap. 9; Grabb & Smith, 2024, cap. 35)
-
-### 6.4 Escolha de Técnica para Correção de Ptose
-
-**Gatilho:** paciente com ptose pálpebral (MRD1 < 4 mm) avaliado para correção cirúrgica.
-
-**Passo 1 — Qual a função do LPS (excursão do levator da infraversão à supraversão máxima, bloqueando frontal)?**
-- Boa (≥ 12 mm) → avaliar grau da ptose e teste de fenilefrina.
-- Moderada (5–11 mm) → ressecção extensa do LPS ou avanço amplo da aponeurose. Considerar Fasanella-Servat para ptose moderada.
-- Pobre (< 5 mm) → **Suspensão frontal** (frontalis sling) com fáscia lata autóloga ou material sintético.
-
-**Passo 2 — Se função LPS boa (≥ 12 mm): qual o grau da ptose e resultado do teste da fenilefrina 2,5%?**
-- Ptose leve (MRD1 2–3 mm) + fenilefrina positiva (elevação ≥ 1,5 mm) → **Müllerectomy** (ressecção conjuntivo-mülleriana) — abordagem posterior.
-- Ptose leve (MRD1 2–3 mm) + fenilefrina negativa → **Avanço ou plicatura da aponeurose do LPS** — abordagem anterior.
-- Ptose leve a moderada (MRD1 1–3 mm) → Avanço da aponeurose do LPS (via anterior). Ajuste intraoperatório com paciente sentado.
-
-**Passo 3 — A ptose é unilateral? Avaliar Lei de Hering.**
-- Unilateral: ocluir olho ptótico 2 min, MRD1 contralateral cai > 1 mm → ptose contralateral latente desmascarada → planejar correção BILATERAL escalonada.
-- Unilateral: MRD1 contralateral estável após oclusão → ptose unilateral verdadeira → correção unilateral com ajuste intraoperatório.
-- Bilateral → correção bilateral simultânea. Ajuste simétrico intraoperatório.
-
-(Neligan, 2023, vol. 2, cap. 8; Grabb & Smith, 2024, cap. 35; Li X et al. PRS 2026;157:38e)
-
----
-
-## 7. Complicações e Manejo
-
-### 7.1 Hematoma Retrobulbar — Emergência
+### Hematoma Retrobulbar — Emergência
 
 O hematoma retrobulbar é a complicação mais temida da blefaroplastia (incidência 0,04–0,05%). Geralmente ocorre nas primeiras 3–24 horas pós-operatórias, embora possa surgir intraoperatoriamente. Causas: sangramento arterial (artérias etmoidais ou ramos orbitários) ou venoso (veia oftálmica) com pressão compartmental intra-orbitária → isquemia do nervo óptico e retina. A pressão intra-orbitária crescente comprime a artéria central da retina — isquemia retiniana **IRREVERSÍVEL** em 60–100 minutos.
 
@@ -687,7 +713,7 @@ A cantólise lateral (secção do ramo inferior do tendão cantal lateral) permi
 
 [Imagem: cantotomia-lateral-emergencia.png]
 
-### 7.2 Complicações da Blefaroplastia — Visão Geral
+### Complicações da Blefaroplastia — Visão Geral
 
 | Complicação | Incidência | Causa | Manejo |
 |---|---|---|---|
@@ -705,21 +731,19 @@ A cantólise lateral (secção do ramo inferior do tendão cantal lateral) permi
 
 (Neligan, 2023, vol. 2, caps. 8–9; Grabb & Smith, 2024, cap. 35)
 
----
+## Secondary Procedures
 
-## 8. Procedimentos Complementares
-
-### 8.1 Resurfacing Periocular
+### Resurfacing Periocular
 
 O laser CO₂ ou Er:YAG pode ser aplicado na pele da pálpebra inferior como alternativa à excisão de pele. Melhora rugas finas e textura sem risco de retração por excisão. Frequentemente combinado com blefaroplastia transconjuntival (para gordura) + pinch excision (para excesso mínimo de pele) ou laser isolado.
 
 **CUIDADO:** resurfacing da pálpebra inferior combinado com blefaroplastia transcutânea aumenta o risco de retração cicatricial. (Neligan, 2023, vol. 2, cap. 9)
 
-### 8.2 Lipoenxertia Periocular
+### Lipoenxertia Periocular
 
 Restaura volume no tear trough, sulco palpebro-malar e região temporal. Técnica de microfat ou nanofat com cânula de 0,7–1,0 mm. Injeção profunda (suborbicular/supraperiosteal) para evitar irregularidades na pele fina da pálpebra. Volume conservador: 0,5–1,5 mL por lado no tear trough — risco de sobrecorreção em pele fina. Pode ser associada a blefaroplastia inferior (transconjuntival com reposicionamento de gordura + lipoenxertia para volume residual deficiente). (Grabb & Smith, 2024, cap. 35)
 
-### 8.3 Midfacelift via Blefaroplastia
+### Midfacelift via Blefaroplastia
 
 O midfacelift pode ser realizado via incisão de blefaroplastia para rejuvenescimento do terço médio da face.
 
@@ -731,68 +755,46 @@ O midfacelift pode ser realizado via incisão de blefaroplastia para rejuvenesci
 
 [Imagem: blef-13-40-midfacelift.png]
 
----
-
-## 9. Pós-operatório
-
-- Compressas geladas intermitentes por 48 h (20 min on / 20 min off).
-- Elevação da cabeça a 30–45° para reduzir edema.
-- Lubrificante ocular (colírio e pomada) a cada 2–4 horas inicialmente.
-- Evitar atividades que aumentem pressão venosa (exercício, Valsalva, curvar-se) por 2 semanas.
-- Retirada de suturas cutâneas em 5–7 dias.
-- Edema grosseiro resolve em 2–4 semanas; resultado final em 3–6 meses.
-- Equimose esperada, dura 7–14 dias.
-- Fotoproteção rigorosa por 3–6 meses.
-
-(Neligan, 2023, vol. 2, caps. 8–9; Operative Dictations, 2017, caps. 8–10)
-
----
-
-## 10. Resultados
-
-- Blefaroplastia superior para dermatocálase funcional demonstra melhora objetiva do campo visual superior em mais de 80% dos casos.
-- A satisfação estética excede 90% na maioria das séries publicadas.
-- O principal preditor de insatisfação é a presença de ptose não diagnosticada pré-operatoriamente e a persistência de ptose de sobrancelha não tratada.
-- A melhora funcional é mensurável por campimetria e sustentada em seguimento médio de 24 meses (Todorov et al., 2025 — ASJ 45:554).
-- Complicação mais frequente: olho seco transitório (18%).
-
-(Neligan, 2023, vol. 2, cap. 8; Core Procedures, 2020, cap. 3; Todorov D et al. Aesthet Surg J 2025;45(6):554–562)
-
----
-
-## 11. Atualizações de Artigos
+## Atualizações de Artigos
 
 ### Stein MJ et al. PRS 2025;155(5):895–901
 
-Revisão de 15 anos de dados de certificação do ABPS. Blefaroplastia superior aumentou 42% em volume. Blefaroplastia inferior transconjuntival superou a transcutânea em frequência. Cantopexia lateral passou a ser realizada em 68% das blefaroplastias inferiores, refletindo mudança de paradigma em relação ao manejo da laxidez horizontal.
-*Referenciado em: seção 5.1 (Blefaroplastia Superior Clássica), seção 5.5 (Cantopexia Lateral).*
+- **Resumo:** Revisão de 15 anos de dados de certificação do ABPS. Blefaroplastia superior aumentou 42% em volume. Blefaroplastia inferior transconjuntival superou a transcutânea em frequência. Cantopexia lateral passou a ser realizada em 68% das blefaroplastias inferiores, refletindo mudança de paradigma em relação ao manejo da laxidez horizontal.
+- **Impacto no RAG:** dados epidemiológicos e tendências de prática.
+- **Cross-reference:** Treatment / Blefaroplastia Superior (Clássica), Treatment / Cantopexia Lateral.
 
 ### Park NS et al. PRS 2025;156(2):189e–193e
 
-Técnica de alongamento precoce da aponeurose do LPS com AlloDerm para correção de retração pálpebral após blefaroplastia cosmética. Série de 12 pacientes: MRD1 melhorou de 5,8 mm para 4,1 mm em 6 meses. Indicação: retração detectada no PO imediato ou primeiras semanas (intervenção precoce tem melhor resultado).
-*Referenciado em: seção 5.1 (Blefaroplastia Superior Clássica).*
+- **Resumo:** Técnica de alongamento precoce da aponeurose do LPS com AlloDerm para correção de retração pálpebral após blefaroplastia cosmética. Série de 12 pacientes: MRD1 melhorou de 5,8 mm para 4,1 mm em 6 meses. Indicação: retração detectada no PO imediato ou primeiras semanas (intervenção precoce tem melhor resultado).
+- **Impacto no RAG:** nova técnica para manejo de complicação específica.
+- **Cross-reference:** Treatment / Blefaroplastia Superior (Clássica).
 
 ### Nomoto S, Ogawa R. PRS 2026;157(4):486e–495e
 
-Incisão na fáscia capsulopálpebral no nível subtarsal (vs. nível septal tradicional) na via transcutânea. Série de 74 casos: ZERO ectrópio em 18 meses de seguimento. Mecanismo: preservação da tensão do septo e da fáscia capsulopálpebral reduz a tração vertical sobre a pálpebra. Pode reduzir a necessidade de cantopexia concomitante em pacientes selecionados.
-*Referenciado em: seção 2.9 (Fáscia Capsulopálpebral), seção 5.4 (Blefaroplastia Inferior — Via Transcutânea).*
+- **Resumo:** Incisão na fáscia capsulopálpebral no nível subtarsal (vs. nível septal tradicional) na via transcutânea. Série de 74 casos: ZERO ectrópio em 18 meses de seguimento. Mecanismo: preservação da tensão do septo e da fáscia capsulopálpebral reduz a tração vertical sobre a pálpebra. Pode reduzir a necessidade de cantopexia concomitante em pacientes selecionados.
+- **Impacto no RAG:** novo paradigma para blefaroplastia inferior livre de ectrópio.
+- **Cross-reference:** Basic Science / Anatomy / Fáscia Capsulopálpebral, Treatment / Blefaroplastia Inferior — Via Transcutânea.
 
 ### Chen J et al. PRS 2026;157(4):622–631
 
-**MUDANÇA DE PARADIGMA:** reposicionamento de gordura com excisão profunda (deep fat) é superior à ressecção isolada na blefaroplastia inferior transcutânea. Melhor contorno do sulco nasojugal e menor risco de hollowing tardio. Recomendação atual: preferir reposicionamento (transpor gordura para o tear trough). Ressecção somente quando o volume é genuinamente excessivo e o tear trough é mínimo.
-*Referenciado em: seção 5.3 (Via Transconjuntival), seção 6.2 (Decisão: Transconjuntival vs. Transcutânea).*
+- **Resumo:** **MUDANÇA DE PARADIGMA:** reposicionamento de gordura com excisão profunda (deep fat) é superior à ressecção isolada na blefaroplastia inferior transcutânea. Melhor contorno do sulco nasojugal e menor risco de hollowing tardio. Recomendação atual: preferir reposicionamento (transpor gordura para o tear trough). Ressecção somente quando o volume é genuinamente excessivo e o tear trough é mínimo.
+- **Impacto no RAG:** mudança de paradigma no manejo de gordura inferior.
+- **Cross-reference:** Treatment / Blefaroplastia Inferior — Via Transconjuntival, Patient Selection / Blefaroplastia Inferior: Transconjuntival vs. Transcutânea.
 
 ### Yu AY et al. PRS 2025;156(1):29–40
 
-Técnica conservadora para dupla pálpebra baseada em estudos anatômicos in vivo. Altura da prega individualizável por análise direta da pretarsal fullness intraoperatória. Série de 180 pacientes: 97% satisfeitos; 3,3% revisão por assimetria. O conceito-chave: a altura ideal da prega não é uma medida fixa, mas sim ajustada conforme a espessura do tecido pré-tarsal de cada paciente.
-*Referenciado em: seção 5.8 (Double Eyelid Surgery).*
+- **Resumo:** Técnica conservadora para dupla pálpebra baseada em estudos anatômicos in vivo. Altura da prega individualizável por análise direta da pretarsal fullness intraoperatória. Série de 180 pacientes: 97% satisfeitos; 3,3% revisão por assimetria. O conceito-chave: a altura ideal da prega não é uma medida fixa, mas sim ajustada conforme a espessura do tecido pré-tarsal de cada paciente.
+- **Impacto no RAG:** individualização da altura da prega em double eyelid surgery.
+- **Cross-reference:** Treatment / Double Eyelid Surgery.
 
 ### Li X et al. PRS 2026;157(1):38e–48e
 
-Análise de 68 pacientes com ptose leve unilateral. Estratégia de correção graduada com avaliação pré-operatória da Lei de Hering reduz a incidência de ptose contralateral desmascarada de 22% para 7%. Protocolo: ocluir o olho ptótico por 2 min, medir MRD1 contralateral. Se queda > 1 mm → planejar correção bilateral escalonada.
-*Referenciado em: seção 5.9 (Correção de Ptose — Avanço/Plicatura), seção 6.4 (Decisão: Escolha de Técnica para Ptose).*
+- **Resumo:** Análise de 68 pacientes com ptose leve unilateral. Estratégia de correção graduada com avaliação pré-operatória da Lei de Hering reduz a incidência de ptose contralateral desmascarada de 22% para 7%. Protocolo: ocluir o olho ptótico por 2 min, medir MRD1 contralateral. Se queda > 1 mm → planejar correção bilateral escalonada.
+- **Impacto no RAG:** protocolo para redução de ptose contralateral desmascarada.
+- **Cross-reference:** Treatment / Correção de Ptose — Avanço/Plicatura, Patient Selection / Escolha de Técnica para Correção de Ptose.
 
 ### Todorov D et al. ASJ 2025;45(6):554–562
 
-Revisão sistemática e meta-análise de 12 ECRs (n = 1.847). Blefaroplastia superior melhora campo visual em 84% dos casos com dermatocálase funcional. Satisfação estética: 91%. Complicação mais frequente: olho seco transitório (18%). A melhora funcional é mensurável por campimetria e sustentada em seguimento médio de 24 meses.
-*Referenciado em: seção 5.1 (Blefaroplastia Superior Clássica), seção 10 (Resultados).*
+- **Resumo:** Revisão sistemática e meta-análise de 12 ECRs (n = 1.847). Blefaroplastia superior melhora campo visual em 84% dos casos com dermatocálase funcional. Satisfação estética: 91%. Complicação mais frequente: olho seco transitório (18%). A melhora funcional é mensurável por campimetria e sustentada em seguimento médio de 24 meses.
+- **Impacto no RAG:** evidência de alto nível sobre eficácia funcional e estética.
+- **Cross-reference:** Treatment / Blefaroplastia Superior (Clássica), Outcomes and Complications / Resultados Gerais.

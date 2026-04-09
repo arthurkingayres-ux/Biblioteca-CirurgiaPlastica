@@ -1,22 +1,24 @@
 // app.js — Briefing Pré-Op application logic
 const App = (() => {
-  const CARD_MANIFEST = [
-    { area: 'estetica-facial', topic: 'blefaroplastia' },
-    { area: 'estetica-facial', topic: 'rinoplastia' },
-    { area: 'estetica-facial', topic: 'ritidoplastia' },
-    { area: 'estetica-facial', topic: 'otoplastia' },
-    { area: 'contorno-corporal', topic: 'abdominoplastia' }
-  ];
-
   const CARD_TYPES = ['anatomia', 'tecnicas', 'decisoes', 'notas', 'flashcards'];
   const CARDS_BASE = '../../content/cards/';
+  const MANIFEST_URL = CARDS_BASE + 'manifest.json';
 
   let _allCards = [];
+  let _manifest = [];
 
   // --- Data Loading ---
   async function loadAllCards() {
     _allCards = [];
-    for (const { area, topic } of CARD_MANIFEST) {
+    try {
+      const resp = await fetch(MANIFEST_URL);
+      if (resp.ok) _manifest = await resp.json();
+    } catch (e) {
+      console.warn('Failed to load manifest.json, using empty manifest:', e.message);
+      _manifest = [];
+    }
+
+    for (const { area, topic } of _manifest) {
       for (const type of CARD_TYPES) {
         try {
           const url = `${CARDS_BASE}${area}/${topic}/${type}.json`;
@@ -31,7 +33,7 @@ const App = (() => {
       }
     }
     SearchEngine.buildIndex(_allCards);
-    console.log(`Loaded ${_allCards.length} cards from ${CARD_MANIFEST.length} topics`);
+    console.log(`Loaded ${_allCards.length} cards from ${_manifest.length} topics`);
   }
 
   // --- Navigation ---

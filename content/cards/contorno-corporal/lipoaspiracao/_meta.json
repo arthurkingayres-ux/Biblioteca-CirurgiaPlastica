@@ -1,0 +1,41 @@
+{
+  "topic": "lipoaspiracao",
+  "area": "contorno-corporal",
+  "displayName": "Lipoaspiracao",
+  "version": "v1.0",
+  "date": "2026-04-09",
+  "status": "draft",
+  "references": [
+    "Rohrich RJ. Liposuction. In: Neligan PC, editor. Plastic Surgery. 5th ed. Philadelphia: Elsevier; 2023. Cap. 24.",
+    "Rohrich RJ, Beran SJ. Liposuction. In: Chung KC, editor. Grabb & Smith's Plastic Surgery. 8th ed. Philadelphia: Wolters Kluwer; 2020.",
+    "Coleman SR. Structural fat grafting: more than a permanent filler. Plast Reconstr Surg. 2006;118(3S):108S-120S."
+  ],
+  "articles": [
+    "Klein JA. Tumescent technique for regional anesthesia permits lidocaine doses of 35 mg/kg for liposuction. J Dermatol Surg Oncol. 1990;16(3):248-263.",
+    "Klein JA. The tumescent technique. Anesthesia and modified liposuction technique. Dermatol Clin. 1990;8(3):425-437.",
+    "Illouz YG. Body contouring by lipolysis: a 5-year experience with over 3000 cases. Plast Reconstr Surg. 1983;72(5):591-597.",
+    "Rohrich RJ, Broughton G, Rohrich RA, et al. The key to long-term success in liposuction: a guide for plastic surgeons and patients. Plast Reconstr Surg. 2004;114(7):1945-1952.",
+    "Grazer FM, de Jong RH. Fatal outcomes from liposuction: census survey of cosmetic surgeons. Plast Reconstr Surg. 2000;105(1):436-446.",
+    "Rao RB, Ely SF, Hoffman RS. Deaths related to liposuction. N Engl J Med. 1999;340(19):1471-1475.",
+    "Kenkel JM, Lipschitz AH, Luby M, et al. Hemodynamic physiology and thermoregulation in liposuction. Plast Reconstr Surg. 2004;114(2):503-513.",
+    "Ostad A, Kageyama N, Moy RL. Tumescent anesthesia with a lidocaine dose of 55 mg/kg is safe for liposuction. Dermatol Surg. 1996;22(11):921-927.",
+    "Hoyos AE, Millard JA. VASER-assisted high-definition liposculpture. Aesthet Surg J. 2007;27(6):594-604.",
+    "Nagy MW, Vanek PF. A multicenter, prospective, randomized, single-blind, controlled clinical trial comparing VASER-assisted lipoplasty and suction-assisted lipoplasty. Plast Reconstr Surg. 2012;129(4):681e-689e.",
+    "Tonnard P, Verpaele A, Peeters G, et al. Nanofat grafting: basic research and clinical applications. Plast Reconstr Surg. 2013;132(4):1017-1026.",
+    "Gentile P, Sterodimas A, Pizzicannella J, et al. Systematic review: allogenic use of stromal vascular fraction and enriched fat grafts. Stem Cells Transl Med. 2019;8(10):1145-1158.",
+    "Hurwitz D, Smith D. Treatment of overweight patients by radiofrequency-assisted liposuction (RFAL) for aesthetic reshaping and skin tightening. Aesthet Surg J. 2012;32(8):1039-1048.",
+    "Paul M, Mulholland RS. A new approach for adipose tissue treatment and body contouring using radiofrequency-assisted liposuction. Aesthet Surg J. 2009;29(4):302-309.",
+    "Weinberg GL, VadeBoncouer T, Bhalla BA, et al. Lipid emulsion infusion rescues dogs from bupivacaine-induced cardiac toxicity. Reg Anesth Pain Med. 2003;28(3):198-202.",
+    "Wollina U. Laser lipolysis — an update. J Cosmet Dermatol. 2020;19(6):1386-1390.",
+    "Stewart JH, Cole GW, Klein JA. Neutralized lidocaine with epinephrine for local anesthesia. Dermatol Surg. 1999.",
+    "Mordon S, Plot E. Laser lipolysis versus traditional liposuction for fat removal. Aesthet Surg J. 2009.",
+    "ISAPS International Survey on Aesthetic/Cosmetic Procedures Performed in 2022. ISAPS, 2023."
+  ],
+  "cardCounts": {
+    "anatomia": 2,
+    "tecnicas": 7,
+    "decisoes": 0,
+    "notas": 17,
+    "flashcards": 20
+  }
+}

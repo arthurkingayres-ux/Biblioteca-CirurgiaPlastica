@@ -1,0 +1,38 @@
+[
+  {
+    "area": "contorno-corporal",
+    "topic": "abdominoplastia",
+    "displayName": "Abdominoplastia",
+    "status": "complete"
+  },
+  {
+    "area": "estetica-facial",
+    "topic": "blefaroplastia",
+    "displayName": "Blefaroplastia",
+    "status": "complete"
+  },
+  {
+    "area": "contorno-corporal",
+    "topic": "lipoaspiracao",
+    "displayName": "Lipoaspiracao",
+    "status": "draft"
+  },
+  {
+    "area": "estetica-facial",
+    "topic": "otoplastia",
+    "displayName": "Otoplastia",
+    "status": "draft"
+  },
+  {
+    "area": "estetica-facial",
+    "topic": "rinoplastia",
+    "displayName": "Rinoplastia",
+    "status": "complete"
+  },
+  {
+    "area": "estetica-facial",
+    "topic": "ritidoplastia",
+    "displayName": "Ritidoplastia (Facelift)",
+    "status": "complete"
+  }
+]

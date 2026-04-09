@@ -1,0 +1,462 @@
+[
+  {
+    "id": "lipo-nota-001",
+    "type": "note",
+    "title": "Queixa Principal",
+    "topic": "lipoaspiracao",
+    "area": "contorno-corporal",
+    "section": "diagnostico",
+    "content": [
+      "Pacientes tipicamente apresentam-se com insatisfação com depósitos localizados de gordura que não respondem a dieta e exercício físico.",
+      "As áreas mais frequentemente queixadas incluem abdome, flancos (pneuzinhos), coxas laterais (culote), região submentoniana (papada) e braços."
+    ],
+    "images": [],
+    "citations": [
+      "Documento RAG — lipoaspiracao"
+    ],
+    "updates": [],
+    "tags": [
+      "diagnostico",
+      "queixa-principal",
+      "depositos-gordura",
+      "lipoaspiração",
+      "contorno-corporal"
+    ]
+  },
+  {
+    "id": "lipo-nota-002",
+    "type": "note",
+    "title": "Introdução",
+    "topic": "lipoaspiracao",
+    "area": "contorno-corporal",
+    "section": "introducao",
+    "content": [
+      "A lipoaspiração é o procedimento estético cirúrgico mais realizado no mundo, consistindo na remoção de depósitos de gordura subcutânea por meio de cânulas conectadas a sistema de vácuo. Desde sua introdução, revolucionou o conceito de contorno corporal e permanece como pilar fundamental da cirurgia plástica.",
+      "A história moderna da lipoaspiração inicia com Fischer (1974), que desenvolveu o primeiro instrumento para aspiração de gordura. Illouz (1977) sistematizou a técnica e introduziu a técnica wet com infiltração de solução salina, popularizando o procedimento mundialmente. Klein (1987) descreveu a técnica tumescente com grandes volumes de solução anestésica diluída, considerado um marco na segurança do procedimento.",
+      "Subsequentemente, surgiram diversas tecnologias assistidas: ultrassom (UAL - Ultrasound-Assisted Liposuction - 1992), vibração mecânica (PAL - Power-Assisted Liposuction), laser (LAL - Laser-Assisted Lipolysis - 2006), radiofrequência (RFAL - Radiofrequency-Assisted Lipolysis) e jato de água (WAL - Water-Assisted Liposuction). Cada tecnologia apresenta vantagens teóricas na emulsificação da gordura e retração cutânea."
+    ],
+    "images": [],
+    "citations": [
+      "Rohrich, Neligan's Plastic Surgery, 5a Ed., 2023, Cap. 24",
+      "Fischer, 1974",
+      "Illouz, 1977",
+      "Klein, 1987",
+      "Klein, J Am Acad Dermatol, 1990",
+      "Illouz, Clinics in Plastic Surgery, 1996",
+      "Zocchi, 1992",
+      "Rohrich & Beran, Grabb & Smith, 8a Ed., 2020"
+    ],
+    "updates": [],
+    "tags": [
+      "introducao",
+      "lipoaspiracao",
+      "contorno-corporal",
+      "historia",
+      "tecnicas-assistidas",
+      "cirurgia-plastica"
+    ]
+  },
+  {
+    "id": "lipo-nota-004",
+    "type": "note",
+    "title": "Exame Físico Dirigido",
+    "topic": "lipoaspiracao",
+    "area": "contorno-corporal",
+    "section": "diagnostico",
+    "content": [
+      "Avaliação da distribuição adiposa com paciente em posição ortostática.",
+      "Pinch test para estimar espessura do panículo adiposo.",
+      "Avaliação da elasticidade cutânea através de teste de retração — prega cutânea que retorna rapidamente indica boa elasticidade.",
+      "Presença de estrias, flacidez e assimetrias pré-existentes.",
+      "Pesquisa de hérnias abdominais e diástase de reto, fundamentais para definir se lipoaspiração isolada é indicada ou se abdominoplastia é necessária.",
+      "IMC (Índice de Massa Corporal) e peso corporal estável por mais de 6 meses."
+    ],
+    "images": [],
+    "citations": [
+      "Documento RAG — lipoaspiracao"
+    ],
+    "updates": [],
+    "tags": [
+      "diagnostico",
+      "exame-fisico",
+      "lipoaspiracao",
+      "contorno-corporal",
+      "avaliacao-adiposa",
+      "elasticidade-cutanea",
+      "imc"
+    ]
+  },
+  {
+    "id": "lipo-nota-005",
+    "type": "note",
+    "title": "Classificações",
+    "topic": "lipoaspiracao",
+    "area": "contorno-corporal",
+    "section": "diagnóstico",
+    "content": [
+      "A avaliação pré-operatória deve incluir a classificação do grau de deformidade por região, considerando volume de gordura, qualidade da pele e expectativa do paciente.",
+      "Não há classificação universalmente adotada para lipoaspiração isolada, mas sistemas como o de Matarasso (para abdome) auxiliam na definição da abordagem (lipoaspiração isolada vs. miniabdominoplastia vs. abdominoplastia completa)."
+    ],
+    "images": [],
+    "citations": [
+      "Rohrich, Neligan, 5a Ed., 2023"
+    ],
+    "updates": [],
+    "tags": [
+      "diagnostico",
+      "classificacao",
+      "lipoaspiracao",
+      "avaliacao-preoperatoria",
+      "matarasso",
+      "contorno-corporal"
+    ]
+  },
+  {
+    "id": "lipo-nota-006",
+    "type": "note",
+    "title": "Patient Selection",
+    "topic": "lipoaspiracao",
+    "area": "contorno-corporal",
+    "section": "selecao",
+    "content": [
+      "Indicações: Depósitos localizados de gordura resistentes a dieta e exercício. IMC < 30 kg/m² (paciente ideal). IMC 30-35 kg/m² com depósitos localizados com benefício quando expectativas são ajustadas. Boa elasticidade cutânea com teste de retração positivo. Peso estável por mais de 6 meses. Expectativas realistas do paciente.",
+      "Contraindicações absolutas: coagulopatia não corrigida, infecção ativa na área a ser tratada, instabilidade hemodinâmica.",
+      "Contraindicações relativas: IMC > 35 (priorizar perda ponderal antes do procedimento), flacidez cutânea significativa (considerar procedimentos excisionais associados), doença cardiovascular descompensada, uso de anticoagulantes sem possibilidade de suspensão.",
+      "Avaliação pré-operatória: Exames laboratoriais incluindo hemograma completo, coagulograma, glicemia, função renal e hepática. Avaliação cardiológica conforme risco e faixa etária. Documentação fotográfica padronizada em vistas frente, perfil, oblíqua e posterior. Marcação pré-operatória com paciente em pé, identificando áreas de aspiração e zonas de transição."
+    ],
+    "images": [],
+    "citations": [
+      "Rohrich, Neligan, 5a Ed., 2023"
+    ],
+    "updates": [],
+    "tags": [
+      "selecao",
+      "indicacoes",
+      "contraindicacoes",
+      "avaliacao-preoperatoria",
+      "imc",
+      "elasticidade-cutanea"
+    ]
+  },
+  {
+    "id": "lipo-nota-007",
+    "type": "note",
+    "title": "Cuidados Imediatos e Compressão",
+    "topic": "lipoaspiracao",
+    "area": "contorno-corporal",
+    "section": "pós-operatório",
+    "content": [
+      "Cinta compressiva modeladora contínua por 4-6 semanas, retirar apenas para higiene.",
+      "Deambulação precoce a partir de 6 horas pós-operatório para profilaxia de tromboembolismo venoso (TEV).",
+      "Proteção solar nos orifícios de cânula por 6 meses para prevenção de hiperpigmentação."
+    ],
+    "images": [],
+    "citations": [
+      "Documento RAG — lipoaspiracao"
+    ],
+    "updates": [],
+    "tags": [
+      "pos-operatorio",
+      "compressao",
+      "cinta-compressiva",
+      "deambulacao-precoce",
+      "tev-profilaxia",
+      "protecao-solar",
+      "hiperpigmentacao"
+    ]
+  },
+  {
+    "id": "lipo-nota-008",
+    "type": "note",
+    "title": "Drenagem Linfática Manual (DLM)",
+    "topic": "lipoaspiracao",
+    "area": "contorno-corporal",
+    "section": "pós-operatório",
+    "content": [
+      "Início do tratamento: 7-15 dias pós-operatório",
+      "Evidência científica fraca, porém amplamente utilizada no Brasil",
+      "Objetivo teórico: acelerar resolução do edema e equimose"
+    ],
+    "images": [],
+    "citations": [
+      "Documento RAG — lipoaspiracao"
+    ],
+    "updates": [],
+    "tags": [
+      "pos-operatorio",
+      "drenagem-linfatica-manual",
+      "dlm",
+      "edema",
+      "equimose"
+    ]
+  },
+  {
+    "id": "lipo-nota-009",
+    "type": "note",
+    "title": "Retorno às Atividades",
+    "topic": "lipoaspiracao",
+    "area": "contorno-corporal",
+    "section": "pós-operatório",
+    "content": [
+      "Trabalho sedentário: liberado entre 3-7 dias de pós-operatório.",
+      "Trabalho físico: retorno recomendado entre 2-3 semanas.",
+      "Atividade física gradual: pode ser iniciada a partir de 3-4 semanas.",
+      "Resultado final esperado: 3-6 meses, período necessário para resolução completa do edema residual.",
+      "O edema pode persistir de forma assimétrica durante o período de recuperação. Orientar e tranquilizar o paciente quanto a esta possibilidade."
+    ],
+    "images": [],
+    "citations": [
+      "Rohrich, Neligan, 5a Ed., 2023",
+      "Matarasso, Grabb & Smith, 8a Ed., 2020"
+    ],
+    "updates": [],
+    "tags": [
+      "pos-operatorio",
+      "retorno-atividades",
+      "lipoaspiracao",
+      "edema",
+      "recuperacao"
+    ]
+  },
+  {
+    "id": "lipo-nota-010",
+    "type": "note",
+    "title": "Irregularidades de Contorno",
+    "topic": "lipoaspiracao",
+    "area": "contorno-corporal",
+    "section": "complicacoes",
+    "content": [
+      "Irregularidades de contorno constituem a complicação menor mais frequente após lipoaspiração.",
+      "A prevenção deve incluir técnica adequada de cross-tunneling, evitar aspiração excessiva na camada superficial e realizar avaliação frequente intraoperatória por palpação.",
+      "O diagnóstico é estabelecido quando a irregularidade torna-se visível e palpável após resolução do edema, geralmente entre 3-6 meses no período pós-operatório.",
+      "O manejo inclui lipoenxertia para correção de depressões e lipoaspiração corretiva para tratamento de excessos residuais."
+    ],
+    "images": [],
+    "citations": [
+      "Rohrich, Neligan, 5a Ed., 2023"
+    ],
+    "updates": [],
+    "tags": [
+      "complicacoes",
+      "irregularidades-contorno",
+      "prevencao",
+      "manejo-complicacoes",
+      "contorno-corporal"
+    ]
+  },
+  {
+    "id": "lipo-nota-011",
+    "type": "note",
+    "title": "Embolia Gordurosa",
+    "topic": "lipoaspiracao",
+    "area": "contorno-corporal",
+    "section": "complicacoes",
+    "content": [
+      "Incidência rara de 0,02-0,1%, com potencial fatal.",
+      "Prevenção através de: evitar grandes volumes, limitar número de áreas tratadas simultaneamente, utilizar cânulas de calibre adequado e manter profundidade controlada.",
+      "Diagnóstico baseado em tríade clássica: dispneia, confusão mental e petéquias axilares, apresentando-se entre 24-72 horas após o pós-operatório.",
+      "Manejo em Unidade de Terapia Intensiva (UTI) com medidas de suporte hemodinâmico e respiratório.",
+      "Fatores de risco: grandes volumes lipoaspirados, tratamento simultâneo de múltiplas áreas, utilização de cânulas grandes com penetração profunda."
+    ],
+    "images": [],
+    "citations": [
+      "Grazer & de Jong, PRS, 2000"
+    ],
+    "updates": [],
+    "tags": [
+      "complicacoes",
+      "embolia-gordurosa",
+      "lipoaspiracao",
+      "contorno-corporal",
+      "uti",
+      "prevencao",
+      "diagnostico"
+    ]
+  },
+  {
+    "id": "lipo-nota-012",
+    "type": "note",
+    "title": "Perfuração Visceral",
+    "topic": "lipoaspiracao",
+    "area": "contorno-corporal",
+    "section": "complicacoes",
+    "content": [
+      "A perfuração visceral é uma complicação extremamente rara da lipoaspiração, com incidência muito baixa, porém apresenta mortalidade elevada de 30-50%.",
+      "A prevenção desta complicação deve ser realizada através da utilização de técnica adequada, cânulas de ponta romba, conhecimento anatômico detalhado e cuidado redobrado em áreas de cicatriz de laparotomia e hérnias.",
+      "O diagnóstico clínico inclui dor abdominal progressiva, sinais de peritonite e instabilidade hemodinâmica. A complicação é mais comum no abdome, particularmente com perfuração do intestino delgado.",
+      "O manejo desta complicação requer laparotomia exploradora de emergência."
+    ],
+    "images": [],
+    "citations": [
+      "Rao et al., PRS, 1999"
+    ],
+    "updates": [],
+    "tags": [
+      "complicacoes",
+      "perfuracao-visceral",
+      "peritonite",
+      "laparotomia-emergencia",
+      "risco-mortalidade"
+    ]
+  },
+  {
+    "id": "lipo-nota-013",
+    "type": "note",
+    "title": "Toxicidade por Lidocaína",
+    "topic": "lipoaspiracao",
+    "area": "contorno-corporal",
+    "section": "complicacoes",
+    "content": [
+      "Incidência: Rara com dosagem adequada",
+      "Prevenção: Respeitar dose máxima tumescente de 35-55 mg/kg; monitorar sinais clínicos até 14 horas pós-infiltração com pico plasmático em 12-14 horas",
+      "Diagnóstico: Sintomas iniciais incluem zumbido, parestesia perioral e gosto metálico, com progressão para convulsões e arritmias cardíacas",
+      "Manejo: Administrar Intralipid IV 20% (1,5 mL/kg em bolus), suporte de via aérea e controle de convulsões com benzodiazepínicos"
+    ],
+    "images": [],
+    "citations": [
+      "Klein, Dermatol Clin, 1990",
+      "ASRA Guidelines, 2020"
+    ],
+    "updates": [],
+    "tags": [
+      "complicacoes",
+      "toxicidade-lidocaina",
+      "anestesia-local",
+      "manejo-emergencia",
+      "lipoaspiracao"
+    ]
+  },
+  {
+    "id": "lipo-nota-014",
+    "type": "note",
+    "title": "Tromboembolismo Venoso (TEV)",
+    "topic": "lipoaspiracao",
+    "area": "contorno-corporal",
+    "section": "complicacoes",
+    "content": [
+      "Incidência: Rara, porém é a principal causa de mortalidade relacionada à lipoaspiração (23% dos óbitos)",
+      "Prevenção: Deambulação precoce, compressão pneumática intermitente intraoperatória, profilaxia farmacológica conforme risco",
+      "Diagnóstico: Dor em panturrilha (TVP — Trombose Venosa Profunda), dispneia súbita, dor torácica pleurítica, taquicardia (TEP — Tromboembolismo Pulmonar)",
+      "Manejo: Anticoagulação; suporte hemodinâmico; trombólise em casos de TEP maciço"
+    ],
+    "images": [],
+    "citations": [
+      "Grazer & de Jong, PRS, 2000",
+      "Rao et al., PRS, 1999"
+    ],
+    "updates": [],
+    "tags": [
+      "complicacoes",
+      "tromboembolismo-venoso",
+      "tev",
+      "tvp",
+      "tep",
+      "mortalidade",
+      "prevencao",
+      "anticoagulacao"
+    ]
+  },
+  {
+    "id": "lipo-nota-015",
+    "type": "note",
+    "title": "Mortalidade",
+    "topic": "lipoaspiracao",
+    "area": "contorno-corporal",
+    "section": "complicacoes",
+    "content": [
+      "Incidência de mortalidade em lipoaspiração: 1:50.000 a 1:100.000 procedimentos (0,001-0,002%).",
+      "Prevenção: respeito aos limites de volume, seleção adequada de pacientes, realização em ambiente hospitalar para grandes volumes e evitar procedimentos combinados extensos.",
+      "Principais causas de óbito: tromboembolismo pulmonar (23%), anestesia/sedação (10%), perfuração visceral (10%) e embolia gordurosa.",
+      "A mortalidade é significativamente maior em procedimentos combinados e lipoaspiração de grandes volumes. A prevenção é a principal estratégia de manejo."
+    ],
+    "images": [],
+    "citations": [
+      "Grazer & de Jong, PRS, 2000",
+      "Rao et al., PRS, 1999"
+    ],
+    "updates": [],
+    "tags": [
+      "mortalidade",
+      "complicacoes",
+      "tromboembolismo",
+      "embolia-gordurosa",
+      "anestesia",
+      "perfuracao-visceral",
+      "prevencao"
+    ]
+  },
+  {
+    "id": "lipo-nota-016",
+    "type": "note",
+    "title": "Lipoaspiração Corretiva",
+    "topic": "lipoaspiracao",
+    "area": "contorno-corporal",
+    "section": "revisao",
+    "content": [
+      "Irregularidades de contorno ou assimetrias residuais podem ser corrigidas com lipoaspiração secundária, geralmente com cânulas mais finas (2-3 mm) e volumes menores.",
+      "Recomenda-se aguardar pelo menos 6 meses após o procedimento primário para permitir resolução completa do edema e estabilização do resultado."
+    ],
+    "images": [],
+    "citations": [
+      "Rohrich, Neligan, 5a Ed., 2023"
+    ],
+    "updates": [],
+    "tags": [
+      "revisao",
+      "lipoaspiracao-corretiva",
+      "lipoaspiracao-secundaria",
+      "canulas-finas",
+      "assimetrias-residuais",
+      "irregularidades-contorno"
+    ]
+  },
+  {
+    "id": "lipo-nota-017",
+    "type": "note",
+    "title": "Lipoenxertia Corretiva",
+    "topic": "lipoaspiracao",
+    "area": "contorno-corporal",
+    "section": "revisao",
+    "content": [
+      "Depressões e irregularidades côncavas podem ser tratadas com lipoenxertia secundária, utilizando microcânulas e pequenas alíquotas."
+    ],
+    "images": [],
+    "citations": [
+      "Coleman, PRS, 2006"
+    ],
+    "updates": [],
+    "tags": [
+      "revisao",
+      "lipoenxertia-corretiva",
+      "irregularidades-concavas",
+      "microcânulas"
+    ]
+  },
+  {
+    "id": "lipo-nota-018",
+    "type": "note",
+    "title": "Procedimentos Excisionais Complementares",
+    "topic": "lipoaspiracao",
+    "area": "contorno-corporal",
+    "section": "revisao",
+    "content": [
+      "Em pacientes com flacidez cutânea residual após lipoaspiração, procedimentos excisionais podem ser necessários: abdominoplastia, braquioplastia, lifting de coxa ou ritidoplastia cervical.",
+      "O timing ideal para realização de procedimentos excisionais complementares é 6-12 meses após a lipoaspiração primária."
+    ],
+    "images": [],
+    "citations": [
+      "Rohrich, Neligan, 5a Ed., 2023"
+    ],
+    "updates": [],
+    "tags": [
+      "revisao",
+      "procedimentos-excisionais",
+      "abdominoplastia",
+      "braquioplastia",
+      "lifting-coxa",
+      "ritidoplastia-cervical",
+      "flacidez-cutanea",
+      "timing-cirurgico"
+    ]
+  }
+]
