@@ -722,7 +722,8 @@ async function processTopic(client, validators, topic, area, dryRun) {
 
 function extractReferences(markdown) {
   const refs = [];
-  const refSection = markdown.match(/## Referências Primárias\n([\s\S]*?)(?=\n## )/);
+  // Accept both accented and non-accented headers ("Referências Primárias" or "Referencias Primarias")
+  const refSection = markdown.match(/## Refer[eê]ncias Prim[aá]rias\n([\s\S]*?)(?=\n## |\n---)/);
   if (refSection) {
     for (const line of refSection[1].split('\n')) {
       const m = line.match(/^- (.+)/);
@@ -734,7 +735,7 @@ function extractReferences(markdown) {
 
 function extractArticles(markdown) {
   const arts = [];
-  const artSection = markdown.match(/## Referências Secundárias \(Artigos\)\n([\s\S]*?)(?=\n---|\n## )/);
+  const artSection = markdown.match(/## Refer[eê]ncias Secund[aá]rias \(Artigos\)\n([\s\S]*?)(?=\n---|\n## )/);
   if (artSection) {
     for (const line of artSection[1].split('\n')) {
       const m = line.match(/^- (.+)/);

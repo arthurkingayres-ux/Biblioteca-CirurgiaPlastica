@@ -13,6 +13,18 @@
   },
   {
     "area": "contorno-corporal",
+    "topic": "contorno-pos-bariatrico",
+    "displayName": "Contorno Pos-Bariatrico",
+    "status": "draft"
+  },
+  {
+    "area": "contorno-corporal",
+    "topic": "gluteoplastia",
+    "displayName": "Gluteoplastia",
+    "status": "draft"
+  },
+  {
+    "area": "contorno-corporal",
     "topic": "lipoaspiracao",
     "displayName": "Lipoaspiracao",
     "status": "draft"

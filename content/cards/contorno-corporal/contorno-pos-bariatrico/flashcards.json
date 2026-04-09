@@ -1,0 +1,123 @@
+{
+  "id": "cpb-fc-001",
+  "type": "flashcard",
+  "topic": "contorno-pos-bariatrico",
+  "area": "contorno-corporal",
+  "cards": [
+    {
+      "front": "Qual é a perda ponderal média esperada após cirurgias bariátricas?",
+      "back": "50-80% do excesso de peso em 12-24 meses",
+      "citation": "Neligan's Plastic Surgery, 5a Ed., 2023; Shermak, PRS, 2006",
+      "domain": "fisiopatologia"
+    },
+    {
+      "front": "Qual é o intervalo mínimo recomendado entre cirurgia bariátrica e contorno corporal?",
+      "back": "12-18 meses",
+      "citation": "Synopsis do texto",
+      "domain": "decisao"
+    },
+    {
+      "front": "Qual é o IMC ideal para realizar cirurgia de contorno corporal pós-bariátrico?",
+      "back": "< 32 kg/m²",
+      "citation": "Synopsis do texto",
+      "domain": "decisao"
+    },
+    {
+      "front": "Qual é o período mínimo de peso estável exigido antes de contorno corporal?",
+      "back": "3-6 meses",
+      "citation": "Synopsis do texto",
+      "domain": "decisao"
+    },
+    {
+      "front": "Qual percentual de pacientes pós-bariátricos procuram cirurgia de contorno corporal?",
+      "back": "40-50%",
+      "citation": "Aly et al., PRS, 2003; Hasanbegovic & Sorensen, Obes Surg, 2012",
+      "domain": "fisiopatologia"
+    },
+    {
+      "front": "Qual é a representatividade de cirurgias de contorno corporal em centros especializados?",
+      "back": "8-15% das operações de cirurgia plástica",
+      "citation": "Aly et al., PRS, 2003; Hasanbegovic & Sorensen, Obes Surg, 2012",
+      "domain": "fisiopatologia"
+    },
+    {
+      "front": "Qual é o valor mínimo de albumina para combinar múltiplos procedimentos de contorno?",
+      "back": "> 3,2 g/dL",
+      "citation": "Synopsis do texto",
+      "domain": "decisao"
+    },
+    {
+      "front": "Qual é o IMC limite para combinar procedimentos de contorno corporal em mesmo tempo?",
+      "back": "< 30 kg/m²",
+      "citation": "Synopsis do texto",
+      "domain": "decisao"
+    },
+    {
+      "front": "Qual é a incidência de seroma após contorno corporal pós-bariátrico?",
+      "back": "10-30%",
+      "citation": "Synopsis do texto",
+      "domain": "complicacao"
+    },
+    {
+      "front": "Qual é a incidência de deiscência após contorno corporal pós-bariátrico?",
+      "back": "5-15%",
+      "citation": "Synopsis do texto",
+      "domain": "complicacao"
+    },
+    {
+      "front": "Qual é a incidência de infecção após contorno corporal pós-bariátrico?",
+      "back": "5-12%",
+      "citation": "Synopsis do texto",
+      "domain": "complicacao"
+    },
+    {
+      "front": "Qual é a incidência de tromboembolismo venoso após contorno corporal pós-bariátrico?",
+      "back": "2-5%",
+      "citation": "Synopsis do texto",
+      "domain": "complicacao"
+    },
+    {
+      "front": "Qual é a incidência de necrose cutânea após contorno corporal pós-bariátrico?",
+      "back": "3-8%",
+      "citation": "Synopsis do texto",
+      "domain": "complicacao"
+    },
+    {
+      "front": "Qual é a prevalência de obesidade mórbida na população mundial?",
+      "back": "Aproximadamente 7%",
+      "citation": "Neligan's Plastic Surgery, 5a Ed., 2023; Shermak, PRS, 2006",
+      "domain": "fisiopatologia"
+    },
+    {
+      "front": "Qual é o peso mínimo de perda para classificar como 'perda maciça de peso'?",
+      "back": "> 30 kg",
+      "citation": "Synopsis do texto",
+      "domain": "decisao"
+    },
+    {
+      "front": "Qual é o tamanho máximo de diastase dos retos abdominais em pacientes pós-bariátricos?",
+      "back": "Frequentemente > 2 cm",
+      "citation": "Basic Science - Anatomia",
+      "domain": "anatomia"
+    },
+    {
+      "front": "Qual é o número ideal de fases para estadiamento de contorno corporal pós-bariátrico?",
+      "back": "2-3 fases",
+      "citation": "Synopsis do texto",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Qual calibre de sutura é recomendado para plicatura fascial abdominal?",
+      "back": "2-0 ou 0 absorvível",
+      "citation": "Basic Science - Anatomia",
+      "domain": "tecnica"
+    }
+  ],
+  "tags": [
+    "flashcard",
+    "contorno-pos-bariatrico",
+    "contorno-corporal",
+    "parametros-numericos",
+    "cirurgia-plastica"
+  ]
+}

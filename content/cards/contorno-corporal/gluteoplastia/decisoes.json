@@ -1,0 +1,66 @@
+[
+  {
+    "id": "glut-dec-001",
+    "type": "decision",
+    "title": "Classificação de Mendieta para Gluteoplastia",
+    "topic": "gluteoplastia",
+    "area": "contorno-corporal",
+    "trigger": "Avaliação clínica de paciente candidato a gluteoplastia",
+    "steps": [
+      {
+        "question": "Qual é o volume glúteo atual do paciente?",
+        "options": [
+          {
+            "answer": "Volume adequado",
+            "next": "Passo 2: Avaliar projeção e ptose"
+          },
+          {
+            "answer": "Déficit de volume",
+            "next": "Passo 3: Avaliar ptose associada"
+          }
+        ]
+      },
+      {
+        "question": "Passo 2: Como está a projeção e existe ptose?",
+        "options": [
+          {
+            "answer": "Boa projeção, sem ptose",
+            "next": "TIPO I - Candidato a refinamento com lipoenxertia"
+          },
+          {
+            "answer": "Projeção reduzida ou com ptose",
+            "next": "Passo 3: Avaliar grau de ptose"
+          }
+        ]
+      },
+      {
+        "question": "Passo 3: Qual é o grau de ptose?",
+        "options": [
+          {
+            "answer": "Sem ptose",
+            "next": "TIPO II - Candidato a aumento (implante ou BBL)"
+          },
+          {
+            "answer": "Ptose leve a moderada",
+            "next": "TIPO III - Candidato a lifting +/- aumento"
+          },
+          {
+            "answer": "Ptose severa",
+            "next": "TIPO IV - Candidato a lifting + aumento combinado"
+          }
+        ]
+      }
+    ],
+    "citations": [
+      "Mendieta CG. Gluteal enhancement. Aesthetic Surgery Journal. 2004."
+    ],
+    "updates": [],
+    "tags": [
+      "classificacao-mendieta",
+      "gluteoplastia",
+      "contorno-corporal",
+      "decisao-clinica",
+      "analise-morfologica"
+    ]
+  }
+]
