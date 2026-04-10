@@ -1,17 +1,17 @@
 # Blefaroplastia — Documento RAG Unificado
 
 > Fonte de verdade para geração de cards atômicos.
-> Última atualização: 2026-04-08
-> Status: rascunho (esqueleto extraído dos cards, pendente enriquecimento com livros-texto)
+> Última atualização: 2026-04-10
+> Status: enriquecido com livros-texto (Neligan 5ed vol. 2 cap. 13–14, Grabb & Smith 9ed cap. 51)
 
 ---
 
 ## Referências Primárias
 
-- Neligan 5ed vol. 2 caps. 8–9
-- Grabb & Smith 9ed caps. 34–35
-- Core Procedures 2ed cap. 3
-- Operative Dictations caps. 8–10
+- Neligan PC. Plastic Surgery, 5ª Ed. 2023, Vol. 2, Caps. 13–14 (Few Jr. JW, Ellis M — Blepharoplasty; Aschen SZ, Spinelli HM — Secondary Blepharoplasty)
+- Grabb & Smith's Plastic Surgery, 9ª Ed. 2024, Cap. 51 (Lisiecki J — Blepharoplasty)
+- Neligan Core Procedures, 2ª Ed. 2020, Cap. 3
+- Operative Dictations in Plastic and Reconstructive Surgery, Caps. 8–10
 
 ## Referências Secundárias (Artigos)
 
@@ -40,11 +40,19 @@
 
 ## Introduction
 
-A blefaroplastia é a cirurgia de correção do excesso de pele, músculo e/ou gordura das pálpebras superiores e inferiores. É um dos procedimentos estéticos faciais mais frequentemente realizados mundialmente e apresenta uma das mais altas taxas de satisfação quando corretamente indicada. A indicação pode ser puramente estética (rejuvenescimento periocular), funcional (dermatocálase obstrutiva com restrição do campo visual superior) ou combinada. A blefaroplastia superior é o quarto procedimento estético mais frequente nos EUA. A blefaroplastia inferior vem ganhando importância com o desenvolvimento de técnicas menos invasivas. (Neligan, 2023, vol. 2, caps. 8–9; Grabb & Smith, 2024, cap. 35)
+### Perspectiva Histórica
+
+Desde os séculos X–XI, cirurgiões árabes Avicena e Ibn Rashid descreveram pregas de pele excedente que comprometiam a visão. O termo "blefaroplastia" foi cunhado por Von Graefe em 1818, originalmente para procedimentos reconstrutivos pós-oncológicos. Graefe e Mackenzie publicaram os primeiros casos reprodutíveis de blefaroplastia superior. Os conceitos de herniação dos coxins adiposos orbitários foram descritos posteriormente por Sichel e Bourguet. A blefaroplastia cosmética entrou em período de crescimento rápido nas décadas de 1920–1930, com ~13 abordagens e métodos de fechamento distintos descritos. [Neligan, 2023, vol. 2, cap. 13]
+
+### Conceito Atual
+
+A abordagem moderna advoga uma mudança de paradigma: em vez da prática tradicional de excisão de tecido pálpebral, foca-se na restauração da anatomia jovem e atraente. A simples remoção de tecido nem sempre resulta em olhos bonitos ou rejuvenescidos — deve-se primeiro conceitualizar o resultado desejado e selecionar procedimentos projetados para atingir esses objetivos específicos. Os princípios modernos (Box 13.1, Neligan) incluem: (1) controle da estética periórbital por posicionamento adequado da sobrancelha; (2) restauração do tônus e posição do canto lateral; (3) preservação máxima de pele, músculo e gordura pálpebral; (4) lifting do terço médio via cantopexia reforçada; (5) correção dos sulcos suborbitários; (6) controle da gordura orbitária por contenção septal ou redução; (7) remoção apenas do tecido genuinamente excessivo. [Neligan, 2023, vol. 2, cap. 13]
+
+A blefaroplastia é a cirurgia de correção do excesso de pele, músculo e/ou gordura das pálpebras superiores e inferiores. É um dos procedimentos estéticos faciais mais frequentemente realizados mundialmente e apresenta uma das mais altas taxas de satisfação quando corretamente indicada. A indicação pode ser puramente estética (rejuvenescimento periocular), funcional (dermatocálase obstrutiva com restrição do campo visual superior) ou combinada. A blefaroplastia superior é o quarto procedimento estético mais frequente nos EUA. A blefaroplastia inferior vem ganhando importância com o desenvolvimento de técnicas menos invasivas. (Neligan, 2023, vol. 2, caps. 13–14; Grabb & Smith, 2024, cap. 51)
 
 O entendimento anatômico detalhado da região periocular e a avaliação pré-operatória minuciosa são pré-requisitos indispensáveis para evitar complicações potencialmente devastadoras como a cegueira por hematoma retrobulbar, o ectrópio e o lagoftalmo. A região periocular é a área anatômica mais complexa da face. A blefaroplastia segura exige conhecimento tridimensional das camadas, estruturas de suporte e relações neurovasculares.
 
-A pálpebra é dividida em **lamela anterior** (pele e músculo orbicular) e **lamela posterior** (tarso e conjuntiva), com o septo órbital como limite entre os compartimentos pré-septal e orbitário. (Neligan, 2023, vol. 2, caps. 8–9; Grabb & Smith, 2024, cap. 35)
+A pálpebra é dividida em **lamela anterior** (pele e músculo orbicular) e **lamela posterior** (tarso e conjuntiva), com o septo órbital como limite entre os compartimentos pré-septal e orbitário. (Neligan, 2023, vol. 2, caps. 13–14; Grabb & Smith, 2024, cap. 51)
 
 [Imagem: diagrama-camadas-palpebrais.png]
 
@@ -56,7 +64,7 @@ A pálpebra é dividida em **lamela anterior** (pele e músculo orbicular) e **l
 
 A órbita é uma cavidade piramidal formada por 7 ossos. Contém os forames supraorbitário, infraorbitário, óptico e etmoidais. O **arcus marginalis** é o periósteo espessado do rebordo orbitário, onde se origina o septo órbital. O **tubérculo de Whitnall** localiza-se na parede lateral orbital, 2–3 mm posterior ao rebordo, e é a inserção do tendão cantal lateral.
 
-O rebordo orbitário é referência para todas as medidas em blefaroplastia. O **vetor orbitário** (relação anteroposterior córnea–rebordo) determina o risco de complicações. Os forames são pontos de reparo para bloqueios anestésicos e marcos cirúrgicos: forame supraorbitário na junção do terço medial com os 2/3 laterais do rebordo superior; forame infraorbitário ~7 mm abaixo do rebordo inferior. (Neligan, 2023, vol. 2, cap. 8)
+O rebordo orbitário é referência para todas as medidas em blefaroplastia. O **vetor orbitário** (relação anteroposterior córnea–rebordo) determina o risco de complicações. Os forames são pontos de reparo para bloqueios anestésicos e marcos cirúrgicos: forame supraorbitário na junção do terço medial com os 2/3 laterais do rebordo superior; forame infraorbitário ~7 mm abaixo do rebordo inferior. (Neligan, 2023, vol. 2, cap. 13)
 
 [Imagem: blef-13-1-ossos-orbitarios.png]
 [Imagem: fig13-1-ossos-orbitarios.jpeg]
@@ -70,7 +78,7 @@ A pele das pálpebras é a mais fina do corpo (~0,5 mm na pálpebra superior, co
 
 - **Localização e relações:** a pele pré-tarsal é firmemente aderida ao tarso por fibras do septo, da aponeurose do **LPS** (levantador da pálpebra superior) e do orbicular pré-tarsal, formando a prega pálpebral superior. A pele pré-septal é mais laxa e é a principal contribuinte da **dermatocálase**.
 - **Relevância cirúrgica:** a marcação cirúrgica deve preservar pelo menos 20 mm de pele entre a borda ciliar e a sobrancelha (margem de segurança contra lagoftalmo). A pele pré-septal redundante é o alvo primário da blefaroplastia superior.
-- **Como identificar:** pele extremamente fina e translúcida; região pré-tarsal aderida ao plano profundo, região pré-septal frouxa e pinçável facilmente com pinça. (Neligan, 2023, vol. 2, cap. 8; Grabb & Smith, 2024, cap. 35)
+- **Como identificar:** pele extremamente fina e translúcida; região pré-tarsal aderida ao plano profundo, região pré-septal frouxa e pinçável facilmente com pinça. (Neligan, 2023, vol. 2, cap. 13; Grabb & Smith, 2024, cap. 51)
 
 #### Músculo Orbicular do Olho
 
@@ -78,7 +86,7 @@ Músculo estriado plano e circular que envolve a fissura pálpebral, dividido em
 
 - **Inervação:** nervo facial (VII) — ramo temporal (porção superior) e ramo zigomático (porção inferior).
 - **Relevância cirúrgica:** a ressecção de músculo orbicular pré-septal durante blefaroplastia superior melhora a definição da prega, mas aumenta edema inicial. A lesão do ramo zigomático do nervo facial pode comprometer o fechamento pálpebral inferior. O ramo temporal cruza o arco zigomático na zona perigosa — 1 cm anteriormente ao tragus.
-- **Como identificar:** músculo rosa-pálido imediatamente profundo à pele; porção pré-tarsal aderida ao tarso, porção pré-septal mais frouxa sobre o septo. (Neligan, 2023, vol. 2, cap. 8; Core Procedures, 2020, cap. 3)
+- **Como identificar:** músculo rosa-pálido imediatamente profundo à pele; porção pré-tarsal aderida ao tarso, porção pré-septal mais frouxa sobre o septo. (Neligan, 2023, vol. 2, cap. 13; Core Procedures, 2020, cap. 3)
 
 [Imagem: blef-13-6-musculos-orbitais.png]
 [Imagem: blef-13-7-frontalis.png]
@@ -91,7 +99,7 @@ Membrana fibrosa que se origina do **arcus marginalis** (periósteo do rebordo o
 
 - **Localização:** estende-se do arcus marginalis ao LPS (superior) ou à fáscia capsulopálpebral (inferior). Divide o espaço pré-septal do intraorbitário.
 - **Relevância cirúrgica:** dissecar além da fusão septo-aponeurose pode lesar a aponeurose do LPS e causar ptose iatrogênica. A abertura do septo é o passo que permite acessar a gordura orbitária. Em asiáticos, o septo funde-se com a aponeurose do LPS em posição mais inferior, permitindo que a gordura pré-aponeurótica desça anteriormente ao tarso — base anatômica da ausência de prega pálpebral ("single eyelid").
-- **Como identificar:** membrana fibrosa branco-perolada profunda ao orbicular; ao abrir, expõe a gordura pré-aponeurótica amarela. A relação com a fusão à aponeurose é o marco crítico. (Neligan, 2023, vol. 2, cap. 8; Grabb & Smith, 2024, cap. 35)
+- **Como identificar:** membrana fibrosa branco-perolada profunda ao orbicular; ao abrir, expõe a gordura pré-aponeurótica amarela. A relação com a fusão à aponeurose é o marco crítico. (Neligan, 2023, vol. 2, cap. 13; Grabb & Smith, 2024, cap. 51)
 
 [Imagem: blef-13-11-septo-orbital.png]
 [Imagem: blef-13-8-anatomia-palpebral-sagital.png]
@@ -103,7 +111,7 @@ Membrana fibrosa que se origina do **arcus marginalis** (periósteo do rebordo o
 A gordura pálpebral superior apresenta dois compartimentos: **medial (nasal)** — gordura mais pálida e firme — e **central (pré-aponeurótico)** — mais amarelo e lobulado. O compartimento lateral **NÃO** contém gordura; a estrutura que ocupa essa posição é a **glândula lacrimal**, cuja ressecção inadvertida causa síndrome de olho seco permanente e grave.
 
 - **Localização:** posterior ao septo órbital, anterior à aponeurose do LPS.
-- **Relevância cirúrgica:** a gordura pré-aponeurótica medial e central é amarela, lobulada e flui livremente quando exposta. A glândula lacrimal é rosa-acinzentada, firme, com textura glandular, SEMPRE no compartimento lateral. Regra prática: qualquer estrutura lateralmente ao limbo temporal com aspecto glandular **NÃO** deve ser ressecada. Na dúvida, reposicionar — nunca ressecar. NUNCA tracionar gordura — risco de hemorragia retrobulbar por avulsão de vasos profundos. (Neligan, 2023, vol. 2, cap. 8; Core Procedures, 2020, cap. 3)
+- **Relevância cirúrgica:** a gordura pré-aponeurótica medial e central é amarela, lobulada e flui livremente quando exposta. A glândula lacrimal é rosa-acinzentada, firme, com textura glandular, SEMPRE no compartimento lateral. Regra prática: qualquer estrutura lateralmente ao limbo temporal com aspecto glandular **NÃO** deve ser ressecada. Na dúvida, reposicionar — nunca ressecar. NUNCA tracionar gordura — risco de hemorragia retrobulbar por avulsão de vasos profundos. (Neligan, 2023, vol. 2, cap. 13; Core Procedures, 2020, cap. 3)
 
 [Imagem: blef-p0592-anatomia-da-orbita-e-compartimentos-de-gordura-per.jpeg]
 
@@ -113,7 +121,7 @@ A gordura pálpebral inferior possui três compartimentos (**medial, central e l
 
 - **Localização:** posterior ao septo órbital inferior. Medial: medialmente ao m. oblíquo inferior. Central: sobre o oblíquo inferior. Lateral: lateralmente ao oblíquo inferior.
 - **Relevância cirúrgica:** a lesão do oblíquo inferior durante ressecção de gordura é causa de diplopia, particularmente em elevação e adução. O oblíquo inferior origina-se na fossa lacrimal, cruza inferiormente ao globo em sentido póstero-lateral, e insere-se na esclera posterior. Gordura medial = mais pálida e firme; central = amarela e lobulada; lateral = pode ser escasso.
-- **Como identificar:** compartimento medial: mais proeminente, pálida, firme. Central: amarela, lobulada. Usar oblíquo inferior como referência para separar compartimentos. (Neligan, 2023, vol. 2, cap. 9; Grabb & Smith, 2024, cap. 35)
+- **Como identificar:** compartimento medial: mais proeminente, pálida, firme. Central: amarela, lobulada. Usar oblíquo inferior como referência para separar compartimentos. (Neligan, 2023, vol. 2, cap. 14; Grabb & Smith, 2024, cap. 51)
 
 [Imagem: blef-13-31-gordura-compartimentos-inferiores.png]
 
@@ -122,7 +130,7 @@ A gordura pálpebral inferior possui três compartimentos (**medial, central e l
 O LPS origina-se no ápice orbitário (asa menor do esfenoide), cursa anteriormente sob o teto orbitário, e sua porção muscular transiciona em aponeurose na região do **ligamento de Whitnall**. A aponeurose insere-se na face anterior do tarso e emite fibras através do orbicular pré-tarsal até a derme, formando a prega pálpebral superior. Inervação: ramo superior do **III par craniano** (oculomotor).
 
 - **Relevância cirúrgica:** a deiscência ou alongamento da aponeurose é a causa mais comum de ptose involutiva (aponeurótica). O avanço ou plicatura da aponeurose é a técnica-padrão para correção. A relação fusão septo-aponeurose é o marco cirúrgico para evitar lesão iatrogênica do levantador.
-- **Como identificar:** aponeurose branca brilhante, profunda ao septo órbital; ao abrir o septo, a gordura pré-aponeurótica recobre a aponeurose. A aponeurose deiscente é branca, fina e translúcida. (Neligan, 2023, vol. 2, cap. 8)
+- **Como identificar:** aponeurose branca brilhante, profunda ao septo órbital; ao abrir o septo, a gordura pré-aponeurótica recobre a aponeurose. A aponeurose deiscente é branca, fina e translúcida. (Neligan, 2023, vol. 2, cap. 13)
 
 [Imagem: blef-13-8-anatomia-palpebral-sagital.png]
 [Imagem: blef-13-2-corte-horizontal-orbita.png]
@@ -135,7 +143,7 @@ Músculo liso com inervação simpática (gânglio cervical superior) que se ori
 
 - **Localização:** entre a aponeurose do LPS e a conjuntiva, face inferior do LPS → borda superior do tarso superior.
 - **Relevância cirúrgica:** a **Müllerectomy** (ressecção conjuntivo-mülleriana) é a base da correção de ptose leve (MRD1 3–4 mm) quando o teste da fenilefrina 2,5% é positivo (elevação ≥ 1,5 mm confirma tônus simpático residual). Fasanella-Servat = variante que inclui tarso.
-- **Como identificar:** músculo liso vermelho-escuro profundo à aponeurose do LPS; teste com fenilefrina 2,5% tópica: elevação ≥ 1,5 mm confirma função. (Neligan, 2023, vol. 2, cap. 8; Grabb & Smith, 2024, cap. 35)
+- **Como identificar:** músculo liso vermelho-escuro profundo à aponeurose do LPS; teste com fenilefrina 2,5% tópica: elevação ≥ 1,5 mm confirma função. (Neligan, 2023, vol. 2, cap. 13; Grabb & Smith, 2024, cap. 51)
 
 [Imagem: blef-13-8-anatomia-palpebral-sagital.png]
 
@@ -144,7 +152,7 @@ Músculo liso com inervação simpática (gânglio cervical superior) que se ori
 A **fáscia capsulopálpebral** é o análogo do LPS na pálpebra inferior. Origina-se do músculo reto inferior, envolve o oblíquo inferior (formando o **ligamento de Lockwood** — suspensor do globo), e insere-se na borda inferior do tarso inferior. É frequentemente confundida com o septo órbital durante a dissecção.
 
 - **Relevância cirúrgica:** a lesão da fáscia capsulopálpebral é uma causa de ectrópio por retração da lamela posterior. A incisão subtarsal na fáscia capsulopálpebral (Nomoto & Ogawa, 2026) é um novo paradigma para blefaroplastia inferior livre de ectrópio.
-- **Como identificar:** membrana fibrosa profunda ao septo órbital inferior; pode ser confundida com o septo — a fáscia capsulopálpebral é mais posterior e está aderida à borda inferior do tarso. (Neligan, 2023, vol. 2, cap. 9)
+- **Como identificar:** membrana fibrosa profunda ao septo órbital inferior; pode ser confundida com o septo — a fáscia capsulopálpebral é mais posterior e está aderida à borda inferior do tarso. (Neligan, 2023, vol. 2, cap. 14)
 
 [Imagem: blef-13-33-fascia-capsulopalpebral.png]
 [Imagem: blef-13-34-flap-capsulopalpebral.png]
@@ -155,7 +163,7 @@ A **fáscia capsulopálpebral** é o análogo do LPS na pálpebra inferior. Orig
 Placa fibrosa densa (não cartilagem) que confere rigidez à pálpebra. **Tarso superior:** 10–12 mm de altura. **Tarso inferior:** 3,5–5 mm. Contém as **glândulas de Meibomius** (glândulas tarsais), que secretam o componente lipídico do filme lacrimal.
 
 - **Relevância cirúrgica:** a disfunção das glândulas de Meibomius (meibomite) causa evaporação excessiva e olho seco. Cirurgias sobre o tarso (suturas de eversão, enxertos) devem considerar a integridade dessas glândulas. O tarso é a referência para a prega pálpebral e para a marcação de incisões.
-- **Como identificar:** placa fibrosa densa palpável sob a pele; face posterior revestida por conjuntiva; glândulas de Meibomius visíveis como estrias amareladas ao everter a pálpebra. (Neligan, 2023, vol. 2, cap. 8; Grabb & Smith, 2024, cap. 35)
+- **Como identificar:** placa fibrosa densa palpável sob a pele; face posterior revestida por conjuntiva; glândulas de Meibomius visíveis como estrias amareladas ao everter a pálpebra. (Neligan, 2023, vol. 2, cap. 13; Grabb & Smith, 2024, cap. 51)
 
 [Imagem: blef-13-8-anatomia-palpebral-sagital.png]
 [Imagem: diagrama-camadas-palpebrais.png]
@@ -165,7 +173,7 @@ Placa fibrosa densa (não cartilagem) que confere rigidez à pálpebra. **Tarso 
 Ligamento com porção anterior (insere-se na crista lacrimal anterior) e porção posterior (crista lacrimal posterior — é a mais forte). A porção posterior mantém a posição medial da pálpebra e é essencial para a função de drenagem lacrimal. O ligamento envolve o saco lacrimal.
 
 - **Relevância cirúrgica:** a porção posterior é a âncora medial da pálpebra. Sua lesão pode causar telecanto e obstrução lacrimal. Reconstrução demanda fixação transnasal.
-- **Como identificar:** banda fibrosa firme palpável no canto medial; tracionar a pálpebra lateralmente revela a tensão do ligamento. (Neligan, 2023, vol. 2, cap. 8)
+- **Como identificar:** banda fibrosa firme palpável no canto medial; tracionar a pálpebra lateralmente revela a tensão do ligamento. (Neligan, 2023, vol. 2, cap. 13)
 
 [Imagem: blef-13-5-tendao-cantal-medial.png]
 
@@ -174,19 +182,38 @@ Ligamento com porção anterior (insere-se na crista lacrimal anterior) e porç�
 Insere-se no **tubérculo de Whitnall**, localizado 2–3 mm posterior ao rebordo orbitário lateral (face interna da parede orbitária lateral). Posição normal do canto lateral: **2 mm acima** do canto medial. Canto lateral no mesmo nível ou abaixo do medial é fator de risco para ectrópio.
 
 - **Relevância cirúrgica:** laxidez do canto lateral (**distraction test** > 6 mm ou **snap-back test** positivo) é a principal causa de ectrópio pós-blefaroplastia inferior. Deve ser corrigida com cantopexia ou cantoplastia no mesmo tempo cirúrgico. A fixação na cantoplastia é feita com sutura não-absorvível ao periósteo, 2 mm acima da posição original para compensar relaxamento.
-- **Como identificar:** distraction test: tracionar a pálpebra lateralmente — deslocamento > 6 mm = laxidez significativa. Snap-back test: tracionar e soltar — retorno lento > 1 s indica laxidez. (Neligan, 2023, vol. 2, cap. 9; Core Procedures, 2020, cap. 3; Grabb & Smith, 2024, cap. 35)
+- **Como identificar:** distraction test: tracionar a pálpebra lateralmente — deslocamento > 6 mm = laxidez significativa. Snap-back test: tracionar e soltar — retorno lento > 1 s indica laxidez. (Neligan, 2023, vol. 2, cap. 14; Core Procedures, 2020, cap. 3; Grabb & Smith, 2024, cap. 51)
 
 [Imagem: blef-13-3-tendao-cantal-lateral.png]
 [Imagem: blef-13-4-tarsal-strap.png]
 [Imagem: blef-13-35-canto-lateral-envelhecimento.png]
 [Imagem: fig13-35-ptose-canto-lateral.jpeg]
 
+#### Retináculo Lateral
+
+**Definição:** Labirinto de condensações de tecido conjuntivo ancoradas à órbita lateral que sustentam o globo e as pálpebras como uma "rede" (hammock). Composto pelo tendão cantal lateral, tarsal strap, corno lateral da aponeurose do levantador, ligamento suspensório de Lockwood, ligamento de Whitnall e ligamentos de restrição (check ligaments) do reto lateral.
+
+**Localização:** convergem e inserem-se no periósteo espessado sobre o tubérculo de Whitnall na parede orbitária lateral.
+
+**Relevância cirúrgica:** o entendimento e restauração dessas estruturas é a chave para a cantopexia periocular efetiva. O **tarsal strap** é uma estrutura anatômica distinta que suspende o tarso medial e inferiormente ao tendão cantal lateral à parede orbitária lateral, ~4–5 mm do rebordo. Diferente do tendão cantal, o tarsal strap é relativamente resistente à laxidez relacionada ao envelhecimento. A liberação adequada do tarsal strap durante cantopexia permite re-suspensão sem tensão, minimizando a força de tração inferior. [Neligan, 2023, vol. 2, cap. 13]
+
+[Imagem: blef-13-2-corte-horizontal-orbita.png]
+[Imagem: blef-13-4-tarsal-strap.png]
+
+#### ROOF (Retro-Orbicularis Oculi Fat)
+
+**Definição:** coxim adiposo localizado profundamente ao músculo orbicular na região da sobrancelha lateral, entre o orbicular e o periósteo do rebordo orbitário superior.
+
+**Localização:** porção lateral da sobrancelha e rebordo orbitário superior, profundo ao orbicular, superficial ao periósteo.
+
+**Relevância cirúrgica:** a excisão ou redução do ROOF pode ser realizada durante blefaroplastia superior ou brow lift para melhorar a definição da prega lateral e reduzir fullness sobre o rebordo lateral. A preservação do ROOF é preferida em pacientes com hollowing superior. Não confundir com gordura pré-aponeurótica (que está posterior ao septo). [Neligan, 2023, vol. 2, cap. 13; Grabb & Smith, 2024, cap. 51]
+
 #### Ligamento de Whitnall
 
 Condensado fascial que atua como fulcro e suspensor do LPS na região onde a porção muscular transiciona em aponeurose. Localiza-se superiormente na órbita, ~10 mm acima do tarso superior. Estende-se da tróclea (medial) à glândula lacrimal (lateral).
 
 - **Relevância cirúrgica:** marco anatômico para a transição do LPS de músculo para aponeurose. Importante referência em cirurgia de ptose e blefaroplastia superior quando se acessa o espaço pré-aponeurótico.
-- **Como identificar:** banda fibrosa transversal esbranquiçada visível profundamente na órbita superior quando se disseca acima da aponeurose do LPS. (Neligan, 2023, vol. 2, cap. 8)
+- **Como identificar:** banda fibrosa transversal esbranquiçada visível profundamente na órbita superior quando se disseca acima da aponeurose do LPS. (Neligan, 2023, vol. 2, cap. 13)
 
 [Imagem: blef-13-2-corte-horizontal-orbita.png]
 
@@ -199,7 +226,7 @@ O suprimento arterial da pálpebra provém de dois arcos:
 A **artéria angular** (ramo terminal da facial) conecta-se com a artéria oftálmica — anastomose entre circulações interna e externa da carótida. A **veia oftálmica superior** drena para o seio cavernoso.
 
 - **Relevância cirúrgica:** anastomose angular-oftálmica é via de comunicação carotídea. Infecções perioculares podem causar trombose do seio cavernoso. Hemostasia meticulosa é essencial: sangramento arterial das etmoidais ou ramos orbitários é causa de hematoma retrobulbar.
-- **Como identificar:** arco marginal visível como vasos finos 2 mm da margem; artéria angular palpável lateralmente ao dorso nasal. (Neligan, 2023, vol. 2, cap. 8)
+- **Como identificar:** arco marginal visível como vasos finos 2 mm da margem; artéria angular palpável lateralmente ao dorso nasal. (Neligan, 2023, vol. 2, cap. 13)
 
 [Imagem: blef-13-14-vascularizacao-periorbital.png]
 [Imagem: fig13-14-suprimento-arterial.jpeg]
@@ -216,7 +243,7 @@ A **artéria angular** (ramo terminal da facial) conecta-se com a artéria oftá
 - Orbicular pelo **VII par craniano** (facial) — ramos temporal (porção superior) e zigomático (porção inferior).
 
 - **Relevância cirúrgica:** bloqueio do nervo supraorbital para anestesia da pálpebra superior. Lesão do ramo temporal do facial durante lifting temporal causa ptose de sobrancelha. O nervo frontal (V1) pode ser lesado em acessos à região glabelar ou lifting frontal endoscópico.
-- **Como identificar:** nervo supraorbital: bloqueável no forame na junção 1/3 medial e 2/3 laterais do rebordo. Ramo temporal do VII: zona perigosa 1 cm anterior ao tragus sobre o arco zigomático. (Neligan, 2023, vol. 2, cap. 8; Core Procedures, 2020, cap. 3)
+- **Como identificar:** nervo supraorbital: bloqueável no forame na junção 1/3 medial e 2/3 laterais do rebordo. Ramo temporal do VII: zona perigosa 1 cm anterior ao tragus sobre o arco zigomático. (Neligan, 2023, vol. 2, cap. 13; Core Procedures, 2020, cap. 3)
 
 [Imagem: blef-13-15-inervacao-palpebral.png]
 [Imagem: blef-13-16-inervacao-temporal-sobrancelha.png]
@@ -229,7 +256,7 @@ O **tear trough** (sulco nasojugal) é uma depressão curvilínea do canto media
 
 - **Localização:** do canto medial em direção inferolateral ao longo do rebordo infraorbitário. O sulco palpebro-malar é a continuação lateral.
 - **Relevância cirúrgica:** a correção pode incluir reposicionamento de gordura orbitária, preenchimento com ácido hialurônico (AH) ou lipoenxertia. O reposicionamento de gordura é a técnica mais atual (evita hollowing tardio da ressecção). Teste do tear trough: inserção lateral do dedo no sulco — abertura indica benefício potencial de preenchimento.
-- **Como identificar:** depressão visível do canto medial ao longo do rebordo infraorbitário; pronuncia-se com olhar para cima. Teste digital: inserir dedo lateralmente no sulco e observar abertura. (Neligan, 2023, vol. 2, cap. 9; Grabb & Smith, 2024, cap. 35)
+- **Como identificar:** depressão visível do canto medial ao longo do rebordo infraorbitário; pronuncia-se com olhar para cima. Teste digital: inserir dedo lateralmente no sulco e observar abertura. (Neligan, 2023, vol. 2, cap. 14; Grabb & Smith, 2024, cap. 51)
 
 [Imagem: blef-13-21-anatomia-tear-trough.png]
 [Imagem: blef-13-22-teste-tear-trough.png]
@@ -240,7 +267,7 @@ O **tear trough** (sulco nasojugal) é uma depressão curvilínea do canto media
 Origem no periósteo do rebordo orbital e arco zigomático, unindo diretamente o orbicular ao periósteo. Delimita a transição pálpebra–bochecha e o espaço pré-septal inferior.
 
 - **Relevância cirúrgica:** a liberação do ORL (orbicularis retaining ligament) é necessária para midfacelift e para reposicionamento de gordura transconjuntival amplo. A preservação do ORL ajuda a manter a posição da junção pálpebra-bochecha em blefaroplastias conservadoras.
-- **Como identificar:** banda fibrosa palpável ao longo do rebordo orbitário inferior; resistência sentida ao tentar avançar tecidos inferiormente. (Neligan, 2023, vol. 2, cap. 9)
+- **Como identificar:** banda fibrosa palpável ao longo do rebordo orbitário inferior; resistência sentida ao tentar avançar tecidos inferiormente. (Neligan, 2023, vol. 2, cap. 14)
 
 [Imagem: blef-13-12-ligamento-retencao-orbicular.png]
 [Imagem: blef-13-13-ligamento-retencao-orbital.png]
@@ -250,7 +277,7 @@ Origem no periósteo do rebordo orbital e arco zigomático, unindo diretamente o
 A diferença fundamental reside na inserção da aponeurose do LPS: nos ocidentais, fibras aponeuróticas atravessam o orbicular e se inserem na derme pré-tarsal, criando a prega. Em ~50% dos asiáticos, a aponeurose funde-se com o septo em posição mais inferior (próximo à borda tarsal), e a gordura pré-aponeurótica desce anteriormente ao tarso — impedindo a formação da prega e causando fullness pré-tarsal. O **epicanto** é uma prega de pele semilunar que cobre parcialmente o canto medial.
 
 - **Relevância cirúrgica:** a cirurgia de dupla pálpebra (double eyelid surgery) é a cirurgia estética mais realizada mundialmente. Método de sutura: reversível, menor edema, 15–30% recorrência a longo prazo. Método incisional: mais permanente, permite remoção de gordura/orbicular. Altura da prega: 6–8 mm (vs. 8–10 mm caucasianos).
-- **Como identificar:** ausência de prega pálpebral superior (single eyelid); fullness pré-tarsal; epicanto presente em graus variáveis. (Neligan, 2023, vol. 2, cap. 8; Grabb & Smith, 2024, cap. 35)
+- **Como identificar:** ausência de prega pálpebral superior (single eyelid); fullness pré-tarsal; epicanto presente em graus variáveis. (Neligan, 2023, vol. 2, cap. 13; Grabb & Smith, 2024, cap. 51)
 
 [Imagem: blef-13-10ab-variacoes-palpebra-superior.png]
 [Imagem: blef-13-10cd-palpebra-asiatica-baggy.png]
@@ -258,7 +285,7 @@ A diferença fundamental reside na inserção da aponeurose do LPS: nos ocidenta
 
 ### Physiology / Pathophysiology
 
-O envelhecimento periórbital é multifatorial e envolve mudanças em todas as camadas anatômicas. (Neligan, 2023, vol. 2, caps. 8–9; Grabb & Smith, 2024, cap. 35)
+O envelhecimento periórbital é multifatorial e envolve mudanças em todas as camadas anatômicas. (Neligan, 2023, vol. 2, caps. 13–14; Grabb & Smith, 2024, cap. 51)
 
 - **Pele:** perda de elasticidade, afinamento, formação de rugas dinâmicas e estáticas (crow's feet).
 - **Músculo orbicular:** hipertrofia em alguns pacientes (squinch), atrofia em outros.
@@ -277,7 +304,7 @@ O envelhecimento periórbital é multifatorial e envolve mudanças em todas as c
 
 ### Princípios Gerais
 
-A avaliação pré-operatória é a etapa mais importante da blefaroplastia. Determina a indicação, previne complicações e orienta a escolha técnica. Deve ser sistemática, incluindo exame oftalmológico básico, fotografias padronizadas e discussão de expectativas. Consulta com oftalmologista recomendada para: glaucoma, olho seco, cirurgia ocular prévia (LASIK, catarata) ou queixas visuais. (Neligan, 2023, vol. 2, caps. 8–9; Grabb & Smith, 2024, cap. 35; Core Procedures, 2020, cap. 3)
+A avaliação pré-operatória é a etapa mais importante da blefaroplastia. Determina a indicação, previne complicações e orienta a escolha técnica. Deve ser sistemática, incluindo exame oftalmológico básico, fotografias padronizadas e discussão de expectativas. Consulta com oftalmologista recomendada para: glaucoma, olho seco, cirurgia ocular prévia (LASIK, catarata) ou queixas visuais. (Neligan, 2023, vol. 2, caps. 13–14; Grabb & Smith, 2024, cap. 51; Core Procedures, 2020, cap. 3)
 
 ### Parâmetros do Exame
 
@@ -304,7 +331,7 @@ A avaliação pré-operatória é a etapa mais importante da blefaroplastia. Det
 
 ### Documentação Fotográfica
 
-Face completa frontal, oblíqua e perfil em repouso e sorrindo; periórbital em olhar para cima e para baixo, com olhos fechados e sobrancelha elevada com dedo. (Neligan, 2023, vol. 2, caps. 8–9; Grabb & Smith, 2024, cap. 35; Core Procedures, 2020, cap. 3)
+Face completa frontal, oblíqua e perfil em repouso e sorrindo; periórbital em olhar para cima e para baixo, com olhos fechados e sobrancelha elevada com dedo. (Neligan, 2023, vol. 2, caps. 13–14; Grabb & Smith, 2024, cap. 51; Core Procedures, 2020, cap. 3)
 
 [Imagem: blef-13-17-palpebra-superior-ideal.png]
 [Imagem: blef-13-20-avaliacao-periorbital.png]
@@ -329,7 +356,7 @@ Face completa frontal, oblíqua e perfil em repouso e sorrindo; periórbital em 
 - Não — excesso persiste mesmo com sobrancelha elevada → **Dermatocálase verdadeira**. Candidato a blefaroplastia superior.
 - Parcialmente — excesso diminui mas não desaparece → **Componente misto**: ptose de sobrancelha + dermatocálase. Considerar procedimento COMBINADO (brow lift + blefaroplastia).
 
-*Dica clínica:* com o paciente sentado e relaxado, elevar manualmente as sobrancelhas à posição ideal e reavaliar a pálpebra. Muitos pacientes necessitam procedimento combinado. (Neligan, 2023, vol. 2, cap. 8)
+*Dica clínica:* com o paciente sentado e relaxado, elevar manualmente as sobrancelhas à posição ideal e reavaliar a pálpebra. Muitos pacientes necessitam procedimento combinado. (Neligan, 2023, vol. 2, cap. 13)
 
 **Passo 2 — Avaliar MRD1. Há ptose pálpebral?**
 - MRD1 ≥ 4 mm (normal) → sem ptose pálpebral. Dermatocálase e/ou ptose de sobrancelha conforme avaliação anterior.
@@ -339,7 +366,7 @@ Face completa frontal, oblíqua e perfil em repouso e sorrindo; periórbital em 
 - Sim — bolsas proeminentes com pele relativamente normal → ressecção ou reposicionamento de gordura via transconjuntival (sem incisão cutânea).
 - Não — excesso de pele é o componente principal → blefaroplastia com excisão de pele ± gordura.
 
-(Neligan, 2023, vol. 2, cap. 8; Grabb & Smith, 2024, cap. 35)
+(Neligan, 2023, vol. 2, cap. 13; Grabb & Smith, 2024, cap. 51)
 
 ### Blefaroplastia Inferior: Transconjuntival vs. Transcutânea
 
@@ -363,7 +390,7 @@ Face completa frontal, oblíqua e perfil em repouso e sorrindo; periórbital em 
 - Sim — tear trough pronunciado → reposicionamento de gordura (fat transposition) ao arcus marginalis. Preferir sobre ressecção de gordura. Pode associar filler ou lipoenxertia.
 - Não — tear trough mínimo → ressecção conservadora de gordura aceitável. Evitar hollowing — ressecar o mínimo necessário.
 
-(Neligan, 2023, vol. 2, cap. 9; Grabb & Smith, 2024, cap. 35; Core Procedures, 2020, cap. 3; Chen J et al. PRS 2026;157:622)
+(Neligan, 2023, vol. 2, cap. 14; Grabb & Smith, 2024, cap. 51; Core Procedures, 2020, cap. 3; Chen J et al. PRS 2026;157:622)
 
 ### Avaliação do Vetor Orbitário
 
@@ -378,7 +405,7 @@ Face completa frontal, oblíqua e perfil em repouso e sorrindo; periórbital em 
 - Canto lateral 2 mm acima do medial (normal) → posição normal. Risco basal de complicações.
 - Canto lateral no mesmo nível ou abaixo do medial → fator de risco adicional para ectrópio. Cantopexia profilática indicada durante blefaroplastia inferior.
 
-(Neligan, 2023, vol. 2, cap. 9; Grabb & Smith, 2024, cap. 35)
+(Neligan, 2023, vol. 2, cap. 14; Grabb & Smith, 2024, cap. 51)
 
 ### Escolha de Técnica para Correção de Ptose
 
@@ -399,7 +426,7 @@ Face completa frontal, oblíqua e perfil em repouso e sorrindo; periórbital em 
 - Unilateral: MRD1 contralateral estável após oclusão → ptose unilateral verdadeira → correção unilateral com ajuste intraoperatório.
 - Bilateral → correção bilateral simultânea. Ajuste simétrico intraoperatório.
 
-(Neligan, 2023, vol. 2, cap. 8; Grabb & Smith, 2024, cap. 35; Li X et al. PRS 2026;157:38e)
+(Neligan, 2023, vol. 2, cap. 13; Grabb & Smith, 2024, cap. 51; Li X et al. PRS 2026;157:38e)
 
 ## Treatment / Surgical Technique
 
@@ -422,7 +449,7 @@ Face completa frontal, oblíqua e perfil em repouso e sorrindo; periórbital em 
 10. Fechamento: sutura contínua ou pontos separados com nylon 6-0 ou prolene 6-0.
 11. Compressas geladas intermitentes. Retirada de suturas em 5–7 dias.
 
-**Complicações:** hematoma retrobulbar (0,04–0,05%), lagoftalmo (transitório comum; permanente raro), ptose iatrogênica (0,5–1%), olho seco transitório (18%), assimetria (5–10%), cicatriz hipertrófica / web epicantal, milia (5–10%). (Neligan, 2023, vol. 2, cap. 8; Core Procedures, 2020, cap. 3; Operative Dictations, 2017, cap. 8)
+**Complicações:** hematoma retrobulbar (0,04–0,05%), lagoftalmo (transitório comum; permanente raro), ptose iatrogênica (0,5–1%), olho seco transitório (18%), assimetria (5–10%), cicatriz hipertrófica / web epicantal, milia (5–10%). (Neligan, 2023, vol. 2, cap. 13; Core Procedures, 2020, cap. 3; Operative Dictations, 2017, cap. 8)
 
 [Imagem: blef-13-25-blefaro-superior-tecnica.png]
 [Imagem: blef-13-26-resultado-blefaro-superior.png]
@@ -450,7 +477,7 @@ Face completa frontal, oblíqua e perfil em repouso e sorrindo; periórbital em 
 
 **Complicações:** prega excessivamente alta se fixação muito superior, assimetria de prega, ptose iatrogênica se lesão do levantador.
 
-A técnica anchor produz uma prega mais definida e estável que a blefaroplastia por excisão simples. Particularmente útil em pacientes com deiscência de aponeurose onde a prega está deslocada superiormente. (Neligan, 2023, vol. 2, cap. 8)
+A técnica anchor produz uma prega mais definida e estável que a blefaroplastia por excisão simples. Particularmente útil em pacientes com deiscência de aponeurose onde a prega está deslocada superiormente. (Neligan, 2023, vol. 2, cap. 13)
 
 [Imagem: blef-13-27-anchor-blepharoplasty.png]
 
@@ -470,7 +497,7 @@ A técnica anchor produz uma prega mais definida e estável que a blefaroplastia
 7. Hemostasia meticulosa.
 8. Conjuntiva pode ser deixada sem sutura (cicatriza por segunda intenção) ou sutura absorvível.
 
-**Complicações:** hematoma retrobulbar, quemose (5–15%), hollowing / esqueletização se ressecção excessiva (5–10%), diplopia (raro, < 0,1% — lesão do oblíquo inferior). (Neligan, 2023, vol. 2, cap. 9; Operative Dictations, 2017, cap. 9; Grabb & Smith, 2024, cap. 35)
+**Complicações:** hematoma retrobulbar, quemose (5–15%), hollowing / esqueletização se ressecção excessiva (5–10%), diplopia (raro, < 0,1% — lesão do oblíquo inferior). (Neligan, 2023, vol. 2, cap. 14; Operative Dictations, 2017, cap. 9; Grabb & Smith, 2024, cap. 51)
 
 [Imagem: blef-13-30-transconjuntival.png]
 [Imagem: blef-13-31-gordura-compartimentos-inferiores.png]
@@ -496,7 +523,7 @@ A técnica anchor produz uma prega mais definida e estável que a blefaroplastia
 7. SEMPRE considerar cantopexia/cantoplastia lateral, particularmente em laxidez horizontal (snap-back lento, distraction > 6 mm) ou vetor negativo.
 8. Fechamento com sutura contínua ou pontos separados.
 
-**Complicações:** ectrópio (1–2%), retração pálpebral inferior, scleral show, hematoma retrobulbar, hollowing. (Neligan, 2023, vol. 2, cap. 9; Operative Dictations, 2017, cap. 10; Grabb & Smith, 2024, cap. 35)
+**Complicações:** ectrópio (1–2%), retração pálpebral inferior, scleral show, hematoma retrobulbar, hollowing. (Neligan, 2023, vol. 2, cap. 14; Operative Dictations, 2017, cap. 10; Grabb & Smith, 2024, cap. 51)
 
 [Imagem: blef-13-32-blefaro-inferior-pele.png]
 [Imagem: algoritmo-tecnica-blefaroplastia-inferior.png]
@@ -520,7 +547,7 @@ A técnica anchor produz uma prega mais definida e estável que a blefaroplastia
 
 **Complicações:** assimetria cantal, deslocamento do ponto de fixação, cicatriz lateral.
 
-Cantopexia: sem secção do tendão (laxidez leve-moderada). Cantoplastia: com secção (laxidez grave). Cantopexia lateral é realizada em 68% das blefaroplastias inferiores atualmente (dados ABPS 2025 — Stein et al.). Fixar sempre 2 mm acima da posição ideal para compensar relaxamento. (Neligan, 2023, vol. 2, cap. 9; Core Procedures, 2020, cap. 3)
+Cantopexia: sem secção do tendão (laxidez leve-moderada). Cantoplastia: com secção (laxidez grave). Cantopexia lateral é realizada em 68% das blefaroplastias inferiores atualmente (dados ABPS 2025 — Stein et al.). Fixar sempre 2 mm acima da posição ideal para compensar relaxamento. (Neligan, 2023, vol. 2, cap. 14; Core Procedures, 2020, cap. 3)
 
 [Imagem: blef-13-37-cantopexia-periosteal.png]
 [Imagem: blef-13-38-cantopexia-duas-camadas.png]
@@ -543,7 +570,7 @@ Cantopexia: sem secção do tendão (laxidez leve-moderada). Cantoplastia: com s
 
 **Complicações:** ectrópio por tensão excessiva, entrópio por overcorrection, exposição/extrusão de sutura.
 
-A fixação deve ser na face INTERNA da parede orbitária lateral, posterior ao rebordo. Cantoplastia é mais robusta que cantopexia para laxidez grave. Pode ser em duas camadas: tarso ao osso + orbicular à fáscia temporal profunda. (Neligan, 2023, vol. 2, cap. 9; Core Procedures, 2020, cap. 3)
+A fixação deve ser na face INTERNA da parede orbitária lateral, posterior ao rebordo. Cantoplastia é mais robusta que cantopexia para laxidez grave. Pode ser em duas camadas: tarso ao osso + orbicular à fáscia temporal profunda. (Neligan, 2023, vol. 2, cap. 14; Core Procedures, 2020, cap. 3)
 
 [Imagem: blef-13-38-cantopexia-duas-camadas.png]
 
@@ -562,7 +589,7 @@ A fixação deve ser na face INTERNA da parede orbitária lateral, posterior ao 
 
 **Complicações:** cicatriz visível (raro se bem posicionada), assimetria.
 
-Técnica minimamente invasiva com menor risco de ectrópio por não violar septo nem orbicular. Ideal quando combinada com transconjuntival: gordura por trás + pinch por fora. (Neligan, 2023, vol. 2, cap. 9)
+Técnica minimamente invasiva com menor risco de ectrópio por não violar septo nem orbicular. Ideal quando combinada com transconjuntival: gordura por trás + pinch por fora. (Neligan, 2023, vol. 2, cap. 14)
 
 [Imagem: blef-13-32-blefaro-inferior-pele.png]
 
@@ -580,7 +607,7 @@ Técnica minimamente invasiva com menor risco de ectrópio por não violar septo
 5. Ajustar altura da prega conforme espessura do tecido pré-tarsal de cada paciente.
 6. Fechamento com sutura contínua intracuticular ou pontos separados.
 
-**Complicações:** recorrência da prega (15–30% no método de sutura), assimetria (3,3%), cicatriz visível (método incisional), prega excessivamente alta ou ocidentalizada. (Neligan, 2023, vol. 2, cap. 8; Grabb & Smith, 2024, cap. 35)
+**Complicações:** recorrência da prega (15–30% no método de sutura), assimetria (3,3%), cicatriz visível (método incisional), prega excessivamente alta ou ocidentalizada. (Neligan, 2023, vol. 2, cap. 13; Grabb & Smith, 2024, cap. 51)
 
 [Imagem: blef-13-10ab-variacoes-palpebra-superior.png]
 [Imagem: blef-13-10cd-palpebra-asiatica-baggy.png]
@@ -603,7 +630,7 @@ Técnica minimamente invasiva com menor risco de ectrópio por não violar septo
 
 **Complicações:** sobrecorreção (lagoftalmo), subcorreção, assimetria, ptose contralateral desmascarada (Lei de Hering).
 
-SEMPRE testar a Lei de Hering: ocluir olho ptótico por 2 min e observar contralateral. Se cai > 1 mm → planejar correção bilateral. Ajuste intraoperatório com paciente sentado é a chave para resultado simétrico. (Neligan, 2023, vol. 2, cap. 8; Grabb & Smith, 2024, cap. 35)
+SEMPRE testar a Lei de Hering: ocluir olho ptótico por 2 min e observar contralateral. Se cai > 1 mm → planejar correção bilateral. Ajuste intraoperatório com paciente sentado é a chave para resultado simétrico. (Neligan, 2023, vol. 2, cap. 13; Grabb & Smith, 2024, cap. 51)
 
 [Imagem: blef-13-29-incisao-levantador-plicatura.png]
 
@@ -626,7 +653,7 @@ SEMPRE testar a Lei de Hering: ocluir olho ptótico por 2 min e observar contral
 
 **Complicações:** corneal abrasion pela sutura, sobrecorreção, subcorreção, olho seco.
 
-O teste da fenilefrina é o seletor: elevação ≥ 1,5 mm indica candidato ideal. Técnica mais previsível para ptose leve simétrica. Fasanella-Servat inclui uma faixa de tarso superior além do Müller — mais agressivo. (Neligan, 2023, vol. 2, cap. 8; Grabb & Smith, 2024, cap. 35)
+O teste da fenilefrina é o seletor: elevação ≥ 1,5 mm indica candidato ideal. Técnica mais previsível para ptose leve simétrica. Fasanella-Servat inclui uma faixa de tarso superior além do Müller — mais agressivo. (Neligan, 2023, vol. 2, cap. 13; Grabb & Smith, 2024, cap. 51)
 
 ### Correção de Ptose — Suspensão Frontal (Frontalis Sling)
 
@@ -644,7 +671,7 @@ O teste da fenilefrina é o seletor: elevação ≥ 1,5 mm indica candidato idea
 
 **Complicações:** lagoftalmo (esperado — necessita lubrificação noturna), extrusão do material, assimetria, infecção do material.
 
-Fáscia lata autóloga é o padrão-ouro em crianças (integra-se melhor, menor risco de extrusão). Material sintético aceitável em adultos quando se deseja evitar morbidade da doadora. Lagoftalmo noturno é esperado e deve ser manejado com lubrificante. (Neligan, 2023, vol. 2, cap. 8; Grabb & Smith, 2024, cap. 35)
+Fáscia lata autóloga é o padrão-ouro em crianças (integra-se melhor, menor risco de extrusão). Material sintético aceitável em adultos quando se deseja evitar morbidade da doadora. Lagoftalmo noturno é esperado e deve ser manejado com lubrificante. (Neligan, 2023, vol. 2, cap. 13; Grabb & Smith, 2024, cap. 51)
 
 ### Cantotomia + Cantólise Lateral de Emergência
 
@@ -664,7 +691,7 @@ Fáscia lata autóloga é o padrão-ouro em crianças (integra-se melhor, menor 
 
 **Complicações:** deformidade do canto lateral (reparável), ectrópio temporal.
 
-Este procedimento deve ser dominado por todo cirurgião plástico que realiza blefaroplastia. Pode ser realizado à beira do leito com anestesia local — não atrasar. A cantólise permite expansão do conteúdo orbitário para fora do cone muscular, aliviando a pressão. Hematoma retrobulbar: remover suturas IMEDIATAMENTE primeiro, antes de qualquer outro passo. (Neligan, 2023, vol. 2, cap. 8; Core Procedures, 2020, cap. 3)
+Este procedimento deve ser dominado por todo cirurgião plástico que realiza blefaroplastia. Pode ser realizado à beira do leito com anestesia local — não atrasar. A cantólise permite expansão do conteúdo orbitário para fora do cone muscular, aliviando a pressão. Hematoma retrobulbar: remover suturas IMEDIATAMENTE primeiro, antes de qualquer outro passo. (Neligan, 2023, vol. 2, cap. 13; Core Procedures, 2020, cap. 3)
 
 [Imagem: cantotomia-lateral-emergencia.png]
 
@@ -679,7 +706,7 @@ Este procedimento deve ser dominado por todo cirurgião plástico que realiza bl
 - Equimose esperada, dura 7–14 dias.
 - Fotoproteção rigorosa por 3–6 meses.
 
-(Neligan, 2023, vol. 2, caps. 8–9; Operative Dictations, 2017, caps. 8–10)
+(Neligan, 2023, vol. 2, caps. 13–14; Operative Dictations, 2017, caps. 8–10)
 
 ## Outcomes and Complications
 
@@ -691,7 +718,7 @@ Este procedimento deve ser dominado por todo cirurgião plástico que realiza bl
 - A melhora funcional é mensurável por campimetria e sustentada em seguimento médio de 24 meses (Todorov et al., 2025 — ASJ 45:554).
 - Complicação mais frequente: olho seco transitório (18%).
 
-(Neligan, 2023, vol. 2, cap. 8; Core Procedures, 2020, cap. 3; Todorov D et al. Aesthet Surg J 2025;45(6):554–562)
+(Neligan, 2023, vol. 2, cap. 13; Core Procedures, 2020, cap. 3; Todorov D et al. Aesthet Surg J 2025;45(6):554–562)
 
 ### Hematoma Retrobulbar — Emergência
 
@@ -709,7 +736,7 @@ O hematoma retrobulbar é a complicação mais temida da blefaroplastia (incidê
 7. Dexametasona 8 mg IV.
 8. Encaminhar URGENTE para oftalmologia.
 
-A cantólise lateral (secção do ramo inferior do tendão cantal lateral) permite expansão do conteúdo orbitário para fora do cone muscular, aliviando a pressão. (Neligan, 2023, vol. 2, cap. 8; Core Procedures, 2020, cap. 3; Grabb & Smith, 2024, cap. 35)
+A cantólise lateral (secção do ramo inferior do tendão cantal lateral) permite expansão do conteúdo orbitário para fora do cone muscular, aliviando a pressão. (Neligan, 2023, vol. 2, cap. 13; Core Procedures, 2020, cap. 3; Grabb & Smith, 2024, cap. 51)
 
 [Imagem: cantotomia-lateral-emergencia.png]
 
@@ -729,7 +756,7 @@ A cantólise lateral (secção do ramo inferior do tendão cantal lateral) permi
 | **Milia** | 5–10% | Cistos de inclusão epidérmica na sutura | Remoção com agulha 18G; resolve espontaneamente |
 | **Infecção** | < 0,1% | Raro — pálpebra tem excelente vascularização | ATB (antibiótico) tópico + sistêmico se celulite |
 
-(Neligan, 2023, vol. 2, caps. 8–9; Grabb & Smith, 2024, cap. 35)
+(Neligan, 2023, vol. 2, caps. 13–14; Grabb & Smith, 2024, cap. 51)
 
 ## Secondary Procedures
 
@@ -737,11 +764,11 @@ A cantólise lateral (secção do ramo inferior do tendão cantal lateral) permi
 
 O laser CO₂ ou Er:YAG pode ser aplicado na pele da pálpebra inferior como alternativa à excisão de pele. Melhora rugas finas e textura sem risco de retração por excisão. Frequentemente combinado com blefaroplastia transconjuntival (para gordura) + pinch excision (para excesso mínimo de pele) ou laser isolado.
 
-**CUIDADO:** resurfacing da pálpebra inferior combinado com blefaroplastia transcutânea aumenta o risco de retração cicatricial. (Neligan, 2023, vol. 2, cap. 9)
+**CUIDADO:** resurfacing da pálpebra inferior combinado com blefaroplastia transcutânea aumenta o risco de retração cicatricial. (Neligan, 2023, vol. 2, cap. 14)
 
 ### Lipoenxertia Periocular
 
-Restaura volume no tear trough, sulco palpebro-malar e região temporal. Técnica de microfat ou nanofat com cânula de 0,7–1,0 mm. Injeção profunda (suborbicular/supraperiosteal) para evitar irregularidades na pele fina da pálpebra. Volume conservador: 0,5–1,5 mL por lado no tear trough — risco de sobrecorreção em pele fina. Pode ser associada a blefaroplastia inferior (transconjuntival com reposicionamento de gordura + lipoenxertia para volume residual deficiente). (Grabb & Smith, 2024, cap. 35)
+Restaura volume no tear trough, sulco palpebro-malar e região temporal. Técnica de microfat ou nanofat com cânula de 0,7–1,0 mm. Injeção profunda (suborbicular/supraperiosteal) para evitar irregularidades na pele fina da pálpebra. Volume conservador: 0,5–1,5 mL por lado no tear trough — risco de sobrecorreção em pele fina. Pode ser associada a blefaroplastia inferior (transconjuntival com reposicionamento de gordura + lipoenxertia para volume residual deficiente). (Grabb & Smith, 2024, cap. 51)
 
 ### Midfacelift via Blefaroplastia
 
@@ -751,7 +778,7 @@ O midfacelift pode ser realizado via incisão de blefaroplastia para rejuvenesci
 
 **Técnica:** desinserção subperiosteal do ligamento orbitomalar e suspensão do SOOF e tecidos do terço médio à fáscia temporal profunda.
 
-**Indicação:** descenso do terço médio com aprofundamento do sulco nasogeniano e tear trough, associado a envelhecimento periórbital. A cantopexia em duas camadas pode incluir opção de ancoramento para midfacelift simultâneo. (Neligan, 2023, vol. 2, cap. 9)
+**Indicação:** descenso do terço médio com aprofundamento do sulco nasogeniano e tear trough, associado a envelhecimento periórbital. A cantopexia em duas camadas pode incluir opção de ancoramento para midfacelift simultâneo. (Neligan, 2023, vol. 2, cap. 14)
 
 [Imagem: blef-13-40-midfacelift.png]
 
