@@ -168,60 +168,65 @@ O Dr. Arthur consome a biblioteca exclusivamente pelo iPhone.
 
 ## Orquestração de Trabalho
 
-### 1. Planejamento: fluxo único e obrigatório
+> Esta seção é a única fonte de verdade sobre quando e como usar os plugins e skills do Claude Code neste projeto. Não há outro arquivo de configuração paralelo.
+
+### 1. Planejamento
 
 **TODA tarefa de planejamento segue o mesmo fluxo, sem exceção:**
 
 1. Entrar em plan mode (`EnterPlanMode`)
-2. Invocar o skill `superpowers:brainstorming` dentro do plan mode
+2. Invocar `superpowers:brainstorming` dentro do plan mode — **OBRIGATÓRIO**
+3. Ao final do brainstorming, invocar `superpowers:writing-plans` — **OBRIGATÓRIO** para converter o design aprovado em plano executável
 
-Não avaliar se a tarefa é "trivial" ou "não-trivial" — esse julgamento não existe neste fluxo. Se é planejamento (decidir o que/como fazer antes de executar), é plan mode + brainstorming. Ponto.
+Se é planejamento (decidir o que/como fazer antes de executar), é plan mode + brainstorming + writing-plans — sem julgamento de trivialidade. Gatilhos: "retome o projeto", "planeja X", "faça tal tarefa", "o que fazer agora", ou qualquer pedido que exija decidir abordagem. Comandos atômicos sem decisão ("rode esse teste", "leia tal arquivo") executam direto. Se a execução sair dos trilhos, PARAR e voltar ao fluxo.
 
-Gatilhos: "retome o projeto", "planeja X", "faça tal tarefa", "o que fazer agora", ou qualquer pedido que exija decidir abordagem antes de executar.
+### 2. Execução
 
-Se algo sair dos trilhos durante a execução, PARAR e voltar ao fluxo (plan mode + brainstorming).
+- `superpowers:executing-plans` — **OBRIGATÓRIO** ao executar qualquer plano escrito (disciplina de commits, checklist por item)
+- `superpowers:test-driven-development` — **OBRIGATÓRIO** ao escrever código novo de produção (teste vermelho antes do código, sem exceção)
+- `superpowers:using-git-worktrees` — **OBRIGATÓRIO** ao iniciar feature que levará múltiplos commits ou trabalho isolado em paralelo
+- `superpowers:subagent-driven-development` — **OBRIGATÓRIO** quando a execução envolve subagentes executando passos do plano
+- `superpowers:dispatching-parallel-agents` — **OBRIGATÓRIO** ao enfrentar 2+ tarefas independentes que podem rodar simultaneamente
+- Subagentes liberalmente para preservar contexto: uma tarefa por agente, modelo por complexidade (Haiku/Sonnet simples, Opus complexas)
+- **Elegância** para mudanças não-triviais; simplicidade para o resto
 
-O fluxo vale sempre que houver planejamento. Execução direta de comandos atômicos sem decisão ("rode esse teste", "leia tal arquivo", "abra tal linha") não é planejamento — siga direto. Qualquer outra coisa é planejamento.
+### 3. Debugging
 
-### 2. Estratégia de Subagentes
+- `superpowers:systematic-debugging` — **OBRIGATÓRIO** ao encontrar qualquer bug
+- Quando o Dr. Arthur reporta um bug: corrigir autonomamente usando systematic-debugging como método. Zero troca de contexto exigida dele — não pedir passo a passo, simplesmente diagnosticar e corrigir.
 
-- Usar subagentes liberalmente para manter a janela de contexto limpa
-- Delegar pesquisa, exploração e análises paralelas
-- Uma tarefa por subagente para execução focada
-- **OBRIGATÓRIO:** Avaliar modelo por complexidade (Haiku/Sonnet para tarefas simples, Opus para complexas)
+### 4. Verificação
 
-### 3. Loop de Auto-Aperfeiçoamento
+- `superpowers:verification-before-completion` — **OBRIGATÓRIO** antes de marcar qualquer tarefa como concluída. Rodar testes, checar logs, provar corretude — nunca marcar sem demonstrar que funciona.
 
-- Após QUALQUER correção do Dr. Arthur: registrar na memória
-- Escrever regras que previnam o mesmo erro
+### 5. Code Review
+
+- `superpowers:finishing-a-development-branch` — **OBRIGATÓRIO** quando a implementação termina e o branch está pronto para virar PR
+- `superpowers:requesting-code-review` — **OBRIGATÓRIO** após completar feature significativa, antes de pedir review humano
+- `/code-review:code-review` — **OBRIGATÓRIO** antes de criar ou mergear qualquer pull request
+- `superpowers:receiving-code-review` — **OBRIGATÓRIO** ao processar apontamentos devolvidos por um review (humano ou automatizado)
+
+### 6. Loop de auto-aperfeiçoamento
+
+- Após QUALQUER correção do Dr. Arthur: registrar na memória imediatamente como regra que previna o mesmo erro
 - Revisar lições relevantes ao iniciar cada sessão
+- `superpowers:using-superpowers` é a meta-skill de entrada: verifica outras skills aplicáveis no início de cada turno. Deixar rodar sem bloquear.
 
-### 4. Verificação Antes de Concluir
+### 7. MCPs
 
-- Nunca marcar tarefa como concluída sem provar que funciona
-- Rodar testes, checar logs, demonstrar corretude
+- **`github`** — operações no repositório remoto (issues, PRs, branches, code search, leitura de outros repos). Usar quando fizer sentido; sem gatilho obrigatório.
+- **`context7`** — **OBRIGATÓRIO** antes de usar qualquer API de terceiros, ao encontrar sintaxe nova ou duvidosa, ao migrar versões de dependências, ou para debug de comportamento específico de biblioteca. **NÃO usar para:** refatoração de código próprio, debug de lógica de negócio, code review, conceitos gerais de programação.
+- **`playwright`** — **OBRIGATÓRIO** para qualquer tarefa que exija browser: testar `webapp/library/` em mobile viewport, capturar screenshots para validar UI, navegar páginas renderizadas, verificar fluxos end-to-end (home → briefing → chat).
 
-### 5. Correção Autônoma de Bugs
+### 8. Frontend
 
-- Quando receber relato de bug: simplesmente corrigir. Não pedir passo a passo
-- Zero troca de contexto exigida do Dr. Arthur
+- **`frontend-design:frontend-design`** — **OBRIGATÓRIO** consultar antes de implementar qualquer código de frontend (componentes, estilos, estrutura HTML/CSS/JS).
+- **`ui-ux-pro-max:ui-ux-pro-max`** — **OBRIGATÓRIO** consultar antes de decisões de UI/UX (layout, interação, acessibilidade).
+- Vale também durante bug fix autônomo — `systematic-debugging` roda em paralelo com `frontend-design`.
 
-### 6. Code Review
+### 9. Criação e edição de skills
 
-- **Obrigatório** usar `/code-review:code-review` antes de criar ou mergear qualquer pull request
-
-### Princípios Fundamentais
-
-- **Confiança nos Números** — todo dado rastreável ao documento-fonte. Nunca adivinhar
-- **Simplicidade** — impacto mínimo, causas raiz, sem sobre-engenharia, sem efeitos colaterais
-- **Elegância** quando a mudança tem peso arquitetural; simplicidade no resto
-- **Specs = Fonte de Verdade da Arquitetura** — consultar antes de tomar decisões de implementação
-
----
-
-## Plugins Claude Code
-
-Lista completa de MCPs, skills de processo (Superpowers), regras de code review e frontend em [`settings.json`](settings.json). Consultar **dentro do plan mode durante o brainstorming** (ver §1 de Orquestração) — o arquivo define quando cada plugin/skill deve ser usado.
+- `skill-creator:skill-creator` ou `superpowers:writing-skills` — **OBRIGATÓRIO** ao criar skill nova ou editar skill existente (do projeto ou global). Nunca improvisar a estrutura de uma skill.
 
 ---
 
