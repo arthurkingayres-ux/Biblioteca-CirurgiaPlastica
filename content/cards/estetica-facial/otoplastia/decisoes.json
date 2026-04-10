@@ -74,8 +74,16 @@
       "McGarry KM et al. Plast Reconstr Surg 2023;151(3):388e-397e"
     ],
     "images": [
-      "oto-dec-algoritmo-otoplastia.jpg",
-      "oto-anat-pavilhao-protrusao.jpg"
+      {
+        "file": "oto-dec-algoritmo-otoplastia.jpg",
+        "caption": "Algoritmo de decisão para orelha em abano: causa anatômica (anti-hélice vs concha vs combinada), idade do paciente e escolha técnica",
+        "credit": "Neligan's Plastic Surgery 5ª Ed., 2023, vol. 3, cap. 28"
+      },
+      {
+        "file": "oto-anat-pavilhao-protrusao.jpg",
+        "caption": "Medidas da protrusão auricular: ângulo cefaloauricular (normal 25–35°) e projeção hélice-mastoide (superior 10–12 mm, médio 16–18 mm, inferior 20–22 mm)",
+        "credit": "Neligan's Plastic Surgery 5ª Ed., 2023, vol. 3, cap. 28"
+      }
     ],
     "updates": [],
     "tags": [

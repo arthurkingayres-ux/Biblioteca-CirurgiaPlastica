@@ -37,10 +37,12 @@ const Renderer = (() => {
   function _images(topic, images) {
     if (!images || images.length === 0) return '';
     return images.map(img => {
-      const caption = img.caption || '';
-      const credit = img.credit || '';
+      // Backward-compat: aceita string legacy ou objeto {file, caption, credit}
+      const file = typeof img === 'string' ? img : img.file;
+      const caption = typeof img === 'string' ? '' : (img.caption || '');
+      const credit = typeof img === 'string' ? '' : (img.credit || '');
       return `<figure class="card-figure">
-      <img src="${_imgSrc(topic, img.file)}" alt="${caption}" loading="lazy">
+      <img src="${_imgSrc(topic, file)}" alt="${caption}" loading="lazy">
       <figcaption>
         <span class="caption">${caption}</span>
         <span class="credit">${credit}</span>

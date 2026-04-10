@@ -22,8 +22,16 @@
     "surgical_relevance": "O ângulo cefaloauricular normal e de 25-35 graus. Projeção helice-mastoide: 10-12 mm (superior), 16-18 mm (médio), 20-22 mm (inferior). Valores acima desses indicam orelha em abano. A idade mínima para otoplastia (5-6 anos) e determinada pelo grau de desenvolvimento do pavilhão.",
     "how_to_identify": "Estrutura cartilaginosa proeminente na região temporal lateral. Marcos anatômicos de superfície: helice (borda superior enrolada), anti-helice (crista paralela interna), tragus (protuberância anterior ao MAE), antitragus (protuberância inferior oposta ao tragus), lóbulo (porção inferior sem cartilagem), concha (depressão central dividida em cymba e cavum pelo crus helicis).",
     "images": [
-      "oto-anat-pavilhao-anatomia.jpg",
-      "oto-anat-pavilhao-protrusao.jpg"
+      {
+        "file": "oto-anat-pavilhao-anatomia.jpg",
+        "caption": "Pavilhão auricular: marcos anatômicos de superfície — hélice, anti-hélice, tragus, antitragus, concha (cymba e cavum) e lóbulo",
+        "credit": "Neligan's Plastic Surgery 5ª Ed., 2023, vol. 3, cap. 28"
+      },
+      {
+        "file": "oto-anat-pavilhao-protrusao.jpg",
+        "caption": "Medidas da protrusão auricular: ângulo cefaloauricular (normal 25–35°) e projeção hélice-mastoide (superior 10–12 mm, médio 16–18 mm, inferior 20–22 mm)",
+        "credit": "Neligan's Plastic Surgery 5ª Ed., 2023, vol. 3, cap. 28"
+      }
     ],
     "citations": [
       "Neligan, 2023, vol. 3, cap. 28",
@@ -58,8 +66,16 @@
     "surgical_relevance": "Fundamento de todas as técnicas de otoplastia: (1) Técnicas de sutura (Mustarde) moldam a cartilagem sem cortá-la; (2) Técnicas de escarificação (Stenstrom) usam o Princípio de Gibson para criar curvatura; (3) A nutrição por difusao via pericondrio torna a drenagem de hematomas urgente para prevenir necrose. O pericondrio deve ser preservado sempre que possível.",
     "how_to_identify": "Palpacao firme mas flexivel do pavilhão auricular. Transluminação com lanterna mostra a cartilagem como sombra. Ausencia de cartilagem no lóbulo (macio, depressivel).",
     "images": [
-      "oto-anat-cartilagem-deformidades.jpg",
-      "oto-anat-cartilagem-scoring.jpg"
+      {
+        "file": "oto-anat-cartilagem-deformidades.jpg",
+        "caption": "Deformidades cartilaginosas na orelha em abano: hipertrofia conchal e falha de formação do anti-hélice",
+        "credit": "Neligan's Plastic Surgery 5ª Ed., 2023, vol. 3, cap. 28"
+      },
+      {
+        "file": "oto-anat-cartilagem-scoring.jpg",
+        "caption": "Princípio de Gibson: escarificação (scoring) da superfície convexa da cartilagem elástica causa curvatura para o lado escarificado",
+        "credit": "Neligan's Plastic Surgery 5ª Ed., 2023, vol. 3, cap. 28"
+      }
     ],
     "citations": [
       "Neligan, 2023, vol. 3, cap. 28"
@@ -92,8 +108,16 @@
     "surgical_relevance": "O ângulo cefaloauricular normal é de 25–35 graus. Projeção helice-mastoide: 10–12 mm (superior), 16–18 mm (médio), 20–22 mm (inferior). Valores acima desses indicam orelha em abano. A idade mínima para otoplastia (5–6 anos) é determinada pelo grau de desenvolvimento do pavilhão.",
     "how_to_identify": "Marcos anatômicos de superfície — Hélice (borda superior enrolada), anti-hélice (crista paralela interna), tragus (protuberância anterior ao MAE), antitragus (protuberância inferior oposta ao tragus), lóbulo (porção inferior sem cartilagem), concha (depressão central dividida em cymba e cavum pelo crus helicis).",
     "images": [
-      "oto-anat-pavilhao-anatomia.jpg",
-      "oto-anat-pavilhao-protrusao.jpg"
+      {
+        "file": "oto-anat-pavilhao-anatomia.jpg",
+        "caption": "Pavilhão auricular: marcos anatômicos de superfície — hélice, anti-hélice, tragus, antitragus, concha (cymba e cavum) e lóbulo",
+        "credit": "Neligan's Plastic Surgery 5ª Ed., 2023, vol. 3, cap. 28"
+      },
+      {
+        "file": "oto-anat-pavilhao-protrusao.jpg",
+        "caption": "Medidas da protrusão auricular: ângulo cefaloauricular (normal 25–35°) e projeção hélice-mastoide (superior 10–12 mm, médio 16–18 mm, inferior 20–22 mm)",
+        "credit": "Neligan's Plastic Surgery 5ª Ed., 2023, vol. 3, cap. 28"
+      }
     ],
     "citations": [
       "Neligan, 2023, vol. 3, cap. 28",
@@ -128,8 +152,16 @@
     "surgical_relevance": "Fundamento de todas as técnicas de otoplastia. Técnicas de sutura (Mustarde) moldam a cartilagem sem cortá-la. Técnicas de escarificação (Stenstrom) usam o Princípio de Gibson para criar curvatura. A nutrição por difusão via pericôndrio torna a drenagem de hematomas urgente para prevenir necrose. O pericôndrio deve ser preservado sempre que possível.",
     "how_to_identify": "Palpação firme mas flexível do pavilhão auricular. Transluminação com lanterna mostra a cartilagem como sombra. Ausência de cartilagem no lóbulo (macio, depressível).",
     "images": [
-      "oto-anat-cartilagem-deformidades.jpg",
-      "oto-anat-cartilagem-scoring.jpg"
+      {
+        "file": "oto-anat-cartilagem-deformidades.jpg",
+        "caption": "Deformidades cartilaginosas na orelha em abano: hipertrofia conchal e falha de formação do anti-hélice",
+        "credit": "Neligan's Plastic Surgery 5ª Ed., 2023, vol. 3, cap. 28"
+      },
+      {
+        "file": "oto-anat-cartilagem-scoring.jpg",
+        "caption": "Princípio de Gibson: escarificação (scoring) da superfície convexa da cartilagem elástica causa curvatura para o lado escarificado",
+        "credit": "Neligan's Plastic Surgery 5ª Ed., 2023, vol. 3, cap. 28"
+      }
     ],
     "citations": [
       "Neligan, 2023, vol. 3, cap. 28"
