@@ -3,7 +3,11 @@
     "id": "rino-tec-001",
     "type": "technique",
     "title": "Rinoplastia Aberta (Via Transcolumelar)",
-    "aliases": ["open rhinoplasty", "via aberta", "transcolumelar approach"],
+    "aliases": [
+      "open rhinoplasty",
+      "via aberta",
+      "transcolumelar approach"
+    ],
     "topic": "rinoplastia",
     "area": "estética-facial",
     "indication": "Deformidades complexas do dorso e ponta, nariz desviado, rinoplastia secundária, necessidade de reconstrução com enxertos, deformidades da ponta que requerem suturas complexas.",
@@ -23,23 +27,48 @@
       "12. Irrigação com SF morno, fechamento stair-step com nylon 6-0 preto (PC-3), incisões vestibulares com chromic gut 5-0.",
       "13. Steri-Strips do supratip ao dorso + splint dorsal Denver + splints de Doyle se septoplastia."
     ],
-    "complications": ["Cicatriz transcolumelar (geralmente imperceptível)", "Edema prolongado da ponta", "Perda de projeção por ruptura ligamentar", "Separação da incisão columelar", "Notching columelar"],
+    "complications": [
+      "Cicatriz transcolumelar (geralmente imperceptível)",
+      "Edema prolongado da ponta",
+      "Perda de projeção por ruptura ligamentar",
+      "Separação da incisão columelar",
+      "Notching columelar"
+    ],
     "pearls": [
       "A dissecção sobre os ossos é feita apenas na área central — não perturbar as inserções periostais laterais (estabilidade pós-osteotomia).",
       "Hemostasia comparável é obtida com lidocaína + oximetazolina, evitando efeitos cardíacos da cocaína.",
       "Incisão em broken-line pode produzir menor notching columelar.",
       "Remoção de splints e suturas típicamente no 7° dia pós-operatório."
     ],
-    "images": ["algoritmo-abordagem-aberta-fechada.png"],
-    "citations": ["Neligan, 2023, vol. 2, cap. 19", "Core Procedures, 2020, cap. 4"],
+    "images": [
+      {
+        "file": "algoritmo-abordagem-aberta-fechada.png",
+        "caption": "Algoritmo de decisão entre rinoplastia aberta (via transcolumelar) e fechada — indicações por complexidade, deformidade e experiência do cirurgião.",
+        "credit": "Neligan vol. 2, caps. 18-22 — Rhinoplasty"
+      }
+    ],
+    "citations": [
+      "Neligan, 2023, vol. 2, cap. 19",
+      "Core Procedures, 2020, cap. 4"
+    ],
     "updates": [],
-    "tags": ["técnica", "via-aberta", "transcolumelar", "rinoplastia", "exposição"]
+    "tags": [
+      "técnica",
+      "via-aberta",
+      "transcolumelar",
+      "rinoplastia",
+      "exposição"
+    ]
   },
   {
     "id": "rino-tec-002",
     "type": "technique",
     "title": "Rinoplastia Fechada (Endonasal)",
-    "aliases": ["closed rhinoplasty", "endonasal rhinoplasty", "via fechada"],
+    "aliases": [
+      "closed rhinoplasty",
+      "endonasal rhinoplasty",
+      "via fechada"
+    ],
     "topic": "rinoplastia",
     "area": "estética-facial",
     "indication": "Dorso baixo para o tamanho da base, pontas que necessitam de enxerto mais que de ressecção, pacientes com pele que camufla bem as correções, revisões secundárias com anatomia favorável.",
@@ -52,7 +81,11 @@
       "5. Redução dorsal e osteotomias conforme necessidade.",
       "6. Fechamento das incisões intranasais."
     ],
-    "complications": ["Deformidade residual por visualização limitada", "Lesão da valva interna (incisão intercartilaginosa)", "Assimetria"],
+    "complications": [
+      "Deformidade residual por visualização limitada",
+      "Lesão da valva interna (incisão intercartilaginosa)",
+      "Assimetria"
+    ],
     "pearls": [
       "Na técnica fechada, a sequência de planejamento segue um algoritmo diagnóstico: 'dorso alto para a base' vs. 'dorso baixo para a base'.",
       "Tip grafts são o principal recurso para redefinir a relação dorso-ponta sem reduzir o dorso: múltiplos enxertos (nunca um único) produzem pontas mais naturais.",
@@ -60,15 +93,29 @@
       "Desvantagens: visualização monocular, menos controle para deformidades complexas, maior curva de aprendizado."
     ],
     "images": [],
-    "citations": ["Neligan, 2023, vol. 2, cap. 20", "Operative Dictations, 2017, cap. 1", "Core Procedures, 2020, cap. 4"],
+    "citations": [
+      "Neligan, 2023, vol. 2, cap. 20",
+      "Operative Dictations, 2017, cap. 1",
+      "Core Procedures, 2020, cap. 4"
+    ],
     "updates": [],
-    "tags": ["técnica", "via-fechada", "endonasal", "delivery", "incisões"]
+    "tags": [
+      "técnica",
+      "via-fechada",
+      "endonasal",
+      "delivery",
+      "incisões"
+    ]
   },
   {
     "id": "rino-tec-003",
     "type": "technique",
     "title": "Septoplastia e Reconstrução Septal",
-    "aliases": ["septoplasty", "reconstrução septal", "correção do desvio septal"],
+    "aliases": [
+      "septoplasty",
+      "reconstrução septal",
+      "correção do desvio septal"
+    ],
     "topic": "rinoplastia",
     "area": "estética-facial",
     "indication": "Desvio septal com obstrução nasal, coleta de cartilagem para enxertos, nariz desviado. Classificação de Rohrich: I — desvio caudal (tilt reto, C-shaped, S-shaped); II — deformidade dorsal côncava; III — deformidade côncava/convexa (S-shaped).",
@@ -84,7 +131,12 @@
       "8. Scoring, battens caudais ou spreader grafts para desvios dorsais.",
       "9. Reparar perfurações mucosas bilaterais opostas com chromic gut 5-0."
     ],
-    "complications": ["Perfuração septal (bilaterais opostas não reparadas)", "Sela pós-operatória (L-strut insuficiente)", "Epistaxe", "Hematoma septal"],
+    "complications": [
+      "Perfuração septal (bilaterais opostas não reparadas)",
+      "Sela pós-operatória (L-strut insuficiente)",
+      "Epistaxe",
+      "Hematoma septal"
+    ],
     "pearls": [
       "Coleta de cartilagem septal realizada APÓS a redução dorsal para não comprometer o L-strut.",
       "Perfurações mucosas unilaterais não causam problemas; bilaterais opostas devem ser reparadas.",
@@ -92,15 +144,27 @@
       "Princípios: liberar todas as inserções mucopericondriais, retificar mantendo L-strut ≥ 10 mm, corrigir desvio caudal por último."
     ],
     "images": [],
-    "citations": ["Neligan, 2023, vol. 2, cap. 19"],
+    "citations": [
+      "Neligan, 2023, vol. 2, cap. 19"
+    ],
     "updates": [],
-    "tags": ["técnica", "septoplastia", "desvio-septal", "L-strut", "coleta-enxerto"]
+    "tags": [
+      "técnica",
+      "septoplastia",
+      "desvio-septal",
+      "L-strut",
+      "coleta-enxerto"
+    ]
   },
   {
     "id": "rino-tec-004",
     "type": "technique",
     "title": "Redução Dorsal por Componentes (Component Dorsal Hump Reduction)",
-    "aliases": ["component reduction", "redução do dorso", "hump reduction"],
+    "aliases": [
+      "component reduction",
+      "redução do dorso",
+      "hump reduction"
+    ],
     "topic": "rinoplastia",
     "area": "estética-facial",
     "indication": "Giba dorsal osteocartilaginosa. Preferida sobre a redução composta com osteótomo.",
@@ -112,22 +176,40 @@
       "4. Redução incremental do dorso ósseo com raspa de diamante (down-biting), em excursões curtas ao longo das linhas estéticas dorsais.",
       "5. Verificação por palpação (teste de palpação dorsal de 3 pontos). Reposicionar pele e avaliar contorno após cada etapa."
     ],
-    "complications": ["Open roof deformity (requer osteotomias)", "Deformidade em V invertido (ressecção excessiva de CLS)", "Arredondamento do dorso (ressecção igual septo/CLS)", "Irregularidade dorsal"],
+    "complications": [
+      "Open roof deformity (requer osteotomias)",
+      "Deformidade em V invertido (ressecção excessiva de CLS)",
+      "Arredondamento do dorso (ressecção igual septo/CLS)",
+      "Irregularidade dorsal"
+    ],
     "pearls": [
       "O dorso é modificado ANTES da ponta, estabelecendo o equilíbrio dorso-ponta essencial.",
       "A técnica por componentes é preferida sobre a redução composta com osteótomo.",
       "Pacientes com ossos nasais curtos e arcabouço ósseocartilaginoso alto e estreito têm maior risco de problemas no terço médio."
     ],
     "images": [],
-    "citations": ["Neligan, 2023, vol. 2, cap. 19", "Grabb & Smith, 2024, cap. 54"],
+    "citations": [
+      "Neligan, 2023, vol. 2, cap. 19",
+      "Grabb & Smith, 2024, cap. 54"
+    ],
     "updates": [],
-    "tags": ["técnica", "redução-dorsal", "componentes", "giba", "dorso"]
+    "tags": [
+      "técnica",
+      "redução-dorsal",
+      "componentes",
+      "giba",
+      "dorso"
+    ]
   },
   {
     "id": "rino-tec-005",
     "type": "technique",
     "title": "Spreader Grafts e Autospreader Flaps",
-    "aliases": ["spreader grafts", "autospreader flaps", "enxertos de espalhamento"],
+    "aliases": [
+      "spreader grafts",
+      "autospreader flaps",
+      "enxertos de espalhamento"
+    ],
     "topic": "rinoplastia",
     "area": "estética-facial",
     "indication": "Recriar linhas estéticas dorsais, alargar terço médio, corrigir nariz desviado, restaurar patência da valva interna, prevenir/tratar deformidade em V invertido.",
@@ -140,23 +222,47 @@
       "5. Fixação com sutura de PDS 5-0 em pontos colchoneiro horizontais.",
       "6. Alternativa: autospreader flaps — usar as próprias CLS dobradas como spreaders, mantendo patência da valva interna."
     ],
-    "complications": ["Largura excessiva do terço médio", "Assimetria", "Obstrução nasal por spreader mau posicionado"],
+    "complications": [
+      "Largura excessiva do terço médio",
+      "Assimetria",
+      "Obstrução nasal por spreader mau posicionado"
+    ],
     "pearls": [
       "Spreader graft estendido, com porção caudal projetando-se abaixo do septo caudal, pode alongar o nariz curto.",
       "Meta-análise recente não encontrou diferença entre spreader grafts e spreader flaps quanto à obstrução nasal.",
       "Mini-spreaders (~8 × 2 × 2 mm), colocados por via endonasal no ponto de maior estreitamento, são alternativa mais conservadora.",
       "Suturas spanning de tensão das CLS reaproximam as CLS ao septo após redução dorsal."
     ],
-    "images": ["fig19-6-spreader-grafts.jpeg"],
-    "citations": ["Neligan, 2023, vol. 2, cap. 19", "Grabb & Smith, 2024, cap. 54"],
+    "images": [
+      {
+        "file": "fig19-6-spreader-grafts.jpeg",
+        "caption": "Spreader grafts posicionados entre o septo dorsal e as CLS para restaurar as linhas estéticas dorsais e a patência da valva nasal interna.",
+        "credit": "Neligan vol. 2, caps. 18-22 — Rhinoplasty"
+      }
+    ],
+    "citations": [
+      "Neligan, 2023, vol. 2, cap. 19",
+      "Grabb & Smith, 2024, cap. 54"
+    ],
     "updates": [],
-    "tags": ["técnica", "spreader-graft", "autospreader", "valva-interna", "terço-médio"]
+    "tags": [
+      "técnica",
+      "spreader-graft",
+      "autospreader",
+      "valva-interna",
+      "terço-médio"
+    ]
   },
   {
     "id": "rino-tec-006",
     "type": "technique",
     "title": "Osteotomias Nasais",
-    "aliases": ["osteotomies", "osteotomia lateral", "osteotomia medial", "osteotomia percutânea"],
+    "aliases": [
+      "osteotomies",
+      "osteotomia lateral",
+      "osteotomia medial",
+      "osteotomia percutânea"
+    ],
     "topic": "rinoplastia",
     "area": "estética-facial",
     "indication": "Estreitar vault ósseo largo, fechar open roof deformity após redução dorsal, retificar ossos nasais desviados.",
@@ -169,23 +275,53 @@
       "5. Oblíqua superior medialmente. NÃO continuar acima do canto medial (risco de rocker deformity).",
       "6. Pressão digital suave realiza greenstick fracture para reposicionar."
     ],
-    "complications": ["Diminuição da valva nasal interna (todas as osteotomias laterais)", "Rocker deformity (osteotomia ultrapassando o canto medial)", "Edema periorbitário", "Equimose", "Assimetria óssea"],
+    "complications": [
+      "Diminuição da valva nasal interna (todas as osteotomias laterais)",
+      "Rocker deformity (osteotomia ultrapassando o canto medial)",
+      "Edema periorbitário",
+      "Equimose",
+      "Assimetria óssea"
+    ],
     "pearls": [
       "Técnica percutânea descontínua (preferida por Rohrich) reduz edema e equimose.",
       "Todas as osteotomias laterais diminuem a valva nasal interna (Helal et al.).",
       "Osteotomia de Webster (curva, preservando fragmento ósseo no nível do corneto inferior) descrita para prevenir complicação valvar.",
       "Outros favorecem spreader grafts + manutenção do ângulo de divergência como estratégia mais eficaz."
     ],
-    "images": ["algoritmo-osteotomias.png", "fig19-27-osteotomias-laterais.jpeg"],
-    "citations": ["Neligan, 2023, vol. 2, cap. 19", "Grabb & Smith, 2024, cap. 54"],
+    "images": [
+      {
+        "file": "algoritmo-osteotomias.png",
+        "caption": "Algoritmo de osteotomias nasais: seleção entre laterais baixas, mediais, intermediárias e transversas conforme deformidade óssea e largura do dorso.",
+        "credit": "Neligan vol. 2, caps. 18-22 — Rhinoplasty"
+      },
+      {
+        "file": "fig19-27-osteotomias-laterais.jpeg",
+        "caption": "Técnica de osteotomias laterais baixo-para-alto realizadas com osteótomo de 2–4 mm para estreitar o vault ósseo e fechar open roof deformity.",
+        "credit": "Neligan vol. 2, caps. 18-22 — Rhinoplasty"
+      }
+    ],
+    "citations": [
+      "Neligan, 2023, vol. 2, cap. 19",
+      "Grabb & Smith, 2024, cap. 54"
+    ],
     "updates": [],
-    "tags": ["técnica", "osteotomia", "vault-ósseo", "open-roof", "percutânea"]
+    "tags": [
+      "técnica",
+      "osteotomia",
+      "vault-ósseo",
+      "open-roof",
+      "percutânea"
+    ]
   },
   {
     "id": "rino-tec-007",
     "type": "technique",
     "title": "Cephalic Trim da Crura Lateral",
-    "aliases": ["cephalic trim", "ressecção cefálica", "volume reduction lower laterals"],
+    "aliases": [
+      "cephalic trim",
+      "ressecção cefálica",
+      "volume reduction lower laterals"
+    ],
     "topic": "rinoplastia",
     "area": "estética-facial",
     "indication": "Ponta bulbosa ou boxy. Remove a proeminência cefálica da crura média e lateral, reduzindo fullness paradomal e definindo a ponta.",
@@ -196,7 +332,13 @@
       "3. Ressecar a faixa cefálica preservando integridade do alar rim strip.",
       "4. Guardar cartilagem excisada como fonte de enxerto autólogo."
     ],
-    "complications": ["Pinched tip", "Over-rotation", "Enfraquecimento do suporte", "Irregularidades de contorno", "Colapso alar"],
+    "complications": [
+      "Pinched tip",
+      "Over-rotation",
+      "Enfraquecimento do suporte",
+      "Irregularidades de contorno",
+      "Colapso alar"
+    ],
     "pearls": [
       "REGRA FUNDAMENTAL: preservar alar rim strip de no mínimo 5–6 mm para suporte adequado da valva externa.",
       "Medição com compasso é obrigatória.",
@@ -204,15 +346,29 @@
       "Ressecção excessiva é a causa mais comum de ponta pinçada e colapso alar."
     ],
     "images": [],
-    "citations": ["Neligan, 2023, vol. 2, cap. 19", "Grabb & Smith, 2024, cap. 54"],
+    "citations": [
+      "Neligan, 2023, vol. 2, cap. 19",
+      "Grabb & Smith, 2024, cap. 54"
+    ],
     "updates": [],
-    "tags": ["técnica", "cephalic-trim", "ponta", "crura-lateral", "definição"]
+    "tags": [
+      "técnica",
+      "cephalic-trim",
+      "ponta",
+      "crura-lateral",
+      "definição"
+    ]
   },
   {
     "id": "rino-tec-008",
     "type": "technique",
     "title": "Suturas da Ponta Nasal",
-    "aliases": ["tip sutures", "sutura transdomal", "sutura interdomal", "sutura de ponta"],
+    "aliases": [
+      "tip sutures",
+      "sutura transdomal",
+      "sutura interdomal",
+      "sutura de ponta"
+    ],
     "topic": "rinoplastia",
     "area": "estética-facial",
     "indication": "Refinamento e controle da projeção, definição e simetria da ponta nasal. Primeira abordagem antes de enxertos.",
@@ -226,23 +382,56 @@
       "6. Sutura intercrural septal: altera rotação da ponta.",
       "7. Sutura colchoneiro da crura lateral: reduz convexidade e retifica a crura lateral (largura habitual: 6–8 mm, não penetrar revestimento vestibular)."
     ],
-    "complications": ["Assimetria por tensão desigual", "Extrusão de sutura", "Perfuração do revestimento vestibular"],
+    "complications": [
+      "Assimetria por tensão desigual",
+      "Extrusão de sutura",
+      "Perfuração do revestimento vestibular"
+    ],
     "pearls": [
       "Todas as suturas com PDS 5-0.",
       "Técnicas de sutura devem preceder a ressecção tecidual.",
       "Algoritmo na revisão: inicia com hemi-transdomal → colchoneiro da crura lateral → demais conforme necessidade.",
       "Sete técnicas principais oferecem controle tridimensional completo da ponta."
     ],
-    "images": ["fig19-19a-sutura-crura-medial.jpeg", "fig19-19b-sutura-transdomal.jpeg", "fig19-19c-sutura-interdomal.jpeg"],
-    "citations": ["Neligan, 2023, vol. 2, cap. 19"],
+    "images": [
+      {
+        "file": "fig19-19a-sutura-crura-medial.jpeg",
+        "caption": "Sutura de aproximação das cruras mediais — passo inicial das suturas da ponta para criar um complexo lobular unificado.",
+        "credit": "Neligan vol. 2, caps. 18-22 — Rhinoplasty"
+      },
+      {
+        "file": "fig19-19b-sutura-transdomal.jpeg",
+        "caption": "Sutura transdomal: controla a largura de cada dome e define a projeção individual da crus lateral.",
+        "credit": "Neligan vol. 2, caps. 18-22 — Rhinoplasty"
+      },
+      {
+        "file": "fig19-19c-sutura-interdomal.jpeg",
+        "caption": "Sutura interdomal: aproxima os domes entre si, refinando a definição e simetria da ponta nasal.",
+        "credit": "Neligan vol. 2, caps. 18-22 — Rhinoplasty"
+      }
+    ],
+    "citations": [
+      "Neligan, 2023, vol. 2, cap. 19"
+    ],
     "updates": [],
-    "tags": ["técnica", "sutura", "ponta", "transdomal", "interdomal", "refinamento"]
+    "tags": [
+      "técnica",
+      "sutura",
+      "ponta",
+      "transdomal",
+      "interdomal",
+      "refinamento"
+    ]
   },
   {
     "id": "rino-tec-009",
     "type": "technique",
     "title": "Columellar Strut Graft",
-    "aliases": ["columellar strut", "strut columelar", "enxerto intercrural"],
+    "aliases": [
+      "columellar strut",
+      "strut columelar",
+      "enxerto intercrural"
+    ],
     "topic": "rinoplastia",
     "area": "estética-facial",
     "indication": "Manter ou aumentar projeção da ponta, unificar o complexo da ponta. Uso rotineiro na via aberta para compensar perda de suporte ligamentar.",
@@ -255,22 +444,44 @@
       "5. Preservar almofada de tecido mole de 2–3 mm sobre a espinha nasal (evitar movimento com os lábios).",
       "6. Fixação com PDS 5-0."
     ],
-    "complications": ["Rigidez excessiva da columela", "Deslocamento do enxerto", "Visibilidade/palpabilidade em pele fina"],
+    "complications": [
+      "Rigidez excessiva da columela",
+      "Deslocamento do enxerto",
+      "Visibilidade/palpabilidade em pele fina"
+    ],
     "pearls": [
       "Floating é mais comum e mais versátil.",
       "Fixed aumenta projeção — usado quando projeção adicional significativa é necessária.",
       "Uso rotineiro na via aberta compensa perda de suporte por ruptura do ligamento inter-alar."
     ],
-    "images": ["fig19-15-strut-columelar.jpeg"],
-    "citations": ["Neligan, 2023, vol. 2, cap. 19"],
+    "images": [
+      {
+        "file": "fig19-15-strut-columelar.jpeg",
+        "caption": "Columellar strut graft posicionado entre as cruras mediais para suportar a projeção da ponta e unificar o complexo lobular na rinoplastia aberta.",
+        "credit": "Neligan vol. 2, caps. 18-22 — Rhinoplasty"
+      }
+    ],
+    "citations": [
+      "Neligan, 2023, vol. 2, cap. 19"
+    ],
     "updates": [],
-    "tags": ["técnica", "columellar-strut", "projeção", "suporte", "enxerto"]
+    "tags": [
+      "técnica",
+      "columellar-strut",
+      "projeção",
+      "suporte",
+      "enxerto"
+    ]
   },
   {
     "id": "rino-tec-010",
     "type": "technique",
     "title": "Septal Extension Graft (Extensão Septal)",
-    "aliases": ["septal extension graft", "extensão septal", "caudal extension"],
+    "aliases": [
+      "septal extension graft",
+      "extensão septal",
+      "caudal extension"
+    ],
     "topic": "rinoplastia",
     "area": "estética-facial",
     "indication": "Controle efetivo de projeção e rotação da ponta. Versatilidade para alongar ou encurtar o nariz.",
@@ -282,22 +493,40 @@
       "4. Ângulo de posicionamento: 90° ao dorso → manutenção da rotação; 45° inferior → alongamento e desrotação.",
       "5. Fixação com quatro suturas em sequência: fixação anterior → estabilização superior → estabilização inferior → fixação basal."
     ],
-    "complications": ["Desvio do enxerto", "Over-projection", "Rigidez excessiva da ponta"],
+    "complications": [
+      "Desvio do enxerto",
+      "Over-projection",
+      "Rigidez excessiva da ponta"
+    ],
     "pearls": [
       "Um dos enxertos mais versáteis para controle de projeção e rotação.",
       "Ângulo de 90° mantém rotação; 45° inferior alonga e desrota.",
       "Rib ou costela homóloga fresca usada quando septo insuficiente."
     ],
     "images": [],
-    "citations": ["Neligan, 2023, vol. 2, cap. 19"],
+    "citations": [
+      "Neligan, 2023, vol. 2, cap. 19"
+    ],
     "updates": [],
-    "tags": ["técnica", "extensão-septal", "projeção", "rotação", "enxerto"]
+    "tags": [
+      "técnica",
+      "extensão-septal",
+      "projeção",
+      "rotação",
+      "enxerto"
+    ]
   },
   {
     "id": "rino-tec-011",
     "type": "technique",
     "title": "Enxertos da Ponta (Shield, Onlay, Cap)",
-    "aliases": ["tip grafts", "shield graft", "onlay graft", "cap graft", "anatomic tip graft"],
+    "aliases": [
+      "tip grafts",
+      "shield graft",
+      "onlay graft",
+      "cap graft",
+      "anatomic tip graft"
+    ],
     "topic": "rinoplastia",
     "area": "estética-facial",
     "indication": "Quando projeção, definição ou simetria adequadas não são obtidas por sutura. Preferência por enxertos invisíveis em rinoplastia primária.",
@@ -308,22 +537,43 @@
       "3. Anatomic tip graft: combinação shield + onlay, mimetizando anatomia de superfície da ponta ideal.",
       "4. Cap graft: derivado do cephalic trim (anatomic cap grafts), posicionado sobre os domos."
     ],
-    "complications": ["Reabsorção a longo prazo", "Afinamento do tecido mole sobrejacente", "Visibilidade/palpabilidade", "Assimetria"],
+    "complications": [
+      "Reabsorção a longo prazo",
+      "Afinamento do tecido mole sobrejacente",
+      "Visibilidade/palpabilidade",
+      "Assimetria"
+    ],
     "pearls": [
       "Enxertos visíveis pouco usados em primária pelo risco de reabsorção e afinamento.",
       "Preferência por enxertos invisíveis (anatomic cap grafts do cephalic trim, ou onlay morselizados).",
       "Na técnica fechada, múltiplos enxertos (nunca um único) produzem pontas mais naturais. Quanto mais enxertos, menos angular."
     ],
     "images": [],
-    "citations": ["Neligan, 2023, vol. 2, cap. 19", "Constantian, Neligan cap. 20"],
+    "citations": [
+      "Neligan, 2023, vol. 2, cap. 19",
+      "Constantian, Neligan cap. 20"
+    ],
     "updates": [],
-    "tags": ["técnica", "tip-graft", "shield", "onlay", "cap", "projeção", "definição"]
+    "tags": [
+      "técnica",
+      "tip-graft",
+      "shield",
+      "onlay",
+      "cap",
+      "projeção",
+      "definição"
+    ]
   },
   {
     "id": "rino-tec-012",
     "type": "technique",
     "title": "Alar Contour Graft e Lateral Crural Strut Graft",
-    "aliases": ["alar rim graft", "alar contour graft", "lateral crural strut graft", "LCSG"],
+    "aliases": [
+      "alar rim graft",
+      "alar contour graft",
+      "lateral crural strut graft",
+      "LCSG"
+    ],
     "topic": "rinoplastia",
     "area": "estética-facial",
     "indication": "Alar contour: corrigir/prevenir notching ou retração alar, facetas dos soft triangles. Lateral crural strut: CLA fracas, colapso de valva externa, malposição das CLA, aumento de projeção.",
@@ -335,22 +585,49 @@
       "4. Posicionar strut sob a crura lateral, repousando no orifício piriforme posteriormente.",
       "5. Fixar com PDS 5-0."
     ],
-    "complications": ["Visibilidade do enxerto", "Assimetria alar", "Obstrução narinária"],
+    "complications": [
+      "Visibilidade do enxerto",
+      "Assimetria alar",
+      "Obstrução narinária"
+    ],
     "pearls": [
       "Alar contour grafts são método simples e eficaz para corrigir retração e notching.",
       "Lateral crural strut é fundamental para CLA fracas e colapso de valva externa.",
       "Na classificação alar-columelar de Rohrich, retração alar (Classe II) é tratada com esses enxertos."
     ],
-    "images": ["fig19-24-alar-contour-grafts.jpeg", "fig19-25-lateral-crural-strut.jpeg"],
-    "citations": ["Neligan, 2023, vol. 2, cap. 19"],
+    "images": [
+      {
+        "file": "fig19-24-alar-contour-grafts.jpeg",
+        "caption": "Alar contour grafts (rim grafts): tiras cartilaginosas inseridas em bolso ao longo do rim alar para corrigir ou prevenir notching e retração.",
+        "credit": "Neligan vol. 2, caps. 18-22 — Rhinoplasty"
+      },
+      {
+        "file": "fig19-25-lateral-crural-strut.jpeg",
+        "caption": "Lateral crural strut graft suturado sob a crus lateral da CLA — reforça cartilagens fracas, reposiciona malposição e previne colapso da valva externa.",
+        "credit": "Neligan vol. 2, caps. 18-22 — Rhinoplasty"
+      }
+    ],
+    "citations": [
+      "Neligan, 2023, vol. 2, cap. 19"
+    ],
     "updates": [],
-    "tags": ["técnica", "alar-contour", "lateral-crural-strut", "retração-alar", "colapso"]
+    "tags": [
+      "técnica",
+      "alar-contour",
+      "lateral-crural-strut",
+      "retração-alar",
+      "colapso"
+    ]
   },
   {
     "id": "rino-tec-013",
     "type": "technique",
     "title": "Cirurgia da Base Alar",
-    "aliases": ["alar base reduction", "redução da base alar", "Weir excision"],
+    "aliases": [
+      "alar base reduction",
+      "redução da base alar",
+      "Weir excision"
+    ],
     "topic": "rinoplastia",
     "area": "estética-facial",
     "indication": "Flaring alar, assimetria de narinas, narinas excessivamente grandes, alae laterais alongadas, base alar alargada.",
@@ -361,22 +638,39 @@
       "3. Alar flaring com modificação de narina: excisão em cunha do lóbulo + vestíbulo, com retalho medial para prevenir notching.",
       "4. Manter incisões inferiores ao sulco alar para preservar artérias nasais laterais."
     ],
-    "complications": ["Notching alar", "Cicatriz visível", "Base desproporcional (bowling pin)", "Assimetria"],
+    "complications": [
+      "Notching alar",
+      "Cicatriz visível",
+      "Base desproporcional (bowling pin)",
+      "Assimetria"
+    ],
     "pearls": [
       "Ângulo agudo entre plano alar e basal é ideal para ressecção.",
       "Preservar artérias nasais laterais mantendo incisões inferiores ao sulco alar.",
       "Excisão conservadora — menor é melhor para evitar notching."
     ],
     "images": [],
-    "citations": ["Neligan, 2023, vol. 2, cap. 19"],
+    "citations": [
+      "Neligan, 2023, vol. 2, cap. 19"
+    ],
     "updates": [],
-    "tags": ["técnica", "base-alar", "flaring", "excisão", "narinas"]
+    "tags": [
+      "técnica",
+      "base-alar",
+      "flaring",
+      "excisão",
+      "narinas"
+    ]
   },
   {
     "id": "rino-tec-014",
     "type": "technique",
     "title": "Turbinoplastia Inferior",
-    "aliases": ["turbinoplasty", "turbinectomia", "redução de corneto inferior"],
+    "aliases": [
+      "turbinoplasty",
+      "turbinectomia",
+      "redução de corneto inferior"
+    ],
     "topic": "rinoplastia",
     "area": "estética-facial",
     "indication": "Obstrução por hipertrofia de corneto inferior refratária ao tratamento clínico.",
@@ -388,22 +682,42 @@
       "4. Pinças de Takahashi ressecam o osso do terço anterior.",
       "5. Retalho reposicionado sobre a superfície cruenta (não suturar — adere espontâneamente)."
     ],
-    "complications": ["Sangramento (vasos posteriores de maior calibre)", "Crostas", "Disfunção ciliar", "Infecção crônica", "Rinite atrófica", "Síndrome do nariz vazio (empty nose syndrome)"],
+    "complications": [
+      "Sangramento (vasos posteriores de maior calibre)",
+      "Crostas",
+      "Disfunção ciliar",
+      "Infecção crônica",
+      "Rinite atrófica",
+      "Síndrome do nariz vazio (empty nose syndrome)"
+    ],
     "pearls": [
       "Abordagem conservadora preferida para evitar complicações graves.",
       "Ensaio clínico randomizado (ECR) de Passàli et al. (382 pacientes, 6 anos): ressecção submucosa + outfracture teve menores complicações com altas taxas de respiração normalizada — recomendada como técnica de primeira escolha.",
       "Evitar ressecção posterior (vasos de maior calibre, sangramento significativo)."
     ],
     "images": [],
-    "citations": ["Neligan, 2023, vol. 2, cap. 19", "Grabb & Smith, 2024, cap. 54"],
+    "citations": [
+      "Neligan, 2023, vol. 2, cap. 19",
+      "Grabb & Smith, 2024, cap. 54"
+    ],
     "updates": [],
-    "tags": ["técnica", "turbinoplastia", "corneto", "obstrução", "ressecção-submucosa"]
+    "tags": [
+      "técnica",
+      "turbinoplastia",
+      "corneto",
+      "obstrução",
+      "ressecção-submucosa"
+    ]
   },
   {
     "id": "rino-tec-015",
     "type": "technique",
     "title": "Liberação do Músculo Depressor Septi Nasi",
-    "aliases": ["depressor septi release", "liberação do depressor", "depressor septi nasi release"],
+    "aliases": [
+      "depressor septi release",
+      "liberação do depressor",
+      "depressor septi nasi release"
+    ],
     "topic": "rinoplastia",
     "area": "estética-facial",
     "indication": "Descida da ponta com animação, encurtamento do lábio superior e vinco transverso do filtro.",
@@ -415,22 +729,38 @@
       "4. Transposição das extremidades cortadas para fornecer volume ao lábio superior central.",
       "5. Fechamento vertical da incisão para alongar o lábio."
     ],
-    "complications": ["Encurtamento insuficiente do lábio", "Rigidez labial", "Assimetria"],
+    "complications": [
+      "Encurtamento insuficiente do lábio",
+      "Rigidez labial",
+      "Assimetria"
+    ],
     "pearls": [
       "O depressor septi nasi espástico causa descida da ponta ao sorrir, encurtamento do lábio superior e vinco transverso no filtro.",
       "A transposição das extremidades cortadas para o lábio compensa a perda de volume.",
       "Fechamento vertical da incisão gingivolabial alonga o lábio."
     ],
     "images": [],
-    "citations": ["Neligan, 2023, vol. 2, cap. 19"],
+    "citations": [
+      "Neligan, 2023, vol. 2, cap. 19"
+    ],
     "updates": [],
-    "tags": ["técnica", "depressor-septi", "ponta", "lábio", "animação"]
+    "tags": [
+      "técnica",
+      "depressor-septi",
+      "ponta",
+      "lábio",
+      "animação"
+    ]
   },
   {
     "id": "rino-tec-016",
     "type": "technique",
     "title": "Rinoplastia de Preservação Dorsal (Dorsal Preservation)",
-    "aliases": ["dorsal preservation", "preservação dorsal", "push-down technique"],
+    "aliases": [
+      "dorsal preservation",
+      "preservação dorsal",
+      "push-down technique"
+    ],
     "topic": "rinoplastia",
     "area": "estética-facial",
     "indication": "Giba dorsal pequena a moderada, pele adequada, anatomia favorável. Preserva a relação intrínseca do keystone.",
@@ -442,14 +772,21 @@
       "4. Auxílio frequente de equipamento piezoelétrico.",
       "5. Evita 'teto aberto' e necessidade de osteotomias tradicionais."
     ],
-    "complications": ["Recorrência da giba (2,5–13,6%)", "Irregularidade dorsal residual", "Resultados imprevisíveis em anatomia desfavorável"],
+    "complications": [
+      "Recorrência da giba (2,5–13,6%)",
+      "Irregularidade dorsal residual",
+      "Resultados imprevisíveis em anatomia desfavorável"
+    ],
     "pearls": [
       "Debate atual: alguns cirurgiões incorporam seletivamente princípios de preservação a uma abordagem estrutural moderna.",
       "Sergesketter et al. (4 cirurgiões seniores, 115 anos de prática): abordagem híbrida.",
       "Eletrocautério supera bisturi para remodelamento das CLS na preservação (recorrência 2,5% vs. 13,6%)."
     ],
     "images": [],
-    "citations": ["Neligan, 2023, vol. 2, caps. 18–19", "Sergesketter AR et al. PRS 2026;157(4):496e–503e"],
+    "citations": [
+      "Neligan, 2023, vol. 2, caps. 18–19",
+      "Sergesketter AR et al. PRS 2026;157(4):496e–503e"
+    ],
     "updates": [
       {
         "color": "red",
@@ -464,13 +801,23 @@
         "paradigm_shift": true
       }
     ],
-    "tags": ["técnica", "preservação-dorsal", "push-down", "piezoelétrico", "keystone"]
+    "tags": [
+      "técnica",
+      "preservação-dorsal",
+      "push-down",
+      "piezoelétrico",
+      "keystone"
+    ]
   },
   {
     "id": "rino-tec-017",
     "type": "technique",
     "title": "Correção da Relação Alar-Columelar (Classificação de Rohrich)",
-    "aliases": ["alar-columellar relationship", "relação alar-columelar", "classificação de Rohrich"],
+    "aliases": [
+      "alar-columellar relationship",
+      "relação alar-columelar",
+      "classificação de Rohrich"
+    ],
     "topic": "rinoplastia",
     "area": "estética-facial",
     "indication": "Desproporção entre a posição da ala nasal e a columela, avaliada na vista lateral.",
@@ -483,15 +830,27 @@
       "5. Classe V (retração columelar < 1 mm) → columellar strut contornado entre as cruras mediais.",
       "6. Classe VI (combinação IV + V)."
     ],
-    "complications": ["Sobrecorreção", "Assimetria residual", "Retração cicatricial"],
+    "complications": [
+      "Sobrecorreção",
+      "Assimetria residual",
+      "Retração cicatricial"
+    ],
     "pearls": [
       "Seis classes de Rohrich oferecem algoritmo completo para manejo da relação alar-columelar.",
       "Retração alar (Classe II) é a mais comum e tratada com alar contour/LCSG grafts.",
       "Elipse de pele vestibular para ala pendente: máximo 3 mm para evitar estenose."
     ],
     "images": [],
-    "citations": ["Neligan, 2023, vol. 2, cap. 19"],
+    "citations": [
+      "Neligan, 2023, vol. 2, cap. 19"
+    ],
     "updates": [],
-    "tags": ["técnica", "alar-columelar", "Rohrich", "classificação", "relação"]
+    "tags": [
+      "técnica",
+      "alar-columelar",
+      "Rohrich",
+      "classificação",
+      "relação"
+    ]
   }
 ]

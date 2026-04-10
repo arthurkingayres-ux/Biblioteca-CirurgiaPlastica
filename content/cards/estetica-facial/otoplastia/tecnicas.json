@@ -36,8 +36,16 @@
       "O ajuste da tensão das suturas deve ser feito com o paciente sentado para avaliar simetria."
     ],
     "images": [
-      "oto-tec-mustarde-sutura.jpg",
-      "oto-tec-antihelice-sutura.jpg"
+      {
+        "file": "oto-tec-mustarde-sutura.jpg",
+        "caption": "Técnica de Mustardé: suturas em colchoeiro horizontal de cartilagem posterior para criação/reforço do anti-hélice",
+        "credit": "Neligan's Plastic Surgery 5ª Ed., 2023, vol. 3, cap. 28; Grabb & Smith, 2020, cap. 36"
+      },
+      {
+        "file": "oto-tec-antihelice-sutura.jpg",
+        "caption": "Marcação pré-operatória do anti-hélice com agulhas de insulina para guiar a colocação das suturas de Mustardé",
+        "credit": "Neligan's Plastic Surgery 5ª Ed., 2023, vol. 3, cap. 28"
+      }
     ],
     "citations": [
       "Grabb & Smith, 2020, cap. 36",
@@ -85,8 +93,16 @@
       "Verificar permeabilidade do canal auditivo externo após fixação."
     ],
     "images": [
-      "oto-tec-furnas-conchal.jpg",
-      "oto-tec-furnas-projecao.jpg"
+      {
+        "file": "oto-tec-furnas-conchal.jpg",
+        "caption": "Técnica de Furnas: sutura concha-mastoide para reposicionamento conchal em casos de hipertrofia",
+        "credit": "Neligan's Plastic Surgery 5ª Ed., 2023, vol. 3, cap. 28"
+      },
+      {
+        "file": "oto-tec-furnas-projecao.jpg",
+        "caption": "Redução da projeção auricular após sutura concha-mastoide de Furnas",
+        "credit": "Neligan's Plastic Surgery 5ª Ed., 2023, vol. 3, cap. 28"
+      }
     ],
     "citations": [
       "Grabb & Smith, 2020, cap. 36",
@@ -139,7 +155,11 @@
       "Serie piloto de 24 orelhas com 91% de satisfacao em 18 meses."
     ],
     "images": [
-      "oto-tec-cartilage-sparing.jpg"
+      {
+        "file": "oto-tec-cartilage-sparing.jpg",
+        "caption": "Otoplastia cartilage-sparing: suturas percutâneas sem incisão de cartilagem, preservando o pericôndrio",
+        "credit": "Neligan's Plastic Surgery 5ª Ed., 2023, vol. 3, cap. 28"
+      }
     ],
     "citations": [
       "Benkler M et al. Plast Reconstr Surg 2023;152(4):689e-692e. DOI: 10.1097/PRS.0000000000010401"
@@ -191,7 +211,11 @@
       "Serie de 340 orelhas: 0% de extrusao vs. 5,8% no historico do mesmo cirurgiao sem o retalho."
     ],
     "images": [
-      "oto-tec-mustarde-sutura.jpg"
+      {
+        "file": "oto-tec-mustarde-sutura.jpg",
+        "caption": "Técnica de Mustardé: suturas em colchoeiro horizontal de cartilagem posterior para criação/reforço do anti-hélice",
+        "credit": "Neligan's Plastic Surgery 5ª Ed., 2023, vol. 3, cap. 28; Grabb & Smith, 2020, cap. 36"
+      }
     ],
     "citations": [
       "Bulstrode NW et al. Plast Reconstr Surg 2024;154(6):1191e-1199e. DOI: 10.1097/PRS.0000000000011342"
@@ -242,7 +266,11 @@
       "Serie de 58 orelhas: zero extrusao em 24 meses vs. 8,6% no grupo controle historico."
     ],
     "images": [
-      "oto-tec-antihelice-sutura.jpg"
+      {
+        "file": "oto-tec-antihelice-sutura.jpg",
+        "caption": "Marcação pré-operatória do anti-hélice com agulhas de insulina para guiar a colocação das suturas de Mustardé",
+        "credit": "Neligan's Plastic Surgery 5ª Ed., 2023, vol. 3, cap. 28"
+      }
     ],
     "citations": [
       "Alzayadneh I et al. Aesthet Surg J 2022;42(9):NP571-NP575. DOI: 10.1093/asj/sjac079"
@@ -299,8 +327,16 @@
       "Custo-efetiva: tratamento nao cirúrgico ambulatorial, sem anestesia."
     ],
     "images": [
-      "oto-tec-moldagem-neonatal.jpg",
-      "oto-tec-moldagem-prominente.jpg"
+      {
+        "file": "oto-tec-moldagem-neonatal.jpg",
+        "caption": "Moldagem neonatal auricular não-cirúrgica: dispositivos externos (EarWell, Auri) aplicados nas primeiras 6 semanas de vida",
+        "credit": "Neligan's Plastic Surgery 5ª Ed., 2023, vol. 3, cap. 28"
+      },
+      {
+        "file": "oto-tec-moldagem-prominente.jpg",
+        "caption": "Correção de orelha proeminente com moldagem neonatal precoce — efeito da laxitude residual da cartilagem por estrogênio materno",
+        "credit": "Neligan's Plastic Surgery 5ª Ed., 2023, vol. 3, cap. 28"
+      }
     ],
     "citations": [
       "Neligan, 2023, vol. 3, cap. 28"
@@ -347,8 +383,16 @@
       "O ajuste da tensão das suturas deve ser feito com o paciente sentado para avaliar simetria"
     ],
     "images": [
-      "oto-tec-mustarde-sutura.jpg",
-      "oto-tec-antihelice-sutura.jpg"
+      {
+        "file": "oto-tec-mustarde-sutura.jpg",
+        "caption": "Técnica de Mustardé: suturas em colchoeiro horizontal de cartilagem posterior para criação/reforço do anti-hélice",
+        "credit": "Neligan's Plastic Surgery 5ª Ed., 2023, vol. 3, cap. 28; Grabb & Smith, 2020, cap. 36"
+      },
+      {
+        "file": "oto-tec-antihelice-sutura.jpg",
+        "caption": "Marcação pré-operatória do anti-hélice com agulhas de insulina para guiar a colocação das suturas de Mustardé",
+        "credit": "Neligan's Plastic Surgery 5ª Ed., 2023, vol. 3, cap. 28"
+      }
     ],
     "citations": [
       "Grabb & Smith, 2020, cap. 36",
@@ -391,7 +435,11 @@
       "Série piloto de 24 orelhas com 91% de satisfação em 18 meses"
     ],
     "images": [
-      "oto-tec-cartilage-sparing.jpg"
+      {
+        "file": "oto-tec-cartilage-sparing.jpg",
+        "caption": "Otoplastia cartilage-sparing: suturas percutâneas sem incisão de cartilagem, preservando o pericôndrio",
+        "credit": "Neligan's Plastic Surgery 5ª Ed., 2023, vol. 3, cap. 28"
+      }
     ],
     "citations": [
       "Benkler M et al. Plast Reconstr Surg 2023;152(4):689e-692e",
@@ -433,7 +481,11 @@
       "Reduz taxa de extrusão de 5,8% para 0% (série de 340 orelhas)"
     ],
     "images": [
-      "oto-tec-mustarde-sutura.jpg"
+      {
+        "file": "oto-tec-mustarde-sutura.jpg",
+        "caption": "Técnica de Mustardé: suturas em colchoeiro horizontal de cartilagem posterior para criação/reforço do anti-hélice",
+        "credit": "Neligan's Plastic Surgery 5ª Ed., 2023, vol. 3, cap. 28; Grabb & Smith, 2020, cap. 36"
+      }
     ],
     "citations": [
       "Bulstrode NW et al. Plast Reconstr Surg 2024;154(6):1191e-1199e",
@@ -477,7 +529,11 @@
       "Taxa de extrusão zero em 24 meses versus 8,6% no grupo controle histórico"
     ],
     "images": [
-      "oto-tec-antihelice-sutura.jpg"
+      {
+        "file": "oto-tec-antihelice-sutura.jpg",
+        "caption": "Marcação pré-operatória do anti-hélice com agulhas de insulina para guiar a colocação das suturas de Mustardé",
+        "credit": "Neligan's Plastic Surgery 5ª Ed., 2023, vol. 3, cap. 28"
+      }
     ],
     "citations": [
       "Alzayadneh I et al. Aesthet Surg J 2022;42(9):NP571-NP575",
@@ -525,8 +581,16 @@
       "Custo-efetiva: tratamento não cirúrgico ambulatorial, sem anestesia"
     ],
     "images": [
-      "oto-tec-moldagem-neonatal.jpg",
-      "oto-tec-moldagem-prominente.jpg"
+      {
+        "file": "oto-tec-moldagem-neonatal.jpg",
+        "caption": "Moldagem neonatal auricular não-cirúrgica: dispositivos externos (EarWell, Auri) aplicados nas primeiras 6 semanas de vida",
+        "credit": "Neligan's Plastic Surgery 5ª Ed., 2023, vol. 3, cap. 28"
+      },
+      {
+        "file": "oto-tec-moldagem-prominente.jpg",
+        "caption": "Correção de orelha proeminente com moldagem neonatal precoce — efeito da laxitude residual da cartilagem por estrogênio materno",
+        "credit": "Neligan's Plastic Surgery 5ª Ed., 2023, vol. 3, cap. 28"
+      }
     ],
     "citations": [
       "Neligan, 2023, vol. 3, cap. 28"

@@ -1,13 +1,13 @@
-const CACHE_NAME = 'briefing-preop-v10';
+const CACHE_NAME = 'briefing-preop-v11';
 const ASSETS = [
   './',
   './index.html',
   './style.css',
-  './app.js',
-  './search.js',
-  './renderer.js',
-  './preop.js',
-  './chat.js',
+  './app.js?v=2026-04-09',
+  './search.js?v=2026-04-09',
+  './renderer.js?v=2026-04-09',
+  './preop.js?v=2026-04-09',
+  './chat.js?v=2026-04-09',
   './manifest.json'
 ];
 

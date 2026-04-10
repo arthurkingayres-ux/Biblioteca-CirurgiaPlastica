@@ -2,31 +2,35 @@
   {
     "id": "abdo-tec-001",
     "type": "technique",
-    "title": "Abdominoplastia Classica Completa (Matarasso — Tipo IV)",
-    "aliases": ["full abdominoplasty", "abdominoplastia completa", "abdominoplastia padrao"],
+    "title": "Abdominoplastia Clássica Completa (Matarasso — Tipo IV)",
+    "aliases": [
+      "full abdominoplasty",
+      "abdominoplastia completa",
+      "abdominoplastia padrão"
+    ],
     "topic": "abdominoplastia",
     "area": "contorno-corporal",
     "indication": "Excesso franco de pele supra e infra-umbilical, lipodistrofia generalizada, diástase grave do reto abdominal, ptose do umbigo. Classificação de Matarasso Tipo IV.",
-    "contraindication": "Tabagismo ativo (suspender >= 4 semanas antes e apos), IMC (Indice de Massa Corporal) > 35 kg/m2, instabilidade de peso (aguardar 3-6 meses), gravidez futura planejada, TDC (Transtorno Dismorfico Corporal), coagulopatia nao corrigida, gordura visceral predominante (abdome convexo em supino — plicatura contraindicada).",
+    "contraindication": "Tabagismo ativo (suspender >= 4 semanas antes e após), IMC (Índice de Massa Corporal) > 35 kg/m2, instabilidade de peso (aguardar 3-6 meses), gravidez futura planejada, TDC (Transtorno Dismórfico Corporal), coagulopatia não corrigida, gordura visceral predominante (abdome convexo em supino — plicatura contraindicada).",
     "steps": [
-      "1. Marcações com paciente em pe: borda superior e inferior da roupa intima preferida; extremidades laterais da excisão na prega cutânea natural (paciente sentado); incisão inferior 5-9 cm acima da fenda vulvar; incisão superior conectando a elipse, apice ligeiramente acima do umbigo.",
+      "1. Marcações com paciente em pé: borda superior e inferior da roupa íntima preferida; extremidades laterais da excisão na prega cutânea natural (paciente sentado); incisão inferior 5-9 cm acima da fenda vulvar; incisão superior conectando a elipse, ápice ligeiramente acima do umbigo.",
       "2. Verificação das marcações no centro cirúrgico com sutura de seda longa (midline xifoide-pubis), sobrepondo pontos superior e inferior para confirmar simetria.",
-      "3. Posicionamento em decubito dorsal com mesa em cadeira de praia (beach chair). Anestesia geral ou raquidiana/peridural.",
-      "4. Infiltração superwet: 1 L Ringer lactato + 20 mL lidocaina 1% + 1 mL epinefrina 1:1.000. Limitar volume ao abdome para preservar margem para outras areas.",
-      "5. Lipoaspiração das areas indicadas (flancos, monte pubiano, zona de descolagem seletiva) ENQUANTO vasos ainda estao fechados — reduz risco de embolia gordurosa.",
+      "3. Posicionamento em decúbito dorsal com mesa em cadeira de praia (beach chair). Anestesia geral ou raquidiana/peridural.",
+      "4. Infiltração superwet: 1 L Ringer lactato + 20 mL lidocaína 1% + 1 mL epinefrina 1:1.000. Limitar volume ao abdome para preservar margem para outras áreas.",
+      "5. Lipoaspiração das áreas indicadas (flancos, monte pubiano, zona de descolagem seletiva) ENQUANTO vasos ainda estão fechados — reduz risco de embolia gordurosa.",
       "6. Troca de luvas. Reverificação das marcações com sutura de seda cruzada.",
-      "7. Dissecção e liberacao do umbigo com tesoura de Metzenbaum; fixação de botao ocular plástico ao coto umbilical para identificacao posterior.",
-      "8. Pre-excisão (técnica de Planas-Matarasso): incisão SUPERIOR da elipse primeiro, com bisel de 45 graus em direção a fáscia do reto. Tecido excisado em vest-over-pants. Beneficios: menor sangramento, preservação de calor, plano natural de dissecção.",
-      "9. Descolagem do retalho superior em V invertido: tunel central estreito suficiente para plicatura do reto (zona de descolagem completa), preservando perfuradores laterais intercostais (Zona III de Huger).",
-      "10. Hemostasia contínua com eletrocauterio antes de perfuradores recuarem sob a fáscia.",
-      "11. Injecao analgesica ao longo da fáscia do reto: Exparel 20 mL 1,3% + 80 mL SF 0,9% + bupivacaina 0,25% 30 mL com epinefrina 1:200.000, técnica de threading.",
-      "12. Marcação da diástase do reto com elipse vertical de tinta (xifoide ao pubis). Plicatura supraumbilical: sutura corrida loop nylon 0 ou Quill 1-0 polipropileno (CT-1, 45 cm). Plicatura infraumbilical: segunda sutura similar ate o osso pubiano. Reforco: pontos interrompidos Nurolon 2-0. Em pacientes magros: 1-2 suturas horizontais de waistline ao nível do umbigo (5-8 cm).",
-      "13. Descolagem seletiva adicional para reduzir abaulamentos residuais pos-plicatura (conservadora — algum abaulamento leve e tolerado).",
+      "7. Dissecção e liberação do umbigo com tesoura de Metzenbaum; fixação de botão ocular plástico ao coto umbilical para identificação posterior.",
+      "8. Pré-excisão (técnica de Planas-Matarasso): incisão SUPERIOR da elipse primeiro, com bisel de 45 graus em direção à fáscia do reto. Tecido excisado em vest-over-pants. Benefícios: menor sangramento, preservação de calor, plano natural de dissecção.",
+      "9. Descolagem do retalho superior em V invertido: túnel central estreito suficiente para plicatura do reto (zona de descolagem completa), preservando perfuradores laterais intercostais (Zona III de Huger).",
+      "10. Hemostasia contínua com eletrocautério antes de perfuradores recuarem sob a fáscia.",
+      "11. Injeção analgésica ao longo da fáscia do reto: Exparel 20 mL 1,3% + 80 mL SF 0,9% + bupivacaína 0,25% 30 mL com epinefrina 1:200.000, técnica de threading.",
+      "12. Marcação da diástase do reto com elipse vertical de tinta (xifoide ao pubis). Plicatura supraumbilical: sutura corrida loop nylon 0 ou Quill 1-0 polipropileno (CT-1, 45 cm). Plicatura infraumbilical: segunda sutura similar até o osso pubiano. Reforço: pontos interrompidos Nurolon 2-0. Em pacientes magros: 1-2 suturas horizontais de waistline ao nível do umbigo (5-8 cm).",
+      "13. Descolagem seletiva adicional para reduzir abaulamentos residuais pós-plicatura (conservadora — algum abaulamento leve é tolerado).",
       "14. Irrigação com SF + H2O2 3%; hemostasia final.",
-      "15. Flexao máxima da mesa (beach chair). Fechamento: ponto profundo Vicryl 2-0 na linha media; grampos laterais para minimizar dog-ears; fechamento profundo com Quill Monoderm 2-0 (incorporando fáscia de Scarpa); fechamento subdérmico com Quill Monoderm 3-0.",
-      "16. Colocacao de dois drenos Jackson-Pratt No. 10 (pre-embebidos em Betadine), saida médio-lateral.",
-      "17. Umbilicoplastia: palpacao do botao ocular; marcação da nova posição umbilical (referencia: sutura de seda midline sobre comissura vulvar); incisão em V invertido 2,5 cm; desgordurar bordas se necessário; NAO ancorar a fáscia; fechamento com pontos profundos absorviveis + nylon 3-0 e 4-0.",
-      "18. Curativo: unguento antibiotico + Telfa ou Prineo (Dermabond). Transferencia para maca em posição de cadeira de praia."
+      "15. Flexão máxima da mesa (beach chair). Fechamento: ponto profundo Vicryl 2-0 na linha média; grampos laterais para minimizar dog-ears; fechamento profundo com Quill Monoderm 2-0 (incorporando fáscia de Scarpa); fechamento subdérmico com Quill Monoderm 3-0.",
+      "16. Colocação de dois drenos Jackson-Pratt No. 10 (pré-embebidos em Betadine), saída médio-lateral.",
+      "17. Umbilicoplastia: palpação do botão ocular; marcação da nova posição umbilical (referência: sutura de seda midline sobre comissura vulvar); incisão em V invertido 2,5 cm; desgordurar bordas se necessário; NÃO ancorar à fáscia; fechamento com pontos profundos absorvíveis + nylon 3-0 e 4-0.",
+      "18. Curativo: unguento antibiótico + Telfa ou Prineo (Dermabond). Transferência para maca em posição de cadeira de praia."
     ],
     "complications": [
       "Seroma (complicação local mais comum)",
@@ -34,139 +38,209 @@
       "Infecção superficial (1-3,8%)",
       "Fasciite necrosante (rara; escore LRINEC >= 6)",
       "TEV/EP (tromboembolismo venoso / embolia pulmonar) (0,5-1,1%)",
-      "Necrose/isquemia do retalho (triângulo terrivel)",
+      "Necrose/isquemia do retalho (triângulo terrível)",
       "Dog-ear",
-      "Lesao do nervo cutâneo femoral lateral",
-      "Lesao dos nervos ilioinguinal/iliohipogastrico (1,9%)",
-      "Cicatriz alargada/hipertrofica",
+      "Lesão do nervo cutâneo femoral lateral",
+      "Lesão dos nervos ilioinguinal/iliohipogástrico (1,9%)",
+      "Cicatriz alargada/hipertrófica",
       "Distopia umbilical"
     ],
     "pearls": [
-      "A incisão superior e feita ANTES da inferior (pre-excisão de Planas-Matarasso): menor sangramento, preservação de calor, plano natural de dissecção.",
-      "O triângulo terrivel do abdome e o ponto de máxima tensão na linha média — evitar manobras que aumentem tensão nessa região.",
-      "A plicatura deve se estender ABAIXO da margem cutânea inferior ate o osso pubiano para prevenir fullness suprapubiana pos-op.",
-      "Botao ocular plástico suturado ao coto umbilical permite identificacao precisa da posição por palpacao através da pele.",
+      "A incisão superior é feita ANTES da inferior (pré-excisão de Planas-Matarasso): menor sangramento, preservação de calor, plano natural de dissecção.",
+      "O triângulo terrível do abdome é o ponto de máxima tensão na linha média — evitar manobras que aumentem tensão nessa região.",
+      "A plicatura deve se estender ABAIXO da margem cutânea inferior até o osso pubiano para prevenir fullness suprapubiana pós-op.",
+      "Botão ocular plástico suturado ao coto umbilical permite identificação precisa da posição por palpação através da pele.",
       "Sutura de seda longa na linha média (xifoide-pubis) confirma simetria bilateral antes de qualquer incisão."
     ],
-    "images": ["abdo-tec-classica-marcacao.jpg", "abdo-tec-classica-plicatura.jpg"],
+    "images": [
+      {
+        "file": "abdo-tec-classica-marcacao.jpg",
+        "caption": "Marcação pré-operatória da abdominoplastia clássica (Matarasso tipo IV): elipse supra-púbica com ápice próximo ao umbigo, extremidades laterais na prega natural e incisão inferior 5–9 cm acima da fenda vulvar.",
+        "credit": "Neligan vol. 2, cap. 27 — Matarasso (Abdominoplasty)"
+      },
+      {
+        "file": "abdo-tec-classica-plicatura.jpg",
+        "caption": "Plicatura do músculo reto abdominal em sutura contínua na linha alba, do apêndice xifoide ao osso pubiano, corrigindo a diástase após descolagem em V invertido.",
+        "credit": "Neligan vol. 2, cap. 27 — Matarasso (Abdominoplasty)"
+      }
+    ],
     "citations": [
       "Neligan, 2023, vol. 2, cap. 27 — Matarasso",
       "Grabb & Smith, 2024, cap. 75 — Colwell"
     ],
     "updates": [],
-    "tags": ["técnica", "abdominoplastia-classica", "plicatura", "V-invertido", "matarasso"]
+    "tags": [
+      "técnica",
+      "abdominoplastia-clássica",
+      "plicatura",
+      "V-invertido",
+      "matarasso"
+    ]
   },
   {
     "id": "abdo-tec-002",
     "type": "technique",
     "title": "Mini-Abdominoplastia (Tipo II — Matarasso)",
-    "aliases": ["mini abdominoplasty", "abdominoplastia parcial", "abdominoplastia limitada"],
+    "aliases": [
+      "mini abdominoplasty",
+      "abdominoplastia parcial",
+      "abdominoplastia limitada"
+    ],
     "topic": "abdominoplastia",
     "area": "contorno-corporal",
-    "indication": "Excesso de pele restrito ao abdome inferior (infra-umbilical) leve a moderado, diástase infra-umbilical, tonus cutâneo razoavel supra-umbilicalmente. Frequentemente corrige cicatriz de cesarea deprimida e irregularidades de contorno associadas. Classificação de Matarasso Tipo II.",
-    "contraindication": "Excesso de pele supra-umbilical significativo (pode piorar comparativamente a flacidez preexistente); diástase completa do reto (nao corrigida por plicatura limitada); gordura visceral predominante; tabagismo ativo; IMC > 35 kg/m2.",
+    "indication": "Excesso de pele restrito ao abdome inferior (infra-umbilical) leve a moderado, diástase infra-umbilical, tônus cutâneo razoável supra-umbilicalmente. Frequentemente corrige cicatriz de cesárea deprimida e irregularidades de contorno associadas. Classificação de Matarasso Tipo II.",
+    "contraindication": "Excesso de pele supra-umbilical significativo (pode piorar comparativamente a flacidez preexistente); diástase completa do reto (não corrigida por plicatura limitada); gordura visceral predominante; tabagismo ativo; IMC > 35 kg/m2.",
     "steps": [
-      "1. Marcações com paciente em pe: incisão inferior transversa baixa (frequentemente sobre cicatriz de cesarea previa).",
-      "2. Excisão limitada de pele infra-umbilical conforme a laxidao cutânea.",
+      "1. Marcações com paciente em pé: incisão inferior transversa baixa (frequentemente sobre cicatriz de cesárea prévia).",
+      "2. Excisão limitada de pele infra-umbilical conforme a laxidão cutânea.",
       "3. Descolagem limitada do retalho infra-umbilical.",
       "4. Plicatura do reto infra-umbilical quando indicada.",
       "5. Lipoaspiração concomitante quando indicada.",
-      "6. Fechamento com aproximação sem tensão. O umbigo NAO e transposicionado — mantem sua insercao original.",
+      "6. Fechamento com aproximação sem tensão. O umbigo NÃO é transposicionado — mantém sua inserção original.",
       "7. Drenos conforme necessidade."
     ],
     "complications": [
-      "Seroma (menor incidencia que classica)",
+      "Seroma (menor incidência que clássica)",
       "Piora comparativa da flacidez supra-umbilical (se indicação inadequada)",
       "Hematoma",
       "Infecção"
     ],
     "pearls": [
-      "Cautela: correção isolada do abdome inferior pode piorar comparativamente a flacidez supraumbilical preexistente — comúnicar ao paciente.",
-      "Frequentemente incorpora a cicatriz de cesarea previa na area de excisão.",
-      "O umbigo NAO e transposicionado na mini-abdominoplastia."
+      "Cautela: correção isolada do abdome inferior pode piorar comparativamente a flacidez supraumbilical preexistente — comunicar ao paciente.",
+      "Frequentemente incorpora a cicatriz de cesárea prévia na área de excisão.",
+      "O umbigo NÃO é transposicionado na mini-abdominoplastia."
     ],
-    "images": ["abdo-dec-incisoes-tipos.jpg"],
+    "images": [
+      {
+        "file": "abdo-dec-incisoes-tipos.jpg",
+        "caption": "Tipos de incisão na classificação de Matarasso: mini-abdominoplastia (tipo II) usa incisão transversa baixa restrita ao abdome inferior, sem transposição umbilical.",
+        "credit": "Neligan vol. 2, cap. 27 — Matarasso (Abdominoplasty)"
+      }
+    ],
     "citations": [
       "Grabb & Smith, 2024, cap. 75 — Colwell",
       "Neligan, 2023, vol. 2, cap. 27 — Matarasso"
     ],
     "updates": [],
-    "tags": ["técnica", "mini-abdominoplastia", "tipo-II", "infra-umbilical"]
+    "tags": [
+      "técnica",
+      "mini-abdominoplastia",
+      "tipo-II",
+      "infra-umbilical"
+    ]
   },
   {
     "id": "abdo-tec-003",
     "type": "technique",
     "title": "Lipoabdominoplastia (Saldanha)",
-    "aliases": ["lipoabdominoplasty", "abdominoplastia com lipoaspiração ampla"],
+    "aliases": [
+      "lipoabdominoplasty",
+      "abdominoplastia com lipoaspiração ampla"
+    ],
     "topic": "abdominoplastia",
     "area": "contorno-corporal",
-    "indication": "Excesso de gordura subcutânea supraumbilical com tonus de pele relativamente bom, associado a diástase do reto e excesso cutâneo que justifique abdominoplastia. Candidatos ideais: pacientes que se beneficiam de lipoaspiração ampla combinada com excisão de pele e plicatura.",
-    "contraindication": "Descolagem ampla tradicional (incompativel com lipoaspiração simultânea — risco de necrose). Tabagismo ativo. Tonus cutâneo muito pobre (nao se beneficia de lipoaspiração).",
+    "indication": "Excesso de gordura subcutânea supraumbilical com tônus de pele relativamente bom, associado a diástase do reto e excesso cutâneo que justifique abdominoplastia. Candidatos ideais: pacientes que se beneficiam de lipoaspiração ampla combinada com excisão de pele e plicatura.",
+    "contraindication": "Descolagem ampla tradicional (incompatível com lipoaspiração simultânea — risco de necrose). Tabagismo ativo. Tônus cutâneo muito pobre (não se beneficia de lipoaspiração).",
     "steps": [
-      "1. Lipoaspiração ampla de todo o abdome superior, incluindo area de descolagem, flancos e areas adjacentes.",
-      "2. Descolagem limitada ao espaco central estreito para plicatura do reto (V invertido).",
-      "3. Descolagem descontinua: o restante do retalho e desbridado pela lipoaspiração (canula libera o retalho e mantem suprimento axial dos perfuradores laterais).",
+      "1. Lipoaspiração ampla de todo o abdome superior, incluindo área de descolagem, flancos e áreas adjacentes.",
+      "2. Descolagem limitada ao espaço central estreito para plicatura do reto (V invertido).",
+      "3. Descolagem descontínua: o restante do retalho é desbridado pela lipoaspiração (cânula libera o retalho e mantém suprimento axial dos perfuradores laterais).",
       "4. Plicatura completa do reto abdominal.",
       "5. Excisão de pele conforme marcações.",
       "6. Fechamento por camadas e umbilicoplastia.",
       "7. Drenos."
     ],
     "complications": [
-      "Seroma (comparavel ou menor que abdominoplastia tradicional)",
+      "Seroma (comparável ou menor que abdominoplastia tradicional)",
       "Irregularidades de contorno",
-      "Necrose de retalho (se descolagem ampla e nao em V invertido)"
+      "Necrose de retalho (se descolagem ampla e não em V invertido)"
     ],
     "pearls": [
-      "A seguranca da lipoaspiração simultânea depende da técnica de descolagem em V invertido — descolagem ampla tradicional e incompativel.",
-      "A descolagem descontínua por canula libera o retalho mantendo suprimento axial dos perfuradores laterais.",
-      "Seroma em lipoabdominoplastia e comparavel ou menor ao da abdominoplastia tradicional."
+      "A segurança da lipoaspiração simultânea depende da técnica de descolagem em V invertido — descolagem ampla tradicional é incompatível.",
+      "A descolagem descontínua por cânula libera o retalho mantendo suprimento axial dos perfuradores laterais.",
+      "Seroma em lipoabdominoplastia é comparável ou menor ao da abdominoplastia tradicional."
     ],
-    "images": ["abdo-tec-lipoabdominoplastia-saldanha.jpg", "abdo-tec-lipoabdominoplastia-selectiva.jpg"],
+    "images": [
+      {
+        "file": "abdo-tec-lipoabdominoplastia-saldanha.jpg",
+        "caption": "Lipoabdominoplastia de Saldanha: lipoaspiração ampla de todo o abdome superior combinada com descolagem limitada em V invertido, preservando perfuradores laterais da Zona III.",
+        "credit": "Neligan vol. 2, cap. 27 — Matarasso (Abdominoplasty); Saldanha et al."
+      },
+      {
+        "file": "abdo-tec-lipoabdominoplastia-selectiva.jpg",
+        "caption": "Descolagem seletiva da lipoabdominoplastia: o túnel central estreito permite plicatura do reto, enquanto a lipoaspiração descola o restante do retalho mantendo o suprimento axial.",
+        "credit": "Neligan vol. 2, cap. 27 — Matarasso (Abdominoplasty); Saldanha et al."
+      }
+    ],
     "citations": [
       "Grabb & Smith, 2024, cap. 75 — Colwell",
       "Neligan, 2023, vol. 2, cap. 27 — Matarasso"
     ],
     "updates": [],
-    "tags": ["técnica", "lipoabdominoplastia", "saldanha", "lipoaspiração", "V-invertido"]
+    "tags": [
+      "técnica",
+      "lipoabdominoplastia",
+      "saldanha",
+      "lipoaspiração",
+      "V-invertido"
+    ]
   },
   {
     "id": "abdo-tec-004",
     "type": "technique",
     "title": "Abdominoplastia Circunferencial (Belt Lipectomy / Lower Body Lift)",
-    "aliases": ["belt lipectomy", "lower body lift", "abdominoplastia 360", "circunferencial"],
+    "aliases": [
+      "belt lipectomy",
+      "lower body lift",
+      "abdominoplastia 360",
+      "circunferencial"
+    ],
     "topic": "abdominoplastia",
     "area": "contorno-corporal",
-    "indication": "Excesso de pele circunferencial do tronco, frequentemente em pos-bariatrico. Belt lipectomy remove excesso ACIMA da linha de ancoragem (extensão da abdominoplastia para flancos e costas). Lower body lift remove tecido ABAIXO da linha de ancoragem (efeito de levantamento maior sobre gluteos e coxas). IMC deve ser < 37-38 kg/m2 e estabilizado por 3-6 meses.",
-    "contraindication": "IMC > 37-38 kg/m2, instabilidade de peso, deficiencias nutricionais nao corrigidas (ferro, albumina, pre-albumina — rastrear obrigatoriamente em pos-bariatrico), tabagismo ativo.",
+    "indication": "Excesso de pele circunferencial do tronco, frequentemente em pós-bariátrico. Belt lipectomy remove excesso ACIMA da linha de ancoragem (extensão da abdominoplastia para flancos e costas). Lower body lift remove tecido ABAIXO da linha de ancoragem (efeito de levantamento maior sobre glúteos e coxas). IMC deve ser < 37-38 kg/m2 e estabilizado por 3-6 meses.",
+    "contraindication": "IMC > 37-38 kg/m2, instabilidade de peso, deficiências nutricionais não corrigidas (ferro, albumina, pré-albumina — rastrear obrigatoriamente em pós-bariátrico), tabagismo ativo.",
     "steps": [
-      "1. Posicionamento prono: lipoaspiração lombar e coxas laterais; levantamento gluteo posterior.",
-      "2. Preservação de tecido central para autoaumentacao glutea quando desejado (flap desepitelizado deslocado inferiormente ~6 cm com PDS).",
-      "3. Fechamento posterior: Scarpa PDS 2-0 e Monocryl 3-0 dermico corrida.",
-      "4. Colocacao de drenos JP na posição posterior.",
+      "1. Posicionamento prono: lipoaspiração lombar e coxas laterais; levantamento glúteo posterior.",
+      "2. Preservação de tecido central para autoaumentação glútea quando desejado (flap desepitelizado deslocado inferiormente ~6 cm com PDS).",
+      "3. Fechamento posterior: Scarpa PDS 2-0 e Monocryl 3-0 dérmico corrida.",
+      "4. Colocação de drenos JP na posição posterior.",
       "5. Virada para supino em mesa secundária.",
-      "6. Parte anterior: técnica de abdominoplastia padrao (classica ou FDL — Fleur-de-Lis).",
+      "6. Parte anterior: técnica de abdominoplastia padrão (clássica ou FDL — Fleur-de-Lis).",
       "7. Fechamento anterior com Scarpa PDS 2-0 e Monocryl 3-0.",
       "8. Drenos JP na posição anterior (total: 4 drenos)."
     ],
     "complications": [
-      "TEV (risco aumentado pelo tempo operatorio prolongado e paciente pos-bariatrico)",
-      "Deiscencia (particularmente na juncao T da FDL)",
+      "TEV (risco aumentado pelo tempo operatório prolongado e paciente pós-bariátrico)",
+      "Deiscência (particularmente na junção T da FDL)",
       "Seroma",
-      "Deficiencias nutricionais nao reconhecidas (ferro e a mais comum em pos-bariatrico)",
+      "Deficiências nutricionais não reconhecidas (ferro é a mais comum em pós-bariátrico)",
       "Necrose de retalho",
-      "Deslocamento do cordao espermatico para campo operatorio (pannus volumoso)"
+      "Deslocamento do cordão espermático para campo operatório (pannus volumoso)"
     ],
     "pearls": [
-      "Distincao: belt lipectomy (excesso ACIMA da ancoragem) vs. lower body lift (excesso ABAIXO — maior efeito de lifting gluteo/coxas).",
-      "Em pos-bariatrico: rastrear obrigatoriamente ferro, albumina e pre-albumina. Ferro e a deficiencia nutricional mais comum.",
-      "Pannus volumoso pode deslocar anatômicamente o cordao espermatico para o campo operatorio — cautela ao aprofundar a incisão.",
-      "FDL (Fleur-de-Lis): combina abdominoplastia transversal + excisão vertical para excesso de pele duplo (pannus superior E inferior). Cicatriz em T (transversal + vertical). Descolagem limitada tipo lipoabdominoplastia reduz complicações na juncao T."
+      "Distinção: belt lipectomy (excesso ACIMA da ancoragem) vs. lower body lift (excesso ABAIXO — maior efeito de lifting glúteo/coxas).",
+      "Em pós-bariátrico: rastrear obrigatoriamente ferro, albumina e pré-albumina. Ferro é a deficiência nutricional mais comum.",
+      "Pannus volumoso pode deslocar anatomicamente o cordão espermático para o campo operatório — cautela ao aprofundar a incisão.",
+      "FDL (Fleur-de-Lis): combina abdominoplastia transversal + excisão vertical para excesso de pele duplo (pannus superior E inferior). Cicatriz em T (transversal + vertical). Descolagem limitada tipo lipoabdominoplastia reduz complicações na junção T."
     ],
-    "images": ["abdo-tec-belt-lipectomy.jpg"],
+    "images": [
+      {
+        "file": "abdo-tec-belt-lipectomy.jpg",
+        "caption": "Abdominoplastia circunferencial (belt lipectomy / lower body lift): ressecção em cinta de excesso cutâneo do tronco em paciente pós-bariátrico, combinando tempo posterior prono e anterior supino.",
+        "credit": "Grabb & Smith cap. 75 — Colwell (Liposuction, Abdominoplasty, and Belt Lipectomy)"
+      }
+    ],
     "citations": [
       "Grabb & Smith, 2024, cap. 75 — Colwell"
     ],
     "updates": [],
-    "tags": ["técnica", "circunferencial", "belt-lipectomy", "lower-body-lift", "pos-bariatrico", "fleur-de-lis"]
+    "tags": [
+      "técnica",
+      "circunferencial",
+      "belt-lipectomy",
+      "lower-body-lift",
+      "pos-bariatrico",
+      "fleur-de-lis"
+    ]
   }
 ]

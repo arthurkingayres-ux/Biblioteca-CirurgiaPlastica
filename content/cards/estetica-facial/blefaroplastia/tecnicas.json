@@ -41,10 +41,26 @@
       "A blefaroplastia superior é o quarto procedimento estético mais frequente nos EUA."
     ],
     "images": [
-      "blef-13-25-blefaro-superior-tecnica.png",
-      "blef-13-26-resultado-blefaro-superior.png",
-      "blef-13-28-gordura-medial-fechamento.png",
-      "fig13-25-blefaroplastia-superior.jpeg"
+      {
+        "file": "blef-13-25-blefaro-superior-tecnica.png",
+        "caption": "Técnica da blefaroplastia superior clássica: incisão elíptica sobre a prega palpebral natural e ressecção conservadora de pele, orbicular e gordura quando indicada.",
+        "credit": "Neligan vol. 2, caps. 8-9 — Blepharoplasty"
+      },
+      {
+        "file": "blef-13-26-resultado-blefaro-superior.png",
+        "caption": "Resultado pós-operatório da blefaroplastia superior: definição da prega, eliminação da dermatocálase e preservação de ≥ 20 mm entre margem ciliar e sobrancelha.",
+        "credit": "Neligan vol. 2, caps. 8-9 — Blepharoplasty"
+      },
+      {
+        "file": "blef-13-28-gordura-medial-fechamento.png",
+        "caption": "Ressecção conservadora do compartimento medial de gordura e fechamento por planos da incisão superior.",
+        "credit": "Neligan vol. 2, caps. 8-9 — Blepharoplasty"
+      },
+      {
+        "file": "fig13-25-blefaroplastia-superior.jpeg",
+        "caption": "Marcação e sequência cirúrgica da blefaroplastia superior clássica ilustradas.",
+        "credit": "Neligan vol. 2, caps. 8-9 — Blepharoplasty"
+      }
     ],
     "citations": [
       "Neligan, 2023, vol. 2, cap. 8",
@@ -124,7 +140,11 @@
       "Particularmente útil em pacientes com deiscência de aponeurose onde a prega está deslocada superiormente."
     ],
     "images": [
-      "blef-13-27-anchor-blepharoplasty.png"
+      {
+        "file": "blef-13-27-anchor-blepharoplasty.png",
+        "caption": "Anchor blepharoplasty: fixação da pele do retalho superior diretamente na aponeurose do LPS, criando prega palpebral alta e estável.",
+        "credit": "Neligan vol. 2, caps. 8-9 — Blepharoplasty"
+      }
     ],
     "citations": [
       "Neligan, 2023, vol. 2, cap. 8"
@@ -174,11 +194,31 @@
       "Transconjuntival superou a transcutânea em frequência (dados ABPS 2025)."
     ],
     "images": [
-      "blef-13-30-transconjuntival.png",
-      "blef-13-31-gordura-compartimentos-inferiores.png",
-      "blef-13-33-fascia-capsulopalpebral.png",
-      "blef-13-34-flap-capsulopalpebral.png",
-      "fig13-30-acesso-transconjuntival.jpeg"
+      {
+        "file": "blef-13-30-transconjuntival.png",
+        "caption": "Acesso transconjuntival à pálpebra inferior: incisão na conjuntiva palpebral 4 mm abaixo da borda tarsal — via preferida para remoção de bolsas sem cicatriz externa.",
+        "credit": "Neligan vol. 2, caps. 8-9 — Blepharoplasty"
+      },
+      {
+        "file": "blef-13-31-gordura-compartimentos-inferiores.png",
+        "caption": "Identificação dos três compartimentos de gordura inferior (medial, central e lateral) após abertura retrosseptal.",
+        "credit": "Neligan vol. 2, caps. 8-9 — Blepharoplasty"
+      },
+      {
+        "file": "blef-13-33-fascia-capsulopalpebral.png",
+        "caption": "Fáscia capsulopalpebral aberta por via transconjuntival, expondo a gordura herniada para ressecção conservadora ou reposicionamento.",
+        "credit": "Neligan vol. 2, caps. 8-9 — Blepharoplasty"
+      },
+      {
+        "file": "blef-13-34-flap-capsulopalpebral.png",
+        "caption": "Flap capsulopalpebral elevado para reposicionamento de gordura sobre o rebordo orbitário inferior, tratando o tear trough.",
+        "credit": "Neligan vol. 2, caps. 8-9 — Blepharoplasty"
+      },
+      {
+        "file": "fig13-30-acesso-transconjuntival.jpeg",
+        "caption": "Ilustração do acesso transconjuntival pré-septal versus retrosseptal para blefaroplastia inferior.",
+        "credit": "Neligan vol. 2, caps. 8-9 — Blepharoplasty"
+      }
     ],
     "citations": [
       "Neligan, 2023, vol. 2, cap. 9",
@@ -243,9 +283,21 @@
       "Step-incision reduz risco de aderência cicatricial."
     ],
     "images": [
-      "blef-13-32-blefaro-inferior-pele.png",
-      "algoritmo-tecnica-blefaroplastia-inferior.png",
-      "fig13-33-blefaroplastia-inferior.jpeg"
+      {
+        "file": "blef-13-32-blefaro-inferior-pele.png",
+        "caption": "Blefaroplastia inferior subciliar: incisão 1–2 mm abaixo da linha ciliar e descolagem pré-septal para ressecção de pele e músculo orbicular.",
+        "credit": "Neligan vol. 2, caps. 8-9 — Blepharoplasty"
+      },
+      {
+        "file": "algoritmo-tecnica-blefaroplastia-inferior.png",
+        "caption": "Algoritmo de escolha da técnica de blefaroplastia inferior conforme presença de excesso cutâneo, bolsas de gordura e laxidão horizontal.",
+        "credit": "Neligan vol. 2, caps. 8-9 — Blepharoplasty"
+      },
+      {
+        "file": "fig13-33-blefaroplastia-inferior.jpeg",
+        "caption": "Sequência cirúrgica da blefaroplastia inferior transcutânea (subciliar) ilustrada.",
+        "credit": "Neligan vol. 2, caps. 8-9 — Blepharoplasty"
+      }
     ],
     "citations": [
       "Neligan, 2023, vol. 2, cap. 9",
@@ -306,9 +358,21 @@
       "Fixar sempre 2 mm acima da posição ideal para compensar relaxamento."
     ],
     "images": [
-      "blef-13-37-cantopexia-periosteal.png",
-      "blef-13-38-cantopexia-duas-camadas.png",
-      "fig13-37a-cantopexia-periosteal.jpeg"
+      {
+        "file": "blef-13-37-cantopexia-periosteal.png",
+        "caption": "Cantopexia lateral periosteal: re-suspensão do tendão cantal lateral ao periósteo do rebordo orbitário sem secção — laxidão leve a moderada.",
+        "credit": "Neligan vol. 2, caps. 8-9 — Blepharoplasty"
+      },
+      {
+        "file": "blef-13-38-cantopexia-duas-camadas.png",
+        "caption": "Cantopexia em duas camadas com fixação ao periósteo posterior ao tubérculo de Whitnall, restaurando inclinação positiva da fenda palpebral.",
+        "credit": "Neligan vol. 2, caps. 8-9 — Blepharoplasty"
+      },
+      {
+        "file": "fig13-37a-cantopexia-periosteal.jpeg",
+        "caption": "Vista intraoperatória da cantopexia periosteal com sutura no periósteo lateral.",
+        "credit": "Neligan vol. 2, caps. 8-9 — Blepharoplasty"
+      }
     ],
     "citations": [
       "Neligan, 2023, vol. 2, cap. 9",
@@ -356,7 +420,11 @@
       "Pode ser em duas camadas: tarso ao osso + orbicular à fáscia temporal profunda."
     ],
     "images": [
-      "blef-13-38-cantopexia-duas-camadas.png"
+      {
+        "file": "blef-13-38-cantopexia-duas-camadas.png",
+        "caption": "Cantoplastia lateral: secção completa do tendão cantal lateral inferior e reinserção com encurtamento e elevação para laxidão horizontal grave.",
+        "credit": "Neligan vol. 2, caps. 8-9 — Blepharoplasty"
+      }
     ],
     "citations": [
       "Neligan, 2023, vol. 2, cap. 9",
@@ -400,7 +468,11 @@
       "Ideal quando combinada com transconjuntival: gordura por trás + pinch por fora."
     ],
     "images": [
-      "blef-13-32-blefaro-inferior-pele.png"
+      {
+        "file": "blef-13-32-blefaro-inferior-pele.png",
+        "caption": "Pinch blepharoplasty: ressecção conservadora de uma faixa de pele subciliar pinçada, sem descolagem, frequentemente associada a transconjuntival.",
+        "credit": "Neligan vol. 2, caps. 8-9 — Blepharoplasty"
+      }
     ],
     "citations": [
       "Neligan, 2023, vol. 2, cap. 9"
@@ -449,8 +521,16 @@
       "Método incisional: quando há excesso de gordura pré-aponeurótica ou orbicular a ressecar."
     ],
     "images": [
-      "blef-13-10ab-variacoes-palpebra-superior.png",
-      "blef-13-10cd-palpebra-asiatica-baggy.png"
+      {
+        "file": "blef-13-10ab-variacoes-palpebra-superior.png",
+        "caption": "Double eyelid surgery: criação de prega palpebral asiática por fixação cutânea à aponeurose do LPS ou tarso superior.",
+        "credit": "Neligan vol. 2, caps. 8-9 — Blepharoplasty"
+      },
+      {
+        "file": "blef-13-10cd-palpebra-asiatica-baggy.png",
+        "caption": "Pálpebra asiática pré-operatória (baggy) — candidata à criação de prega palpebral dupla por blefaroplastia asiática.",
+        "credit": "Neligan vol. 2, caps. 8-9 — Blepharoplasty"
+      }
     ],
     "citations": [
       "Neligan, 2023, vol. 2, cap. 8",
@@ -513,7 +593,11 @@
       "A aponeurose deiscente é branca, fina e translúcida; a aponeurose saudável é branca e brilhante."
     ],
     "images": [
-      "blef-13-29-incisao-levantador-plicatura.png"
+      {
+        "file": "blef-13-29-incisao-levantador-plicatura.png",
+        "caption": "Avanço ou plicatura da aponeurose do LPS para correção de ptose aponeurótica — tratamento padrão para deiscência ou alongamento da aponeurose.",
+        "credit": "Neligan vol. 2, caps. 8-9 — Blepharoplasty"
+      }
     ],
     "citations": [
       "Neligan, 2023, vol. 2, cap. 8",
@@ -672,7 +756,11 @@
       "Hematoma retrobulbar: remover suturas IMEDIATAMENTE primeiro, antes de qualquer outro passo."
     ],
     "images": [
-      "cantotomia-lateral-emergencia.png"
+      {
+        "file": "cantotomia-lateral-emergencia.png",
+        "caption": "Cantotomia lateral e cantólise do ramo inferior do tendão cantal lateral — procedimento de emergência para hematoma retrobulbar com proptose e ameaça visual.",
+        "credit": "Neligan vol. 2, caps. 8-9 — Blepharoplasty"
+      }
     ],
     "citations": [
       "Neligan, 2023, vol. 2, cap. 8",

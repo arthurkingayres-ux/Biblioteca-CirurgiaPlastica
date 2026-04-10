@@ -16,7 +16,18 @@
     ],
     "surgical_relevance": "Plano submuscular/intramuscular é utilizado para colocação de implantes. Na lipoenxertia, a gordura deve ser injetada acima da fáscia do glúteo máximo (subcutânea apenas) para evitar embolia gordurosa intravascular. A zona de segurança glútea de Mendieta define limite de 2 cm medial à borda lateral do glúteo máximo para dissecção segura",
     "how_to_identify": "Músculo palpável à contração ativa; borda lateral identificável por palpação em paciente magro",
-    "images": [],
+    "images": [
+      {
+        "file": "glut-anat-gluteo-maximo.png",
+        "caption": "Vista posterior do músculo glúteo máximo demonstrando origem no sacro e ilíaco posterior e inserção no trato iliotibial e tuberosidade glútea. Referência anatômica para definir a zona de segurança de Mendieta (2 cm medial à borda lateral do músculo) e o território para dissecção do bolso submuscular/subfascial no implante.",
+        "credit": "Neligan's Plastic Surgery, 5ª Ed., 2023, vol. 2, cap. 35.2, Fig. 35.2.1 — De la Peña Salcedo JA, Ledezma Rodriguez JC, Gonzalez Sosa D. Buttock augmentation with implants."
+      },
+      {
+        "file": "glut-anat-pelve-ossea.png",
+        "caption": "Vista posterior da pelve óssea mostrando sacro, crista ilíaca posterior, ísquio e trocânter maior. Landmarks ósseos que orientam o planejamento da gluteoplastia: crista ilíaca posterior delimita a inserção cranial do glúteo máximo e a linha do sulco interglúteo guia a incisão parasacral para implante.",
+        "credit": "Neligan's Plastic Surgery, 5ª Ed., 2023, vol. 2, cap. 35.2 — De la Peña Salcedo JA, Ledezma Rodriguez JC, Gonzalez Sosa D. Buttock augmentation with implants."
+      }
+    ],
     "citations": [
       "Neligan, Plastic Surgery 5ª Ed., 2023",
       "Matarasso & Rosenberg, PRS, 1985"

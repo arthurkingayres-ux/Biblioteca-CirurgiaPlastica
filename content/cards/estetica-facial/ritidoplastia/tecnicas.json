@@ -10,22 +10,22 @@
     ],
     "topic": "ritidoplastia",
     "area": "estética-facial",
-    "indication": "Envelhecimento moderado a avancado do terco médio e inferior da face com ptose malar, sulco nasolabial profundo, jowl e laxidez da linha mandíbular. Pacientes que desejam resultado duradouro (8-12 anos). Técnica de referencia para rejuvenescimento facial de longa duracao.",
-    "contraindication": "Cirurgiao sem experiencia na técnica (curva de aprendizado longa); pacientes com comorbidades graves que aumentem risco de hematoma; tabagismo ativo (risco de necrose do retalho); expectativas irrealistas.",
+    "indication": "Envelhecimento moderado a avançado do terço médio e inferior da face com ptose malar, sulco nasolabial profundo, jowl e laxidez da linha mandibular. Pacientes que desejam resultado duradouro (8-12 anos). Técnica de referência para rejuvenescimento facial de longa duração.",
+    "contraindication": "Cirurgião sem experiência na técnica (curva de aprendizado longa); pacientes com comorbidades graves que aumentem risco de hematoma; tabagismo ativo (risco de necrose do retalho); expectativas irrealistas.",
     "steps": [
-      "1. Incisão pre-auricular (variantes: pre-tragal ou retro-tragal) estendendo-se ao couro cabeludo temporal e retroauricular.",
-      "2. Elevação do retalho cutâneo subcutâneo ate o rebordo anterior do masseter.",
+      "1. Incisão pré-auricular (variantes: pré-tragal ou retro-tragal) estendendo-se ao couro cabeludo temporal e retroauricular.",
+      "2. Elevação do retalho cutâneo subcutâneo até o rebordo anterior do masseter.",
       "3. Incisão do SMAS (Sistema Músculo-Aponeurótico Superficial) abaixo do músculo zigomático menor, entrando no plano sub-SMAS.",
-      "4. Elevação do retalho composto (SMAS + gordura malar) como unidade única, profundamente a fáscia parotidomasseteria.",
-      "5. Divisao do ligamento zigomático-cutâneo — libera a ptose malar e melhora o sulco nasojugal.",
-      "6. Divisao do ligamento masseterico-cutâneo — libera o jowl e melhora a linha mandíbular.",
-      "7. Suspensao do retalho composto em vetor posterior-superior, fixando com suturas permanentes ou absorviveis de longa duracao.",
-      "8. Redrapeamento cutâneo sem tensão (a tensão esta no SMAS, nao na pele).",
+      "4. Elevação do retalho composto (SMAS + gordura malar) como unidade única, profundamente à fáscia parotidomasseteria.",
+      "5. Divisão do ligamento zigomático-cutâneo — libera a ptose malar e melhora o sulco nasojugal.",
+      "6. Divisão do ligamento massetérico-cutâneo — libera o jowl e melhora a linha mandibular.",
+      "7. Suspensão do retalho composto em vetor posterior-superior, fixando com suturas permanentes ou absorvíveis de longa duração.",
+      "8. Redrapeamento cutâneo sem tensão (a tensão está no SMAS, não na pele).",
       "9. Excisão do excesso cutâneo e fechamento em camadas."
     ],
     "complications": [
       "Hematoma (1-8%, homens > mulheres)",
-      "Lesao do nervo facial (< 1% permanente)",
+      "Lesão do nervo facial (< 1% permanente)",
       "Necrose cutânea (associada a tabagismo — RR 12x)",
       "Infecção",
       "Alopecia cicatricial na incisão temporal",
@@ -35,10 +35,26 @@
     "pearls": [
       "A tensão deve estar no SMAS, nunca na pele — pele sob tensão causa cicatriz alargada e resultado artificial.",
       "Resultado mais natural e duradouro que plication (8-12 anos vs. 5-7 anos).",
-      "Exige maior experiencia cirúrgica mas produz melhora superior do sulco nasolabial.",
-      "O plano sub-SMAS e relativamente avascular quando corretamente identificado."
+      "Exige maior experiência cirúrgica mas produz melhora superior do sulco nasolabial.",
+      "O plano sub-SMAS é relativamente avascular quando corretamente identificado."
     ],
-    "images": ["riti-tec-deep-plane-sequencia.jpg", "riti-tec-deep-plane-monobloc.jpg", "riti-tec-deep-plane-orbicular.jpg"],
+    "images": [
+      {
+        "file": "riti-tec-deep-plane-sequencia.jpg",
+        "caption": "Sequência cirúrgica do deep plane facelift: elevação sub-SMAS em monobloco, liberação dos ligamentos de retenção e reposicionamento vertical do complexo SMAS-platisma.",
+        "credit": "Neligan vol. 2, cap. 11 — Facelift (Deep Plane)"
+      },
+      {
+        "file": "riti-tec-deep-plane-monobloc.jpg",
+        "caption": "Elevação em monobloco (skin-SMAS): o plano profundo mantém vascularização axial do retalho, permitindo tração efetiva sem descolagem ampla da pele.",
+        "credit": "Neligan vol. 2, cap. 11 — Facelift (Deep Plane)"
+      },
+      {
+        "file": "riti-tec-deep-plane-orbicular.jpg",
+        "caption": "Extensão da dissecção deep plane sob o orbicular do olho para tratar a ptose malar e o sulco palpebromalar.",
+        "credit": "Neligan vol. 2, cap. 11 — Facelift (Deep Plane)"
+      }
+    ],
     "citations": [
       "Neligan, 2023, vol. 2, cap. 11",
       "Schultz KP et al. Plast Reconstr Surg 2026;157(4):615-620"
@@ -49,7 +65,7 @@
         "title": "Desmistificando as técnicas de face lift — revisão sistemática",
         "content": [
           "Schultz et al. (2025): revisão sistemática de 89 estudos comparando técnicas de SMAS (Sistema Músculo-Aponeurótico Superficial). Deep plane e composite flap demonstraram maior durabilidade (8-12 anos) e melhor melhora do sulco nasolabial vs. plication (5-7 anos).",
-          "Plication e imbrication tem perfil de seguranca superior; deep plane exige maior experiencia mas produz resultado mais natural."
+          "Plication e imbrication têm perfil de segurança superior; deep plane exige maior experiência mas produz resultado mais natural."
         ],
         "citation": "Schultz KP et al. Plast Reconstr Surg 2026;157(4):615-620. DOI: 10.1097/PRS.0000000000012526",
         "paradigm_shift": false
@@ -67,42 +83,48 @@
   {
     "id": "riti-tec-002",
     "type": "technique",
-    "title": "Deep Plane em Pacientes Asiaticos",
+    "title": "Deep Plane em Pacientes Asiáticos",
     "aliases": [
-      "deep plane asiatico",
-      "facelift asiatico"
+      "deep plane asiático",
+      "facelift asiático"
     ],
     "topic": "ritidoplastia",
     "area": "estética-facial",
-    "indication": "Pacientes asiaticos com envelhecimento facial moderado a avancado. A face asiatica apresenta particularidades anatômicas: maior aderencia periosteal na area malar, distribuicao de gordura diferente e pele geralmente mais espessa.",
+    "indication": "Pacientes asiáticos com envelhecimento facial moderado a avançado. A face asiática apresenta particularidades anatômicas: maior aderência periosteal na área malar, distribuição de gordura diferente e pele geralmente mais espessa.",
     "contraindication": "Mesmas do deep plane convencional.",
     "steps": [
-      "1. Incisão e elevação do retalho cutâneo como no deep plane classico.",
-      "2. Dissecção malar mais extensa que no paciente caucasiano — necessária pela maior aderencia periosteal na região malar.",
-      "3. Menor tensão aplicada ao retalho composto — excesso de tensão causa aparencia artificial na face asiatica.",
-      "4. Preservação cuidadosa da gordura malar — evitar esqueletizacao, que causa aspecto envelhecido e nao natural.",
-      "5. Suspensao com vetor posterior-superior ajustado as proporções faciais asiaticas.",
-      "6. Redrapeamento cutâneo e fechamento padrao."
+      "1. Incisão e elevação do retalho cutâneo como no deep plane clássico.",
+      "2. Dissecção malar mais extensa que no paciente caucasiano — necessária pela maior aderência periosteal na região malar.",
+      "3. Menor tensão aplicada ao retalho composto — excesso de tensão causa aparência artificial na face asiática.",
+      "4. Preservação cuidadosa da gordura malar — evitar esqueletização, que causa aspecto envelhecido e não natural.",
+      "5. Suspensão com vetor posterior-superior ajustado às proporções faciais asiáticas.",
+      "6. Redrapeamento cutâneo e fechamento padrão."
     ],
     "complications": [
       "Mesmas do deep plane convencional",
-      "Risco especifico: esqueletizacao malar por ressecção excessiva de gordura"
+      "Risco específico: esqueletização malar por ressecção excessiva de gordura"
     ],
     "pearls": [
-      "A face asiatica tem maior aderencia periosteal — dissecção malar precisa ser mais extensa.",
-      "Menor tensão no retalho evita aparencia artificial.",
-      "Preservação da gordura malar e ainda mais critica na face asiatica."
+      "A face asiática tem maior aderência periosteal — dissecção malar precisa ser mais extensa.",
+      "Menor tensão no retalho evita aparência artificial.",
+      "Preservação da gordura malar é ainda mais crítica na face asiática."
     ],
-    "images": ["riti-tec-deep-plane-sequencia.jpg"],
+    "images": [
+      {
+        "file": "riti-tec-deep-plane-sequencia.jpg",
+        "caption": "Adaptações da técnica deep plane na face asiática: particularidades da aderência periosteal malar e do contorno mandibular na dissecção sub-SMAS.",
+        "credit": "Neligan vol. 2, cap. 11 — Facelift (Deep Plane)"
+      }
+    ],
     "citations": [
       "Wong CH et al. Plast Reconstr Surg 2025;156(4):485e-496e"
     ],
     "updates": [
       {
         "color": "blue",
-        "title": "Deep plane em pacientes asiaticos",
+        "title": "Deep plane em pacientes asiáticos",
         "content": [
-          "Wong, Hsieh & Mendelson (2025): adaptacoes técnicas para a face asiatica incluem dissecção mais extensa na area malar (maior aderencia periosteal), menor tensão do retalho e preservação de gordura malar para evitar esqueletizacao."
+          "Wong, Hsieh & Mendelson (2025): adaptações técnicas para a face asiática incluem dissecção mais extensa na área malar (maior aderência periosteal), menor tensão do retalho e preservação de gordura malar para evitar esqueletização."
         ],
         "citation": "Wong CH et al. Plast Reconstr Surg 2025;156(4):485e-496e. DOI: 10.1097/PRS.0000000000012102",
         "paradigm_shift": false
@@ -127,26 +149,32 @@
     ],
     "topic": "ritidoplastia",
     "area": "estética-facial",
-    "indication": "Pacientes com ptose moderada do terco médio e inferior da face. Adequado quando o envelhecimento nao justifica a dissecção extensa do deep plane. Opcao intermediaria entre plication simples e deep plane.",
-    "contraindication": "Envelhecimento avancado com ptose severa (pode ser insuficiente). Pacientes que se beneficiariam mais do deep plane completo.",
+    "indication": "Pacientes com ptose moderada do terço médio e inferior da face. Adequado quando o envelhecimento não justifica a dissecção extensa do deep plane. Opção intermediária entre plication simples e deep plane.",
+    "contraindication": "Envelhecimento avançado com ptose severa (pode ser insuficiente). Pacientes que se beneficiariam mais do deep plane completo.",
     "steps": [
-      "1. Incisão peri-auricular padrao e elevação do retalho cutâneo.",
-      "2. Dissecção subcutânea anterior ate a borda do masseter.",
+      "1. Incisão peri-auricular padrão e elevação do retalho cutâneo.",
+      "2. Dissecção subcutânea anterior até a borda do masseter.",
       "3. Incisão do SMAS (Sistema Músculo-Aponeurótico Superficial) em formato de 'U' invertido — confere mobilidade bidirecional.",
-      "4. Suspensao do retalho de SMAS em vetor posterior-superior.",
+      "4. Suspensão do retalho de SMAS em vetor posterior-superior.",
       "5. Menor dissecção sub-SMAS que o deep plane — plano menos profundo.",
       "6. Redrapeamento cutâneo e fechamento."
     ],
     "complications": [
-      "Mesmas complicações gerais da ritidoplastia (hematoma, lesao neural, necrose cutânea)",
-      "Resultado potencialmente menos duradouro que deep plane em ptose avancada"
+      "Mesmas complicações gerais da ritidoplastia (hematoma, lesão neural, necrose cutânea)",
+      "Resultado potencialmente menos duradouro que deep plane em ptose avançada"
     ],
     "pearls": [
-      "Combina dissecção subcutânea anterior com suspensao do SMAS em forma de 'U' invertido.",
+      "Combina dissecção subcutânea anterior com suspensão do SMAS em forma de 'U' invertido.",
       "Adequado para ptose moderada; menor dissecção que o deep plane.",
-      "Bons resultados em seguimento de 6-12 meses na serie original."
+      "Bons resultados em seguimento de 6-12 meses na série original."
     ],
-    "images": ["riti-dec-smas-disseccao.jpg"],
+    "images": [
+      {
+        "file": "riti-dec-smas-disseccao.jpg",
+        "caption": "Dissecção do U-SMAS lift: elevação do SMAS em retalho em U e fixação cefalolateral — opção intermediária entre plicatura simples e deep plane.",
+        "credit": "Neligan vol. 2, cap. 11 — Facelift (Deep Plane)"
+      }
+    ],
     "citations": [
       "Movassaghi K et al. Plast Reconstr Surg 2025;155(4):632-636"
     ],
@@ -155,7 +183,7 @@
         "color": "blue",
         "title": "U-SMAS Lift — nova variante técnica",
         "content": [
-          "Movassaghi et al. (2025): U-SMAS lift combina dissecção subcutânea anterior com suspensao do SMAS em forma de 'U' invertido. Adequado para pacientes com ptose moderada; menor dissecção que o deep plane; bons resultados em 6-12 meses."
+          "Movassaghi et al. (2025): U-SMAS lift combina dissecção subcutânea anterior com suspensão do SMAS em forma de 'U' invertido. Adequado para pacientes com ptose moderada; menor dissecção que o deep plane; bons resultados em 6-12 meses."
         ],
         "citation": "Movassaghi K et al. Plast Reconstr Surg 2025;155(4):632-636. DOI: 10.1097/PRS.0000000000011673",
         "paradigm_shift": false
@@ -172,7 +200,7 @@
   {
     "id": "riti-tec-004",
     "type": "technique",
-    "title": "Manejo do Pescoco — Platismaplastia e Técnicas Cervicais",
+    "title": "Manejo do Pescoço — Platismaplastia e Técnicas Cervicais",
     "aliases": [
       "platismaplastia",
       "neck lift",
@@ -181,33 +209,49 @@
     ],
     "topic": "ritidoplastia",
     "area": "estética-facial",
-    "indication": "Envelhecimento cervical com bandas platismais, acumulo de gordura submentoniana, perda do ângulo cervicomental e/ou jowl. Componente frequente da ritidoplastia combinada face-pescoco.",
-    "contraindication": "Pacientes com contraindicações gerais para ritidoplastia. Expectativas de resultado cervical isolado sem facelift podem ter limitacoes.",
+    "indication": "Envelhecimento cervical com bandas platismais, acúmulo de gordura submentoniana, perda do ângulo cervicomental e/ou jowl. Componente frequente da ritidoplastia combinada face-pescoço.",
+    "contraindication": "Pacientes com contraindicações gerais para ritidoplastia. Expectativas de resultado cervical isolado sem facelift podem ter limitações.",
     "steps": [
-      "1. Lipoaspiração submentoniana (quando indicada): canula fina, aspiracao conservadora na camada pre-platismal.",
+      "1. Lipoaspiração submentoniana (quando indicada): cânula fina, aspiração conservadora na camada pré-platismal.",
       "2. Acesso submentoniano: incisão de 2-3 cm na prega submentoniana.",
       "3. Avaliar grau de ptose e diástase do platisma.",
-      "4. Platismaplastia anterior: plicatura das bordas mediais do platisma na linha média com suturas absorviveis longas.",
-      "5. OU suturas cervicais seletivas (individualizadas por grau de ptose — reduz 40% do tempo cirúrgico sem diferenca em resultado a 1 ano).",
-      "6. OU transeccao completa do platisma (para reconturno cervical mais agressivo — melhora significativa do ângulo cervicomental de 143 graus para 116 graus).",
+      "4. Platismaplastia anterior: plicatura das bordas mediais do platisma na linha média com suturas absorvíveis longas.",
+      "5. OU suturas cervicais seletivas (individualizadas por grau de ptose — reduz 40% do tempo cirúrgico sem diferença em resultado a 1 ano).",
+      "6. OU transecção completa do platisma (para reconturno cervical mais agressivo — melhora significativa do ângulo cervicomental de 143 graus para 116 graus).",
       "7. Lipectomia subplatismal quando necessária (gordura profunda ao platisma).",
-      "8. Suspensao do SMAS/platisma durante o facelift — vetor posterior e superior.",
-      "9. OU suspensao completa do platisma como extensão do deep plane (sem aumento de complicações neurais)."
+      "8. Suspensão do SMAS/platisma durante o facelift — vetor posterior e superior.",
+      "9. OU suspensão completa do platisma como extensão do deep plane (sem aumento de complicações neurais)."
     ],
     "complications": [
       "Hematoma cervical",
-      "Lesao do nervo marginal mandíbular",
+      "Lesão do nervo marginal mandibular",
       "Assimetria cervical",
       "Recidiva das bandas platismais",
-      "Irregularidades pos-lipoaspiração",
-      "Lesao da glândula submandíbular"
+      "Irregularidades pós-lipoaspiração",
+      "Lesão da glândula submandibular"
     ],
     "pearls": [
       "Suturas cervicais seletivas permitem individualizar o tratamento por grau de ptose, economizando tempo.",
-      "Transeccao completa do platisma oferece reconturno cervical superior, mas e técnica mais agressiva.",
-      "Suspensao completa do platisma como extensão do deep plane combina resultado cervical e facial em um único plano."
+      "Transecção completa do platisma oferece reconturno cervical superior, mas é técnica mais agressiva.",
+      "Suspensão completa do platisma como extensão do deep plane combina resultado cervical e facial em um único plano."
     ],
-    "images": ["riti-tec-pescoco-suspensao.jpg", "riti-tec-pescoco-bandas.jpg", "riti-tec-pescoco-transeccao.jpg"],
+    "images": [
+      {
+        "file": "riti-tec-pescoco-suspensao.jpg",
+        "caption": "Suspensão do pescoço: sutura de tração vertical do SMAS/platisma à mastoide ou fáscia parotídea, restaurando o ângulo cervicomental.",
+        "credit": "Neligan vol. 2, cap. 11 — Facelift (Deep Plane)"
+      },
+      {
+        "file": "riti-tec-pescoco-bandas.jpg",
+        "caption": "Correção de bandas platismais mediais por plicatura em corset: aproximação das bordas do platisma na linha média submental.",
+        "credit": "Neligan vol. 2, cap. 11 — Facelift (Deep Plane)"
+      },
+      {
+        "file": "riti-tec-pescoco-transeccao.jpg",
+        "caption": "Transecção do platisma: secção transversa horizontal abaixo da cartilagem cricoide para eliminar bandas e melhorar o contorno cervical.",
+        "credit": "Neligan vol. 2, cap. 11 — Facelift (Deep Plane)"
+      }
+    ],
     "citations": [
       "Neligan, 2023, vol. 2, cap. 11",
       "Grabb & Smith, 2020, cap. 32",
@@ -220,25 +264,25 @@
         "color": "blue",
         "title": "Suturas cervicais seletivas no facelift",
         "content": [
-          "Ganesh Kumar et al. (2025): protocolo de suturas cervicais seletivas (ao inves de platismaplastia completa em todos os casos). Indicações individualizadas por grau de ptose do platisma. Redução de 40% no tempo cirúrgico sem diferença em resultado a 1 ano."
+          "Ganesh Kumar et al. (2025): protocolo de suturas cervicais seletivas (ao invés de platismaplastia completa em todos os casos). Indicações individualizadas por grau de ptose do platisma. Redução de 40% no tempo cirúrgico sem diferença em resultado a 1 ano."
         ],
         "citation": "Ganesh Kumar N et al. Plast Reconstr Surg 2025;156(2):194e-197e. DOI: 10.1097/PRS.0000000000011968",
         "paradigm_shift": false
       },
       {
         "color": "blue",
-        "title": "Transeccao completa do platisma para reconturno cervical",
+        "title": "Transecção completa do platisma para reconturno cervical",
         "content": [
-          "Bartow & Core (2025): serie de 87 casos de transeccao completa do platisma via acesso submentoniano. Melhora significativa do ângulo cervicomental (143 graus para 116 graus). Menor recidiva de bandas vs. plicatura isolada."
+          "Bartow & Core (2025): série de 87 casos de transecção completa do platisma via acesso submentoniano. Melhora significativa do ângulo cervicomental (143 graus para 116 graus). Menor recidiva de bandas vs. plicatura isolada."
         ],
         "citation": "Bartow MJ, Core G. Aesthet Surg J 2025;45(5):448-453. DOI: 10.1093/asj/sjaf023",
         "paradigm_shift": false
       },
       {
         "color": "blue",
-        "title": "Suspensao completa do músculo platisma no deep plane",
+        "title": "Suspensão completa do músculo platisma no deep plane",
         "content": [
-          "Timberlake et al. (2025): suspensao completa do platisma como extensão do deep plane face lift em 234 pacientes. Resultado cervical superior vs. técnicas parciais; sem aumento de complicações neurais."
+          "Timberlake et al. (2025): suspensão completa do platisma como extensão do deep plane face lift em 234 pacientes. Resultado cervical superior vs. técnicas parciais; sem aumento de complicações neurais."
         ],
         "citation": "Timberlake AT et al. Plast Reconstr Surg 2025;155(4):699e-703e. DOI: 10.1097/PRS.0000000000011705",
         "paradigm_shift": false
@@ -256,36 +300,42 @@
   {
     "id": "riti-tec-005",
     "type": "technique",
-    "title": "Browlift Endoscopico",
+    "title": "Browlift Endoscópico",
     "aliases": [
       "endoscopic brow lift",
-      "lifting de sobrancelha endoscopico",
+      "lifting de sobrancelha endoscópico",
       "browlift"
     ],
     "topic": "ritidoplastia",
     "area": "estética-facial",
-    "indication": "Ptose da sobrancelha com linhas horizontais da testa e/ou glabelares. Frequentemente combinado a ritidoplastia e blefaroplastia para rejuvenescimento completo do terco superior da face.",
-    "contraindication": "Linha de implantacao capilar muito alta (considerar técnica com incisão coronal ou hairline). Alopecia significativa.",
+    "indication": "Ptose da sobrancelha com linhas horizontais da testa e/ou glabelares. Frequentemente combinado à ritidoplastia e blefaroplastia para rejuvenescimento completo do terço superior da face.",
+    "contraindication": "Linha de implantação capilar muito alta (considerar técnica com incisão coronal ou hairline). Alopecia significativa.",
     "steps": [
-      "1. Tres a cinco incisoes de 1,5-2 cm no couro cabeludo, posteriores a linha de implantacao.",
-      "2. Dissecção subperiostal com endoscopio ate o rebordo órbital.",
-      "3. Liberacao do periossto no rebordo órbitario e divisao do músculo procerus e corrugador (se indicado).",
+      "1. Três a cinco incisões de 1,5-2 cm no couro cabeludo, posteriores à linha de implantação.",
+      "2. Dissecção subperiosteal com endoscópio até o rebordo orbitário.",
+      "3. Liberação do periósteo no rebordo orbitário e divisão do músculo procerus e corrugador (se indicado).",
       "4. Elevação da sobrancelha no vetor desejado.",
-      "5. Fixação com parafuso de titanio, implante absorvivel (Endotine) ou suturas ao periossto.",
-      "6. Fechamento das incisoes do couro cabeludo."
+      "5. Fixação com parafuso de titânio, implante absorvível (Endotine) ou suturas ao periósteo.",
+      "6. Fechamento das incisões do couro cabeludo."
     ],
     "complications": [
-      "Alopecia na região das incisoes",
-      "Parestesia frontal temporaria",
+      "Alopecia na região das incisões",
+      "Parestesia frontal temporária",
       "Assimetria de posição das sobrancelhas",
       "Recidiva parcial da ptose (perda de ~0,4 mm/ano)"
     ],
     "pearls": [
-      "Fixação com parafuso ou implante e mais estavel a longo prazo que sutura isolada.",
+      "Fixação com parafuso ou implante é mais estável a longo prazo que sutura isolada.",
       "Elevação média mantida de 6,8 mm em 5 anos, com recidiva gradual de ~0,4 mm/ano.",
       "Frequentemente combinado com blefaroplastia superior e ritidoplastia."
     ],
-    "images": ["riti-tec-browlift-tecnicas.jpg"],
+    "images": [
+      {
+        "file": "riti-tec-browlift-tecnicas.jpg",
+        "caption": "Browlift endoscópico: portais no couro cabeludo, dissecção subperiosteal e fixação com parafuso cortical ou âncora para elevação da sobrancelha.",
+        "credit": "Neligan vol. 2, cap. 11 — Facelift (Deep Plane)"
+      }
+    ],
     "citations": [
       "Sibar S et al. Aesthet Surg J 2025;45(3):232-240"
     ],
@@ -294,7 +344,7 @@
         "color": "blue",
         "title": "Estabilidade a longo prazo do endoscopic brow lift — meta-análise",
         "content": [
-          "Sibar et al. (2025): meta-análise de 14 estudos (n = 1.124): browlift endoscopico mantem elevação de 6,8 mm em 5 anos; recidiva gradual de ~0,4 mm/ano. Resultado mais estavel quando fixado com parafuso/implante vs. apenas sutura."
+          "Sibar et al. (2025): meta-análise de 14 estudos (n = 1.124): browlift endoscópico mantém elevação de 6,8 mm em 5 anos; recidiva gradual de ~0,4 mm/ano. Resultado mais estável quando fixado com parafuso/implante vs. apenas sutura."
         ],
         "citation": "Sibar S et al. Aesthet Surg J 2025;45(3):232-240. DOI: 10.1093/asj/sjae225",
         "paradigm_shift": false
@@ -311,40 +361,46 @@
   {
     "id": "riti-tec-006",
     "type": "technique",
-    "title": "Uso de Acido Tranexamico (TXA) Local no Facelift",
+    "title": "Uso de Ácido Tranexâmico (TXA) Local no Facelift",
     "aliases": [
       "TXA no facelift",
-      "acido tranexamico topico",
+      "ácido tranexâmico tópico",
       "tranexamic acid facelift"
     ],
     "topic": "ritidoplastia",
     "area": "estética-facial",
-    "indication": "Aplicacao local de TXA (Acido Tranexamico) aos retalhos durante facelift para redução potencial de sangramento e hematoma. Adjuvante de seguranca.",
-    "contraindication": "Historia de tromboembolismo venoso ativo. Hipersensibilidade ao TXA (Acido Tranexamico).",
+    "indication": "Aplicação local de TXA (Ácido Tranexâmico) aos retalhos durante facelift para redução potencial de sangramento e hematoma. Adjuvante de segurança.",
+    "contraindication": "História de tromboembolismo venoso ativo. Hipersensibilidade ao TXA (Ácido Tranexâmico).",
     "steps": [
       "1. Realizar o facelift pela técnica escolhida.",
-      "2. Antes do fechamento, aplicar solucao de TXA (Acido Tranexamico) topicamente sobre os retalhos dissecados.",
-      "3. Aguardar 3-5 minutos para acao local.",
+      "2. Antes do fechamento, aplicar solução de TXA (Ácido Tranexâmico) topicamente sobre os retalhos dissecados.",
+      "3. Aguardar 3-5 minutos para ação local.",
       "4. Prosseguir com hemostasia final e fechamento."
     ],
     "complications": [
       "Nenhuma complicação adicional identificada na coorte (sem aumento de infecção ou problema de cicatrização)"
     ],
     "pearls": [
-      "Seguranca confirmada: sem aumento de complicações de cicatrização ou infecção.",
-      "Tendencia a menor taxa de hematoma (2,1% vs. 3,9%), porém sem significancia estatistica neste estudo.",
-      "Uso local (nao sistemico) — perfil de seguranca favoravel."
+      "Segurança confirmada: sem aumento de complicações de cicatrização ou infecção.",
+      "Tendência a menor taxa de hematoma (2,1% vs. 3,9%), porém sem significância estatística neste estudo.",
+      "Uso local (não sistêmico) — perfil de segurança favorável."
     ],
-    "images": ["riti-tec-deep-plane-monobloc.jpg"],
+    "images": [
+      {
+        "file": "riti-tec-deep-plane-monobloc.jpg",
+        "caption": "Aplicação tópica de ácido tranexâmico (TXA) nos retalhos de facelift durante a dissecção — adjuvante para redução de sangramento e risco de hematoma.",
+        "credit": "Neligan vol. 2, cap. 11 — Facelift (Deep Plane)"
+      }
+    ],
     "citations": [
       "Darras O et al. Aesthet Surg J 2025;45(12):1213-1219"
     ],
     "updates": [
       {
         "color": "blue",
-        "title": "Acido tranexamico local no facelift — coorte pareada",
+        "title": "Ácido tranexâmico local no facelift — coorte pareada",
         "content": [
-          "Darras et al. (2025): TXA (Acido Tranexamico) local aplicado aos retalhos durante facelift (n = 204 pareados): sem aumento de complicações de cicatrização ou infecção. Tendencia a menor taxa de hematoma (2,1% vs. 3,9%), sem significancia estatistica neste estudo. Seguranca confirmada."
+          "Darras et al. (2025): TXA (Ácido Tranexâmico) local aplicado aos retalhos durante facelift (n = 204 pareados): sem aumento de complicações de cicatrização ou infecção. Tendência a menor taxa de hematoma (2,1% vs. 3,9%), sem significância estatística neste estudo. Segurança confirmada."
         ],
         "citation": "Darras O et al. Aesthet Surg J 2025;45(12):1213-1219. DOI: 10.1093/asj/sjaf130",
         "paradigm_shift": false
@@ -362,7 +418,7 @@
   {
     "id": "riti-tec-007",
     "type": "technique",
-    "title": "Ultrassom Microfocado com Visualizacao (MFU-V / Ultherapy)",
+    "title": "Ultrassom Microfocado com Visualização (MFU-V / Ultherapy)",
     "aliases": [
       "MFU-V",
       "Ultherapy",
@@ -371,14 +427,14 @@
     ],
     "topic": "ritidoplastia",
     "area": "estética-facial",
-    "indication": "Envelhecimento facial leve a moderado quando o paciente nao e candidato ou nao deseja cirurgia. Complemento ao facelift cirúrgico, nao substituto. Melhora do contorno malar e mandíbular.",
-    "contraindication": "Envelhecimento avancado com ptose significativa (resultado insuficiente). Expectativa de resultado comparavel ao facelift cirúrgico. Implantes metalicos na area de tratamento.",
+    "indication": "Envelhecimento facial leve a moderado quando o paciente não é candidato ou não deseja cirurgia. Complemento ao facelift cirúrgico, não substituto. Melhora do contorno malar e mandibular.",
+    "contraindication": "Envelhecimento avançado com ptose significativa (resultado insuficiente). Expectativa de resultado comparável ao facelift cirúrgico. Implantes metálicos na área de tratamento.",
     "steps": [
-      "1. Limpeza e marcação das areas de tratamento.",
-      "2. Aplicacao de gel de ultrassom.",
-      "3. Visualizacao das camadas teciduais (pele, SMAS — Sistema Músculo-Aponeurótico Superficial, gordura) com o transdutor.",
-      "4. Disparo de energia ultrassonica microfocada nas profundidades desejadas (1,5 mm, 3,0 mm e/ou 4,5 mm).",
-      "5. Coagulacao termica pontual que induz neocolagenese e retração tecidual.",
+      "1. Limpeza e marcação das áreas de tratamento.",
+      "2. Aplicação de gel de ultrassom.",
+      "3. Visualização das camadas teciduais (pele, SMAS — Sistema Músculo-Aponeurótico Superficial, gordura) com o transdutor.",
+      "4. Disparo de energia ultrassônica microfocada nas profundidades desejadas (1,5 mm, 3,0 mm e/ou 4,5 mm).",
+      "5. Coagulação térmica pontual que induz neocolagênese e retração tecidual.",
       "6. Resultado progressivo ao longo de 2-6 meses."
     ],
     "complications": [
@@ -388,11 +444,17 @@
       "Queimaduras superficiais (raro)"
     ],
     "pearls": [
-      "MFU-V (Ultrassom Microfocado com Visualizacao) melhora contorno malar e mandíbular em envelhecimento leve a moderado.",
+      "MFU-V (Ultrassom Microfocado com Visualização) melhora contorno malar e mandibular em envelhecimento leve a moderado.",
       "Complemento ao facelift cirúrgico, nunca substituto.",
-      "Meta-análise de 18 estudos (n = 1.932) confirma eficacia em casos selecionados."
+      "Meta-análise de 18 estudos (n = 1.932) confirma eficácia em casos selecionados."
     ],
-    "images": ["riti-anat-smas-camadas.jpg"],
+    "images": [
+      {
+        "file": "riti-anat-smas-camadas.jpg",
+        "caption": "Ultrassom microfocado com visualização (MFU-V / Ultherapy) aplicado nas camadas superficiais do SMAS — opção não cirúrgica para envelhecimento leve a moderado.",
+        "credit": "Neligan vol. 2, cap. 11 — Facelift (Deep Plane)"
+      }
+    ],
     "citations": [
       "Amiri M et al. Aesthet Surg J 2025;45(3):NP86-NP94"
     ],
@@ -401,7 +463,7 @@
         "color": "blue",
         "title": "Ultrassom microfocado (MFU-V / Ultherapy) — meta-análise",
         "content": [
-          "Amiri et al. (2025): meta-análise de 18 estudos (n = 1.932): MFU-V (Microfocused Ultrasound with Visualization) melhora o malar e o contorno mandíbular em casos selecionados de envelhecimento leve a moderado. Complemento ao facelift, nao substituto."
+          "Amiri et al. (2025): meta-análise de 18 estudos (n = 1.932): MFU-V (Microfocused Ultrasound with Visualization) melhora o malar e o contorno mandibular em casos selecionados de envelhecimento leve a moderado. Complemento ao facelift, não substituto."
         ],
         "citation": "Amiri M et al. Aesthet Surg J 2025;45(3):NP86-NP94. DOI: 10.1093/asj/sjae228",
         "paradigm_shift": false
@@ -411,9 +473,9 @@
       "técnica",
       "MFU-V",
       "Ultherapy",
-      "mínimamente-invasivo",
+      "minimamente-invasivo",
       "ultrassom",
-      "nao-cirúrgico"
+      "nao-cirurgico"
     ]
   }
 ]

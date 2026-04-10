@@ -7,14 +7,14 @@
     "area": "contorno-corporal",
     "section": "synopsis",
     "content": [
-      "Contorno corporal pos-bariatrico abrange pacientes com perda macica de peso (> 30 kg) que apresentam excesso cutaneo significativo em multiplas regioes corporais, com impacto funcional e psicologico importante.",
-      "O intervalo minimo recomendado entre cirurgia bariatrica e contorno corporal e de 12-18 meses, com IMC ideal < 32 kg/m2 e peso estavel por 3-6 meses.",
-      "Avaliacao nutricional rigorosa e obrigatoria: deficiencias de proteina, ferro, B12, vitamina D e acido folico sao frequentes e comprometem cicatrizacao.",
-      "Pittsburgh Rating Scale e a ferramenta padronizada para classificar severidade do excesso cutaneo por regiao corporal.",
-      "Procedimentos principais: abdominoplastia pos-bariatrica/body lift (Lockwood), cruroplastia (medial, vertical ou circunferencial), braquioplastia (com possivel extensao em L ao torax), mastopexia pos-bariatrica e lifting facial/cervical.",
-      "Estadiamento em 2-3 fases e a abordagem mais segura; combinacoes sao possiveis em pacientes bem selecionados (BMI < 30, albumina > 3,2 g/dL).",
-      "Complicacoes mais frequentes: seroma (10-30%), deiscencia (5-15%), infeccao (5-12%), TEV (2-5%), necrose cutanea (3-8%).",
-      "Profilaxia de TEV com compressao intermitente, mobilizacao precoce e HBPM em pacientes de risco e mandatoria."
+      "Contorno corporal pós-bariátrico abrange pacientes com perda maciça de peso (> 30 kg) que apresentam excesso cutâneo significativo em múltiplas regiões corporais, com impacto funcional e psicológico importante.",
+      "O intervalo mínimo recomendado entre cirurgia bariátrica e contorno corporal é de 12-18 meses, com IMC ideal < 32 kg/m2 e peso estável por 3-6 meses.",
+      "Avaliação nutricional rigorosa é obrigatória: deficiências de proteína, ferro, B12, vitamina D e ácido fólico são frequentes e comprometem cicatrização.",
+      "Pittsburgh Rating Scale é a ferramenta padronizada para classificar severidade do excesso cutâneo por região corporal.",
+      "Procedimentos principais: abdominoplastia pós-bariátrica/body lift (Lockwood), cruroplastia (medial, vertical ou circunferencial), braquioplastia (com possível extensão em L ao tórax), mastopexia pós-bariátrica e lifting facial/cervical.",
+      "Estadiamento em 2-3 fases é a abordagem mais segura; combinações são possíveis em pacientes bem selecionados (IMC — Índice de Massa Corporal < 30, albumina > 3,2 g/dL).",
+      "Complicações mais frequentes: seroma (10-30%), deiscência (5-15%), infecção (5-12%), TEV (2-5%), necrose cutânea (3-8%).",
+      "Profilaxia de TEV com compressão intermitente, mobilização precoce e HBPM em pacientes de risco é mandatória."
     ],
     "images": [],
     "citations": [
@@ -42,9 +42,9 @@
     "area": "contorno-corporal",
     "section": "introducao",
     "content": [
-      "A obesidade morbida afeta aproximadamente 7% da populacao mundial, com prevalencia em ascensao. Cirurgias bariatricas (bypass gastrico em Y de Roux, gastrectomia vertical, banda gastrica ajustavel) resultam em perda ponderal media de 50-80% do excesso de peso em 12-24 meses.",
-      "Estima-se que 40-50% dos pacientes pos-bariatricos (apos perda macica > 30 kg) procuram pela cirurgia de contorno corporal para correcao do excesso cutaneo. A demanda por estes procedimentos cresceu exponencialmente, representando 8-15% das operacoes de cirurgia plastica em centros especializados.",
-      "Pacientes pos-bariatricos apresentam particularidades: perda macica de peso, alteracoes importantes na qualidade e elasticidade cutanea, desnutricao relativa (apesar da aparencia), comorbidades associadas a obesidade (diabetes, hipertensao, apneia do sono) frequentemente ja melhoradas. Estudos mostram melhoria significativa em autoestima e qualidade de vida com o contorno corporal."
+      "A obesidade mórbida afeta aproximadamente 7% da população mundial, com prevalência em ascensão. Cirurgias bariátricas (bypass gástrico em Y de Roux, gastrectomia vertical, banda gástrica ajustável) resultam em perda ponderal média de 50-80% do excesso de peso em 12-24 meses.",
+      "Estima-se que 40-50% dos pacientes pós-bariátricos (após perda maciça > 30 kg) procuram pela cirurgia de contorno corporal para correção do excesso cutâneo. A demanda por estes procedimentos cresceu exponencialmente, representando 8-15% das operações de cirurgia plástica em centros especializados.",
+      "Pacientes pós-bariátricos apresentam particularidades: perda maciça de peso, alterações importantes na qualidade e elasticidade cutânea, desnutrição relativa (apesar da aparência), comorbidades associadas à obesidade (diabetes, hipertensão, apneia do sono) frequentemente já melhoradas. Estudos mostram melhoria significativa em autoestima e qualidade de vida com o contorno corporal."
     ],
     "images": [],
     "citations": [
@@ -67,12 +67,12 @@
   {
     "id": "cpb-nota-003",
     "type": "note",
-    "title": "Caracteristicas do Paciente Pos-Bariatrico",
+    "title": "Características do Paciente Pós-Bariátrico",
     "topic": "contorno-pos-bariatrico",
     "area": "contorno-corporal",
     "section": "diagnóstico",
     "content": [
-      "Pacientes pos-bariatricos apresentam particularidades clinicas distintas: perda macica de peso (> 30 kg), alteracoes importantes na qualidade e elasticidade cutanea, desnutricao relativa (apesar da aparencia), comorbidades associadas a obesidade (diabetes, hipertensao, apneia do sono) frequentemente ja melhoradas.",
+      "Pacientes pós-bariátricos apresentam particularidades clínicas distintas: perda maciça de peso (> 30 kg), alterações importantes na qualidade e elasticidade cutânea, desnutrição relativa (apesar da aparência), comorbidades associadas à obesidade (diabetes, hipertensão, apneia do sono) frequentemente já melhoradas.",
       "Estudos mostram melhoria significativa em autoestima e qualidade de vida com o contorno corporal."
     ],
     "images": [],
@@ -94,13 +94,13 @@
   {
     "id": "cpb-nota-004",
     "type": "note",
-    "title": "Avaliacao Clinica do Excesso Cutaneo",
+    "title": "Avaliação Clínica do Excesso Cutâneo",
     "topic": "contorno-pos-bariatrico",
     "area": "contorno-corporal",
     "section": "diagnostico",
     "content": [
-      "Examinar cada regiao corporal sistematicamente: abdome (infraumbilical, periumbelical, epigastrico), flancos (graus de ptose), monte pubico, coxas (aspecto medial, lateral, circunferencial), gluteos, mamas, bracos (extensao ao ombro/axilar), e pescoco.",
-      "Fotografias padronizadas (anterior, posterior, obliqua direita e esquerda) sao imprescindiveis."
+      "Examinar cada região corporal sistematicamente: abdome (infraumbilical, periumbelical, epigástrico), flancos (graus de ptose), monte púbico, coxas (aspecto medial, lateral, circunferencial), glúteos, mamas, braços (extensão ao ombro/axilar), e pescoço.",
+      "Fotografias padronizadas (anterior, posterior, oblíqua direita e esquerda) são imprescindíveis."
     ],
     "images": [],
     "citations": [
@@ -121,13 +121,13 @@
   {
     "id": "cpb-nota-005",
     "type": "note",
-    "title": "Classificacao da Pittsburgh Rating Scale",
+    "title": "Classificação da Pittsburgh Rating Scale",
     "topic": "contorno-pos-bariatrico",
     "area": "contorno-corporal",
     "section": "diagnóstico",
     "content": [
       "Ferramenta padronizada para avaliar severidade do excesso de pele em pacientes com perda massiva de peso.",
-      "Cada regiao corporal e classificada independentemente em graus 0 a III conforme grau de ptose e excesso cutaneo."
+      "Cada região corporal é classificada independentemente em graus 0 a III conforme grau de ptose e excesso cutâneo."
     ],
     "images": [],
     "citations": [
@@ -147,12 +147,12 @@
   {
     "id": "cpb-nota-006",
     "type": "note",
-    "title": "Classificacao de Appelt para Excesso Cutaneo",
+    "title": "Classificação de Appelt para Excesso Cutâneo",
     "topic": "contorno-pos-bariatrico",
     "area": "contorno-corporal",
     "section": "diagnóstico",
     "content": [
-      "Classificacao de Appelt modificada para obesidade/perda macica: utilizada para avaliar excesso cutaneo de coxas e bracos, graduando de leve a severo conforme extensao e circunferencialidade do excesso."
+      "Classificação de Appelt modificada para obesidade/perda maciça: utilizada para avaliar excesso cutâneo de coxas e braços, graduando de leve a severo conforme extensão e circunferencialidade do excesso."
     ],
     "images": [],
     "citations": [
@@ -172,12 +172,12 @@
   {
     "id": "cpb-nota-007",
     "type": "note",
-    "title": "Classificacao de Ptose Mamaria (Regnault)",
+    "title": "Classificação de Ptose Mamária (Regnault)",
     "topic": "contorno-pos-bariatrico",
     "area": "contorno-corporal",
     "section": "diagnóstico",
     "content": [
-      "Classificacao de Regnault para ptose mamaria: Grau I (ptose minima — mamilo ao nivel do sulco inframamario), Grau II (ptose moderada — mamilo abaixo do sulco mas acima do polo inferior), Grau III (ptose severa — mamilo no polo inferior ou abaixo), Pseudoptose (mamilo acima do sulco mas parenquima ptosado)."
+      "Classificação de Regnault para ptose mamária: Grau I (ptose mínima — mamilo ao nível do sulco inframamário), Grau II (ptose moderada — mamilo abaixo do sulco mas acima do polo inferior), Grau III (ptose severa — mamilo no polo inferior ou abaixo), Pseudoptose (mamilo acima do sulco mas parênquima ptosado)."
     ],
     "images": [],
     "citations": [
@@ -194,14 +194,14 @@
   {
     "id": "cpb-nota-008",
     "type": "note",
-    "title": "Aspectos Psicologicos",
+    "title": "Aspectos Psicológicos",
     "topic": "contorno-pos-bariatrico",
     "area": "contorno-corporal",
     "section": "diagnóstico",
     "content": [
-      "Pacientes com perda massiva de peso apresentam desafios psicologicos unicos: apego emocional ao corpo anterior, expectativas muitas vezes irrealistas em relacao ao resultado estetico, e possivel dismorfismo corporal.",
-      "Avaliacao pre-operatoria por psicologo e recomendada.",
-      "Resultados satisfatorios dependem tanto da melhoria fisica quanto da comunicacao clara sobre objetivos realistas."
+      "Pacientes com perda massiva de peso apresentam desafios psicológicos únicos: apego emocional ao corpo anterior, expectativas muitas vezes irrealistas em relação ao resultado estético, e possível dismorfismo corporal.",
+      "Avaliação pré-operatória por psicólogo é recomendada.",
+      "Resultados satisfatórios dependem tanto da melhoria física quanto da comunicação clara sobre objetivos realistas."
     ],
     "images": [],
     "citations": [
@@ -224,11 +224,11 @@
     "area": "contorno-corporal",
     "section": "diagnostico",
     "content": [
-      "Perfil laboratorial completo e mandatorio.",
-      "Alem da avaliacao nutricional investigar: proteina total, albumina, ferritina, hemoglobina, B12, vitamina D, calcio, acido folico, zinco.",
-      "Investigar funcao hepatica considerando cirrose biliar primaria e esteatose hepatica pos-bariatrica.",
-      "Investigar funcao renal considerando desidratacao relativa.",
-      "Investigar coagulograma com atencao para deficiencia de vitamina K frequente em pos-bariatricos."
+      "Perfil laboratorial completo é mandatório.",
+      "Além da avaliação nutricional investigar: proteína total, albumina, ferritina, hemoglobina, B12, vitamina D, cálcio, ácido fólico, zinco.",
+      "Investigar função hepática considerando cirrose biliar primária e esteatose hepática pós-bariátrica.",
+      "Investigar função renal considerando desidratação relativa.",
+      "Investigar coagulograma com atenção para deficiência de vitamina K frequente em pós-bariátricos."
     ],
     "images": [],
     "citations": [
@@ -248,14 +248,14 @@
   {
     "id": "cpb-nota-010",
     "type": "note",
-    "title": "Avaliacao de Comorbidades Residuais",
+    "title": "Avaliação de Comorbidades Residuais",
     "topic": "contorno-pos-bariatrico",
     "area": "contorno-corporal",
     "section": "diagnostico",
     "content": [
-      "Investigar diabetes residual, hipertensao nao controlada, sindrome metabolica persistente.",
-      "Avaliar adequadamente sistema respiratorio (apneia do sono), cardiaco e renal.",
-      "Solicitar avaliacao pre-anestesica rigorosa, especialmente em pacientes com IMC ainda elevado."
+      "Investigar diabetes residual, hipertensão não controlada, síndrome metabólica persistente.",
+      "Avaliar adequadamente sistema respiratório (apneia do sono), cardíaco e renal.",
+      "Solicitar avaliação pré-anestésica rigorosa, especialmente em pacientes com IMC ainda elevado."
     ],
     "images": [],
     "citations": [
@@ -281,8 +281,8 @@
     "area": "contorno-corporal",
     "section": "pós-operatório",
     "content": [
-      "Monitoramento em unidade de terapia intensiva ou enfermaria de cuidados intermediarios recomendado em procedimentos extensos.",
-      "Vigilancia de: debito de drenos (volume, cor, aspecto), sinais de TEV (edema unilateral, dor em panturrilha), infeccao (febre > 38,5 graus C, rubor), e sangramento excessivo."
+      "Monitoramento em unidade de terapia intensiva ou enfermaria de cuidados intermediários recomendado em procedimentos extensos.",
+      "Vigilância de: débito de drenos (volume, cor, aspecto), sinais de TEV (edema unilateral, dor em panturrilha), infecção (febre > 38,5 graus C, rubor), e sangramento excessivo."
     ],
     "images": [],
     "citations": [
@@ -309,10 +309,10 @@
     "area": "contorno-corporal",
     "section": "pós-operatório",
     "content": [
-      "Jackson-Pratt (JP) ou Blake com evacuacao continua (preferivel) versus intermitente.",
-      "Remover quando debito < 30 mL/dia por 48 horas consecutivas.",
-      "Tempo tipico: 2-4 semanas em body lift (frequentemente necessario periodo prolongado por risco de seroma).",
-      "Orientar paciente em auto-medicao de debito."
+      "Jackson-Pratt (JP) ou Blake com evacuação contínua (preferível) versus intermitente.",
+      "Remover quando débito < 30 mL/dia por 48 horas consecutivas.",
+      "Tempo típico: 2-4 semanas em body lift (frequentemente necessário período prolongado por risco de seroma).",
+      "Orientar paciente em auto-medição de débito."
     ],
     "images": [],
     "citations": [
@@ -332,14 +332,14 @@
   {
     "id": "cpb-nota-013",
     "type": "note",
-    "title": "Malhas Compressivas e Vestuario",
+    "title": "Malhas Compressivas e Vestuário",
     "topic": "contorno-pos-bariatrico",
     "area": "contorno-corporal",
     "section": "pós-operatório",
     "content": [
-      "Uso de meias compressivas (classe II, 15-20 mmHg) por 4-6 semanas continuas, essencial.",
-      "Auxilia drenagem linfatica, reduz edema, previne seroma.",
-      "Vestuario compressivo (body suit) opcional.",
+      "Uso de meias compressivas (classe II, 15-20 mmHg) por 4-6 semanas contínuas, essencial.",
+      "Auxilia drenagem linfática, reduz edema, previne seroma.",
+      "Vestuário compressivo (body suit) opcional.",
       "Reavaliar periodicamente e remover gradualmente."
     ],
     "images": [],
@@ -359,14 +359,14 @@
   {
     "id": "cpb-nota-014",
     "type": "note",
-    "title": "Mobilizacao Precoce",
+    "title": "Mobilização Precoce",
     "topic": "contorno-pos-bariatrico",
     "area": "contorno-corporal",
     "section": "pós-operatório",
     "content": [
-      "Sentar-se no leito no pos-operatorio imediato (POI 0), caminhada assistida no POI 1.",
-      "Movimento reduz risco de TEV, melhora retorno linfatico.",
-      "Evitar posicoes que aumentem tensao cicatricial (decubito dorsal com joelhos estendidos nao e recomendado em primeiras 2 semanas)."
+      "Sentar-se no leito no pós-operatório imediato (POI 0), caminhada assistida no POI 1.",
+      "Movimento reduz risco de TEV, melhora retorno linfático.",
+      "Evitar posições que aumentem tensão cicatricial (decúbito dorsal com joelhos estendidos não é recomendado em primeiras 2 semanas)."
     ],
     "images": [],
     "citations": [
@@ -384,13 +384,13 @@
   {
     "id": "cpb-nota-015",
     "type": "note",
-    "title": "Profilaxia de TEV Pos-Operatoria",
+    "title": "Profilaxia de TEV Pós-Operatória",
     "topic": "contorno-pos-bariatrico",
     "area": "contorno-corporal",
     "section": "pós-operatório",
     "content": [
-      "Compressao intermitente intraoperatoria mantida ate deambulacao, meias elasticas continuar, mobilizacao precoce agressiva.",
-      "Farmacologica: HBPM (enoxaparina 40 mg/dia SC) ou rivaroxabana 10 mg/dia por 10-14 dias em pacientes de risco elevado (BMI > 35, historico pessoal/familiar de TEV, idade > 60, imobilidade)."
+      "Compressão intermitente intraoperatória mantida até deambulação, meias elásticas continuar, mobilização precoce agressiva.",
+      "Farmacológica: HBPM — Heparina de Baixo Peso Molecular (enoxaparina 40 mg/dia SC) ou rivaroxabana 10 mg/dia por 10-14 dias em pacientes de risco elevado (IMC — Índice de Massa Corporal > 35, histórico pessoal/familiar de TEV, idade > 60, imobilidade)."
     ],
     "images": [],
     "citations": [
@@ -411,15 +411,15 @@
   {
     "id": "cpb-nota-016",
     "type": "note",
-    "title": "Suplementacao Nutricional Agressiva",
+    "title": "Suplementação Nutricional Agressiva",
     "topic": "contorno-pos-bariatrico",
     "area": "contorno-corporal",
     "section": "pós-operatório",
     "content": [
-      "Ingestao calorica: 30-35 kcal/kg peso ideal.",
-      "Proteina: >= 1,2 g/kg/dia.",
-      "Suplementacao especifica: BCAA (aminoacidos de cadeia ramificada — Branched-Chain Amino Acids) 10-20 g/dia, vitamina D 2000 UI/dia, B12 1000 mcg IM mensal ou 2000 mcg sublingual diariamente, ferro 300 mg/dia se hematocrito < 35%, acido folico 1 mg/dia.",
-      "Avaliar albumina serica em semana 6 e 12 pos-operatoria; se < 3,0 g/dL, intensificar suplementacao."
+      "Ingestão calórica: 30-35 kcal/kg peso ideal.",
+      "Proteína: >= 1,2 g/kg/dia.",
+      "Suplementação específica: BCAA (aminoácidos de cadeia ramificada — Branched-Chain Amino Acids) 10-20 g/dia, vitamina D 2000 UI/dia, B12 1000 mcg IM mensal ou 2000 mcg sublingual diariamente, ferro 300 mg/dia se hematócrito < 35%, ácido fólico 1 mg/dia.",
+      "Avaliar albumina sérica em semana 6 e 12 pós-operatória; se < 3,0 g/dL, intensificar suplementação."
     ],
     "images": [],
     "citations": [
@@ -444,11 +444,11 @@
     "area": "contorno-corporal",
     "section": "pós-operatório",
     "content": [
-      "Semana 2: avaliacao das incisoes, retirada de sutura (se nao absorvivel)",
-      "Semana 6: avaliacao de seroma, foto clinica, liberar atividades moderadas",
-      "Semana 12: avaliacao final cicatricial, liberar atividades plenas",
-      "Mes 6: avaliacao de cicatrizacao tardia, possivel peeling ou microdermabrasao",
-      "Mes 12: avaliacao de resultados finais, planejamento de possiveis reoperacoes"
+      "Semana 2: avaliação das incisões, retirada de sutura (se não absorvível)",
+      "Semana 6: avaliação de seroma, foto clínica, liberar atividades moderadas",
+      "Semana 12: avaliação final cicatricial, liberar atividades plenas",
+      "Mês 6: avaliação de cicatrização tardia, possível peeling ou microdermabrasão",
+      "Mês 12: avaliação de resultados finais, planejamento de possíveis reoperações"
     ],
     "images": [],
     "citations": [
@@ -520,7 +520,7 @@
   {
     "id": "cpb-nota-020",
     "type": "note",
-    "title": "Deiscencia de Ferida",
+    "title": "Deiscência de Ferida",
     "topic": "contorno-pos-bariatrico",
     "area": "contorno-corporal",
     "section": "complicacoes",
@@ -547,7 +547,7 @@
   {
     "id": "cpb-nota-021",
     "type": "note",
-    "title": "Necrose Cutanea",
+    "title": "Necrose Cutânea",
     "topic": "contorno-pos-bariatrico",
     "area": "contorno-corporal",
     "section": "complicações",
@@ -576,14 +576,14 @@
   {
     "id": "cpb-nota-022",
     "type": "note",
-    "title": "Infeccao de Sitio Cirurgico",
+    "title": "Infecção de Sítio Cirúrgico",
     "topic": "contorno-pos-bariatrico",
     "area": "contorno-corporal",
     "section": "complicacoes",
     "content": [
-      "Incidencia: 5-12%.",
-      "Prevencao: Antibioticoprofilaxia perioperatoria, tecnica assetica rigorosa, manejo adequado de drenos.",
-      "Diagnostico: Febre > 38,5 graus C, rubor, calor, drenagem purulenta, leucocitose.",
+      "Incidência: 5-12%.",
+      "Prevenção: Antibioticoprofilaxia perioperatória, técnica asséptica rigorosa, manejo adequado de drenos.",
+      "Diagnóstico: Febre > 38,5 graus C, rubor, calor, drenagem purulenta, leucocitose.",
       "Manejo: Abertura da ferida para drenagem, antibioticoterapia direcionada por cultura."
     ],
     "images": [],
@@ -635,15 +635,15 @@
   {
     "id": "cpb-nota-024",
     "type": "note",
-    "title": "Migracao Cicatricial",
+    "title": "Migração Cicatricial",
     "topic": "contorno-pos-bariatrico",
     "area": "contorno-corporal",
     "section": "complicações",
     "content": [
-      "Incidencia: 5-10% em abdominoplastia/body lift; 10-25% em cruroplastia.",
-      "Prevencao: Fixacao adequada da fascia de Scarpa, evitar sobretensao, compressao prolongada, tecnica de ancoragem ao periosteo.",
-      "Diagnostico: Deslocamento progressivo da cicatriz em direcao cranial.",
-      "Manejo: Revisao cicatricial apos estabilizacao (6-12 meses)."
+      "Incidência: 5-10% em abdominoplastia/body lift; 10-25% em cruroplastia.",
+      "Prevenção: Fixação adequada da fáscia de Scarpa, evitar sobretensão, compressão prolongada, técnica de ancoragem ao periósteo.",
+      "Diagnóstico: Deslocamento progressivo da cicatriz em direção cranial.",
+      "Manejo: Revisão cicatricial após estabilização (6-12 meses)."
     ],
     "images": [],
     "citations": [
@@ -662,15 +662,15 @@
   {
     "id": "cpb-nota-025",
     "type": "note",
-    "title": "Alteracao de Sensibilidade",
+    "title": "Alteração de Sensibilidade",
     "topic": "contorno-pos-bariatrico",
     "area": "contorno-corporal",
     "section": "complicacoes",
     "content": [
-      "Incidencia: 20-30% transitoria em abdominoplastia/body lift; 10-30% transitoria e 2-5% permanente em braquioplastia (nervo cutaneo medial); 10-20% em mastopexia.",
-      "Prevencao: Disseccao cuidadosa no plano correto, identificacao e preservacao de nervos.",
-      "Diagnostico: Parestesia, hipoestesia ou anestesia na regiao operada.",
-      "Manejo: Maioria resolve espontaneamente em 6-12 meses. Neuropatia permanente: fisioterapia, dessensibilizacao."
+      "Incidência: 20-30% transitória em abdominoplastia/body lift; 10-30% transitória e 2-5% permanente em braquioplastia (nervo cutâneo medial); 10-20% em mastopexia.",
+      "Prevenção: Dissecção cuidadosa no plano correto, identificação e preservação de nervos.",
+      "Diagnóstico: Parestesia, hipoestesia ou anestesia na região operada.",
+      "Manejo: Maioria resolve espontaneamente em 6-12 meses. Neuropatia permanente: fisioterapia, dessensibilização."
     ],
     "images": [],
     "citations": [
@@ -716,7 +716,7 @@
   {
     "id": "cpb-nota-027",
     "type": "note",
-    "title": "Linfedema (Pos-Cruroplastia)",
+    "title": "Linfedema (Pós-Cruroplastia)",
     "topic": "contorno-pos-bariatrico",
     "area": "contorno-corporal",
     "section": "complicações",
@@ -742,7 +742,7 @@
   {
     "id": "cpb-nota-028",
     "type": "note",
-    "title": "Recorrencia de Ptose",
+    "title": "Recorrência de Ptose",
     "topic": "contorno-pos-bariatrico",
     "area": "contorno-corporal",
     "section": "complicações",
@@ -770,15 +770,15 @@
   {
     "id": "cpb-nota-029",
     "type": "note",
-    "title": "Deficiencia Nutricional Pos-Operatoria",
+    "title": "Deficiência Nutricional Pós-Operatória",
     "topic": "contorno-pos-bariatrico",
     "area": "contorno-corporal",
     "section": "complicacoes",
     "content": [
-      "Incidencia variavel com risco elevado em todas as cirurgias de contorno extenso.",
-      "Prevencao realizada através de otimizacao nutricional pre-operatoria e suplementacao agressiva pos-operatoria.",
-      "Diagnostico baseado em Albumina serica < 3,0 g/dL, queda de hemoglobina, alopecia difusa e cicatrizacao lenta.",
-      "Manejo inclui suplementacao agressiva com BCAA, vitaminas B (especialmente B12), ferro e vitamina D por periodo de 4-6 meses pos-operatorio. Recomenda-se ingestao de proteina ate 1,5 g/kg de peso ideal."
+      "Incidência variável com risco elevado em todas as cirurgias de contorno extenso.",
+      "Prevenção realizada através de otimização nutricional pré-operatória e suplementação agressiva pós-operatória.",
+      "Diagnóstico baseado em Albumina sérica < 3,0 g/dL, queda de hemoglobina, alopecia difusa e cicatrização lenta.",
+      "Manejo inclui suplementação agressiva com BCAA, vitaminas B (especialmente B12), ferro e vitamina D por período de 4-6 meses pós-operatório. Recomenda-se ingestão de proteína até 1,5 g/kg de peso ideal."
     ],
     "images": [],
     "citations": [
@@ -797,15 +797,15 @@
   {
     "id": "cpb-nota-030",
     "type": "note",
-    "title": "Complicacoes Especificas da Mastopexia",
+    "title": "Complicações Específicas da Mastopexia",
     "topic": "contorno-pos-bariatrico",
     "area": "contorno-corporal",
     "section": "complicacoes",
     "content": [
-      "Incidencia: Necrose de mamilo 1-3%, perda de sensibilidade 10-20%, assimetria pos-operatoria/recorrencia de ptose 5-10%, implante visivel/palpavel se combinado com implante.",
-      "Prevencao: Tecnica cuidadosa de pediculo, preservacao vascular, escolha conservadora de implante.",
-      "Diagnostico: Clinico.",
-      "Manejo: Revisao cirurgica conforme indicacao especifica."
+      "Incidência: Necrose de mamilo 1-3%, perda de sensibilidade 10-20%, assimetria pós-operatória/recorrência de ptose 5-10%, implante visível/palpável se combinado com implante.",
+      "Prevenção: Técnica cuidadosa de pedículo, preservação vascular, escolha conservadora de implante.",
+      "Diagnóstico: Clínico.",
+      "Manejo: Revisão cirúrgica conforme indicação específica."
     ],
     "images": [],
     "citations": [
@@ -825,14 +825,14 @@
   {
     "id": "cpb-nota-031",
     "type": "note",
-    "title": "Procedimentos Combinados e Estrategias de Estadiamento",
+    "title": "Procedimentos Combinados e Estratégias de Estadiamento",
     "topic": "contorno-pos-bariatrico",
     "area": "contorno-corporal",
     "section": "revisao",
     "content": [
-      "Opcoes de estadiamento: Fase 1 - Body lift (abdominoplastia + cruroplastia); Fase 2 - Braquioplastia bilateral + mastopexia; Fase 3 - Face lift + lifting cervical.",
-      "Intervalo entre fases: minimo 4-6 semanas, ideal 8-12 semanas para cicatrizacao completa e resolucao de seroma.",
-      "Combinacoes seguras em pos-bariatricos bem selecionados com BMI < 30 e albumina > 3,2: abdominoplastia + braquioplastia, body lift + mastopexia, cruroplastia + braquioplastia."
+      "Opções de estadiamento: Fase 1 - Body lift (abdominoplastia + cruroplastia); Fase 2 - Braquioplastia bilateral + mastopexia; Fase 3 - Face lift + lifting cervical.",
+      "Intervalo entre fases: mínimo 4-6 semanas, ideal 8-12 semanas para cicatrização completa e resolução de seroma.",
+      "Combinações seguras em pós-bariátricos bem selecionados com IMC — Índice de Massa Corporal < 30 e albumina > 3,2: abdominoplastia + braquioplastia, body lift + mastopexia, cruroplastia + braquioplastia."
     ],
     "images": [],
     "citations": [
@@ -856,16 +856,16 @@
   {
     "id": "cpb-nota-032",
     "type": "note",
-    "title": "Limites de Tempo Cirurgico e Perda Sanguinea",
+    "title": "Limites de Tempo Cirúrgico e Perda Sanguínea",
     "topic": "contorno-pos-bariatrico",
     "area": "contorno-corporal",
     "section": "revisao",
     "content": [
-      "Recomendacoes em anestesia geral continua:",
-      "Tempo maximo recomendado: 360-420 minutos (limite de conforto anestesico, risco de hipotermia)",
-      "Perda sanguinea maxima aceitavel: 1200-1500 mL (acima disto, considerar transfusao)",
-      "Monitoramento continuo: hemoglobina pre-cirurgica e em tempo real com possibilidade de cell salvage",
-      "Infusao de fluidos agressiva em disseccao ampla (risco de terceiro espaco)"
+      "Recomendações em anestesia geral contínua:",
+      "Tempo máximo recomendado: 360-420 minutos (limite de conforto anestésico, risco de hipotermia)",
+      "Perda sanguínea máxima aceitável: 1200-1500 mL (acima disto, considerar transfusão)",
+      "Monitoramento contínuo: hemoglobina pré-cirúrgica e em tempo real com possibilidade de cell salvage",
+      "Infusão de fluidos agressiva em dissecção ampla (risco de terceiro espaço)"
     ],
     "images": [],
     "citations": [
@@ -911,14 +911,14 @@
   {
     "id": "cpb-nota-034",
     "type": "note",
-    "title": "Revisoes Cicatriciais",
+    "title": "Revisões Cicatriciais",
     "topic": "contorno-pos-bariatrico",
     "area": "contorno-corporal",
     "section": "revisao",
     "content": [
-      "Revisao cicatricial indicada em: cicatrizes alargadas (5-15% dos casos de braquioplastia), cicatrizes hipertroficas ou queloidais, migracao cicatricial.",
-      "Timing: aguardar minimo 6-12 meses de maturacao cicatricial.",
-      "Opcoes terapeuticas: peeling quimico, microdermabrasao, revisao cirurgica, laser fracionado."
+      "Revisão cicatricial indicada em: cicatrizes alargadas (5-15% dos casos de braquioplastia), cicatrizes hipertróficas ou queloidais, migração cicatricial.",
+      "Timing: aguardar mínimo 6-12 meses de maturação cicatricial.",
+      "Opções terapêuticas: peeling químico, microdermabrasão, revisão cirúrgica, laser fracionado."
     ],
     "images": [],
     "citations": [

@@ -5,14 +5,14 @@
   "area": "estética-facial",
   "cards": [
     {
-      "front": "Hematoma na ritidoplastia — frequencia",
+      "front": "Hematoma na ritidoplastia — frequência",
       "back": "1-8% (homens > mulheres)",
       "citation": "Neligan, 2023, vol. 2, cap. 11",
       "domain": "complicações"
     },
     {
-      "front": "Principal fator de risco para hematoma pos-facelift",
-      "back": "Hipertensão arterial sistemica (HAS)",
+      "front": "Principal fator de risco para hematoma pós-facelift",
+      "back": "Hipertensão arterial sistêmica (HAS)",
       "citation": "Neligan, 2023, vol. 2, cap. 11",
       "domain": "complicações"
     },
@@ -23,7 +23,7 @@
       "domain": "complicações"
     },
     {
-      "front": "Lesao permanente do nervo facial na ritidoplastia",
+      "front": "Lesão permanente do nervo facial na ritidoplastia",
       "back": "< 1%",
       "citation": "Neligan, 2023, vol. 2, cap. 11",
       "domain": "complicações"
@@ -47,31 +47,31 @@
       "domain": "técnica"
     },
     {
-      "front": "Ângulo cervicomental após transeccao completa do platisma",
+      "front": "Ângulo cervicomental após transecção completa do platisma",
       "back": "Melhora de 143 graus para 116 graus",
       "citation": "Bartow MJ, Core G. Aesthet Surg J 2025;45(5):448-453",
       "domain": "técnica"
     },
     {
       "front": "Suturas cervicais seletivas — redução do tempo cirúrgico",
-      "back": "Redução de 40% no tempo cirúrgico sem diferenca em resultado a 1 ano vs. platismaplastia completa",
+      "back": "Redução de 40% no tempo cirúrgico sem diferença em resultado a 1 ano vs. platismaplastia completa",
       "citation": "Ganesh Kumar N et al. Plast Reconstr Surg 2025;156(2):194e-197e",
       "domain": "técnica"
     },
     {
-      "front": "Browlift endoscopico — elevação mantida em 5 anos",
+      "front": "Browlift endoscópico — elevação mantida em 5 anos",
       "back": "6,8 mm; recidiva gradual de ~0,4 mm/ano",
       "citation": "Sibar S et al. Aesthet Surg J 2025;45(3):232-240",
       "domain": "técnica"
     },
     {
-      "front": "TXA (Acido Tranexamico) local no facelift — taxa de hematoma",
-      "back": "Tendencia: 2,1% (TXA) vs. 3,9% (controle) — sem significancia estatistica",
+      "front": "TXA (Ácido Tranexâmico) local no facelift — taxa de hematoma",
+      "back": "Tendência: 2,1% (TXA) vs. 3,9% (controle) — sem significância estatística",
       "citation": "Darras O et al. Aesthet Surg J 2025;45(12):1213-1219",
       "domain": "técnica"
     },
     {
-      "front": "Suspensao completa do platisma no deep plane — serie",
+      "front": "Suspensão completa do platisma no deep plane — série",
       "back": "234 pacientes; resultado cervical superior vs. técnicas parciais; sem aumento de complicações neurais",
       "citation": "Timberlake AT et al. Plast Reconstr Surg 2025;155(4):699e-703e",
       "domain": "técnica"

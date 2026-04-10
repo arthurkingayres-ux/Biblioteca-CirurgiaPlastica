@@ -1491,3 +1491,34 @@ summary:focus-visible {
     display: none;
   }
 }
+
+/* ============================================================
+   Card figures (Fase 4)
+   ============================================================ */
+.card-figure {
+  margin: 12px 0;
+}
+.card-figure img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  display: block;
+  background: var(--bg-secondary);
+}
+.card-figure figcaption {
+  font-size: 0.85rem;
+  line-height: 1.4;
+  margin-top: 6px;
+  color: var(--text-muted);
+}
+.card-figure figcaption .caption {
+  display: block;
+  color: var(--text-primary);
+}
+.card-figure figcaption .credit {
+  display: block;
+  font-style: italic;
+  opacity: 0.75;
+  font-size: 0.78rem;
+  margin-top: 2px;
+}

@@ -17,7 +17,11 @@
       "A pálpebra é dividida em lamela anterior (pele e músculo orbicular) e lamela posterior (tarso e conjuntiva), com o septo órbital como limite entre os compartimentos pré-septal e orbitário."
     ],
     "images": [
-      "diagrama-camadas-palpebrais.png"
+      {
+        "file": "diagrama-camadas-palpebrais.png",
+        "caption": "Diagrama das camadas da pálpebra (lamela anterior e posterior) como mapa introdutório à blefaroplastia.",
+        "credit": "Neligan vol. 2, caps. 8-9 — Blepharoplasty"
+      }
     ],
     "citations": [
       "Neligan, 2023, vol. 2, caps. 8–9",
@@ -51,8 +55,16 @@
       "Conceito de lamelas: envelhecimento diferencial da lamela anterior (pele/músculo) e posterior (tarso/conjuntiva), que explica a necessidade de abordagens distintas para cada componente."
     ],
     "images": [
-      "blef-13-19-deflacao-bochecha-envelhecimento.png",
-      "blef-13-35-canto-lateral-envelhecimento.png"
+      {
+        "file": "blef-13-19-deflacao-bochecha-envelhecimento.png",
+        "caption": "Envelhecimento periorbital: deflação do compartimento malar e descida do ORL acentuam o tear trough e criam o aspecto de bolsa palpebral inferior.",
+        "credit": "Neligan vol. 2, caps. 8-9 — Blepharoplasty"
+      },
+      {
+        "file": "blef-13-35-canto-lateral-envelhecimento.png",
+        "caption": "Perda de inclinação positiva e ptose do canto lateral no envelhecimento palpebral.",
+        "credit": "Neligan vol. 2, caps. 8-9 — Blepharoplasty"
+      }
     ],
     "citations": [
       "Neligan, 2023, vol. 2, caps. 8–9",
@@ -96,15 +108,51 @@
       "VISTAS FOTOGRÁFICAS: face completa frontal, oblíqua e perfil em repouso e sorrindo; periórbital em olhar para cima e para baixo, com olhos fechados e sobrancelha elevada com dedo."
     ],
     "images": [
-      "blef-13-17-palpebra-superior-ideal.png",
-      "blef-13-20-avaliacao-periorbital.png",
-      "blef-box13-1-principios-palpebra-jovem.png",
-      "blef-box13-2-historia-exame-fisico.png",
-      "blef-box13-3-vistas-fotograficas.png",
-      "blef-box13-4-plano-periorbital.png",
-      "fig13-20-avaliacao-paciente.jpeg",
-      "fig13-20a-acuidade-visual.png",
-      "algoritmo-diagnostico-palpebra-pesada.png"
+      {
+        "file": "blef-13-17-palpebra-superior-ideal.png",
+        "caption": "Parâmetros da pálpebra superior ideal: MRD1, altura da prega, distância margem-sobrancelha e posição da prega em relação à margem ciliar.",
+        "credit": "Neligan vol. 2, caps. 8-9 — Blepharoplasty"
+      },
+      {
+        "file": "blef-13-20-avaliacao-periorbital.png",
+        "caption": "Roteiro de avaliação periorbital: posição da sobrancelha, prega palpebral, excesso de pele, bolsas de gordura, tear trough e laxidão cantal.",
+        "credit": "Neligan vol. 2, caps. 8-9 — Blepharoplasty"
+      },
+      {
+        "file": "blef-box13-1-principios-palpebra-jovem.png",
+        "caption": "Princípios anatômicos da pálpebra jovem — referência estética para o planejamento cirúrgico.",
+        "credit": "Neligan vol. 2, caps. 8-9 — Blepharoplasty"
+      },
+      {
+        "file": "blef-box13-2-historia-exame-fisico.png",
+        "caption": "Roteiro de história clínica e exame físico sistemático antes da blefaroplastia.",
+        "credit": "Neligan vol. 2, caps. 8-9 — Blepharoplasty"
+      },
+      {
+        "file": "blef-box13-3-vistas-fotograficas.png",
+        "caption": "Vistas fotográficas padronizadas para documentação pré-operatória: frontal neutra, olhos fechados, olhar para cima, perfis e três-quartos.",
+        "credit": "Neligan vol. 2, caps. 8-9 — Blepharoplasty"
+      },
+      {
+        "file": "blef-box13-4-plano-periorbital.png",
+        "caption": "Plano operatório periorbital integrando avaliação da sobrancelha, pálpebra superior, pálpebra inferior e canto lateral.",
+        "credit": "Neligan vol. 2, caps. 8-9 — Blepharoplasty"
+      },
+      {
+        "file": "fig13-20-avaliacao-paciente.jpeg",
+        "caption": "Ilustração da avaliação pré-operatória do paciente em posição sentada com iluminação padronizada.",
+        "credit": "Neligan vol. 2, caps. 8-9 — Blepharoplasty"
+      },
+      {
+        "file": "fig13-20a-acuidade-visual.png",
+        "caption": "Teste de acuidade visual como parte obrigatória da avaliação pré-operatória da blefaroplastia.",
+        "credit": "Neligan vol. 2, caps. 8-9 — Blepharoplasty"
+      },
+      {
+        "file": "algoritmo-diagnostico-palpebra-pesada.png",
+        "caption": "Algoritmo diagnóstico da pálpebra pesada: diferenciação entre dermatocálase, ptose de sobrancelha e ptose aponeurótica.",
+        "credit": "Neligan vol. 2, caps. 8-9 — Blepharoplasty"
+      }
     ],
     "citations": [
       "Neligan, 2023, vol. 2, caps. 8–9",
@@ -147,7 +195,11 @@
       "A cantólise lateral (secção do ramo inferior do tendão cantal lateral) permite expansão do conteúdo orbitário para fora do cone muscular, aliviando a pressão."
     ],
     "images": [
-      "cantotomia-lateral-emergencia.png"
+      {
+        "file": "cantotomia-lateral-emergencia.png",
+        "caption": "Manobra de cantotomia lateral com cantólise do ramo inferior — tratamento imediato do hematoma retrobulbar para descompressão orbitária e prevenção de cegueira.",
+        "credit": "Neligan vol. 2, caps. 8-9 — Blepharoplasty"
+      }
     ],
     "citations": [
       "Neligan, 2023, vol. 2, cap. 8",
@@ -347,7 +399,11 @@
       "A cantopexia em duas camadas pode incluir opção de ancoramento para midfacelift simultâneo."
     ],
     "images": [
-      "blef-13-40-midfacelift.png"
+      {
+        "file": "blef-13-40-midfacelift.png",
+        "caption": "Midfacelift via incisão de blefaroplastia: elevação subperiosteal do terço médio através do acesso subciliar ou transconjuntival.",
+        "credit": "Neligan vol. 2, caps. 8-9 — Blepharoplasty"
+      }
     ],
     "citations": [
       "Neligan, 2023, vol. 2, cap. 9"

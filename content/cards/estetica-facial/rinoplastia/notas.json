@@ -46,8 +46,16 @@
       "EXAME INTERNO: colapso da valva externa à inspiração + teste de Cottle. Espéculo nasal: valva interna, hipertrofia de corneto (típicamente contralateral ao desvio), deformidades septais, quantidade de cartilagem septal para enxerto. Em revisão: aplicador de algodão ao longo do septo identifica step-off de coleta prévia."
     ],
     "images": [
-      "fig18-2-angulos-nasais.jpeg",
-      "diagrama-angulos-nasais.png"
+      {
+        "file": "fig18-2-angulos-nasais.jpeg",
+        "caption": "Ângulos nasais principais para a análise sistemática: nasofrontal (115–130°), nasolabial (95–105° feminino; 90–95° masculino) e nasofacial (30–40°).",
+        "credit": "Neligan vol. 2, caps. 18-22 — Rhinoplasty"
+      },
+      {
+        "file": "diagrama-angulos-nasais.png",
+        "caption": "Diagrama dos parâmetros nasais de projeção, rotação e comprimento empregados na análise pré-operatória da rinoplastia.",
+        "credit": "Neligan vol. 2, caps. 18-22 — Rhinoplasty"
+      }
     ],
     "citations": [
       "Neligan, 2023, vol. 2, caps. 18–19",
@@ -96,7 +104,11 @@
       "Valva interna: ~50% da resistência total."
     ],
     "images": [
-      "diagrama-angulos-nasais.png"
+      {
+        "file": "diagrama-angulos-nasais.png",
+        "caption": "Parâmetros nasais e ângulos ideais: nasofrontal, nasolabial, nasofacial e proporção projeção/comprimento (Goode) — referências objetivas do planejamento estético.",
+        "credit": "Neligan vol. 2, caps. 18-22 — Rhinoplasty"
+      }
     ],
     "citations": [
       "Neligan, 2023, vol. 2, cap. 18"
@@ -158,7 +170,11 @@
       "HIERARQUIA (Rhinoplasty Society): septo > costela autóloga > costela homóloga fresca > concha > costela irradiada > aloplástico."
     ],
     "images": [
-      "diagrama-tipos-enxertos.png"
+      {
+        "file": "diagrama-tipos-enxertos.png",
+        "caption": "Tipos e fontes de enxertos cartilaginosos em rinoplastia: septo (1ª escolha), concha auricular (curvatura) e costal (volume) — cada fonte com indicação específica.",
+        "credit": "Neligan vol. 2, caps. 18-22 — Rhinoplasty"
+      }
     ],
     "citations": [
       "Neligan, 2023, vol. 2, cap. 19",
