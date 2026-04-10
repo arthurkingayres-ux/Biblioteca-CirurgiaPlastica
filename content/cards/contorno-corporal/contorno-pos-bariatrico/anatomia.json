@@ -20,7 +20,23 @@
     ],
     "surgical_relevance": "Diástase dos retos abdominais frequentemente severa (> 2 cm). Plicatura em duplo plano (fascial e muscular) com sutura absorvível 2-0 ou 0 é necessária. Dissecção em plano supramuscular até arco costal evitando lesão de nervos intercostais. Ligadura de ramos vasculares superficiais (circunflexa ilíaca superficial, pudenda externa, artérias do monte púbico)",
     "how_to_identify": "Diástase palpável com paciente em posição supina realizando flexão cervical. Landmarks: espinha ilíaca anterossuperior (EIAS) bilateralmente, sínfise púbica, arco costal, umbigo",
-    "images": [],
+    "images": [
+      {
+        "file": "cpb-anat-zonas-aderencia-tronco.png",
+        "caption": "Zonas de aderência do tronco no paciente pós-bariátrico. As setas indicam o vetor de descenso inferomedial dos tecidos com envelhecimento e perda ponderal maciça, determinando a direção do puxamento e o posicionamento das incisões do body lift.",
+        "credit": "Neligan's Plastic Surgery 5a Ed., 2023, vol. 2, cap. 31, Fig. 31.1 — Singh/Aly, Belt lipectomy."
+      },
+      {
+        "file": "cpb-anat-scarpa-compartimento-graxo.png",
+        "caption": "Corte sagital do abdome inferior mostrando a fáscia de Scarpa separando a gordura superficial lobular da gordura profunda, com o plano supraneural das perfurantes epigástricas. Plano-chave para dissecção abdominal preservando vasculatura e drenagem linfática.",
+        "credit": "Neligan's Plastic Surgery 5a Ed., 2023, vol. 2, cap. 32, Fig. 32.3 — Richter/Schwaiger, Circumferential lower lipo-bodylift."
+      },
+      {
+        "file": "cpb-anat-diastase-plicatura.png",
+        "caption": "Corte transverso da parede abdominal demonstrando a diástase dos músculos retos com afastamento da linha alba e a plicatura em duplo plano que restaura a tensão aponeurótica. Representa o alvo da sutura de aproximação no paciente pós-bariátrico.",
+        "credit": "Neligan's Plastic Surgery 5a Ed., 2023, vol. 2, cap. 31, Fig. 31.22 — Singh/Aly, Belt lipectomy."
+      }
+    ],
     "citations": [
       "Nahas, Neligan's Plastic Surgery, 5a Ed., 2023",
       "Lockwood et al., PRS, 1994"
@@ -51,7 +67,13 @@
     ],
     "surgical_relevance": "Ptose importante do monte púbico frequente em pós-bariátricos resulta em aspecto estético desagradável mesmo após ressecção adequada do abdome. Técnicas de correção incluem ressecção conservadora de pele/gordura com preservação de sensibilidade, plicatura da fáscia de Scarpa com ancoragem ao periósteo da sínfise, e em casos graves sutura suspensora ao ligamento de Cooper. Evitar plicatura excessiva que leve à dispareunia ou disúria",
     "how_to_identify": "Inspeção com paciente em posição ortostática; grau de ptose medido em relação à sínfise púbica",
-    "images": [],
+    "images": [
+      {
+        "file": "cpb-anat-monte-pubico-marcacao.png",
+        "caption": "Marcação horizontal do monte púbico no planejamento do belt lipectomy: linha suprapubiana traçada com o cirurgião estabilizando a região umbilical, estabelecendo a referência caudal da ressecção abdominal e o ponto de ancoragem para ressuspensão do monte pubiano à sínfise.",
+        "credit": "Neligan's Plastic Surgery 5a Ed., 2023, vol. 2, cap. 31, Fig. 31.16 — Singh/Aly, Belt lipectomy."
+      }
+    ],
     "citations": [
       "Lockwood et al., PRS, 1994",
       "Aly et al., PRS, 2003"
@@ -83,7 +105,13 @@
     ],
     "surgical_relevance": "Dissecção em plano supramuscular até fáscia do adutor preservando linfa e vasos. Fixação da ponta superior do retalho ao periósteo da sínfise púbica ou ligamento de Cooper para evitar recorrência de ptose. Ressecção de tecido adiposo pode prejudicar drenagem linfática com risco de linfedema entre 5-15%",
     "how_to_identify": "Prega cutânea de redundância com paciente em ortostatismo; palpação da fossa inguinal e trocânter",
-    "images": [],
+    "images": [
+      {
+        "file": "cpb-anat-coxa-medial-marcacoes.png",
+        "caption": "Marcação do lifting medial vertical da coxa em decúbito dorsal: linha superior na prega inguinal 4 cm lateral à linha média do monte púbico, extensão vertical do componente estimada por pinch test bilateralmente, com fuso de ressecção desenhado ao longo de toda a face medial da coxa até o joelho.",
+        "credit": "Neligan's Plastic Surgery 5a Ed., 2023, vol. 2, cap. 38, Fig. 38.12 — Toy/Rubin, Post-bariatric reconstruction."
+      }
+    ],
     "citations": [
       "Aly et al., PRS, 2003",
       "Lockwood et al., PRS, 1994"
@@ -116,7 +144,13 @@
     ],
     "surgical_relevance": "Dissecção em plano supramuscular obrigatória — não descer além da fáscia para evitar lesão do nervo cutâneo medial do antebraço (parestesia transitória 10-30%, permanente 2-5%). Marcação com braço abduzido a 90 graus, identificar linha de maior redundância (ponto médio entre cotovelo e axilar).",
     "how_to_identify": "Pinch test com braço abduzido; palpação do sulco bicipital medial para localizar nervo cutâneo.",
-    "images": [],
+    "images": [
+      {
+        "file": "cpb-anat-braco-sagital.png",
+        "caption": "Corte sagital do terço médio do braço mostrando a relação entre músculos (bíceps e tríceps), úmero, veia basílica e nervo cutâneo medial do antebraço no compartimento subfascial medial. Define o plano supramuscular seguro para dissecção na braquioplastia, evitando lesão do nervo cutâneo medial.",
+        "credit": "Neligan's Plastic Surgery 5a Ed., 2023, vol. 2, cap. 36, Fig. 36.8 — Luthringer/Shulzhenko/Capella, Upper limb contouring."
+      }
+    ],
     "citations": [
       "Grabb & Smith's Plastic Surgery, 8a Ed., 2020",
       "Hasanbegovic & Sorensen, Obes Surg, 2012"

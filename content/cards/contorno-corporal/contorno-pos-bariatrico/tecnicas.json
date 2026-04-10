@@ -27,7 +27,13 @@
       "Dissecção em plano supramuscular evita lesão do nervo cutâneo medial do antebraço",
       "Em mulheres com seios pendentes, considerar cicatriz axilar quando possível para melhor resultado estético"
     ],
-    "images": [],
+    "images": [
+      {
+        "file": "cpb-tec-braquioplastia-marcacoes.png",
+        "caption": "Marcação da braquioplastia convencional com o braço abduzido a 90 graus: linha superior ao longo do sulco bicipital medial e fuso de ressecção estimado pelo pinch test, estendendo-se da axila à fossa antecubital. O posicionamento medial esconde a cicatriz ao longo do eixo do braço.",
+        "credit": "Neligan's Plastic Surgery 5a Ed., 2023, vol. 2, cap. 36, Fig. 36.11A — Luthringer/Shulzhenko/Capella, Upper limb contouring."
+      }
+    ],
     "citations": [
       "Grabb & Smith's Plastic Surgery, 8a Ed., 2020",
       "Aly et al., PRS, 2003"
@@ -70,7 +76,18 @@
       "Permite elevação simultânea de abdome e coxas mediais",
       "Cicatrizes em locais estratégicos (inguinal, submamário) minimizam visibilidade"
     ],
-    "images": [],
+    "images": [
+      {
+        "file": "cpb-tec-belt-lipectomy-marcacoes.png",
+        "caption": "Marcação posterior do belt lipectomy (body lift circunferencial): linha horizontal contínua ao nível supraglúteo com áreas hachuradas em vermelho indicando as regiões gluteais a serem preservadas (autoaumento por transposição), de acordo com a técnica de reshaping glúteo de Toy/Rubin.",
+        "credit": "Neligan's Plastic Surgery 5a Ed., 2023, vol. 2, cap. 38, Fig. 38.7/38.8 — Toy/Rubin, Post-bariatric reconstruction."
+      },
+      {
+        "file": "cpb-tec-fleur-de-lis-marcacoes.png",
+        "caption": "Marcação pré-operatória da abdominoplastia em fleur-de-lis para o paciente pós-bariátrico: componente horizontal suprapubiano associado à ressecção vertical paramediana em forma de flor-de-lis, indicada quando há excesso cutâneo combinado horizontal e vertical.",
+        "credit": "Neligan's Plastic Surgery 5a Ed., 2023, vol. 2, cap. 38, Fig. 38.1A — Toy/Rubin, Post-bariatric reconstruction."
+      }
+    ],
     "citations": [
       "Lockwood et al., PRS, 1991-1994"
     ],

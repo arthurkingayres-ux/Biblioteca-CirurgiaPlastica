@@ -29,7 +29,28 @@
       "Respeitar zona de segurança glútea de Mendieta para evitar lesão neurovascular",
       "Alguns cirurgiões utilizam cola biológica (fibrina) como alternativa à fixação com sutura"
     ],
-    "images": [],
+    "images": [
+      {
+        "file": "glut-tec-implante-marcacao.png",
+        "caption": "Ilustração do planejamento de incisão parasacral e do triângulo de segurança para posicionamento do implante: o implante deve ficar lateral ao sacro e ao menos 2 cm acima do sulco infra-glúteo, respeitando a zona de segurança de Mendieta para evitar lesão do nervo ciático e da artéria glútea inferior.",
+        "credit": "Neligan's Plastic Surgery, 5ª Ed., 2023, vol. 2, cap. 35.2, Fig. 35.2.15 — De la Peña Salcedo JA, Ledezma Rodriguez JC, Gonzalez Sosa D. Buttock augmentation with implants."
+      },
+      {
+        "file": "glut-tec-plano-subfascial.png",
+        "caption": "Dissecção cadavérica demonstrando a elevação de um retalho fasciocutâneo e a exposição da aponeurose do glúteo máximo como plano de dissecção subfascial. Este é o plano de eleição para bolso do implante — oferece cobertura muscular por baixo e protege o implante da palpabilidade, ao mesmo tempo em que evita a profundidade intramuscular associada à neuropraxia ciática.",
+        "credit": "Neligan's Plastic Surgery, 5ª Ed., 2023, vol. 2, cap. 35.2, Fig. 35.2.10 — De la Peña Salcedo JA, Ledezma Rodriguez JC, Gonzalez Sosa D. Buttock augmentation with implants."
+      },
+      {
+        "file": "glut-tec-aponeurose-glutea.png",
+        "caption": "Vista intraoperatória da aponeurose do glúteo máximo com as expansões aponeuróticas atravessando a superfície muscular. A dissecção entre estas expansões é essencial para criar o bolso subfascial uniforme; a aponeurose deve ser preservada como teto do bolso para manter cobertura estável sobre o implante.",
+        "credit": "Neligan's Plastic Surgery, 5ª Ed., 2023, vol. 2, cap. 35.2, Fig. 35.2.18 — De la Peña Salcedo JA, Ledezma Rodriguez JC, Gonzalez Sosa D. Buttock augmentation with implants."
+      },
+      {
+        "file": "glut-tec-bolso-implante.png",
+        "caption": "Ilustração da dissecção do bolso subfascial via incisão parasacral no sulco interglúteo: afastadores expõem o plano entre aponeurose e músculo enquanto o cirurgião descola o bolso romba e caudolateralmente, respeitando o limite de 2 cm medial à borda lateral do glúteo máximo.",
+        "credit": "Neligan's Plastic Surgery, 5ª Ed., 2023, vol. 2, cap. 35.2, Fig. 35.2.20 — De la Peña Salcedo JA, Ledezma Rodriguez JC, Gonzalez Sosa D. Buttock augmentation with implants."
+      }
+    ],
     "citations": [
       "Castellanos et al., PRS, 2018",
       "Mofid et al., PRS, 2015",
