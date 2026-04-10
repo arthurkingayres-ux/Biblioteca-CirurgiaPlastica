@@ -78,8 +78,7 @@ const App = (() => {
     const filtered = filter
       ? topics.filter(t => {
           const dn = displayMap[t.topic] || toTitleCase(t.topic);
-          const q = filter.toLowerCase();
-          return dn.toLowerCase().includes(q) || t.topic.toLowerCase().includes(q);
+          return SearchEngine.topicMatches(t.topic, dn, filter);
         })
       : topics;
 

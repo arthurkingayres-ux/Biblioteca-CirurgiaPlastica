@@ -108,5 +108,20 @@ const SearchEngine = (() => {
     return [...topics.values()];
   }
 
-  return { buildIndex, search, getByTopic, getByType, getById, getTopics };
+  // Accent-insensitive topic matching for the home filter.
+  // Checks slug, displayName (if provided), and TOPIC_ALIASES for substring hit.
+  function topicMatches(topic, displayName, query) {
+    if (!query || !query.trim()) return true;
+    const q = _normalize(query);
+    if (!q) return true;
+    if (_normalize(topic).includes(q)) return true;
+    if (displayName && _normalize(displayName).includes(q)) return true;
+    const aliases = TOPIC_ALIASES[topic] || [];
+    for (const a of aliases) {
+      if (_normalize(a).includes(q)) return true;
+    }
+    return false;
+  }
+
+  return { buildIndex, search, getByTopic, getByType, getById, getTopics, topicMatches };
 })();
