@@ -2,13 +2,13 @@
   "topic": "blefaroplastia",
   "area": "estética-facial",
   "displayName": "Blefaroplastia",
-  "version": "v1.0",
-  "date": "2026-04-07",
+  "version": "v1.1",
+  "date": "2026-04-11",
   "status": "complete",
   "references": [
-    "Neligan 5ed vol.2 caps. 8-9",
-    "Grabb & Smith 9ed caps. 34-35",
-    "Core Procedures 2ed cap. 3",
+    "Neligan 5ed vol.2 caps. 13-14",
+    "Grabb & Smith 9ed cap. 51",
+    "Neligan Core Procedures 2ed cap. 3",
     "Operative Dictations caps. 8-10"
   ],
   "articles": [
@@ -21,10 +21,10 @@
     "Todorov D et al. ASJ 2025;45(6):554-562"
   ],
   "cardCounts": {
-    "anatomia": 18,
-    "técnicas": 12,
+    "anatomia": 20,
+    "tecnicas": 12,
     "decisoes": 4,
-    "notas": 10,
-    "flashcards": 56
+    "notas": 12,
+    "flashcards": 71
   }
 }
