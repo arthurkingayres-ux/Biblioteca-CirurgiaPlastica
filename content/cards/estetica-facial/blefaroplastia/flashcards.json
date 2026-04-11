@@ -7,73 +7,73 @@
     {
       "front": "MRD1 (distância margem-reflexo 1) — normal",
       "back": "4–5 mm (< 2 mm = ptose)",
-      "citation": "Neligan, 2023, vol. 2, cap. 8",
+      "citation": "Neligan, 2023, vol. 2, cap. 13",
       "domain": "avaliação"
     },
     {
       "front": "MRD2 (distância margem-reflexo 2) — normal",
       "back": "5 mm",
-      "citation": "Neligan, 2023, vol. 2, cap. 9",
+      "citation": "Neligan, 2023, vol. 2, cap. 14",
       "domain": "avaliação"
     },
     {
       "front": "Fissura pálpebral — largura normal",
       "back": "28–32 mm",
-      "citation": "Neligan, 2023, vol. 2, cap. 8",
+      "citation": "Neligan, 2023, vol. 2, cap. 13",
       "domain": "anatomia"
     },
     {
       "front": "Fissura pálpebral — altura normal",
       "back": "10–12 mm (< 8 mm sugere ptose ou blefaroespasmo)",
-      "citation": "Neligan, 2023, vol. 2, cap. 8",
+      "citation": "Neligan, 2023, vol. 2, cap. 13",
       "domain": "anatomia"
     },
     {
       "front": "Prega pálpebral superior ♀",
       "back": "8–10 mm da margem ciliar",
-      "citation": "Neligan, 2023, vol. 2, cap. 8",
+      "citation": "Neligan, 2023, vol. 2, cap. 13",
       "domain": "técnica"
     },
     {
       "front": "Prega pálpebral superior ♂",
       "back": "7–8 mm da margem ciliar",
-      "citation": "Neligan, 2023, vol. 2, cap. 8",
+      "citation": "Neligan, 2023, vol. 2, cap. 13",
       "domain": "técnica"
     },
     {
       "front": "Prega pálpebral — dupla pálpebra asiática",
       "back": "6–8 mm (menor que caucasiana para evitar aparência ocidentalizada)",
-      "citation": "Neligan, 2023, vol. 2, cap. 8",
+      "citation": "Neligan, 2023, vol. 2, cap. 13",
       "domain": "técnica"
     },
     {
       "front": "Mínimo de pele entre margem ciliar e sobrancelha",
       "back": "≥ 20 mm (segurança contra lagoftalmo)",
-      "citation": "Neligan, 2023, vol. 2, cap. 8",
+      "citation": "Neligan, 2023, vol. 2, cap. 13",
       "domain": "técnica"
     },
     {
       "front": "Tarso superior — altura",
       "back": "10–12 mm",
-      "citation": "Neligan, 2023, vol. 2, cap. 8",
+      "citation": "Neligan, 2023, vol. 2, cap. 13",
       "domain": "anatomia"
     },
     {
       "front": "Tarso inferior — altura",
       "back": "3,5–5 mm",
-      "citation": "Neligan, 2023, vol. 2, cap. 8",
+      "citation": "Neligan, 2023, vol. 2, cap. 13",
       "domain": "anatomia"
     },
     {
       "front": "Teste de Schirmer — contraindicação relativa",
       "back": "< 10 mm / 5 min = risco de olho seco",
-      "citation": "Grabb & Smith, 2024, cap. 35",
+      "citation": "Grabb & Smith, 2024, cap. 51",
       "domain": "avaliação"
     },
     {
       "front": "Teste de Schirmer — contraindicação relativa forte",
       "back": "< 5 mm / 5 min = olho seco grave",
-      "citation": "Grabb & Smith, 2024, cap. 35",
+      "citation": "Grabb & Smith, 2024, cap. 51",
       "domain": "avaliação"
     },
     {
@@ -85,61 +85,61 @@
     {
       "front": "Snap-back test — anormal",
       "back": "Retorno lento > 1 segundo → laxidez horizontal → cantopexia",
-      "citation": "Neligan, 2023, vol. 2, cap. 9",
+      "citation": "Neligan, 2023, vol. 2, cap. 14",
       "domain": "avaliação"
     },
     {
       "front": "Incidência de hematoma retrobulbar",
       "back": "0,04–0,05%",
-      "citation": "Neligan, 2023, vol. 2, cap. 8",
+      "citation": "Neligan, 2023, vol. 2, cap. 13",
       "domain": "complicações"
     },
     {
       "front": "Tempo para isquemia retiniana irreversível",
       "back": "60–100 minutos",
-      "citation": "Neligan, 2023, vol. 2, cap. 8",
+      "citation": "Neligan, 2023, vol. 2, cap. 13",
       "domain": "complicações"
     },
     {
       "front": "Cantotomia + cantólise — quando fazer",
       "back": "IMEDIATA ao diagnóstico de hematoma retrobulbar (não esperar imagem)",
-      "citation": "Neligan, 2023, vol. 2, cap. 8",
+      "citation": "Neligan, 2023, vol. 2, cap. 13",
       "domain": "emergência"
     },
     {
       "front": "Função LPS — boa",
       "back": "≥ 12 mm de excursão → avanço de aponeurose",
-      "citation": "Neligan, 2023, vol. 2, cap. 8",
+      "citation": "Neligan, 2023, vol. 2, cap. 13",
       "domain": "avaliação"
     },
     {
       "front": "Função LPS — moderada",
       "back": "5–11 mm",
-      "citation": "Neligan, 2023, vol. 2, cap. 8",
+      "citation": "Neligan, 2023, vol. 2, cap. 13",
       "domain": "avaliação"
     },
     {
       "front": "Função LPS — pobre",
       "back": "< 5 mm → indicar suspensão frontal (frontalis sling)",
-      "citation": "Neligan, 2023, vol. 2, cap. 8",
+      "citation": "Neligan, 2023, vol. 2, cap. 13",
       "domain": "decisão"
     },
     {
       "front": "Teste da fenilefrina 2,5% — positivo",
       "back": "Elevação ≥ 1,5 mm → candidato a Müllerectomy",
-      "citation": "Neligan, 2023, vol. 2, cap. 8",
+      "citation": "Neligan, 2023, vol. 2, cap. 13",
       "domain": "avaliação"
     },
     {
       "front": "Müllerectomy — indicação",
       "back": "Ptose leve (MRD1 2–3 mm) + fenilefrina positiva (≥ 1,5 mm)",
-      "citation": "Neligan, 2023, vol. 2, cap. 8",
+      "citation": "Neligan, 2023, vol. 2, cap. 13",
       "domain": "decisão"
     },
     {
       "front": "Posição normal do canto lateral vs. medial",
       "back": "Canto lateral 2 mm ACIMA do medial",
-      "citation": "Grabb & Smith, 2024, cap. 35",
+      "citation": "Grabb & Smith, 2024, cap. 51",
       "domain": "anatomia"
     },
     {
@@ -151,97 +151,97 @@
     {
       "front": "Resultado final — quando avaliar",
       "back": "3–6 meses",
-      "citation": "Neligan, 2023, vol. 2, cap. 8",
+      "citation": "Neligan, 2023, vol. 2, cap. 13",
       "domain": "pós-operatório"
     },
     {
       "front": "Recorrência da prega no método de sutura (asiática)",
       "back": "15–30% a longo prazo",
-      "citation": "Neligan, 2023, vol. 2, cap. 8",
+      "citation": "Neligan, 2023, vol. 2, cap. 13",
       "domain": "técnica"
     },
     {
       "front": "Espessura da pele pálpebral",
       "back": "~0,5 mm (mais fina do corpo; face = 2–3 mm)",
-      "citation": "Neligan, 2023, vol. 2, cap. 8",
+      "citation": "Neligan, 2023, vol. 2, cap. 13",
       "domain": "anatomia"
     },
     {
       "front": "Septo órbital superior — fusão com aponeurose do LPS",
       "back": "2–5 mm acima da borda superior do tarso",
-      "citation": "Neligan, 2023, vol. 2, cap. 8",
+      "citation": "Neligan, 2023, vol. 2, cap. 13",
       "domain": "anatomia"
     },
     {
       "front": "Septo órbital inferior — fusão com fáscia capsulopálpebral",
       "back": "~5 mm abaixo da borda inferior do tarso",
-      "citation": "Neligan, 2023, vol. 2, cap. 9",
+      "citation": "Neligan, 2023, vol. 2, cap. 14",
       "domain": "anatomia"
     },
     {
       "front": "Contribuição do músculo de Müller para elevação pálpebral",
       "back": "2 mm (inervação simpática)",
-      "citation": "Neligan, 2023, vol. 2, cap. 8",
+      "citation": "Neligan, 2023, vol. 2, cap. 13",
       "domain": "anatomia"
     },
     {
       "front": "Ptose na síndrome de Horner",
       "back": "1–2 mm (por desnervação simpática do músculo de Müller)",
-      "citation": "Neligan, 2023, vol. 2, cap. 8",
+      "citation": "Neligan, 2023, vol. 2, cap. 13",
       "domain": "anatomia"
     },
     {
       "front": "Tubérculo de Whitnall — localização",
       "back": "2–3 mm posterior ao rebordo orbitário lateral, face interna da parede órbital",
-      "citation": "Neligan, 2023, vol. 2, cap. 9",
+      "citation": "Neligan, 2023, vol. 2, cap. 14",
       "domain": "anatomia"
     },
     {
       "front": "Gordura pálpebral superior — quantos compartimentos",
       "back": "2 (medial/nasal e central/pré-aponeurótico). Lateral = glândula lacrimal, NÃO gordura",
-      "citation": "Neligan, 2023, vol. 2, cap. 8",
+      "citation": "Neligan, 2023, vol. 2, cap. 13",
       "domain": "anatomia"
     },
     {
       "front": "Gordura pálpebral inferior — quantos compartimentos",
       "back": "3 (medial, central e lateral), separados pelo m. oblíquo inferior",
-      "citation": "Neligan, 2023, vol. 2, cap. 9",
+      "citation": "Neligan, 2023, vol. 2, cap. 14",
       "domain": "anatomia"
     },
     {
       "front": "Lesão do m. oblíquo inferior — consequência",
       "back": "Diplopia (particularmente em elevação e adução)",
-      "citation": "Neligan, 2023, vol. 2, cap. 9",
+      "citation": "Neligan, 2023, vol. 2, cap. 14",
       "domain": "complicações"
     },
     {
       "front": "Ramo temporal do facial — zona perigosa",
       "back": "1 cm anteriormente ao tragus, sobre o arco zigomático",
-      "citation": "Neligan, 2023, vol. 2, cap. 8",
+      "citation": "Neligan, 2023, vol. 2, cap. 13",
       "domain": "anatomia"
     },
     {
       "front": "Arco marginal pálpebral — localização",
       "back": "2 mm da margem ciliar",
-      "citation": "Neligan, 2023, vol. 2, cap. 8",
+      "citation": "Neligan, 2023, vol. 2, cap. 13",
       "domain": "anatomia"
     },
     {
       "front": "Distância sobrancelha-margem — mínima normal",
       "back": "≥ 25 mm (< 25 mm sugere ptose de sobrancelha)",
-      "citation": "Grabb & Smith, 2024, cap. 35",
+      "citation": "Grabb & Smith, 2024, cap. 51",
       "domain": "avaliação"
     },
     {
       "front": "Exoftalmometria — normal vs. proptose",
       "back": "< 20 mm normal; > 20 mm = proptose",
-      "citation": "Grabb & Smith, 2024, cap. 35",
+      "citation": "Grabb & Smith, 2024, cap. 51",
       "domain": "avaliação"
     },
     {
       "front": "Incidência de ectrópio pós-blefaroplastia transcutânea",
       "back": "1–2%",
-      "citation": "Neligan, 2023, vol. 2, cap. 9",
+      "citation": "Neligan, 2023, vol. 2, cap. 14",
       "domain": "complicações"
     },
     {
@@ -271,13 +271,13 @@
     {
       "front": "Volume de lipoenxertia no tear trough",
       "back": "0,5–1,5 mL por lado (conservador — pele fina)",
-      "citation": "Grabb & Smith, 2024, cap. 35",
+      "citation": "Grabb & Smith, 2024, cap. 51",
       "domain": "técnica"
     },
     {
       "front": "Incisão subciliar — localização",
       "back": "2 mm abaixo da linha ciliar",
-      "citation": "Neligan, 2023, vol. 2, cap. 9",
+      "citation": "Neligan, 2023, vol. 2, cap. 14",
       "domain": "técnica"
     },
     {
@@ -307,39 +307,129 @@
     {
       "front": "Bell phenomenon — importância",
       "back": "Ausente = risco GRAVE de exposição corneal pós-blefaroplastia",
-      "citation": "Neligan, 2023, vol. 2, cap. 8",
+      "citation": "Neligan, 2023, vol. 2, cap. 13",
       "domain": "avaliação"
     },
     {
       "front": "Ptose — classificação por MRD1",
       "back": "Leve: 2–3 mm | Moderada: 0–1 mm | Grave: < 0 mm (margem abaixo do centro pupilar)",
-      "citation": "Neligan, 2023, vol. 2, cap. 8",
+      "citation": "Neligan, 2023, vol. 2, cap. 13",
       "domain": "avaliação"
     },
     {
       "front": "Distraction test — cantopexia vs. cantoplastia",
       "back": "4–6 mm → cantopexia (sem secção do tendão). > 6 mm → cantoplastia (com secção e reinserção)",
-      "citation": "Neligan, 2023, vol. 2, cap. 9",
+      "citation": "Neligan, 2023, vol. 2, cap. 14",
       "domain": "decisão"
     },
     {
       "front": "Hematoma retrobulbar — primeiro passo",
       "back": "Remover suturas IMEDIATAMENTE",
-      "citation": "Neligan, 2023, vol. 2, cap. 8",
+      "citation": "Neligan, 2023, vol. 2, cap. 13",
       "domain": "emergência"
     },
     {
       "front": "Equimose pós-blefaroplastia — duração",
       "back": "7–14 dias",
-      "citation": "Neligan, 2023, vol. 2, cap. 8",
+      "citation": "Neligan, 2023, vol. 2, cap. 13",
       "domain": "pós-operatório"
     },
     {
       "front": "Edema grosseiro pós-blefaroplastia — duração",
       "back": "2–4 semanas",
-      "citation": "Neligan, 2023, vol. 2, cap. 8",
+      "citation": "Neligan, 2023, vol. 2, cap. 13",
       "domain": "pós-operatório"
+    },
+    {
+      "front": "Quem cunhou o termo 'blefaroplastia'?",
+      "back": "Von Graefe, em 1818 (originalmente para procedimentos reconstrutivos pós-oncológicos)",
+      "citation": "Neligan, 2023, vol. 2, cap. 13",
+      "domain": "história"
+    },
+    {
+      "front": "Quem descreveu os primeiros conceitos de herniação dos coxins adiposos orbitários?",
+      "back": "Sichel e Bourguet",
+      "citation": "Neligan, 2023, vol. 2, cap. 13",
+      "domain": "história"
+    },
+    {
+      "front": "ROOF — definição e localização",
+      "back": "Retro-Orbicularis Oculi Fat. Coxim adiposo profundo ao orbicular, superficial ao periósteo, na região da sobrancelha lateral",
+      "citation": "Neligan, 2023, vol. 2, cap. 13",
+      "domain": "anatomia"
+    },
+    {
+      "front": "Retináculo lateral — estruturas componentes",
+      "back": "Tendão cantal lateral + tarsal strap + corno lateral do LPS + ligamento de Lockwood + ligamento de Whitnall + check ligaments do reto lateral",
+      "citation": "Neligan, 2023, vol. 2, cap. 13",
+      "domain": "anatomia"
+    },
+    {
+      "front": "Tarsal strap — localização e diferença do tendão cantal lateral",
+      "back": "~4–5 mm do rebordo orbitário lateral; suspende o tarso medial e inferiormente ao tendão cantal lateral. Mais resistente à laxidez por envelhecimento que o tendão cantal",
+      "citation": "Neligan, 2023, vol. 2, cap. 13",
+      "domain": "anatomia"
+    },
+    {
+      "front": "Ligamento de Whitnall — localização e função",
+      "back": "Banda fibrosa transversal ~10 mm acima do tarso, da tróclea à glândula lacrimal. Fulcro/suspensor do LPS na transição músculo→aponeurose",
+      "citation": "Neligan, 2023, vol. 2, cap. 13",
+      "domain": "anatomia"
+    },
+    {
+      "front": "Arco periférico pálpebral — localização",
+      "back": "Borda superior do tarso, entre o LPS e o músculo de Müller (distinto do arco marginal, que está 2 mm da borda ciliar)",
+      "citation": "Neligan, 2023, vol. 2, cap. 13",
+      "domain": "anatomia"
+    },
+    {
+      "front": "Artéria angular — relevância cirúrgica",
+      "back": "Anastomose entre artéria facial (carótida externa) e artéria oftálmica (carótida interna). Via de comunicação carotídea; infecções perioculares podem causar trombose do seio cavernoso",
+      "citation": "Neligan, 2023, vol. 2, cap. 13",
+      "domain": "anatomia"
+    },
+    {
+      "front": "Forame infraorbitário — distância ao rebordo",
+      "back": "~7 mm abaixo do rebordo orbitário inferior",
+      "citation": "Neligan, 2023, vol. 2, cap. 13",
+      "domain": "anatomia"
+    },
+    {
+      "front": "Pálpebra asiática — diferença anatômica fundamental vs. ocidental",
+      "back": "Em ~50% dos asiáticos: fusão septo-aponeurose mais inferior (próximo à borda tarsal) → gordura pré-aponeurótica desce anteriormente ao tarso → ausência de prega (single eyelid)",
+      "citation": "Neligan, 2023, vol. 2, cap. 13",
+      "domain": "anatomia"
+    },
+    {
+      "front": "Princípios modernos da blefaroplastia — quantos e qual o central?",
+      "back": "7 princípios (Box 13.1, Neligan). Central: restaurar anatomia jovem — conceitualizar o resultado desejado ANTES de selecionar o procedimento",
+      "citation": "Neligan, 2023, vol. 2, cap. 13",
+      "domain": "conceito"
+    },
+    {
+      "front": "Park NS et al. 2025 — correção de retração pálpebral com AlloDerm",
+      "back": "Série 12 pacientes: MRD1 melhorou de 5,8 mm → 4,1 mm em 6 meses. Indicação: retração detectada no PO imediato/primeiras semanas",
+      "citation": "Park NS et al. Plast Reconstr Surg 2025;156(2):189e–193e",
+      "domain": "artigo"
+    },
+    {
+      "front": "Anestesia local em blefaroplastia superior — tempo de espera para hemostasia",
+      "back": "7–10 minutos após infiltração de lidocaína 2% + epinefrina 1:100.000",
+      "citation": "Neligan, 2023, vol. 2, cap. 13",
+      "domain": "técnica"
+    },
+    {
+      "front": "Lagoftalmo permanente — conduta",
+      "back": "Enxerto de pele total (supraclavicular ou retroauricular)",
+      "citation": "Neligan, 2023, vol. 2, cap. 13",
+      "domain": "complicações"
+    },
+    {
+      "front": "Fáscia lata autóloga — indicação preferencial na suspensão frontal",
+      "back": "Padrão-ouro em crianças (integra-se melhor, menor risco de extrusão). Material sintético aceitável em adultos para evitar morbidade da doadora",
+      "citation": "Neligan, 2023, vol. 2, cap. 13",
+      "domain": "técnica"
     }
   ],
-  "tags": ["flashcards", "blefaroplastia", "anatomia", "técnica", "avaliação", "complicações", "emergência"]
+  "tags": ["flashcards", "blefaroplastia", "anatomia", "técnica", "avaliação", "complicações", "emergência", "história", "artigo"]
 }

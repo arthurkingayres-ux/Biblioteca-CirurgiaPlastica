@@ -59,7 +59,7 @@
         ]
       }
     ],
-    "citations": ["Neligan, 2023, vol. 2, cap. 8", "Grabb & Smith, 2024, cap. 35", "Li X et al. Plast Reconstr Surg 2026;157(1):38e–48e"],
+    "citations": ["Neligan, 2023, vol. 2, cap. 13", "Grabb & Smith, 2024, cap. 51", "Li X et al. Plast Reconstr Surg 2026;157(1):38e–48e"],
     "updates": [],
     "tags": ["decisão", "ptose", "LPS", "fenilefrina", "Hering", "técnica"]
   },
@@ -132,7 +132,7 @@
         ]
       }
     ],
-    "citations": ["Neligan, 2023, vol. 2, cap. 9", "Grabb & Smith, 2024, cap. 35", "Core Procedures, 2020, cap. 3", "Chen J et al. Plast Reconstr Surg 2026;157(4):622–631"],
+    "citations": ["Neligan, 2023, vol. 2, cap. 14", "Grabb & Smith, 2024, cap. 51", "Core Procedures, 2020, cap. 3", "Chen J et al. Plast Reconstr Surg 2026;157(4):622–631"],
     "updates": [],
     "tags": ["decisão", "blefaroplastia-inferior", "transconjuntival", "transcutânea", "cantopexia", "vetor"]
   },
@@ -188,7 +188,7 @@
         ]
       }
     ],
-    "citations": ["Neligan, 2023, vol. 2, cap. 8", "Grabb & Smith, 2024, cap. 35"],
+    "citations": ["Neligan, 2023, vol. 2, cap. 13", "Grabb & Smith, 2024, cap. 51"],
     "updates": [
       {
         "color": "green",
@@ -199,7 +199,7 @@
           "Se o excesso de pele persiste mesmo com sobrancelha elevada → dermatocálase verdadeira (indicar blefaroplastia).",
           "Muitos pacientes necessitam procedimento combinado (brow lift + blefaroplastia)."
         ],
-        "citation": "Neligan, 2023, vol. 2, cap. 8",
+        "citation": "Neligan, 2023, vol. 2, cap. 13",
         "paradigm_shift": false
       }
     ],
@@ -244,7 +244,7 @@
         ]
       }
     ],
-    "citations": ["Neligan, 2023, vol. 2, cap. 9", "Grabb & Smith, 2024, cap. 35"],
+    "citations": ["Neligan, 2023, vol. 2, cap. 14", "Grabb & Smith, 2024, cap. 51"],
     "updates": [],
     "tags": ["decisão", "vetor-orbitário", "ectrópio", "risco", "blefaroplastia-inferior", "scleral-show"]
   }
