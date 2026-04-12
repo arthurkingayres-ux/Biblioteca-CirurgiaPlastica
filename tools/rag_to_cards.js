@@ -415,10 +415,27 @@ function normalizeStructuredFields(card) {
   }
 }
 
+function normalizeTitle(t) {
+  return (t || '').toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/\s+/g, ' ').trim();
+}
+
 function mergeCards(existing, generated) {
   const byId = new Map();
-  for (const card of existing) byId.set(card.id, card);
-  for (const card of generated) byId.set(card.id, card); // new cards overwrite
+  const byTitle = new Map();
+  for (const card of existing) {
+    byId.set(card.id, card);
+    if (card.title) byTitle.set(normalizeTitle(card.title), card.id);
+  }
+  for (const card of generated) {
+    const key = card.title ? normalizeTitle(card.title) : null;
+    const existingIdForTitle = key ? byTitle.get(key) : null;
+    if (existingIdForTitle && existingIdForTitle !== card.id) {
+      // Title already exists under a different ID — preserve the original ID to avoid duplicates.
+      card.id = existingIdForTitle;
+    }
+    byId.set(card.id, card);
+    if (key) byTitle.set(key, card.id);
+  }
   return [...byId.values()];
 }
 
@@ -457,7 +474,7 @@ async function processTopic(client, validators, topic, area, dryRun) {
   console.log(`Tema: ${topic} | Área: ${area} | Prefixo: ${prefix}`);
   console.log(`${'='.repeat(60)}\n`);
 
-  const markdown = fs.readFileSync(ragPath, 'utf8');
+  const markdown = fs.readFileSync(ragPath, 'utf8').replace(/\r\n/g, '\n');
   const sections = parseRAG(markdown);
   const mapped = classifySections(sections);
 
@@ -703,13 +720,18 @@ async function processTopic(client, validators, topic, area, dryRun) {
     }
 
     // --- _meta.json ---
+    const manifestPath = path.join(ROOT, 'content', 'cards', 'manifest.json');
+    const manifest = fs.existsSync(manifestPath) ? JSON.parse(fs.readFileSync(manifestPath, 'utf8')) : [];
+    const entry = manifest.find(m => m.area === area && m.topic === topic);
+    const displayName = (entry && entry.displayName) || (topic.charAt(0).toUpperCase() + topic.slice(1).replace(/-/g, ' '));
+    const status = (entry && entry.status) || 'draft';
     const meta = {
       topic,
       area,
-      displayName: topic.charAt(0).toUpperCase() + topic.slice(1).replace(/-/g, ' '),
+      displayName,
       version: 'v1.0',
       date: new Date().toISOString().split('T')[0],
-      status: 'draft',
+      status,
       references: extractReferences(markdown),
       articles: extractArticles(markdown),
       cardCounts: {
