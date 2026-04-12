@@ -2,34 +2,34 @@
   {
     "id": "rino-dec-001",
     "type": "decision",
-    "title": "Abordagem Aberta vs. Fechada",
+    "title": "Árvore de Decisão: Abordagem Aberta vs. Fechada em Rinoplastia",
     "topic": "rinoplastia",
-    "area": "estética-facial",
-    "trigger": "Paciente candidato a rinoplastia — decisão sobre via de acesso cirúrgico.",
+    "area": "estetica-facial",
+    "trigger": "Paciente candidato a rinoplastia — decisão sobre via de acesso cirúrgico",
     "steps": [
       {
         "question": "Qual a complexidade da deformidade nasal?",
         "options": [
           {
-            "answer": "Deformidade complexa do dorso e ponta, nariz desviado, revisão complexa, necessidade de enxertos múltiplos",
-            "next": "Via aberta (transcolumelar) — oferece visualização binocular direta, uso de ambas as mãos, controle de enxertos e suturas."
+            "answer": "Deformidade complexa (dorso e ponta, desvio, revisão complexa, múltiplos enxertos)",
+            "next": "Via aberta (transcolumelar) — oferece visualização binocular direta, uso de ambas as mãos, controle de enxertos e suturas"
           },
           {
-            "answer": "Deformidade menor do dorso isolada, ponta que necessita de enxerto mais que ressecção, pele que camufla bem",
-            "next": "Considerar via fechada (endonasal). Avaliar fatores adicionais."
+            "answer": "Deformidade menor do dorso isolada, ponta com enxerto, boa camuflagem cutânea",
+            "next": "Avaliar algoritmo diagnóstico de Constantian"
           }
         ]
       },
       {
-        "question": "Se deformidade menor: qual o algoritmo diagnóstico (Constantian)?",
+        "question": "Se deformidade menor: qual o padrão dorsal?",
         "options": [
           {
-            "answer": "Dorso alto para a base — precisa de redução dorsal",
-            "next": "Via fechada viável: redução dorsal + delivery technique para modificações da ponta."
+            "answer": "Dorso alto para a base — necessita redução dorsal",
+            "next": "Via fechada viável — redução dorsal + delivery technique para modificações da ponta"
           },
           {
-            "answer": "Dorso baixo para a base — precisa de augmentation e tip grafts",
-            "next": "Via fechada preferida: tip grafts são o principal recurso. Múltiplos enxertos (nunca um único) produzem pontas mais naturais."
+            "answer": "Dorso baixo para a base — necessita augmentation e tip grafts",
+            "next": "Via fechada preferida — múltiplos tip grafts (nunca único) produzem pontas mais naturais"
           }
         ]
       },
@@ -37,19 +37,47 @@
         "question": "Há necessidade de septoplastia ou osteotomias extensas?",
         "options": [
           {
-            "answer": "Sim — desvio septal + osteotomias + reconstrução valvar",
-            "next": "Via aberta preferida para visualização completa e controle."
+            "answer": "Sim — desvio septal, osteotomias, reconstrução valvar",
+            "next": "Via aberta preferida — oferece visualização completa e controle"
           },
           {
             "answer": "Não — apenas modificações limitadas",
-            "next": "Via fechada viável se cirurgião experiente. Curva de aprendizado maior."
+            "next": "Via fechada viável se cirurgião experiente (maior curva de aprendizado)"
+          }
+        ]
+      },
+      {
+        "question": "Trata-se de rinoplastia primária ou secundária (revisão)?",
+        "options": [
+          {
+            "answer": "Primária",
+            "next": "Seguir algoritmo acima conforme complexidade e padrão dorsal"
+          },
+          {
+            "answer": "Secundária (revisão)",
+            "next": "Via aberta preferida em ~73% dos casos — maior controle diante de distorção cicatricial; via fechada mantida por ~20% em revisão"
           }
         ]
       }
     ],
-    "citations": ["Neligan, 2023, vol. 2, caps. 19–20", "Core Procedures, 2020, cap. 4", "Operative Dictations, 2017, caps. 1–2"],
+    "citations": [
+      "Neligan, 2023, vol. 2, cap. 19 — Preferência em revisão e suturas na via aberta",
+      "Neligan, 2023, vol. 2, cap. 20",
+      "Core Procedures, 2020, cap. 4",
+      "Operative Dictations, 2017, caps. 1–2"
+    ],
     "updates": [],
-    "tags": ["decisão", "aberta", "fechada", "abordagem", "indicação"]
+    "tags": [
+      "decisao",
+      "rinoplastia",
+      "via-aberta",
+      "via-fechada",
+      "transcolumelar",
+      "endonasal",
+      "estetica-facial",
+      "algoritmo-constantian",
+      "revisao-cirurgica"
+    ]
   },
   {
     "id": "rino-dec-002",
@@ -94,9 +122,18 @@
         ]
       }
     ],
-    "citations": ["Neligan, 2023, vol. 2, cap. 19", "Grabb & Smith, 2024, cap. 54"],
+    "citations": [
+      "Neligan, 2023, vol. 2, cap. 19",
+      "Grabb & Smith, 2024, cap. 54"
+    ],
     "updates": [],
-    "tags": ["decisão", "osteotomia", "vault-ósseo", "open-roof", "desvio"]
+    "tags": [
+      "decisão",
+      "osteotomia",
+      "vault-ósseo",
+      "open-roof",
+      "desvio"
+    ]
   },
   {
     "id": "rino-dec-003",
@@ -150,7 +187,12 @@
         ]
       }
     ],
-    "citations": ["Neligan, 2023, vol. 2, cap. 19", "Grabb & Smith, 2024, cap. 54", "Rohrich RN et al. PRS 2026;157(1):54–61", "Taylor CM, Barrera JE. PRS 2026;157(1):28e–37e"],
+    "citations": [
+      "Neligan, 2023, vol. 2, cap. 19",
+      "Grabb & Smith, 2024, cap. 54",
+      "Rohrich RN et al. PRS 2026;157(1):54–61",
+      "Taylor CM, Barrera JE. PRS 2026;157(1):28e–37e"
+    ],
     "updates": [
       {
         "color": "blue",
@@ -178,7 +220,14 @@
         "paradigm_shift": false
       }
     ],
-    "tags": ["decisão", "enxerto", "septal", "auricular", "costal", "homólogo"]
+    "tags": [
+      "decisão",
+      "enxerto",
+      "septal",
+      "auricular",
+      "costal",
+      "homólogo"
+    ]
   },
   {
     "id": "rino-dec-004",
@@ -228,8 +277,140 @@
         ]
       }
     ],
-    "citations": ["Neligan, 2023, vol. 2, caps. 18–19", "Sergesketter AR et al. PRS 2026;157(4):496e–503e", "Şibar S et al. ASJ 2025;46(1):16–23"],
+    "citations": [
+      "Neligan, 2023, vol. 2, caps. 18–19",
+      "Sergesketter AR et al. PRS 2026;157(4):496e–503e",
+      "Şibar S et al. ASJ 2025;46(1):16–23"
+    ],
     "updates": [],
-    "tags": ["decisão", "preservação", "redução", "dorso", "giba", "híbrido"]
+    "tags": [
+      "decisão",
+      "preservação",
+      "redução",
+      "dorso",
+      "giba",
+      "híbrido"
+    ]
+  },
+  {
+    "id": "rino-dec-007",
+    "type": "decision",
+    "title": "Árvore de Decisão: Osteotomias",
+    "topic": "rinoplastia",
+    "area": "estetica-facial",
+    "trigger": "Avaliação intraoperatória do vault ósseo após redução dorsal ou para correção de desvio nasal",
+    "steps": [
+      {
+        "question": "Qual a indicação primária para osteotomia?",
+        "options": [
+          {
+            "answer": "Vault ósseo largo (assimétrico ou simétrico)",
+            "next": "Realizar osteotomia lateral bilateral (low-to-high ou low-to-low). Preferir técnica percutânea descontínua."
+          },
+          {
+            "answer": "Open roof deformity após redução dorsal",
+            "next": "Realizar osteotomia lateral bilateral para fechar o teto aberto. Considerar spreader grafts complementares."
+          },
+          {
+            "answer": "Desvio ósseo nasal",
+            "next": "Realizar osteotomia lateral + medial no lado côncavo. Utilizar greenstick fracture com pressão digital."
+          }
+        ]
+      },
+      {
+        "question": "Há contraindicações relativas presentes?",
+        "options": [
+          {
+            "answer": "Ossos nasais curtos, paciente idoso com ossos finos ou pele espessa",
+            "next": "Proceder com cautela. Avaliar risco de instabilidade, fragmentação ou resultado pouco perceptível. Considerar alternativas."
+          },
+          {
+            "answer": "Nariz baixo e largo em etnia não-europeia",
+            "next": "Osteotomias geralmente contraindicadas. Avaliar necessidade real vs. técnicas alternativas."
+          },
+          {
+            "answer": "Nenhuma contraindicação relativa identificada",
+            "next": "Proceder com osteotomia percutânea descontínua. NÃO ultrapassar o canto medial superiormente."
+          }
+        ]
+      }
+    ],
+    "citations": [
+      "Neligan, 2023, vol. 2, cap. 19",
+      "Grabb & Smith, 2024, cap. 54"
+    ],
+    "updates": [],
+    "tags": [
+      "decisao",
+      "osteotomia",
+      "rinoplastia",
+      "vault-osseo",
+      "intraoperatorio",
+      "estetica-facial"
+    ]
+  },
+  {
+    "id": "rino-dec-009",
+    "type": "decision",
+    "title": "Árvore de Decisão: Manejo do Dorso (Preservação vs. Redução por Componentes)",
+    "topic": "rinoplastia",
+    "area": "estetica-facial",
+    "trigger": "Paciente com giba dorsal — decisão entre rinoplastia de preservação dorsal e redução por componentes",
+    "steps": [
+      {
+        "question": "Qual o tamanho da giba dorsal?",
+        "options": [
+          {
+            "answer": "Giba pequena a moderada",
+            "next": "Avaliar pele e anatomia para preservação"
+          },
+          {
+            "answer": "Giba grande",
+            "next": "Redução por componentes preferida. Preservação não adequada para gibas grandes."
+          }
+        ]
+      },
+      {
+        "question": "A pele e anatomia são adequadas para preservação dorsal?",
+        "options": [
+          {
+            "answer": "Sim — pele adequada, anatomia favorável, keystone intacto",
+            "next": "Preservação dorsal. Usar eletrocautério (não bisturi) para remodelamento das CLS — recorrência 2,5% vs. 13,6%"
+          },
+          {
+            "answer": "Não — pele espessa, anatomia desfavorável ou múltiplas modificações necessárias",
+            "next": "Redução por componentes. Abordagem mais versátil e previsível."
+          }
+        ]
+      },
+      {
+        "question": "O cirurgião adota abordagem híbrida?",
+        "options": [
+          {
+            "answer": "Sim",
+            "next": "Abordagem individualizada: preservar seletivamente princípios de preservação à abordagem estrutural — preservar quando possível, reconstruir quando necessário"
+          },
+          {
+            "answer": "Não",
+            "next": "Seguir a abordagem escolhida (preservação ou redução por componentes) com consistência técnica"
+          }
+        ]
+      }
+    ],
+    "citations": [
+      "Neligan, 2023, vol. 2, caps. 18–19",
+      "Sergesketter AR et al. PRS 2026;157(4):496e–503e",
+      "Şibar S et al. ASJ 2025;46(1):16–23"
+    ],
+    "updates": [],
+    "tags": [
+      "decisao",
+      "rinoplastia",
+      "giba-dorsal",
+      "preservacao-dorsal",
+      "reducao-componentes",
+      "cirurgia-nasal",
+      "estetica-facial"
+    ]
   }
 ]

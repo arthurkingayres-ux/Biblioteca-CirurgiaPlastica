@@ -2,72 +2,42 @@
   {
     "id": "glut-tec-001",
     "type": "technique",
-    "title": "Gluteoplastia de Aumento com Implantes",
-    "aliases": [],
+    "title": "Retalho de Avanço Dermogorduroso (Autoaugmentation)",
+    "aliases": [
+      "autoaugmentation flap",
+      "lipofilling by transfer"
+    ],
     "topic": "gluteoplastia",
     "area": "contorno-corporal",
-    "indication": "Pacientes com pouco tecido adiposo disponível, desejando projeção estrutural permanente. Implantes modernos utilizam gel de silicone coeso com cobertura de elastômero. Tamanhos variam de 200 mL a 500 mL por lado (300–400 mL é mais comum).",
-    "contraindication": "Infecção ativa, IMC > 32, expectativas irrealistas, alto risco tromboembólico.",
+    "indication": "pacientes magras (IMC < 22 kg/m²) com déficit de gordura local, pós-bariátricas com boa pele glútea superior, rejeição a implante ou enxertia",
+    "contraindication": "pele glútea superior de má qualidade, expectativa de grande ganho de volume",
     "steps": [
-      "1. Escolher plano de colocação: submuscular é o mais utilizado por oferecer melhor cobertura e menor palpabilidade (alternativas: subfascial e intramuscular)",
-      "2. Posicionar paciente em posição prona (decúbito ventral horizontal)",
-      "3. Realizar incisão interglútea (no sulco glúteo), medindo 5–7 cm, centralizada no sulco, com profundidade até a fáscia glútea",
-      "4. Dissecar bolso submuscular: dissecção roma caudal e lateralmente, respeitando zona de segurança glútea de Mendieta (2 cm medial à borda lateral do glúteo máximo), e dissecção cranial até 3–4 cm acima da projeção máxima",
-      "5. Inserir e posicionar implante no bolso submuscular sob visão direta, fixando com 2–4 pontos de sutura do implante à fáscia posterior (polipropileno 2-0), verificando simetria visual e ausência de torção",
-      "6. Fechar em planos: fáscia glútea com suturas absorvíveis, subcutâneo, e pele intradérmica ou pontos separados. Opcionalmente colocar dreno de sucção por 48–72h e manter curativos compressivos por 48h"
+      "1. Aplicar técnica de Pascal e Le Louarn (2001–2010), também chamada autoaugmentation flap ou lipofilling by transfer",
+      "2. Destacar o retalho dermogorduroso da região superior (sacra/supra-glútea)",
+      "3. Avançar caudalmente e fixar na região glútea inferior, aumentando projeção sem implante ou enxertia livre"
     ],
     "complications": [
-      "Contratura capsular (mais comum com superfície lisa)",
-      "Deslocamento/rotação do implante",
-      "Infecção periprotética",
-      "Neuropraxia ciática",
-      "Seroma"
+      "cicatriz sacra/supra-glútea adicional",
+      "ganho limitado de volume (aumento de 1–2 cm de projeção típico)",
+      "técnica anatomicamente restritiva"
     ],
     "pearls": [
-      "Superfície texturizada é favorecida por menor taxa de contratura capsular",
-      "Plano submuscular oferece melhor cobertura e menor palpabilidade",
-      "Respeitar zona de segurança glútea de Mendieta para evitar lesão neurovascular",
-      "Alguns cirurgiões utilizam cola biológica (fibrina) como alternativa à fixação com sutura"
+      "técnica indicada especialmente para pacientes magras que rejeitam implantes",
+      "resultado conservador em ganho de volume (1–2 cm de projeção)"
     ],
-    "images": [
-      {
-        "file": "glut-tec-implante-marcacao.png",
-        "caption": "Ilustração do planejamento de incisão parasacral e do triângulo de segurança para posicionamento do implante: o implante deve ficar lateral ao sacro e ao menos 2 cm acima do sulco infra-glúteo, respeitando a zona de segurança de Mendieta para evitar lesão do nervo ciático e da artéria glútea inferior.",
-        "credit": "Neligan's Plastic Surgery, 5ª Ed., 2023, vol. 2, cap. 35.2, Fig. 35.2.15 — De la Peña Salcedo JA, Ledezma Rodriguez JC, Gonzalez Sosa D. Buttock augmentation with implants."
-      },
-      {
-        "file": "glut-tec-plano-subfascial.png",
-        "caption": "Dissecção cadavérica demonstrando a elevação de um retalho fasciocutâneo e a exposição da aponeurose do glúteo máximo como plano de dissecção subfascial. Este é o plano de eleição para bolso do implante — oferece cobertura muscular por baixo e protege o implante da palpabilidade, ao mesmo tempo em que evita a profundidade intramuscular associada à neuropraxia ciática.",
-        "credit": "Neligan's Plastic Surgery, 5ª Ed., 2023, vol. 2, cap. 35.2, Fig. 35.2.10 — De la Peña Salcedo JA, Ledezma Rodriguez JC, Gonzalez Sosa D. Buttock augmentation with implants."
-      },
-      {
-        "file": "glut-tec-aponeurose-glutea.png",
-        "caption": "Vista intraoperatória da aponeurose do glúteo máximo com as expansões aponeuróticas atravessando a superfície muscular. A dissecção entre estas expansões é essencial para criar o bolso subfascial uniforme; a aponeurose deve ser preservada como teto do bolso para manter cobertura estável sobre o implante.",
-        "credit": "Neligan's Plastic Surgery, 5ª Ed., 2023, vol. 2, cap. 35.2, Fig. 35.2.18 — De la Peña Salcedo JA, Ledezma Rodriguez JC, Gonzalez Sosa D. Buttock augmentation with implants."
-      },
-      {
-        "file": "glut-tec-bolso-implante.png",
-        "caption": "Ilustração da dissecção do bolso subfascial via incisão parasacral no sulco interglúteo: afastadores expõem o plano entre aponeurose e músculo enquanto o cirurgião descola o bolso romba e caudolateralmente, respeitando o limite de 2 cm medial à borda lateral do glúteo máximo.",
-        "credit": "Neligan's Plastic Surgery, 5ª Ed., 2023, vol. 2, cap. 35.2, Fig. 35.2.20 — De la Peña Salcedo JA, Ledezma Rodriguez JC, Gonzalez Sosa D. Buttock augmentation with implants."
-      }
-    ],
+    "images": [],
     "citations": [
-      "Castellanos et al., PRS, 2018",
-      "Mofid et al., PRS, 2015",
-      "Villanueva & Centeno, Aesthetic Surgery Journal, 2017",
-      "Mendieta, Aesthetic Surgery Journal, 2008",
-      "Cárdenas-Camarena et al., PRS, 2014",
-      "Mendieta, Plastic Surgery, 5ª Ed., 2023"
+      "Le Louarn & Pascal, Aesthetic Surgery Journal, 2011",
+      "Pascal & Le Louarn, Aesthetic Surgery Journal, 2010"
     ],
     "updates": [],
     "tags": [
       "tecnica",
       "gluteoplastia",
-      "aumento-gluteo",
-      "implantes-silicone",
       "contorno-corporal",
-      "cirurgia-estetica",
-      "procedimento-cirurgico"
+      "retalho",
+      "autoaugmentation",
+      "dermogorduroso"
     ]
   },
   {
@@ -353,6 +323,299 @@
       "contorno-corporal",
       "ptose-glutea",
       "suspensao",
+      "cirurgia-plastica"
+    ]
+  },
+  {
+    "id": "glut-tec-009",
+    "type": "technique",
+    "title": "Gluteoplastia de Aumento com Implantes",
+    "aliases": [],
+    "topic": "gluteoplastia",
+    "area": "contorno-corporal",
+    "indication": "Pacientes com pouco tecido adiposo disponível, desejando projeção estrutural permanente. Implantes modernos utilizam gel de silicone coeso com cobertura de elastômero. Tamanhos variam de 200 mL a 500 mL por lado (300–400 mL é mais comum). Superfície pode ser lisa ou texturizada; estudos recentes favorecem a texturizada por menor taxa de contratura capsular.",
+    "contraindication": "Infecção ativa, IMC > 32, expectativas irrealistas, alto risco tromboembólico.",
+    "steps": [
+      "1. Selecionar plano de colocação: subfascial, submuscular ou intramuscular. O plano submuscular é o mais utilizado por oferecer melhor cobertura e menor palpabilidade.",
+      "2. Posicionar paciente em posição prona (decúbito ventral horizontal).",
+      "3. Realizar incisão interglútea no sulco glúteo, medindo 5–7 cm, centralizada no sulco, com profundidade até a fáscia glútea.",
+      "4. Dissecar o bolso romamente caudal e lateralmente para criar bolso submuscular amplo. Respeitar zona de segurança glútea de Mendieta (2 cm medial à borda lateral do glúteo máximo) para evitar lesão neurovascular. Dissecar cranialmente até 3–4 cm acima da projeção máxima, para otimizar simetria.",
+      "5. Inserir implante no bolso submuscular sob visão direta. Fixar com 2–4 pontos de sutura do implante à fáscia posterior (polipropileno 2-0), prevenindo rotação e deslocamento posterior. Alguns cirurgiões utilizam cola biológica (fibrina). Inspecionar simetria visual, palpação de margens, e ausência de torção.",
+      "6. Fechar em planos: fáscia glútea com suturas absorvíveis, subcutâneo, e pele intradérmica ou pontos separados. Dreno de sucção facultativo por 48–72h. Manter curativos compressivos por 48h."
+    ],
+    "complications": [
+      "Contratura capsular (mais comum com superfície lisa)",
+      "Deslocamento/rotação do implante",
+      "Infecção periprotética",
+      "Neuropraxia ciática",
+      "Seroma (até 20% em plano intramuscular)",
+      "Migração do implante (15–25% em plano intramuscular)"
+    ],
+    "pearls": [
+      "Plano submuscular oferece melhor cobertura e menor palpabilidade",
+      "Superfície texturizada apresenta menor taxa de contratura capsular em relação à lisa",
+      "Zona de segurança de Mendieta: 2 cm medial à borda lateral do glúteo máximo para proteção neurovascular",
+      "Evitar compressão direta sobre as nádegas por 2 semanas reduz deiscência da ferida interglútea e limita acúmulo de seroma periprotético",
+      "Plano intramuscular associa-se às maiores taxas de migração e seroma, enquanto contratura capsular é rara na região glútea"
+    ],
+    "images": [],
+    "citations": [
+      "Castellanos et al., PRS, 2018",
+      "Mofid et al., PRS, 2015",
+      "Villanueva & Centeno, Aesthetic Surgery Journal, 2017",
+      "Mendieta, Aesthetic Surgery Journal, 2008",
+      "Cárdenas-Camarena et al., PRS, 2014",
+      "Mendieta, Plastic Surgery, 5ª Ed., 2023",
+      "Neligan, 2023, vol. 4, cap. 35.2",
+      "Operative Dictations, 2017, cap. 18"
+    ],
+    "updates": [],
+    "tags": [
+      "tecnica",
+      "gluteoplastia",
+      "aumento-gluteo",
+      "implantes",
+      "contorno-corporal",
+      "cirurgia-estetica",
+      "posicionamento-submuscular",
+      "silicone"
+    ]
+  },
+  {
+    "id": "glut-tec-011",
+    "type": "technique",
+    "title": "Gluteal Etching / Contorno Glúteo de Alta Definição (HDBS — High Definition Body Sculpting)",
+    "aliases": [
+      "HDBS",
+      "High Definition Body Sculpting",
+      "Contorno Glúteo de Alta Definição"
+    ],
+    "topic": "gluteoplastia",
+    "area": "contorno-corporal",
+    "indication": "pacientes com IMC baixo a moderado e boa tonicidade cutânea que desejam realce dos contornos do glúteo máximo e médio, da fossa sacral e da transição glúteo–coxa, com ou sem enxertia complementar",
+    "contraindication": "pacientes com IMC elevado, pele flácida ou comprometida",
+    "steps": [
+      "1. Infiltração de solução tumescente nos planos a serem tratados",
+      "2. Aplicação de VASER por 60 a 90 segundos a cada 100 mL de solução tumescente até perda de resistência dos tecidos",
+      "3. Etching superficial dos sulcos anatômicos com VASER-HDL",
+      "4. Enxertia de gordura em gotículas nos planos supramusculares para realçar as convexidades do glúteo máximo e médio",
+      "5. Modelagem tridimensional com atenção ao ângulo glúteo interno de 60° a 70°"
+    ],
+    "complications": [
+      "queimadura térmica cutânea por VASER mal conduzido",
+      "irregularidades de contorno em pacientes com pele flácida",
+      "riscos compostos quando associado a enxertia de grande volume"
+    ],
+    "pearls": [
+      "Princípio VASER emulsifica gordura em planos superficiais e profundos por cavitação ultrassônica, preservando vasos, nervos e malha conjuntiva",
+      "Ângulo glúteo interno ideal deve situar-se entre 60° e 70° para planejamento do volume inferomedial",
+      "Endpoint da entrega ultrassônica determinado pela perda de resistência ('feel') dos tecidos"
+    ],
+    "images": [],
+    "citations": [
+      "Hoyos & Prendergast, HDBS, cap. 1",
+      "Hoyos & Prendergast, HDBS, cap. 15",
+      "Hoyos & Prendergast, HDBS, cap. 7",
+      "Hoyos & Prendergast, HDBS, cap. 20",
+      "Hoyos, 2002 (introdução do VASER)"
+    ],
+    "updates": [],
+    "tags": [
+      "gluteoplastia",
+      "contorno-corporal",
+      "hdbs",
+      "vaser",
+      "lipoescultura",
+      "lipoenxertia",
+      "alta-definicao"
+    ]
+  },
+  {
+    "id": "glut-tec-013",
+    "type": "technique",
+    "title": "Retalho Glúteo em Flap",
+    "aliases": [],
+    "topic": "gluteoplastia",
+    "area": "contorno-corporal",
+    "indication": "Casos de defeito glúteo (pós-traumático, pós-oncológico) ou necessidade de aumento significativo combinado com lifting superior",
+    "contraindication": "Ausência de pedículo vascular adequado, comorbidades que impeçam procedimento de grande porte",
+    "steps": [
+      "1. Retalho miocutâneo glúteo inferior ou superior é dissecado",
+      "2. Retalho avançado ou transposto conforme necessidade",
+      "3. Dissecção cuidadosa dos vasos nutrindo o retalho (artérias glúteas superior e inferior)"
+    ],
+    "complications": [
+      "Necrose parcial do retalho",
+      "Lesão neurovascular",
+      "Seroma extenso"
+    ],
+    "pearls": [
+      "A dissecção de retalho glúteo exige conhecimento dos pedículos perfurantes da artéria glútea superior (ramo cefálico) e inferior (ramo caudal)",
+      "Margens seguras da ilha cutânea devem ser definidas em relação aos pontos de emergência para evitar lesão vascular intraoperatória",
+      "Em candidatas com ptose glútea severa, usar tecido autólogo desepidermizado fornece resultado volumétrico mais durável que lipoenxertia pura",
+      "Quando integrado ao lower body lift, combina ressecção de pele e gordura redundantes em abdome inferior, flancos, dorso e coxas com reposicionamento superior"
+    ],
+    "images": [],
+    "citations": [
+      "Centeno, Grabb & Smith, 8ª Ed., 2020",
+      "Neligan, 2023, vol. 4, cap. 33"
+    ],
+    "updates": [],
+    "tags": [
+      "tecnica",
+      "retalho-gluteo",
+      "flap",
+      "gluteoplastia",
+      "contorno-corporal",
+      "arteias-gluteas",
+      "lower-body-lift"
+    ]
+  },
+  {
+    "id": "glut-tec-014",
+    "type": "technique",
+    "title": "Gluteoplastia Combinada — Implante + Lipoenxertia",
+    "aliases": [],
+    "topic": "gluteoplastia",
+    "area": "contorno-corporal",
+    "indication": "Pacientes com volume adiposo suficiente desejando máxima projeção e permanência; aumento de glúteo médio (lateral) com gordura associado a máximo aumento com implante",
+    "contraindication": "Gordura insuficiente para complementação; alto risco cirúrgico (procedimento de maior duração)",
+    "steps": [
+      "1. Colocação de implante submuscular conforme técnica padrão",
+      "2. Lipoenxertia complementar para refinamento de contornos laterais e transição",
+      "3. Planejamento cauteloso para não sobreloading de técnicas com risco de complicações composto"
+    ],
+    "complications": [
+      "Risco composto de ambas as técnicas",
+      "Maior tempo cirúrgico e anestésico"
+    ],
+    "pearls": [
+      "Evitar sobreloading de técnicas para reduzir risco de complicações compostas",
+      "Confirmar volume adiposo suficiente antes de indicar a técnica combinada"
+    ],
+    "images": [],
+    "citations": [
+      "Centeno et al., Aesthetic Surgery Journal, 2017"
+    ],
+    "updates": [],
+    "tags": [
+      "tecnica",
+      "gluteoplastia",
+      "implante",
+      "lipoenxertia",
+      "combinada",
+      "contorno-corporal"
+    ]
+  },
+  {
+    "id": "glut-tec-015",
+    "type": "technique",
+    "title": "Gluteoplastia Combinada — Implante + Retalho",
+    "aliases": [],
+    "topic": "gluteoplastia",
+    "area": "contorno-corporal",
+    "indication": "Casos específicos de revisão ou complexidade anatômica onde implante fornece projeção profunda e retalho de autoaugmentation superficial melhora contorno natural",
+    "contraindication": "Raramente indicada; reservada a casos complexos",
+    "steps": [
+      "1. Colocação de implante em plano profundo",
+      "2. Retalho de autoaugmentation superficial para refinamento"
+    ],
+    "complications": [
+      "Complexidade cirúrgica elevada",
+      "Risco de necrose do retalho sobre implante"
+    ],
+    "pearls": [],
+    "images": [],
+    "citations": [
+      "Centeno, Grabb & Smith, 8ª Ed., 2020"
+    ],
+    "updates": [],
+    "tags": [
+      "tecnica",
+      "gluteoplastia",
+      "contorno-corporal",
+      "implante",
+      "retalho",
+      "autoaugmentation",
+      "combinada"
+    ]
+  },
+  {
+    "id": "glut-tec-016",
+    "type": "technique",
+    "title": "Gluteoplastia Combinada — BBL + Lifting Glúteo",
+    "aliases": [],
+    "topic": "gluteoplastia",
+    "area": "contorno-corporal",
+    "indication": "pacientes com ptose glútea associada a volume insuficiente",
+    "contraindication": "gordura insuficiente para BBL, comorbidades significativas",
+    "steps": [
+      "1. BBL — injeção de gordura para volume conforme técnica padrão",
+      "2. Lifting superior/lateral — ressecção de pele e reposicionamento glúteo",
+      "3. Definição de cicatrizes: sulco glúteo (para lifting) + marcas de injeção"
+    ],
+    "complications": [
+      "resultado combina risco composto de ambos procedimentos (aumento + rejuvenescimento)"
+    ],
+    "pearls": [
+      "a combinação BBL + lifting permite aumento volumétrico e rejuvenescimento simultâneo",
+      "cicatrizes localizadas em sulco glúteo minimizam visibilidade"
+    ],
+    "images": [],
+    "citations": [
+      "Cárdenas-Camarena et al., Plastic Surgery, 5ª Ed., 2023"
+    ],
+    "updates": [],
+    "tags": [
+      "tecnica",
+      "gluteoplastia",
+      "bbl",
+      "lifting-gluteo",
+      "contorno-corporal",
+      "combinada"
+    ]
+  },
+  {
+    "id": "glut-tec-017",
+    "type": "technique",
+    "title": "Lifting Glúteo (Gluteoplastia de Suspensão)",
+    "aliases": [],
+    "topic": "gluteoplastia",
+    "area": "contorno-corporal",
+    "indication": "Ptose glútea graus I–IV com perda de projeção cranial, aplanamento superior e limite infra-glúteo desaparecendo. Indicado em casos de ptose por idade, genética, efeito gravitacional, pós-bariátrica ou pós-peso excessivo. O lifting glúteo reposiciona o polpudo cranialmente, restaurando angulação e projeção.",
+    "contraindication": "Pacientes sem ptose significativa; expectativa de grande ganho de volume sem técnica complementar.",
+    "steps": [
+      "1. Marcação: paciente em pé. Desenho de elipse semelhante à abdominoplastia superior com incisão ao nível das espinhas ilíacas ântero-superiores (EIAS), estendendo-se lateralmente. Ressecção planejada determinada pelo teste de pinch na região supra-glútea e deambulação em flexão para avaliar excesso.",
+      "2. Dissecção e plicatura: dissecção descende até fáscia glútea superior. Plicatura da fáscia glútea e/ou sutura do músculo glúteo máximo em posição cranial com múltiplas suturas de plicatura sobre fáscia. Ressecção de pele conforme marcação.",
+      "3. Fechamento: fechamento em camadas — fáscia, subcutâneo, pele intradérmica."
+    ],
+    "complications": [
+      "Seroma (5–10%)",
+      "Assimetria (5%)",
+      "Cicatriz visível em biquíni/saia baixa (cicatricial trade-off)",
+      "Hipoestesia transitória",
+      "Recorrência de ptose (10–15% em 3–5 anos)"
+    ],
+    "pearls": [
+      "Teste de pinch na região supra-glútea durante marcação com paciente em deambulação flexionada para avaliar corretamente o excesso de pele",
+      "Múltiplas suturas de plicatura sobre fáscia potencializam a suspensão cranial",
+      "Cicatriz é trade-off aceitável; informar paciente sobre visibilidade em biquíni/saia baixa"
+    ],
+    "images": [],
+    "citations": [
+      "Mendieta, Aesthetic Surgery Journal, 2008",
+      "Mendieta, Plastic Surgery, 5ª Ed., 2023",
+      "Cárdenas-Camarena et al., Aesthetic Surgery Journal, 2014",
+      "Centeno, Grabb & Smith, 8ª Ed., 2020"
+    ],
+    "updates": [],
+    "tags": [
+      "tecnica",
+      "gluteoplastia",
+      "lifting-gluteo",
+      "suspensao",
+      "contorno-corporal",
+      "ptose-glutea",
       "cirurgia-plastica"
     ]
   }

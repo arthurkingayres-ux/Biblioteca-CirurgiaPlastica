@@ -2,65 +2,81 @@
   {
     "id": "glut-dec-001",
     "type": "decision",
-    "title": "Classificação de Mendieta para Gluteoplastia",
+    "title": "Classificação de Mendieta para Indicação de Técnica em Gluteoplastia",
     "topic": "gluteoplastia",
     "area": "contorno-corporal",
-    "trigger": "Avaliação clínica de paciente candidato a gluteoplastia",
+    "trigger": "Paciente candidato a gluteoplastia - necessário avaliar volume, projeção e ptose glútea",
     "steps": [
       {
-        "question": "Qual é o volume glúteo atual do paciente?",
+        "question": "Qual é a avaliação clínica do volume glúteo?",
         "options": [
           {
             "answer": "Volume adequado",
-            "next": "Passo 2: Avaliar projeção e ptose"
+            "next": "passo-2-projecao"
           },
           {
             "answer": "Déficit de volume",
-            "next": "Passo 3: Avaliar ptose associada"
+            "next": "passo-3-ptose"
           }
         ]
       },
       {
-        "question": "Passo 2: Como está a projeção e existe ptose?",
+        "question": "passo-2-projecao: Como está a projeção glútea?",
         "options": [
           {
-            "answer": "Boa projeção, sem ptose",
-            "next": "TIPO I - Candidato a refinamento com lipoenxertia"
+            "answer": "Boa projeção",
+            "next": "passo-4-ptose-tipo-1"
           },
           {
-            "answer": "Projeção reduzida ou com ptose",
-            "next": "Passo 3: Avaliar grau de ptose"
+            "answer": "Projeção reduzida",
+            "next": "Tipo II - candidato a aumento (implante ou BBL)"
           }
         ]
       },
       {
-        "question": "Passo 3: Qual é o grau de ptose?",
+        "question": "passo-3-ptose: Qual é o grau de ptose glútea?",
         "options": [
           {
             "answer": "Sem ptose",
-            "next": "TIPO II - Candidato a aumento (implante ou BBL)"
+            "next": "Tipo I - refinamento com lipoenxertia"
           },
           {
             "answer": "Ptose leve a moderada",
-            "next": "TIPO III - Candidato a lifting +/- aumento"
+            "next": "Tipo III - lifting +/- aumento"
           },
           {
             "answer": "Ptose severa",
-            "next": "TIPO IV - Candidato a lifting + aumento combinado"
+            "next": "Tipo IV - lifting + aumento combinado"
+          }
+        ]
+      },
+      {
+        "question": "passo-4-ptose-tipo-1: Existe ptose glútea?",
+        "options": [
+          {
+            "answer": "Não, sem ptose",
+            "next": "Tipo I - refinamento com lipoenxertia"
+          },
+          {
+            "answer": "Sim, ptose presente",
+            "next": "passo-3-ptose"
           }
         ]
       }
     ],
     "citations": [
-      "Mendieta CG. Gluteal enhancement. Aesthetic Surgery Journal. 2004."
+      "Mendieta CG. Aesthetic Surgery Journal. 2004. Classificação baseada em volume, projeção e ptose glútea"
     ],
     "updates": [],
     "tags": [
-      "classificacao-mendieta",
+      "decisao",
       "gluteoplastia",
       "contorno-corporal",
-      "decisao-clinica",
-      "analise-morfologica"
+      "mendieta",
+      "classificacao",
+      "ptose",
+      "aumento-gluteo",
+      "lifting-gluteo"
     ]
   }
 ]

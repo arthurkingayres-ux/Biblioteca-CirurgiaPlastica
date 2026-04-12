@@ -111,6 +111,120 @@
       "back": "2-0 ou 0 absorvível",
       "citation": "Basic Science - Anatomia",
       "domain": "tecnica"
+    },
+    {
+      "front": "Qual o intervalo mínimo recomendado entre cirurgia bariátrica e contorno corporal?",
+      "back": "12-18 meses",
+      "citation": "Neligan's Plastic Surgery, 5a Ed., 2023",
+      "domain": "decisao"
+    },
+    {
+      "front": "Qual o IMC ideal para realizar contorno corporal pós-bariátrico?",
+      "back": "< 32 kg/m²",
+      "citation": "Neligan's Plastic Surgery, 5a Ed., 2023",
+      "domain": "decisao"
+    },
+    {
+      "front": "Qual o período de estabilização ponderal necessário antes de contorno corporal?",
+      "back": "3-6 meses",
+      "citation": "Neligan's Plastic Surgery, 5a Ed., 2023",
+      "domain": "decisao"
+    },
+    {
+      "front": "Qual a perda ponderal média esperada com cirurgias bariátricas?",
+      "back": "50-80% do excesso de peso em 12-24 meses",
+      "citation": "Shermak, PRS, 2006; Neligan's Plastic Surgery, 5a Ed., 2023",
+      "domain": "fisiopatologia"
+    },
+    {
+      "front": "Qual a percentagem de pacientes pós-bariátricos que procuram por contorno corporal após perda massiva de peso > 30 kg?",
+      "back": "40-50%",
+      "citation": "Aly et al., PRS, 2003; Hasanbegovic & Sorensen, Obes Surg, 2012",
+      "domain": "decisao"
+    },
+    {
+      "front": "Qual a incidência de contorno corporal entre procedimentos de cirurgia plástica em centros especializados?",
+      "back": "8-15%",
+      "citation": "Aly et al., PRS, 2003; Hasanbegovic & Sorensen, Obes Surg, 2012",
+      "domain": "decisao"
+    },
+    {
+      "front": "Qual o crescimento percentual de lower body lifts registrado entre 2000 e 2020 pela ASPS?",
+      "back": "3.974%",
+      "citation": "Grabb & Smith, 2024, cap. 76; ASPS",
+      "domain": "decisao"
+    },
+    {
+      "front": "Quantos casos de lower body lift foram realizados nos EUA em 2020?",
+      "back": "8.433 casos",
+      "citation": "Grabb & Smith, 2024, cap. 76; ASPS",
+      "domain": "decisao"
+    },
+    {
+      "front": "Qual o valor mínimo de albumina sérica recomendado para combinar múltiplos procedimentos de contorno?",
+      "back": "> 3,2 g/dL",
+      "citation": "Neligan's Plastic Surgery, 5a Ed., 2023",
+      "domain": "decisao"
+    },
+    {
+      "front": "Qual o IMC máximo recomendado para combinar procedimentos de contorno corporal em mesma sessão?",
+      "back": "< 30 kg/m²",
+      "citation": "Neligan's Plastic Surgery, 5a Ed., 2023",
+      "domain": "decisao"
+    },
+    {
+      "front": "Qual a incidência de seroma após contorno corporal pós-bariátrico?",
+      "back": "10-30%",
+      "citation": "Neligan's Plastic Surgery, 5a Ed., 2023",
+      "domain": "complicacao"
+    },
+    {
+      "front": "Qual a incidência de deiscência após contorno corporal pós-bariátrico?",
+      "back": "5-15%",
+      "citation": "Neligan's Plastic Surgery, 5a Ed., 2023",
+      "domain": "complicacao"
+    },
+    {
+      "front": "Qual a incidência de infecção após contorno corporal pós-bariátrico?",
+      "back": "5-12%",
+      "citation": "Neligan's Plastic Surgery, 5a Ed., 2023",
+      "domain": "complicacao"
+    },
+    {
+      "front": "Qual a incidência de tromboembolismo venoso (TEV) após contorno corporal pós-bariátrico?",
+      "back": "2-5%",
+      "citation": "Neligan's Plastic Surgery, 5a Ed., 2023",
+      "domain": "complicacao"
+    },
+    {
+      "front": "Qual a incidência de necrose cutânea após contorno corporal pós-bariátrico?",
+      "back": "3-8%",
+      "citation": "Neligan's Plastic Surgery, 5a Ed., 2023",
+      "domain": "complicacao"
+    },
+    {
+      "front": "Quantas fases recomenda-se para estadiamento de contorno corporal pós-bariátrico?",
+      "back": "2-3 fases",
+      "citation": "Neligan's Plastic Surgery, 5a Ed., 2023",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Qual a ferramenta padronizada para classificar severidade do excesso cutâneo em contorno pós-bariátrico?",
+      "back": "Pittsburgh Rating Scale",
+      "citation": "Neligan's Plastic Surgery, 5a Ed., 2023",
+      "domain": "decisao"
+    },
+    {
+      "front": "Qual a prevalência de obesidade mórbida na população mundial?",
+      "back": "Aproximadamente 7%",
+      "citation": "Neligan's Plastic Surgery, 5a Ed., 2023",
+      "domain": "fisiopatologia"
+    },
+    {
+      "front": "Qual a definição de perda massiva de peso em contorno corporal pós-bariátrico?",
+      "back": "> 30 kg",
+      "citation": "Neligan's Plastic Surgery, 5a Ed., 2023",
+      "domain": "decisao"
     }
   ],
   "tags": [
@@ -118,6 +232,6 @@
     "contorno-pos-bariatrico",
     "contorno-corporal",
     "parametros-numericos",
-    "cirurgia-plastica"
+    "body-lift"
   ]
 }

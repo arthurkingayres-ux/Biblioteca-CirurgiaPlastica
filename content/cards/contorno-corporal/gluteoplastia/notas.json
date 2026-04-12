@@ -434,5 +434,463 @@
       "complicacoes",
       "retreatment"
     ]
+  },
+  {
+    "id": "glut-nota-016",
+    "type": "note",
+    "title": "Synopsis",
+    "topic": "gluteoplastia",
+    "area": "contorno-corporal",
+    "section": "synopsis",
+    "content": [
+      "A gluteoplastia engloba técnicas de aumento, remodelamento e suspensão da região glútea, sendo um dos 5 procedimentos estéticos mais realizados no mundo (~1,2 milhão/ano; ASPS, 2022).",
+      "Técnicas principais: implantes de silicone (submuscular), lipoenxertia glútea (Brazilian Butt Lift — BBL), retalhos autólogos (autoaugmentation) e abordagens híbridas.",
+      "A embolia gordurosa é a complicação mais temível do BBL; recomendações atuais (AESRF/ASPS/ISAPS, 2023) exigem injeção EXCLUSIVAMENTE SUBCUTÂNEA, reduzindo incidência de 1:3.000 para 1:15.000+.",
+      "Classificação de Mendieta (4 tipos) orienta a escolha da técnica conforme volume, projeção e ptose.",
+      "Relação cintura-quadril (Waist-to-Hip Ratio — WHR) ideal: 0,60–0,75.",
+      "BBL: taxa de sobrevida da gordura enxertada 50–70%; restrição de sentar por 2–3 semanas é crítica para resultado.",
+      "Implantes: resultado imediato com sobrevida >15 anos em >90% dos casos.",
+      "Lifting glúteo indicado para ptose graus I–IV; taxa de recorrência 10–15% em 3–5 anos.",
+      "O BBL — Brazilian Butt Lift — é historicamente um dos procedimentos estéticos com maior mortalidade perioperatória entre as cirurgias cosméticas, o que motivou os consensos multissocietários recentes sobre segurança de injeção.",
+      "A combinação de lipoaspiração extensa com enxertia de gordura autóloga eleva significativamente o risco de síndrome de embolia gordurosa, particularmente em grandes volumes."
+    ],
+    "images": [],
+    "citations": [
+      "ASPS, 2022",
+      "AESRF/ASPS/ISAPS, 2023",
+      "Hoyos & Prendergast, HDBS, cap. 15",
+      "Hoyos & Prendergast, HDBS, cap. 20"
+    ],
+    "updates": [],
+    "tags": [
+      "synopsis",
+      "gluteoplastia",
+      "bbl",
+      "brazilian-butt-lift",
+      "implantes",
+      "lipoenxertia",
+      "embolia-gordurosa",
+      "seguranca",
+      "contorno-corporal",
+      "cirurgia-estetica"
+    ]
+  },
+  {
+    "id": "glut-nota-017",
+    "type": "note",
+    "title": "Introdução",
+    "topic": "gluteoplastia",
+    "area": "contorno-corporal",
+    "section": "introducao",
+    "content": [
+      "A gluteoplastia é um procedimento de cirurgia plástica que busca aumentar, remodelar ou suspender a região glútea, trazendo-a para proporções e contornos esteticamente mais atraentes. É um dos procedimentos estéticos mais solicitados no mundo, particularmente no Brasil, com crescimento exponencial nas últimas duas décadas.",
+      "As técnicas disponíveis incluem: gluteoplastia de aumento com implantes, lipoenxertia glútea (Brazilian Butt Lift — BBL), técnicas com retalhos autólogos (autoaugmentation), e abordagens combinadas (híbridas). A escolha da técnica depende de análise anatômica cuidadosa, expectativas do paciente, quantidade e qualidade de tecido adiposo disponível, e perfil de risco.",
+      "Conforme dados da American Society of Plastic Surgeons (ASPS, 2022), a gluteoplastia é o 5º procedimento estético mais realizado no mundo, com aproximadamente 1,2 milhão de procedimentos anuais. Nos últimos 10 anos, a procura aumentou mais de 300%, com destaque para o Brasil, que é o epicentro da execução de BBL. Idade predominante: 25–45 anos. 90% dos pacientes são do sexo feminino."
+    ],
+    "images": [],
+    "citations": [
+      "Mendieta, Neligan's Plastic Surgery, 5ª Ed., 2023, Cap. 32",
+      "Centeno et al., Grabb & Smith's Plastic Surgery, 8ª Ed., 2020",
+      "ASPS Statistics, 2022"
+    ],
+    "updates": [],
+    "tags": [
+      "introducao",
+      "gluteoplastia",
+      "contorno-corporal",
+      "cirurgia-plastica",
+      "bbl",
+      "lipoenxertia",
+      "implantes-gluteos",
+      "epidemiologia"
+    ]
+  },
+  {
+    "id": "glut-nota-018",
+    "type": "note",
+    "title": "Diagnosis / Patient Presentation",
+    "topic": "gluteoplastia",
+    "area": "contorno-corporal",
+    "section": "diagnostico",
+    "content": [
+      "A avaliação pré-operatória deve incluir avaliação do Índice de Massa Corporal (IMC) ideal < 32 kg/m².",
+      "Avaliação de quantidade e qualidade de gordura para BBL com pinch test > 2 cm.",
+      "Presença de cicatrizes ou deformidades prévias deve ser documentada.",
+      "Risco de tromboembolismo venoso (TEV) deve ser estratificado através da escala de Caprini.",
+      "História de comorbidades incluindo diabetes e distúrbios de coagulação devem ser investigados.",
+      "Expectativas realistas e compreensão da técnica proposta pelo paciente são essenciais.",
+      "Contração contínua do glúteo máximo durante exame pode influenciar avaliação de ptose.",
+      "Assimetrias basais devem ser documentadas no exame físico pré-operatório."
+    ],
+    "images": [],
+    "citations": [
+      "Centeno, Grabb & Smith, 8ª Ed., 2020"
+    ],
+    "updates": [],
+    "tags": [
+      "diagnostico",
+      "avaliacao-preoperatoria",
+      "imc",
+      "bbl",
+      "tromboembolismo",
+      "gluteo-maximo",
+      "assimetrias"
+    ]
+  },
+  {
+    "id": "glut-nota-019",
+    "type": "note",
+    "title": "Patient Selection",
+    "topic": "gluteoplastia",
+    "area": "contorno-corporal",
+    "section": "selecao",
+    "content": [
+      "Classificação de Mendieta (2004) dos glúteos em 4 tipos baseado em volume, projeção e ptose: Tipo I com volume adequado, boa projeção e sem ptose é candidato a refinamento com lipoenxertia; Tipo II com déficit de volume e projeção reduzida é candidato a aumento via implante ou BBL; Tipo III com ptose leve a moderada e volume variável é candidato a lifting com ou sem aumento; Tipo IV com ptose severa e volume deficiente é candidato a lifting combinado com aumento.",
+      "Implantes indicados para pacientes com pouco tecido adiposo disponível (IMC baixo) desejando projeção estrutural permanente.",
+      "BBL (lipoenxertia) indicada para pacientes com tecido adiposo suficiente (pinch test > 2 cm em áreas doadoras) desejando resultado natural e adaptável.",
+      "Retalhos autólogos (autoaugmentation) indicados para pacientes magras com IMC < 22 kg/m² com déficit de gordura local, pós-bariátricas com boa pele glútea superior, ou com rejeição a implante e enxertia.",
+      "Técnicas híbridas indicadas para pacientes com volume adiposo suficiente mas desejando máxima projeção e permanência, casos de revisão ou complexidade anatômica.",
+      "Lifting glúteo indicado para ptose glútea graus I–IV com perda de projeção cranial, aplanamento superior e desaparecimento do limite infra-glúteo, causadas por idade, genética, efeito gravitacional, pós-bariátrica ou pós-peso excessivo.",
+      "Contraindicações: IMC > 32 kg/m², distúrbios de coagulação não controlados, tabagismo ativo (risco de necrose e absorção do enxerto), expectativas irrealistas, comorbidades descompensadas como diabetes e cardiopatias, alto risco tromboembólico sem profilaxia adequada."
+    ],
+    "images": [],
+    "citations": [
+      "Mendieta, Aesthetic Surgery Journal, 2004",
+      "Centeno et al., Grabb & Smith, 8ª Ed., 2020",
+      "Mendieta, Aesthetic Surgery Journal, 2008"
+    ],
+    "updates": [],
+    "tags": [
+      "selecao",
+      "classificacao-mendieta",
+      "implantes",
+      "bbl",
+      "lipoenxertia",
+      "retalhos-autologos",
+      "tecnicas-hibridas",
+      "lifting-gluteo",
+      "contraindicacoes",
+      "imc"
+    ]
+  },
+  {
+    "id": "glut-nota-020",
+    "type": "note",
+    "title": "Pós-operatório — Implantes",
+    "topic": "gluteoplastia",
+    "area": "contorno-corporal",
+    "section": "pós-operatório",
+    "content": [
+      "Resultado imediato com 80% da transformação visível em 2 semanas; estabilização final ocorre entre 3–6 meses.",
+      "Sobrevida do implante superior a 15 anos em mais de 90% dos casos, com degradação lenta do material.",
+      "Dreno de sucção é facultativo, mantido por 48–72 horas.",
+      "Curativos compressivos devem ser mantidos por 48 horas."
+    ],
+    "images": [],
+    "citations": [
+      "Mendieta, Plastic Surgery, 5ª Ed., 2023"
+    ],
+    "updates": [],
+    "tags": [
+      "pos-operatorio",
+      "implantes",
+      "gluteoplastia",
+      "contorno-corporal",
+      "sobrevida-implante",
+      "curativos-compressivos",
+      "dreno-succao"
+    ]
+  },
+  {
+    "id": "glut-nota-021",
+    "type": "note",
+    "title": "Pós-operatório — BBL",
+    "topic": "gluteoplastia",
+    "area": "contorno-corporal",
+    "section": "pós-operatório",
+    "content": [
+      "Restrição de sentar (CRÍTICO): 2–3 semanas de máxima importância para evitar compressão e morte das células enxertadas. Paciente deve permanecer em decúbito dorsal, ventral ou de pé apenas. Se sentar for imprescindível, usar almofada de anel ou tipo donut que descarrega pressão direta do glúteo, embora com eficácia questionável. Compliance ruim resulta em absorção excessiva com ganho mínimo ao longo de meses.",
+      "Cinta compressiva glútea mantida por 4–6 semanas pós-operatória.",
+      "Massagem glútea suave iniciada a partir da semana 2. Espera-se 10–30% de reabsorção adicional no primeiro ano além da perda inicial de 40–50%. Massagem leve realizada imediatamente após a injeção corrige irregularidades grosseiras, porém massagem agressiva no pós-operatório NÃO é recomendada pelo risco de ruptura dos microenxertos.",
+      "Atividade física progressiva a partir da semana 4.",
+      "Esteroides orais (metilprednisolona 4 mg/dia por 5 dias) em alguns centros para reduzir edema e inflamação.",
+      "Resultado progressivo com perda de 40–50% dos enxertos em 6 meses; estabilização ocorre entre 12–18 meses, sendo os 50% que sobrevivem permanentes.",
+      "Antibioticoprofilaxia: cefalosporina perioperatória mantida por 5 dias no pós-operatório reduz infecção de ferida e celulite ao redor dos pontos de acesso.",
+      "Posicionamento nas primeiras semanas: decúbito prono ou lateral, evitando supino. Deambulação precoce ainda no dia da cirurgia. Vestuário compressivo em abdome e flancos (jamais sobre os glúteos enxertados) mantido por 2 semanas.",
+      "Técnica de sentar (sentar para frente): quando sentar for inevitável, apoiar-se sobre os ramos púbicos e inclinar o tronco anteriormente reduz a pressão direta sobre o glúteo e maximiza o take da gordura enxertada."
+    ],
+    "images": [],
+    "citations": [
+      "Mofid et al., Aesthetic Surgery Journal, 2016",
+      "Operative Dictations, 2017, cap. 18",
+      "Hoyos & Prendergast, HDBS, cap. 20"
+    ],
+    "updates": [],
+    "tags": [
+      "pos-operatorio",
+      "bbl",
+      "lipoenxertia",
+      "restricao-de-sentar",
+      "compressao",
+      "massagem",
+      "antibioticoprofilaxia",
+      "reabsorcao-de-enxerto",
+      "contorno-corporal"
+    ]
+  },
+  {
+    "id": "glut-nota-022",
+    "type": "note",
+    "title": "Pós-operatório — Lifting Glúteo",
+    "topic": "gluteoplastia",
+    "area": "contorno-corporal",
+    "section": "pós-operatório",
+    "content": [
+      "Resultado imediato; cicatriz sofre remodelação até 12 meses.",
+      "Envelhecimento contínuo: ptose recorre em 10–15 anos em lifting."
+    ],
+    "images": [],
+    "citations": [
+      "Mendieta et al., Aesthetic Surgery Journal, 2016",
+      "Centeno, Grabb & Smith, 8ª Ed., 2020"
+    ],
+    "updates": [],
+    "tags": [
+      "pos-operatorio",
+      "lifting-gluteo",
+      "cicatrizacao",
+      "ptose",
+      "remodelacao"
+    ]
+  },
+  {
+    "id": "glut-nota-023",
+    "type": "note",
+    "title": "Embolia Gordurosa (BBL — Complicação Crítica)",
+    "topic": "gluteoplastia",
+    "area": "contorno-corporal",
+    "section": "complicacoes",
+    "content": [
+      "Incidência: 1:3.000 procedimentos com técnica intramuscular; redução para 1:15.000+ com técnica exclusivamente subcutânea. Mortalidade: 1% dos casos diagnosticados (0,03–0,05% de taxa global de mortalidade em BBL moderno).",
+      "Prevenção conforme recomendações AESRF/ASPS/ISAPS (2023): injeção exclusivamente subcutânea; cânula de ponta romba ≥ 4 mm; posição lateral preferida; múltiplos passes pequenos; cânula sempre visível; nunca ultrapassar fáscia glútea.",
+      "Diagnóstico intraoperatório: mudança súbita na saturação de O2, taquicardia, queda de pressão, tosse (com paciente sob anestesia geral), mudança de ETCO2, arritmia cardíaca. Sinais pós-operatórios imediatos: dispneia, confusão, agitação, hemoglobinúria (urina escura «chá»), taquicardia persistente. Qualquer sinal de embolia requer ativação de protocolo de emergência.",
+      "Manejo protocolo STAT: 1) Hiperoxigênio (100% O2 com máscara de rebreathing); 2) Posição Trendelenburg + decúbito lateral esquerdo (para evitar embolismo cerebral paradoxal); 3) Ativação de resposta de emergência cardiopulmonar; 4) IV grande calibre, acesso central se possível; 5) Contato com cirurgia cardiotorácica; 6) Cateterismo cardíaco direito (pode confirmar embolia); 7) Suporte circulatório (Oxigenação por Membrana Extracorpórea — ECMO em casos graves). Prognóstico: mortalidade 30–50% em casos graves não tratados; sobrevivência >90% com detecção e manejo ágil."
+    ],
+    "images": [],
+    "citations": [
+      "Steely et al., Aesthetic Surgery Journal, 2023",
+      "ASERF Multi-Society Task Force, 2023",
+      "AESRF/ASPS/ISAPS, 2023",
+      "ASERF Safe Gluteal Fat Grafting, 2023"
+    ],
+    "updates": [],
+    "tags": [
+      "complicacoes",
+      "embolia-gordurosa",
+      "bbl",
+      "emergencia",
+      "protocolos-seguranca",
+      "manejo-critico"
+    ]
+  },
+  {
+    "id": "glut-nota-024",
+    "type": "note",
+    "title": "Seroma",
+    "topic": "gluteoplastia",
+    "area": "contorno-corporal",
+    "section": "complicacoes",
+    "content": [
+      "Incidência de 5–10% em lifting glúteo, com variabilidade em casos com implantes.",
+      "Prevenção através de drenos de sucção, compressão adequada e minimização do espaço morto.",
+      "Diagnóstico clínico por apresentação de massa flutuante, desconforto local e aumento de volume assimétrico. Confirmação por ultrassom quando necessário.",
+      "Manejo conservador com drenagem aspirativa por 7–14 dias. Massas flutuantes persistentes ou sintomáticas maiores que 100 mL requerem drenagem percutânea com agulha 18G sob ultrassom, podendo ser repetida 2–3 vezes se necessário. Dreno cirúrgico é raramente necessário.",
+      "Em procedimentos de lipoenxertia glútea (BBL), o seroma ocorre em aproximadamente 5–15% dos casos. A manutenção das incisões-porta abertas (não fechadas primariamente) facilita a drenagem espontânea de exsudato nas primeiras 48–72 horas pós-operatórias."
+    ],
+    "images": [],
+    "citations": [
+      "Centeno et al., Aesthetic Surgery Journal, 2017",
+      "Hoyos & Prendergast, HDBS, cap. 15"
+    ],
+    "updates": [],
+    "tags": [
+      "complicacoes",
+      "seroma",
+      "drenagem",
+      "lipoenxertia",
+      "bbl",
+      "manejo-conservador"
+    ]
+  },
+  {
+    "id": "glut-nota-025",
+    "type": "note",
+    "title": "Infecção",
+    "topic": "gluteoplastia",
+    "area": "contorno-corporal",
+    "section": "complicações",
+    "content": [
+      "Incidência variável conforme técnica, com maior risco em procedimentos com implantes.",
+      "Prevenção através de antibioticoprofilaxia perioperatória, técnica asséptica rigorosa e drenos adequados.",
+      "Diagnóstico clínico baseado em febre, eritema local e celulite. Quando abscessado, apresenta massa flutuante ou fluctuante.",
+      "Manejo inicial com antibiótico sistêmico de amplo espectro (cefalosporina de 3ª geração associada a clindamicina) e coleta de hemoculturas. Abscesso confirmado indica drenagem cirúrgica. Retirada de implante é rara, reservada apenas para infecções recorrentes ou sistêmicas."
+    ],
+    "images": [],
+    "citations": [
+      "Cárdenas-Camarena, Grabb & Smith, 8ª Ed., 2020"
+    ],
+    "updates": [],
+    "tags": [
+      "complicacoes",
+      "infeccao",
+      "antibioticoprofilaxia",
+      "drenagem-cirurgica",
+      "implante"
+    ]
+  },
+  {
+    "id": "glut-nota-026",
+    "type": "note",
+    "title": "Neuropraxia Ciática",
+    "topic": "gluteoplastia",
+    "area": "contorno-corporal",
+    "section": "complicacoes",
+    "content": [
+      "A neuropraxia ciática é mais comum quando implantes são posicionados no plano submuscular ou intramuscular.",
+      "A prevenção deve respeitar a zona de segurança de Mendieta, localizada 2 cm medial à borda lateral do glúteo máximo, associada a dissecção cuidadosa do plano submuscular.",
+      "O diagnóstico é estabelecido pela apresentação clínica de queimação ou dor irradiada na coxa e perna ipsilateral no pós-operatório.",
+      "O manejo inclui infiltração local com xilocaína associada a depo-medrol no nervo quando possível, gabapentina 600 mg 3 vezes ao dia, fisioterapia e evitar posição sentada. A maioria dos casos apresenta recuperação entre 3 a 6 meses. Remoção de implante ou revisão cirúrgica é rara, sendo considerada último recurso."
+    ],
+    "images": [],
+    "citations": [
+      "Mofid et al., PRS, 2015"
+    ],
+    "updates": [],
+    "tags": [
+      "complicacoes",
+      "neuropraxia",
+      "nervo-ciatico",
+      "implante-gluteo",
+      "manejo-conservador"
+    ]
+  },
+  {
+    "id": "glut-nota-027",
+    "type": "note",
+    "title": "Contratura Capsular (Implantes)",
+    "topic": "gluteoplastia",
+    "area": "contorno-corporal",
+    "section": "complicacoes",
+    "content": [
+      "A incidência de contratura capsular é maior com implantes de superfície lisa e reduzida significativamente com implantes texturizados.",
+      "A prevenção baseia-se no uso de implantes texturizados e posicionamento submuscular adequado.",
+      "O diagnóstico é estabelecido através de endurecimento progressivo, distorção do contorno e desconforto relatado pelo paciente.",
+      "O manejo de casos sintomáticos envolve capsulotomia ou capsulectomia com troca de implante."
+    ],
+    "images": [],
+    "citations": [
+      "Castellanos et al., PRS, 2018"
+    ],
+    "updates": [],
+    "tags": [
+      "complicacoes",
+      "contratura-capsular",
+      "implantes",
+      "prevencao",
+      "manejo-cirurgico"
+    ]
+  },
+  {
+    "id": "glut-nota-028",
+    "type": "note",
+    "title": "Assimetria",
+    "topic": "gluteoplastia",
+    "area": "contorno-corporal",
+    "section": "complicações",
+    "content": [
+      "A assimetria apresenta incidência aproximada de 5% em lifting glúteo, sendo variável em outras técnicas de gluteoplastia.",
+      "A prevenção da assimetria deve ser realizada através de marcação pré-operatória meticulosa e verificação intraoperatória de simetria.",
+      "O diagnóstico é feito por avaliação visual e de medidas no período pós-operatório.",
+      "O manejo da assimetria significativa requer revisão cirúrgica."
+    ],
+    "images": [],
+    "citations": [
+      "Centeno, Grabb & Smith, 8ª Ed., 2020"
+    ],
+    "updates": [],
+    "tags": [
+      "complicacoes",
+      "assimetria",
+      "gluteoplastia",
+      "contorno-corporal",
+      "prevencao",
+      "manejo"
+    ]
+  },
+  {
+    "id": "glut-nota-029",
+    "type": "note",
+    "title": "Absorção Excessiva do Enxerto (BBL)",
+    "topic": "gluteoplastia",
+    "area": "contorno-corporal",
+    "section": "complicações",
+    "content": [
+      "Incidência: 40–50% de absorção nos primeiros 6 meses é esperada; absorção além disso considerada excessiva.",
+      "Prevenção: restrição de sentar por 2–3 semanas, processamento adequado da gordura, injeção em múltiplas camadas subcutâneas.",
+      "Diagnóstico: perda progressiva de volume e projeção nos primeiros 6–12 meses.",
+      "Manejo: sessão adicional de lipoenxertia após estabilização (12–18 meses)."
+    ],
+    "images": [],
+    "citations": [
+      "Mofid et al., Aesthetic Surgery Journal, 2016"
+    ],
+    "updates": [],
+    "tags": [
+      "complicacoes",
+      "absorcao_enxerto",
+      "bbl",
+      "lipoenxertia",
+      "gluteoplastia"
+    ]
+  },
+  {
+    "id": "glut-nota-030",
+    "type": "note",
+    "title": "Procedimentos Secundários",
+    "topic": "gluteoplastia",
+    "area": "contorno-corporal",
+    "section": "revisao",
+    "content": [
+      "Revisão de implantes: troca por contratura capsular, deslocamento, rotação ou insatisfação com tamanho. Capsulectomia pode ser necessária.",
+      "Sessão adicional de BBL: para compensar absorção excessiva ou obter maior volume. Realizar após estabilização do enxerto (12–18 meses).",
+      "Conversão de técnica: troca de implante para BBL ou vice-versa em casos de insatisfação ou complicação.",
+      "Lipoaspiração de refinamento: correção de irregularidades de contorno ou excesso residual em áreas doadoras.",
+      "Revisão de BBL por reabsorção > 30%: quando a reabsorção do enxerto primário ultrapassa 30% do volume, nova sessão de lipoenxertia pode ser programada após 6 meses, tempo mínimo para consolidação do enxerto prévio e reconstituição do leito receptor.",
+      "Correção de assimetria volumétrica: enxertia focal no lado hipoplásico em pequenas alíquotas para igualar projeção, ou lipoaspiração focal se houver hiperenxertia localizada e palpável.",
+      "Explante de implante glúteo: indicado em seroma crônico refratário, migração sintomática ou infecção recorrente — consiste na remoção do implante com capsulectomia parcial seletiva; a conversão para lipoenxertia pode ser oferecida de forma diferida, respeitando intervalo ≥ 3 meses para cicatrização do bolso.",
+      "Retoque de fossa sacral ou sulco subglúteo: após a primeira sessão de VASER-HDL, retoques pontuais em fossa sacral ou sulco subcortical glúteo podem ser realizados sob anestesia local, em alíquotas pequenas de enxerto ou microlipoaspiração."
+    ],
+    "images": [],
+    "citations": [
+      "Villanueva & Centeno, Aesthetic Surgery Journal, 2017",
+      "Mofid et al., Aesthetic Surgery Journal, 2016",
+      "Centeno et al., Aesthetic Surgery Journal, 2017",
+      "Cárdenas-Camarena et al., PRS, 2014",
+      "Hoyos & Prendergast, HDBS, cap. 20",
+      "Neligan, 2023, vol. 4, cap. 35.2",
+      "Hoyos & Prendergast, HDBS, cap. 15"
+    ],
+    "updates": [],
+    "tags": [
+      "revisao",
+      "procedimentos-secundarios",
+      "implante-glúteo",
+      "bbl",
+      "lipoenxertia",
+      "reabsorcao",
+      "assimetria",
+      "explante",
+      "vaser-hdl"
+    ]
   }
 ]

@@ -10,48 +10,99 @@
       {
         "question": "Tempo decorrido desde a cirurgia bariátrica é de pelo menos 12-18 meses?",
         "options": [
-          { "answer": "Sim (>= 12 meses)", "next": "Avançar para avaliação de estabilização ponderal" },
-          { "answer": "Não (< 12 meses)", "next": "Adiar cirurgia: aguardar recuperação metabólica, resolução de comorbidades e adaptação cutânea. Reavaliar após completar 12-18 meses." }
+          {
+            "answer": "Sim (>= 12 meses)",
+            "next": "Avançar para avaliação de estabilização ponderal"
+          },
+          {
+            "answer": "Não (< 12 meses)",
+            "next": "Adiar cirurgia: aguardar recuperação metabólica, resolução de comorbidades e adaptação cutânea. Reavaliar após completar 12-18 meses."
+          }
         ]
       },
       {
         "question": "Peso estável por no mínimo 3-6 meses consecutivos (plateau documentado)?",
         "options": [
-          { "answer": "Sim (peso estável)", "next": "Avançar para cálculo de IMC" },
-          { "answer": "Não (perda ponderal ativa)", "next": "Contraindicação relativa: perda contínua aumenta risco de deiscência, seroma e insatisfação estética. Adiar até estabilização por 3-6 meses." }
+          {
+            "answer": "Sim (peso estável)",
+            "next": "Avançar para cálculo de IMC"
+          },
+          {
+            "answer": "Não (perda ponderal ativa)",
+            "next": "Contraindicação relativa: perda contínua aumenta risco de deiscência, seroma e insatisfação estética. Adiar até estabilização por 3-6 meses."
+          }
         ]
       },
       {
         "question": "IMC atual do paciente?",
         "options": [
-          { "answer": "< 30 kg/m2", "next": "Ideal para qualquer procedimento, incluindo combinações" },
-          { "answer": "30-32 kg/m2", "next": "Aceitável para procedimentos isolados; evitar combinações extensas" },
-          { "answer": "32-35 kg/m2", "next": "Contraindicação relativa: considerar adiar ou limitar a procedimento único de menor risco" },
-          { "answer": "> 35 kg/m2", "next": "Contraindicação forte (absoluta se > 40 kg/m2): encaminhar de volta para otimização de perda de peso" }
+          {
+            "answer": "< 30 kg/m2",
+            "next": "Ideal para qualquer procedimento, incluindo combinações"
+          },
+          {
+            "answer": "30-32 kg/m2",
+            "next": "Aceitável para procedimentos isolados; evitar combinações extensas"
+          },
+          {
+            "answer": "32-35 kg/m2",
+            "next": "Contraindicação relativa: considerar adiar ou limitar a procedimento único de menor risco"
+          },
+          {
+            "answer": "> 35 kg/m2",
+            "next": "Contraindicação forte (absoluta se > 40 kg/m2): encaminhar de volta para otimização de perda de peso"
+          }
         ]
       },
       {
         "question": "Estado nutricional adequado? (albumina sérica)",
         "options": [
-          { "answer": "Albumina >= 3.2 g/dL", "next": "Ideal para cirurgias combinadas e de maior porte" },
-          { "answer": "Albumina 3.0-3.2 g/dL", "next": "Limite aceitável para procedimentos isolados; otimizar nutrição antes de combinar procedimentos" },
-          { "answer": "Albumina < 3.0 g/dL", "next": "Contraindicação: desnutrição compromete cicatrização. Encaminhar ao nutricionista/bariatra para reposição proteica e reavaliar em 2-3 meses" }
+          {
+            "answer": "Albumina >= 3.2 g/dL",
+            "next": "Ideal para cirurgias combinadas e de maior porte"
+          },
+          {
+            "answer": "Albumina 3.0-3.2 g/dL",
+            "next": "Limite aceitável para procedimentos isolados; otimizar nutrição antes de combinar procedimentos"
+          },
+          {
+            "answer": "Albumina < 3.0 g/dL",
+            "next": "Contraindicação: desnutrição compromete cicatrização. Encaminhar ao nutricionista/bariatra para reposição proteica e reavaliar em 2-3 meses"
+          }
         ]
       },
       {
         "question": "Comorbidades controladas, sem tabagismo ativo e sem distúrbio psiquiátrico grave?",
         "options": [
-          { "answer": "Sim (tudo compensado)", "next": "Avançar para planejamento de estadiamento" },
-          { "answer": "Tabagismo ativo", "next": "Contraindicação: risco elevado de necrose cutânea. Exigir cessação por mínimo 4-6 semanas pré-operatórias" },
-          { "answer": "Comorbidades descompensadas (DM, HAS, coagulopatia)", "next": "Contraindicação: compensar comorbidades antes de reavaliar" },
-          { "answer": "Distúrbio psiquiátrico não tratado / dismorfismo corporal", "next": "Contraindicação: encaminhar para avaliação psiquiátrica e documentar expectativas realistas antes de reavaliar" }
+          {
+            "answer": "Sim (tudo compensado)",
+            "next": "Avançar para planejamento de estadiamento"
+          },
+          {
+            "answer": "Tabagismo ativo",
+            "next": "Contraindicação: risco elevado de necrose cutânea. Exigir cessação por mínimo 4-6 semanas pré-operatórias"
+          },
+          {
+            "answer": "Comorbidades descompensadas (DM, HAS, coagulopatia)",
+            "next": "Contraindicação: compensar comorbidades antes de reavaliar"
+          },
+          {
+            "answer": "Distúrbio psiquiátrico não tratado / dismorfismo corporal",
+            "next": "Contraindicação: encaminhar para avaliação psiquiátrica e documentar expectativas realistas antes de reavaliar"
+          }
         ]
       },
       {
         "question": "Planejamento: procedimentos combinados em ato único ou estadiados?",
         "options": [
-          { "answer": "Combinado (mesmo ato cirúrgico)", "next": "Exige IMC < 30, albumina > 3.2, ausência de comorbidades, equipe experiente e disponibilidade de UTI. Limitar tempo cirúrgico total e considerar profilaxia de TEV estendida" },
-          { "answer": "Estadiado (fases sucessivas)", "next": "Preferência quando há fatores de risco. Sequência típica: (1) abdominoplastia/body lift, (2) mamas e braços, (3) coxas e face. Intervalo mínimo de 3-6 meses entre fases" }
+          {
+            "answer": "Combinado (mesmo ato cirúrgico)",
+            "next": "Exige IMC < 30, albumina > 3.2, ausência de comorbidades, equipe experiente e disponibilidade de UTI. Limitar tempo cirúrgico total e considerar profilaxia de TEV estendida"
+          },
+          {
+            "answer": "Estadiado (fases sucessivas)",
+            "next": "Preferência quando há fatores de risco. Sequência típica: (1) abdominoplastia/body lift, (2) mamas e braços, (3) coxas e face. Intervalo mínimo de 3-6 meses entre fases"
+          }
         ]
       }
     ],
@@ -66,6 +117,13 @@
       "Grabb & Smith's Plastic Surgery, 8a Ed., 2020"
     ],
     "updates": [],
-    "tags": ["decisao", "elegibilidade", "contorno-pos-bariatrico", "timing", "imc", "estadiamento"]
+    "tags": [
+      "decisao",
+      "elegibilidade",
+      "contorno-pos-bariatrico",
+      "timing",
+      "imc",
+      "estadiamento"
+    ]
   }
 ]
