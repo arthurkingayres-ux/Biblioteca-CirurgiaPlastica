@@ -2,94 +2,6 @@
   {
     "id": "oto-nota-001",
     "type": "note",
-    "title": "Introdução e Indicações da Otoplastia",
-    "topic": "otoplastia",
-    "area": "estética-facial",
-    "section": "Introdução",
-    "content": [
-      "A otoplastia corrige deformidades auriculares congenitas, com destaque para a orelha em abano (prominent ear).",
-      "E indicada a partir dos 5-6 anos de idade, quando o pavilhão auricular atinge aproximadamente 85% do tamanho adulto.",
-      "O impacto na autoestima e significativo, especialmente em criancas em idade escolar — razao pela qual a indicação precoce e justificada.",
-      "A deformidade mais comum e a orelha em abano, caracterizada por ângulo cefaloauricular > 35 graus e/ou projeção helice-mastoide acima dos valores normais.",
-      "Alternativa nao cirúrgica: moldagem neonatal (EarWell, Auri) com taxa de sucesso > 90% quando iniciada nas primeiras 6 semanas de vida."
-    ],
-    "images": [],
-    "citations": [
-      "Neligan, 2023, vol. 3, cap. 28",
-      "Grabb & Smith, 2020, cap. 36"
-    ],
-    "updates": [],
-    "tags": [
-      "introducao",
-      "indicação",
-      "orelha-em-abano",
-      "otoplastia"
-    ]
-  },
-  {
-    "id": "oto-nota-002",
-    "type": "note",
-    "title": "Classificação das Deformidades Auriculares - Orelha em Abano",
-    "topic": "otoplastia",
-    "area": "estética-facial",
-    "section": "Classificação",
-    "content": [
-      "A orelha em abano (prominent ear) tem tres causas anatômicas principais, que podem ocorrer isoladamente ou em combinacao:",
-      "1. Anti-helice hipoplasica ou ausente (~60% dos casos): a dobra da anti-helice nao se forma adequadamente, resultando em projeção lateral excessiva do terco superior e médio da orelha.",
-      "2. Concha hiperdesenvolvida (~20% dos casos): a concha (cavum e/ou cymba) e anormalmente profunda, empurrando todo o pavilhão para lateral. Componente identificado pela projeção excessiva do terco médio.",
-      "3. Combinacao de anti-helice + concha (~20% dos casos): ambos os componentes contribuem para a deformidade. E a apresentacao mais frequente em casos severos.",
-      "A identificacao da causa anatômica e fundamental para a escolha da técnica cirúrgica: anti-helice hipoplasica → Mustarde (suturas); concha hipertrofica → Furnas (concha-mastoide); combinacao → técnica combinada.",
-      "Outras deformidades auriculares congenitas (menos frequentes): macrotia, criptotia, constricted ear (lop ear, cup ear), orelha de Stahl, microtia (graus I-IV)."
-    ],
-    "images": [],
-    "citations": [
-      "Neligan, 2023, vol. 3, cap. 28",
-      "Grabb & Smith, 2020, cap. 36"
-    ],
-    "updates": [],
-    "tags": [
-      "classificação",
-      "deformidade",
-      "anti-helice",
-      "concha",
-      "otoplastia"
-    ]
-  },
-  {
-    "id": "oto-nota-003",
-    "type": "note",
-    "title": "Complicações da Otoplastia",
-    "topic": "otoplastia",
-    "area": "estética-facial",
-    "section": "Complicações",
-    "content": [
-      "Hematoma subpericondral (1-3%): complicação precoce mais temida. Drenagem imediata e obrigatoria — hematoma nao drenado causa pericondrite e fibrose, resultando em deformidade tipo orelha em couve-flor (cauliflower ear).",
-      "Pericondrite (< 1%): infecção da cartilagem. Tratamento com ATB (antibiotico) intravenoso — ciprofloxacino e a primeira escolha por boa penetração na cartilagem (cobertura para Pseudomonas). Drenagem cirúrgica se colecao.",
-      "Extrusao de sutura (1-6%): causa mais frequente de reintervenção menor. Conduta: retirada da sutura extruida e curativo local. Prevenção: retalho dermofáscial (Bulstrode, 0% em 340 orelhas) ou enxerto de tecido mole livre (Alzayadneh, 0% em 58 orelhas).",
-      "Recidiva (3-5%): retorno da projeção excessiva por afrouxamento ou ruptura das suturas. Revisão cirúrgica após 6 meses de estabilização.",
-      "Hipercorreção (frequencia variavel): orelha excessivamente aderida ao crânio (telephone ear deformity). Revisão após 6 meses.",
-      "Assimetria (frequencia variavel): causa mais comum de revisão na serie de Belfast (2,3% de 2333 orelhas). Revisão após 6 meses."
-    ],
-    "images": [],
-    "citations": [
-      "Neligan, 2023, vol. 3, cap. 28",
-      "McGarry KM et al. Plast Reconstr Surg 2023;151(3):388e-397e",
-      "Bulstrode NW et al. Plast Reconstr Surg 2024;154(6):1191e-1199e",
-      "Alzayadneh I et al. Aesthet Surg J 2022;42(9):NP571-NP575"
-    ],
-    "updates": [],
-    "tags": [
-      "complicações",
-      "hematoma",
-      "pericondrite",
-      "extrusao",
-      "recidiva",
-      "otoplastia"
-    ]
-  },
-  {
-    "id": "oto-nota-004",
-    "type": "note",
     "title": "Synopsis",
     "topic": "otoplastia",
     "area": "estetica-facial",
@@ -116,19 +28,20 @@
       "synopsis",
       "otoplastia",
       "estetica-facial",
-      "tecnicas-cirurgicas",
-      "complicacoes-pos-operatorias",
+      "principio-de-gibson",
+      "tecnica-mustarde",
+      "tecnica-furnas",
       "moldagem-neonatal",
-      "principio-gibson"
+      "hematoma-subpericondral"
     ]
   },
   {
-    "id": "oto-nota-005",
+    "id": "oto-nota-002",
     "type": "note",
     "title": "Introdução",
     "topic": "otoplastia",
     "area": "estetica-facial",
-    "section": "introdução",
+    "section": "introducao",
     "content": [
       "A otoplastia corrige deformidades auriculares congênitas, com destaque para a orelha em abano (prominent ear). É indicada a partir dos 5–6 anos de idade, quando o pavilhão auricular atinge aproximadamente 85% do tamanho adulto. O impacto na autoestima é significativo, especialmente em crianças em idade escolar — razão pela qual a indicação precoce é justificada.",
       "A deformidade mais comum é a orelha em abano, caracterizada por ângulo cefaloauricular > 35 graus e/ou projeção hélice-mastoide acima dos valores normais. Alternativa não cirúrgica: moldagem neonatal (EarWell, Auri) com taxa de sucesso > 90% quando iniciada nas primeiras 6 semanas de vida."
@@ -136,7 +49,7 @@
     "images": [],
     "citations": [
       "Neligan, 2023, vol. 3, cap. 28",
-      "Grabb & Smith, 2020, cap. 36"
+      "Grabb & Smith, 2024, cap. 57"
     ],
     "updates": [],
     "tags": [
@@ -145,11 +58,11 @@
       "orelha-em-abano",
       "deformidade-auricular",
       "moldagem-neonatal",
-      "ageestetaico-facial"
+      "cirurgia-estetica"
     ]
   },
   {
-    "id": "oto-nota-006",
+    "id": "oto-nota-003",
     "type": "note",
     "title": "Physiology / Pathophysiology",
     "topic": "otoplastia",
@@ -158,28 +71,33 @@
     "content": [
       "Princípio de Gibson: Escarificação da superfície convexa da cartilagem causa curvatura para o lado escarificado, por liberação de tensões intrínsecas da cartilagem elástica. Este é o fundamento biomecânico das técnicas de escarificação (Stenstrom) utilizadas em otoplastia.",
       "Nutrição da cartilagem auricular: A cartilagem elástica auricular recebe nutrição exclusivamente por difusão através do pericôndrio. Hematoma subpericondral interposto entre pericôndrio e cartilagem interrompe essa difusão, causando isquemia → pericondrite → fibrose → deformidade permanente tipo orelha em couve-flor (cauliflower ear). A drenagem imediata do hematoma é mandatória.",
-      "Maleabilidade neonatal: A cartilagem auricular neonatal é maleável nas primeiras semanas de vida sob influência do estrogênio materno circulante. Essa janela de plasticidade permite moldagem externa não cirúrgica (EarWell, Auri) com taxa de sucesso > 90% quando iniciada antes de 6 semanas de vida. Após esse período, a cartilagem enrijece progressivamente e a moldagem torna-se ineficaz."
+      "Maleabilidade neonatal: A cartilagem auricular neonatal é maleável nas primeiras semanas de vida sob influência do estrogênio materno circulante. Essa janela de plasticidade permite moldagem externa não cirúrgica (EarWell, Auri) com taxa de sucesso > 90% quando iniciada antes de 6 semanas de vida. Após esse período, a cartilagem enrijece progressivamente e a moldagem torna-se ineficaz.",
+      "Rigidez progressiva da cartilagem com a idade: A maleabilidade da cartilagem auricular não é uniforme ao longo da vida. Em adultos a partir de 40 anos ocorre calcificação progressiva, reduzindo substancialmente a capacidade de moldagem apenas por suturas. Esses pacientes podem apresentar recidiva maior mesmo com técnica adequada, pois a cartilagem tende a retornar à forma original devido à tensão intrínseca. Raspagem (rasping) prévia da cartilagem anterior ou escarificação controlada (Stenstrom) facilita a moldagem na cartilagem rígida, embora os resultados sejam menos previsíveis."
     ],
     "images": [],
     "citations": [
-      "Neligan, 2023, vol. 3, cap. 28"
+      "Neligan, 2023, vol. 3, cap. 28",
+      "Grabb & Smith, 2024, cap. 57"
     ],
     "updates": [],
     "tags": [
       "fisiopatologia",
-      "principio-gibson",
+      "princípio-de-gibson",
       "escarificacao",
       "cartilagem-auricular",
       "hematoma-subpericondral",
       "cauliflower-ear",
       "maleabilidade-neonatal",
-      "moldagem-nao-cirurgica",
+      "moldagem-externa",
+      "calcificacao-cartilagem",
+      "rigidez-progressiva",
+      "stenstrom",
       "earwell",
       "auri"
     ]
   },
   {
-    "id": "oto-nota-007",
+    "id": "oto-nota-004",
     "type": "note",
     "title": "Classificação das Deformidades Auriculares — Orelha em Abano",
     "topic": "otoplastia",
@@ -196,23 +114,80 @@
     "images": [],
     "citations": [
       "Neligan, 2023, vol. 3, cap. 28",
-      "Grabb & Smith, 2020, cap. 36"
+      "Grabb & Smith, 2024, cap. 57"
     ],
     "updates": [],
     "tags": [
       "diagnostico",
       "orelha-em-abano",
-      "prominent-ear",
+      "deformidades-auriculares",
       "anti-helice",
-      "concha-hiperdesenvolvida",
-      "deformidade-auricular",
-      "tecnica-cirurgica",
-      "mustarde",
-      "furnas"
+      "concha-hipertrofica",
+      "otoplastia-estetica",
+      "cirurgia-auricular"
     ]
   },
   {
-    "id": "oto-nota-008",
+    "id": "oto-nota-005",
+    "type": "note",
+    "title": "Epidemiologia e Impacto Psicossocial",
+    "topic": "otoplastia",
+    "area": "estetica-facial",
+    "section": "diagnóstico",
+    "content": [
+      "A deformidade auricular proeminente afeta aproximadamente 5% da população geral, tipicamente detectada a partir dos 5–6 anos de idade, quando os pares começam a tecer comentários estéticos.",
+      "Embora congênita, a orelha proeminente não causa sintomas otológicos — a indicação é exclusivamente estética e psicossocial.",
+      "O impacto psicológico é documentado em crianças em idade escolar: bullying por pares pode resultar em isolamento social, ansiedade e baixa autoestima, razão que justifica a indicação precoce.",
+      "A moldagem neonatal, quando iniciada nas primeiras 6 semanas de vida, reduz em 60–85% a necessidade de cirurgia subsequente, dependendo da gravidade inicial.",
+      "A incidência de deformidade pré-existente em neonatos (detectável ao nascimento) é estimada em 15–20%, mas a maior parte resolve-se espontaneamente ao longo dos primeiros meses."
+    ],
+    "images": [],
+    "citations": [
+      "Operative Dictations; Grabb & Smith, 2024, cap. 57"
+    ],
+    "updates": [],
+    "tags": [
+      "diagnostico",
+      "epidemiologia",
+      "deformidade-auricular",
+      "impacto-psicossocial",
+      "moldagem-neonatal",
+      "otoplastia"
+    ]
+  },
+  {
+    "id": "oto-nota-006",
+    "type": "note",
+    "title": "Identificação e palpação diferencial dos componentes",
+    "topic": "otoplastia",
+    "area": "estetica-facial",
+    "section": "diagnostico",
+    "content": [
+      "Durante o exame físico, a palpação firme da orelha permite avaliar a projeção geral e também a maleabilidade cartilaginosa subjacente.",
+      "A hélice é gentilmente pressionada em direção ao escalpo: se a orelha retorna facilmente à posição anterior, há predominância de excesso conchal sobre deficiência anti-helical; se a hélice permanece parcialmente retraída após pressão (indicando maior rigidez), a anti-hélice hipoplásica é o componente principal.",
+      "A profundidade conchal pode ser estimada palpando o sulco entre a hélice anterior e a parede posterior da concha — depressão acentuada (> 15 mm) confirma hiperdesenvolvimento conchal.",
+      "O lóbulo deve ser avaliado separadamente: mesmo sem projeção inicial, frequentemente fica proeminente após a correção dos dois terços superiores, exigindo pexia ou ressecção de pele medial.",
+      "Em casos assimétricos, é crítico medir ambas as orelhas com o paciente em pé ou sentado em posição neutra, evitando inclinação da cabeça."
+    ],
+    "images": [],
+    "citations": [
+      "Neligan Core Procedures, 2020, cap. 5",
+      "Grabb & Smith, 2024, cap. 57"
+    ],
+    "updates": [],
+    "tags": [
+      "diagnostico",
+      "palpacao",
+      "exame-fisico",
+      "hélice",
+      "concha",
+      "anti-hélice",
+      "lobo",
+      "assimetria"
+    ]
+  },
+  {
+    "id": "oto-nota-007",
     "type": "note",
     "title": "Patient Selection",
     "topic": "otoplastia",
@@ -222,13 +197,10 @@
       "Algoritmo de Decisão — Tratamento da Orelha em Abano",
       "Gatilho: Paciente com orelha em abano (ângulo cefaloauricular > 35 graus e/ou projeção hélice-mastoide acima dos valores normais) avaliado para correção."
     ],
-    "images": [
-      "oto-dec-algoritmo-otoplastia.jpg",
-      "oto-anat-pavilhao-protrusao.jpg"
-    ],
+    "images": [],
     "citations": [
       "Neligan, 2023, vol. 3, cap. 28",
-      "Grabb & Smith, 2020, cap. 36",
+      "Grabb & Smith, 2024, cap. 57",
       "McGarry KM et al. Plast Reconstr Surg 2023;151(3):388e-397e"
     ],
     "updates": [],
@@ -236,51 +208,54 @@
       "selecao",
       "orelha-em-abano",
       "angulo-cefaloauricular",
-      "protrusao-auricula",
-      "patient-selection"
+      "protrusao-helice-mastoide",
+      "criterios-selecao"
     ]
   },
   {
-    "id": "oto-nota-009",
+    "id": "oto-nota-008",
     "type": "note",
     "title": "Cuidados Pós-operatórios",
     "topic": "otoplastia",
     "area": "estetica-facial",
     "section": "pós-operatório",
     "content": [
-      "Curativo compressivo moldante deve ser aplicado ao final da cirurgia e mantido por 7–10 dias.",
-      "Faixa elástica noturna deve ser utilizada por 4–6 semanas após remoção do curativo compressivo, para proteção durante o sono e prevenção de trauma acidental.",
-      "Vigilância rigorosa deve ser realizada nas primeiras 24–48 horas pós-operatórias. Dor intensa unilateral com edema progressivo sugere hematoma subpericondral, sendo necessária drenagem imediata obrigatória para prevenir pericondrite e deformidade permanente.",
-      "Atividade física de contato deve ser restrita por 6 semanas. Retorno escolar é permitido em 1–2 semanas com cuidados apropriados.",
-      "Seguimento clínico deve incluir reavaliação em 1 semana (remoção de curativo), 1 mês, 3 meses e 6 meses. O resultado definitivo é avaliado após 6 meses de estabilização."
+      "Curativo compressivo moldante deve ser aplicado ao final da cirurgia e mantido por 7–10 dias. O curativo não deve exercer pressão excessiva sobre a orelha — o objetivo é proteção e absorção de exsudato, não moldagem. Uma bolsa de gaze em formato de rosca (doughnut dressing) é posicionada ao redor de cada orelha para evitar pressão direta, prevenindo isquemia cutânea e necrose.",
+      "Faixa elástica noturna deve ser utilizada por 4–6 semanas após remoção do curativo compressivo, aplicada apenas durante as noites para proteção durante o sono e prevenção de trauma acidental. A faixa deve estar solta o suficiente para permitir fluxo sanguíneo adequado — teste: um dedo deve deslizar sob a faixa.",
+      "Monitoramento rigoroso de hematoma nas primeiras 24–48 horas pós-operatórias é obrigatório. Dor intensa unilateral com edema progressivo sugere hematoma subpericondral — drenagem imediata obrigatória para prevenir pericondrite e deformidade permanente.",
+      "Atividade física de contato (futebol, luta livre, educação física vigorosa) deve ser restrita por 6 semanas para evitar trauma direto. Retorno escolar é permitido em 1–2 semanas com cuidados adequados.",
+      "Seguimento clínico estruturado: reavaliação em 1 semana (remoção de curativo), 1 mês, 3 meses e 6 meses. Resultado definitivo é avaliado após 6 meses de estabilização."
     ],
     "images": [],
     "citations": [
-      "Neligan, 2023, vol. 3, cap. 28"
+      "Neligan, 2023, vol. 3, cap. 28",
+      "Neligan Core Procedures, 2020, cap. 5",
+      "Grabb & Smith, 2024, cap. 57"
     ],
     "updates": [],
     "tags": [
       "pos-operatorio",
+      "otoplastia",
       "curativo-compressivo",
       "faixa-elastica",
       "monitoramento-hematoma",
-      "retorno-atividades",
+      "restricao-atividade",
       "seguimento-clinico",
-      "otoplastia"
+      "estetica-facial"
     ]
   },
   {
-    "id": "oto-nota-010",
+    "id": "oto-nota-009",
     "type": "note",
     "title": "Hematoma Subpericondral",
     "topic": "otoplastia",
     "area": "estetica-facial",
     "section": "complicacoes",
     "content": [
-      "Incidência: 1–3%",
-      "Prevenção: Curativo compressivo adequado. Hemostasia cuidadosa intraoperatória.",
-      "Diagnóstico: Dor intensa unilateral precoce, edema progressivo, abaulamento do pavilhão.",
-      "Manejo: Drenagem imediata obrigatória — hematoma não drenado causa pericondrite e fibrose, resultando em deformidade tipo orelha em couve-flor (cauliflower ear)."
+      "Incidência de 1–3%.",
+      "Prevenção através de curativo compressivo adequado e hemostasia cuidadosa intraoperatória.",
+      "Diagnóstico clínico apresenta dor intensa unilateral precoce, edema progressivo e abaulamento do pavilhão.",
+      "Manejo requer drenagem imediata obrigatória. Hematoma não drenado causa pericondrite e fibrose, resultando em deformidade tipo orelha em couve-flor (cauliflower ear)."
     ],
     "images": [],
     "citations": [
@@ -290,25 +265,23 @@
     "tags": [
       "complicacoes",
       "hematoma-subpericondral",
-      "otoplastia",
-      "estetica-facial",
-      "prevencao",
-      "diagnostico",
-      "manejo"
+      "drenagem",
+      "pericondrite",
+      "cauliflower-ear"
     ]
   },
   {
-    "id": "oto-nota-011",
+    "id": "oto-nota-010",
     "type": "note",
     "title": "Pericondrite",
     "topic": "otoplastia",
     "area": "estetica-facial",
     "section": "complicacoes",
     "content": [
-      "Incidência menor que 1%.",
-      "Prevenção através de profilaxia antibiótica perioperatória, técnica asséptica rigorosa e drenagem imediata de hematomas.",
-      "Diagnóstico baseado em dor, edema, hiperemia e calor no pavilhão auricular, podendo evoluir para coleção.",
-      "Manejo com antibiótico intravenoso, sendo ciprofloxacino a primeira escolha por apresentar boa penetração na cartilagem com cobertura para Pseudomonas. Drenagem cirúrgica indicada se houver coleção."
+      "Incidência: < 1%",
+      "Prevenção: Profilaxia antibiótica perioperatória. Técnica asséptica rigorosa. Drenagem imediata de hematomas.",
+      "Diagnóstico: Dor, edema, hiperemia e calor no pavilhão auricular. Pode evoluir para coleção.",
+      "Manejo: ATB (antibiótico) intravenoso — ciprofloxacino é a primeira escolha por boa penetração na cartilagem (cobertura para Pseudomonas). Drenagem cirúrgica se coleção."
     ],
     "images": [],
     "citations": [
@@ -325,44 +298,47 @@
     ]
   },
   {
-    "id": "oto-nota-012",
+    "id": "oto-nota-011",
     "type": "note",
     "title": "Extrusão de Sutura",
     "topic": "otoplastia",
     "area": "estetica-facial",
     "section": "complicacoes",
     "content": [
-      "A extrusão de sutura apresenta incidência de 1-6% nas otoplastias.",
-      "Prevenção pode ser realizada através de retalho dermofáscial pós-auricular para cobrir nós das suturas, apresentando 0% de incidência em 340 orelhas, ou enxerto de tecido mole livre com 0% de incidência em 58 orelhas.",
-      "O diagnóstico é feito pela identificação de fio palpável ou visível na pele pós-auricular, podendo haver eritema e drenagem local associados.",
-      "O manejo consiste em retirada da sutura extruída e curativo local. Esta é a causa mais frequente de reintervenção menor."
+      "Incidência de extrusão de sutura: 1–6%.",
+      "Prevenção através de retalho dermofáscial pós-auricular (Bulstrode, 0% em 340 orelhas) ou enxerto de tecido mole livre (Alzayadneh, 0% em 58 orelhas) para cobrir nós das suturas.",
+      "Diagnóstico: fio palpável ou visível na pele pós-auricular, podendo apresentar eritema e drenagem local.",
+      "Manejo: retirada da sutura extruída e curativo local. Causa mais frequente de reintervenção menor.",
+      "A extrusão de sutura não é complicação imediata — pode ocorrer dias, semanas ou até anos após a otoplastia. A migração decorre de: (1) resposta inflamatória à sutura permanente (nylon/Prolene são corpo estranho); (2) movimento contínuo da pele posterior sobre o nó; (3) deficiência na cobertura tecidual do nó.",
+      "Sinal inicial é palpação de fio firme ou nodulação pós-auricular, frequentemente precedida de microdrenagem límpida por dias. Diagnóstico confirmado ao visualizar fio amarelado ou avermelhado sob pele translúcida.",
+      "Manejo simples: remoção ambulatorial sob anestesia local; a orelha não colapsa (recidiva < 5% após remoção isolada de sutura). A reabsorção tecidual pós-sutura é mínima; o reposicionamento mantém-se estável por cicatrização residual da cápsula fibrosa ao redor da cartilagem."
     ],
     "images": [],
     "citations": [
-      "Bulstrode",
-      "Alzayadneh"
+      "Grabb & Smith, 2024, cap. 57",
+      "Neligan Core Procedures, 2020, cap. 5"
     ],
     "updates": [],
     "tags": [
       "complicacoes",
-      "extrusao-sutura",
-      "prevencao",
-      "diagnostico",
-      "manejo"
+      "extrусao-sutura",
+      "otoplastia",
+      "estetica-facial",
+      "manejo-complicacoes"
     ]
   },
   {
-    "id": "oto-nota-013",
+    "id": "oto-nota-012",
     "type": "note",
     "title": "Recidiva",
     "topic": "otoplastia",
     "area": "estetica-facial",
     "section": "complicacoes",
     "content": [
-      "Incidência de recidiva em otoplastia: 3–5%.",
-      "Prevenção através de técnica adequada com tensão suficiente nas suturas. Uso de faixa elástica noturna por 4–6 semanas.",
-      "Diagnóstico caracterizado por retorno gradual da projeção excessiva por afrouxamento ou ruptura das suturas.",
-      "Manejo: revisão cirúrgica após 6 meses de estabilização."
+      "Incidência: 3–5%",
+      "Prevenção: Técnica adequada com tensão suficiente nas suturas. Uso de faixa elástica noturna por 4–6 semanas.",
+      "Diagnóstico: Retorno gradual da projeção excessiva por afrouxamento ou ruptura das suturas.",
+      "Manejo: Revisão cirúrgica após 6 meses de estabilização."
     ],
     "images": [],
     "citations": [
@@ -373,48 +349,51 @@
       "complicacoes",
       "recidiva",
       "otoplastia",
-      "prevencao",
-      "manejo-cirurgico"
+      "estetica-facial"
     ]
   },
   {
-    "id": "oto-nota-014",
+    "id": "oto-nota-013",
     "type": "note",
     "title": "Hipercorreção",
     "topic": "otoplastia",
     "area": "estetica-facial",
     "section": "complicacoes",
     "content": [
-      "Incidência: Frequência variável",
+      "Incidência: Frequência variável.",
       "Prevenção: Ajuste da tensão das suturas com paciente sentado para avaliação de simetria. Evitar tensão excessiva.",
       "Diagnóstico: Orelha excessivamente aderida ao crânio (telephone ear deformity).",
-      "Manejo: Revisão após 6 meses."
+      "Manejo: Revisão após 6 meses.",
+      "Deformidade de telephone ear: sobrecorreção desproporcional do terço médio (sutura de Mustarde excessivamente apertada no segmento médio) ou subcorreção dos terços superior e inferior resulta em aspecto de orelha em telefone — orelha excessivamente retraída no meio, com hélice proeminente nos polos. É claramente visível em perfil como contorno em C ou angulado.",
+      "Prevenção técnica: Amarrar a sutura de Mustarde do terço médio por último, após ajuste dos terços superior e inferior, usando pinça de mosquito atraumática para testar o efeito antes de fixar.",
+      "Reparação: Reoperação após 6 meses com remoção ou afrouxamento da sutura central, reposicionamento da cartilagem, e eventual sutura adicional dos polos."
     ],
     "images": [],
     "citations": [
-      "Documento RAG — otoplastia"
+      "Grabb & Smith, 2024, cap. 57",
+      "Neligan Core Procedures, 2020, cap. 5"
     ],
     "updates": [],
     "tags": [
       "complicacoes",
       "hipercorreccao",
-      "telephone-ear-deformity",
-      "sutura",
-      "simetria"
+      "telephone-ear",
+      "sutura-mustarde",
+      "otoplastia-revisao"
     ]
   },
   {
-    "id": "oto-nota-015",
+    "id": "oto-nota-014",
     "type": "note",
     "title": "Assimetria",
     "topic": "otoplastia",
     "area": "estetica-facial",
     "section": "complicacoes",
     "content": [
-      "A assimetria é a causa mais comum de revisão na série de Belfast, com incidência de 2,3% de 2333 orelhas.",
-      "A prevenção deve ser realizada através de avaliação bilateral simultânea com o paciente sentado durante o ajuste das suturas.",
-      "O diagnóstico é estabelecido pela identificação de diferença visível de projeção ou forma entre as orelhas no pós-operatório.",
-      "O manejo recomendado é a realização de revisão após 6 meses."
+      "Incidência: Causa mais comum de revisão na série de Belfast com taxa de 2,3% de 2333 orelhas operadas.",
+      "Prevenção: Realizar avaliação bilateral simultânea com paciente sentado durante o ajuste das suturas para minimizar assimetrias.",
+      "Diagnóstico: Diferença visível de projeção ou forma entre as orelhas no pós-operatório.",
+      "Manejo: Revisão cirúrgica recomendada após 6 meses do procedimento inicial."
     ],
     "images": [],
     "citations": [
@@ -425,7 +404,39 @@
       "complicacoes",
       "assimetria",
       "revisao",
-      "pos-operatorio"
+      "otoplastia-estetica"
+    ]
+  },
+  {
+    "id": "oto-nota-015",
+    "type": "note",
+    "title": "Estenose do Meato Acústico Externo",
+    "topic": "otoplastia",
+    "area": "estetica-facial",
+    "section": "complicações",
+    "content": [
+      "Incidência menor que 1% nas otoplastias.",
+      "Etiologia multifatorial: (1) suturas de Furnas vetoradas medialmente em vez de posteriormente, comprimindo o MAE contra a base do canal auditivo; (2) ressecção conchal excessiva ou mal posicionada, reduzindo suporte estrutural do canal; (3) cicatrização fibrosa pós-operatória que constringe o meato.",
+      "Apresentação clínica caracterizada por oclusão auditiva progressiva, sensação de ouvido cheio ou otite externa recorrente por retenção de cerúmen. Diagnóstico confirmado por otoscopia com visualização da estenose ou tomografia.",
+      "Prevenção inclui: vetor sempre posterior nas suturas de Furnas, cuidado máximo com altura da ressecção conchal (nunca superior a 3 mm), e dissecção não-traumática. A zona de risco crítica situa-se a menos de 15 mm superior ao lóbulo.",
+      "Manejo envolve abordagem por via endoscópica ou aberta para divisão do tecido cicatricial, podendo necessitar enxerto de pele de espessura total ou stent de silicone para manter permeabilidade. Complicação potencialmente irreversível."
+    ],
+    "images": [],
+    "citations": [
+      "Grabb & Smith, 2024, cap. 57"
+    ],
+    "updates": [],
+    "tags": [
+      "complicacoes",
+      "estenose",
+      "meato-acustico-externo",
+      "suturas-furnas",
+      "resseccao-conchal",
+      "cicatrizacao",
+      "otoscopia",
+      "tomografia",
+      "enxerto-pele",
+      "stent-silicone"
     ]
   },
   {
@@ -449,7 +460,8 @@
     "tags": [
       "complicacoes",
       "otoplastia",
-      "cirurgia-estetica",
+      "estetica",
+      "cirurgia-facial",
       "visao-geral"
     ]
   },
@@ -475,8 +487,39 @@
       "recidiva",
       "assimetria",
       "hipercorrecao",
-      "procedimentos-secundarios",
-      "reabordagem-cirurgica"
+      "reabordagem-cirurgica",
+      "procedimentos-secundarios"
+    ]
+  },
+  {
+    "id": "oto-nota-018",
+    "type": "note",
+    "title": "Classificação de reoperações por causa e técnica de reparação",
+    "topic": "otoplastia",
+    "area": "estetica-facial",
+    "section": "revisão",
+    "content": [
+      "Série prospectiva de Belfast com 2333 orelhas e taxa de reoperação de 5,1% delineia as principais causas de insucesso: assimetria (2,3%, a mais comum — frequentemente envolvendo a orelha contralateral tratada inadequadamente), recidiva (1,8%, afrouxamento de suturas), e extrusão de sutura (1%).",
+      "Para assimetria, a abordagem bilateral é preferida — em vez de regressar a orelha mais proeminente, avança-se a contralateral para nível médio, evitando sobrecorreção bilateral.",
+      "Para recidiva simples, a reabordagem posterior permite remoção de fibrose antiga, nova ressecção de cartilagem (Mustarde associada a escarificação de Stenstrom), e resutura com posicionamento melhorado.",
+      "Para assimetria com componentes mistos (anti-hélice de um lado, concha de outro), análise sistemática em terços e técnica seletiva (Mustarde em um lado, Furnas em outro) resultam em taxa de satisfação superior a 90%."
+    ],
+    "images": [],
+    "citations": [
+      "McGarry et al., 2023",
+      "Grabb & Smith, 2024, cap. 57"
+    ],
+    "updates": [],
+    "tags": [
+      "revisao",
+      "reoperacao",
+      "otoplastia",
+      "assimetria",
+      "recidiva",
+      "tecnica-reparacao",
+      "mustarde",
+      "furnas",
+      "estetica-facial"
     ]
   }
 ]

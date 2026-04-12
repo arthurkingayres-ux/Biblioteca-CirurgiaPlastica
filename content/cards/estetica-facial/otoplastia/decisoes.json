@@ -2,101 +2,6 @@
   {
     "id": "oto-dec-001",
     "type": "decision",
-    "title": "Tratamento da Orelha em Abano",
-    "topic": "otoplastia",
-    "area": "estética-facial",
-    "trigger": "Paciente com orelha em abano (ângulo cefaloauricular > 35 graus e/ou projeção helice-mastoide acima dos valores normais) avaliado para correção.",
-    "steps": [
-      {
-        "question": "Qual a idade do paciente?",
-        "options": [
-          {
-            "answer": "Neonato (< 6 semanas de vida)",
-            "next": "Moldagem neonatal (EarWell, Auri). Taxa de sucesso > 90%. Iniciar o mais precocemente possível para aproveitar maleabilidade da cartilagem sob efeito do estrogenio materno."
-          },
-          {
-            "answer": "Lactente (6 semanas - 5 anos)",
-            "next": "Acompanhamento clinico. Janela de moldagem perdida. Aguardar ate 5-6 anos para indicação cirúrgica (pavilhão atinge ~85% do tamanho adulto)."
-          },
-          {
-            "answer": "Crianca >= 5-6 anos ou adulto",
-            "next": "Avaliar causa anatômica da prominencia para escolha da técnica cirúrgica."
-          }
-        ]
-      },
-      {
-        "question": "Qual a causa anatômica predominante da orelha em abano?",
-        "options": [
-          {
-            "answer": "Anti-helice hipoplasica ou ausente (~60% dos casos)",
-            "next": "Técnica de Mustarde (suturas horizontais de colchoeiro na cartilagem posterior para criar anti-helice). Indicada especialmente em criancas com cartilagem maleavel."
-          },
-          {
-            "answer": "Concha hiperdesenvolvida / profunda (~20% dos casos)",
-            "next": "Técnica de Furnas (sutura concha-mastoide). Cuidado para nao distorcer o MAE (Meato Acústico Externo). Considerar ressecção conchal se concha muito profunda."
-          },
-          {
-            "answer": "Combinacao: anti-helice + concha (~20% dos casos)",
-            "next": "Técnica combinada (Mustarde + Furnas). Abordagem mais frequente na pratica (78% na serie de Belfast, 2333 orelhas)."
-          }
-        ]
-      },
-      {
-        "question": "Ha preocupacao com extrusao de sutura? (paciente com pele fina pos-auricular ou historico de extrusao)",
-        "options": [
-          {
-            "answer": "Sim - risco elevado de extrusao",
-            "next": "Associar retalho dermofáscial pos-auricular (Bulstrode, 0% extrusao em 340 orelhas) ou enxerto de tecido mole livre (Alzayadneh, 0% em 58 orelhas) para cobrir nos das suturas."
-          },
-          {
-            "answer": "Nao - risco habitual",
-            "next": "Técnica padrao sem cobertura adicional. Taxa de extrusao esperada: 1-6%."
-          }
-        ]
-      },
-      {
-        "question": "Cartilagem e rigida (adulto, cartilagem espessa)?",
-        "options": [
-          {
-            "answer": "Sim - cartilagem rigida",
-            "next": "Considerar escarificação anterior (Stenstrom - Princípio de Gibson) associada as suturas para facilitar moldagem da anti-helice."
-          },
-          {
-            "answer": "Nao - cartilagem maleavel (crianca ou adulto jovem)",
-            "next": "Suturas isoladas (Mustarde) sao suficientes. Considerar abordagem cartilage-sparing (Benkler) para deformidades leves-moderadas."
-          }
-        ]
-      }
-    ],
-    "citations": [
-      "Neligan, 2023, vol. 3, cap. 28",
-      "Grabb & Smith, 2020, cap. 36",
-      "McGarry KM et al. Plast Reconstr Surg 2023;151(3):388e-397e"
-    ],
-    "images": [
-      {
-        "file": "oto-dec-algoritmo-otoplastia.jpg",
-        "caption": "Algoritmo de decisão para orelha em abano: causa anatômica (anti-hélice vs concha vs combinada), idade do paciente e escolha técnica",
-        "credit": "Neligan's Plastic Surgery 5ª Ed., 2023, vol. 3, cap. 28"
-      },
-      {
-        "file": "oto-anat-pavilhao-protrusao.jpg",
-        "caption": "Medidas da protrusão auricular: ângulo cefaloauricular (normal 25–35°) e projeção hélice-mastoide (superior 10–12 mm, médio 16–18 mm, inferior 20–22 mm)",
-        "credit": "Neligan's Plastic Surgery 5ª Ed., 2023, vol. 3, cap. 28"
-      }
-    ],
-    "updates": [],
-    "tags": [
-      "decisão",
-      "orelha-em-abano",
-      "indicação",
-      "técnica",
-      "otoplastia"
-    ]
-  },
-  {
-    "id": "oto-dec-002",
-    "type": "decision",
     "title": "Algoritmo de Decisão — Tratamento da Orelha em Abano",
     "topic": "otoplastia",
     "area": "estetica-facial",
@@ -106,58 +11,58 @@
         "question": "O paciente apresenta ângulo cefaloauricular > 35 graus e/ou projeção hélice-mastoide aumentada?",
         "options": [
           {
-            "answer": "Sim, diagnóstico confirmado",
-            "next": "Prosseguir para avaliação de candidatura cirúrgica"
+            "answer": "Sim, confirmado diagnóstico de orelha em abano",
+            "next": "Avançar para avaliação de candidatura cirúrgica"
           },
           {
             "answer": "Não, valores normais",
-            "next": "Descartar orelha em abano; considerar outras deformidades auriculares"
+            "next": "Descartar indicação de otoplastia; avaliar satisfação estética do paciente"
           }
         ]
       },
       {
-        "question": "Paciente é candidato para otoplastia (idade ≥ 5 anos, expectativas realistas, sem contraindicações)?",
+        "question": "Paciente é candidato cirúrgico (idade > 5-6 anos, sem contraindicações médicas)?",
         "options": [
           {
-            "answer": "Sim, candidato adequado",
-            "next": "Indicar otoplastia corretiva; planejar técnica cirúrgica"
+            "answer": "Sim, candidato apto",
+            "next": "Proceder com planejamento e técnica cirúrgica apropriada"
           },
           {
             "answer": "Não, contraindicações presentes",
-            "next": "Adiar procedimento ou oferecer alternativas (prótese auricular, camuflagem)"
+            "next": "Aguardar maturação ou resolução de comorbidades; acompanhamento clínico"
           }
         ]
       },
       {
-        "question": "Qual é a principal causa anatômica da deformidade?",
+        "question": "Qual é o componente anatômico predominante da deformidade?",
         "options": [
           {
-            "answer": "Excessiva cartilagem concha ou protrusão",
-            "next": "Indicar técnica de conchectomia ou plicatura concha"
+            "answer": "Excesso de concha (cartilagem conchal proeminente)",
+            "next": "Indicar técnica de redução/ressecção conchal"
           },
           {
-            "answer": "Deficiência ou hipoplasia do anti-hélix",
-            "next": "Indicar técnica de reconstrução/plicatura anti-hélix"
+            "answer": "Deficiência do anti-hélix (anti-hélix inadequado)",
+            "next": "Indicar técnica de recriação/reforço do anti-hélix"
           },
           {
-            "answer": "Combinação de fatores",
-            "next": "Indicar abordagem combinada (conchectomia + anti-hélix plicatura)"
+            "answer": "Combinada (concha + anti-hélix)",
+            "next": "Indicar técnica combinada (ressecção conchal + anti-hélix)"
           }
         ]
       }
     ],
     "citations": [
-      "Neligan PC. Plastic Surgery. 4th ed. 2023, vol. 3, cap. 28",
-      "Grabb WC, Smith JW. Plastic Surgery. 6th ed. 2020, cap. 36",
-      "McGarry KM et al. Otoplasty: A Comprehensive Review. Plast Reconstr Surg. 2023;151(3):388e-397e"
+      "Neligan, 2023, vol. 3, cap. 28",
+      "Grabb & Smith, 2024, cap. 57",
+      "McGarry KM et al. Plast Reconstr Surg 2023;151(3):388e-397e"
     ],
     "updates": [],
     "tags": [
       "decisao",
       "otoplastia",
-      "estetica-facial",
       "orelha-em-abano",
-      "algoritmo-cirurgico"
+      "cirurgia-estetica-facial",
+      "algoritmo-clinico"
     ]
   }
 ]

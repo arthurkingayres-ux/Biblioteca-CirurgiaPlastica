@@ -1,1 +1,71 @@
-[]
+[
+  {
+    "id": "lipo-dec-001",
+    "type": "decision",
+    "title": "Classificação de Paciente para Contorno Corporal (Frojo/Kenkel)",
+    "topic": "lipoaspiracao",
+    "area": "contorno-corporal",
+    "trigger": "Avaliação de candidato para procedimento de contorno corporal com lipoaspiração",
+    "steps": [
+      {
+        "question": "Qual é a qualidade da pele e a distribuição do depósito adiposo?",
+        "options": [
+          {
+            "answer": "Depósitos focais com pele de boa qualidade e IMC adequado",
+            "next": "Tipo I - Lipodistrofia Localizada: indicar lipoaspiração isolada"
+          },
+          {
+            "answer": "Acúmulo difuso com IMC limítrofe/elevado e elasticidade preservada",
+            "next": "Tipo II - Lipodistrofia Generalizada: avaliar lipoaspiração ampla"
+          },
+          {
+            "answer": "Flacidez cutânea predominante com ou sem lipodistrofia",
+            "next": "Tipo III - Redundância Cutânea: avaliar necessidade de procedimentos excisionais"
+          }
+        ]
+      },
+      {
+        "question": "Tipo II confirmado: qual estratégia cirúrgica é apropriada?",
+        "options": [
+          {
+            "answer": "Paciente com bom perfil clínico e expectativas ajustadas",
+            "next": "Lipoaspiração ampla em tempo único com monitoramento rigoroso"
+          },
+          {
+            "answer": "Paciente com comorbidades ou maior volume adiposo",
+            "next": "Lipoaspiração ampla estagiada com intervalo entre fases"
+          }
+        ]
+      },
+      {
+        "question": "Tipo III confirmado: qual tipo de procedimento excisional está indicado?",
+        "options": [
+          {
+            "answer": "Redundância em parede abdominal",
+            "next": "Indicar abdominoplastia isolada ou combinada com lipoaspiração limitada"
+          },
+          {
+            "answer": "Redundância em coxa ou braço",
+            "next": "Indicar lifting de coxa ou braquioplastia isolada ou combinada"
+          },
+          {
+            "answer": "Redundância em múltiplas áreas",
+            "next": "Indicar procedimentos excisionais combinados (dermolipectomias múltiplas)"
+          }
+        ]
+      }
+    ],
+    "citations": [
+      "Neligan, 2023, vol.2, cap.24",
+      "Grabb & Smith, 2024, cap.75"
+    ],
+    "updates": [],
+    "tags": [
+      "decisao",
+      "lipoaspiracao",
+      "contorno-corporal",
+      "classificacao-paciente",
+      "cirurgia-plastica"
+    ]
+  }
+]

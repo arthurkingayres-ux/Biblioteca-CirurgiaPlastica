@@ -3,11 +3,14 @@
   "area": "estetica-facial",
   "displayName": "Otoplastia",
   "version": "v1.0",
-  "date": "2026-04-09",
-  "status": "draft",
+  "date": "2026-04-12",
+  "status": "complete",
   "references": [
-    "Neligan PC (Ed.). Plastic Surgery, 5ª Ed. Elsevier, 2023. Vol. 3, Cap. 28.",
-    "Grotting JC, Rubin JP. Grabb & Smith's Plastic Surgery, 8ª Ed. Wolters Kluwer, 2020. Cap. 36."
+    "Neligan PC (Ed.). Plastic Surgery, 5ª Ed. Elsevier, 2023. Vol. 3, Cap. 28: Otoplasty.",
+    "Neligan PC (Ed.). Plastic Surgery, 5ª Ed. Elsevier, 2023. Vol. 2, Cap. 23: Otoplasty and Ear Reduction.",
+    "Boustany AN, Lin SJ. Grabb & Smith's Plastic Surgery, 9ª Ed. Wolters Kluwer, 2024. Cap. 57: Technical Refinement in Treating Prominent Ears.",
+    "Thorne CH, Neligan PC (Ed.). Neligan Core Procedures in Plastic Surgery, 2ª Ed. Elsevier, 2020. Cap. 5: Otoplasty for Prominent Ears.",
+    "Operative Dictations in Plastic and Reconstructive Surgery (modelo de ditado operatório de otoplastia)."
   ],
   "articles": [
     "Bulstrode NW et al. Modified Approach to Prevent Suture Extrusion in Otoplasty Using a Postauricular Dermofáscial Flap. Plast Reconstr Surg 2024;154(6):1191e-1199e. DOI: 10.1097/PRS.0000000000011342",
@@ -17,10 +20,10 @@
     "Alzayadneh I et al. Free Soft Tissue Grafts in Otoplasty to Avoid Suture Extrusion. Aesthet Surg J 2022;42(9):NP571-NP575. DOI: 10.1093/asj/sjac079"
   ],
   "cardCounts": {
-    "anatomia": 4,
-    "tecnicas": 11,
-    "decisoes": 2,
-    "notas": 17,
-    "flashcards": 25
+    "anatomia": 2,
+    "tecnicas": 8,
+    "decisoes": 1,
+    "notas": 18,
+    "flashcards": 29
   }
 }

@@ -3,11 +3,14 @@
   "area": "contorno-corporal",
   "displayName": "Lipoaspiração",
   "version": "v1.0",
-  "date": "2026-04-09",
-  "status": "draft",
+  "date": "2026-04-12",
+  "status": "complete",
   "references": [
-    "Rohrich RJ. Liposuction. In: Neligan PC, editor. Plastic Surgery. 5th ed. Philadelphia: Elsevier; 2023. Cap. 24.",
-    "Rohrich RJ, Beran SJ. Liposuction. In: Chung KC, editor. Grabb & Smith's Plastic Surgery. 8th ed. Philadelphia: Wolters Kluwer; 2020.",
+    "Rohrich RJ. Liposuction. In: Neligan PC, editor. Plastic Surgery. 5th ed. Philadelphia: Elsevier; 2023. Vol. 2, Cap. 24.",
+    "Rohrich RJ, Beran SJ. Body Contouring/Liposuction. In: Chung KC, editor. Grabb & Smith's Plastic Surgery. 9th ed. Philadelphia: Wolters Kluwer; 2024. Cap. 75.",
+    "Neligan PC. Core Procedures in Plastic Surgery. 2nd ed. Philadelphia: Elsevier; 2020. Cap. 8 (Liposuction).",
+    "Hoyos AE, Millard JA. High Definition Body Sculpting: Art and Advanced Lipoplasty Techniques. Berlin: Springer; 2014.",
+    "Atallah S, Saba AA. Operative Dictations in Plastic and Reconstructive Surgery. Cap. 17 (Liposuction).",
     "Coleman SR. Structural fat grafting: more than a permanent filler. Plast Reconstr Surg. 2006;118(3S):108S-120S."
   ],
   "articles": [
@@ -32,10 +35,10 @@
     "ISAPS International Survey on Aesthetic/Cosmetic Procedures Performed in 2022. ISAPS, 2023."
   ],
   "cardCounts": {
-    "anatomia": 2,
-    "tecnicas": 7,
-    "decisoes": 0,
-    "notas": 17,
-    "flashcards": 20
+    "anatomia": 4,
+    "tecnicas": 9,
+    "decisoes": 1,
+    "notas": 22,
+    "flashcards": 16
   }
 }

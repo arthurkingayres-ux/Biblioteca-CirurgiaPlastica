@@ -389,7 +389,7 @@ function loadValidator() {
   const schema = JSON.parse(fs.readFileSync(schemaPath, 'utf8'));
   // Remove $schema key that ajv doesn't support natively for draft 2020-12
   delete schema.$schema;
-  const ajv = new Ajv({ allErrors: true, strict: false });
+  const ajv = new Ajv({ allErrors: true, strict: false, removeAdditional: true });
   addFormats(ajv);
 
   // Register the root schema so $ref to #/$defs/update resolves
@@ -406,10 +406,36 @@ function loadValidator() {
 
 // --- Merge Logic ---
 
+function normalizeStructuredFields(card) {
+  if (Array.isArray(card.images)) {
+    card.images = card.images.filter(i => i && typeof i === 'object' && typeof i.file === 'string');
+  }
+  if (Array.isArray(card.updates)) {
+    card.updates = card.updates.filter(u => u && typeof u === 'object' && u.color && u.content && u.citation);
+  }
+}
+
+function normalizeTitle(t) {
+  return (t || '').toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/\s+/g, ' ').trim();
+}
+
 function mergeCards(existing, generated) {
   const byId = new Map();
-  for (const card of existing) byId.set(card.id, card);
-  for (const card of generated) byId.set(card.id, card); // new cards overwrite
+  const byTitle = new Map();
+  for (const card of existing) {
+    byId.set(card.id, card);
+    if (card.title) byTitle.set(normalizeTitle(card.title), card.id);
+  }
+  for (const card of generated) {
+    const key = card.title ? normalizeTitle(card.title) : null;
+    const existingIdForTitle = key ? byTitle.get(key) : null;
+    if (existingIdForTitle && existingIdForTitle !== card.id) {
+      // Title already exists under a different ID — preserve the original ID to avoid duplicates.
+      card.id = existingIdForTitle;
+    }
+    byId.set(card.id, card);
+    if (key) byTitle.set(key, card.id);
+  }
   return [...byId.values()];
 }
 
@@ -448,7 +474,7 @@ async function processTopic(client, validators, topic, area, dryRun) {
   console.log(`Tema: ${topic} | Área: ${area} | Prefixo: ${prefix}`);
   console.log(`${'='.repeat(60)}\n`);
 
-  const markdown = fs.readFileSync(ragPath, 'utf8');
+  const markdown = fs.readFileSync(ragPath, 'utf8').replace(/\r\n/g, '\n');
   const sections = parseRAG(markdown);
   const mapped = classifySections(sections);
 
@@ -475,6 +501,7 @@ async function processTopic(client, validators, topic, area, dryRun) {
     try {
       const prompt = buildAnatomyPrompt(item.title, item.content, topic, area, prefix, anatomyId);
       const card = await callLLM(client, prompt);
+      normalizeStructuredFields(card);
       if (validators.anatomy(card)) {
         results.anatomia.push(card);
         stats.generated++;
@@ -520,6 +547,7 @@ async function processTopic(client, validators, topic, area, dryRun) {
     try {
       const prompt = buildTechniquePrompt(item.title, item.content, topic, area, prefix, techId);
       const card = await callLLM(client, prompt);
+      normalizeStructuredFields(card);
       if (validators.technique(card)) {
         results.tecnicas.push(card);
         stats.generated++;
@@ -531,6 +559,9 @@ async function processTopic(client, validators, topic, area, dryRun) {
         card.pearls = card.pearls || [];
         card.images = card.images || [];
         card.updates = card.updates || [];
+        if (!Array.isArray(card.steps) || card.steps.length === 0) {
+          card.steps = [`Consultar seção "${item.title}" do documento RAG para detalhes.`];
+        }
         if (validators.technique(card)) {
           results.tecnicas.push(card);
           stats.generated++;
@@ -566,6 +597,7 @@ async function processTopic(client, validators, topic, area, dryRun) {
     try {
       const prompt = buildDecisionPrompt(item.title, item.content, topic, area, prefix, decId);
       const card = await callLLM(client, prompt);
+      normalizeStructuredFields(card);
       if (validators.decision(card)) {
         results.decisoes.push(card);
         stats.generated++;
@@ -609,6 +641,7 @@ async function processTopic(client, validators, topic, area, dryRun) {
     try {
       const prompt = buildNotePrompt(item.title, item.content, topic, area, prefix, noteId, item.section || 'geral');
       const card = await callLLM(client, prompt);
+      normalizeStructuredFields(card);
       // Salvage common LLM omissions before validation
       card.images = card.images || [];
       card.updates = card.updates || [];
@@ -648,6 +681,7 @@ async function processTopic(client, validators, topic, area, dryRun) {
     try {
       const prompt = buildFlashcardPrompt(mapped.flashcard[0].content, topic, area, prefix, fcId);
       const card = await callLLM(client, prompt);
+      normalizeStructuredFields(card);
       if (validators.flashcard(card)) {
         results.flashcards = card;
         stats.generated++;
@@ -686,13 +720,18 @@ async function processTopic(client, validators, topic, area, dryRun) {
     }
 
     // --- _meta.json ---
+    const manifestPath = path.join(ROOT, 'content', 'cards', 'manifest.json');
+    const manifest = fs.existsSync(manifestPath) ? JSON.parse(fs.readFileSync(manifestPath, 'utf8')) : [];
+    const entry = manifest.find(m => m.area === area && m.topic === topic);
+    const displayName = (entry && entry.displayName) || (topic.charAt(0).toUpperCase() + topic.slice(1).replace(/-/g, ' '));
+    const status = (entry && entry.status) || 'draft';
     const meta = {
       topic,
       area,
-      displayName: topic.charAt(0).toUpperCase() + topic.slice(1).replace(/-/g, ' '),
+      displayName,
       version: 'v1.0',
       date: new Date().toISOString().split('T')[0],
-      status: 'draft',
+      status,
       references: extractReferences(markdown),
       articles: extractArticles(markdown),
       cardCounts: {
