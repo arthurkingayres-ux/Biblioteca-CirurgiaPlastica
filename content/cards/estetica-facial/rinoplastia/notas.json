@@ -446,5 +446,648 @@
       "seguimento",
       "triancinolona"
     ]
+  },
+  {
+    "id": "rino-nota-011",
+    "type": "note",
+    "title": "Synopsis",
+    "topic": "rinoplastia",
+    "area": "estetica-facial",
+    "section": "synopsis",
+    "content": [
+      "A rinoplastia é o procedimento mais tecnicamente exigente da cirurgia plástica estética, exigindo domínio simultâneo de anatomia 3D, análise estética, fisiologia das vias aéreas e compreensão das consequências cicatriciais.",
+      "Evolução filosófica: afastamento das técnicas ablativas (redução excessiva) em direção à preservação da anatomia nativa, uso de enxertos cartilaginosos e técnicas de sutura.",
+      "Preservação dorsal vs. redução por componentes: debate ativo. Gibas pequenas a moderadas com anatomia favorável são candidatas à preservação. Abordagem híbrida ganha espaço.",
+      "Eletrocauterização para remodelamento das cristas laterais do septo na preservação dorsal: recorrência de giba 2,5% vs. 13,6% com bisturi — dado robusto de mudança de prática.",
+      "Hierarquia de enxertos: septo primeiro, sempre. Costela homóloga fresca é alternativa segura quando septo insuficiente.",
+      "Osteotomias laterais diminuem a valva nasal interna — spreader grafts complementares devem ser considerados sistematicamente.",
+      "A função respiratória é o parâmetro objetivável fundamental do resultado — não apenas a estética.",
+      "Ácido tranexâmico tópico: evidência de nível I (meta-análise de 7 ensaios clínicos randomizados) suporta uso para reduzir sangramento, edema e equimose na septorrinoplastia.",
+      "Intervenção precoce na fissura (enxerto septal na queiloplastia; tip plasty entre 3–5 anos na fissura bilateral) tem evidência crescente para melhora de resultados a longo prazo."
+    ],
+    "images": [],
+    "citations": [
+      "Sergesketter et al.",
+      "Sibar et al.",
+      "Rohrich et al.",
+      "Taylor & Barrera",
+      "John Mulliken",
+      "Di Martino et al.",
+      "Ueno et al.",
+      "Mohan et al."
+    ],
+    "updates": [],
+    "tags": [
+      "synopsis",
+      "rinoplastia",
+      "estetica-facial",
+      "preservacao-dorsal",
+      "enxertos-cartilaginosos",
+      "osteotomias",
+      "funcao-respiratoria",
+      "acido-tranexamico",
+      "fissura-labio-palatina"
+    ]
+  },
+  {
+    "id": "rino-nota-012",
+    "type": "note",
+    "title": "Introdução",
+    "topic": "rinoplastia",
+    "area": "estetica-facial",
+    "section": "introducao",
+    "content": [
+      "A rinoplastia é considerada o procedimento mais tecnicamente exigente da cirurgia plástica estética. Requer domínio simultâneo de anatomia tridimensional complexa, análise estética subjetiva, fisiologia das vias aéreas e compreensão das consequências cicatriciais a curto e longo prazo.",
+      "Pode ser realizada por via aberta (transcolumelar) ou fechada (endonasal), cada abordagem com indicações, vantagens e limitações específicas.",
+      "A evolução da rinoplastia ao longo das últimas três décadas afastou-se das técnicas ablativas com redução excessiva do arcabouço ósseocartilaginoso, em direção à preservação da anatomia nativa, uso de enxertos cartilaginosos e técnicas de sutura para correção de deformidades.",
+      "A rinoplastia funcional, frequentemente combinada com septoplastia, aborda dificuldade respiratória, desvios septais e outras anormalidades estruturais. A manutenção ou melhora da respiração é uma medida fundamental do sucesso cirúrgico — como afirmou John Mulliken, analogamente a 'speech is the measure of success for a pediatric cleft surgeon', a respiração é a medida para o cirurgião de rinoplastia."
+    ],
+    "images": [],
+    "citations": [
+      "Neligan, 2023, vol. 2, caps. 18–19",
+      "Grabb & Smith, 2024, cap. 54",
+      "Core Procedures, 2020, cap. 4"
+    ],
+    "updates": [],
+    "tags": [
+      "introducao",
+      "rinoplastia",
+      "cirurgia-plastica",
+      "via-aberta",
+      "via-fechada",
+      "rinoplastia-funcional",
+      "septoplastia",
+      "anatomia-nasal",
+      "tecnicas-cirurgicas",
+      "enxertos-cartilaginosos"
+    ]
+  },
+  {
+    "id": "rino-nota-013",
+    "type": "note",
+    "title": "Physiology / Pathophysiology",
+    "topic": "rinoplastia",
+    "area": "estetica-facial",
+    "section": "fisiopatologia",
+    "content": [
+      "O nariz tem sete funções básicas: respiração, regulação térmica, umidificação, filtração de partículas, olfação, fonação e órgão sexual secundário.",
+      "A resistência nasal corresponde a cerca de metade da resistência total de toda a árvore respiratória.",
+      "Lei de Poiseuille: fluxo ∝ ΔP × r⁴ / comprimento — mudanças mínimas no calibre da valva interna causam efeitos exponenciais no fluxo.",
+      "Número de Reynolds: Re = ρvL/μ. Re < 2.300 indica fluxo laminar; 2.300–4.000 indica transição; > 4.000 indica turbulência. Fluxo turbulento gera maior resistência e sensação de obstrução.",
+      "Valva nasal interna: segmento mais estreito, aproximadamente 50% da resistência total. Ângulo septo-CLS de 10–15°. Manobra de Cottle: tração lateral abre a valva; alívio sugere incompetência.",
+      "Valva nasal externa: formada por CLA, tecidos alares, septo membranoso, soleira. Colapso por CLA fracas, malposição cefálica, paralisia facial pode causar até 20% de aumento de resistência.",
+      "Ciclo nasal (de Minz): tumefação e contração alternada da mucosa em ciclos de 30 minutos a 5 horas, mantendo resistência total constante.",
+      "Corneto inferior: até 2/3 da resistência total. Sinusoides cavernosos sob controle autonômico (simpático: vasos de resistência; parassimpático: vasos de capacitância).",
+      "Ângulo nasofrontal: 115–135° (formado pelo glabela–radix–ponta). Se mais anterior/superior, nariz parece mais longo; se posterior/inferior, mais curto.",
+      "Ângulo nasolabial: 95–100° em mulheres, 90–95° em homens.",
+      "Ângulo columelar-labial: influenciado por septo caudal proeminente.",
+      "Ângulo columelar-lobular: 30–45° em mulheres.",
+      "Ângulo da valva nasal interna: 10–15° (septo–CLS).",
+      "Projeção da ponta (Goode): 0,55–0,60 × comprimento nasal.",
+      "Projeção da ponta (Crumley): 0,67 × comprimento nasal (radix–ponta).",
+      "Projeção lateral (Simons): 50–60% anterior à linha vertical do lábio.",
+      "Profundidade do radix: aproximadamente 15 mm (nasion–canto medial).",
+      "Largura basal ideal: aproximadamente distância intercantal igual a 1 largura de olho.",
+      "Supratip break em mulheres: 2–3 mm atrás da linha radix–ponta.",
+      "Show columelar lateral: 1–2 mm abaixo do eixo longo da narina.",
+      "Lóbulo infraponta (vista basal): 1/3 da distância base alar–ponta.",
+      "Flare alar normal: 2 mm.",
+      "A projeção nasal normal situa-se entre 50% e 60% da ponta anterior à linha vertical do canto medial; valores maiores que 60% caracterizam sobreprojeção e valores menores que 50% caracterizam subprojeção.",
+      "A largura da base alar ideal é de aproximadamente 80% da largura alar nasal, servindo como referência para decisões de ressecção de base alar."
+    ],
+    "images": [],
+    "citations": [
+      "Neligan, 2023, vol. 2, caps. 18 e 21",
+      "Grabb & Smith, 2024, cap. 54",
+      "Neligan, 2023, vol. 2, cap. 18"
+    ],
+    "updates": [],
+    "tags": [
+      "fisiopatologia",
+      "respiracao-nasal",
+      "resistencia-nasal",
+      "valva-nasal",
+      "angulos-nasais",
+      "projecao-ponta",
+      "medidas-nasais",
+      "lei-poiseuille",
+      "numero-reynolds",
+      "ciclo-nasal"
+    ]
+  },
+  {
+    "id": "rino-nota-015",
+    "type": "note",
+    "title": "Cuidados Pós-operatórios",
+    "topic": "rinoplastia",
+    "area": "estetica-facial",
+    "section": "pós-operatório",
+    "content": [
+      "Curativos: Steri-Strips do supratip ao dorso com splint dorsal Denver. Splints de Doyle indicados se septoplastia realizada. Remoção de curativos externos no 7º dia. Suturas de base alar removidas entre 7–10 dias.",
+      "Medicações: cefalosporinas IV profiláticas (dose única pré-operatória; sem antibiótico pós-operatório — sem diferença em taxa de infecção). Dexametasona 8 mg IV intraoperatória com possível complemento de Medrol Dosepak por 6 dias. Analgesia narcótica oral por poucos dias associada a laxantes.",
+      "Atividade: manter cabeça elevada > 30° nas primeiras 48 horas; aplicar compressas frias; nenhum esforço ou exercício por 3 semanas; evitar trauma e pressão (incluindo uso de óculos) por 4 semanas.",
+      "Seguimento clínico: retornos programados em 1 semana, 1 mês, 3 meses, 6 meses, 1 ano, e posteriormente anualmente.",
+      "Edema e equimose: maioria resolve em 3–4 semanas. Edema sutil persiste por aproximadamente 12 meses (maior duração em pele espessa). Definição da ponta e fluxo aéreo continuam melhorando durante esse período.",
+      "Edema tardio persistente na supraponta: aplicar triancinolona 3–5 mg (10 mg/mL diluído 1:1 com lidocaína 2%) utilizando agulha 27G. Evitar injeção superficial para prevenir atrofia dérmica e hipopigmentação. Pode ser repetida a cada 4–8 semanas.",
+      "Nariz desviado: avaliação pela linha média intercantal (não inter-sobrancelhas). Via aberta é preferida. Correção requer septoplastia associada a osteotomias e manejo de cânula de luz lateral (CLS/CLA).",
+      "Restrições pós-operatórias padronizadas: splint externo mantido por 5–7 dias; packing interno (quando empregado) retirado em 3–4 dias; elevação cefálica a 30° na primeira semana. Paciente orientado a evitar manipulação nasal ('nasal toilet') por 2 semanas, manter fala mínima e dieta mole nas primeiras 72 horas, e suspender escovação dental vigorosa por 1 semana — medidas destinadas a reduzir trauma mecânico sobre o arcabouço recém-remodelado."
+    ],
+    "images": [],
+    "citations": [
+      "Neligan, 2023, vol. 2, cap. 19",
+      "Operative Dictations, 2017, cap. 1"
+    ],
+    "updates": [],
+    "tags": [
+      "pos-operatorio",
+      "rinoplastia",
+      "curativos",
+      "medicacoes",
+      "edema",
+      "equimose",
+      "atividade-fisica",
+      "seguimento-clinico",
+      "complicacoes"
+    ]
+  },
+  {
+    "id": "rino-nota-016",
+    "type": "note",
+    "title": "Epistaxe",
+    "topic": "rinoplastia",
+    "area": "estetica-facial",
+    "section": "complicacoes",
+    "content": [
+      "Incidência de epistaxe grave menor que 1%.",
+      "Prevenção através de hemostasia meticulosa e evitar ressecção de corneto posterior.",
+      "Diagnóstico baseado em sangramento nasal persistente pós-operatório.",
+      "Manejo inicial com elevação da cabeça superior a 60 graus, oximetazolina spray e pressão local por 15 minutos. Tamponamento anterior indicado se sangramento persistir.",
+      "Menos de 1% dos casos necessita exploração cirúrgica, sendo a ressecção de corneto geralmente a fonte de sangramento.",
+      "Embolização angiográfica reservada como última opção terapêutica."
+    ],
+    "images": [],
+    "citations": [
+      "Documento RAG — rinoplastia"
+    ],
+    "updates": [],
+    "tags": [
+      "complicacoes",
+      "epistaxe",
+      "hemostasia",
+      "tamponamento",
+      "manejo-pos-operatorio"
+    ]
+  },
+  {
+    "id": "rino-nota-017",
+    "type": "note",
+    "title": "Hematoma (dorso, ponta, septo)",
+    "topic": "rinoplastia",
+    "area": "estetica-facial",
+    "section": "complicacoes",
+    "content": [
+      "Incidência: raro",
+      "Prevenção: hemostasia cuidadosa, compressão adequada",
+      "Diagnóstico: edema localizado tenso, dor desproporcional. Hematoma septal (\"blackberry\") visível à rinoscopia.",
+      "Manejo: TODOS devem ser drenados. Hematoma subdérmico evoluiu para fibrose e deformidade. Hematoma septal pode resultar em perfuração ou necrose com sela pós-operatória.",
+      "O hematoma septal não drenado pode evoluir para fibrose, perfuração septal e, em último caso, necrose cartilaginosa com deformidade em sela — razão pela qual a drenagem precoce é imperativa mesmo diante de coleções pequenas."
+    ],
+    "images": [],
+    "citations": [
+      "Neligan, 2023, vol. 2, cap. 19"
+    ],
+    "updates": [],
+    "tags": [
+      "complicacoes",
+      "hematoma",
+      "hematoma-septal",
+      "drenagem",
+      "fibrose",
+      "deformidade-sela"
+    ]
+  },
+  {
+    "id": "rino-nota-018",
+    "type": "note",
+    "title": "Infecção / Celulite",
+    "topic": "rinoplastia",
+    "area": "estetica-facial",
+    "section": "complicacoes",
+    "content": [
+      "Incidência: rara",
+      "Prevenção: técnica asséptica, antibioticoprofilaxia pré-operatória",
+      "Diagnóstico: eritema, calor, dor, febre",
+      "Manejo: cefalosporinas para celulite leve. MRSA (Methicillin-Resistant Staphylococcus aureus): levofloxacina, SMX-TMP, minociclina. Grave: internação + IV. Abscessos: drenagem + cultura.",
+      "Alerta clínico: embora infecção grave em rinoplastia seja rara, o diagnóstico precoce é crítico, pois quadros negligenciados podem evoluir para necrose tecidual, síndrome do choque tóxico e, em cenário extremo, trombose de seio cavernoso."
+    ],
+    "images": [],
+    "citations": [
+      "Neligan, 2023, vol. 2, cap. 19"
+    ],
+    "updates": [],
+    "tags": [
+      "complicacoes",
+      "infeccao",
+      "celulite",
+      "mrsa",
+      "antibioticos",
+      "manejo-clinico"
+    ]
+  },
+  {
+    "id": "rino-nota-019",
+    "type": "note",
+    "title": "Síndrome do Choque Tóxico",
+    "topic": "rinoplastia",
+    "area": "estetica-facial",
+    "section": "complicações",
+    "content": [
+      "A Síndrome do Choque Tóxico é uma complicação muito rara após rinoplastia.",
+      "Prevenção: minimizar o uso de packing e splints nasais no pós-operatório.",
+      "Diagnóstico: apresentação clínica com febre alta, rash cutâneo e hipotensão em pacientes com packing ou splints nasais em posição.",
+      "Manejo: remoção imediata do packing/splints associada a antibiótico intravenoso (IV) e internação em Unidade de Terapia Intensiva (UTI). Os agentes etiológicos mais comuns são Staphylococcus aureus e Streptococcus pyogenes."
+    ],
+    "images": [],
+    "citations": [
+      "Documento RAG — rinoplastia"
+    ],
+    "updates": [],
+    "tags": [
+      "complicacoes",
+      "sindrome-choque-toxico",
+      "packing-nasal",
+      "staphylococcus-aureus",
+      "streptococcus-pyogenes",
+      "antibiotico-iv",
+      "uti"
+    ]
+  },
+  {
+    "id": "rino-nota-020",
+    "type": "note",
+    "title": "Edema Prolongado / Supratip Fullness",
+    "topic": "rinoplastia",
+    "area": "estetica-facial",
+    "section": "complicacoes",
+    "content": [
+      "A incidência de edema prolongado com supratip fullness é de 5–15% dos casos.",
+      "A prevenção inclui o uso de técnica atraumática e administração de corticoide perioperatório.",
+      "O diagnóstico é estabelecido pela presença de fullness persistente na supraponta após resolução do edema geral.",
+      "O manejo inicial inclui taping, compressas frias e corticoide perioperatório. Para casos que persistem por mais de 6 semanas, recomenda-se aplicação intralesional de triancinolona na dose de 3–5 mg a cada 4–8 semanas."
+    ],
+    "images": [],
+    "citations": [
+      "Documento RAG — rinoplastia"
+    ],
+    "updates": [],
+    "tags": [
+      "complicacoes",
+      "edema-prolongado",
+      "supratip-fullness",
+      "tecnica-atraumatica",
+      "corticoide-perioperatorio",
+      "triancinolona"
+    ]
+  },
+  {
+    "id": "rino-nota-021",
+    "type": "note",
+    "title": "Irregularidade de Dorso",
+    "topic": "rinoplastia",
+    "area": "estetica-facial",
+    "section": "complicacoes",
+    "content": [
+      "Incidência de 5–10% de irregularidade de dorso em rinoplastia.",
+      "Prevenção através de raspa incremental com verificação após cada etapa do procedimento.",
+      "Diagnóstico realizado pela identificação de assimetria ou irregularidade palpável e visível no dorso nasal.",
+      "Manejo clínico com revisão cirúrgica recomendada após período mínimo de 12 meses. Para defeitos menores, pode ser utilizado ácido hialurônico (AH) como alternativa."
+    ],
+    "images": [],
+    "citations": [
+      "Documento RAG — rinoplastia"
+    ],
+    "updates": [],
+    "tags": [
+      "complicacoes",
+      "irregularidade-dorso",
+      "prevencao",
+      "manejo"
+    ]
+  },
+  {
+    "id": "rino-nota-022",
+    "type": "note",
+    "title": "Recorrência de Giba (Preservação Dorsal)",
+    "topic": "rinoplastia",
+    "area": "estetica-facial",
+    "section": "complicacoes",
+    "content": [
+      "A recorrência de giba em técnicas de preservação dorsal apresenta incidência de 2,5–13,6%.",
+      "A prevenção é realizada através de eletrocautério para remodelamento das cristas lacrimal-supraorbitais (CLS), técnica associada a menor taxa de recorrência.",
+      "O diagnóstico é confirmado pelo retorno da proeminência dorsal.",
+      "O manejo desta complicação é realizado através de revisão cirúrgica."
+    ],
+    "images": [],
+    "citations": [
+      "Documento RAG — rinoplastia"
+    ],
+    "updates": [],
+    "tags": [
+      "complicacoes",
+      "recorrencia-giba",
+      "preservacao-dorsal",
+      "eletrocauterio",
+      "revisao-cirurgica"
+    ]
+  },
+  {
+    "id": "rino-nota-023",
+    "type": "note",
+    "title": "Deformidade em V Invertido",
+    "topic": "rinoplastia",
+    "area": "estetica-facial",
+    "section": "complicacoes",
+    "content": [
+      "Incidência variável.",
+      "Prevenção: preservar CLS durante redução septal dorsal, spreader grafts profiláticos.",
+      "Diagnóstico: depressão visível na transição terço médio/superior.",
+      "Manejo: spreader grafts + batten grafts."
+    ],
+    "images": [],
+    "citations": [
+      "Documento RAG — rinoplastia"
+    ],
+    "updates": [],
+    "tags": [
+      "complicacoes",
+      "deformidade-v-invertido",
+      "spreader-grafts",
+      "batten-grafts",
+      "dorso-nasal"
+    ]
+  },
+  {
+    "id": "rino-nota-024",
+    "type": "note",
+    "title": "Pollybeak (Supratip Deformity)",
+    "topic": "rinoplastia",
+    "area": "estetica-facial",
+    "section": "complicacoes",
+    "content": [
+      "Incidência: variável",
+      "Prevenção: redução dorsal adequada, manejo do tecido mole supraponta",
+      "Diagnóstico: fullness ou proeminência na supraponta",
+      "Manejo: depende da causa — subressecção dorsal ou excesso de tecido mole"
+    ],
+    "images": [],
+    "citations": [
+      "Documento RAG — rinoplastia"
+    ],
+    "updates": [],
+    "tags": [
+      "complicacoes",
+      "pollybeak",
+      "supratip-deformity",
+      "rinoplastia-estetica",
+      "dorso-nasal"
+    ]
+  },
+  {
+    "id": "rino-nota-025",
+    "type": "note",
+    "title": "Pinched Tip / Colapso Alar",
+    "topic": "rinoplastia",
+    "area": "estetica-facial",
+    "section": "complicacoes",
+    "content": [
+      "Incidência de 2–5% em casos de rinoplastia.",
+      "Prevenção através da preservação do alar rim strip com medida ≥ 5–6 mm e evitar ressecção excessiva do tecido.",
+      "Diagnóstico caracterizado por estreitamento da ponta nasal ou colapso do rim alar.",
+      "Manejo inclui técnicas cirúrgicas como alar rim graft, lateral crural strut graft (LCSG) e batten graft para restauração da estrutura e suporte."
+    ],
+    "images": [],
+    "citations": [
+      "Documento RAG — rinoplastia"
+    ],
+    "updates": [],
+    "tags": [
+      "complicacoes",
+      "pinched-tip",
+      "colapso-alar",
+      "alar-rim",
+      "prevencao",
+      "manejo-cirurgico"
+    ]
+  },
+  {
+    "id": "rino-nota-026",
+    "type": "note",
+    "title": "Colapso de Valva Interna",
+    "topic": "rinoplastia",
+    "area": "estetica-facial",
+    "section": "complicacoes",
+    "content": [
+      "Incidência de 1–3% em rinoplastias.",
+      "Prevenção através de spreader grafts profiláticos, especialmente após osteotomias.",
+      "Diagnóstico realizado pela presença de obstrução nasal e manobra de Cottle positiva.",
+      "Manejo clínico com spreader grafts ou flaps para correção da valva interna colabada."
+    ],
+    "images": [],
+    "citations": [
+      "Documento RAG — rinoplastia"
+    ],
+    "updates": [],
+    "tags": [
+      "complicacoes",
+      "colapso-valva-interna",
+      "spreader-grafts",
+      "obstrucao-nasal",
+      "manobra-cottle"
+    ]
+  },
+  {
+    "id": "rino-nota-027",
+    "type": "note",
+    "title": "Sela Pós-operatória",
+    "topic": "rinoplastia",
+    "area": "estetica-facial",
+    "section": "complicacoes",
+    "content": [
+      "Incidência menor que 1%.",
+      "Prevenção: preservar L-strut com comprimento mínimo de 10 mm.",
+      "Diagnóstico: depressão dorsal visível.",
+      "Manejo: enxerto de dorso utilizando cartilagem de concha ou costela (DC-F, rib)."
+    ],
+    "images": [],
+    "citations": [
+      "Documento RAG — rinoplastia"
+    ],
+    "updates": [],
+    "tags": [
+      "complicacoes",
+      "sela-pos-operatoria",
+      "enxerto-dorso",
+      "l-strut"
+    ]
+  },
+  {
+    "id": "rino-nota-028",
+    "type": "note",
+    "title": "Desvio Residual",
+    "topic": "rinoplastia",
+    "area": "estetica-facial",
+    "section": "complicacoes",
+    "content": [
+      "Incidência de 3–8% de desvio residual pós-rinoplastia.",
+      "Prevenção mediante correção completa do desvio septal e ósseocartilaginoso durante o procedimento inicial.",
+      "Diagnóstico clínico baseado na persistência de assimetria nasal.",
+      "Manejo conservador com moldagem nasal digital realizada 3–4 vezes ao dia durante 4–6 semanas. Indicar revisão cirúrgica se desvio persistir após 12 meses de seguimento."
+    ],
+    "images": [],
+    "citations": [
+      "Documento RAG — rinoplastia"
+    ],
+    "updates": [],
+    "tags": [
+      "complicacoes",
+      "desvio-residual",
+      "assimetria-nasal",
+      "moldagem-nasal",
+      "revisao-cirurgica"
+    ]
+  },
+  {
+    "id": "rino-nota-029",
+    "type": "note",
+    "title": "Perfuração Septal",
+    "topic": "rinoplastia",
+    "area": "estetica-facial",
+    "section": "complicacoes",
+    "content": [
+      "Incidência: rara",
+      "Prevenção: reparar perfurações mucosas bilaterais opostas intraoperatoriamente",
+      "Diagnóstico: crusting, assobio nasal, epistaxe recorrente",
+      "Manejo: reparar com chromic gut 5-0 (intraoperatório); se pós-operatória, botão septal ou retalho mucoso"
+    ],
+    "images": [],
+    "citations": [
+      "Documento RAG — rinoplastia"
+    ],
+    "updates": [],
+    "tags": [
+      "complicacoes",
+      "perforacao-septal",
+      "prevencao",
+      "diagnostico",
+      "manejo",
+      "chromic-gut"
+    ]
+  },
+  {
+    "id": "rino-nota-030",
+    "type": "note",
+    "title": "Lesão Nasolacrimal",
+    "topic": "rinoplastia",
+    "area": "estetica-facial",
+    "section": "complicacoes",
+    "content": [
+      "Incidência: rara",
+      "Prevenção: evitar osteotomias abaixo do nível do corneto inferior",
+      "Diagnóstico: epífora pós-operatória",
+      "Manejo: dacriocistorrinostomia"
+    ],
+    "images": [],
+    "citations": [
+      "Documento RAG — rinoplastia"
+    ],
+    "updates": [],
+    "tags": [
+      "complicacoes",
+      "lesao_nasolacrimal",
+      "epipora",
+      "dacriocistorrinostomia",
+      "osteotomia"
+    ]
+  },
+  {
+    "id": "rino-nota-031",
+    "type": "note",
+    "title": "Anosmia",
+    "topic": "rinoplastia",
+    "area": "estetica-facial",
+    "section": "complicacoes",
+    "content": [
+      "Incidência: rara, geralmente temporária",
+      "Prevenção: técnica cuidadosa durante septoplastia",
+      "Diagnóstico: perda de olfato pós-operatória",
+      "Manejo: observação (geralmente resolução espontânea)"
+    ],
+    "images": [],
+    "citations": [
+      "Documento RAG — rinoplastia"
+    ],
+    "updates": [],
+    "tags": [
+      "complicacoes",
+      "anosmia",
+      "rinoplastia",
+      "perda-olfato"
+    ]
+  },
+  {
+    "id": "rino-nota-032",
+    "type": "note",
+    "title": "Malposicionamento de Implante",
+    "topic": "rinoplastia",
+    "area": "estetica-facial",
+    "section": "complicacoes",
+    "content": [
+      "Incidência de aproximadamente 4%.",
+      "Prevenção através de bolso subperiosteal preciso e comprimento adequado do implante.",
+      "Diagnóstico baseado em achados de assimetria e mobilidade do implante.",
+      "Manejo através de revisão cirúrgica."
+    ],
+    "images": [],
+    "citations": [
+      "Documento RAG — rinoplastia"
+    ],
+    "updates": [],
+    "tags": [
+      "complicacoes",
+      "malposicionamento",
+      "implante",
+      "revisao-cirurgica"
+    ]
+  },
+  {
+    "id": "rino-nota-034",
+    "type": "note",
+    "title": "Complicações — Visão Geral",
+    "topic": "rinoplastia",
+    "area": "estetica-facial",
+    "section": "complicacoes",
+    "content": [
+      "A taxa global de complicações significativas em rinoplastia — incluindo sangramento, infecção, edema prolongado, deformidades residuais e obstrução — situa-se entre 1,7% e 18% nas séries publicadas.",
+      "Inquéritos entre cirurgiões indicam que 58% relatam taxa pessoal de revisão inferior a 5% e 33% entre 6% e 10%, reforçando que a revisão é evento frequente mesmo em mãos experientes."
+    ],
+    "images": [],
+    "citations": [
+      "Neligan, 2023, vol. 2, caps. 19 e 22",
+      "Grabb & Smith, 2024, cap. 54",
+      "Şibar S et al. ASJ 2025;46(1):16–23",
+      "Kwan E et al. ASJ 2025;45(9):887–892",
+      "Neligan, 2023, vol. 2, cap. 19"
+    ],
+    "updates": [],
+    "tags": [
+      "complicacoes",
+      "sangramento",
+      "infeccao",
+      "edema",
+      "deformidades",
+      "obstrucao",
+      "taxa-revisao",
+      "rinoplastia-secundaria"
+    ]
   }
 ]

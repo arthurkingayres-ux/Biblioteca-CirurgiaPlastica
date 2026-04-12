@@ -589,5 +589,652 @@
       "acido-hialuronico",
       "lipoenxertia"
     ]
+  },
+  {
+    "id": "cpb-tec-018",
+    "type": "technique",
+    "title": "Abdominoplastia Pos-Bariatrica (APB) e Dermolipectomia Circunferencial",
+    "aliases": [],
+    "topic": "contorno-pos-bariatrico",
+    "area": "contorno-corporal",
+    "indication": "Excesso cutaneo abdominal significativo apos perda macica de peso, frequentemente com componente circunferencial (flancos e dorso). Diastase de retos abdominais severa. Pittsburgh Rating Scale grau II-III para abdome.",
+    "contraindication": "IMC > 35 kg/m2, desnutricao severa, tabagismo ativo, comorbidades descompensadas.",
+    "steps": [
+      "1. Diferenciar da abdominoplastia convencional: Excesso de pele muito maior, qualidade cutanea frequentemente comprometida, diastase severa, necessidade de abordagem circunferencial para simetria, cicatrizes resultantes mais extensas.",
+      "2. Marcacao em decubito dorsal: marcar ponto de maior ptose inguinal bilateralmente, extensao lateral ate linha axilar (usualmente na altura de L3-L4), ponto mais inferior de resseccao no abdome inferior (usualmente 5-8 cm acima da sinfise), monte pubico (marcar limite de resseccao, preservando sensibilidade). Inverter paciente em decubito ventral para marcar gluteos, flancos posteriores e dorso.",
+      "3. Incisao em padrao de ancora (T invertido): incisao horizontal suprapubica (do EIAS ao EIAS, passando 2-3 cm acima da sinfise — frequentemente > 50 cm), incisao vertical da sinfise pubica ate epigastrio (10-15 cm), e marcacao perimetral estendendo-se para flancos e dorso.",
+      "4. Disseccao em plano supramuscular ate arco costal, evitando lesao de nervos intercostais. Ligadura cuidadosa de ramos vasculares superficiais (circunflexa iliaca superficial, pudenda externa, arterias do monte pubico).",
+      "5. Plicatura dos retos em duplo plano (fascial e muscular) com sutura absorvivel 2-0 ou 0, em padrao continuo de cranial para caudal.",
+      "6. Tratamento do monte pubico: resseccao conservadora de pele/gordura com preservacao de sensibilidade (ramos de T12 e L1); plicatura da fascia de Scarpa e ligacao ao periosteo da sinfise (ancoragem); em casos graves, sutura suspensora ao ligamento de Cooper ou periosteo retropubico (via endoscopica opcional); evitar plicatura excessiva que leve a dispareunia ou disuria.",
+      "7. Fechamento em camadas: fascia (Vicryl 2-0 ou 0, continuo), subcuticular (Monocryl 3-0), intradermico (Monocryl 4-0), e derme (5-0 nylon ou poliglecaprone). Drenos Jackson-Pratt (minimo dois: suprapubico e flanco bilateral) com evacuacao continua por 2-4 semanas.",
+      "8. Suspensao das coxas (quando combinado): Durante abdominoplastia ampla, aproveitar para elevacao da pele/gordura medial da coxa com fixacao ao ligamento de Scarpa ou periosteo do pubis. Evita segunda incisao separada e melhora harmonizacao."
+    ],
+    "complications": [
+      "Seroma (10-30%)",
+      "Deiscencia (5-15%)",
+      "Necrose de pele (especialmente em zona de incisao vertical por comprometimento vascular)"
+    ],
+    "pearls": [
+      "Abordagem circunferencial essencial para simetria em casos com excesso cutaneo macico",
+      "Preservar sensibilidade do monte pubico (ramos de T12 e L1) durante resseccao",
+      "Uso de drenos Jackson-Pratt por 2-4 semanas reduz complicacoes de seroma",
+      "Combinar suspensao de coxas durante abdominoplastia ampla evita segunda incisao"
+    ],
+    "images": [],
+    "citations": [
+      "Lockwood et al., PRS, 1994",
+      "Aly et al., PRS, 2003",
+      "Nahas, Neligan's Plastic Surgery, 5a Ed., 2023",
+      "Grabb & Smith's Plastic Surgery, 8a Ed., 2020"
+    ],
+    "updates": [],
+    "tags": [
+      "abdominoplastia",
+      "pos-bariatrica",
+      "dermolipectomia",
+      "circunferencial",
+      "contorno-corporal",
+      "cirurgia-plastica",
+      "perda-peso-massiva"
+    ]
+  },
+  {
+    "id": "cpb-tec-019",
+    "type": "technique",
+    "title": "Lower Body Lift (Body Lift) — Tecnica de Lockwood",
+    "aliases": [
+      "Body Lift",
+      "Lockwood Technique"
+    ],
+    "topic": "contorno-pos-bariatrico",
+    "area": "contorno-corporal",
+    "indication": "Excesso cutaneo circunferencial significativo em abdome, flancos, dorso, gluteos e coxas. Pittsburgh Rating Scale grau II-III para tronco inferior.",
+    "contraindication": "IMC > 35 kg/m2, estado nutricional inadequado, comorbidades descompensadas. Tempo cirurgico estimado > 420 minutos sem equipe dupla.",
+    "steps": [
+      "1. Tecnica de Lockwood (1991): incisao continua unica no plano horizontal baixo (supragluteo, lateral ao trocanter, suprapubiano e inguinal) com resseccao de faixa horizontal continua de tecido",
+      "2. Permite elevacao simultanea de abdome e coxas mediais",
+      "3. Manutencao de cicatrizes ocultas ou semi-ocultas (inguinal, submamario para mulheres)",
+      "4. Reducao de tempo operatorio comparado a multiplas incisoes separadas",
+      "5. Melhor simetria corporal e harmonizacao",
+      "6. Diferenciacao belt lipectomy vs lower body lift: belt lipectomy remove tecido acima da anchoring line (Lockwood tipo I), enquanto o lower body lift remove tecido abaixo dessa linha (Lockwood tipo II), permitindo elevacao mais efetiva de gluteos e coxas posteriores",
+      "7. Marcacao em ortostatismo: marcacoes horizontais espacadas a cada 6 cm; a quarta marca vertical coincide com a linha axilar media, servindo como ponto de encontro entre a incisao de abdominoplastia e a de cruroplastia para harmonizacao circunferencial",
+      "8. Disseccao subfascial preservando fascia de Scarpa: reduz a formacao de seroma por manter linfaticos e perfurantes superficiais",
+      "9. Autoaumento gluteo com retalho desepitelializado em padrao J: preservam-se as zonas 1-3 e resseca-se a zona 4; a rotacao de ~45 graus combinada com mattress horizontal propicia projecao glutea sem necessidade de implante"
+    ],
+    "complications": [
+      "Migracao cicatricial (5-10%)",
+      "Alteracao de sensibilidade (20-30%, usualmente transitoria)",
+      "Dor neuropatica cronica (1-3%)"
+    ],
+    "pearls": [
+      "Drenagem: dois drenos de succao continua, retirados quando o debito for <30 mL em 24h (tipicamente entre o 7o e o 10o pos-operatorio)",
+      "Cinta compressiva: uso em tempo integral por 4 semanas e parcial por 3-6 meses",
+      "Posicionamento em semi-Fowler no pos-operatorio imediato minimiza tensao mecanica sobre a sutura"
+    ],
+    "images": [],
+    "citations": [
+      "Lockwood et al., PRS, 1991-1994",
+      "Grabb & Smith, 2024, cap. 76"
+    ],
+    "updates": [],
+    "tags": [
+      "tecnica-lockwood",
+      "lower-body-lift",
+      "body-lift",
+      "contorno-corporal",
+      "pos-bariatrico",
+      "cirurgia-plastica"
+    ]
+  },
+  {
+    "id": "cpb-tec-020",
+    "type": "technique",
+    "title": "Cruroplastia Medial",
+    "aliases": [],
+    "topic": "contorno-pos-bariatrico",
+    "area": "contorno-corporal",
+    "indication": "Excesso cutaneo na face medial da coxa, classificacao de Appelt leve a moderada. Pittsburgh Rating Scale grau I-II para coxas.",
+    "contraindication": "Excesso circunferencial severo (melhor indicacao para lifting circunferencial), linfedema pre-existente.",
+    "steps": [
+      "1. Incisao inguinal continua, estendendo-se de medial do trocanter ate perineo/genitalia externa, passando por fossa inguinal e linha media de coxa medial ate joelho (ou menos se necessario).",
+      "2. Incisao deve passar cranial e paralela a linha natural de Langer para melhor cicatrizacao.",
+      "3. Disseccao em plano supramuscular ate fascia do adutor, preservando linfa e vasos.",
+      "4. Resseccao em padrao vertical-obliquo, removendo faixa de pele/gordura de 5-15 cm de largura dependendo do excesso.",
+      "5. Fixacao critica: ponta superior do retalho fixada ao periosteo da sinfise pubica ou ao ligamento de Cooper para evitar recorrencia de ptose."
+    ],
+    "complications": [
+      "Migracao cicatricial (10-25%)",
+      "Linfedema (5-15%)",
+      "Deiscencia perineal",
+      "Dispareunia (< 2%)",
+      "Sensacao de queimacao perineal por parestesia do pudendo (5-10%)"
+    ],
+    "pearls": [
+      "Cruroplastia vertical indicada para laxidez predominantemente proximal; transversal/horizontal ao sulco inguinal para laxidez difusa, geralmente integrada ao lower body lift.",
+      "Classificacao de severidade: crescent (terco proximal), short-scar vertical (laxidez moderada) e full-scar vertical (laxidez extensa estendendo-se ate o joelho).",
+      "Plicatura fascial com fixacao ao ligamento de Colles reduz a taxa de recidiva de ptose medial da coxa.",
+      "Atencao ao lipedema: acumulo bilateral subcutaneo extenso do quadril ao tornozelo, poupando os pes, e indicacao primaria de lipoaspiracao agressiva, nao de abdominoplastia ou cruroplastia excisional isolada."
+    ],
+    "images": [],
+    "citations": [
+      "Grabb & Smith, 2024, cap. 76",
+      "Lockwood et al., PRS, 1994",
+      "Aly et al., PRS, 2003"
+    ],
+    "updates": [],
+    "tags": [
+      "tecnica",
+      "cruroplastia",
+      "coxa",
+      "contorno-corporal",
+      "pos-bariatrico",
+      "lifting-coxa",
+      "reconstrucao-corporal"
+    ]
+  },
+  {
+    "id": "cpb-tec-021",
+    "type": "technique",
+    "title": "Cruroplastia Vertical (Lifting Medial Modificado)",
+    "aliases": [],
+    "topic": "contorno-pos-bariatrico",
+    "area": "contorno-corporal",
+    "indication": "Excesso moderado na coxa medial em pacientes que desejam menor cicatriz inguinal",
+    "contraindication": "Excesso severo ou circunferencial",
+    "steps": [
+      "1. Incisao predominantemente vertical na coxa medial (de inguinal ate terco medio da coxa)",
+      "2. Menor comprimento cicatricial horizontal",
+      "3. Disseccao e resseccao semelhante a tecnica medial"
+    ],
+    "complications": [
+      "Cicatriz vertical mais visível",
+      "Recorrência de ptose (5-20% após 2-3 anos)"
+    ],
+    "pearls": [],
+    "images": [],
+    "citations": [
+      "Shermak, PRS, 2006"
+    ],
+    "updates": [],
+    "tags": [
+      "tecnica",
+      "cruroplastia",
+      "lifting-medial",
+      "coxa-medial",
+      "contorno-corporal",
+      "pos-bariatrico"
+    ]
+  },
+  {
+    "id": "cpb-tec-022",
+    "type": "technique",
+    "title": "Cruroplastia Circunferencial (Thighplasty 360 graus)",
+    "aliases": [],
+    "topic": "contorno-pos-bariatrico",
+    "area": "contorno-corporal",
+    "indication": "Pittsburgh Rating Scale grau II-IV com excesso circunferencial severo de coxas",
+    "contraindication": "Estado nutricional inadequado, impossibilidade de tempo cirúrgico prolongado",
+    "steps": [
+      "1. Combina incisão inguinal + incisão lateral/posterior até glúteos",
+      "2. Maior extensão cicatricial, porém melhora significativamente contorno circunferencial",
+      "3. Pode ser realizada em única cirurgia ou em duas fases (anterior e posterior)"
+    ],
+    "complications": [
+      "Todas as da cruroplastia medial, com maior risco por extensão da dissecção"
+    ],
+    "pearls": [
+      "Técnica circunferencial completa oferece melhor contorno a custo de maior extensão cicatricial"
+    ],
+    "images": [],
+    "citations": [
+      "Hurwitz et al., PRS, 2004"
+    ],
+    "updates": [],
+    "tags": [
+      "tecnica",
+      "cruroplastia",
+      "thighplasty",
+      "contorno-corporal",
+      "cirurgia-pos-bariatrica",
+      "360-graus"
+    ]
+  },
+  {
+    "id": "cpb-tec-023",
+    "type": "technique",
+    "title": "Fixacao de Scarpa ao Periosteo (Tecnica de Aly)",
+    "aliases": [],
+    "topic": "contorno-pos-bariatrico",
+    "area": "contorno-corporal",
+    "indication": "Adjuvante em cruroplastia e abdominoplastia pos-bariatrica para prevencao de recorrencia de ptose",
+    "contraindication": "Osteoporose severa do pubis",
+    "steps": [
+      "1. Sutura da fascia de Scarpa ao periosteo da sinfise pubica com ponto de ancoragem",
+      "2. Uso de ancora ossea (Arthrex) ou sutura de fibra sintetica nao-absorvivel (Ethibond)",
+      "3. Ponto permanente de suspensao"
+    ],
+    "complications": [
+      "Falha de ancoragem",
+      "Dor cronica no sitio de fixacao"
+    ],
+    "pearls": [],
+    "images": [],
+    "citations": [
+      "Aly et al., PRS, 2003"
+    ],
+    "updates": [],
+    "tags": [
+      "tecnica",
+      "fixacao-scarpa",
+      "periosteo",
+      "ancoragem-ossea",
+      "abdominoplastia",
+      "cruroplastia",
+      "pos-bariatrico",
+      "suspensao",
+      "ptose"
+    ]
+  },
+  {
+    "id": "cpb-tec-024",
+    "type": "technique",
+    "title": "Braquioplastia Convencional",
+    "aliases": [],
+    "topic": "contorno-pos-bariatrico",
+    "area": "contorno-corporal",
+    "indication": "Excesso cutaneo na face medial do braco. Classificacao de Appelt moderada a severa.",
+    "contraindication": "Expectativa de cicatriz invisivel (cicatriz sera permanente e frequentemente bem visivel).",
+    "steps": [
+      "1. Marcacao com braco abduzido a 90 graus, identificar linha de maior redundancia (ponto medio entre cotovelo e axilar).",
+      "2. Incisao medial do braco, da axila ate fossa antecubital (ou ate punho em casos de excesso severo).",
+      "3. Disseccao em plano supramuscular (nao descer alem de fascia muscular para evitar lesao do nervo cutaneo medial do antebraco).",
+      "4. Resseccao de 3-10 cm conforme necessidade, com padrao de sutura em V (Lockwood) ou elipse simples.",
+      "5. Hemostasia meticulosa, dreno de Blake se necessario.",
+      "6. Fechamento em camadas: fascia (Vicryl 2-0), subcuticular (Monocryl 3-0), intradermico.",
+      "7. Localizar cicatriz em face medial de braco (nao lateral visivel). Em mulheres com seios pendentes, considerar cicatriz axilar quando possivel."
+    ],
+    "complications": [
+      "Lesao do nervo cutaneo medial do antebraco - parestesia transitoria (10-30%), parestesia permanente (2-5%)",
+      "Cicatriz alargada (5-15%)",
+      "Retracao cicatricial (3-8%)"
+    ],
+    "pearls": [
+      "O ramo anterior do nervo cutaneo medial do antebraco corre na face medial do braco inferior; preservar ou marcar seu trajeto durante a disseccao evita neuroma iatrogenico.",
+      "Tres opcoes classicas de incisao: T curta no sulco axilar anterior, longitudinal medial do braco, e L combinando transversal axilar com longitudinal medial.",
+      "O padrao longitudinal simetrico tende a reduzir a exposicao cicatricial axilar.",
+      "SAL (suction-assisted liposuction tumescente) pode ser combinada a resseccao excisional em casos com adiposidade residual focal."
+    ],
+    "images": [],
+    "citations": [
+      "Grabb & Smith, 2024, cap. 76",
+      "Neligan, 2023, vol. 2",
+      "Grabb & Smith, 2024, cap. 75",
+      "Grabb & Smith's Plastic Surgery, 8a Ed., 2020",
+      "Aly et al., PRS, 2003"
+    ],
+    "updates": [],
+    "tags": [
+      "tecnica",
+      "braquioplastia",
+      "contorno-pos-bariatrico",
+      "contorno-corporal",
+      "cirurgia-plastica",
+      "excesso-cutaneo",
+      "braco"
+    ]
+  },
+  {
+    "id": "cpb-tec-025",
+    "type": "technique",
+    "title": "L-Braquioplastia (Extensao ao Torax Lateral)",
+    "aliases": [],
+    "topic": "contorno-pos-bariatrico",
+    "area": "contorno-corporal",
+    "indication": "Excesso severo circunferencial do braco com redundancia axilar e toracica lateral",
+    "contraindication": "Excesso leve a moderado (braquioplastia convencional suficiente)",
+    "steps": [
+      "1. Estender incisao de braquioplastia lateralmente ate lateral do torax (sobre serratil anterior), criando padrao em L",
+      "2. Permite resseccao maior de tecido redundante em regiao axilar e torax lateral, melhorando contorno"
+    ],
+    "complications": [
+      "Deiscencia aumentada em regiao axilar"
+    ],
+    "pearls": [
+      "Extensao lateral da incisao permite melhor resseccao de redundancia axilar e toracica"
+    ],
+    "images": [],
+    "citations": [
+      "Hurwitz et al., PRS, 2004"
+    ],
+    "updates": [],
+    "tags": [
+      "tecnica",
+      "braquioplastia",
+      "contorno-corporal",
+      "pos-bariatrico",
+      "redundancia-axilar",
+      "torax-lateral"
+    ]
+  },
+  {
+    "id": "cpb-tec-026",
+    "type": "technique",
+    "title": "Lipoaspiracao Adjuvante em Braquioplastia",
+    "aliases": [],
+    "topic": "contorno-pos-bariatrico",
+    "area": "contorno-corporal",
+    "indication": "Adjuvante de braquioplastia para melhorar contorno e reduzir tensao cicatricial",
+    "contraindication": "Resseccao excessiva que leve a cicatriz alargada",
+    "steps": [
+      "1. Realizada antes ou apos resseccao cutanea, em camada subcuticular",
+      "2. Cuidado com volume aspirado para evitar comprometimento vascular do retalho"
+    ],
+    "complications": [
+      "Irregularidades de contorno",
+      "Comprometimento vascular do retalho"
+    ],
+    "pearls": [
+      "Manter cuidado com volume aspirado para preservar vascularizacao do retalho"
+    ],
+    "images": [],
+    "citations": [
+      "Grabb & Smith's Plastic Surgery, 8a Ed., 2020"
+    ],
+    "updates": [],
+    "tags": [
+      "tecnica",
+      "lipoaspiracao",
+      "braquioplastia",
+      "contorno-corporal",
+      "adjuvante"
+    ]
+  },
+  {
+    "id": "cpb-tec-027",
+    "type": "technique",
+    "title": "Mastopexia com Pediculo Superior (Crescente de Wise)",
+    "aliases": [],
+    "topic": "contorno-pos-bariatrico",
+    "area": "contorno-corporal",
+    "indication": "Ptose mamaria moderada a severa (Regnault Grau II-III) em pacientes pos-bariatricos",
+    "contraindication": "Ptose minima (indicar tecnica menos invasiva), tabagismo ativo",
+    "steps": [
+      "1. Incisao periareolar (Benelli simples) + incisao vertical + incisao inframamaria",
+      "2. Resseccao de meia-lua de pele supraareolar e skin flap inferior",
+      "3. Reconstituicao do sulco inframamario (IMF)",
+      "4. Opcionalmente agregar implante de silicone para aumento de volume"
+    ],
+    "complications": [
+      "Necrose de mamilo (1-3%)",
+      "Perda de sensibilidade (10-20%)",
+      "Assimetria pos-operatoria",
+      "Recorrencia de ptose (5-10%)"
+    ],
+    "pearls": [],
+    "images": [],
+    "citations": [
+      "Wise, PRS, 1956",
+      "Regnault, Clin Plast Surg, 1976"
+    ],
+    "updates": [],
+    "tags": [
+      "tecnica",
+      "mastopexia",
+      "ptose-mamaria",
+      "pediculo-superior",
+      "wise",
+      "pos-bariatrico",
+      "contorno-corporal"
+    ]
+  },
+  {
+    "id": "cpb-tec-028",
+    "type": "technique",
+    "title": "Mastopexia com Pediculo Inferior (Tecnica de Palusa)",
+    "aliases": [],
+    "topic": "contorno-pos-bariatrico",
+    "area": "contorno-corporal",
+    "indication": "Alternativa que preserva aporte neurovascular pelo pediculo inferior, mantendo melhor sensibilidade. Util em revascularizacao mamaria.",
+    "contraindication": "Mamas muito grandes (risco de comprometimento vascular do pediculo).",
+    "steps": [
+      "1. Incisao similar a tecnica de Wise.",
+      "2. Disseccao planificada sobre glandula em zona de pediculo inferior.",
+      "3. Preservacao do aporte neurovascular inferior."
+    ],
+    "complications": [
+      "Similares a tecnica superior, com menor risco de perda de sensibilidade."
+    ],
+    "pearls": [
+      "Preservacao do pediculo inferior garante melhor sensibilidade comparado a tecnica de pediculo superior."
+    ],
+    "images": [],
+    "citations": [
+      "Palusa et al., Plast Surg, 2011"
+    ],
+    "updates": [],
+    "tags": [
+      "tecnica",
+      "mastopexia",
+      "pediculo-inferior",
+      "contorno-pos-bariatrico",
+      "revascularizacao-mamaria"
+    ]
+  },
+  {
+    "id": "cpb-tec-029",
+    "type": "technique",
+    "title": "Mastopexia com Implante",
+    "aliases": [],
+    "topic": "contorno-pos-bariatrico",
+    "area": "contorno-corporal",
+    "indication": "Pos-bariatricos com deflacao mamaria significativa necessitando de aumento alem da elevacao",
+    "contraindication": "Rejeicao previa de implantes, expectativa de volume muito grande, pele de qualidade muito comprometida",
+    "steps": [
+      "1. Elevacao via mastopexia classica",
+      "2. Insercao de implante de silicone ou solucao salina",
+      "3. Escolher tamanho conservador (200-300 mL) para evitar deformidade",
+      "4. Posicionamento subfascial (sub-muscular maior)"
+    ],
+    "complications": [
+      "Implante visivel/palpavel",
+      "Contratura capsular",
+      "Necessidade de revisao"
+    ],
+    "pearls": [
+      "Utilizar tamanho conservador de implante (200-300 mL) em pacientes pos-bariatricos para evitar deformidade",
+      "Posicionamento subfascial (sub-muscular maior) reduz complicacoes"
+    ],
+    "images": [],
+    "citations": [
+      "Neligan's Plastic Surgery, 5a Ed., 2023"
+    ],
+    "updates": [],
+    "tags": [
+      "tecnica",
+      "mastopexia",
+      "implante-mamario",
+      "pos-bariatrico",
+      "contorno-corporal",
+      "cirurgia-plastica"
+    ]
+  },
+  {
+    "id": "cpb-tec-030",
+    "type": "technique",
+    "title": "Autoaumento com Retalho Dermoglandular",
+    "aliases": [
+      "remodelacao parenquimal",
+      "parenchymal remodeling",
+      "rubin flap",
+      "dermal bra"
+    ],
+    "topic": "contorno-pos-bariatrico",
+    "area": "contorno-corporal",
+    "indication": "Pacientes que rejeitam implantes ou quando protese e desfavoravel",
+    "contraindication": "Volume mamario residual insuficiente para transposicao significativa",
+    "steps": [
+      "1. Transposicao de glandula/gordura inferior para colo mamario, criando auto-aumento"
+    ],
+    "complications": [
+      "Ganho modesto de volume",
+      "Possivel recorrencia de ptose"
+    ],
+    "pearls": [
+      "Uso do tecido mamario residual para auto-aumento discreto, evitando a necessidade de implante",
+      "Rubin flap e dermal bra sao tecnicas de suspensao interna sem implante que preservam a viabilidade vascular e a sensibilidade do complexo areolo-papilar"
+    ],
+    "images": [],
+    "citations": [
+      "Neligan, 2023, vol. 2",
+      "Palusa et al., Plast Surg, 2011"
+    ],
+    "updates": [],
+    "tags": [
+      "tecnica",
+      "autoaumento",
+      "sem-implante",
+      "retalho-dermoglandular",
+      "suspensao-interna",
+      "contorno-mamario",
+      "bariatrica"
+    ]
+  },
+  {
+    "id": "cpb-tec-031",
+    "type": "technique",
+    "title": "Gigantomastia Pos-Bariatrica",
+    "aliases": [],
+    "topic": "contorno-pos-bariatrico",
+    "area": "contorno-corporal",
+    "indication": "Rara — casos de ganho rapido de peso pos-cirurgia ou expansao mamaria desproporcional",
+    "contraindication": "Estado nutricional inadequado",
+    "steps": [
+      "1. Reducao mamaria com ou sem mastopexia",
+      "2. Resseccao de excesso cutaneo"
+    ],
+    "complications": [
+      "Maiores riscos vasculares pela extensao da resseccao"
+    ],
+    "pearls": [],
+    "images": [],
+    "citations": [
+      "Shermak et al., PRS, 2006"
+    ],
+    "updates": [],
+    "tags": [
+      "tecnica",
+      "gigantomastia",
+      "pos-bariatrica",
+      "reducao-mamaria",
+      "mastopexia",
+      "contorno-corporal"
+    ]
+  },
+  {
+    "id": "cpb-tec-032",
+    "type": "technique",
+    "title": "Submentoplastia e Lifting Cervical Pos-Bariatrico",
+    "aliases": [],
+    "topic": "contorno-pos-bariatrico",
+    "area": "contorno-corporal",
+    "indication": "Laxidez de platisma, excesso de pele cervical, ptose de glandulas submandibulares",
+    "contraindication": "Perda de peso ainda em curso, expectativas irrealistas",
+    "steps": [
+      "1. Submentoplastia com plicatura de platisma (incisao submandibular)",
+      "2. Resseccao de faixa de pele cervical (de 3-7 cm)",
+      "3. Lipoaspiracao cervical adjuvante"
+    ],
+    "complications": [
+      "Hematoma cervical",
+      "Lesao de ramo marginal mandibular do nervo facial"
+    ],
+    "pearls": [],
+    "images": [],
+    "citations": [
+      "Grabb & Smith's Plastic Surgery, 8a Ed., 2020"
+    ],
+    "updates": [],
+    "tags": [
+      "tecnica",
+      "submentoplastia",
+      "lifting-cervical",
+      "pos-bariatrico",
+      "contorno-corporal",
+      "platisma",
+      "cirurgia-plastica"
+    ]
+  },
+  {
+    "id": "cpb-tec-033",
+    "type": "technique",
+    "title": "Face Lift Pos-Bariatrico (SMAS ou Composite)",
+    "aliases": [],
+    "topic": "contorno-pos-bariatrico",
+    "area": "contorno-corporal",
+    "indication": "Idade avancada ou perda massiva com laxidao facial acentuada. Tipicamente procedimento final apos contorno corporal estar estabilizado.",
+    "contraindication": "Mudancas faciais ainda em curso por perda de peso.",
+    "steps": [
+      "1. Face lift completo (SMAS ou tecnica composite)",
+      "2. Timing: tipicamente realizado como procedimento final pois continuam ocorrendo mudancas faciais"
+    ],
+    "complications": [
+      "Hematoma",
+      "Lesao de nervo facial",
+      "Alopecia periincisional"
+    ],
+    "pearls": [
+      "Aguardar estabilizacao do contorno corporal antes de realizar o procedimento"
+    ],
+    "images": [],
+    "citations": [
+      "Neligan's Plastic Surgery, 5a Ed., 2023"
+    ],
+    "updates": [],
+    "tags": [
+      "tecnica",
+      "face-lift",
+      "smas",
+      "composite",
+      "contorno-pos-bariatrico",
+      "contorno-facial"
+    ]
+  },
+  {
+    "id": "cpb-tec-034",
+    "type": "technique",
+    "title": "Reabilitacao de Volume Facial (Adjuvantes)",
+    "aliases": [],
+    "topic": "contorno-pos-bariatrico",
+    "area": "contorno-corporal",
+    "indication": "Complemento ao face lift ou procedimento isolado para restauracao de volumes faciais",
+    "contraindication": "Expectativa de resultado dramatico apenas com adjuvantes",
+    "steps": [
+      "1. Microagulhamento com inducao de colageno",
+      "2. Peeling quimico para melhorar qualidade cutanea",
+      "3. Preenchedores com acido hialuronico para restaurar volumes",
+      "4. Lipoenxertia autologa facial em casos selecionados"
+    ],
+    "complications": [
+      "Resultados temporarios (preenchedores)",
+      "Necrose por embolizacao vascular (raro)"
+    ],
+    "pearls": [
+      "Indicado como complemento ao face lift ou procedimento isolado",
+      "Lipoenxertia autologa facial em casos selecionados oferece resultados mais duradouros"
+    ],
+    "images": [],
+    "citations": [
+      "Neligan's Plastic Surgery, 5a Ed., 2023"
+    ],
+    "updates": [],
+    "tags": [
+      "tecnica",
+      "reabilitacao-facial",
+      "adjuvantes",
+      "face-lift",
+      "preenchedores",
+      "microagulhamento",
+      "contorno-corporal"
+    ]
   }
 ]

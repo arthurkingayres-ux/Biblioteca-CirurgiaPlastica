@@ -28,7 +28,7 @@ const PREFIXES = JSON.parse(fs.readFileSync(path.join(__dirname, 'topic_prefixes
 // --- Markdown Parser ---
 
 function parseRAG(markdown) {
-  const lines = markdown.split('\n');
+  const lines = markdown.replace(/\r\n/g, '\n').split('\n');
   const sections = [];
   let current = null;
 

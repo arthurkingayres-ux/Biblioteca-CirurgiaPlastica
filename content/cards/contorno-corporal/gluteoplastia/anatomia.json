@@ -2,40 +2,30 @@
   {
     "id": "glut-anat-001",
     "type": "anatomy",
-    "title": "Músculo Glúteo Máximo",
+    "title": "Artéria Glútea Superior",
     "aliases": [],
     "topic": "gluteoplastia",
     "area": "contorno-corporal",
-    "definition": "Maior músculo da região glútea e o principal responsável pela projeção e convexidade do glúteo",
-    "location": "Camada mais superficial da musculatura glútea",
+    "definition": "ramo da artéria ilíaca interna que irriga a porção superior da região glútea",
+    "location": "emerge acima do músculo piriforme pelo forame isquiático maior",
     "relations": [
-      "glúteo médio",
-      "glúteo mínimo",
-      "nervo ciático (L5–S2)",
-      "piriforme"
+      "artéria ilíaca interna",
+      "nervo glúteo superior",
+      "músculo piriforme",
+      "músculo glúteo médio"
     ],
-    "surgical_relevance": "Plano submuscular/intramuscular é utilizado para colocação de implantes. Na lipoenxertia, a gordura deve ser injetada acima da fáscia do glúteo máximo (subcutânea apenas) para evitar embolia gordurosa intravascular. A zona de segurança glútea de Mendieta define limite de 2 cm medial à borda lateral do glúteo máximo para dissecção segura",
-    "how_to_identify": "Músculo palpável à contração ativa; borda lateral identificável por palpação em paciente magro",
-    "images": [
-      {
-        "file": "glut-anat-gluteo-maximo.png",
-        "caption": "Vista posterior do músculo glúteo máximo demonstrando origem no sacro e ilíaco posterior e inserção no trato iliotibial e tuberosidade glútea. Referência anatômica para definir a zona de segurança de Mendieta (2 cm medial à borda lateral do músculo) e o território para dissecção do bolso submuscular/subfascial no implante.",
-        "credit": "Neligan's Plastic Surgery, 5ª Ed., 2023, vol. 2, cap. 35.2, Fig. 35.2.1 — De la Peña Salcedo JA, Ledezma Rodriguez JC, Gonzalez Sosa D. Buttock augmentation with implants."
-      },
-      {
-        "file": "glut-anat-pelve-ossea.png",
-        "caption": "Vista posterior da pelve óssea mostrando sacro, crista ilíaca posterior, ísquio e trocânter maior. Landmarks ósseos que orientam o planejamento da gluteoplastia: crista ilíaca posterior delimita a inserção cranial do glúteo máximo e a linha do sulco interglúteo guia a incisão parasacral para implante.",
-        "credit": "Neligan's Plastic Surgery, 5ª Ed., 2023, vol. 2, cap. 35.2 — De la Peña Salcedo JA, Ledezma Rodriguez JC, Gonzalez Sosa D. Buttock augmentation with implants."
-      }
-    ],
+    "surgical_relevance": "lesão durante dissecção de bolso para implantes pode causar sangramento significativo; referência para zona de segurança na lipoenxertia",
+    "how_to_identify": "localizada acima da borda superior do piriforme no forame isquiático maior",
+    "images": [],
     "citations": [
       "Neligan, Plastic Surgery 5ª Ed., 2023",
-      "Matarasso & Rosenberg, PRS, 1985"
+      "Mofid et al., PRS, 2015"
     ],
     "updates": [],
     "tags": [
       "anatomia",
-      "musculo-gluteo",
+      "arteria",
+      "glutea",
       "cirurgia-plastica",
       "contorno-corporal"
     ]
@@ -249,6 +239,220 @@
       "gluteo maximo",
       "disseccao",
       "implante"
+    ]
+  },
+  {
+    "id": "glut-anat-010",
+    "type": "anatomy",
+    "title": "Músculo Glúteo Médio",
+    "aliases": [],
+    "topic": "gluteoplastia",
+    "area": "contorno-corporal",
+    "definition": "Músculo localizado cranial e lateralmente ao glúteo máximo, importante para o contorno lateral da região glútea",
+    "location": "Profundo ao glúteo máximo na sua porção cranial-lateral; dispõe-se em leque, da crista ilíaca anterior em direção ao trocânter maior",
+    "relations": [
+      "glúteo máximo (superficial)",
+      "glúteo mínimo (profundo)",
+      "nervo glúteo superior (L4–S1)"
+    ],
+    "surgical_relevance": "Contorno lateral do glúteo médio é alvo de lipoenxertia para refinamento de silhueta; na técnica híbrida, gordura é injetada lateralmente sobre o glúteo médio enquanto implante projeta o máximo; seu contorno só se evidencia com etching superficial cuidadoso",
+    "how_to_identify": "Porção lateral da nádega, palpável com abdução do quadril contra resistência",
+    "images": [],
+    "citations": [
+      "Hoyos & Prendergast, HDBS, cap. 2",
+      "Neligan, Plastic Surgery 5ª Ed., 2023"
+    ],
+    "updates": [],
+    "tags": [
+      "anatomia",
+      "gluteos",
+      "contorno-corporal",
+      "lipoenxertia",
+      "tecnica-hibrida"
+    ]
+  },
+  {
+    "id": "glut-anat-011",
+    "type": "anatomy",
+    "title": "Músculo Glúteo Mínimo",
+    "aliases": [],
+    "topic": "gluteoplastia",
+    "area": "contorno-corporal",
+    "definition": "músculo mais profundo da região glútea, localizado sob o glúteo médio",
+    "location": "camada mais profunda da musculatura glútea",
+    "relations": [
+      "glúteo médio",
+      "nervo glúteo superior (L4–S1)"
+    ],
+    "surgical_relevance": "raramente abordado diretamente na gluteoplastia estética; serve como referência anatômica profunda",
+    "how_to_identify": "não palpável clinicamente; identificado em dissecção profunda",
+    "images": [],
+    "citations": [
+      "Neligan, Plastic Surgery 5ª Ed., 2023"
+    ],
+    "updates": [],
+    "tags": [
+      "anatomia",
+      "gluteo",
+      "musculo-gluteo",
+      "contorno-corporal",
+      "inervacao"
+    ]
+  },
+  {
+    "id": "glut-anat-013",
+    "type": "anatomy",
+    "title": "Artéria Glútea Inferior",
+    "aliases": [],
+    "topic": "gluteoplastia",
+    "area": "contorno-corporal",
+    "definition": "Ramo da artéria ilíaca interna que irriga a porção inferior da região glútea",
+    "location": "Emerge abaixo do músculo piriforme pelo forame isquiático maior",
+    "relations": [
+      "artéria ilíaca interna",
+      "músculo piriforme",
+      "nervo glúteo inferior",
+      "nervo ciático",
+      "artéria glútea superior"
+    ],
+    "surgical_relevance": "Risco de lesão na dissecção intramuscular profunda. Veias intramiocelulares tributárias são o principal sítio de entrada de gordura na circulação durante BBL com injeção intramuscular. O plexo venoso profundo e as artérias glúteas superior e inferior em plano intramuscular constituem a via anatômica de embolização caso a cânula atinja um vaso durante BBL",
+    "how_to_identify": "Localizada abaixo da borda inferior do piriforme, adjacente ao nervo ciático, acompanhada pelo nervo glúteo inferior",
+    "images": [],
+    "citations": [
+      "Hoyos & Prendergast, HDBS, cap. 15",
+      "Neligan, Plastic Surgery 5ª Ed., 2023",
+      "Mofid et al., PRS, 2015"
+    ],
+    "updates": [],
+    "tags": [
+      "anatomia",
+      "arteria-glutea-inferior",
+      "gluteoplastia",
+      "contorno-corporal",
+      "bbl",
+      "vascularizacao"
+    ]
+  },
+  {
+    "id": "glut-anat-014",
+    "type": "anatomy",
+    "title": "Triângulo Sacral",
+    "aliases": [],
+    "topic": "gluteoplastia",
+    "area": "contorno-corporal",
+    "definition": "Área triangular formada pelas depressões bilaterais nas espinhas ilíacas póstero-superiores e pela fenda glútea superior, landmark estético marcante do dorso inferior",
+    "location": "Dorso inferior, entre as espinhas ilíacas póstero-superiores e a fenda glútea superior",
+    "relations": [
+      "espinhas ilíacas póstero-superiores",
+      "fenda glútea superior",
+      "dorso",
+      "região glútea"
+    ],
+    "surgical_relevance": "Lipoplastia meticulosa do triângulo sacral define as bordas superiores das nádegas e cria a transição anatômica natural entre dorso e região glútea",
+    "how_to_identify": "Visualizado em pé, com as depressões correspondentes às espinhas ilíacas póstero-superiores delimitando a base do triângulo",
+    "images": [],
+    "citations": [
+      "Hoyos & Prendergast, HDBS, cap. 2"
+    ],
+    "updates": [],
+    "tags": [
+      "anatomia",
+      "landmarks-esteticos",
+      "dorso-inferior",
+      "gluteoplastia"
+    ]
+  },
+  {
+    "id": "glut-anat-015",
+    "type": "anatomy",
+    "title": "Nervo Ciático",
+    "aliases": [],
+    "topic": "gluteoplastia",
+    "area": "contorno-corporal",
+    "definition": "Maior nervo do corpo humano (L4–S3), passa pela região glútea em trajeto posterior",
+    "location": "Emerge pelo forame isquiático maior, abaixo do piriforme, descende entre trocânter maior e tuberosidade isquiática",
+    "relations": [
+      "piriforme",
+      "artéria glútea inferior",
+      "trocânter maior",
+      "tuberosidade isquiática",
+      "forame isquiático maior"
+    ],
+    "surgical_relevance": "Risco de neuropraxia na gluteoplastia com implantes no plano submuscular/intramuscular; sintomas incluem queimação e dor irradiada na coxa/perna ipsilateral",
+    "how_to_identify": "Landmark lateral ao piriforme; não palpável, mas identificável pela relação com piriforme e tuberosidade isquiática",
+    "images": [],
+    "citations": [
+      "Mofid et al., PRS, 2015",
+      "Matarasso & Rosenberg, PRS, 1985"
+    ],
+    "updates": [],
+    "tags": [
+      "anatomia",
+      "nervo",
+      "gluteoplastia",
+      "contorno-corporal",
+      "risco-cirurgico",
+      "neuropraxia"
+    ]
+  },
+  {
+    "id": "glut-anat-016",
+    "type": "anatomy",
+    "title": "Nervo Glúteo Superior",
+    "aliases": [],
+    "topic": "gluteoplastia",
+    "area": "contorno-corporal",
+    "definition": "nervo motor (L4–S1) que inerva os músculos glúteo médio e glúteo mínimo",
+    "location": "emerge acima do piriforme junto com a artéria glútea superior",
+    "relations": [
+      "piriforme",
+      "artéria glútea superior",
+      "glúteo médio",
+      "glúteo mínimo"
+    ],
+    "surgical_relevance": "lesão pode causar déficit de abdução do quadril (marcha de Trendelenburg)",
+    "how_to_identify": "identificado na dissecção profunda acima do piriforme",
+    "images": [],
+    "citations": [
+      "Neligan, Plastic Surgery 5ª Ed., 2023"
+    ],
+    "updates": [],
+    "tags": [
+      "anatomia",
+      "nervo-gluteo-superior",
+      "inervacao",
+      "gluteoplastia"
+    ]
+  },
+  {
+    "id": "glut-anat-017",
+    "type": "anatomy",
+    "title": "Nervo Glúteo Inferior",
+    "aliases": [],
+    "topic": "gluteoplastia",
+    "area": "contorno-corporal",
+    "definition": "Nervo motor (L5–S2) que inerva o músculo glúteo máximo",
+    "location": "Emerge abaixo do piriforme junto com a artéria glútea inferior",
+    "relations": [
+      "artéria glútea inferior",
+      "músculo glúteo máximo",
+      "nervo ciático",
+      "piriforme"
+    ],
+    "surgical_relevance": "Lesão na dissecção do plano submuscular para implantes pode causar atrofia do glúteo máximo; a anatomia neurovascular é crítica no plano intramuscular",
+    "how_to_identify": "Identificado abaixo do piriforme na dissecção profunda",
+    "images": [],
+    "citations": [
+      "Neligan, Plastic Surgery 5ª Ed., 2023",
+      "Mofid et al., PRS, 2015"
+    ],
+    "updates": [],
+    "tags": [
+      "anatomia",
+      "nervo",
+      "gluteoplastia",
+      "contorno-corporal",
+      "inervacao"
     ]
   }
 ]

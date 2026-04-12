@@ -2,7 +2,7 @@
   "id": "rino-fc-001",
   "type": "flashcard",
   "topic": "rinoplastia",
-  "area": "estética-facial",
+  "area": "estetica-facial",
   "cards": [
     {
       "front": "Ângulo nasolabial ♀",
@@ -405,7 +405,135 @@
       "back": "> 14–16 anos ♀, > 18 anos ♂ (maturidade esquelética), APÓS Le Fort I se planejado",
       "citation": "Grabb & Smith, 2024, cap. 22",
       "domain": "técnica"
+    },
+    {
+      "front": "Qual é a taxa de recorrência de giba nasal com eletrocauterio na preservação dorsal?",
+      "back": "2,5%",
+      "citation": "Şibar S et al., Aesthet Surg J, 2025;46(1):16–23",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Qual é a taxa de recorrência de giba nasal com bisturi na preservação dorsal?",
+      "back": "13,6%",
+      "citation": "Şibar S et al., Aesthet Surg J, 2025;46(1):16–23",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Em qual faixa etária é recomendada a tip plasty na fissura labiopalatina bilateral?",
+      "back": "Entre 3 a 5 anos de idade",
+      "citation": "Ueno K et al., Plast Reconstr Surg, 2026;157(4):563e–572e",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Quantos ensaios clínicos randomizados foram inclusos na meta-análise sobre TXA tópico em septorrinoplastia?",
+      "back": "7 ECRs (ensaios clínicos randomizados)",
+      "citation": "Di Martino L et al., Aesthet Surg J, 2025;45(12):1220–1226",
+      "domain": "decisao"
+    },
+    {
+      "front": "Qual é o nível de evidência do TXA tópico para reduzir sangramento em septorrinoplastia?",
+      "back": "Nível I (meta-análise de ECRs)",
+      "citation": "Di Martino L et al., Aesthet Surg J, 2025;45(12):1220–1226",
+      "domain": "decisao"
+    },
+    {
+      "front": "Qual estrutura cartilaginosa deve ser sempre priorizada como primeira fonte de enxerto na rinoplastia?",
+      "back": "Septo nasal (septo em primeiro lugar, sempre)",
+      "citation": "Rohrich RN et al., Plast Reconstr Surg, 2026;157(1):54–61",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Qual alternativa de enxerto é segura quando o septo nasal é insuficiente?",
+      "back": "Costela homóloga fresca",
+      "citation": "Rohrich RN et al., Plast Reconstr Surg, 2026;157(1):54–61; Taylor CM, Barrera JE, 2026;157(1):28e–37e",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Qual estrutura é frequentemente comprometida quando osteotomias laterais são realizadas?",
+      "back": "Válvula nasal interna (diminuição de calibre)",
+      "citation": "Neligan, 2023, vol. 2, caps. 18–22",
+      "domain": "fisiopatologia"
+    },
+    {
+      "front": "Qual tipo de enxerto deve ser sistematicamente considerado após osteotomias laterais?",
+      "back": "Spreader grafts (enxertos espaçadores)",
+      "citation": "Neligan, 2023, vol. 2, caps. 18–22",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Qual é o parâmetro objetivo fundamental para avaliar o sucesso da rinoplastia?",
+      "back": "Função respiratória (não apenas estética)",
+      "citation": "John Mulliken, citado em Neligan, 2023, vol. 2, caps. 18–19",
+      "domain": "decisao"
+    },
+    {
+      "front": "Em qual direção evoluiu a filosofia cirúrgica da rinoplastia nas últimas três décadas?",
+      "back": "De técnicas ablativas (redução excessiva) para preservação da anatomia nativa",
+      "citation": "Neligan, 2023, vol. 2, caps. 18–19",
+      "domain": "decisao"
+    },
+    {
+      "front": "Qual é o principal ganho de espaço na abordagem moderna da rinoplastia?",
+      "back": "Abordagem híbrida (preservação dorsal vs. redução por componentes)",
+      "citation": "Sergesketter AR et al., Plast Reconstr Surg, 2026;157(4):496e–503e",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Em qual faixa etária a tip plasty deve ser considerada na fissura bilateral?",
+      "back": "3 a 5 anos",
+      "citation": "Ueno K et al., Plast Reconstr Surg, 2026;157(4):563e–572e",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Qual é o principal indicador de sucesso em cirurgia de rinoplastia, conforme analogia de Mulliken?",
+      "back": "Respiração (analogamente à fala em cirurgia de fissura pediátrica)",
+      "citation": "John Mulliken, citado em Neligan, 2023, vol. 2, caps. 18–19",
+      "domain": "decisao"
+    },
+    {
+      "front": "Quantas abóbadas nasais estruturam a estética do nariz?",
+      "back": "3 (superior óssea, média em CLS, inferior em CLA)",
+      "citation": "Neligan, 2023, vol. 2, cap. 18",
+      "domain": "anatomia"
+    },
+    {
+      "front": "Qual é o terço do nariz formado pela pirâmide óssea?",
+      "back": "Terço superior (radix até junção ósseocartilaginosa)",
+      "citation": "Neligan, 2023, vol. 2, cap. 18",
+      "domain": "anatomia"
+    },
+    {
+      "front": "Qual estrutura corresponde ao terço médio do nariz?",
+      "back": "CLS (Cartilagens Laterais Superiores)",
+      "citation": "Neligan, 2023, vol. 2, cap. 18",
+      "domain": "anatomia"
+    },
+    {
+      "front": "Qual estrutura corresponde ao terço inferior do nariz?",
+      "back": "CLA (Cartilagens Laterais Alares)",
+      "citation": "Neligan, 2023, vol. 2, cap. 18",
+      "domain": "anatomia"
+    },
+    {
+      "front": "A rinoplastia é considerada qual procedimento em termos de complexidade técnica na cirurgia plástica estética?",
+      "back": "O mais tecnicamente exigente",
+      "citation": "Neligan, 2023, vol. 2, caps. 18–19",
+      "domain": "decisao"
+    },
+    {
+      "front": "Quantas vias de abordagem principais existem para a realização de rinoplastia?",
+      "back": "2 (aberta/transcolumelar e fechada/endonasal)",
+      "citation": "Neligan, 2023, vol. 2, cap. 18",
+      "domain": "tecnica"
     }
   ],
-  "tags": ["flashcards", "rinoplastia", "parâmetros", "ângulos", "dimensões", "enxertos"]
+  "tags": [
+    "flashcard",
+    "rinoplastia",
+    "cirurgia-plastica",
+    "estetica-facial",
+    "parametros-numericos",
+    "classificacoes",
+    "tecnicas-cirurgicas"
+  ]
 }

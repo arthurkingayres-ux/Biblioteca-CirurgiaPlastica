@@ -123,12 +123,125 @@
       "back": "2 cm medial à borda lateral do glúteo máximo (zona de segurança de Mendieta)",
       "citation": "Mendieta CG, Neligan's Plastic Surgery, 5ª Ed., 2023",
       "domain": "anatomia"
+    },
+    {
+      "front": "Qual é o volume aproximado de procedimentos de gluteoplastia realizados anualmente no mundo?",
+      "back": "~1,2 milhão de procedimentos por ano",
+      "citation": "ASPS Statistics, 2022",
+      "domain": "epidemiologia"
+    },
+    {
+      "front": "Em qual posição a gluteoplastia se encontra entre os procedimentos estéticos mais realizados globalmente?",
+      "back": "5º procedimento estético mais realizado no mundo",
+      "citation": "ASPS, 2022",
+      "domain": "epidemiologia"
+    },
+    {
+      "front": "Qual a faixa etária predominante de pacientes submetidos a gluteoplastia?",
+      "back": "25–45 anos",
+      "citation": "ASPS Statistics, 2022",
+      "domain": "epidemiologia"
+    },
+    {
+      "front": "Qual o percentual de pacientes do sexo feminino submetidos a gluteoplastia?",
+      "back": "90%",
+      "citation": "ASPS Statistics, 2022",
+      "domain": "epidemiologia"
+    },
+    {
+      "front": "Qual é a razão cintura-quadril (WHR) ideal segundo padrões estéticos?",
+      "back": "0,60–0,75",
+      "citation": "Mendieta, Neligan's Plastic Surgery, 5ª Ed., 2023, Cap. 32",
+      "domain": "anatomia"
+    },
+    {
+      "front": "Qual a taxa de sobrevida da gordura enxertada no BBL?",
+      "back": "50–70%",
+      "citation": "Mendieta CG et al. Gluteal augmentation. Aesthetic Plast Surg. 2004;28(3):192-199",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Por quantas semanas é recomendada restrição de sentar após BBL?",
+      "back": "2–3 semanas",
+      "citation": "Cárdenas-Camarena L et al. Gluteal Augmentation with Fat Transfer. Aesthetic Surg J. 2014;34(4):623-632",
+      "domain": "pos-operatorio"
+    },
+    {
+      "front": "Qual a incidência de embolia gordurosa após consenso de injeção exclusivamente subcutânea no BBL?",
+      "back": "1:15.000 ou superior",
+      "citation": "AESRF/ASPS/ISAPS. Safe Gluteal Fat Grafting: Consensus Statement. Aesthetic Surg J. 2023;43(6):621-629",
+      "domain": "complicacao"
+    },
+    {
+      "front": "Qual era a incidência histórica de embolia gordurosa no BBL antes das recomendações de segurança atuais?",
+      "back": "1:3.000",
+      "citation": "AESRF/ASPS/ISAPS. Safe Gluteal Fat Grafting: Consensus Statement. Aesthetic Surg J. 2023;43(6):621-629",
+      "domain": "complicacao"
+    },
+    {
+      "front": "Qual é a taxa de sobrevida dos implantes glúteos após 15 anos?",
+      "back": "Maior que 90%",
+      "citation": "Villanueva CL, Centeno RF. Gluteal Implant Removal and Replacement. Aesthetic Surg J. 2017;37(9):1035-1043",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Qual a classificação de Mendieta para gluteoplastia?",
+      "back": "4 tipos, baseada em volume, projeção e ptose",
+      "citation": "Mendieta CG. Gluteal Aesthetics. Aesthetic Surgery Journal. 2016",
+      "domain": "decisao"
+    },
+    {
+      "front": "Para quais graus de ptose glútea o lifting glúteo é indicado?",
+      "back": "Graus I–IV",
+      "citation": "Pascal JM, Le Louarn C. Gluteal fold lifting. Rev Chir Esthet. 2001;26(155):59-62",
+      "domain": "decisao"
+    },
+    {
+      "front": "Qual a taxa de recorrência de ptose glútea após lifting glúteo em 3–5 anos?",
+      "back": "10–15%",
+      "citation": "Pascal JM, Le Louarn C. Gluteal fold lifting. Rev Chir Esthet. 2001;26(155):59-62",
+      "domain": "complicacao"
+    },
+    {
+      "front": "Qual é a zona de segurança glútea de Mendieta para dissecção segura?",
+      "back": "2 cm medial à borda lateral do glúteo máximo",
+      "citation": "Matarasso A, Rosenberg H. Osseous Landmarks of the Gluteus Maximus and Sciatic Nerve. Plast Reconstr Surg. 1985;76(5):694-698",
+      "domain": "anatomia"
+    },
+    {
+      "front": "Quais raízes nervosas compõem o nervo ciático em relação ao glúteo máximo?",
+      "back": "L5–S2",
+      "citation": "Saldanha OR et al. Gluteal Augmentation: Anatomical Considerations. Grabb & Smith's Plastic Surgery, 8ª Ed., 2020",
+      "domain": "anatomia"
+    },
+    {
+      "front": "Qual é a recomendação quanto ao local de injeção de gordura no BBL para prevenir embolia gordurosa?",
+      "back": "Exclusivamente subcutânea, acima da fáscia do glúteo máximo",
+      "citation": "AESRF/ASPS/ISAPS. Safe Gluteal Fat Grafting: Consensus Statement. Aesthetic Surg J. 2023;43(6):621-629",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Qual o plano de colocação de implantes glúteos para segurança vascular?",
+      "back": "Submuscular/intramuscular (sob o glúteo máximo)",
+      "citation": "Centeno RF, Saldanha OR. Grabb & Smith's Plastic Surgery, 8ª Ed., 2020",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Quantas técnicas principais são descritas para gluteoplastia?",
+      "back": "4 técnicas: implantes de silicone, BBL, retalhos autólogos e abordagens híbridas",
+      "citation": "Mendieta CG, Centeno RF. Neligan's Plastic Surgery, 5ª Ed., 2023, Cap. 32",
+      "domain": "tecnica"
     }
   ],
   "tags": [
     "flashcard",
     "gluteoplastia",
     "contorno-corporal",
-    "cirurgia-plastica"
+    "bbl",
+    "parametros-numericos",
+    "anatomia",
+    "tecnica-cirurgica",
+    "complicacoes",
+    "epidemiologia"
   ]
 }

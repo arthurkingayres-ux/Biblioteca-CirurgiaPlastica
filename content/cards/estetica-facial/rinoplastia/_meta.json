@@ -1,35 +1,17 @@
 {
   "topic": "rinoplastia",
-  "area": "estética-facial",
+  "area": "estetica-facial",
   "displayName": "Rinoplastia",
   "version": "v1.0",
-  "date": "2026-04-07",
-  "status": "complete",
-  "references": [
-    "Neligan 5ed vol.2 caps. 18-22",
-    "Grabb & Smith 9ed caps. 54-55",
-    "Core Procedures 2ed cap. 4",
-    "Operative Dictations caps. 1-2"
-  ],
-  "articles": [
-    "Rohrich RN et al. PRS 2026;157(1):54-61",
-    "Taylor CM, Barrera JE. PRS 2026;157(1):28e-37e",
-    "Sergesketter AR et al. PRS 2026;157(4):496e-503e",
-    "Mattos D et al. PRS 2025;156(4):606e-615e",
-    "Şibar S et al. ASJ 2025;46(1):16-23",
-    "Niu K et al. ASJ 2025;46(1):24-30",
-    "Duan Y et al. ASJ 2025;45(11):1115-1124",
-    "Di Martino L et al. ASJ 2025;45(12):1220-1226",
-    "Kwan E et al. ASJ 2025;45(9):887-892",
-    "Ueno K et al. PRS 2026;157(4):563e-572e",
-    "Mohan VC et al. PRS 2025;156:30S-40S",
-    "Sazgar AA et al. ASJ 2025;45(8):770-779"
-  ],
+  "date": "2026-04-12",
+  "status": "draft",
+  "references": [],
+  "articles": [],
   "cardCounts": {
-    "anatomia": 16,
-    "técnicas": 17,
-    "decisoes": 4,
-    "notas": 10,
-    "flashcards": 67
+    "anatomia": 22,
+    "tecnicas": 26,
+    "decisoes": 6,
+    "notas": 32,
+    "flashcards": 87
   }
 }
