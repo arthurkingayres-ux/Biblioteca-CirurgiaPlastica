@@ -2,45 +2,53 @@
   {
     "id": "lipo-tec-001",
     "type": "technique",
-    "title": "Lipoaspiração Aspirativa Convencional (SAL — Suction-Assisted Liposuction)",
+    "title": "Lipoenxertia (Fat Grafting)",
     "aliases": [
-      "SAL",
-      "Suction-Assisted Liposuction"
+      "enxertia de gordura autóloga",
+      "fat grafting"
     ],
     "topic": "lipoaspiracao",
     "area": "contorno-corporal",
-    "indication": "Técnica padrão aplicável a todas as regiões corporais; amplamente disponível e versátil.",
-    "contraindication": "Nenhuma contraindicação específica além das gerais da lipoaspiração.",
+    "indication": "Utilização do aspirado como enxerto autólogo de gordura para aumento volumétrico (rejuvenescimento facial, reconstrução mamária, gluteoplastia de aumento)",
+    "contraindication": "Aspirado contaminado ou de má qualidade; área receptora com infecção ativa ou vascularização inadequada",
     "steps": [
-      "1. Infiltração tumescente da área-alvo",
-      "2. Incisões de acesso (2-3 mm) em pontos estratégicos para cross-tunneling",
-      "3. Introdução de cânula rígida (3-6 mm) conectada a sistema de vácuo (aspirador ou seringa)",
-      "4. Movimentos de vai-e-vem em múltiplas direções (fan technique) para fragmentação mecânica da gordura",
-      "5. Aspiração controlada, mantendo profundidade adequada (plano supra-aponeurótico)",
-      "6. Avaliação frequente de simetria e contorno por palpação"
+      "1. Coleta da gordura por lipoaspiração (preferencialmente com seringa ou baixa pressão de vácuo para preservar viabilidade celular)",
+      "2. Processamento por centrifugação (Coleman — 3.000 rpm por 3 minutos), decantação ou lavagem",
+      "3. Separação em 3 frações: óleo (adipócitos lisados — descartado), gordura viável (camada intermediária — utilizada) e fração aquosa/sanguínea (descartada)",
+      "4. Injeção em múltiplos túneis com pequenas alíquotas (0,1-0,3 mL por passagem) para maximizar contato com leito vascular receptor",
+      "5. Sobrecorreção de 20-30% para compensar reabsorção esperada"
     ],
     "complications": [
-      "Irregularidades de contorno (especialmente em camada superficial)",
-      "Maior esforço do cirurgião em áreas fibrosas",
-      "Menor retração cutânea comparada a tecnologias assistidas"
+      "Reabsorção imprevisível (30-70%)",
+      "Necrose gordurosa",
+      "Embolia gordurosa (raro, especialmente em injeção glútea)",
+      "Calcificações"
     ],
     "pearls": [
-      "Manter movimentos em múltiplas direções (fan technique) para otimizar fragmentação",
-      "Avaliar frequentemente simetria e contorno por palpação durante o procedimento",
-      "Manter profundidade adequada no plano supra-aponeurótico"
+      "Usar seringa de 10 mL acoplada a cânula de Coleman de 3 mm com pressão de vácuo manual de 1-2 mL",
+      "Áreas doadoras preferenciais: abdome inferior, flanco e face medial da coxa",
+      "Taxa de pega esperada: 30-70%",
+      "Usar microcânulas de Coleman de 1,5 a 2,0 mm para injeção",
+      "Variantes: nanofat (para injeção intradérmica/regenerativa) e microfat (para enxerto subdérmico fino)"
     ],
     "images": [],
     "citations": [
-      "Rohrich, Neligan, 5a Ed., 2023"
+      "Coleman, PRS, 2006",
+      "Tonnard et al., PRS, 2013",
+      "Neligan, 2023, vol.2, cap.24",
+      "Grabb & Smith, 2024, cap.75",
+      "Hoyos & Millard, HDBS, 2014, cap.21"
     ],
     "updates": [],
     "tags": [
       "tecnica",
-      "lipoaspiracao",
-      "sal",
-      "suction-assisted",
+      "lipoenxertia",
+      "fat-grafting",
       "contorno-corporal",
-      "convencional"
+      "enxerto-autlogo",
+      "rejuvenescimento-facial",
+      "reconstrucao-mamaria",
+      "gluteoplastia"
     ]
   },
   {
@@ -313,6 +321,310 @@
       "rejuvenescimento-facial",
       "reconstrução-mamária",
       "gluteoplastia"
+    ]
+  },
+  {
+    "id": "lipo-tec-009",
+    "type": "technique",
+    "title": "Lipoaspiração Assistida por Ultrassom (UAL/VASER)",
+    "aliases": [
+      "Vibration Amplification of Sound Energy at Resonance",
+      "Lipo HD com escultura muscular"
+    ],
+    "topic": "lipoaspiracao",
+    "area": "contorno-corporal",
+    "indication": "Áreas fibrosas (dorso, flancos, ginecomastia); lipoescultura de alta definição (lipo HD) com escultura muscular; situações que demandem maior retração cutânea",
+    "contraindication": "Inexperiência com a tecnologia (curva de aprendizado significativa); áreas com pele muito fina sem controle adequado de energia",
+    "steps": [
+      "1. Infiltração tumescente da área-alvo",
+      "2. Inserção da sonda de ultrassom (VASER com sondas sólidas multicanais)",
+      "3. Emulsificação da gordura por cavitação acústica — manter sonda em movimento constante para evitar queimaduras",
+      "4. Aspiração do tecido emulsificado com cânula convencional",
+      "5. Controle de tempo de exposição e energia conforme região"
+    ],
+    "complications": [
+      "Queimadura cutânea (risco principal — sonda parada gera calor excessivo)",
+      "Seroma",
+      "Custo elevado do equipamento"
+    ],
+    "pearls": [
+      "VASER é a 3ª geração de UAL com sondas sólidas multicanais de titânio",
+      "Diâmetros disponíveis: 2,2 mm, 2,9 mm, 3,7 mm e 4,5 mm",
+      "Sondas com 1 ranhura para tecidos fibrosos; 3 ranhuras para tecidos macios",
+      "Modo contínuo para tecidos fibrosos; pulsátil (10 bursts/s) para tecidos macios",
+      "Regra dos 'VASER seconds': 60 a 90 segundos por 100 mL de solução tumescente",
+      "Usar cânulas VentX (ponta romba, baixa pressão) para aspiração pós-emulsificação",
+      "Cânulas dinâmicas PowerX com rotação até 420 rpm para refinamento e coleta para lipoenxertia",
+      "Proteger ponto de entrada com toalha úmida e protetor de pele plástico",
+      "VASER oferece 20-30% maior retração cutânea comparado a SAL"
+    ],
+    "images": [],
+    "citations": [
+      "Hoyos & Millard, Aesthet Surg J, 2007",
+      "Nagy & Vanek, Aesthet Surg J, 2012",
+      "Hoyos & Millard, HDBS, 2014, cap.6"
+    ],
+    "updates": [],
+    "tags": [
+      "tecnica",
+      "lipoaspiracao",
+      "ultrassom",
+      "vaser",
+      "contorno-corporal",
+      "lipo-hd",
+      "emulsificacao",
+      "cavitacao-acustica"
+    ]
+  },
+  {
+    "id": "lipo-tec-010",
+    "type": "technique",
+    "title": "Lipoaspiração Assistida por Vibração (PAL — Power-Assisted Liposuction)",
+    "aliases": [
+      "PAL",
+      "Power-Assisted Liposuction"
+    ],
+    "topic": "lipoaspiracao",
+    "area": "contorno-corporal",
+    "indication": "Grandes volumes de aspiração; áreas fibrosas (flancos, dorso); redução da fadiga do cirurgião",
+    "contraindication": "Nenhuma contraindicação específica além das gerais",
+    "steps": [
+      "1. Infiltração tumescente da área-alvo",
+      "2. Introdução de cânula com movimento oscilatório mecânico (MicroAire)",
+      "3. Aspiração com auxílio da vibração — a cânula oscila em alta frequência, facilitando a penetração em tecidos fibrosos",
+      "4. Técnica de cross-tunneling semelhante à SAL, porém com menor esforço manual"
+    ],
+    "complications": [
+      "Perfil de segurança excelente; não gera calor significativo",
+      "Complicações semelhantes às da SAL convencional"
+    ],
+    "pearls": [
+      "Cânula PAL oscila em movimento recíproco de 2 a 3 mm de amplitude, com frequência de 2.000 a 4.000 ciclos por minuto",
+      "Vibração reduz a força necessária para penetrar tecido fibroso e diminui fadiga muscular do cirurgião",
+      "Tende a produzir aspirado de melhor qualidade para lipoenxertia com menor lesão adipocitária comparada à UAL e SAL com cânulas calibrosas"
+    ],
+    "images": [],
+    "citations": [
+      "Rohrich, Neligan, 5a Ed., 2023",
+      "Neligan, 2023, vol.2, cap.24",
+      "Core Procedures, 2020, cap.8"
+    ],
+    "updates": [],
+    "tags": [
+      "tecnica",
+      "lipoaspiracao",
+      "contorno-corporal",
+      "pal",
+      "power-assisted",
+      "vibracoes-mecanicas"
+    ]
+  },
+  {
+    "id": "lipo-tec-011",
+    "type": "technique",
+    "title": "Lipoaspiração Assistida por Laser (LAL — Laser-Assisted Lipolysis)",
+    "aliases": [
+      "LAL",
+      "Laser-Assisted Lipolysis"
+    ],
+    "topic": "lipoaspiracao",
+    "area": "contorno-corporal",
+    "indication": "Áreas pequenas com desejo de retração cutânea (submentual, braços); marketing de retração cutânea superior (evidência controversa)",
+    "contraindication": "Áreas extensas (risco de queimadura aumenta com maior tempo de exposição); inexperiência com a tecnologia",
+    "steps": [
+      "1. Infiltração tumescente da área-alvo",
+      "2. Inserção de fibra óptica com laser (Nd:YAG 1064 nm ou diodo 980 nm) através de cânula",
+      "3. Lipólise térmica por varredura controlada da área",
+      "4. Aspiração subsequente da gordura liquefeita"
+    ],
+    "complications": [
+      "Queimadura cutânea",
+      "Perfuração de vísceras (fibra rígida)"
+    ],
+    "pearls": [
+      "Revisão sistemática de Wollina (2020) não demonstrou superioridade consistente sobre SAL em retração cutânea"
+    ],
+    "images": [],
+    "citations": [
+      "Wollina, J Cosmet Dermatol, 2020",
+      "Mordon & Plot, Aesthet Surg J, 2009"
+    ],
+    "updates": [],
+    "tags": [
+      "tecnica",
+      "lipoaspi racao",
+      "laser",
+      "contorno-corporal",
+      "lipise-termica"
+    ]
+  },
+  {
+    "id": "lipo-tec-014",
+    "type": "technique",
+    "title": "Seleção de Cânulas por Região (referência prática)",
+    "aliases": [],
+    "topic": "lipoaspiracao",
+    "area": "contorno-corporal",
+    "indication": "Orientar a escolha adequada de cânulas para lipoaspiração em diferentes regiões anatômicas, considerando profundidade de trabalho e refinamento superficial",
+    "contraindication": "Não especificada no texto",
+    "steps": [
+      "1. Selecionar cânula de trabalho profundo conforme região anatômica: pescoço/submento (2,4 mm), braços (3,7 mm), dorso (3,7 mm), flancos/quadris (4,6 mm), abdome (3,7 mm), coxas lateral/posterior (3,7 mm), joelhos (3,0 mm)",
+      "2. Selecionar cânula de refinamento superficial conforme região: pescoço/submento (2,4 mm microcânula), braços (3,0-2,4 mm), dorso (3,0 mm), flancos/quadris (3,7-3,0 mm), abdome (3,7-3,0 mm), coxas (3,0 mm), joelhos (2,4 mm)",
+      "3. Utilizar cânulas com ponta romba e três orifícios laterais distais (tipo Mercedes) para trabalho profundo",
+      "4. Utilizar cânulas com orifícios menores e em maior número (tipo basket ou VentX) para refinamento superficial e coleta para lipoenxertia"
+    ],
+    "complications": [],
+    "pearls": [
+      "Cânulas tipo Mercedes são as mais utilizadas para trabalho profundo",
+      "Cânulas tipo basket ou VentX reduzem dano celular e irregularidades em refinamento superficial",
+      "Cânulas tipo basket ou VentX são preferidas para coleta de gordura destinada a lipoenxertia"
+    ],
+    "images": [],
+    "citations": [
+      "Core Procedures, 2020, cap.8",
+      "Neligan, 2023, vol.2, cap.24"
+    ],
+    "updates": [],
+    "tags": [
+      "tecnica",
+      "canulas",
+      "lipoaspiracao",
+      "selecao-regional",
+      "contorno-corporal",
+      "refinamento-superficial",
+      "trabalho-profundo"
+    ]
+  },
+  {
+    "id": "lipo-tec-015",
+    "type": "technique",
+    "title": "Lipoescultura de Alta Definição (HDBS — High Definition Body Sculpting)",
+    "aliases": [
+      "HDBS"
+    ],
+    "topic": "lipoaspiracao",
+    "area": "contorno-corporal",
+    "indication": "Pacientes com IMC < 30 kg/m², percentual de gordura corporal < 25% em mulheres e < 20% em homens, boa elasticidade cutânea e motivados para manutenção com dieta e exercício, desejando contorno corporal com revelação de relevos anatômicos próximos ao limite atlético",
+    "contraindication": "IMC ≥ 30 kg/m²; percentual de gordura corporal ≥ 25% em mulheres ou ≥ 20% em homens; elasticidade cutânea inadequada; falta de motivação para manutenção pós-operatória",
+    "steps": [
+      "1. Marcação dinâmica com paciente em pé e contração isométrica das musculaturas-alvo, identificando zonas positivas (a preservar/projetar), zonas negativas (a aprofundar) e zonas de transição (a suavizar)",
+      "2. Infiltração tumescente profunda",
+      "3. Infiltração superficial",
+      "4. Emulsificação superficial",
+      "5. Emulsificação profunda",
+      "6. Aspiração profunda",
+      "7. Aspiração superficial",
+      "8. Lipoenxertia das zonas positivas (peitoral, glúteo, deltoide)"
+    ],
+    "complications": [],
+    "pearls": [
+      "Técnica combina remoção volumétrica em camada profunda com escultura seletiva de camadas intermediária e superficial sobre projeções musculares (reto abdominal, oblíquos, peitoral, deltoide, glúteo médio)",
+      "O aspirado é frequentemente reaproveitado para lipoenxertia em áreas de projeção",
+      "Tecnologia preferencial: UAL/VASER com sondas finas em modo pulsátil ou PAL com cânulas finas para trabalho superficial",
+      "SAL pura é subótima para definição superficial pelo risco de irregularidades"
+    ],
+    "images": [],
+    "citations": [
+      "Hoyos & Millard, HDBS, 2014, cap.6",
+      "Hoyos & Millard, HDBS, 2014, cap.4",
+      "Hoyos & Millard, HDBS, 2014, cap.2",
+      "Hoyos & Millard, HDBS, 2014, caps.6 e 8"
+    ],
+    "updates": [],
+    "tags": [
+      "tecnica",
+      "lipoaspiracao",
+      "contorno-corporal",
+      "hdbs",
+      "lipoescultura",
+      "lipoenxertia",
+      "definicao-corporalsuper"
+    ]
+  },
+  {
+    "id": "lipo-tec-016",
+    "type": "technique",
+    "title": "Técnica SAFE (Separation, Aspiration, Fat Equalization)",
+    "aliases": [],
+    "topic": "lipoaspiracao",
+    "area": "contorno-corporal",
+    "indication": "lipoaspiração de grandes volumes; áreas de risco para irregularidade (face medial da coxa, dorso, braços); preparo para lipoenxertia simultânea com manutenção de aspirado de boa qualidade",
+    "contraindication": "não especificada no texto",
+    "steps": [
+      "1. Separation — utilizar cânula exploradora basket sem aspiração para emulsificar mecanicamente a gordura sem remoção",
+      "2. Aspiration — usar cânula convencional PAL aspirando o tecido pré-emulsificado",
+      "3. Fat Equalization — aplicar cânula basket sem aspiração em camada superficial para redistribuir uniformemente a gordura residual e prevenir irregularidades"
+    ],
+    "complications": [
+      "irregularidades de superfície (reduzida com esta técnica)"
+    ],
+    "pearls": [
+      "aspirado mais limpo com sangramento reduzido",
+      "menor dependência de potência de vácuo comparada a técnicas convencionais",
+      "mantém qualidade do aspirado para lipoenxertia simultânea",
+      "especialmente eficaz em áreas anatomicamente desafiadoras como face medial da coxa, dorso e braços"
+    ],
+    "images": [],
+    "citations": [
+      "Neligan, 2023, vol.2, cap.24",
+      "Core Procedures, 2020, cap.8"
+    ],
+    "updates": [],
+    "tags": [
+      "tecnica",
+      "lipoaspiracao",
+      "safe",
+      "contorno-corporal",
+      "pal",
+      "lipoenxertia",
+      "emulsificacao",
+      "canula-basket"
+    ]
+  },
+  {
+    "id": "lipo-tec-017",
+    "type": "technique",
+    "title": "Lipoabdominoplastia (Saldanha) — Combinação Lipoaspiração + Abdominoplastia",
+    "aliases": [
+      "Lipoabdominoplastia Saldanha",
+      "Abdominoplastia com lipoaspiração ampla"
+    ],
+    "topic": "lipoaspiracao",
+    "area": "contorno-corporal",
+    "indication": "Pacientes com excesso de pele e gordura abdominal que necessitam de contorno integrado de abdome superior, flancos e dorso, com desejo de melhor definição dos flancos e tratamento dorsal na mesma intervenção",
+    "contraindication": "Pacientes com alto risco tromboembolismo venoso sem possibilidade de profilaxia farmacológica; contraindicações gerais para abdominoplastia ou lipoaspiração",
+    "steps": [
+      "1. Avaliação pré-operatória com estratificação de risco tromboembolismo venoso (Caprini-Davison)",
+      "2. Lipoaspiração ampla do abdome superior, flancos e dorso",
+      "3. Preservação dos principais perfurantes da artéria epigástrica profunda",
+      "4. Preservação do tecido adiposo profundo do retalho para manutenção da vascularização",
+      "5. Abdominoplastia tradicional com integração dos resultados de lipoaspiração"
+    ],
+    "complications": [
+      "Tromboembolismo venoso (risco substancialmente elevado comparado a procedimentos isolados)",
+      "Necrose de retalho",
+      "Seroma",
+      "Hematoma"
+    ],
+    "pearls": [
+      "Preservar tecido adiposo profundo do retalho para não comprometer vascularização",
+      "Profilaxia farmacológica obrigatória para tromboembolismo venoso",
+      "Estratificação Caprini-Davison obrigatória",
+      "Possibilita tratamento integrado de abdome, flancos e dorso em única intervenção"
+    ],
+    "images": [],
+    "citations": [
+      "Grabb & Smith, 2024, cap.75",
+      "Neligan, 2023, vol.2, cap.24"
+    ],
+    "updates": [],
+    "tags": [
+      "tecnica-combinada",
+      "abdominoplastia",
+      "lipoaspiracao",
+      "contorno-corporal",
+      "cirurgia-plastica",
+      "tromboprofilaxia"
     ]
   }
 ]

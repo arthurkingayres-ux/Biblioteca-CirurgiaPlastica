@@ -159,5 +159,111 @@
       "orelha-em-abano",
       "algoritmo-cirurgico"
     ]
+  },
+  {
+    "id": "oto-dec-003",
+    "type": "decision",
+    "title": "Algoritmo de Decisão — Tratamento da Orelha em Abano",
+    "topic": "otoplastia",
+    "area": "estetica-facial",
+    "trigger": "Paciente com orelha em abano (ângulo cefaloauricular > 35 graus e/ou projeção hélice-mastoide acima dos valores normais) avaliado para correção",
+    "steps": [
+      {
+        "question": "Qual é o ângulo cefaloauricular e a projeção hélice-mastoide do paciente?",
+        "options": [
+          {
+            "answer": "Ângulo > 35° e/ou projeção elevada",
+            "next": "Confirmar diagnóstico de orelha em abano; prosseguir para avaliação da idade"
+          },
+          {
+            "answer": "Ângulo ≤ 35° e projeção normal",
+            "next": "Descartar orelha em abano; considerar outras anomalias auriculares"
+          }
+        ]
+      },
+      {
+        "question": "Qual é a idade do paciente?",
+        "options": [
+          {
+            "answer": "Criança (< 12 anos)",
+            "next": "Considerar tratamento conservador com moldagem auricular; avaliar maturidade psicossocial"
+          },
+          {
+            "answer": "Adolescente/Adulto (≥ 12 anos)",
+            "next": "Indicar avaliação para otoplastia cirúrgica; discutir expectativas estéticas"
+          }
+        ]
+      },
+      {
+        "question": "Paciente aceita tratamento conservador com moldagem auricular?",
+        "options": [
+          {
+            "answer": "Sim, criança com boa colaboração",
+            "next": "Prescrever moldagem auricular contínua; reavaliação periódica a cada 4-6 semanas"
+          },
+          {
+            "answer": "Não ou sem resposta adequada",
+            "next": "Indicar otoplastia cirúrgica; realizar planejamento pré-operatório"
+          }
+        ]
+      },
+      {
+        "question": "Qual é o principal componente anatômico alterado?",
+        "options": [
+          {
+            "answer": "Aumento de projeção hélice-mastoide (protrusão)",
+            "next": "Técnica: sutura de dobramento (folding/Mustardé) ou ressecção de cartilagem"
+          },
+          {
+            "answer": "Aumento de ângulo cefaloauricular e/ou ausência de anti-hélix",
+            "next": "Técnica: reconstrução de anti-hélix (Furnas) e/ou sutura de fixação posterior"
+          },
+          {
+            "answer": "Combinação de alterações (protrusão + ângulo aumentado)",
+            "next": "Técnica combinada: sutura de dobramento + reconstrução de anti-hélix + fixação posterior"
+          }
+        ]
+      },
+      {
+        "question": "Há contraindicações cirúrgicas ou comorbidades relevantes?",
+        "options": [
+          {
+            "answer": "Sim (infecção ativa, distúrbios de cicatrização, coagulopatia)",
+            "next": "Adiar cirurgia; tratar comorbidades; reavaliação após estabilização clínica"
+          },
+          {
+            "answer": "Não, paciente apto para cirurgia",
+            "next": "Proceder com otoplastia sob anestesia geral ou local com sedação; agendar cirurgia"
+          }
+        ]
+      },
+      {
+        "question": "Qual é o resultado pós-operatório esperado?",
+        "options": [
+          {
+            "answer": "Sucesso: ângulo cefaloauricular < 30° e projeção hélice-mastoide normal",
+            "next": "Alta hospitalar; orientações de cuidados pós-operatórios; seguimento em 2-4 semanas"
+          },
+          {
+            "answer": "Resultado subótimo ou complicação intraoperatória",
+            "next": "Avaliar possibilidade de revisão cirúrgica após 6-12 meses de cicatrização; suporte psicológico"
+          }
+        ]
+      }
+    ],
+    "citations": [
+      "Neligan, 2023, vol. 3, cap. 28",
+      "Grabb & Smith, 2024, cap. 57",
+      "McGarry KM et al. Plast Reconstr Surg 2023;151(3):388e-397e"
+    ],
+    "updates": [],
+    "tags": [
+      "decisao",
+      "otoplastia",
+      "orelha-em-abano",
+      "cirurgia-estetica",
+      "cirurgia-facial",
+      "algoritmo-clinico"
+    ]
   }
 ]
