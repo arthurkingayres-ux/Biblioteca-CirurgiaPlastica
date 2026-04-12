@@ -1729,6 +1729,357 @@ def glut_tec_etching_hdbs():
     save(fig, 'gluteoplastia', 'glut-tec-etching-hdbs.png')
 
 
+# ============================================================
+# CONTORNO POS-BARIATRICO DIAGRAMS
+# ============================================================
+
+def _cpb_torso_outline(ax, cx=5, top=8, bottom=0.5, scale=1.0):
+    """Silhueta frontal simplificada de tronco pos-bariatrico (pele redundante)."""
+    # Tronco
+    ax.plot([cx-1.8, cx-2.2, cx-2.5, cx-2.3, cx-1.8], [top, top-1.5, top-3, top-5, bottom+1], color='#455A64', linewidth=1.8)
+    ax.plot([cx+1.8, cx+2.2, cx+2.5, cx+2.3, cx+1.8], [top, top-1.5, top-3, top-5, bottom+1], color='#455A64', linewidth=1.8)
+
+def cpb_anat_mama_ptose():
+    fig, ax = plt.subplots(figsize=(10, 7))
+    ax.set_xlim(0, 10); ax.set_ylim(0, 8); ax.set_aspect('equal'); ax.axis('off')
+    ax.text(5, 7.6, 'Mama Pós-Bariátrica — Ptose Grau III e Pseudoptose', ha='center', fontsize=13, fontweight='bold', color='#1A237E')
+    # Perfil lateral esquerdo (pre) e direito (bari)
+    # Normal (esquerda)
+    ax.text(2.5, 6.8, 'Pré (normal)', ha='center', fontsize=10, fontweight='bold', color='#2E7D32')
+    ax.plot([2, 3.5, 3.8, 3.5, 2], [6, 5.8, 5, 4.2, 4], color='#2E7D32', linewidth=2)
+    ax.plot([2, 2], [4, 6], color='#2E7D32', linewidth=2)
+    ax.plot(3.5, 5, 'o', markersize=8, color='#D84315')  # CAM
+    ax.axhline(y=4, xmin=0.15, xmax=0.4, color='#2E7D32', linestyle='--', linewidth=1)
+    ax.text(3.9, 4, 'IMF', fontsize=8, color='#2E7D32', va='center')
+    # Pos-bariatrico (direita)
+    ax.text(7.5, 6.8, 'Pós-bariátrico', ha='center', fontsize=10, fontweight='bold', color='#C62828')
+    ax.plot([7, 8.3, 8.8, 8.5, 8, 7], [6, 5.9, 5.2, 3.5, 2.8, 3], color='#C62828', linewidth=2)
+    ax.plot([7, 7], [3, 6], color='#C62828', linewidth=2)
+    ax.plot(8.4, 3.2, 'o', markersize=8, color='#D84315')  # CAM abaixo do IMF
+    ax.axhline(y=3.8, xmin=0.7, xmax=0.9, color='#C62828', linestyle='--', linewidth=1)
+    ax.text(8.95, 3.8, 'IMF', fontsize=8, color='#C62828', va='center')
+    ax.annotate('CAM abaixo\ndo sulco', xy=(8.4, 3.2), xytext=(9.3, 2.2), fontsize=8, color='#C62828',
+                arrowprops=dict(arrowstyle='->', color='#C62828'))
+    ax.annotate('Pele redundante\n+ esvaziamento\ndo polo superior', xy=(7.5, 4.5), xytext=(5.1, 5.5), fontsize=8, color='#455A64',
+                arrowprops=dict(arrowstyle='->', color='#455A64'))
+    # Footer
+    ax.text(5, 0.8, 'Regnault III: CAM abaixo do IMF e voltado para baixo. Pseudoptose (CAM acima do IMF mas\npolo inferior pendular) comum em pós-bariátrico por perda de volume + elasticidade cutânea.',
+            ha='center', fontsize=8, style='italic', color='#455A64')
+    save(fig, 'contorno-pos-bariatrico', 'cpb-anat-mama-ptose-bariatrica.png')
+
+
+def cpb_anat_face_pescoco():
+    fig, ax = plt.subplots(figsize=(9, 8))
+    ax.set_xlim(0, 9); ax.set_ylim(0, 8); ax.set_aspect('equal'); ax.axis('off')
+    ax.text(4.5, 7.6, 'Face e Pescoço Pós-Bariátricos — Deflação e Flacidez', ha='center', fontsize=12, fontweight='bold', color='#1A237E')
+    # Perfil facial esquematico
+    ax.plot([3, 3.2, 3.5, 3.8, 4, 4.2, 4.3, 4.2, 4, 3.7, 3.5, 3, 2.5, 2.3, 2.5, 3, 3.5],
+            [6.5, 6.2, 6.0, 5.7, 5.3, 5.0, 4.6, 4.3, 4.1, 4.0, 3.8, 3.5, 3.3, 3.0, 2.5, 2.2, 2.0],
+            color='#37474F', linewidth=2)
+    # Jowl (mandibula pendente)
+    ax.plot([3.7, 3.9, 4.0, 3.9, 3.6], [3.8, 3.5, 3.2, 2.9, 2.8], color='#C62828', linewidth=2)
+    ax.annotate('Jowls\n(flacidez\nmandibular)', xy=(3.9, 3.3), xytext=(5.5, 3.3), fontsize=9, color='#C62828',
+                arrowprops=dict(arrowstyle='->', color='#C62828'))
+    # Sulco nasolabial e marioneta
+    ax.plot([4.0, 3.8], [4.7, 4.1], color='#F57C00', linewidth=1.5)
+    ax.plot([3.7, 3.5], [4.2, 3.5], color='#F57C00', linewidth=1.5)
+    ax.annotate('Sulco\nnasolabial\nprofundo', xy=(3.9, 4.4), xytext=(5.5, 4.8), fontsize=9, color='#F57C00',
+                arrowprops=dict(arrowstyle='->', color='#F57C00'))
+    # Submento flacido
+    ax.plot([3.5, 3.2, 3.0, 2.7], [3.3, 2.9, 2.7, 2.5], color='#C62828', linewidth=2)
+    ax.annotate('Submento\nptótico\n(platisma banda)', xy=(3.1, 2.7), xytext=(5.5, 2.2), fontsize=9, color='#C62828',
+                arrowprops=dict(arrowstyle='->', color='#C62828'))
+    # Angulo cervicomental obtuso
+    ax.plot([2.8, 2.5], [2.6, 2.0], color='#7B1FA2', linewidth=1.5, linestyle='--')
+    ax.text(1.5, 1.8, 'Ângulo\ncervicomental\n> 120° (obtuso)', fontsize=9, color='#7B1FA2')
+    # Deflação malar
+    ax.add_patch(mpatches.Ellipse((3.7, 5.0), 0.5, 0.4, facecolor='#FFEE58', alpha=0.5))
+    ax.annotate('Deflação\nmalar', xy=(3.7, 5.0), xytext=(5.5, 6.0), fontsize=9, color='#795548',
+                arrowprops=dict(arrowstyle='->', color='#795548'))
+    ax.text(4.5, 0.7, 'Perda ponderal massiva → deflação de compartimentos graxos (malar, buccal, temporal)\n+ flacidez SMAS/platisma → envelhecimento facial 10–15 anos precoce.',
+            ha='center', fontsize=8.5, style='italic', color='#455A64')
+    save(fig, 'contorno-pos-bariatrico', 'cpb-anat-face-pescoco-ptose.png')
+
+
+def _incisao_coxa(ax, title, color, path, caption):
+    """Helper: silhueta de coxa frontal com linha de incisao."""
+    ax.set_xlim(0, 10); ax.set_ylim(0, 9); ax.set_aspect('equal'); ax.axis('off')
+    ax.text(5, 8.6, title, ha='center', fontsize=12, fontweight='bold', color='#1A237E')
+    # Coxa (cone invertido suave)
+    ax.plot([3.5, 3.0, 2.5, 2.7, 3.0], [7.5, 5.5, 3.0, 1.0, 0.5], color='#455A64', linewidth=2)
+    ax.plot([6.5, 7.0, 7.5, 7.3, 7.0], [7.5, 5.5, 3.0, 1.0, 0.5], color='#455A64', linewidth=2)
+    # Linha da virilha
+    ax.plot([3.5, 6.5], [7.5, 7.5], color='#455A64', linewidth=1.5)
+    # Incisao
+    for seg in path:
+        ax.plot(seg[0], seg[1], color=color, linewidth=3)
+    ax.text(5, 0.3, caption, ha='center', fontsize=8.5, style='italic', color='#455A64')
+
+
+def cpb_tec_cruroplastia_medial():
+    fig, ax = plt.subplots(figsize=(10, 9))
+    _incisao_coxa(ax, 'Cruroplastia Medial — Incisão Horizontal Inguinal', '#E53935',
+                  [([3.8, 6.2], [7.3, 7.3])],
+                  'Incisão no sulco inguinal; ressecção de elipse medial; ancoragem em fáscia de Colles.')
+    # Elipse de ressecao
+    ax.add_patch(mpatches.Ellipse((5, 7.0), 2.6, 0.6, facecolor='#EF9A9A', alpha=0.4, edgecolor='#E53935', linewidth=1.5, linestyle='--'))
+    ax.annotate('Elipse de\nressecção', xy=(5, 6.7), xytext=(7.5, 6.2), fontsize=9, color='#E53935',
+                arrowprops=dict(arrowstyle='->', color='#E53935'))
+    save(fig, 'contorno-pos-bariatrico', 'cpb-tec-cruroplastia-medial.png')
+
+
+def cpb_tec_cruroplastia_vertical():
+    fig, ax = plt.subplots(figsize=(10, 9))
+    _incisao_coxa(ax, 'Cruroplastia Vertical — Incisão Longitudinal Medial', '#E53935',
+                  [([4.7, 4.7], [7.3, 2.0]), ([3.8, 6.2], [7.3, 7.3])],
+                  'Incisão em "L": horizontal inguinal + longitudinal medial até joelho; indicado para excesso vertical.')
+    # Area de ressecao (fusiforme vertical)
+    ax.add_patch(mpatches.Polygon([[4.2, 7.3],[5.2, 7.3],[5.0, 2.0],[4.4, 2.0]], facecolor='#EF9A9A', alpha=0.4, edgecolor='#E53935', linewidth=1.5, linestyle='--'))
+    ax.annotate('Cicatriz visível\nna face medial', xy=(5.0, 4.5), xytext=(7.0, 4.5), fontsize=9, color='#E53935',
+                arrowprops=dict(arrowstyle='->', color='#E53935'))
+    save(fig, 'contorno-pos-bariatrico', 'cpb-tec-cruroplastia-vertical.png')
+
+
+def cpb_tec_cruroplastia_360():
+    fig, ax = plt.subplots(figsize=(10, 9))
+    _incisao_coxa(ax, 'Cruroplastia Circunferencial (Thighplasty 360°)', '#E53935',
+                  [([3.8, 6.2], [7.3, 7.3]), ([3.0, 3.5], [4.0, 3.0]), ([6.5, 7.0], [4.0, 3.0])],
+                  'Combina incisão inguinal medial + lateral (com lower body lift). Risco maior de linfedema.')
+    # Circunferencial implicado
+    ax.add_patch(mpatches.Ellipse((5, 4.0), 4.5, 1.5, facecolor='none', edgecolor='#E53935', linewidth=2, linestyle='--'))
+    ax.text(5, 4.0, 'Ressecção 360°', ha='center', fontsize=9, color='#E53935', fontweight='bold')
+    save(fig, 'contorno-pos-bariatrico', 'cpb-tec-cruroplastia-360.png')
+
+
+def cpb_tec_scarpa_aly():
+    fig, ax = plt.subplots(figsize=(10, 7))
+    ax.set_xlim(0, 10); ax.set_ylim(0, 7); ax.set_aspect('equal'); ax.axis('off')
+    ax.text(5, 6.6, 'Fixação de Scarpa ao Periósteo — Técnica de Aly', ha='center', fontsize=13, fontweight='bold', color='#1A237E')
+    # Corte sagital
+    # Pele
+    ax.add_patch(mpatches.Rectangle((1, 5.0), 8, 0.4, facecolor='#FFE0B2', edgecolor='#8D6E63'))
+    ax.text(0.6, 5.2, 'Pele', fontsize=9, ha='right', color='#8D6E63')
+    # TCSC superficial + Scarpa + TCSC profundo
+    ax.add_patch(mpatches.Rectangle((1, 4.0), 8, 1.0, facecolor='#FFF59D', edgecolor='#F9A825'))
+    ax.text(0.6, 4.5, 'Subcutâneo\nsuperficial', fontsize=8, ha='right', color='#F9A825')
+    ax.plot([1, 9], [4.0, 4.0], color='#1A237E', linewidth=2.5)
+    ax.text(0.6, 4.0, 'Fáscia de\nScarpa', fontsize=9, ha='right', color='#1A237E', fontweight='bold')
+    ax.add_patch(mpatches.Rectangle((1, 3.2), 8, 0.8, facecolor='#FFF59D', edgecolor='#F9A825', alpha=0.6))
+    # Aponeurose + periosteo do pubis
+    ax.add_patch(mpatches.Rectangle((1, 2.8), 8, 0.4, facecolor='#90A4AE', edgecolor='#455A64'))
+    ax.text(0.6, 3.0, 'Aponeurose\nreto abdominal', fontsize=8, ha='right', color='#455A64')
+    # Pubis (periosteo)
+    ax.add_patch(mpatches.Rectangle((3.5, 2.3), 3, 0.5, facecolor='#F5F5DC', edgecolor='#5D4037', linewidth=2))
+    ax.text(5, 2.55, 'Púbis (periósteo)', ha='center', fontsize=8, color='#5D4037')
+    # Suturas de ancoragem (3)
+    for x in [4.0, 5.0, 6.0]:
+        ax.plot([x, x], [4.0, 2.8], color='#C62828', linewidth=2.5)
+        ax.plot(x, 4.0, 'o', markersize=5, color='#C62828')
+        ax.plot(x, 2.8, 'o', markersize=5, color='#C62828')
+    ax.annotate('Scarpa ancorada no\nperiósteo do púbis\n(3–5 pontos não-absorvíveis)', xy=(5, 3.4), xytext=(7.5, 1.8), fontsize=9, color='#C62828',
+                arrowprops=dict(arrowstyle='->', color='#C62828'))
+    ax.text(5, 0.9, 'Aly (PRS 2003): ancoragem previne migração cicatricial cranial + reduz seroma\n(converte espaço morto em cavidade fechada).', ha='center', fontsize=8.5, style='italic', color='#455A64')
+    save(fig, 'contorno-pos-bariatrico', 'cpb-tec-fixacao-scarpa-aly.png')
+
+
+def cpb_tec_l_braquioplastia():
+    fig, ax = plt.subplots(figsize=(10, 8))
+    ax.set_xlim(0, 10); ax.set_ylim(0, 8); ax.set_aspect('equal'); ax.axis('off')
+    ax.text(5, 7.6, 'L-Braquioplastia — Extensão ao Tórax Lateral', ha='center', fontsize=13, fontweight='bold', color='#1A237E')
+    # Torso + brazo em abducao
+    # Torso
+    ax.add_patch(mpatches.Rectangle((3.5, 1.5), 3, 4.5, facecolor='#ECEFF1', edgecolor='#455A64', linewidth=1.5))
+    # Braço estendido lateralmente
+    ax.add_patch(mpatches.Polygon([[6.5, 5.8], [9.5, 5.5], [9.5, 4.7], [6.5, 4.3]], facecolor='#ECEFF1', edgecolor='#455A64', linewidth=1.5))
+    # Axila
+    ax.plot(6.5, 5.0, 'o', markersize=6, color='#455A64')
+    # Incisao em L
+    # Braço (medial, do epicôndilo à axila)
+    ax.plot([9.3, 6.7], [5.0, 5.0], color='#E53935', linewidth=3)
+    # Tórax lateral (continuação vertical descendente)
+    ax.plot([6.5, 6.5], [5.0, 2.5], color='#E53935', linewidth=3)
+    ax.annotate('Segmento\nbraquial', xy=(8.0, 5.0), xytext=(8.0, 6.5), fontsize=9, color='#E53935',
+                arrowprops=dict(arrowstyle='->', color='#E53935'))
+    ax.annotate('Extensão\ntorácica lateral\n(correção dog-ear\n+ dobra axilar)', xy=(6.5, 3.5), xytext=(2.0, 3.5), fontsize=9, color='#E53935',
+                arrowprops=dict(arrowstyle='->', color='#E53935'))
+    ax.text(5, 0.8, 'Indicada quando dog-ear axilar ou dobra torácica lateral não resolvem com braquioplastia\nclássica. Cicatriz em "L" — axila é o ponto de articulação.', ha='center', fontsize=8.5, style='italic', color='#455A64')
+    save(fig, 'contorno-pos-bariatrico', 'cpb-tec-l-braquioplastia.png')
+
+
+def _mama_frontal(ax, cx=5, cy=4.2, r=1.4, skin_color='#FFCCBC', nipple_color='#6D4C41'):
+    ax.add_patch(mpatches.Circle((cx, cy), r, facecolor=skin_color, edgecolor='#8D6E63', linewidth=1.5))
+    ax.plot(cx, cy, 'o', markersize=10, color=nipple_color)
+
+
+def cpb_tec_mastopexia_wise():
+    fig, ax = plt.subplots(figsize=(9, 8))
+    ax.set_xlim(0, 9); ax.set_ylim(0, 8); ax.set_aspect('equal'); ax.axis('off')
+    ax.text(4.5, 7.6, 'Mastopexia em Wise (Âncora) — Pedículo Superior', ha='center', fontsize=12, fontweight='bold', color='#1A237E')
+    _mama_frontal(ax, cx=4.5, cy=4.0, r=1.8)
+    # Padrão Wise (keyhole + T invertido)
+    # Keyhole (circulo novo CAM)
+    ax.add_patch(mpatches.Circle((4.5, 4.8), 0.35, facecolor='none', edgecolor='#E53935', linewidth=2))
+    # Pilares verticais
+    ax.plot([4.15, 3.8], [4.45, 2.7], color='#E53935', linewidth=2)
+    ax.plot([4.85, 5.2], [4.45, 2.7], color='#E53935', linewidth=2)
+    # IMF (horizontal)
+    ax.plot([3.0, 6.0], [2.7, 2.7], color='#E53935', linewidth=2)
+    ax.annotate('Keyhole\n(novo CAM)', xy=(4.5, 5.0), xytext=(6.5, 6.0), fontsize=9, color='#E53935',
+                arrowprops=dict(arrowstyle='->', color='#E53935'))
+    ax.annotate('Pilares verticais\n+ T invertido no IMF', xy=(4.5, 2.7), xytext=(6.5, 1.5), fontsize=9, color='#E53935',
+                arrowprops=dict(arrowstyle='->', color='#E53935'))
+    # Setas do pediculo superior
+    ax.annotate('', xy=(4.5, 4.8), xytext=(4.5, 6.5), arrowprops=dict(arrowstyle='->', color='#2E7D32', lw=2))
+    ax.text(3.5, 6.7, 'Pedículo superior\n(CAM vascularizado\npor perfurantes sup.)', fontsize=8, color='#2E7D32', ha='center')
+    ax.text(4.5, 0.9, 'Padrão Wise: maior ressecção cutânea; ideal para gigantomastia e ptose grau III.\nCicatriz em âncora (vertical + horizontal IMF).', ha='center', fontsize=8.5, style='italic', color='#455A64')
+    save(fig, 'contorno-pos-bariatrico', 'cpb-tec-mastopexia-wise.png')
+
+
+def cpb_tec_mastopexia_palusa():
+    fig, ax = plt.subplots(figsize=(9, 8))
+    ax.set_xlim(0, 9); ax.set_ylim(0, 8); ax.set_aspect('equal'); ax.axis('off')
+    ax.text(4.5, 7.6, 'Mastopexia Vertical — Pedículo Inferior (Palusa/Lejour)', ha='center', fontsize=12, fontweight='bold', color='#1A237E')
+    _mama_frontal(ax, cx=4.5, cy=4.0, r=1.8)
+    # Padrão vertical (sem horizontal IMF)
+    ax.add_patch(mpatches.Circle((4.5, 4.8), 0.35, facecolor='none', edgecolor='#E53935', linewidth=2))
+    ax.plot([4.15, 4.15], [4.45, 2.5], color='#E53935', linewidth=2)
+    ax.plot([4.85, 4.85], [4.45, 2.5], color='#E53935', linewidth=2)
+    ax.plot([4.15, 4.85], [2.5, 2.5], color='#E53935', linewidth=2)
+    # Pediculo inferior (seta ascendente)
+    ax.annotate('', xy=(4.5, 4.5), xytext=(4.5, 2.5), arrowprops=dict(arrowstyle='->', color='#2E7D32', lw=2.5))
+    ax.text(3.0, 3.5, 'Pedículo\ninferior\n(perfurantes\nda IMF)', fontsize=8.5, color='#2E7D32', ha='center')
+    ax.annotate('Cicatriz\nvertical apenas\n(sem sulco)', xy=(4.5, 3.5), xytext=(6.8, 3.8), fontsize=9, color='#E53935',
+                arrowprops=dict(arrowstyle='->', color='#E53935'))
+    ax.text(4.5, 0.9, 'Palusa/Lejour: pedículo inferior preserva sensibilidade e volume.\nCicatriz apenas vertical — bom para ptose leve a moderada.', ha='center', fontsize=8.5, style='italic', color='#455A64')
+    save(fig, 'contorno-pos-bariatrico', 'cpb-tec-mastopexia-palusa.png')
+
+
+def cpb_tec_mastopexia_implante():
+    fig, ax = plt.subplots(figsize=(10, 7))
+    ax.set_xlim(0, 10); ax.set_ylim(0, 7); ax.set_aspect('equal'); ax.axis('off')
+    ax.text(5, 6.6, 'Mastopexia com Implante — Composite Reverse (planos)', ha='center', fontsize=12, fontweight='bold', color='#1A237E')
+    # Corte sagital
+    ax.add_patch(mpatches.Rectangle((1, 5.2), 8, 0.3, facecolor='#FFE0B2', edgecolor='#8D6E63'))
+    ax.text(0.6, 5.35, 'Pele', fontsize=9, ha='right', color='#8D6E63')
+    ax.add_patch(mpatches.Rectangle((1, 4.2), 8, 1.0, facecolor='#FFF59D', edgecolor='#F9A825', alpha=0.7))
+    ax.text(0.6, 4.7, 'Parênquima\nmamário', fontsize=8.5, ha='right', color='#F57C00')
+    # Fascia peitoral
+    ax.plot([1, 9], [4.2, 4.2], color='#1A237E', linewidth=2)
+    # Musculo peitoral maior
+    ax.add_patch(mpatches.Rectangle((1, 3.2), 8, 1.0, facecolor='#C62828', edgecolor='#7F0000', alpha=0.5))
+    ax.text(0.6, 3.7, 'M. peitoral\nmaior', fontsize=8.5, ha='right', color='#7F0000')
+    # Implante dual plane
+    ax.add_patch(mpatches.Ellipse((5, 3.9), 3.5, 1.2, facecolor='#ECEFF1', edgecolor='#263238', linewidth=1.5))
+    ax.text(5, 3.9, 'Implante (dual-plane)', ha='center', fontsize=9, color='#263238', fontweight='bold')
+    ax.annotate('Bolso subpeitoral\nparcial (dual-plane I–III\nde Tebbetts)', xy=(5, 3.9), xytext=(8.3, 2.0), fontsize=8.5, color='#455A64',
+                arrowprops=dict(arrowstyle='->', color='#455A64'))
+    ax.text(5, 1.0, 'Indicação: ptose + deflação severa do polo superior. Risco de bottoming-out se pele\nfrágil — preferir implante pequeno (< 300 mL) e mastopexia generosa.', ha='center', fontsize=8.5, style='italic', color='#455A64')
+    save(fig, 'contorno-pos-bariatrico', 'cpb-tec-mastopexia-implante.png')
+
+
+def cpb_tec_autoaumento_dermoglandular():
+    fig, ax = plt.subplots(figsize=(10, 7))
+    ax.set_xlim(0, 10); ax.set_ylim(0, 7); ax.set_aspect('equal'); ax.axis('off')
+    ax.text(5, 6.6, 'Autoaumento com Retalho Dermoglandular (Polo Superior)', ha='center', fontsize=12, fontweight='bold', color='#1A237E')
+    _mama_frontal(ax, cx=5, cy=3.5, r=2.0)
+    # Retalho inferior sendo rotacionado para polo superior
+    ax.add_patch(mpatches.Polygon([[4.3, 2.5], [5.7, 2.5], [5.4, 1.6], [4.6, 1.6]], facecolor='#F57C00', alpha=0.6, edgecolor='#E65100', linewidth=1.5, hatch='////'))
+    ax.text(5, 2.0, 'Retalho\ndesepitelizado', ha='center', fontsize=8, color='white', fontweight='bold')
+    # Seta de rotacao
+    ax.annotate('', xy=(5, 4.8), xytext=(5, 2.3), arrowprops=dict(arrowstyle='->', color='#2E7D32', lw=3, connectionstyle="arc3,rad=-0.3"))
+    ax.text(6.8, 3.8, 'Rotação cefálica\ndo retalho inferior\n→ preenche polo\nsuperior deflado', fontsize=9, color='#2E7D32')
+    ax.text(5, 0.9, 'Técnicas de Graf/Ribeiro: retalho dermoglandular do polo inferior é desepitelizado\ne fixado ao m. peitoral no polo superior; evita implante.', ha='center', fontsize=8.5, style='italic', color='#455A64')
+    save(fig, 'contorno-pos-bariatrico', 'cpb-tec-autoaumento-dermoglandular.png')
+
+
+def cpb_tec_lifting_cervical():
+    fig, ax = plt.subplots(figsize=(9, 8))
+    ax.set_xlim(0, 9); ax.set_ylim(0, 8); ax.set_aspect('equal'); ax.axis('off')
+    ax.text(4.5, 7.6, 'Submentoplastia + Lifting Cervical — Plicatura do Platisma', ha='center', fontsize=12, fontweight='bold', color='#1A237E')
+    # Perfil de pescoco
+    ax.plot([3.5, 3.3, 3.0, 2.5, 2.3, 2.5, 3.0, 3.5], [6.5, 6.0, 5.2, 4.5, 3.5, 2.5, 2.0, 1.5], color='#37474F', linewidth=2)
+    ax.plot([5.5, 5.5, 5.5, 5.5, 5.5, 5.5, 5.5, 5.5], [6.5, 6.0, 5.2, 4.5, 3.5, 2.5, 2.0, 1.5], color='#37474F', linewidth=2)
+    # Plicatura na linha media (corset platysmaplasty)
+    for y in [5.0, 4.5, 4.0, 3.5, 3.0]:
+        ax.plot([3.9, 5.1], [y, y], color='#C62828', linewidth=1.2)
+    ax.annotate('Corset\nplatysmaplasty\n(plicatura medial\nem "X")', xy=(4.5, 4.0), xytext=(6.5, 4.5), fontsize=9, color='#C62828',
+                arrowprops=dict(arrowstyle='->', color='#C62828'))
+    # Incisao submentoniana
+    ax.plot([3.5, 4.5], [6.3, 6.3], color='#E53935', linewidth=3)
+    ax.annotate('Incisão\nsubmentoniana\n(2–3 cm)', xy=(4.0, 6.3), xytext=(1.5, 7.0), fontsize=9, color='#E53935',
+                arrowprops=dict(arrowstyle='->', color='#E53935'))
+    # Lipoaspiracao adjuvante
+    ax.add_patch(mpatches.Ellipse((4.5, 5.5), 1.3, 0.8, facecolor='#FFF59D', alpha=0.4, edgecolor='#F57F17', linestyle='--'))
+    ax.text(4.5, 5.5, 'Lipo adjuvante', ha='center', fontsize=8, color='#F57F17')
+    ax.text(4.5, 0.7, 'Combinação: lipo submentoniana + plicatura medial do platisma + ressecção de\npele (se excesso). Ângulo cervicomental alvo: 90–105°.', ha='center', fontsize=8.5, style='italic', color='#455A64')
+    save(fig, 'contorno-pos-bariatrico', 'cpb-tec-lifting-cervical.png')
+
+
+def cpb_tec_facelift_smas():
+    fig, ax = plt.subplots(figsize=(10, 8))
+    ax.set_xlim(0, 10); ax.set_ylim(0, 8); ax.set_aspect('equal'); ax.axis('off')
+    ax.text(5, 7.6, 'Facelift Pós-Bariátrico — SMAS / Composite', ha='center', fontsize=13, fontweight='bold', color='#1A237E')
+    # Perfil facial
+    ax.plot([4.5, 4.8, 5.3, 5.8, 6.0, 6.2, 6.3, 6.2, 6.0, 5.7, 5.5, 5.0, 4.5, 4.3, 4.5, 5.0, 5.5],
+            [6.5, 6.2, 6.0, 5.7, 5.3, 5.0, 4.6, 4.3, 4.1, 4.0, 3.8, 3.5, 3.3, 3.0, 2.5, 2.2, 2.0],
+            color='#37474F', linewidth=2)
+    # Incisao pre/retro auricular
+    ax.plot([6.0, 6.15, 6.25, 6.15, 6.0], [5.8, 5.3, 4.8, 4.3, 3.8], color='#E53935', linewidth=3)
+    # Retro-auricular + couro cabeludo
+    ax.plot([6.25, 6.5, 6.8], [4.8, 5.3, 5.8], color='#E53935', linewidth=3)
+    ax.annotate('Incisão pré + retro-\nauricular + temporal', xy=(6.4, 5.3), xytext=(8.0, 6.0), fontsize=9, color='#E53935',
+                arrowprops=dict(arrowstyle='->', color='#E53935'))
+    # Vetor SMAS (alto-lateral)
+    ax.annotate('', xy=(4.8, 6.0), xytext=(6.0, 4.2), arrowprops=dict(arrowstyle='->', color='#2E7D32', lw=3))
+    ax.text(3.0, 5.2, 'Vetor SMAS\nalto-lateral\n(~ 30–45°\npara zigoma)', fontsize=9, color='#2E7D32', fontweight='bold')
+    # Plano SMAS
+    ax.plot([4.5, 6.0], [5.0, 5.0], color='#1A237E', linewidth=1.5, linestyle='--')
+    ax.text(3.5, 4.8, 'Plano SMAS', fontsize=8, color='#1A237E')
+    ax.text(5, 0.8, 'Pós-bariátrico exige ressecção cutânea ampla + SMAS robusto (ou composite Hamra)\npara compensar flacidez severa. Maior risco de lesão do n. facial se plano profundo.',
+            ha='center', fontsize=8.5, style='italic', color='#455A64')
+    save(fig, 'contorno-pos-bariatrico', 'cpb-tec-facelift-smas.png')
+
+
+def cpb_tec_volume_facial_adjuvantes():
+    fig, ax = plt.subplots(figsize=(9, 8))
+    ax.set_xlim(0, 9); ax.set_ylim(0, 8); ax.set_aspect('equal'); ax.axis('off')
+    ax.text(4.5, 7.6, 'Reabilitação de Volume Facial — Zonas de Reposição', ha='center', fontsize=12, fontweight='bold', color='#1A237E')
+    # Face frontal simplificada
+    ax.add_patch(mpatches.Ellipse((4.5, 4.5), 3.5, 4.5, facecolor='#FFE0B2', edgecolor='#8D6E63', linewidth=2))
+    # Olhos
+    ax.plot(3.7, 5.3, 'o', markersize=8, color='#37474F')
+    ax.plot(5.3, 5.3, 'o', markersize=8, color='#37474F')
+    # Nariz
+    ax.plot([4.5, 4.5], [5.0, 4.2], color='#37474F', linewidth=1.5)
+    # Boca
+    ax.plot([4.0, 5.0], [3.5, 3.5], color='#37474F', linewidth=1.5)
+    # Zonas de reposicao
+    # Temporal
+    ax.add_patch(mpatches.Circle((2.8, 6.2), 0.4, facecolor='#FFEE58', alpha=0.6, edgecolor='#F9A825'))
+    ax.add_patch(mpatches.Circle((6.2, 6.2), 0.4, facecolor='#FFEE58', alpha=0.6, edgecolor='#F9A825'))
+    ax.text(1.8, 6.7, 'Temporal', fontsize=8.5, color='#F57F17', ha='right')
+    # Malar
+    ax.add_patch(mpatches.Ellipse((3.5, 4.6), 0.5, 0.4, facecolor='#FFEE58', alpha=0.6, edgecolor='#F9A825'))
+    ax.add_patch(mpatches.Ellipse((5.5, 4.6), 0.5, 0.4, facecolor='#FFEE58', alpha=0.6, edgecolor='#F9A825'))
+    ax.text(2.5, 4.3, 'Malar', fontsize=8.5, color='#F57F17', ha='right')
+    # Lagrima (tear trough)
+    ax.add_patch(mpatches.Ellipse((3.7, 4.9), 0.35, 0.15, facecolor='#FFEE58', alpha=0.6, edgecolor='#F9A825'))
+    ax.add_patch(mpatches.Ellipse((5.3, 4.9), 0.35, 0.15, facecolor='#FFEE58', alpha=0.6, edgecolor='#F9A825'))
+    ax.text(6.5, 5.0, 'Tear trough', fontsize=8.5, color='#F57F17')
+    # Submalar
+    ax.add_patch(mpatches.Ellipse((3.6, 3.8), 0.4, 0.35, facecolor='#FFEE58', alpha=0.6, edgecolor='#F9A825'))
+    ax.add_patch(mpatches.Ellipse((5.4, 3.8), 0.4, 0.35, facecolor='#FFEE58', alpha=0.6, edgecolor='#F9A825'))
+    ax.text(6.5, 3.8, 'Submalar', fontsize=8.5, color='#F57F17')
+    # Mandibula/pre-jowl
+    ax.add_patch(mpatches.Ellipse((3.5, 2.8), 0.45, 0.25, facecolor='#FFEE58', alpha=0.6, edgecolor='#F9A825'))
+    ax.add_patch(mpatches.Ellipse((5.5, 2.8), 0.45, 0.25, facecolor='#FFEE58', alpha=0.6, edgecolor='#F9A825'))
+    ax.text(6.5, 2.8, 'Pré-jowl /\nmandíbula', fontsize=8.5, color='#F57F17')
+    # Legenda
+    ax.text(4.5, 0.9, 'Lipoenxertia (Coleman) ou preenchedor HA em 5 zonas: temporal, malar, tear trough,\nsubmalar, pré-jowl. Volumes: 2–5 mL/zona (gordura) ou 1–2 mL (HA).',
+            ha='center', fontsize=8.5, style='italic', color='#455A64')
+    save(fig, 'contorno-pos-bariatrico', 'cpb-tec-volume-facial-adjuvantes.png')
+
+
 if __name__ == '__main__':
     print("Gerando diagramas esquemáticos...\n")
 
@@ -1767,5 +2118,21 @@ if __name__ == '__main__':
     glut_tec_retalho_flap()
     glut_tec_combinada_matrix()
     glut_tec_etching_hdbs()
+
+    print("\n=== CONTORNO POS-BARIATRICO ===")
+    cpb_anat_mama_ptose()
+    cpb_anat_face_pescoco()
+    cpb_tec_cruroplastia_medial()
+    cpb_tec_cruroplastia_vertical()
+    cpb_tec_cruroplastia_360()
+    cpb_tec_scarpa_aly()
+    cpb_tec_l_braquioplastia()
+    cpb_tec_mastopexia_wise()
+    cpb_tec_mastopexia_palusa()
+    cpb_tec_mastopexia_implante()
+    cpb_tec_autoaumento_dermoglandular()
+    cpb_tec_lifting_cervical()
+    cpb_tec_facelift_smas()
+    cpb_tec_volume_facial_adjuvantes()
 
     print("\nDiagramas gerados com sucesso!")

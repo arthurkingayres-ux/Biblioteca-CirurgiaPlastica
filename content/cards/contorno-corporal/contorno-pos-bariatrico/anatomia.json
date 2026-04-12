@@ -182,7 +182,13 @@
     ],
     "surgical_relevance": "Ptose severa (graus III-IV de Regnault), deflação de volume, perda de plenitude de colo, estrias, assimetria importante. Qualidade de pele frequentemente comprometida com pouca elasticidade. Causa: perda de volume glandular + laxidão cutânea.",
     "how_to_identify": "Classificação de Regnault avaliando relação mamilo-sulco inframamário; inspeção com paciente em ortostatismo.",
-    "images": [],
+    "images": [
+      {
+        "file": "cpb-anat-mama-ptose-bariatrica.png",
+        "caption": "Mama pós-bariátrica — ptose Regnault III com CAM abaixo do IMF, esvaziamento do polo superior e pele redundante; comparação com mama normal à esquerda.",
+        "credit": "Diagrama esquemático — Regnault, PRS 1976; Neligan 5ª Ed., vol. 5"
+      }
+    ],
     "citations": [
       "Neligan's Plastic Surgery, 5a Ed., 2023",
       "Shermak et al., PRS, 2006"
@@ -215,7 +221,13 @@
     ],
     "surgical_relevance": "Perda de volume facial (atrofia de gordura subcutânea), laxidão cutânea, flacidez de ligamentos faciais, ressecção óssea aparente. Face frequentemente parece 10-15 anos mais velha que o corpo. Pescoço particularmente afetado com laxidez de platisma, excesso de pele cervical e ptose de glândulas submandibulares.",
     "how_to_identify": "Inspeção facial com atenção à ptose de tecidos moles, sulco nasogeniano profundo, bandas platismais visíveis, redundância cervical.",
-    "images": [],
+    "images": [
+      {
+        "file": "cpb-anat-face-pescoco-ptose.png",
+        "caption": "Face e pescoço pós-bariátricos — jowls, sulco nasolabial profundo, submento ptótico, ângulo cervicomental obtuso (> 120°) e deflação de compartimentos graxos profundos.",
+        "credit": "Diagrama esquemático — Neligan 5ª Ed., vol. 2 (Aesthetic) (cap. facelift/neck lift)"
+      }
+    ],
     "citations": [
       "Neligan's Plastic Surgery, 5a Ed., 2023",
       "Grabb & Smith's Plastic Surgery, 8a Ed., 2020"
@@ -254,7 +266,23 @@
     ],
     "surgical_relevance": "Diastase dos retos abdominais frequentemente severa (> 2 cm). Plicatura em duplo plano (fascial e muscular) com sutura absorvivel 2-0 ou 0 e necessaria. Disseccao em plano supramuscular ate arco costal evitando lesao de nervos intercostais. Ligadura de ramos vasculares superficiais (circunflexa iliaca superficial, pudenda externa, arterias do monte pubico).",
     "how_to_identify": "Diastase palpavel com paciente em posicao supina realizando flexao cervical. Landmarks: espinha iliaca anterossuperior (EIAS) bilateralmente, sinfise pubica, arco costal, umbigo.",
-    "images": [],
+    "images": [
+      {
+        "file": "cpb-anat-zonas-aderencia-tronco.png",
+        "caption": "Parede abdominal pós-bariátrica — zonas de aderência do tronco (pré-existentes) marcadas em vermelho; aspiração nestas áreas gera depressões iatrogênicas.",
+        "credit": "Diagrama esquemático — Rohrich, Neligan 5ª Ed., vol. 2"
+      },
+      {
+        "file": "cpb-anat-scarpa-compartimento-graxo.png",
+        "caption": "Compartimento adiposo superficial e profundo separados pela fáscia de Scarpa — referência para dissecção e preservação seletiva.",
+        "credit": "Diagrama esquemático — Lockwood, PRS 1993–1995 (body lift + SFS)"
+      },
+      {
+        "file": "cpb-anat-diastase-plicatura.png",
+        "caption": "Diástase dos retos abdominais (> 2 cm) comum no pós-bariátrico; plicatura aponeurótica em duas camadas (4-0 PDS + 0 Ethibond).",
+        "credit": "Diagrama esquemático — Matarasso/Neligan 5ª Ed., vol. 2 cap. 26"
+      }
+    ],
     "citations": [
       "Nahas, Neligan's Plastic Surgery, 5a Ed., 2023",
       "Lockwood et al., PRS, 1994"
@@ -285,7 +313,13 @@
     ],
     "surgical_relevance": "Ptose importante do monte pubico frequente em pos-bariatricos resultando em aspecto estetico desagradavel mesmo apos resseccao adequada do abdome. Tecnicas de correcao incluem resseccao conservadora de pele/gordura com preservacao de sensibilidade, plicatura da fascia de Scarpa com ancoragem ao periosteo da sinfise, e em casos graves sutura suspensora ao ligamento de Cooper. Evitar plicatura excessiva que leve a dispareunia ou disuria.",
     "how_to_identify": "Inspecao com paciente em posicao ortostatica; grau de ptose medido em relacao a sinfise pubica",
-    "images": [],
+    "images": [
+      {
+        "file": "cpb-anat-monte-pubico-marcacao.png",
+        "caption": "Monte púbico pós-bariátrico — ptose com dobra acima do púbis; marcação para ressecção de triângulo cutâneo + lipoaspiração adjuvante.",
+        "credit": "Diagrama esquemático — Neligan 5ª Ed., vol. 2 (Aesthetic) (cap. 27)"
+      }
+    ],
     "citations": [
       "Lockwood et al., PRS, 1994",
       "Aly et al., PRS, 2003"
@@ -319,7 +353,13 @@
     ],
     "surgical_relevance": "Disseccao em plano supramuscular ate fascia do adutor preservando linfa e vasos. Fixacao da ponta superior do retalho ao periosteo da sinfise pubica ou ligamento de Cooper para evitar recorrencia de ptose. Resseccao de tecido adiposo pode prejudicar drenagem linfatica (risco de linfedema 5-15%).",
     "how_to_identify": "Prega cutanea de redundancia com paciente em ortostatismo; palpacao da fossa inguinal e trocanter.",
-    "images": [],
+    "images": [
+      {
+        "file": "cpb-anat-coxa-medial-marcacoes.png",
+        "caption": "Coxa medial pós-bariátrica — compartimento fascial e sistema linfático superficial (risco de linfedema em cruroplastia); marcações para ressecção.",
+        "credit": "Diagrama esquemático — Lockwood SFS + Neligan 5ª Ed."
+      }
+    ],
     "citations": [
       "Aly et al., PRS, 2003",
       "Lockwood et al., PRS, 1994"
@@ -352,7 +392,13 @@
     ],
     "surgical_relevance": "Disseccao em plano supramuscular obrigatoria — nao descer alem da fascia para evitar lesao do nervo cutaneo medial do antebraco (parestesia transitoria 10-30%, permanente 2-5%). Marcacao com braco abduzido a 90 graus, identificar linha de maior redundancia (ponto medio entre cotovelo e axilar).",
     "how_to_identify": "Pinch test com braco abduzido; palpacao do sulco bicipital medial para localizar nervo cutaneo.",
-    "images": [],
+    "images": [
+      {
+        "file": "cpb-anat-braco-sagital.png",
+        "caption": "Braço — compartimento medial em corte sagital; n. ulnar e n. cutâneo medial do braço como referências de segurança para braquioplastia.",
+        "credit": "Diagrama esquemático — Strauch, Neligan 5ª Ed., vol. 2 cap. 28"
+      }
+    ],
     "citations": [
       "Grabb & Smith's Plastic Surgery, 8a Ed., 2020",
       "Hasanbegovic & Sorensen, Obes Surg, 2012"
@@ -384,7 +430,13 @@
     ],
     "surgical_relevance": "Ptose severa (graus III-IV de Regnault), deflacao de volume, perda de plenitude de colo, estrias, assimetria importante. Qualidade de pele frequentemente comprometida com pouca elasticidade. Causa: perda de volume glandular + laxidao cutanea.",
     "how_to_identify": "Classificacao de Regnault avaliando relacao mamilo-sulco inframamario; inspecao com paciente em ortostatismo.",
-    "images": [],
+    "images": [
+      {
+        "file": "cpb-anat-mama-ptose-bariatrica.png",
+        "caption": "Mama pós-bariátrica — ptose grau III, pseudoptose por esvaziamento do polo superior e redundância cutânea; base para planejamento de mastopexia.",
+        "credit": "Diagrama esquemático — Regnault, PRS 1976; Neligan 5ª Ed., vol. 5"
+      }
+    ],
     "citations": [
       "Neligan's Plastic Surgery, 5a Ed., 2023",
       "Shermak et al., PRS, 2006"
@@ -417,7 +469,13 @@
     ],
     "surgical_relevance": "Perda de volume facial (atrofia de gordura subcutanea), laxidao cutanea, flacidez de ligamentos faciais, resseccao ossea aparente. Face frequentemente parece 10-15 anos mais velha que o corpo. Pescoco particularmente afetado com laxidez de platisma, excesso de pele cervical e ptose de glandulas submandibulares.",
     "how_to_identify": "Inspecao facial com atencao a ptose de tecidos moles, sulco nasogeniano profundo, bandas platismais visiveis, redundancia cervical.",
-    "images": [],
+    "images": [
+      {
+        "file": "cpb-anat-face-pescoco-ptose.png",
+        "caption": "Face e pescoço pós-bariátricos — envelhecimento acelerado por deflação de compartimentos graxos e flacidez SMAS/platisma.",
+        "credit": "Diagrama esquemático — Neligan 5ª Ed., vol. 2 (Aesthetic)"
+      }
+    ],
     "citations": [
       "Neligan's Plastic Surgery, 5a Ed., 2023",
       "Grabb & Smith's Plastic Surgery, 8a Ed., 2020"
