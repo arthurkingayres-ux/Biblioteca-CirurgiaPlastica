@@ -2,22 +2,21 @@
   {
     "id": "lipo-anat-001",
     "type": "anatomy",
-    "title": "PMI (Point of Maximum Indentation) - Ponto de Máxima Indentação",
+    "title": "PMI (Point of Maximum Indentation)",
     "aliases": [
       "ponto de máxima indentação"
     ],
     "topic": "lipoaspiracao",
     "area": "contorno-corporal",
-    "definition": "Ponto mais côncavo da silhueta lateral feminina (cintura) ou da linha paralumbar masculina; serve como âncora para o desenho das demais marcações em lipoescultura",
-    "location": "Silhueta lateral do corpo; cintura feminina ou linha paralumbar masculina",
+    "definition": "Ponto mais côncavo da silhueta lateral feminina (cintura) ou da linha paralumbar masculina que serve como âncora para o desenho das demais marcações em lipoescultura",
+    "location": "Cintura (feminino) ou linha paralumbar (masculino)",
     "relations": [
       "linhas paralumbares",
-      "linhas semilunares",
-      "triângulo sacral",
-      "espaços negativos"
+      "lipoescultura abdominal",
+      "marcações cirúrgicas"
     ],
-    "surgical_relevance": "Fundamental como ponto de referência principal para orientar todas as demais marcações durante o planejamento e execução da lipoescultura",
-    "how_to_identify": "Identificado como o ponto mais côncavo visível na vista lateral do paciente, marcável à palpação e inspeção visual",
+    "surgical_relevance": "Funciona como referência de ancoragem para orientar todas as demais marcações e desenhos pré-operatórios em procedimentos de lipoescultura",
+    "how_to_identify": "Identificado visualmente como o ponto mais côncavo da silhueta lateral do paciente, servindo como ponto de referência primário no planejamento cirúrgico",
     "images": [],
     "citations": [
       "Hoyos & Millard, HDBS, 2014, cap.2"
@@ -26,111 +25,15 @@
     "tags": [
       "anatomia",
       "lipoescultura",
+      "marcacao-cirurgica",
       "ponto-referencia",
-      "contorno-corporal",
-      "marcacao-cirurgica"
+      "contorno-corporal"
     ]
   },
   {
     "id": "lipo-anat-003",
     "type": "anatomy",
     "title": "Zonas de Segurança e Perigo",
-    "aliases": [],
-    "topic": "lipoaspiracao",
-    "area": "contorno-corporal",
-    "definition": "Áreas de maior risco durante a lipoaspiração, onde estruturas neurovasculares são vulneráveis a lesões por cânulas mal posicionadas ou técnica inadequada",
-    "location": "Triângulo submentoniano, região inguinal, região glútea, face medial da coxa, abdome",
-    "relations": [
-      "nervo marginal da mandíbula",
-      "veia jugular anterior",
-      "vasos femorais",
-      "nervo ciático",
-      "artéria femoral superficial",
-      "peritônio"
-    ],
-    "surgical_relevance": "O conhecimento dessas zonas é essencial para prevenção de complicações graves, incluindo lesão nervosa, hemorragia e perfuração visceral",
-    "how_to_identify": "Landmarks anatômicos superficiais: borda mandibular (manter cânula > 2 cm abaixo), ligamento inguinal, sulco glúteo, trajeto da artéria femoral (pulsação palpável)",
-    "images": [],
-    "citations": [
-      "Rohrich & Beran, Grabb & Smith, 8a Ed., 2020"
-    ],
-    "updates": [],
-    "tags": [
-      "anatomia",
-      "zonas-seguranca",
-      "estruturas-neurovasculares",
-      "complicacoes-cirurgicas",
-      "lipoaspiracao"
-    ]
-  },
-  {
-    "id": "lipo-anat-004",
-    "type": "anatomy",
-    "title": "Tecido Adiposo Subcutâneo — Camadas",
-    "aliases": [],
-    "topic": "lipoaspiracao",
-    "area": "contorno-corporal",
-    "definition": "A gordura subcutânea é dividida em duas camadas pela fascia superficialis (fascia de Scarpa no abdome): camada areolar superficial e camada lamelar profunda.",
-    "location": "Presente em todo o corpo, com espessura variável conforme região anatômica e biótipo do paciente.",
-    "relations": [
-      "fascia superficialis",
-      "fascia de Scarpa",
-      "camada areolar superficial",
-      "camada lamelar profunda",
-      "septos fibrosos",
-      "septos oblíquos"
-    ],
-    "surgical_relevance": "A lipoaspiração convencional atua predominantemente na camada profunda (lamelar), que é mais responsiva à aspiração. A camada superficial deve ser preservada para evitar irregularidades cutâneas.",
-    "how_to_identify": "A transição entre camadas é percebida intraoperatoriamente pela mudança de resistência à passagem da cânula; a camada superficial oferece maior resistência devido aos septos verticais.",
-    "images": [],
-    "citations": [
-      "Lockwood, Neligan, 5a Ed., 2023"
-    ],
-    "updates": [],
-    "tags": [
-      "anatomia",
-      "tecido-adiposo",
-      "fascia",
-      "lipoaspiracao",
-      "camadas-subcutaneas",
-      "contorno-corporal"
-    ]
-  },
-  {
-    "id": "lipo-anat-005",
-    "type": "anatomy",
-    "title": "Compartimentos de Gordura por Região",
-    "aliases": [],
-    "topic": "lipoaspiracao",
-    "area": "contorno-corporal",
-    "definition": "A distribuição de gordura subcutânea varia regionalmente, com compartimentos distintos que respondem diferentemente à lipoaspiração",
-    "location": "Abdome, flancos, dorso, coxas (lateral, medial, anterior, posterior), braços, região submentoniana",
-    "relations": [
-      "espessura do tecido adiposo",
-      "densidade do tecido adiposo",
-      "vascularização regional"
-    ],
-    "surgical_relevance": "O planejamento pré-operatório deve considerar as diferenças regionais na composição do tecido adiposo para otimizar resultados e minimizar complicações",
-    "how_to_identify": "Pinch test e avaliação clínica pré-operatória; marcação pré-operatória com paciente em posição ortostática",
-    "images": [],
-    "citations": [
-      "Rohrich et al., PRS, 2004",
-      "Neligan, 5a Ed., 2023"
-    ],
-    "updates": [],
-    "tags": [
-      "anatomia",
-      "lipoaspiracao",
-      "contorno-corporal",
-      "compartimentos-adiposos",
-      "tecido-subcutaneo",
-      "planejamento-preoperatorio"
-    ]
-  },
-  {
-    "id": "lipo-anat-006",
-    "type": "anatomy",
-    "title": "Zonas de Segurança e Perigo na Lipoaspiração",
     "aliases": [],
     "topic": "lipoaspiracao",
     "area": "contorno-corporal",
@@ -142,12 +45,10 @@
       "vasos femorais",
       "nervo ciático",
       "artéria femoral superficial",
-      "peritônio",
-      "ligamento inguinal",
-      "sulco glúteo"
+      "peritônio"
     ],
     "surgical_relevance": "O conhecimento dessas zonas é essencial para prevenção de complicações graves, incluindo lesão nervosa, hemorragia e perfuração visceral.",
-    "how_to_identify": "Landmarks anatômicos superficiais: borda mandibular (manter cânula > 2 cm abaixo), ligamento inguinal, sulco glúteo, trajeto da artéria femoral (pulsação palpável).",
+    "how_to_identify": "Landmarks anatômicos superficiais: borda mandibular (manter cânula > 2 cm abaixo), ligamento inguinal, sulco glúteo, trajeto da artéria femoral (pulsação palpável)",
     "images": [],
     "citations": [
       "Rohrich & Beran, Grabb & Smith, 8a Ed., 2020"
@@ -155,34 +56,35 @@
     "updates": [],
     "tags": [
       "anatomia",
-      "zonas-de-risco",
-      "neurovasculares",
       "lipoaspiracao",
-      "complicacoes",
-      "seguranca-cirurgica"
+      "zonas-seguranca-perigo",
+      "estruturas-neurovasculares",
+      "complicacoes-cirurgicas",
+      "contorno-corporal"
     ]
   },
   {
-    "id": "lipo-anat-007",
+    "id": "lipo-anat-004",
     "type": "anatomy",
     "title": "Sistema Fascial Superficial e Camadas Adiposas (Modelo de Lockwood-Markman)",
     "aliases": [
       "SFS",
-      "tecido adiposo subcutâneo"
+      "Modelo Lockwood-Markman"
     ],
     "topic": "lipoaspiracao",
     "area": "contorno-corporal",
-    "definition": "O tecido adiposo subcutâneo organiza-se em três camadas separadas pelo sistema fascial superficial: tecido adiposo superficial (SAT), fascia membranosa e tecido adiposo profundo (DAT)",
-    "location": "Subcutâneo; fascia membranosa denominada Scarpa no abdome inferior, Colles no períneo, Camper na coxa",
+    "definition": "Organização do tecido adiposo subcutâneo em três camadas separadas pelo sistema fascial superficial: tecido adiposo superficial (SAT), fascia membranosa e tecido adiposo profundo (DAT)",
+    "location": "Subcutâneo em todo o corpo; fascia membranosa denomina-se Scarpa no abdome inferior, Colles no períneo e Camper na coxa",
     "relations": [
       "tecido adiposo superficial (SAT)",
       "fascia membranosa",
       "tecido adiposo profundo (DAT)",
+      "sistema fascial superficial",
       "retinacula cutis",
       "derme"
     ],
-    "surgical_relevance": "A aspiração inadvertida do SAT a menos de 1 cm da derme é o principal fator técnico de irregularidades visíveis e hiperpigmentação cicatricial. A preservação da fascia membranosa durante a lipoaspiração reduz seroma e ptose tardia. O DAT é o alvo primário da lipoaspiração tradicional.",
-    "how_to_identify": "O SAT apresenta lóbulos pequenos densamente compartimentados por septos verticais com espessura relativamente constante. O DAT apresenta lóbulos maiores com septos horizontais frouxos e espessura altamente variável. A fascia membranosa é um plano fibroso contínuo.",
+    "surgical_relevance": "A preservação da fascia membranosa durante a lipoaspiração reduz seroma e ptose tardia. A aspiração inadvertida do SAT a menos de 1 cm da derme é o principal fator técnico de irregularidades visíveis e hiperpigmentação cicatricial. O DAT é o alvo primário da lipoaspiração tradicional",
+    "how_to_identify": "SAT identifica-se por lóbulos pequenos densamente compartimentados por septos verticais; DAT por lóbulos maiores com septos horizontais frouxos; fascia membranosa é um plano fibroso contínuo",
     "images": [],
     "citations": [
       "Neligan, 2023, vol.2, cap.24",
@@ -192,11 +94,45 @@
     "updates": [],
     "tags": [
       "anatomia",
-      "sistema-fascial",
       "tecido-adiposo",
+      "fascia",
       "lipoaspiracao",
       "contorno-corporal",
-      "fascia-superficial"
+      "sistema-fascial"
+    ]
+  },
+  {
+    "id": "lipo-anat-005",
+    "type": "anatomy",
+    "title": "Zonas de Aderência (Zones of Adherence)",
+    "aliases": [],
+    "topic": "lipoaspiracao",
+    "area": "contorno-corporal",
+    "definition": "áreas onde o sistema fascial subcutâneo adere firmemente à fáscia muscular subjacente, restringindo a mobilidade do envelope cutâneo e formando depressões anatômicas estéticas na transição com regiões móveis",
+    "location": "região glútea e coxa: depressão glútea lateral (região trocantérica), sulco glúteo, terço distal posterior da coxa, região mediomedial da coxa, trato iliotibial inferolateral",
+    "relations": [
+      "sistema fascial subcutâneo",
+      "fáscia muscular",
+      "envelope cutâneo",
+      "depressões anatômicas"
+    ],
+    "surgical_relevance": "lipoaspiração agressiva sobre zonas de aderência destrói o ponto de fixação anatômico e gera ptose iatrogênica irreversível do tecido adjacente (exemplo: banana roll infraglúteo); recomenda-se preservação ou aspiração mínima dessas zonas",
+    "how_to_identify": "reconhecer as cinco zonas clássicas de Rohrich pela sua localização topográfica e pela aderência firme à fáscia muscular subjacente",
+    "images": [],
+    "citations": [
+      "Neligan, 2023, vol.2, cap.24",
+      "Core Procedures, 2020, cap.8",
+      "Neligan, 2023, vol.2, cap.24"
+    ],
+    "updates": [],
+    "tags": [
+      "anatomia",
+      "zonas-aderencia",
+      "lipoaspiracao",
+      "contorno-corporal",
+      "gluteo",
+      "coxa",
+      "complicacoes-iatrognicas"
     ]
   }
 ]

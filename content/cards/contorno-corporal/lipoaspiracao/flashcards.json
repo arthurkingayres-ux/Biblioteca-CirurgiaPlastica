@@ -5,244 +5,100 @@
   "area": "contorno-corporal",
   "cards": [
     {
-      "front": "Quantos procedimentos de lipoaspiração são realizados por ano no mundo?",
-      "back": "Aproximadamente 1,9 milhão por ano",
-      "citation": "ISAPS International Survey, 2022",
+      "front": "Quantos procedimentos de lipoaspiração são realizados anualmente no mundo segundo ISAPS 2022?",
+      "back": "Aproximadamente 1,9 milhão/ano",
+      "citation": "ISAPS International Survey, 2023",
       "domain": "epidemiologia"
     },
     {
-      "front": "Qual a dose máxima segura de lidocaína na técnica tumescente segundo Klein?",
-      "back": "55 mg/kg em solução diluída",
-      "citation": "Klein JA, Dermatol Surg. 1996;22(11):921-927 e Ostad A et al, 1996",
-      "domain": "tecnica"
-    },
-    {
-      "front": "Qual a dose mínima de lidocaína tumescente descrita por Klein?",
-      "back": "35 mg/kg",
-      "citation": "Klein JA, J Dermatol Surg Oncol. 1990;16(3):248-263",
-      "domain": "tecnica"
-    },
-    {
-      "front": "Qual o percentual de perda sanguínea em relação ao volume aspirado na técnica tumescente?",
-      "back": "1-2% do volume aspirado",
-      "citation": "Synopsis, técnica tumescente Klein",
-      "domain": "fisiopatologia"
-    },
-    {
-      "front": "Qual é o limite de segurança de volume aspirado para procedimento ambulatorial?",
-      "back": "5.000 mL de aspirado total",
-      "citation": "Synopsis, contorno-corporal",
-      "domain": "decisao"
-    },
-    {
-      "front": "Qual é o IMC máximo recomendado para paciente ideal candidato a lipoaspiração?",
-      "back": "IMC < 30",
-      "citation": "Synopsis, critérios de seleção",
-      "domain": "decisao"
-    },
-    {
-      "front": "Qual deve ser o período mínimo de estabilidade ponderal antes de lipoaspiração?",
-      "back": "6 meses com peso estável",
-      "citation": "Synopsis, critérios de seleção",
-      "domain": "decisao"
-    },
-    {
-      "front": "Qual é a taxa de mortalidade estimada para lipoaspiração?",
-      "back": "1:50.000 a 1:100.000",
-      "citation": "Synopsis, mortalidade",
-      "domain": "complicacao"
-    },
-    {
-      "front": "Em qual ano Illouz sistematizou a técnica de lipoaspiração com wet technique?",
-      "back": "1977",
-      "citation": "Illouz YG, Clinics in Plastic Surgery, 1996",
-      "domain": "anatomia"
-    },
-    {
-      "front": "Em qual ano Klein descreveu a técnica tumescente?",
-      "back": "1987",
-      "citation": "Klein JA, J Dermatol Surg Oncol, 1990",
-      "domain": "tecnica"
-    },
-    {
-      "front": "Em qual ano foi desenvolvido o primeiro instrumento de lipoaspiração por Fischer?",
-      "back": "1974",
-      "citation": "Klein JA, J Dermatol Surg Oncol, 1990",
-      "domain": "anatomia"
-    },
-    {
-      "front": "Qual tecnologia assistida foi desenvolvida por Zocchi em 1992?",
-      "back": "UAL (Ultrasound-Assisted Liposuction)",
-      "citation": "Rohrich & Beran, Grabb & Smith's Plastic Surgery, 8a Ed., 2020",
-      "domain": "tecnica"
-    },
-    {
-      "front": "Em qual ano foi desenvolvida a tecnologia LAL (Laser-Assisted Lipolysis)?",
-      "back": "2006 (Smartlipo)",
-      "citation": "Rohrich & Beran, Grabb & Smith's Plastic Surgery, 8a Ed., 2020",
-      "domain": "tecnica"
-    },
-    {
-      "front": "Qual a divisão anatômica da gordura subcutânea em camadas?",
-      "back": "Camada areolar superficial (acima da fascia superficialis) e camada lamelar profunda (abaixo)",
-      "citation": "Synopsis, anatomia",
-      "domain": "anatomia"
-    },
-    {
-      "front": "Qual camada de gordura subcutânea é predominantemente atuada pela lipoaspiração convencional?",
-      "back": "Camada lamelar profunda",
-      "citation": "Synopsis, anatomia",
-      "domain": "anatomia"
-    },
-    {
-      "front": "Quantos casos de lipoaspiração Illouz reportou em sua série de 5 anos?",
-      "back": "Mais de 3.000 casos",
-      "citation": "Illouz YG, Plast Reconstr Surg. 1983;72(5):591-597",
-      "domain": "epidemiologia"
-    },
-    {
-      "front": "Qual é a principal causa de mortalidade em lipoaspiração segundo a literatura?",
-      "back": "Tromboembolismo pulmonar (TEP), seguido de anestesia/sedação, perfuração visceral e embolia gordurosa",
-      "citation": "Grazer FM, de Jong RH, Plast Reconstr Surg. 2000; Rao RB et al, N Engl J Med. 1999",
-      "domain": "complicacao"
-    },
-    {
-      "front": "Qual tecnologia assistida utiliza radiofrequência para lipoaspiração?",
-      "back": "RFAL (Radiofrequency-Assisted Lipolysis - BodyTite)",
-      "citation": "Rohrich & Beran, Grabb & Smith's Plastic Surgery, 8a Ed., 2020",
-      "domain": "tecnica"
-    },
-    {
-      "front": "Qual procedimento estético pode ser realizado com o aspirado de lipoaspiração?",
-      "back": "Lipoenxertia (fat grafting) para rejuvenescimento facial, reconstrução mamária e gluteoplastia de aumento",
-      "citation": "Coleman SR, Plast Reconstr Surg. 2006;118(3S):108S-120S",
-      "domain": "tecnica"
-    },
-    {
-      "front": "Qual tecnologia assistida utiliza vibração mecânica para lipoaspiração?",
-      "back": "PAL (Power-Assisted Liposuction - MicroAire)",
-      "citation": "Rohrich & Beran, Grabb & Smith's Plastic Surgery, 8a Ed., 2020",
-      "domain": "tecnica"
-    },
-    {
-      "front": "Quantos procedimentos de lipoaspiração são realizados anualmente no mundo?",
-      "back": "~1,9 milhão/ano",
-      "citation": "ISAPS International Survey, 2022",
-      "domain": "epidemiologia"
-    },
-    {
-      "front": "Qual é a dose máxima segura de lidocaína na técnica tumescente?",
+      "front": "Qual é a dose máxima segura de lidocaína na técnica tumescente para lipoaspiração?",
       "back": "35-55 mg/kg",
       "citation": "Klein JA, 1990; Ostad A, 1996",
       "domain": "tecnica"
     },
     {
       "front": "Qual é o percentual de perda sanguínea em relação ao volume aspirado com técnica tumescente?",
-      "back": "1-2%",
-      "citation": "Neligan, 2023, vol. 2, cap. 24",
-      "domain": "tecnica"
+      "back": "1-2% do aspirado",
+      "citation": "Neligan PC, 2023, vol. 2, cap. 24",
+      "domain": "fisiopatologia"
     },
     {
-      "front": "Qual é a variação de sangramento intra-aspirado com técnica seca?",
-      "back": "20-45%",
-      "citation": "Grabb & Smith, 2024, cap. 75",
-      "domain": "tecnica"
-    },
-    {
-      "front": "Qual é o percentual de sangramento aproximado com técnica tumescente/superúmida?",
-      "back": "~1%",
-      "citation": "Neligan, 2023, vol. 2, cap. 24",
-      "domain": "tecnica"
-    },
-    {
-      "front": "Qual é o limite seguro de volume total aspirado em procedimento ambulatorial?",
-      "back": "5.000 mL",
-      "citation": "Neligan, 2023, vol. 2, cap. 24",
+      "front": "Qual é o limite de segurança de volume aspirado para procedimento ambulatorial?",
+      "back": "5.000 mL (5L) de aspirado total",
+      "citation": "Neligan PC, 2023, vol. 2, cap. 24",
       "domain": "decisao"
     },
     {
       "front": "Qual é o IMC máximo recomendado para paciente ideal em lipoaspiração?",
       "back": "IMC < 30",
-      "citation": "Neligan, 2023, vol. 2, cap. 24",
+      "citation": "Neligan PC, 2023, vol. 2, cap. 24",
       "domain": "decisao"
     },
     {
-      "front": "Qual é o período mínimo de estabilidade ponderal recomendado antes de lipoaspiração?",
-      "back": "> 6 meses",
-      "citation": "Rohrich RJ, 2004",
+      "front": "Qual é o tempo mínimo de estabilidade de peso recomendado antes de lipoaspiração?",
+      "back": "Maior que 6 meses",
+      "citation": "Neligan PC, 2023, vol. 2, cap. 24",
       "domain": "decisao"
     },
     {
-      "front": "Qual é a taxa de mortalidade estimada da lipoaspiração?",
+      "front": "Qual é a taxa de mortalidade estimada em lipoaspiração?",
       "back": "1:50.000 a 1:100.000",
       "citation": "Grazer FM, 2000; Rao RB, 1999",
       "domain": "complicacao"
     },
     {
-      "front": "Qual foi o número de casos na série clínica de lipolysis de Illouz?",
-      "back": "> 3.000 casos",
+      "front": "Qual é o percentual de sangramento intra-aspirado na técnica seca?",
+      "back": "20-45%",
+      "citation": "Grabb & Smith, 2024, cap. 75; Neligan, 2023",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Qual é o percentual de sangramento intra-aspirado na técnica superúmida/tumescente?",
+      "back": "Aproximadamente 1%",
+      "citation": "Grabb & Smith, 2024, cap. 75; Neligan, 2023",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Qual lâmina de bisturi é recomendada para incisões de acesso em lipoaspiração?",
+      "back": "Lâmina nº 11",
+      "citation": "Operative Dictations in Plastic Surgery, cap. 17",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Quantas camadas funcionais organizam a gordura subcutânea?",
+      "back": "Três camadas: superficial (areolar), intermediária (lamelar) e profunda",
+      "citation": "Neligan PC, 2023, vol. 2, cap. 24",
+      "domain": "anatomia"
+    },
+    {
+      "front": "Qual é o número de casos com lipoaspiração relatados por Illouz em 5 anos?",
+      "back": "Mais de 3.000 casos",
       "citation": "Illouz YG, 1983",
       "domain": "epidemiologia"
     },
     {
-      "front": "Quantas camadas funcionais organizam-se na gordura subcutânea?",
-      "back": "3 estratos (superficial, intermediário e profundo)",
-      "citation": "Neligan, 2023, vol. 2, cap. 24",
-      "domain": "anatomia"
-    },
-    {
-      "front": "Qual é a lâmina recomendada para incisões de acesso em lipoaspiração?",
-      "back": "Lâmina nº 11",
-      "citation": "Operative Dictations, cap. 17",
-      "domain": "tecnica"
-    },
-    {
-      "front": "Em que percentual de aspirado se manifesta a embolia gordurosa como fator de risco?",
-      "back": "Relacionada ao volume total aspirado (limite: 5.000 mL ambulatorial)",
-      "citation": "Rohrich RJ, 2004",
+      "front": "Qual é a principal causa de morte em lipoaspiração?",
+      "back": "Tromboembolismo pulmonar (TEP)",
+      "citation": "Neligan PC, 2023, vol. 2, cap. 24",
       "domain": "complicacao"
     },
     {
-      "front": "Quantas edições tem o livro 'Plastic Surgery' de Neligan onde está o capítulo de liposuction?",
-      "back": "5ª edição",
-      "citation": "Neligan PC, 2023",
-      "domain": "referencia"
-    },
-    {
-      "front": "Em que edição do 'Grabb & Smith's Plastic Surgery' está o capítulo de body contouring?",
-      "back": "9ª edição",
-      "citation": "Rohrich RJ, Beran SJ, 2024",
-      "domain": "referencia"
-    },
-    {
-      "front": "Qual é a progressão de calibre recomendada das cânulas durante aspiração?",
-      "back": "Calibre crescente (profundo para superficial)",
-      "citation": "Operative Dictations, cap. 17",
-      "domain": "tecnica"
-    },
-    {
-      "front": "Qual é o endpoint visual recomendado para infiltração em lipoaspiração?",
-      "back": "Palidez e turgor adequado",
-      "citation": "Operative Dictations, cap. 17",
-      "domain": "tecnica"
-    },
-    {
-      "front": "Qual é o ano de publicação do estudo seminal de Klein sobre técnica tumescente?",
+      "front": "Em que ano Klein desenvolveu a técnica tumescente com lidocaína?",
       "back": "1990",
       "citation": "Klein JA, 1990",
       "domain": "historia"
     },
     {
-      "front": "Quantos volumes tem a 5ª edição de 'Plastic Surgery' de Neligan?",
-      "back": "2 volumes (liposuction está no vol. 2)",
-      "citation": "Neligan PC, 2023",
-      "domain": "referencia"
+      "front": "Qual é a posição ideal de progressão das cânulas durante aspiração: profundo para superficial ou superficial para profundo?",
+      "back": "Do plano profundo para o superficial",
+      "citation": "Operative Dictations in Plastic Surgery, cap. 17",
+      "domain": "tecnica"
     },
     {
-      "front": "Qual é a principal vantagem das tecnologias assistidas (UAL/VASER, PAL, LAL, RFAL) em relação à SAL?",
-      "back": "Melhor performance em áreas fibrosas e retração cutânea",
-      "citation": "Neligan, 2023, vol. 2, cap. 24",
-      "domain": "tecnica"
+      "front": "Qual é o ano da publicação do trabalho de Coleman sobre enxertia de gordura estruturada?",
+      "back": "2006",
+      "citation": "Coleman SR, 2006",
+      "domain": "historia"
     }
   ],
   "tags": [
@@ -250,8 +106,8 @@
     "lipoaspiracao",
     "contorno-corporal",
     "cirurgia-plastica",
-    "parametros-numericos",
-    "doses",
-    "tecnicas"
+    "procedimento-estetico",
+    "tecnica-tumescente",
+    "seguranca-cirurgica"
   ]
 }

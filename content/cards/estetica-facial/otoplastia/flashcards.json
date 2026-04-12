@@ -1,158 +1,14 @@
 {
-  "id": "oto-fc-001",
+  "id": "oto-fc-otoplastia-001",
   "type": "flashcard",
   "topic": "otoplastia",
   "area": "estetica-facial",
   "cards": [
     {
-      "front": "Ângulo cefaloauricular normal",
-      "back": "25-35 graus",
-      "citation": "Neligan, 2023, vol. 3, cap. 28",
-      "domain": "anatomia"
-    },
-    {
-      "front": "Projeção helice-mastoide (terco superior)",
-      "back": "10-12 mm",
-      "citation": "Neligan, 2023, vol. 3, cap. 28",
-      "domain": "anatomia"
-    },
-    {
-      "front": "Projeção helice-mastoide (terco médio)",
-      "back": "16-18 mm",
-      "citation": "Neligan, 2023, vol. 3, cap. 28",
-      "domain": "anatomia"
-    },
-    {
-      "front": "Projeção helice-mastoide (terco inferior)",
-      "back": "20-22 mm",
-      "citation": "Neligan, 2023, vol. 3, cap. 28",
-      "domain": "anatomia"
-    },
-    {
-      "front": "Altura do pavilhão auricular (adulto)",
-      "back": "~6 cm",
-      "citation": "Neligan, 2023, vol. 3, cap. 28",
-      "domain": "anatomia"
-    },
-    {
-      "front": "Largura do pavilhão auricular (adulto)",
-      "back": "~3,5 cm",
-      "citation": "Neligan, 2023, vol. 3, cap. 28",
-      "domain": "anatomia"
-    },
-    {
-      "front": "Desenvolvimento do pavilhão auricular - percentual aos 5-6 anos",
-      "back": "85% do tamanho adulto",
-      "citation": "Neligan, 2023, vol. 3, cap. 28",
-      "domain": "crescimento"
-    },
-    {
-      "front": "Qual é a idade mínima recomendada para realizar otoplastia?",
+      "front": "A partir de qual idade é indicada a otoplastia?",
       "back": "5–6 anos de idade, quando o pavilhão auricular atinge aproximadamente 85% do tamanho adulto",
-      "citation": "Neligan, 2023, vol. 3, cap. 28; Grabb & Smith, 2020, cap. 36",
+      "citation": "Neligan, 2023, vol. 3, cap. 28; Grabb & Smith, 2024, cap. 57",
       "domain": "decisao"
-    },
-    {
-      "front": "Qual é o ângulo cefaloauricular normal?",
-      "back": "25–35 graus",
-      "citation": "Neligan, 2023, vol. 3, cap. 28; Grabb & Smith, 2020, cap. 36",
-      "domain": "anatomia"
-    },
-    {
-      "front": "Acima de qual ângulo cefaloauricular a orelha é considerada em abano?",
-      "back": "> 35 graus",
-      "citation": "Neligan, 2023, vol. 3, cap. 28",
-      "domain": "anatomia"
-    },
-    {
-      "front": "Qual é a altura normal do pavilhão auricular no adulto?",
-      "back": "Aproximadamente 6 cm",
-      "citation": "Neligan, 2023, vol. 3, cap. 28; Grabb & Smith, 2020, cap. 36",
-      "domain": "anatomia"
-    },
-    {
-      "front": "Qual é a largura normal do pavilhão auricular no adulto?",
-      "back": "Aproximadamente 3,5 cm",
-      "citation": "Neligan, 2023, vol. 3, cap. 28; Grabb & Smith, 2020, cap. 36",
-      "domain": "anatomia"
-    },
-    {
-      "front": "Qual é a projeção normal hélice-mastoide na porção superior?",
-      "back": "10–12 mm",
-      "citation": "Neligan, 2023, vol. 3, cap. 28; Grabb & Smith, 2020, cap. 36",
-      "domain": "anatomia"
-    },
-    {
-      "front": "Qual é a projeção normal hélice-mastoide na porção média?",
-      "back": "16–18 mm",
-      "citation": "Neligan, 2023, vol. 3, cap. 28; Grabb & Smith, 2020, cap. 36",
-      "domain": "anatomia"
-    },
-    {
-      "front": "Qual é a projeção normal hélice-mastoide na porção inferior?",
-      "back": "20–22 mm",
-      "citation": "Neligan, 2023, vol. 3, cap. 28; Grabb & Smith, 2020, cap. 36",
-      "domain": "anatomia"
-    },
-    {
-      "front": "Qual é a janela terapêutica para moldagem neonatal auricular?",
-      "back": "< 6 semanas de vida",
-      "citation": "Neligan, 2023, vol. 3, cap. 28",
-      "domain": "decisao"
-    },
-    {
-      "front": "Qual é a taxa de sucesso da moldagem neonatal quando iniciada adequadamente?",
-      "back": "> 90%",
-      "citation": "Neligan, 2023, vol. 3, cap. 28",
-      "domain": "tecnica"
-    },
-    {
-      "front": "Qual é a percentagem de incidência de extrusão de sutura em otoplastia?",
-      "back": "1–6%",
-      "citation": "Bulstrode et al., 2024; Alzayadneh et al., 2022",
-      "domain": "complicacao"
-    },
-    {
-      "front": "Qual é a frequência de uso da técnica combinada Mustarde + Furnas na prática contemporânea?",
-      "back": "78% na série de Belfast com 2333 orelhas",
-      "citation": "McGarry et al., 2023",
-      "domain": "tecnica"
-    },
-    {
-      "front": "Qual é o tamanho da série piloto da abordagem cartilage-sparing de Benkler?",
-      "back": "24 orelhas",
-      "citation": "Benkler et al., 2023",
-      "domain": "tecnica"
-    },
-    {
-      "front": "Quantos anos de seguimento contempla a série de Belfast de McGarry et al.?",
-      "back": "10 anos, com 2333 orelhas operadas",
-      "citation": "McGarry et al., 2023",
-      "domain": "tecnica"
-    },
-    {
-      "front": "Qual nervo (raiz medular) constitui o nervo auricular maior?",
-      "back": "Ramo do plexo cervical (C2–C3)",
-      "citation": "Neligan, 2023, vol. 3, cap. 28",
-      "domain": "anatomia"
-    },
-    {
-      "front": "Qual divisão do trigêmeo constitui o nervo auriculotemporal?",
-      "back": "Ramo do V3 (nervo mandibular)",
-      "citation": "Neligan, 2023, vol. 3, cap. 28",
-      "domain": "anatomia"
-    },
-    {
-      "front": "Qual é a causa mais frequente de reoperação em otoplastia?",
-      "back": "Extrusão de sutura (1–6% dos casos)",
-      "citation": "Bulstrode et al., 2024; Alzayadneh et al., 2022",
-      "domain": "complicacao"
-    },
-    {
-      "front": "Qual deformidade resulta de hematoma subpericondral não drenado?",
-      "back": "Orelha em couve-flor (cauliflower ear) por isquemia e fibrose da cartilagem",
-      "citation": "Neligan, 2023, vol. 3, cap. 28",
-      "domain": "fisiopatologia"
     },
     {
       "front": "Qual é o ângulo cefaloauricular (AU) normal?",
@@ -161,137 +17,175 @@
       "domain": "anatomia"
     },
     {
-      "front": "Qual é o valor diagnóstico do ângulo cefaloauricular que define orelha em abano?",
-      "back": "Maior que 35 graus",
+      "front": "Qual ângulo cefaloauricular caracteriza orelha em abano (prominent ear)?",
+      "back": "> 35 graus",
       "citation": "Neligan, 2023, vol. 3, cap. 28",
-      "domain": "diagnostico"
-    },
-    {
-      "front": "Qual é a projeção helix-mastoide normal no terço superior da orelha?",
-      "back": "10–12 mm",
-      "citation": "Grabb & Smith, 2024, cap. 57; Neligan Core Procedures, 2020, cap. 5",
       "domain": "anatomia"
     },
     {
-      "front": "Qual é a projeção helix-mastoide normal no terço médio da orelha?",
-      "back": "16–18 mm",
-      "citation": "Grabb & Smith, 2024, cap. 57; Neligan Core Procedures, 2020, cap. 5",
-      "domain": "anatomia"
-    },
-    {
-      "front": "Qual é a projeção helix-mastoide normal no terço inferior da orelha?",
-      "back": "20–23 mm",
-      "citation": "Grabb & Smith, 2024, cap. 57; Neligan Core Procedures, 2020, cap. 5",
-      "domain": "anatomia"
-    },
-    {
-      "front": "Qual é o valor normal do ângulo concha-escafoide (CS)?",
-      "back": "Aproximadamente 90 graus; valores acima de 90° indicam anti-hélice hipoplásica",
-      "citation": "Grabb & Smith, 2024, cap. 57; Neligan Core Procedures, 2020, cap. 5",
-      "domain": "anatomia"
-    },
-    {
-      "front": "Qual é o valor normal do ângulo concha-mastoideo (CM)?",
-      "back": "Aproximadamente 90 graus",
-      "citation": "Neligan Core Procedures, 2020, cap. 5",
-      "domain": "anatomia"
-    },
-    {
-      "front": "Qual é a altura do pavilhão auricular adulto normal?",
+      "front": "Qual é a altura normal do pavilhão auricular adulto?",
       "back": "Aproximadamente 6 cm",
       "citation": "Neligan, 2023, vol. 3, cap. 28; Grabb & Smith, 2024, cap. 57",
       "domain": "anatomia"
     },
     {
-      "front": "Qual é a largura do pavilhão auricular adulto normal?",
+      "front": "Qual é a largura normal do pavilhão auricular adulto?",
       "back": "Aproximadamente 3,5 cm",
       "citation": "Neligan, 2023, vol. 3, cap. 28; Grabb & Smith, 2024, cap. 57",
       "domain": "anatomia"
     },
     {
-      "front": "Qual é a janela terapêutica para moldagem neonatal (EarWell, Auri)?",
-      "back": "Menos de 6 semanas de vida",
+      "front": "Qual a projeção normal da hélice em relação à mastoide no terço superior?",
+      "back": "10–12 mm",
+      "citation": "Neligan, 2023, vol. 3, cap. 28; Grabb & Smith, 2024, cap. 57",
+      "domain": "anatomia"
+    },
+    {
+      "front": "Qual a projeção normal da hélice em relação à mastoide no terço médio?",
+      "back": "16–18 mm",
+      "citation": "Neligan, 2023, vol. 3, cap. 28; Grabb & Smith, 2024, cap. 57",
+      "domain": "anatomia"
+    },
+    {
+      "front": "Qual a projeção normal da hélice em relação à mastoide no terço inferior?",
+      "back": "20–23 mm",
+      "citation": "Neligan, 2023, vol. 3, cap. 28; Grabb & Smith, 2024, cap. 57",
+      "domain": "anatomia"
+    },
+    {
+      "front": "Qual deve ser o ângulo Concha-Escafoide (CS) normal?",
+      "back": "Aproximadamente 90 graus; valores > 90° indicam anti-hélice hipoplásica",
+      "citation": "Grabb & Smith, 2024, cap. 57",
+      "domain": "anatomia"
+    },
+    {
+      "front": "Qual deve ser o ângulo Concha-Mastoideu (CM) normal?",
+      "back": "Aproximadamente 90 graus",
+      "citation": "Grabb & Smith, 2024, cap. 57",
+      "domain": "anatomia"
+    },
+    {
+      "front": "Qual é a taxa de sucesso da moldagem neonatal quando iniciada nas primeiras 6 semanas de vida?",
+      "back": "> 90%",
       "citation": "Neligan, 2023, vol. 3, cap. 28",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Qual é a janela terapêutica máxima para moldagem neonatal?",
+      "back": "< 6 semanas de vida",
+      "citation": "Synopsis do texto",
       "domain": "decisao"
     },
     {
-      "front": "Qual é a taxa de sucesso da moldagem neonatal quando iniciada nas primeiras 6 semanas?",
-      "back": "Maior que 90%",
-      "citation": "Neligan, 2023, vol. 3, cap. 28",
-      "domain": "decisao"
-    },
-    {
-      "front": "Qual é a técnica combinada mais utilizada na prática contemporânea de otoplastia?",
+      "front": "Qual técnica combinada é mais utilizada na prática contemporânea para otoplastia?",
       "back": "Técnica combinada Mustarde + Furnas",
       "citation": "McGarry et al., 2023 (série de Belfast com 2333 orelhas)",
       "domain": "tecnica"
     },
     {
-      "front": "Qual é o percentual de utilização da técnica Mustarde + Furnas na série de Belfast?",
-      "back": "78% (2333 orelhas analisadas)",
+      "front": "Qual é a percentagem de uso da técnica combinada Mustarde + Furnas na série de Belfast?",
+      "back": "78%",
       "citation": "McGarry et al., 2023",
       "domain": "tecnica"
     },
     {
       "front": "Qual é a incidência de extrusão de sutura em otoplastia?",
       "back": "1–6%",
-      "citation": "Bulstrode et al., 2024; Alzayadneh et al., 2022",
+      "citation": "Synopsis do texto",
       "domain": "complicacao"
     },
     {
-      "front": "Qual é a taxa de redução de extrusão de sutura com técnica de retalho dermofáscial pós-auricular?",
-      "back": "Redução a zero",
+      "front": "Qual é a complicação mais frequente que causa reoperação em otoplastia?",
+      "back": "Extrusão de sutura",
+      "citation": "Synopsis do texto",
+      "domain": "complicacao"
+    },
+    {
+      "front": "Qual estratégia reduz a extrusão de sutura a zero em otoplastia segundo Bulstrode (2024)?",
+      "back": "Retalho dermofáscial pós-auricular",
       "citation": "Bulstrode et al., 2024",
       "domain": "tecnica"
     },
     {
-      "front": "Qual é a taxa de redução de extrusão de sutura com enxerto de tecido mole livre?",
-      "back": "Redução a zero",
+      "front": "Qual estratégia reduz a extrusão de sutura a zero em otoplastia segundo Alzayadneh (2022)?",
+      "back": "Enxerto de tecido mole livre",
       "citation": "Alzayadneh et al., 2022",
       "domain": "tecnica"
     },
     {
-      "front": "Qual é o principal hormônio responsável pela maleabilidade da cartilagem neonatal?",
-      "back": "Estrogênio materno",
-      "citation": "Neligan, 2023, vol. 3, cap. 28",
-      "domain": "fisiopatologia"
+      "front": "Em qual quantitativo de orelhas foi testada a abordagem cartilage-sparing de Benkler?",
+      "back": "Série piloto de 24 orelhas",
+      "citation": "Benkler et al., 2023",
+      "domain": "tecnica"
     },
     {
-      "front": "Qual é o fundamento biomecânico das técnicas de escarificação em otoplastia?",
-      "back": "Princípio de Gibson: escarificação da face convexa gera curvatura para o lado escarificado por liberação de tensões intrínsecas da cartilagem elástica",
-      "citation": "Neligan, 2023, vol. 3, cap. 28",
-      "domain": "fisiopatologia"
-    },
-    {
-      "front": "Qual é a complicação pós-operatória mais temida em otoplastia?",
-      "back": "Hematoma subpericondral não drenado, que pode resultar em deformidade permanente (orelha em couve-flor) por isquemia e fibrose da cartilagem",
-      "citation": "Neligan, 2023, vol. 3, cap. 28",
+      "front": "Qual complicação pós-operatória é considerada a urgência mais temida em otoplastia?",
+      "back": "Hematoma subpericondral não drenado",
+      "citation": "Synopsis do texto",
       "domain": "complicacao"
     },
     {
-      "front": "Qual técnica é mais indicada em crianças com cartilagem maleável?",
-      "back": "Suturas isoladas (técnica de Mustarde)",
-      "citation": "Neligan, 2023, vol. 3, cap. 28",
+      "front": "Qual é a sequela permanente do hematoma subpericondral não drenado em otoplastia?",
+      "back": "Deformidade em couve-flor por isquemia e fibrose da cartilagem",
+      "citation": "Synopsis do texto",
+      "domain": "complicacao"
+    },
+    {
+      "front": "Qual princípio biomecânico fundamenta as técnicas de escarificação em otoplastia?",
+      "back": "Princípio de Gibson: escarificação da face convexa gera curvatura para o lado escarificado por liberação de tensões intrínsecas da cartilagem elástica",
+      "citation": "Synopsis do texto",
+      "domain": "fisiopatologia"
+    },
+    {
+      "front": "Em crianças com cartilagem maleável, qual técnica isolada de sutura responde melhor?",
+      "back": "Sutura isolada (Mustarde)",
+      "citation": "Synopsis do texto",
       "domain": "tecnica"
     },
     {
-      "front": "Qual técnica é mais indicada em adultos com cartilagem rígida?",
-      "back": "Escarificação associada (técnica de Stenstrom) para resultado estável",
-      "citation": "Neligan, 2023, vol. 3, cap. 28",
+      "front": "Em adultos com cartilagem rígida, qual técnica associada pode ser necessária para resultado estável?",
+      "back": "Escarificação associada (Stenstrom)",
+      "citation": "Synopsis do texto",
       "domain": "tecnica"
     },
     {
-      "front": "Qual é o fator determinante mais importante na seleção da técnica de otoplastia?",
-      "back": "Identificação precisa da causa anatômica (anti-hélice, concha ou combinação)",
+      "front": "Qual nervo fornece inervação sensitiva ao pavilhão auricular a partir de C2–C3?",
+      "back": "Nervo auricular maior (ramo do plexo cervical)",
       "citation": "Neligan, 2023, vol. 3, cap. 28",
+      "domain": "anatomia"
+    },
+    {
+      "front": "Qual nervo craniano fornece inervação sensitiva à orelha via nervo auriculotemporal?",
+      "back": "Nervo V3 (nervo mandibular)",
+      "citation": "Neligan, 2023, vol. 3, cap. 28",
+      "domain": "anatomia"
+    },
+    {
+      "front": "Qual percentagem do tamanho adulto o pavilhão auricular atinge aos 5–6 anos de idade?",
+      "back": "Aproximadamente 85%",
+      "citation": "Neligan, 2023, vol. 3, cap. 28; Grabb & Smith, 2024, cap. 57",
+      "domain": "anatomia"
+    },
+    {
+      "front": "Qual número total de orelhas foram avaliadas na série de Belfast (McGarry et al.)?",
+      "back": "2333 orelhas",
+      "citation": "McGarry et al., 2023",
       "domain": "decisao"
+    },
+    {
+      "front": "Por quanto tempo o estrogênio materno confere maleabilidade à cartilagem auricular neonatal?",
+      "back": "Até 6 semanas de vida",
+      "citation": "Synopsis do texto",
+      "domain": "fisiopatologia"
     }
   ],
   "tags": [
     "flashcard",
     "otoplastia",
     "estetica-facial",
-    "parametros-numericos",
-    "tecnicas-cirurgicas"
+    "anatomia",
+    "tecnica-cirurgica",
+    "complicacoes",
+    "parametros-numericos"
   ]
 }

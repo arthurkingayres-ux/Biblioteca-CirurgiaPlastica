@@ -4,14 +4,26 @@
   "displayName": "Otoplastia",
   "version": "v1.0",
   "date": "2026-04-12",
-  "status": "draft",
-  "references": [],
-  "articles": [],
+  "status": "complete",
+  "references": [
+    "Neligan PC (Ed.). Plastic Surgery, 5ª Ed. Elsevier, 2023. Vol. 3, Cap. 28: Otoplasty.",
+    "Neligan PC (Ed.). Plastic Surgery, 5ª Ed. Elsevier, 2023. Vol. 2, Cap. 23: Otoplasty and Ear Reduction.",
+    "Boustany AN, Lin SJ. Grabb & Smith's Plastic Surgery, 9ª Ed. Wolters Kluwer, 2024. Cap. 57: Technical Refinement in Treating Prominent Ears.",
+    "Thorne CH, Neligan PC (Ed.). Neligan Core Procedures in Plastic Surgery, 2ª Ed. Elsevier, 2020. Cap. 5: Otoplasty for Prominent Ears.",
+    "Operative Dictations in Plastic and Reconstructive Surgery (modelo de ditado operatório de otoplastia)."
+  ],
+  "articles": [
+    "Bulstrode NW et al. Modified Approach to Prevent Suture Extrusion in Otoplasty Using a Postauricular Dermofáscial Flap. Plast Reconstr Surg 2024;154(6):1191e-1199e. DOI: 10.1097/PRS.0000000000011342",
+    "Benkler M et al. Cartilage-Sparing Otoplasty: A New Approach. Plast Reconstr Surg 2023;152(4):689e-692e. DOI: 10.1097/PRS.0000000000010401",
+    "McGarry KM et al. Otoplasty: The Belfast Experience. 10-Year Review of 2333 Ear Outcomes. Plast Reconstr Surg 2023;151(3):388e-397e. DOI: 10.1097/PRS.0000000000009908",
+    "Savetsky IL et al. Revisiting Primary Otoplasty: Surgical Approach to the Prominent Ear. Plast Reconstr Surg 2021;148(1):28e-31e.",
+    "Alzayadneh I et al. Free Soft Tissue Grafts in Otoplasty to Avoid Suture Extrusion. Aesthet Surg J 2022;42(9):NP571-NP575. DOI: 10.1093/asj/sjac079"
+  ],
   "cardCounts": {
-    "anatomia": 6,
-    "tecnicas": 18,
-    "decisoes": 3,
-    "notas": 35,
-    "flashcards": 47
+    "anatomia": 2,
+    "tecnicas": 8,
+    "decisoes": 1,
+    "notas": 18,
+    "flashcards": 29
   }
 }

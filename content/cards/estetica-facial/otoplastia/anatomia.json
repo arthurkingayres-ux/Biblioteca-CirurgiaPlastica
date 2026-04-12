@@ -2,102 +2,12 @@
   {
     "id": "oto-anat-001",
     "type": "anatomy",
-    "title": "Pavilhão Auricular - Estrutura e Dimensões Normais",
-    "aliases": [
-      "orelha externa",
-      "auricula",
-      "pinna"
-    ],
-    "topic": "otoplastia",
-    "area": "estética-facial",
-    "definition": "O pavilhão auricular e uma estrutura de cartilagem elástica coberta por pele fina e aderente na face anterior, e pele mais espessa e móvel na face posterior. Atinge ~85% do tamanho adulto aos 5-6 anos de idade, o que define a idade mínima para otoplastia. Dimensões adultas: altura ~6 cm, largura ~3,5 cm.",
-    "location": "Face lateral do crânio, entre a articulação temporomandíbular (ATM) anteriormente e o processo mastoide posteriormente. O MAE (Meato Acústico Externo) localiza-se na porção central.",
-    "relations": [
-      "Meato Acústico Externo (MAE)",
-      "Processo mastoide",
-      "Articulação temporomandíbular (ATM)",
-      "Nervo auricular maior (ramo do plexo cervical, C2-C3)",
-      "Nervo auriculotemporal (ramo do V3 - nervo mandíbular)"
-    ],
-    "surgical_relevance": "O ângulo cefaloauricular normal e de 25-35 graus. Projeção helice-mastoide: 10-12 mm (superior), 16-18 mm (médio), 20-22 mm (inferior). Valores acima desses indicam orelha em abano. A idade mínima para otoplastia (5-6 anos) e determinada pelo grau de desenvolvimento do pavilhão.",
-    "how_to_identify": "Estrutura cartilaginosa proeminente na região temporal lateral. Marcos anatômicos de superfície: helice (borda superior enrolada), anti-helice (crista paralela interna), tragus (protuberância anterior ao MAE), antitragus (protuberância inferior oposta ao tragus), lóbulo (porção inferior sem cartilagem), concha (depressão central dividida em cymba e cavum pelo crus helicis).",
-    "images": [
-      {
-        "file": "oto-anat-pavilhao-anatomia.jpg",
-        "caption": "Pavilhão auricular: marcos anatômicos de superfície — hélice, anti-hélice, tragus, antitragus, concha (cymba e cavum) e lóbulo",
-        "credit": "Neligan's Plastic Surgery 5ª Ed., 2023, vol. 3, cap. 28"
-      },
-      {
-        "file": "oto-anat-pavilhao-protrusao.jpg",
-        "caption": "Medidas da protrusão auricular: ângulo cefaloauricular (normal 25–35°) e projeção hélice-mastoide (superior 10–12 mm, médio 16–18 mm, inferior 20–22 mm)",
-        "credit": "Neligan's Plastic Surgery 5ª Ed., 2023, vol. 3, cap. 28"
-      }
-    ],
-    "citations": [
-      "Neligan, 2023, vol. 3, cap. 28",
-      "Grabb & Smith, 2020, cap. 36"
-    ],
-    "updates": [],
-    "tags": [
-      "anatomia",
-      "pavilhão-auricular",
-      "orelha",
-      "dimensões",
-      "ângulo-cefaloauricular"
-    ]
-  },
-  {
-    "id": "oto-anat-002",
-    "type": "anatomy",
-    "title": "Cartilagem Auricular",
-    "aliases": [
-      "cartilagem elástica auricular",
-      "cartilagem da orelha"
-    ],
-    "topic": "otoplastia",
-    "area": "estética-facial",
-    "definition": "A cartilagem auricular e do tipo elástica (nao hialina), com nutrição exclusivamente por difusao através do pericondrio. Hematoma subpericondral nao drenado causa pericondrite e fibrose, resultando em deformidade tipo orelha em couve-flor (cauliflower ear). Obedece ao Princípio de Gibson: escarificação da superfície convexa causa curvatura da cartilagem para o lado escarificado, por liberacao de tensoes intrínsecas.",
-    "location": "Forma o arcabouço estrutural de todo o pavilhão auricular, exceto o lóbulo (tecido fibroadiposo). A cartilagem e contínua em uma única peca, com dobras que formam a helice, anti-helice, crus superior e inferior, tragus e antitragus.",
-    "relations": [
-      "Pericondrio (membrana vascularizada que nutre a cartilagem)",
-      "Pele auricular (anterior: fina e aderente; posterior: mais espessa e móvel)",
-      "Musculatura intrínseca auricular (vestigial)"
-    ],
-    "surgical_relevance": "Fundamento de todas as técnicas de otoplastia: (1) Técnicas de sutura (Mustarde) moldam a cartilagem sem cortá-la; (2) Técnicas de escarificação (Stenstrom) usam o Princípio de Gibson para criar curvatura; (3) A nutrição por difusao via pericondrio torna a drenagem de hematomas urgente para prevenir necrose. O pericondrio deve ser preservado sempre que possível.",
-    "how_to_identify": "Palpacao firme mas flexivel do pavilhão auricular. Transluminação com lanterna mostra a cartilagem como sombra. Ausencia de cartilagem no lóbulo (macio, depressivel).",
-    "images": [
-      {
-        "file": "oto-anat-cartilagem-deformidades.jpg",
-        "caption": "Deformidades cartilaginosas na orelha em abano: hipertrofia conchal e falha de formação do anti-hélice",
-        "credit": "Neligan's Plastic Surgery 5ª Ed., 2023, vol. 3, cap. 28"
-      },
-      {
-        "file": "oto-anat-cartilagem-scoring.jpg",
-        "caption": "Princípio de Gibson: escarificação (scoring) da superfície convexa da cartilagem elástica causa curvatura para o lado escarificado",
-        "credit": "Neligan's Plastic Surgery 5ª Ed., 2023, vol. 3, cap. 28"
-      }
-    ],
-    "citations": [
-      "Neligan, 2023, vol. 3, cap. 28"
-    ],
-    "updates": [],
-    "tags": [
-      "anatomia",
-      "cartilagem",
-      "pericondrio",
-      "gibson",
-      "escarificação"
-    ]
-  },
-  {
-    "id": "oto-anat-003",
-    "type": "anatomy",
     "title": "Pavilhão Auricular — Estrutura e Dimensões Normais",
     "aliases": [],
     "topic": "otoplastia",
     "area": "estetica-facial",
     "definition": "Estrutura de cartilagem elástica coberta por pele fina e aderente na face anterior, e pele mais espessa e móvel na face posterior. Atinge ~85% do tamanho adulto aos 5–6 anos de idade. Dimensões adultas: altura ~6 cm, largura ~3,5 cm.",
-    "location": "Face lateral do crânio, entre a articulação temporomandibular (ATM) anteriormente e o processo mastoide posteriormente. O MAE (Meato Acústico Externo) localiza-se na porção central.",
+    "location": "Face lateral do crânio, entre a articulação temporomandibular (ATM) anteriormente e o processo mastoide posteriormente. O Meato Acústico Externo (MAE) localiza-se na porção central.",
     "relations": [
       "Meato Acústico Externo (MAE)",
       "Processo mastoide",
@@ -105,66 +15,46 @@
       "Nervo auricular maior (ramo do plexo cervical, C2–C3)",
       "Nervo auriculotemporal (ramo do V3 — nervo mandibular)"
     ],
-    "surgical_relevance": "O ângulo cefaloauricular normal é de 25–35 graus. Projeção helice-mastoide: 10–12 mm (superior), 16–18 mm (médio), 20–22 mm (inferior). Valores acima desses indicam orelha em abano. A idade mínima para otoplastia (5–6 anos) é determinada pelo grau de desenvolvimento do pavilhão.",
+    "surgical_relevance": "O ângulo cefaloauricular normal é de 25–35 graus. Projeção helice-mastoide: 10–12 mm (superior), 16–18 mm (médio), 20–22 mm (inferior). Valores acima desses indicam orelha em abano. A idade mínima para otoplastia (5–6 anos) é determinada pelo grau de desenvolvimento do pavilhão. Ângulo CS (Concha-Escafoide) deve aproximar-se de 90°; valores > 90° indicam anti-hélice hipoplásica. Ângulo CM (Concha-Mastoideo) também ~90°.",
     "how_to_identify": "Marcos anatômicos de superfície — Hélice (borda superior enrolada), anti-hélice (crista paralela interna), tragus (protuberância anterior ao MAE), antitragus (protuberância inferior oposta ao tragus), lóbulo (porção inferior sem cartilagem), concha (depressão central dividida em cymba e cavum pelo crus helicis).",
-    "images": [
-      {
-        "file": "oto-anat-pavilhao-anatomia.jpg",
-        "caption": "Pavilhão auricular: marcos anatômicos de superfície — hélice, anti-hélice, tragus, antitragus, concha (cymba e cavum) e lóbulo",
-        "credit": "Neligan's Plastic Surgery 5ª Ed., 2023, vol. 3, cap. 28"
-      },
-      {
-        "file": "oto-anat-pavilhao-protrusao.jpg",
-        "caption": "Medidas da protrusão auricular: ângulo cefaloauricular (normal 25–35°) e projeção hélice-mastoide (superior 10–12 mm, médio 16–18 mm, inferior 20–22 mm)",
-        "credit": "Neligan's Plastic Surgery 5ª Ed., 2023, vol. 3, cap. 28"
-      }
-    ],
+    "images": [],
     "citations": [
       "Neligan, 2023, vol. 3, cap. 28",
-      "Grabb & Smith, 2020, cap. 36"
+      "Grabb & Smith, 2024, cap. 57",
+      "Neligan Core Procedures, 2020, cap. 5"
     ],
     "updates": [],
     "tags": [
       "anatomia",
       "pavilhao-auricular",
-      "orelha",
-      "cartilagem",
-      "estetica-facial",
       "otoplastia",
-      "marcos-anatomicos"
+      "estetica-facial",
+      "cartilagem",
+      "dimensoes-normais",
+      "angulos-diagnosticos"
     ]
   },
   {
-    "id": "oto-anat-004",
+    "id": "oto-anat-002",
     "type": "anatomy",
     "title": "Cartilagem Auricular",
     "aliases": [],
     "topic": "otoplastia",
     "area": "estetica-facial",
-    "definition": "Cartilagem elástica (não hialina) que forma o arcabouço estrutural do pavilhão auricular, com nutrição exclusivamente por difusão através do pericôndrio. Hematoma subpericondral não drenado causa pericondrite e fibrose, resultando em deformidade tipo orelha em couve-flor.",
-    "location": "Arcabouço estrutural de todo o pavilhão auricular, exceto o lóbulo (tecido fibroadiposo). Cartilagem contínua em uma única peça, com dobras que formam a hélice, anti-hélice, crus superior e inferior, tragus e antitragus.",
+    "definition": "Cartilagem do tipo elástica (não hialina) que forma o arcabouço estrutural do pavilhão auricular, com nutrição exclusivamente por difusão através do pericôndrio. Hematoma subpericondral não drenado causa pericondrite e fibrose, resultando em deformidade tipo orelha em couve-flor (cauliflower ear).",
+    "location": "Forma o arcabouço estrutural de todo o pavilhão auricular, exceto o lóbulo (tecido fibroadiposo). A cartilagem é contínua em uma única peça, com dobras que formam a hélice, anti-hélice, crus superior e inferior, tragus e antitragus.",
     "relations": [
-      "Pericôndrio (membrana vascularizada que nutre a cartilagem)",
-      "Pele auricular anterior (fina e aderente)",
-      "Pele auricular posterior (mais espessa e móvel)",
-      "Musculatura intrínseca auricular (vestigial)"
+      "pericôndrio (membrana vascularizada que nutre a cartilagem)",
+      "pele auricular (anterior: fina e aderente; posterior: mais espessa e móvel)",
+      "musculatura intrínseca auricular (vestigial)"
     ],
-    "surgical_relevance": "Fundamento de todas as técnicas de otoplastia. Técnicas de sutura (Mustarde) moldam a cartilagem sem cortá-la. Técnicas de escarificação (Stenstrom) usam o Princípio de Gibson para criar curvatura. A nutrição por difusão via pericôndrio torna a drenagem de hematomas urgente para prevenir necrose. O pericôndrio deve ser preservado sempre que possível.",
+    "surgical_relevance": "Fundamento de todas as técnicas de otoplastia. Técnicas de sutura (Mustarde) moldam a cartilagem sem cortá-la. Técnicas de escarificação (Stenstrom) usam o Princípio de Gibson para criar curvatura. A nutrição por difusão via pericôndrio torna a drenagem de hematomas urgente para prevenir necrose. O pericôndrio deve ser preservado sempre que possível. A profundidade ideal da concha é aproximadamente 15 mm; quando excede 20 mm (excesso conchal), Furnas ou ressecção conchal tornam-se necessários.",
     "how_to_identify": "Palpação firme mas flexível do pavilhão auricular. Transluminação com lanterna mostra a cartilagem como sombra. Ausência de cartilagem no lóbulo (macio, depressível).",
-    "images": [
-      {
-        "file": "oto-anat-cartilagem-deformidades.jpg",
-        "caption": "Deformidades cartilaginosas na orelha em abano: hipertrofia conchal e falha de formação do anti-hélice",
-        "credit": "Neligan's Plastic Surgery 5ª Ed., 2023, vol. 3, cap. 28"
-      },
-      {
-        "file": "oto-anat-cartilagem-scoring.jpg",
-        "caption": "Princípio de Gibson: escarificação (scoring) da superfície convexa da cartilagem elástica causa curvatura para o lado escarificado",
-        "credit": "Neligan's Plastic Surgery 5ª Ed., 2023, vol. 3, cap. 28"
-      }
-    ],
+    "images": [],
     "citations": [
-      "Neligan, 2023, vol. 3, cap. 28"
+      "Neligan, 2023, vol. 3, cap. 28",
+      "Grabb & Smith, 2024, cap. 57",
+      "Neligan Core Procedures, 2020, cap. 5"
     ],
     "updates": [],
     "tags": [
@@ -173,76 +63,8 @@
       "pavilhao-auricular",
       "otoplastia",
       "estetica-facial",
-      "pericondrio"
-    ]
-  },
-  {
-    "id": "oto-anat-005",
-    "type": "anatomy",
-    "title": "Pavilhão Auricular — Estrutura e Dimensões Normais",
-    "aliases": [],
-    "topic": "otoplastia",
-    "area": "estetica-facial",
-    "definition": "Estrutura de cartilagem elástica coberta por pele fina e aderente na face anterior, e pele mais espessa e móvel na face posterior. Atinge ~85% do tamanho adulto aos 5–6 anos de idade. Dimensões adultas: altura ~6 cm, largura ~3,5 cm.",
-    "location": "Face lateral do crânio, entre a articulação temporomandibular (ATM) anteriormente e o processo mastoide posteriormente. O MAE (Meato Acústico Externo) localiza-se na porção central.",
-    "relations": [
-      "Meato Acústico Externo (MAE)",
-      "Processo mastoide",
-      "Articulação temporomandibular (ATM)",
-      "Nervo auricular maior (ramo do plexo cervical, C2–C3)",
-      "Nervo auriculotemporal (ramo do V3 — nervo mandibular)"
-    ],
-    "surgical_relevance": "O ângulo cefaloauricular normal é de 25–35 graus. Projeção helice-mastoide: 10–12 mm (superior), 16–18 mm (médio), 20–22 mm (inferior). Valores acima desses indicam orelha em abano. A idade mínima para otoplastia (5–6 anos) é determinada pelo grau de desenvolvimento do pavilhão. Ângulo CS (Concha-Escafoide) ~90°, valores > 90° indicam anti-hélice hipoplásica. Ângulo CM (Concha-Mastoideo) também ~90°.",
-    "how_to_identify": "Marcos anatômicos de superfície — Hélice (borda superior enrolada), anti-hélice (crista paralela interna), tragus (protuberância anterior ao MAE), antitragus (protuberância inferior oposta ao tragus), lóbulo (porção inferior sem cartilagem), concha (depressão central dividida em cymba e cavum pelo crus helicis).",
-    "images": [],
-    "citations": [
-      "Neligan, 2023, vol. 3, cap. 28",
-      "Grabb & Smith, 2024, cap. 57",
-      "Neligan Core Procedures, 2020, cap. 5"
-    ],
-    "updates": [],
-    "tags": [
-      "anatomia",
-      "pavilhao-auricular",
-      "dimensoes-normais",
-      "angulos-diagnosticos",
-      "otoplastia",
-      "estetica-facial"
-    ]
-  },
-  {
-    "id": "oto-anat-006",
-    "type": "anatomy",
-    "title": "Cartilagem Auricular",
-    "aliases": [],
-    "topic": "otoplastia",
-    "area": "estetica-facial",
-    "definition": "Cartilagem do tipo elástica (não hialina) que forma o arcabouço estrutural do pavilhão auricular, com nutrição exclusivamente por difusão através do pericôndrio. Hematoma subpericondral não drenado causa pericondrite e fibrose, resultando em deformidade tipo orelha em couve-flor.",
-    "location": "Forma o arcabouço estrutural de todo o pavilhão auricular, exceto o lóbulo. A cartilagem é contínua em uma única peça, com dobras que formam a hélice, anti-hélice, crus superior e inferior, tragus e antitragus. A concha subdivide-se em cymba (superior) e cavum (inferior), com profundidade ideal de aproximadamente 15 mm.",
-    "relations": [
-      "pericôndrio",
-      "pele auricular",
-      "musculatura intrínseca auricular",
-      "lóbulo"
-    ],
-    "surgical_relevance": "Fundamento de todas as técnicas de otoplastia. Técnicas de sutura (Mustarde) moldam a cartilagem sem cortá-la. Técnicas de escarificação (Stenstrom) usam o Princípio de Gibson para criar curvatura. A nutrição por difusão via pericôndrio torna a drenagem de hematomas urgente para prevenir necrose. O pericôndrio deve ser preservado sempre que possível. Quando a profundidade conchal excede 20 mm, Furnas ou ressecção conchal tornam-se necessários.",
-    "how_to_identify": "Palpação firme mas flexível do pavilhão auricular. Transluminação com lanterna mostra a cartilagem como sombra. Ausência de cartilagem no lóbulo (macio, depressível).",
-    "images": [],
-    "citations": [
-      "Neligan, 2023, vol. 3, cap. 28",
-      "Grabb & Smith, 2024, cap. 57",
-      "Neligan Core Procedures, 2020, cap. 5"
-    ],
-    "updates": [],
-    "tags": [
-      "anatomia",
-      "cartilagem",
-      "pavilhao-auricular",
-      "otoplastia",
-      "estetica-facial",
       "pericondrio",
-      "helice",
-      "anti-helice"
+      "estrutura-auricular"
     ]
   }
 ]

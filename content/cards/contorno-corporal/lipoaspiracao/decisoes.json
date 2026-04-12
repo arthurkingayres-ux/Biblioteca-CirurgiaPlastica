@@ -5,57 +5,52 @@
     "title": "Classificação de Paciente para Contorno Corporal (Frojo/Kenkel)",
     "topic": "lipoaspiracao",
     "area": "contorno-corporal",
-    "trigger": "Avaliação de candidato a procedimento de contorno corporal com indicação potencial de lipoaspiração",
+    "trigger": "Avaliação de candidato para procedimento de contorno corporal com lipoaspiração",
     "steps": [
       {
-        "question": "Qual é o padrão de distribuição do tecido adiposo e qualidade de pele do paciente?",
+        "question": "Qual é a qualidade da pele e a distribuição do depósito adiposo?",
         "options": [
           {
             "answer": "Depósitos focais com pele de boa qualidade e IMC adequado",
-            "next": "Classificação Tipo I — Lipodistrofia Localizada"
+            "next": "Tipo I - Lipodistrofia Localizada: indicar lipoaspiração isolada"
           },
           {
-            "answer": "Acúmulo difuso com IMC limítrofe/elevado e pele com elasticidade preservada",
-            "next": "Classificação Tipo II — Lipodistrofia Generalizada"
+            "answer": "Acúmulo difuso com IMC limítrofe/elevado e elasticidade preservada",
+            "next": "Tipo II - Lipodistrofia Generalizada: avaliar lipoaspiração ampla"
           },
           {
-            "answer": "Flacidez cutânea predominante com ou sem lipodistrofia associada",
-            "next": "Classificação Tipo III — Redundância Cutânea"
+            "answer": "Flacidez cutânea predominante com ou sem lipodistrofia",
+            "next": "Tipo III - Redundância Cutânea: avaliar necessidade de procedimentos excisionais"
           }
         ]
       },
       {
-        "question": "Paciente classificado como Tipo I — Lipodistrofia Localizada: qual é a conduta?",
+        "question": "Tipo II confirmado: qual estratégia cirúrgica é apropriada?",
         "options": [
           {
-            "answer": "Candidato ideal",
-            "next": "Indicar lipoaspiração isolada como tratamento de escolha"
+            "answer": "Paciente com bom perfil clínico e expectativas ajustadas",
+            "next": "Lipoaspiração ampla em tempo único com monitoramento rigoroso"
+          },
+          {
+            "answer": "Paciente com comorbidades ou maior volume adiposo",
+            "next": "Lipoaspiração ampla estagiada com intervalo entre fases"
           }
         ]
       },
       {
-        "question": "Paciente classificado como Tipo II — Lipodistrofia Generalizada: qual volume de lipoaspiração está indicado?",
+        "question": "Tipo III confirmado: qual tipo de procedimento excisional está indicado?",
         "options": [
           {
-            "answer": "Lipoaspiração ampla em tempo único com expectativas ajustadas",
-            "next": "Proceder com lipoaspiração ampla única sessão"
+            "answer": "Redundância em parede abdominal",
+            "next": "Indicar abdominoplastia isolada ou combinada com lipoaspiração limitada"
           },
           {
-            "answer": "Lipoaspiração ampla estagiada com expectativas ajustadas",
-            "next": "Proceder com lipoaspiração em múltiplos estágios"
-          }
-        ]
-      },
-      {
-        "question": "Paciente classificado como Tipo III — Redundância Cutânea: qual é a conduta apropriada?",
-        "options": [
-          {
-            "answer": "Lipoaspiração isolada",
-            "next": "Contraindicado ou resultará em piora do contorno — NÃO realizar"
+            "answer": "Redundância em coxa ou braço",
+            "next": "Indicar lifting de coxa ou braquioplastia isolada ou combinada"
           },
           {
-            "answer": "Procedimentos excisionais",
-            "next": "Indicar abdominoplastia, dermolipectomias, lifting de coxa e/ou braço isolados ou combinados"
+            "answer": "Redundância em múltiplas áreas",
+            "next": "Indicar procedimentos excisionais combinados (dermolipectomias múltiplas)"
           }
         ]
       }
@@ -70,7 +65,6 @@
       "lipoaspiracao",
       "contorno-corporal",
       "classificacao-paciente",
-      "frojo-kenkel",
       "cirurgia-plastica"
     ]
   }
