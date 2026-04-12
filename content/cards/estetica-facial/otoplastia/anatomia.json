@@ -17,7 +17,18 @@
     ],
     "surgical_relevance": "O ângulo cefaloauricular normal é de 25–35 graus. Projeção helice-mastoide: 10–12 mm (superior), 16–18 mm (médio), 20–22 mm (inferior). Valores acima desses indicam orelha em abano. A idade mínima para otoplastia (5–6 anos) é determinada pelo grau de desenvolvimento do pavilhão. Ângulo CS (Concha-Escafoide) deve aproximar-se de 90°; valores > 90° indicam anti-hélice hipoplásica. Ângulo CM (Concha-Mastoideo) também ~90°.",
     "how_to_identify": "Marcos anatômicos de superfície — Hélice (borda superior enrolada), anti-hélice (crista paralela interna), tragus (protuberância anterior ao MAE), antitragus (protuberância inferior oposta ao tragus), lóbulo (porção inferior sem cartilagem), concha (depressão central dividida em cymba e cavum pelo crus helicis).",
-    "images": [],
+    "images": [
+      {
+        "file": "oto-anat-pavilhao-anatomia.jpg",
+        "caption": "Pavilhão auricular — marcos de superfície (hélice, anti-hélice, tragus, antitragus, concha, lóbulo). Dimensões adultas: altura ~6 cm, largura ~3,5 cm. Ângulo cefaloauricular normal 25–35°.",
+        "credit": "Biblioteca Cirurgia Plástica — imagem curada"
+      },
+      {
+        "file": "oto-anat-pavilhao-protrusao.jpg",
+        "caption": "Projeção hélice-mastoide: 10–12 mm superior, 16–18 mm médio, 20–22 mm inferior. Valores acima indicam orelha em abano.",
+        "credit": "Biblioteca Cirurgia Plástica — imagem curada"
+      }
+    ],
     "citations": [
       "Neligan, 2023, vol. 3, cap. 28",
       "Grabb & Smith, 2024, cap. 57",
@@ -50,7 +61,13 @@
     ],
     "surgical_relevance": "Fundamento de todas as técnicas de otoplastia. Técnicas de sutura (Mustarde) moldam a cartilagem sem cortá-la. Técnicas de escarificação (Stenstrom) usam o Princípio de Gibson para criar curvatura. A nutrição por difusão via pericôndrio torna a drenagem de hematomas urgente para prevenir necrose. O pericôndrio deve ser preservado sempre que possível. A profundidade ideal da concha é aproximadamente 15 mm; quando excede 20 mm (excesso conchal), Furnas ou ressecção conchal tornam-se necessários.",
     "how_to_identify": "Palpação firme mas flexível do pavilhão auricular. Transluminação com lanterna mostra a cartilagem como sombra. Ausência de cartilagem no lóbulo (macio, depressível).",
-    "images": [],
+    "images": [
+      {
+        "file": "oto-anat-cartilagem-deformidades.jpg",
+        "caption": "Cartilagem auricular elástica: arcabouço único com dobras (hélice, anti-hélice, crus superior/inferior, tragus, antitragus). Nutrição exclusivamente pericondrial — hematoma não drenado → pericondrite → orelha em couve-flor.",
+        "credit": "Biblioteca Cirurgia Plástica — imagem curada"
+      }
+    ],
     "citations": [
       "Neligan, 2023, vol. 3, cap. 28",
       "Grabb & Smith, 2024, cap. 57",

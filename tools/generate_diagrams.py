@@ -2080,6 +2080,116 @@ def cpb_tec_volume_facial_adjuvantes():
     save(fig, 'contorno-pos-bariatrico', 'cpb-tec-volume-facial-adjuvantes.png')
 
 
+# ============================================================
+# OTOPLASTIA DIAGRAMS
+# ============================================================
+
+def _oto_sagital(ax, cx=5, cy=4.5):
+    """Corte sagital esquemático da regiao pos-auricular: mastoide + concha."""
+    # Cranio/mastoide
+    ax.add_patch(mpatches.Rectangle((cx-3, cy-3.2), 2.2, 6.0, facecolor='#F5F5DC', edgecolor='#6D4C41', linewidth=1.2))
+    ax.text(cx-1.9, cy+2.4, 'Mastoide', fontsize=9, color='#4E342E')
+    # Pericondrio + cartilagem conchal
+    ax.add_patch(mpatches.FancyBboxPatch((cx+0.2, cy-1.0), 2.2, 0.35, boxstyle="round,pad=0.02",
+                                          facecolor='#FFCDD2', edgecolor='#C62828', linewidth=1.0))
+    ax.text(cx+1.3, cy-0.82, 'Cartilagem conchal', fontsize=8, ha='center', color='#B71C1C')
+    # Pele posterior
+    ax.add_patch(mpatches.Rectangle((cx-0.8, cy-1.6), 3.0, 0.25, facecolor='#FFE0B2', edgecolor='#E65100', linewidth=0.8))
+    ax.text(cx+0.7, cy-1.75, 'Pele pos-auricular', fontsize=8, ha='center', color='#BF360C')
+
+
+def oto_tec_retalho_dermofascial():
+    """Retalho dermofascial pos-auricular cobrindo nos de sutura."""
+    fig, ax = plt.subplots(figsize=(10, 7))
+    ax.set_xlim(0, 10); ax.set_ylim(0, 8); ax.axis('off')
+    ax.set_title('Retalho dermofáscial pós-auricular — prevenção de extrusão de suturas',
+                 fontsize=11, fontweight='bold', color='#37474F')
+    _oto_sagital(ax, cx=5, cy=4.5)
+    # Nos de sutura na cartilagem (Furnas)
+    for y in [4.6, 4.2, 3.8]:
+        ax.plot([5.5, 7.0], [y, y], color='#1565C0', linewidth=2.0)
+        ax.plot(7.0, y, marker='o', color='#0D47A1', markersize=6)
+    ax.text(8.1, 4.2, 'Nós de sutura\n(Prolene/Nylon)', fontsize=8.5, color='#0D47A1', va='center')
+    # Retalho dermofascial cobrindo
+    retalho = mpatches.FancyBboxPatch((6.4, 3.2), 1.8, 1.8, boxstyle="round,pad=0.05",
+                                       facecolor='#FFE0B2', edgecolor='#E65100',
+                                       linewidth=1.5, linestyle='--', alpha=0.6)
+    ax.add_patch(retalho)
+    ax.text(7.3, 4.1, 'Retalho\nder mo fáscial', fontsize=8.5, ha='center', color='#BF360C', fontweight='bold')
+    ax.annotate('', xy=(6.8, 3.9), xytext=(5.2, 2.5),
+                arrowprops=dict(arrowstyle='->', color='#E65100', lw=1.5))
+    ax.text(2.5, 2.3,
+            'Elevação do retalho pós-auricular (dermo + fáscia) + rotação sobre nós\n'
+            'de sutura = barreira mecânica que reduz extrusão para 0% (Bulstrode 2024,\n'
+            'vs. 5,8% histórico em série de 340 orelhas).',
+            fontsize=8.8, color='#455A64', style='italic')
+    save(fig, 'otoplastia', 'oto-tec-retalho-dermofascial.png')
+
+
+def oto_tec_enxerto_livre():
+    """Enxerto livre de tecido mole interposto entre no de sutura e pericondrio."""
+    fig, ax = plt.subplots(figsize=(10, 7))
+    ax.set_xlim(0, 10); ax.set_ylim(0, 8); ax.axis('off')
+    ax.set_title('Enxerto livre de tecido mole — prevenção de extrusão',
+                 fontsize=11, fontweight='bold', color='#37474F')
+    _oto_sagital(ax, cx=5, cy=4.5)
+    # Sutura com no
+    ax.plot([5.5, 7.2], [4.3, 4.3], color='#1565C0', linewidth=2.0)
+    ax.plot(7.2, 4.3, marker='o', color='#0D47A1', markersize=8)
+    ax.text(7.9, 4.55, 'Nó', fontsize=8.5, color='#0D47A1')
+    # Enxerto interposto
+    enx = mpatches.Ellipse((6.6, 4.3), 0.9, 0.5, facecolor='#C5E1A5', edgecolor='#33691E', linewidth=1.4)
+    ax.add_patch(enx)
+    ax.text(6.6, 4.3, 'Enx.', fontsize=7.5, ha='center', va='center', color='#1B5E20', fontweight='bold')
+    ax.annotate('', xy=(6.6, 3.8), xytext=(4.2, 2.5),
+                arrowprops=dict(arrowstyle='->', color='#33691E', lw=1.5))
+    ax.text(1.2, 2.2,
+            'Tecido mole excedente da própria incisão pós-auricular é interposto entre\n'
+            'o nó da sutura e o pericôndrio. Sem morbidade de área doadora adicional.\n'
+            'Zero extrusão em 24 meses vs. 8,6% no grupo controle (Alzayadneh 2022).',
+            fontsize=8.8, color='#455A64', style='italic')
+    save(fig, 'otoplastia', 'oto-tec-enxerto-livre.png')
+
+
+def oto_tec_abordagem_anterior():
+    """Incisao anterior intra-helicoidal para macrotia / anti-helice grosseiramente inadequada."""
+    fig, ax = plt.subplots(figsize=(9, 9))
+    ax.set_xlim(0, 9); ax.set_ylim(0, 9); ax.axis('off')
+    ax.set_title('Abordagem anterior (lateral) — macrotia / anti-hélice inadequada',
+                 fontsize=11, fontweight='bold', color='#37474F')
+    # Pavilhao auricular estilizado (vista lateral)
+    helice = mpatches.Ellipse((4.5, 5.0), 3.2, 5.0, facecolor='#FFE0B2', edgecolor='#6D4C41', linewidth=1.8)
+    ax.add_patch(helice)
+    # Anti-helice (arco interno)
+    ax.add_patch(mpatches.Ellipse((4.5, 5.0), 1.8, 3.4, facecolor='none', edgecolor='#8D6E63', linewidth=1.2, linestyle='--'))
+    # Concha
+    ax.add_patch(mpatches.Ellipse((4.5, 4.7), 0.9, 1.6, facecolor='#FFCCBC', edgecolor='#6D4C41', linewidth=1.0))
+    ax.text(4.5, 4.7, 'Concha', fontsize=7.5, ha='center', color='#4E342E')
+    # Incisao anterior intra-helicoidal (linha vermelha ao longo da borda interna da helice)
+    t = np.linspace(np.pi*0.15, np.pi*0.85, 80)
+    x_inc = 4.5 + 1.55 * np.sin(t)
+    y_inc = 5.0 + 2.45 * np.cos(t)
+    ax.plot(x_inc, y_inc, color='#E53935', linewidth=2.2)
+    ax.text(7.0, 7.2, 'Incisão anterior\nintra-helicoidal', fontsize=9, color='#C62828', fontweight='bold')
+    ax.annotate('', xy=(5.8, 7.0), xytext=(6.8, 7.0),
+                arrowprops=dict(arrowstyle='->', color='#C62828', lw=1.5))
+    # Ressec cartilagem > pele (elipse tracejada)
+    ax.add_patch(mpatches.Ellipse((4.5, 6.2), 1.6, 0.9, facecolor='none', edgecolor='#1565C0', linewidth=1.4, linestyle=':'))
+    ax.text(2.0, 6.2, 'Ressecção\ncart. > pele', fontsize=8.5, color='#0D47A1', fontweight='bold', ha='center')
+    ax.annotate('', xy=(3.8, 6.2), xytext=(2.8, 6.2),
+                arrowprops=dict(arrowstyle='->', color='#0D47A1', lw=1.3))
+    # Reaproximacao (pontos de colchoeiro)
+    for y in [3.5, 3.2]:
+        ax.plot([3.8, 5.2], [y, y], color='#2E7D32', linewidth=1.4)
+    ax.text(2.0, 3.3, 'Mattress 5-0\n(everter margens\n— evita notching)', fontsize=8, color='#1B5E20', ha='center')
+    ax.text(4.5, 1.2,
+            'Indicação: macrotia ou anti-hélice/hélice grosseiramente subdesenvolvidas quando\n'
+            'abordagem posterior é insuficiente. Ressecar mais cartilagem que pele mantém a cicatriz\n'
+            'escondida na borda da hélice (Neligan Core Procedures, 2020, cap. 5).',
+            ha='center', fontsize=8.5, color='#455A64', style='italic')
+    save(fig, 'otoplastia', 'oto-tec-abordagem-anterior.png')
+
+
 if __name__ == '__main__':
     print("Gerando diagramas esquemáticos...\n")
 
@@ -2134,5 +2244,10 @@ if __name__ == '__main__':
     cpb_tec_lifting_cervical()
     cpb_tec_facelift_smas()
     cpb_tec_volume_facial_adjuvantes()
+
+    print("\n=== OTOPLASTIA ===")
+    oto_tec_retalho_dermofascial()
+    oto_tec_enxerto_livre()
+    oto_tec_abordagem_anterior()
 
     print("\nDiagramas gerados com sucesso!")
