@@ -1,0 +1,375 @@
+[
+  {
+    "id": "excm-nota-001",
+    "type": "note",
+    "title": "Synopsis",
+    "topic": "principios-excisao-margens",
+    "area": "pele-tumores",
+    "section": "synopsis",
+    "content": [
+      "O Carcinoma Basocelular (CBC) é o câncer mais comum do ser humano; a maioria é curada com excisão elíptica simples e margem de 4 mm em lesões de baixo risco.",
+      "Margens livres não são garantia de cura — extensão subclínica (skip areas, perineural, morfeiforme) pode escapar de corte em parafina convencional.",
+      "Regra prática: CBC baixo risco 4 mm, Carcinoma Espinocelular (CEC) baixo risco 4 mm, CEC alto risco 6 mm, melanoma por espessura de Breslow (0,5–2 cm).",
+      "Cirurgia Micrográfica de Mohs (MMS) é padrão-ouro quando preservação tecidual importa (face), quando a margem é mal definida, em recidivas e em histologias agressivas.",
+      "Orientação da peça ao patologista é parte inseparável da excisão: fio, tinta e diagrama preveem re-excisões cegas.",
+      "Elipse clássica tem razão comprimento/largura 3:1–4:1 e ângulos de 30° para evitar orelha de cachorro (dog-ear).",
+      "Em face, o eixo maior da elipse segue Relaxed Skin Tension Lines (RSTL) e respeita subunidades estéticas; sacrificar margem para seguir RSTL é erro — o câncer dita a forma da peça, o reparo se adapta.",
+      "Re-excisão por margem comprometida deve ser feita em 4–6 semanas; cicatriz e inflamação depois desse prazo dificultam leitura histológica.",
+      "Nevo displásico e lentigo maligno têm margens controversas — melanoma in situ tem indicação crescente de excisão em estágios ou Mohs com imuno-histoquímica."
+    ],
+    "images": [],
+    "citations": [
+      "Documento RAG — principios-excisao-margens"
+    ],
+    "updates": [],
+    "tags": [
+      "synopsis",
+      "excisao-margens",
+      "carcinoma-basocelular",
+      "carcinoma-espinocelular",
+      "melanoma",
+      "cirurgia-mohs",
+      "margem-cirurgica",
+      "oncologia-cutanea"
+    ]
+  },
+  {
+    "id": "excm-nota-002",
+    "type": "note",
+    "title": "Introdução",
+    "topic": "principios-excisao-margens",
+    "area": "pele-tumores",
+    "section": "introdução",
+    "content": [
+      "A excisão cutânea é a operação mais frequente da cirurgia plástica. CBC, CEC e melanoma concentram o volume oncológico; lesões benignas (nevos, cistos, lipomas, queratoses) somam o restante.",
+      "O desafio raramente é a ressecção em si — é decidir a margem certa, orientar corretamente a peça, escolher entre excisão padrão e técnicas micrográficas, e planejar o fechamento sem comprometer o controle oncológico. Ao contrário de retalhos e enxertos, o princípio é oncológico antes de reconstrutivo: primeiro a margem certa, depois o reparo.",
+      "Este documento cobre os princípios invioláveis: planejamento da excisão, margens por tipo tumoral, orientação da peça, indicações de Mohs, critérios de re-excisão."
+    ],
+    "images": [],
+    "citations": [
+      "Neligan, 2023, vol. 1, Skin/Tumors",
+      "Neligan Core Procedures, 2020"
+    ],
+    "updates": [],
+    "tags": [
+      "introducao",
+      "excisao-cutanea",
+      "margens-cirurgicas",
+      "oncologia-dermatologica",
+      "principios-excisao",
+      "tumores-pele",
+      "cbc",
+      "cec",
+      "melanoma",
+      "tecnica-mohs"
+    ]
+  },
+  {
+    "id": "excm-nota-003",
+    "type": "note",
+    "title": "Diagnosis / Patient Presentation",
+    "topic": "principios-excisao-margens",
+    "area": "pele-tumores",
+    "section": "diagnóstico",
+    "content": [
+      "História clínica deve incluir tempo de evolução, crescimento, sangramento espontâneo, prurido, dor, história pessoal e familiar de câncer de pele, exposição solar cumulativa, imunossupressão, radioterapia prévia e genodermatoses.",
+      "Exame físico realizado com inspeção sob iluminação oblíqua, palpação da mobilidade em relação aos planos profundos e avaliação de linfonodos regionais.",
+      "Dermatoscopia deve avaliar padrões vasculares como vasos arboriformes no carcinoma basocelular, rede pigmentar atípica em melanoma, glóbulos e véu azul-branco.",
+      "Biópsia prévia é obrigatória antes da excisão oncológica planejada, exceto em lesões pequenas com diagnóstico clínico inequívoco que já serão excisadas com margem adequada.",
+      "Técnica shave é aceitável para carcinoma basocelular superficial e carcinoma espinocelular in situ, mas inadequado para melanoma por subestimar Breslow.",
+      "Técnica punch de 4–6 mm é o padrão para lesões suspeitas de melanoma, obtendo a porção mais pigmentada, espessa ou elevada.",
+      "Técnica incisional recomendada para lesões grandes com amostragem em múltiplos pontos.",
+      "Técnica excisional indicada para lesões pequenas (<1 cm), permitindo diagnóstico e tratamento na mesma operação com margem mínima de 2 mm.",
+      "Estadiamento utiliza AJCC 8ª edição para melanoma (T por Breslow e ulceração, N por comprometimento de linfonodos, M por metástase) e NCCN para carcinoma basocelular e espinocelular (estratificação por risco alto versus baixo).",
+      "Exames complementares incluem ultrassonografia de linfonodos, tomografia ou ressonância magnética em tumores avançados, e pesquisa de linfonodo sentinela em melanoma com ≥0,8 mm de espessura ou com ulceração."
+    ],
+    "images": [],
+    "citations": [
+      "AJCC Cancer Staging Manual, 8ª ed.",
+      "NCCN Guidelines — BCC, SCC, Melanoma"
+    ],
+    "updates": [],
+    "tags": [
+      "diagnostico",
+      "biópsia",
+      "melanoma",
+      "carcinoma-basocelular",
+      "carcinoma-espinocelular",
+      "dermatoscopia",
+      "estadiamento",
+      "linfonodo-sentinela",
+      "margens-cirurgicas",
+      "breslow"
+    ]
+  },
+  {
+    "id": "excm-nota-004",
+    "type": "note",
+    "title": "Patient Selection",
+    "topic": "principios-excisao-margens",
+    "area": "pele-tumores",
+    "section": "selecao",
+    "content": [
+      "Margens de excisão variam conforme tipo tumoral e perfil de risco. CBC de baixo risco requer margem de 4 mm, enquanto alto risco necessita 5-6 mm ou cirurgia de Mohs. CEC de baixo risco: 4 mm; alto risco: 6-10 mm ou Mohs. Melanoma in situ requer 5 mm em baixo risco e 5-10 mm ou Mohs com mapa em alto risco, especialmente em lentigo maligno de face. Melanoma invasivo segue Breslow: ≤1,0 mm necessita 1 cm; 1,01-2,0 mm requer 1-2 cm; >2,0 mm requer 2 cm de margem.",
+      "Nevo displásico de grau leve requer apenas margem limpa (~2 mm). Nevo displásico moderado necessita 2-5 mm se margens positivas. Nevo displásico severo requer margem de 5 mm.",
+      "CBC de alto risco inclui: localização em zona H de face independente do tamanho; diâmetro >1 cm em zona M (bochecha, fronte, couro cabeludo, pescoço, pré-tibial) ou >2 cm em zona L (tronco, extremidades); bordas clinicamente mal definidas; recidiva; histologia agressiva (morfeiforme, infiltrativo, micronodular, basoescamoso); invasão perineural; radioterapia prévia no sítio; imunossupressão (transplantados, HIV, leucemia).",
+      "CEC de alto risco apresenta: localização em zona H, lábio ou orelha; diâmetro >2 cm; profundidade >6 mm ou além do subcutâneo; pouco diferenciado; subtipos acantolítico, adenoescamoso ou desmoplásico; invasão perineural; recidiva; imunossupressão; cicatriz crônica ou úlcera de Marjolin.",
+      "Melanoma de alto risco caracteriza-se por: espessura de Breslow elevada (índice principal); ulceração; índice mitótico ≥1/mm² em T1; regressão; margens positivas na biópsia prévia; subtipo desmoplásico.",
+      "Contraindicações absolutas à excisão ambulatorial incluem: tumor com invasão óssea ou cartilaginosa extensa requerendo bloco cirúrgico; melanoma com metástase linfonodal ou sistêmica requerendo discussão multidisciplinar; tumor próximo a estruturas nobres (nervo facial, ducto parotídeo, canalículo lacrimal) sem planejamento de reconstrução complexa; CBC/CEC recidivados em pele previamente irradiada sem imagem complementar.",
+      "Indicações formais para cirurgia micrográfica de Mohs (AAD/ACMS): zona H da face; recidiva tumoral; histologia agressiva (morfeiforme, micronodular, infiltrativo, basoescamoso, desmoplásico); bordas clínicas mal definidas; tumores grandes (>2 cm tronco/extremidades; >1 cm face); pacientes imunossuprimidos; invasão perineural; pele previamente irradiada; síndromes genéticas (Gorlin, xeroderma pigmentoso).",
+      "Contraindicações relativas à cirurgia de Mohs incluem: tumor claramente circunscrito em zona de baixo risco em paciente que tolera excisão padrão com margem ampla (mais barato, acesso mais fácil); falta de serviço de Mohs disponível, sendo aceitável alternativa de excisão com margens expandidas e patologia em parafina com re-excisão se necessário.",
+      "Lentigo maligno (melanoma in situ da face) é candidato preferencial para excisão em estágios (Slow Mohs) ou cirurgia micrográfica de Mohs com mapa."
+    ],
+    "images": [],
+    "citations": [
+      "NCCN Guidelines",
+      "AJCC 8ª ed.",
+      "Neligan, 2023, vol. 1",
+      "AAD/ACMS - Mohs Appropriate Use Criteria"
+    ],
+    "updates": [],
+    "tags": [
+      "selecao",
+      "margens-excisao",
+      "cbc",
+      "cec",
+      "melanoma",
+      "nevo-displasico",
+      "mohs",
+      "alto-risco",
+      "baixo-risco",
+      "zona-h",
+      "lentigo-maligno"
+    ]
+  },
+  {
+    "id": "excm-nota-005",
+    "type": "note",
+    "title": "Cuidados Pós-operatórios",
+    "topic": "principios-excisao-margens",
+    "area": "pele-tumores",
+    "section": "pós-operatório",
+    "content": [
+      "Curativo compressivo por 24–48 h; fita adesiva (Micropore) sobre a linha de sutura por 2 semanas reduz cicatriz alargada.",
+      "Higiene: lavagem suave com água e sabão neutro a partir de 48 h; cicatrizante tópico ou petrolato por 7 dias.",
+      "Retirada de pontos: face 5–7 dias; tronco e extremidades 10–14 dias; áreas de tensão (dorso, pré-tibial) 14–21 dias.",
+      "Proteção solar rigorosa por 6 meses (Fator de Proteção Solar [FPS] ≥50 + barreira física) — previne hiperpigmentação da cicatriz.",
+      "Massagem cicatricial a partir de 3 semanas; silicone tópico ou em placa por 3 meses em pacientes com histórico de cicatriz hipertrófica.",
+      "Acompanhamento CBC/CEC baixo risco: revisão em 1 mês, depois semestral por 2 anos, anual por 5 anos.",
+      "Acompanhamento CBC/CEC alto risco e melanoma: protocolo específico por tumor, frequência maior, exames de imagem conforme estadiamento.",
+      "Retorno com laudo histopatológico em 1–2 semanas — não combinar retirada de pontos com revisão do laudo para evitar atraso de decisão."
+    ],
+    "images": [],
+    "citations": [
+      "Documento RAG — principios-excisao-margens"
+    ],
+    "updates": [],
+    "tags": [
+      "pos-operatorio",
+      "curativo-compressivo",
+      "cicatrizacao",
+      "retirada-pontos",
+      "protecao-solar",
+      "acompanhamento",
+      "histopatologia",
+      "cicatriz-hipertrofica"
+    ]
+  },
+  {
+    "id": "excm-nota-006",
+    "type": "note",
+    "title": "Recidiva Local",
+    "topic": "principios-excisao-margens",
+    "area": "pele-tumores",
+    "section": "complicacoes",
+    "content": [
+      "Incidência: CBC baixo risco 1–5% em 5 anos com excisão padrão; <2% com Mohs. CBC alto risco até 15–20% sem Mohs; 1–5% com Mohs. CEC alto risco até 10–30% conforme critérios. Melanoma local conforme Breslow e margens.",
+      "Prevenção: Margem adequada, orientação correta da peça, Mohs em indicações formais, re-excisão tempestiva.",
+      "Diagnóstico: Nódulo ou ulceração em cicatriz; dor ou parestesia (sinal de invasão perineural); palpação de linfonodos.",
+      "Manejo: Biópsia confirmatória; re-excisão ampliada com Mohs; discussão multidisciplinar se segunda recidiva."
+    ],
+    "images": [],
+    "citations": [
+      "NCCN Guidelines"
+    ],
+    "updates": [],
+    "tags": [
+      "complicacoes",
+      "recidiva-local",
+      "margens-excisao",
+      "mohs",
+      "cbc",
+      "cec",
+      "melanoma"
+    ]
+  },
+  {
+    "id": "excm-nota-007",
+    "type": "note",
+    "title": "Margem Positiva em Corte Permanente",
+    "topic": "principios-excisao-margens",
+    "area": "pele-tumores",
+    "section": "complicacoes",
+    "content": [
+      "Incidência de margem positiva em corte permanente: 5–10% em excisão elíptica padrão; 1–3% em técnica de Mohs.",
+      "Prevenção: estabelecer margem adequada de acordo com tipo tumoral; orientação correta da peça cirúrgica; indicar técnica de Mohs em casos de alto risco.",
+      "Diagnóstico realizado por laudo histopatológico.",
+      "Manejo: re-excisão em 4–6 semanas; considerar técnica de Mohs como alternativa; radioterapia adjuvante se re-excisão impossível, particularmente em carcinoma espinocelular perineural e melanoma desmoplásico."
+    ],
+    "images": [],
+    "citations": [
+      "NCCN Guidelines"
+    ],
+    "updates": [],
+    "tags": [
+      "complicacoes",
+      "margem-positiva",
+      "excisao-cirurgica",
+      "mohs",
+      "histopatologia",
+      "re-excisao",
+      "radioterapia"
+    ]
+  },
+  {
+    "id": "excm-nota-008",
+    "type": "note",
+    "title": "Cicatriz Hipertrófica ou Queloide",
+    "topic": "principios-excisao-margens",
+    "area": "pele-tumores",
+    "section": "complicacoes",
+    "content": [
+      "Incidência de 5–15% em face, com maior prevalência em tronco superior, ombro, esterno e lóbulo de orelha.",
+      "Prevenção através de fechamento sem tensão, fechamento em camadas, uso de fio monofilamentar fino em face, descolamento adequado de bordas e aplicação de silicone profilático em pacientes de risco.",
+      "Diagnóstico clínico caracterizado por cicatriz elevada, eritematosa e pruriginosa; queloide apresenta invasão de pele adjacente.",
+      "Manejo inicial com silicone em placa ou gel por 3–6 meses e massagem. Para casos mais refratários, infiltração intralesional com triancinolona na concentração de 10–40 mg/mL. Em queloides resistentes, considerar excisão associada a radioterapia."
+    ],
+    "images": [],
+    "citations": [
+      "Neligan, 2023, vol. 1, cap. 10"
+    ],
+    "updates": [],
+    "tags": [
+      "complicacoes",
+      "cicatriz-hipertrofica",
+      "queloide",
+      "manejo-cicatricial",
+      "silicone",
+      "triancinolona"
+    ]
+  },
+  {
+    "id": "excm-nota-009",
+    "type": "note",
+    "title": "Dehiscência de Sutura",
+    "topic": "principios-excisao-margens",
+    "area": "pele-tumores",
+    "section": "complicações",
+    "content": [
+      "Incidência de 1–5% em casos de dehiscência de sutura.",
+      "Prevenção através de fechamento em camadas, sutura sem tensão, retirada de pontos no tempo certo, e orientação ao paciente sobre restrição de esforço físico.",
+      "Diagnóstico caracterizado por abertura parcial ou total da ferida antes da cicatrização.",
+      "Manejo: segunda intenção se defeito pequeno; ressutura em 24–48 horas se cobertura tecidual viável; curativo úmido ou terapia por pressão negativa em defeitos maiores."
+    ],
+    "images": [],
+    "citations": [
+      "Documento RAG — principios-excisao-margens"
+    ],
+    "updates": [],
+    "tags": [
+      "complicacoes",
+      "dehiscencia",
+      "sutura",
+      "cicatrizacao",
+      "manejo-de-feridas",
+      "fechamento-primario"
+    ]
+  },
+  {
+    "id": "excm-nota-010",
+    "type": "note",
+    "title": "Distorção Anatômica (Ectrópio, Lábio Superior Elevado, Distorção Alar)",
+    "topic": "principios-excisao-margens",
+    "area": "pele-tumores",
+    "section": "complicacoes",
+    "content": [
+      "Incidência variável com risco maior em defeitos ≥1,5 cm localizados em pálpebra inferior, lábio e asa nasal.",
+      "Prevenção através do reconhecimento do risco antes da excisão — se a excisão padrão causará distorção, considerar retalho local em vez de fechamento primário.",
+      "Diagnóstico inclui ectrópio palpebral com epífora e queratoconjuntivite, pseudo-retração alar e desvio de comissura labial.",
+      "Manejo inicial com observação de 3–6 meses, massagem e triancinolona em caso de retração. Revisão cirúrgica com enxerto de cartilagem, Z-plastia ou retalho indicada se persistente."
+    ],
+    "images": [],
+    "citations": [
+      "Practical Facial Reconstruction"
+    ],
+    "updates": [],
+    "tags": [
+      "complicacoes",
+      "distorcao-anatomica",
+      "ectropio",
+      "excisao-cirurgica",
+      "reconstrucao-facial",
+      "margens-cirurgicas"
+    ]
+  },
+  {
+    "id": "excm-nota-011",
+    "type": "note",
+    "title": "Invasão Perineural Subclínica (CEC/CBC)",
+    "topic": "principios-excisao-margens",
+    "area": "pele-tumores",
+    "section": "complicações",
+    "content": [
+      "Incidência: Até 5% em carcinoma espinocelular de cabeça e pescoço com pior prognóstico.",
+      "Prevenção: Identificar fatores de risco incluindo lesão grande, recidiva, histologia agressiva e sintomas neurológicos. Indicar cirurgia de Mohs associada a imagem se houver suspeita.",
+      "Diagnóstico: Confirmado por laudo histopatológico evidenciando invasão perineural. Ressonância magnética recomendada se sintomas neurológicos presentes.",
+      "Manejo: Realizar excisão ampliada com acompanhamento por ressonância magnética, considerando radioterapia adjuvante. Discussão com oncologia clínica para terapia sistêmica em casos de doença localmente avançada."
+    ],
+    "images": [],
+    "citations": [
+      "NCCN SCC Guidelines"
+    ],
+    "updates": [],
+    "tags": [
+      "complicacoes",
+      "invasao-perineural",
+      "carcinoma-espinocelular",
+      "cec-cbc",
+      "margens-cirurgicas",
+      "mohs",
+      "radioterapia"
+    ]
+  },
+  {
+    "id": "excm-nota-012",
+    "type": "note",
+    "title": "Procedimentos Secundários",
+    "topic": "principios-excisao-margens",
+    "area": "pele-tumores",
+    "section": "revisao",
+    "content": [
+      "Revisão de cicatriz (Z-plastia, W-plastia, corticoide intralesional, resurfacing a laser) — 6 meses após excisão inicial, cicatriz madura.",
+      "Enxerto ou retalho para defeito não reconstruído por segunda intenção.",
+      "Reconstrução diferida em melanoma de alto risco — por vezes espera-se laudo de linfonodo sentinela antes do fechamento definitivo.",
+      "Re-excisão por margem positiva — técnica descrita em Treatment.",
+      "Esvaziamento cervical ou axilar em metástase linfonodal — fora do escopo da excisão primária."
+    ],
+    "images": [],
+    "citations": [
+      "Documento RAG — principios-excisao-margens"
+    ],
+    "updates": [],
+    "tags": [
+      "revisao",
+      "procedimentos-secundarios",
+      "cicatriz",
+      "enxerto",
+      "retalho",
+      "melanoma",
+      "margem-positiva",
+      "linfonodo-sentinela",
+      "esvaziamento-cervical",
+      "esvaziamento-axilar"
+    ]
+  }
+]

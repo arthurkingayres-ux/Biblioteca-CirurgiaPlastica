@@ -1,0 +1,136 @@
+[
+  {
+    "id": "excm-anat-001",
+    "type": "anatomy",
+    "title": "Relaxed Skin Tension Lines (RSTL)",
+    "aliases": [
+      "Linhas de menor tensão cutânea"
+    ],
+    "topic": "principios-excisao-margens",
+    "area": "pele-tumores",
+    "definition": "Linhas de menor tensão cutânea em repouso, perpendiculares ao vetor de contração das fibras musculares subjacentes. Distintas das linhas de Langer, que são descritas em cadáveres e menos úteis em pacientes vivos.",
+    "location": "Face: horizontais na fronte, verticais no násion, oblíquas nas bochechas, verticais nos lábios. Pescoço: horizontais. Tronco: variáveis por região.",
+    "relations": [
+      "linhas de Langer",
+      "rugas dinâmicas",
+      "rugas estáticas",
+      "fibras musculares subjacentes"
+    ],
+    "surgical_relevance": "No planejamento da excisão elíptica, o eixo maior deve seguir as RSTL para que a cicatriz caia em ruga natural, reduzindo tração e contração visível.",
+    "how_to_identify": "Pregueamento manual da pele; observação das rugas dinâmicas e estáticas do paciente sentado; solicitação de expressões (sorrir, franzir, fechar os olhos); marcação pré-operatória com o paciente em posição neutra.",
+    "images": [],
+    "citations": [
+      "Neligan, 2023, vol. 3 — Facial Reconstruction; Practical Facial Reconstruction"
+    ],
+    "updates": [],
+    "tags": [
+      "anatomia",
+      "pele",
+      "tumores",
+      "rstl",
+      "cicatrizes",
+      "excisao",
+      "margens",
+      "cirurgia-plastica"
+    ]
+  },
+  {
+    "id": "excm-anat-002",
+    "type": "anatomy",
+    "title": "Subunidades Estéticas da Face",
+    "aliases": [],
+    "topic": "principios-excisao-margens",
+    "area": "pele-tumores",
+    "definition": "Divisão topográfica da face em regiões homogêneas por cor, textura, espessura, pilificação e contorno. Clássico de Burget & Menick para o nariz; estendido a face inteira.",
+    "location": "Frontal, temporal, periorbital, palpebral, nasal (dorso, parede lateral, ponta, asa, columela, sulco alar), malar, labial (superior, inferior, filtro, comissura), mentoniana, auricular, cervical.",
+    "relations": [
+      "sombras e reflexos naturais",
+      "sulco melolabial",
+      "sulco alar-facial",
+      "margem do vermelhão"
+    ],
+    "surgical_relevance": "Se a excisão toma >50% de uma subunidade, muitas vezes compensa ressecar a subunidade inteira — cicatriz na borda fica escondida na sombra natural. Em lesões pequenas e centrais na subunidade, preservar a vizinhança.",
+    "how_to_identify": "Inspeção com iluminação oblíqua; marcação pré-operatória.",
+    "images": [],
+    "citations": [
+      "Practical Facial Reconstruction; Neligan, 2023, vol. 3"
+    ],
+    "updates": [],
+    "tags": [
+      "anatomia",
+      "face",
+      "subunidades-esteticas",
+      "excisao",
+      "reconstrucao-facial"
+    ]
+  },
+  {
+    "id": "excm-anat-003",
+    "type": "anatomy",
+    "title": "Zona H da Face (Mask Zone)",
+    "aliases": [],
+    "topic": "principios-excisao-margens",
+    "area": "pele-tumores",
+    "definition": "Área de alto risco para recidiva e extensão subclínica de CBC e CEC, incluindo regiões centrofaciais com planos de fusão embriológica que permitem propagação tumoral profunda",
+    "location": "Pálpebras, canto medial e lateral, periorbital, nariz (especialmente ponta, asa, sulco alar), sulcos nasolabial e nasojugal, lábios, columela, queixo, pré-auricular, retroauricular, canal auditivo",
+    "relations": [
+      "drenagem linfática ambígua",
+      "fusão de múltiplos planos faciais",
+      "planos de fusão embriológica"
+    ],
+    "surgical_relevance": "Todo tumor primário em zona H, independentemente de tamanho, é considerado de alto risco pelo NCCN e normalmente tem indicação de Mohs ou margens ampliadas (5–6 mm para CBC, 6–10 mm para CEC)",
+    "how_to_identify": "Memorização do mapa em H invertido sobre o terço médio da face",
+    "images": [],
+    "citations": [
+      "NCCN Guidelines — Basal Cell Skin Cancer",
+      "Neligan, 2023, vol. 1"
+    ],
+    "updates": [],
+    "tags": [
+      "anatomia",
+      "zona-h",
+      "mask-zone",
+      "face",
+      "margens-cirurgicas",
+      "cbc",
+      "cec",
+      "mohs"
+    ]
+  },
+  {
+    "id": "excm-anat-004",
+    "type": "anatomy",
+    "title": "Planos de Excisão em Profundidade",
+    "aliases": [],
+    "topic": "principios-excisao-margens",
+    "area": "pele-tumores",
+    "definition": "O nível de profundidade da ressecção depende do tipo tumoral e da invasão clínica",
+    "location": "Derme profunda (lesões superficiais), subcutâneo (CBC/CEC padrão), fáscia muscular (melanoma), músculo e pericôndrio/periósteo (tumores invasivos)",
+    "relations": [
+      "derme profunda",
+      "subcutâneo",
+      "fáscia muscular",
+      "fáscia subjacente",
+      "músculo",
+      "pericôndrio",
+      "periósteo"
+    ],
+    "surgical_relevance": "Margem profunda inadequada é causa frequente de recidiva, principalmente em tumores morfeiformes, perineurais e melanomas espessos. Para melanoma, recomenda-se ressecção até a fáscia subjacente na maioria dos sítios; em face, pode ser impraticável e se respeita a profundidade anatômica segura",
+    "how_to_identify": "Planejar o nível antes de incisar; palpar aderência a planos profundos como sinal de invasão",
+    "images": [],
+    "citations": [
+      "NCCN Guidelines — Melanoma",
+      "Neligan, 2023, vol. 1"
+    ],
+    "updates": [],
+    "tags": [
+      "anatomia",
+      "excisao",
+      "margens",
+      "melanoma",
+      "profundidade",
+      "planos-anatomicos",
+      "cirurgia-oncologica"
+    ]
+  }
+]
