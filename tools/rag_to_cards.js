@@ -389,7 +389,7 @@ function loadValidator() {
   const schema = JSON.parse(fs.readFileSync(schemaPath, 'utf8'));
   // Remove $schema key that ajv doesn't support natively for draft 2020-12
   delete schema.$schema;
-  const ajv = new Ajv({ allErrors: true, strict: false });
+  const ajv = new Ajv({ allErrors: true, strict: false, removeAdditional: true });
   addFormats(ajv);
 
   // Register the root schema so $ref to #/$defs/update resolves
@@ -405,6 +405,15 @@ function loadValidator() {
 }
 
 // --- Merge Logic ---
+
+function normalizeStructuredFields(card) {
+  if (Array.isArray(card.images)) {
+    card.images = card.images.filter(i => i && typeof i === 'object' && typeof i.file === 'string');
+  }
+  if (Array.isArray(card.updates)) {
+    card.updates = card.updates.filter(u => u && typeof u === 'object' && u.color && u.content && u.citation);
+  }
+}
 
 function mergeCards(existing, generated) {
   const byId = new Map();
@@ -475,6 +484,7 @@ async function processTopic(client, validators, topic, area, dryRun) {
     try {
       const prompt = buildAnatomyPrompt(item.title, item.content, topic, area, prefix, anatomyId);
       const card = await callLLM(client, prompt);
+      normalizeStructuredFields(card);
       if (validators.anatomy(card)) {
         results.anatomia.push(card);
         stats.generated++;
@@ -520,6 +530,7 @@ async function processTopic(client, validators, topic, area, dryRun) {
     try {
       const prompt = buildTechniquePrompt(item.title, item.content, topic, area, prefix, techId);
       const card = await callLLM(client, prompt);
+      normalizeStructuredFields(card);
       if (validators.technique(card)) {
         results.tecnicas.push(card);
         stats.generated++;
@@ -531,6 +542,9 @@ async function processTopic(client, validators, topic, area, dryRun) {
         card.pearls = card.pearls || [];
         card.images = card.images || [];
         card.updates = card.updates || [];
+        if (!Array.isArray(card.steps) || card.steps.length === 0) {
+          card.steps = [`Consultar seção "${item.title}" do documento RAG para detalhes.`];
+        }
         if (validators.technique(card)) {
           results.tecnicas.push(card);
           stats.generated++;
@@ -566,6 +580,7 @@ async function processTopic(client, validators, topic, area, dryRun) {
     try {
       const prompt = buildDecisionPrompt(item.title, item.content, topic, area, prefix, decId);
       const card = await callLLM(client, prompt);
+      normalizeStructuredFields(card);
       if (validators.decision(card)) {
         results.decisoes.push(card);
         stats.generated++;
@@ -609,6 +624,7 @@ async function processTopic(client, validators, topic, area, dryRun) {
     try {
       const prompt = buildNotePrompt(item.title, item.content, topic, area, prefix, noteId, item.section || 'geral');
       const card = await callLLM(client, prompt);
+      normalizeStructuredFields(card);
       // Salvage common LLM omissions before validation
       card.images = card.images || [];
       card.updates = card.updates || [];
@@ -648,6 +664,7 @@ async function processTopic(client, validators, topic, area, dryRun) {
     try {
       const prompt = buildFlashcardPrompt(mapped.flashcard[0].content, topic, area, prefix, fcId);
       const card = await callLLM(client, prompt);
+      normalizeStructuredFields(card);
       if (validators.flashcard(card)) {
         results.flashcards = card;
         stats.generated++;
