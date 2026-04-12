@@ -277,6 +277,10 @@ A ponta nasal é o elemento mais determinante do resultado estético. O conceito
 - **Relações:** CLA (todas as cruras); Ligamento inter-alar (Pitanguy); Septo nasal caudal; Espinha nasal anterior; Scroll area.
 - **Relevância cirúrgica:** A via aberta pode causar leve perda de projeção por ruptura do suporte ligamentar e descolamento extenso da pele — razão para uso rotineiro de columellar strut e técnicas de sutura. Técnicas de sutura (transdomal, interdomal, lateral crural steal) devem preceder a ressecção tecidual. Enxertos de escudo, cap e columellar strut ajustam projeção, rotação e suporte.
 - **Como identificar:** Projeção da ponta testada com pressão digital: quanto a ponta resiste à retroprojeção indica a integridade dos mecanismos de suporte.
+- **Tripé de Anderson:** conceito clássico em que as cruras mediais unidas formam um pilar e as duas cruras laterais das CLA — cartilagens laterais inferiores — formam os outros dois pilares; essa configuração sustenta projeção e rotação da ponta, e modificações em qualquer um dos três braços repercutem sobre os demais. *(Operative Dictations, 2017, cap. 2)*
+- **Ligamento interalar (Pitanguy):** estabiliza as CLA na junção entre as cruras mediais e médias; sua ruptura na via aberta justifica o uso rotineiro de columellar strut e suturas interdomais para restaurar o suporte. *(Neligan, 2023, vol. 2, cap. 18)*
+- **Estrutura "I-beam":** a superposição entre CLS — cartilagens laterais superiores — e septo quadrangular configura uma viga em "I" que é fundamental para a arquitetura dorsal e a patência da valva interna. *(Neligan, 2023, vol. 2, cap. 18)*
+- **Circulação colateral:** ramos das artérias etmoidal anterior, supratroclear e facial fornecem suprimento duplo ao redor de cada narina, permitindo dissecção segura no plano correto mesmo após secção da artéria columelar na via aberta. *(Neligan, 2023, vol. 2, cap. 18)*
 - [Imagem: fig18-3-projecao-ponta.jpeg]
 - *(Neligan, 2023, vol. 2, cap. 18; Grabb & Smith, 2024, cap. 55)*
 
@@ -318,6 +322,13 @@ A resistência nasal corresponde a cerca de metade da resistência total de toda
 - Lóbulo infraponta (vista basal): 1/3 da distância base alar–ponta.
 - Flare alar normal: 2 mm.
 
+**Parâmetros de referência consolidados (texto-livro):**
+
+- A projeção nasal normal situa-se entre 50% e 60% da ponta anterior à linha vertical do canto medial; valores > 60% caracterizam sobreprojeção e valores < 50%, subprojeção. *(Neligan, 2023, vol. 2, cap. 18)*
+- A largura da base alar ideal é de aproximadamente 80% da largura alar nasal, servindo como referência para decisões de ressecção de base alar. *(Neligan, 2023, vol. 2, cap. 18)*
+- As descrições quantitativas dos ângulos nasofrontal, nasolabial e columelar-lobular, bem como das medidas de Goode, Crumley e Simons citadas acima, baseiam-se nos parâmetros padronizados do texto-livro. *(Neligan, 2023, vol. 2, cap. 18; Grabb & Smith, 2024, cap. 54)*
+- A aplicação da lei de Poiseuille, do número de Reynolds e do ciclo nasal de Minz à fisiologia nasal, assim como o impacto da paralisia facial sobre a valva externa, segue a descrição do texto-livro de referência. *(Neligan, 2023, vol. 2, caps. 18 e 21; Grabb & Smith, 2024, cap. 54)*
+
 **Medidas de suporte:**
 
 - Largura do L-strut mínimo: ≥ 10 mm (ideal ≥ 15 mm em cartilagem fraca).
@@ -351,6 +362,8 @@ Consulta inicial: (1) história nasal completa — trauma, cirurgias prévias, a
 **Vista basal:** (1) projeção nasal; (2) triângulo equilátero (base da columela + rim alar); (3) lóbulo infraponta = 1/3 da distância base alar-ponta; (4) largura da base alar e flaring (normal: 2 mm); (5) assimetrias da narina.
 
 **Exame interno:** colapso da valva externa à inspiração + teste de Cottle. Espéculo nasal: valva interna, hipertrofia de corneto (tipicamente contralateral ao desvio), deformidades septais, quantidade de cartilagem septal para enxerto. Em revisão: aplicador de algodão ao longo do septo identifica step-off de coleta prévia.
+
+**Benchmark primária vs. secundária (texto-livro):** em série retrospectiva comparando 150 rinoplastias secundárias com 50 primárias, a deformidade em V invertido foi observada em 93% dos casos secundários (vs. 32% das primárias), o estreitamento do vault médio ≥ 25% em 87% (vs. 38%), projeção inadequada em 80% (vs. 31%) e malposição das CLA em 50–80% das secundárias — padrão que reforça a necessidade de avaliação sistemática do terço médio e da posição alar em todo candidato à revisão. *(Neligan, 2023, vol. 2, cap. 20)*
 
 [Imagem: fig18-2-angulos-nasais.jpeg]
 [Imagem: diagrama-angulos-nasais.png]
@@ -392,6 +405,10 @@ Consulta inicial: (1) história nasal completa — trauma, cirurgias prévias, a
 > **Há necessidade de septoplastia ou osteotomias extensas?**
 > - Sim — desvio septal + osteotomias + reconstrução valvar → Via aberta preferida para visualização completa e controle.
 > - Não — apenas modificações limitadas → Via fechada viável se cirurgião experiente. Curva de aprendizado maior.
+
+**Preferência em revisão (texto-livro):** inquéritos entre cirurgiões de rinoplastia apontam que cerca de 73% preferem abordagem aberta em rinoplastia secundária, contra aproximadamente 20% que mantêm a via fechada como preferência para revisão — reflexo do maior controle oferecido pela via aberta diante da distorção cicatricial. *(Neligan, 2023, vol. 2, cap. 19)*
+
+**Suturas na via aberta (texto-livro):** na abordagem aberta, quatro técnicas principais de sutura compõem o arsenal mínimo — crura medial, transdomal, interdomal e lateral crural strut — e estima-se que cerca de 50% da forma nasal final seja imprimida pela pele sobre o arcabouço remodelado. *(Neligan, 2023, vol. 2, cap. 19)*
 
 *(Neligan, 2023, vol. 2, caps. 19–20; Core Procedures, 2020, cap. 4; Operative Dictations, 2017, caps. 1–2)*
 
@@ -481,8 +498,9 @@ Consulta inicial: (1) história nasal completa — trauma, cirurgias prévias, a
   12. Irrigação com SF morno, fechamento stair-step com nylon 6-0 preto (PC-3), incisões vestibulares com chromic gut 5-0.
   13. Steri-Strips do supratip ao dorso + splint dorsal Denver + splints de Doyle se septoplastia.
 - **Complicações específicas:** Cicatriz transcolumelar (geralmente imperceptível); Edema prolongado da ponta; Perda de projeção por ruptura ligamentar; Separação da incisão columelar; Notching columelar.
+- **Detalhamento técnico complementar (ditados operatórios):** incisão columelar em V achatada centrada na parte mais estreita da columela, respeitando os triângulos moles bilaterais; dissecção dorsal com elevador de Joseph em plano supra-pericondrial sobre cartilagens e subperiosteal sobre o osso até a rádix; redução dorsal que raspa cerca de 7–8 mm do componente ósseo, com o septo dorsal marcado com lâmina #11 e ressecado em bloco com tesoura Fomon de ângulo reto; trim cefálico da crura lateral da CLA — cartilagem lateral inferior — com lâmina #15 para reduzir volume de ponta bulbosa; osteotomia lateral com osteótomo reto de 3 mm iniciada lateralmente à abertura piriforme, em curva low-to-high até o canto medial, seguida de infratura digital bilateral; irrigação final e colocação de splint externo. *(Operative Dictations, 2017, cap. 2)*
 - [Imagem: algoritmo-abordagem-aberta-fechada.png]
-- *(Neligan, 2023, vol. 2, cap. 19; Core Procedures, 2020, cap. 4)*
+- *(Neligan, 2023, vol. 2, cap. 19; Core Procedures, 2020, cap. 4; Operative Dictations, 2017, cap. 2)*
 
 ---
 
@@ -500,6 +518,8 @@ Consulta inicial: (1) história nasal completa — trauma, cirurgias prévias, a
 - **Complicações específicas:** Deformidade residual por visualização limitada; Lesão da valva interna (incisão intercartilaginosa); Assimetria.
 
 **Algoritmo diagnóstico na técnica fechada (Constantian):** "Dorso alto para a base" vs. "Dorso baixo para a base". Tip grafts são o principal recurso para redefinir a relação dorso-ponta sem reduzir o dorso — múltiplos enxertos (nunca um único) produzem pontas mais naturais. Vantagens: sem cicatriz externa, tempo menor, menos edema de ponta. Desvantagens: visualização monocular, menos controle para deformidades complexas, maior curva de aprendizado.
+
+**Anestesia locorregional padronizada (ditados operatórios):** bloqueio infraorbitário bilateral com 2,0–2,5 mL de lidocaína 1% + epinefrina 1:100.000 complementa a anestesia geral e reduz o sangramento no campo; ramos etmoidais anteriores são bloqueados com cerca de 4,0 mL de anestésico intranasal. A vasoconstrição tópica é obtida com oximetazolina 0,05% ou cocaína 4% associada à epinefrina em pledgets, mantidos no campo durante o preparo. *(Operative Dictations, 2017, cap. 1)*
 
 *(Neligan, 2023, vol. 2, cap. 20; Operative Dictations, 2017, cap. 1; Core Procedures, 2020, cap. 4)*
 
@@ -560,6 +580,8 @@ O dorso é modificado ANTES da ponta, estabelecendo o equilíbrio dorso-ponta es
 
 Meta-análise recente não encontrou diferença entre spreader grafts e spreader flaps quanto à obstrução nasal. Mini-spreaders (~8 × 2 × 2 mm), colocados por via endonasal no ponto de maior estreitamento, são alternativa mais conservadora. Spreader graft estendido, com porção caudal projetando-se abaixo do septo caudal, pode alongar o nariz curto. Suturas spanning de tensão das CLS reaproximam as CLS ao septo após redução dorsal.
 
+**Princípio de indicação (texto-livro):** os spreader grafts são enxertos cartilaginosos interpostos entre CLS e septo dorsal que restauram o suporte do vault médio, previnem a deformidade em V invertido e mantêm a patência da valva interna; seu uso sistemático permite redução dorsal mais conservadora, evitando colapso valvar. *(Neligan, 2023, vol. 2, cap. 19)*
+
 [Imagem: fig19-6-spreader-grafts.jpeg]
 
 *(Neligan, 2023, vol. 2, cap. 19; Grabb & Smith, 2024, cap. 54)*
@@ -580,6 +602,8 @@ Meta-análise recente não encontrou diferença entre spreader grafts e spreader
 - **Complicações específicas:** Diminuição da valva nasal interna (todas as osteotomias laterais); Rocker deformity (osteotomia ultrapassando o canto medial); Edema periorbitário; Equimose; Assimetria óssea.
 
 Técnica percutânea descontínua (preferida por Rohrich) reduz edema e equimose. Osteotomia de Webster (curva, preservando fragmento ósseo no nível do corneto inferior) descrita para prevenir complicação valvar. Outros favorecem spreader grafts + manutenção do ângulo de divergência como estratégia mais eficaz.
+
+**Padrão de corte (texto-livro):** a osteotomia lateral descontínua em padrão low-to-high ou low-to-low tende a provocar menos sangramento, equimose e edema periorbitário quando comparada à osteotomia contínua, e por isso é preferida na prática contemporânea. *(Neligan, 2023, vol. 2, cap. 19)*
 
 [Imagem: algoritmo-osteotomias.png]
 [Imagem: fig19-27-osteotomias-laterais.jpeg]
@@ -621,6 +645,10 @@ Técnica percutânea descontínua (preferida por Rohrich) reduz edema e equimose
 
 Todas as suturas com PDS 5-0. Técnicas de sutura devem preceder a ressecção tecidual. Algoritmo na revisão: inicia com hemi-transdomal → colchoneiro da crura lateral → demais conforme necessidade.
 
+**Variante técnica (ditados operatórios):** a sutura transdomal hemi- pode ser executada com PDS 6-0, passada pela borda superior de cada CLA — cartilagem lateral inferior — para definir o domo, complementada pela sutura interdomal simples em PDS 6-0 que une os domos e estreita a ponta. *(Operative Dictations, 2017, cap. 2)*
+
+**Enxerto onlay de ponta (ditados operatórios):** fragmentos de CLA moídos em "cartilage crushing box" podem ser aplicados como enxerto onlay para aumentar projeção ou camuflar pequenas irregularidades quando a sutura isoladamente não produz o efeito desejado. *(Operative Dictations, 2017, cap. 2)*
+
 [Imagem: fig19-19a-sutura-crura-medial.jpeg]
 [Imagem: fig19-19b-sutura-transdomal.jpeg]
 [Imagem: fig19-19c-sutura-interdomal.jpeg]
@@ -644,6 +672,8 @@ Todas as suturas com PDS 5-0. Técnicas de sutura devem preceder a ressecção t
 
 Floating é mais comum e mais versátil. Fixed aumenta projeção — usado quando projeção adicional significativa é necessária. Uso rotineiro na via aberta compensa perda de suporte por ruptura do ligamento inter-alar.
 
+**Variante de fixação (ditados operatórios):** o enxerto columelar pode ser posicionado em bolsa dissecada entre as cruras mediais e fixado com três suturas 4-0 gut em colchão horizontal, assegurando estabilização sem tensão excessiva sobre os tecidos moles. *(Operative Dictations, 2017, cap. 2)*
+
 [Imagem: fig19-15-strut-columelar.jpeg]
 
 *(Neligan, 2023, vol. 2, cap. 19)*
@@ -663,6 +693,8 @@ Floating é mais comum e mais versátil. Fixed aumenta projeção — usado quan
 - **Complicações específicas:** Desvio do enxerto; Over-projection; Rigidez excessiva da ponta.
 
 Um dos enxertos mais versáteis para controle de projeção e rotação. Rib ou costela homóloga fresca usada quando septo insuficiente.
+
+**Pré-requisito estrutural (texto-livro):** o enxerto de extensão septal no estilo fixa-móvel oferece controle simultâneo de rotação e projeção da ponta, mas exige um L-strut septal robusto como ancoragem — caso contrário, a força vetorial da ponta pode desviar ou colapsar o septo remanescente. *(Neligan, 2023, vol. 2, cap. 19)*
 
 *(Neligan, 2023, vol. 2, cap. 19)*
 
@@ -775,6 +807,12 @@ O depressor septi nasi espástico causa descida da ponta ao sorrir, encurtamento
 
 Debate atual: Sergesketter et al. (4 cirurgiões seniores, 115 anos de prática combinada): abordagem híbrida, incorporando seletivamente princípios de preservação a uma abordagem estrutural moderna. *(Sergesketter AR et al. PRS 2026;157(4):496e–503e)*
 
+**Racional biomecânico (texto-livro):** a técnica de preservação (push-down / let-down) poupa o dorso nativo e executa reduções cartilaginosas mais conservadoras, mantendo a integridade do framework osseocartilaginoso e reduzindo o risco de colapso das valvas interna e externa no longo prazo. *(Neligan, 2023, vol. 2, cap. 22; Neligan, 2023, vol. 2, cap. 21)*
+
+**Pegadas de seleção (texto-livro):** as irregularidades dorsais pós-operatórias constituem complicação frequente da preservação dorsal, e humps pré-operatórios superiores a 4 mm aumentam o risco de hump residual; irregularidades < 2–3 mm são usualmente corrigíveis com raspagem dirigida, enquanto irregularidades > 3 mm costumam exigir revisão formal. *(Neligan, 2023, vol. 2, cap. 22)*
+
+**Impacto da redução cartilaginosa agressiva (texto-livro):** ensaios biomecânicos em cartilagem septal demonstram que a redução de aproximadamente 35% da espessura reduz sua resistência mecânica, e o score longitudinal compromete até 50% da força intrínseca da cartilagem — argumento quantitativo a favor de abordagens preservadoras. *(Neligan, 2023, vol. 2, cap. 22)*
+
 *(Neligan, 2023, vol. 2, caps. 18–19)*
 
 ---
@@ -806,9 +844,15 @@ Retração alar (Classe II) é a mais comum e tratada com alar contour/LCSG graf
 
 **Cartilagem auricular:** alternativa quando septo insuficiente. Boa para tip grafts, dorsal onlay, alar contour, reconstrução de CLA. Flacidez impede uso para suporte rígido. Acesso anterior (3 mm dentro da concha) ou posterior (3 cm pós-auricular). Manter 3 mm de borda de concha.
 
+**Particionamento auricular (texto-livro):** a cartilagem de concha auricular (cavum/cymba) é excelente fonte de enxerto em rinoplastia secundária, pois pode ser dividida em unidades menores e moldada com suturas em colchão horizontal para criar contorno tridimensional em spreaders, alares e cap grafts. *(Neligan, 2023, vol. 2, cap. 22)*
+
 **Cartilagem costal:** abundante, ideal para dorsal onlay e suporte estrutural. 9ª costela preferida (4–5 cm, reta medialmente). Incisão de 2 cm. Aguardar ≥ 30 min antes de talhar (warping). Usar cartilagem central (menos warping). Risco: pneumotórax.
 
+**Indicações amplas (texto-livro):** a cartilagem costal fornece material autógeno abundante para ponta, strut columelar, spreaders, reforço das CLA e onlay dorsal; a 9ª costela (flutuante, reta, com 4–5 cm aproveitáveis) é a de escolha, e o risco de empenamento é mitigado com fixação adequada e uso da porção central. *(Neligan, 2023, vol. 2, cap. 19)*
+
 **Fáscia temporal:** incisão em V posterior, ~5 cm × 2,5 cm, no nível do tragus. Deep temporal fáscia. Área: ~8 × 6 cm → contrai para ~5 × 4 cm. Usos: camouflage de irregularidades dorsais, diced cartilage wrapped in fáscia (DC-F).
+
+**Diced cartilage em fáscia (texto-livro):** a cartilagem fragmentada envolta em fáscia temporal (DC-F) tem utilidade crescente para camuflagem de irregularidades dorsais e recomposição de contorno em casos de revisão, combinando volume modulável com menor visibilidade do enxerto. *(Neligan, 2023, vol. 2, cap. 19)*
 
 **Materiais alternativos:** FFHCC (Fresh Frozen Homologous Costal Cartilage — cartilagem costal homóloga fresca congelada) — infecção 2,4%, reabsorção 0,8%; costela irradiada; aloplásticos (implantes de silicone — malposição 4%, extrusão < 1%).
 
@@ -838,11 +882,15 @@ Retração alar (Classe II) é a mais comum e tratada com alar contour/LCSG graf
 
 **Nariz desviado:** avaliação pela linha média intercantal (não inter-sobrancelhas). Via aberta preferida. Correção requer septoplastia + osteotomias + manejo CLS/CLA.
 
+**Restrições pós-operatórias padronizadas (ditados operatórios):** splint externo mantido por 5–7 dias, packing interno (quando empregado) retirado em 3–4 dias, elevação cefálica a 30° na primeira semana; paciente orientado a evitar manipulação nasal ("nasal toilet") por 2 semanas, manter fala mínima e dieta mole nas primeiras 72 h e suspender escovação dental vigorosa por 1 semana — medidas destinadas a reduzir trauma mecânico sobre o arcabouço recém-remodelado. *(Operative Dictations, 2017, cap. 1)*
+
 ---
 
 ## Outcomes and Complications
 
 *(Neligan, 2023, vol. 2, caps. 19 e 22; Grabb & Smith, 2024, cap. 54; Şibar S et al. ASJ 2025;46(1):16–23; Kwan E et al. ASJ 2025;45(9):887–892)*
+
+**Panorama geral (texto-livro):** a taxa global de complicações significativas em rinoplastia — incluindo sangramento, infecção, edema prolongado, deformidades residuais e obstrução — situa-se entre 1,7% e 18% nas séries publicadas, e inquéritos entre cirurgiões indicam que 58% relatam taxa pessoal de revisão inferior a 5% e 33% entre 6% e 10%, reforçando que a revisão é evento frequente mesmo em mãos experientes. *(Neligan, 2023, vol. 2, cap. 19)*
 
 ### Epistaxe
 
@@ -857,6 +905,7 @@ Retração alar (Classe II) é a mais comum e tratada com alar contour/LCSG graf
 - **Prevenção:** hemostasia cuidadosa, compressão adequada
 - **Diagnóstico:** edema localizado tenso, dor desproporcional. Hematoma septal ("blackberry") visível à rinoscopia.
 - **Manejo:** TODOS devem ser drenados. Hematoma subdérmico → fibrose e deformidade. Hematoma septal → perfuração ou necrose → sela pós-operatória.
+- **Racional (texto-livro):** o hematoma septal não drenado pode evoluir para fibrose, perfuração septal e, em último caso, necrose cartilaginosa com deformidade em sela — razão pela qual a drenagem precoce é imperativa mesmo diante de coleções pequenas. *(Neligan, 2023, vol. 2, cap. 19)*
 
 ### Infecção / Celulite
 
@@ -864,6 +913,7 @@ Retração alar (Classe II) é a mais comum e tratada com alar contour/LCSG graf
 - **Prevenção:** técnica asséptica, antibioticoprofilaxia pré-operatória
 - **Diagnóstico:** eritema, calor, dor, febre
 - **Manejo:** cefalosporinas para celulite leve. MRSA (Methicillin-Resistant Staphylococcus aureus): levofloxacina, SMX-TMP, minociclina. Grave: internação + IV. Abscessos: drenagem + cultura.
+- **Alerta clínico (texto-livro):** embora infecção grave em rinoplastia seja rara, o diagnóstico precoce é crítico, pois quadros negligenciados podem evoluir para necrose tecidual, síndrome do choque tóxico e, em cenário extremo, trombose de seio cavernoso. *(Neligan, 2023, vol. 2, cap. 19)*
 
 ### Síndrome do Choque Tóxico
 
@@ -990,6 +1040,8 @@ Taxa de complicações significativas: 1,7–18%. Aguardar mínimo 12 meses apó
 - Pollybeak (supratip deformity): subressecção dorsal ou excesso de tecido mole.
 - Sela pós-operatória: enxerto de dorso (DC-F com fáscia temporal é opção excelente).
 - Algoritmo de sutura idêntico ao primário: hemi-transdomal → colchoneiro da crura lateral → demais.
+
+**Detalhes técnicos complementares (texto-livro):** os enxertos de rim alar são habitualmente posicionados por incisão marginal caudal cerca de 6 mm da borda livre, cobrindo gap vestibular e preenchendo o triângulo cartilaginoso adaptável; a reconstrução de vault médio colapsado em cenário secundário depende de spreader grafts bilaterais, reforçados quando necessário com enxertos em L ou segmentos costais. *(Neligan, 2023, vol. 2, cap. 22)*
 
 > **[Atualização]** Incisão columelar em V no nariz com cicatrizes prévias — 91 pacientes (Sazgar AA et al., ASJ 2025). Série prospectiva: média de 1,74 rinoplastias prévias, cicatriz midcolumelar. Enxertos: auricular (n = 64), costal (n = 43), fáscia temporal (n = 12), fáscia do reto (n = 24). Tempo médio: 239,5 min. Zero casos de deiscência ou complicação vascular. SCHNOS: obstrução 52,86 → 18,43; cosmética 78,09 → 20,19 (melhora significativa). Incisão em V é alternativa segura à incisão transcolumelar padrão em nariz gravemente comprometido. *(Sazgar AA et al. Aesthet Surg J 2025;45(8):770–779)*
 
