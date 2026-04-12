@@ -1,0 +1,231 @@
+{
+  "id": "rlf-fc-001",
+  "type": "flashcard",
+  "topic": "retalhos-locais-face",
+  "area": "pele-tumores",
+  "cards": [
+    {
+      "front": "Qual é a razão comprimento/largura (C/L) máxima segura para retalhos cutâneos randômicos na face?",
+      "back": "3:1 (devido à rica rede vascular subdérmica facial)",
+      "citation": "Neligan, 2023, vol. 1, cap. 23; Taylor & Palmer, Cutaneous Arteries",
+      "domain": "anatomia"
+    },
+    {
+      "front": "Qual é a razão C/L máxima segura para retalhos cutâneos randômicos no tronco?",
+      "back": "2:1",
+      "citation": "Neligan, 2023, vol. 1, cap. 23; Taylor & Palmer, Cutaneous Arteries",
+      "domain": "anatomia"
+    },
+    {
+      "front": "Qual é o ângulo do rombóide de Limberg para correção de defeitos losângicos?",
+      "back": "60/120° (dois ângulos agudos de 60° e dois obtusos de 120°)",
+      "citation": "Neligan, 2023, vol. 1, cap. 23",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Qual é a rotação total do retalho bilobado de Zitelli?",
+      "back": "90–100° (cada lobo rotando 45–50°)",
+      "citation": "Neligan, 2023, vol. 3, cap. 8",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Qual é a faixa de rotação individual de cada lobo no retalho bilobado de Zitelli?",
+      "back": "45–50° por lobo",
+      "citation": "Neligan, 2023, vol. 3, cap. 8",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Em qual proporção dos casos de foto-exposição os carcinomas basocelulares (CBC) ocorrem na face?",
+      "back": "> 80% dos CBC diagnosticados em áreas foto-expostas",
+      "citation": "Neligan, 2023, vol. 3, cap. 1",
+      "domain": "fisiopatologia"
+    },
+    {
+      "front": "Qual é o mecanismo de nutrição dos retalhos cutâneos randômicos?",
+      "back": "Exclusivamente pelo plexo subdérmico (sem artérias nomeadas)",
+      "citation": "Neligan, 2023, vol. 1, cap. 23",
+      "domain": "anatomia"
+    },
+    {
+      "front": "Qual é a orientação das RSTL (Relaxed Skin Tension Lines) na fronte?",
+      "back": "Horizontais (perpendiculares à ação do músculo frontal)",
+      "citation": "Neligan, 2023, vol. 3, cap. 8; Grabb & Smith, 2024, cap. 35",
+      "domain": "anatomia"
+    },
+    {
+      "front": "Qual é a orientação das RSTL na região periorbital?",
+      "back": "Radiais ao canto lateral (linhas de 'pé de galinha')",
+      "citation": "Neligan, 2023, vol. 3, cap. 8; Grabb & Smith, 2024, cap. 35",
+      "domain": "anatomia"
+    },
+    {
+      "front": "Qual é a orientação das RSTL na região malar?",
+      "back": "Oblíquas, de lateral superior para medial inferior",
+      "citation": "Neligan, 2023, vol. 3, cap. 8; Grabb & Smith, 2024, cap. 35",
+      "domain": "anatomia"
+    },
+    {
+      "front": "Qual é a orientação das RSTL na região perioral?",
+      "back": "Radiais à rima labial",
+      "citation": "Neligan, 2023, vol. 3, cap. 8; Grabb & Smith, 2024, cap. 35",
+      "domain": "anatomia"
+    },
+    {
+      "front": "Qual é a orientação das RSTL no mento?",
+      "back": "Horizontais",
+      "citation": "Neligan, 2023, vol. 3, cap. 8; Grabb & Smith, 2024, cap. 35",
+      "domain": "anatomia"
+    },
+    {
+      "front": "Qual é a orientação das RSTL na glabela?",
+      "back": "Verticais (entre supercílios) e horizontais (sobre raiz nasal)",
+      "citation": "Neligan, 2023, vol. 3, cap. 8; Grabb & Smith, 2024, cap. 35",
+      "domain": "anatomia"
+    },
+    {
+      "front": "Qual é a orientação das RSTL no dorso nasal?",
+      "back": "Horizontais na raiz e oblíquas na parede lateral",
+      "citation": "Neligan, 2023, vol. 3, cap. 8; Grabb & Smith, 2024, cap. 35",
+      "domain": "anatomia"
+    },
+    {
+      "front": "Qual é a complicação caracterizada por deformidade de borda elevada após fechamento de retalho?",
+      "back": "Dog-ear (standing cutaneous deformity), surge quando comprimentos de borda da ferida ficam desiguais",
+      "citation": "Neligan, 2023, vol. 3, cap. 8",
+      "domain": "complicacao"
+    },
+    {
+      "front": "Qual retalho é considerado padrão ouro para defeitos do terço distal do nariz?",
+      "back": "Retalho bilobado de Zitelli",
+      "citation": "Neligan, 2023, vol. 3, cap. 8",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Qual é a complicação clássica de retalhos circulares em pele espessa, especialmente no nariz?",
+      "back": "Trap-door (aparência de alçapão ou depressão por contração cicatricial)",
+      "citation": "Neligan, 2023, vol. 3, cap. 8",
+      "domain": "complicacao"
+    },
+    {
+      "front": "Qual é a causa primária de necrose distal em retalhos locais?",
+      "back": "Planejamento inadequado de C/L (comprimento/largura) ou tensão excessiva de fechamento",
+      "citation": "Neligan, 2023, vol. 1, cap. 23",
+      "domain": "complicacao"
+    },
+    {
+      "front": "O rombóide de Limberg é indicado para qual tipo de defeito?",
+      "back": "Defeitos losângicos com ângulos de 60/120°",
+      "citation": "Neligan, 2023, vol. 1, cap. 23",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Qual é o local anatômico que representa mais de 80% dos carcinomas basocelulares?",
+      "back": "Face (em áreas foto-expostas)",
+      "citation": "Neligan, 2023, vol. 3, cap. 1",
+      "domain": "fisiopatologia"
+    },
+    {
+      "front": "Qual é o padrão de orientação das linhas de tensão cutânea (RSTL) que devem guiar o planejamento cicatricial?",
+      "back": "Paralelas às RSTL ou nas bordas entre subunidades estéticas",
+      "citation": "Grabb & Smith, 2024, cap. 35",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Qual é a principal vantagem estética dos retalhos locais comparados a enxertos de pele?",
+      "back": "Correspondência superior de cor, textura, espessura e presença de anexos cutâneos",
+      "citation": "Neligan, 2023, vol. 3, cap. 1",
+      "domain": "decisao"
+    },
+    {
+      "front": "Quantas dimensões críticas governam a reconstrução facial bem-sucedida com retalhos locais?",
+      "back": "Três: RSTL, subunidades estéticas e vascularização com limites C/L",
+      "citation": "Neligan, 2023, vol. 3, caps. 6–10",
+      "domain": "decisao"
+    },
+    {
+      "front": "Qual é a consequência clínica de exceder a razão C/L máxima em retalhos randômicos?",
+      "back": "Comprometimento da sobrevida do segmento distal do retalho",
+      "citation": "Neligan, 2023, vol. 1, cap. 23",
+      "domain": "fisiopatologia"
+    },
+    {
+      "front": "Qual é o método de correção recomendado para dog-ear após fechamento de retalho?",
+      "back": "Excisão elíptica em RSTL, M-plastia ou Burow's triangle conforme localização",
+      "citation": "Neligan, 2023, vol. 3, cap. 8",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Qual é a distorção de landmark imóvel característica quando o retalho sobrecorrigi a região nasal?",
+      "back": "Alar notching (entalhe da ala nasal) e desvio do dorso nasal",
+      "citation": "Neligan, 2023, vol. 3, cap. 8",
+      "domain": "complicacao"
+    },
+    {
+      "front": "Qual é a distorção palpebral associada a retalhos na região periorbital?",
+      "back": "Ectrópio (eversão da pálpebra inferior)",
+      "citation": "Neligan, 2023, vol. 3, cap. 9",
+      "domain": "complicacao"
+    },
+    {
+      "front": "Qual é a mudança de expressão facial associada a retalhos na região frontal?",
+      "back": "Elevação anômala do supercílio (com assimetria dinâmica)",
+      "citation": "Neligan, 2023, vol. 3, cap. 6",
+      "domain": "complicacao"
+    },
+    {
+      "front": "Qual é a deformidade labial resultante de retalho mal planejado na comissura?",
+      "back": "Desvio da comissura labial com perda de alinhamento da linha de sorriso",
+      "citation": "Neligan, 2023, vol. 3, cap. 6",
+      "domain": "complicacao"
+    },
+    {
+      "front": "Qual é a sequência lógica correta para planejamento de retalho local facial?",
+      "back": "Começar no defeito (tamanho, profundidade, subunidade, landmarks) e depois escolher a técnica (nunca o contrário)",
+      "citation": "Neligan, 2023, vol. 3, caps. 6–10",
+      "domain": "decisao"
+    },
+    {
+      "front": "Qual é a causa de deiscência pós-operatória em retalhos locais?",
+      "back": "Tensão excessiva de fechamento ou isquemia do retalho",
+      "citation": "Neligan, 2023, vol. 1, cap. 23",
+      "domain": "complicacao"
+    },
+    {
+      "front": "Qual é o sistema de classificação de subunidades estéticas do nariz?",
+      "back": "Sistema de Burget & Menick",
+      "citation": "Neligan, 2023, vol. 3, cap. 8",
+      "domain": "anatomia"
+    },
+    {
+      "front": "Qual é o sistema de classificação de subunidades estéticas para o restante da face?",
+      "back": "Sistema de Gonzalez-Ulloa",
+      "citation": "Neligan, 2023, vol. 3, cap. 8",
+      "domain": "anatomia"
+    },
+    {
+      "front": "Qual é o princípio de ampliação de defeito em reconstrução facial?",
+      "back": "Ampliar o defeito até os limites da subunidade estética para esconder a cicatriz e evitar 'patching' visível",
+      "citation": "Neligan, 2023, vol. 3, cap. 8",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Qual é a vantagem dos retalhos locais comparados a retalhos livres?",
+      "back": "Técnica mais simples, mais rápida e evita morbidade doadora significativa",
+      "citation": "Neligan, 2023, vol. 3, cap. 1",
+      "domain": "decisao"
+    },
+    {
+      "front": "Qual é o crescimento epidemiológico observado em tumores cutâneos faciais?",
+      "back": "Crescimento anual sustentado em populações envelhecidas",
+      "citation": "Neligan, 2023, vol. 3, cap. 1",
+      "domain": "fisiopatologia"
+    }
+  ],
+  "tags": [
+    "flashcard",
+    "retalhos-locais-face",
+    "pele-tumores",
+    "cirurgia-plastica",
+    "reconstrucao-facial"
+  ]
+}

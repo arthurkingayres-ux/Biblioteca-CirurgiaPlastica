@@ -1,0 +1,165 @@
+[
+  {
+    "id": "rlf-dec-001",
+    "type": "decision",
+    "title": "Patient Selection - Fechamento Primário × Enxerto × Retalho Local × Retalho a Distância",
+    "topic": "retalhos-locais-face",
+    "area": "pele-tumores",
+    "trigger": "defeito cutâneo facial após excisão oncológica ou trauma",
+    "steps": [
+      {
+        "question": "Paciente apresenta tabagismo ativo não controlado?",
+        "options": [
+          {
+            "answer": "Sim",
+            "next": "suspender tabagismo 4 semanas antes e 2 semanas após procedimento; reavaliar candidatura"
+          },
+          {
+            "answer": "Não",
+            "next": "prosseguir para próxima avaliação"
+          }
+        ]
+      },
+      {
+        "question": "Houve radioterapia prévia no leito receptor?",
+        "options": [
+          {
+            "answer": "Sim",
+            "next": "vascularização comprometida; preferir retalhos maiores com pedículo axial"
+          },
+          {
+            "answer": "Não",
+            "next": "prosseguir para próxima avaliação"
+          }
+        ]
+      },
+      {
+        "question": "Paciente apresenta diabetes descompensado ou uso de imunossupressores?",
+        "options": [
+          {
+            "answer": "Sim",
+            "next": "contraindicação relativa; otimizar controle metabólico e farmacológico antes de proceder"
+          },
+          {
+            "answer": "Não",
+            "next": "prosseguir para avaliação final"
+          }
+        ]
+      },
+      {
+        "question": "Paciente tem expectativas realistas quanto às cicatrizes resultantes?",
+        "options": [
+          {
+            "answer": "Não (espera cicatriz invisível)",
+            "next": "contraindicação relativa; orientar quanto aos limites estéticos e realizar novo consentimento"
+          },
+          {
+            "answer": "Sim (expectativas realistas)",
+            "next": "paciente candidato; proceder com algoritmo de escolha de técnica reconstrutiva (fechamento primário, enxerto, retalho local ou retalho a distância)"
+          }
+        ]
+      }
+    ],
+    "citations": [
+      "Neligan, 2023, vol. 3, caps. 6–10",
+      "Grabb & Smith, 2024, caps. 35–42"
+    ],
+    "updates": [],
+    "tags": [
+      "decisao",
+      "selecao-paciente",
+      "retalhos-locais",
+      "face",
+      "reconstrucao",
+      "contraindicacoes-relativas"
+    ]
+  },
+  {
+    "id": "rlf-dec-002",
+    "type": "decision",
+    "title": "Algoritmo — Fechamento Primário × Enxerto × Retalho Local × Retalho a Distância",
+    "topic": "retalhos-locais-face",
+    "area": "pele-tumores",
+    "trigger": "Defeito cutâneo facial após excisão oncológica ou trauma",
+    "steps": [
+      {
+        "question": "O defeito permite fechamento por aproximação direta das bordas sem tensão excessiva?",
+        "options": [
+          {
+            "answer": "Sim",
+            "next": "Realizar fechamento primário direto"
+          },
+          {
+            "answer": "Não",
+            "next": "Avaliar tamanho e profundidade do defeito"
+          }
+        ]
+      },
+      {
+        "question": "O defeito é superficial (epiderme/derme) e < 2 cm²?",
+        "options": [
+          {
+            "answer": "Sim",
+            "next": "Considerar enxerto de pele de espessura parcial ou total"
+          },
+          {
+            "answer": "Não",
+            "next": "Avaliar características do defeito (localização e tamanho)"
+          }
+        ]
+      },
+      {
+        "question": "O defeito está em zona de expressão facial (periocular, perioral, frontal) e requer melhor contorno/cor?",
+        "options": [
+          {
+            "answer": "Sim",
+            "next": "Indicar retalho local (advancement, rotation, interpolation)"
+          },
+          {
+            "answer": "Não",
+            "next": "Avaliar possibilidade de retalho local vs. a distância"
+          }
+        ]
+      },
+      {
+        "question": "Existe retalho local adjacente com características similares (cor, textura, espessura) disponível?",
+        "options": [
+          {
+            "answer": "Sim",
+            "next": "Realizar retalho local (tipo: advancement, rotation, transposição ou interpolation)"
+          },
+          {
+            "answer": "Não",
+            "next": "Indicar retalho a distância ou enxerto espesso"
+          }
+        ]
+      },
+      {
+        "question": "O defeito é extenso, profundo ou requer volume (ex: pós-parotidectomia, perda óssea associada)?",
+        "options": [
+          {
+            "answer": "Sim",
+            "next": "Realizar retalho a distância (frontal, deltoide, etc.) ou retalho livre microvascular"
+          },
+          {
+            "answer": "Não",
+            "next": "Escolher entre enxerto de espessura total e retalho local menor"
+          }
+        ]
+      }
+    ],
+    "citations": [
+      "Neligan PC. Plastic Surgery. 3rd ed. 2023. Volumes 3, Capítulos 6–10.",
+      "Grabb WC, Smith JW. Plastic Surgery. 7th ed. 2024. Capítulos 35–42."
+    ],
+    "updates": [],
+    "tags": [
+      "decisao",
+      "retalhos-locais",
+      "face",
+      "pele-tumores",
+      "reconstrucao-facial",
+      "algoritmo"
+    ]
+  }
+]

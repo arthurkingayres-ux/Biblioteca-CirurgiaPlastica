@@ -1,0 +1,195 @@
+[
+  {
+    "id": "rlf-tec-001",
+    "type": "technique",
+    "title": "Retalho de Rotação",
+    "aliases": [
+      "Rotação Malar de Mustardé"
+    ],
+    "topic": "retalhos-locais-face",
+    "area": "pele-tumores",
+    "indication": "Defeitos triangulares ou convertíveis em triângulo em região com tecido doador abundante em arco (bochecha, região cervicofacial, couro cabeludo). Exemplos: rotação malar tipo Mustardé; rotação frontal; rotação occipital.",
+    "contraindication": "Tecido adjacente insuficiente para cobrir o arco; vetor de rotação tracionando landmark crítico (avaliar ectrópio da pálpebra inferior em rotação malar).",
+    "steps": [
+      "1. Converter o defeito em triângulo com base definida",
+      "2. Extender uma curva ampla de tecido adjacente a partir de um vértice do triângulo (lado doador), com raio pelo menos 4× o comprimento da base do defeito (arco de rotação generoso)",
+      "3. Descolar em plano subcutâneo ao longo de toda a curva",
+      "4. Rotacionar o tecido para dentro do defeito; o ponto pivô (na base do arco, oposto ao ápice) absorve a tensão",
+      "5. Se a rotação não fechar o defeito sem tensão, aplicar back-cut na base do pedículo (respeitando C/L mínima de vascularização)",
+      "6. Fechamento direto do sítio doador na extremidade oposta à rotação",
+      "7. Suspensão periosteal no vetor que se afasta do landmark crítico (ex.: suspender ao periósteo orbital em rotação malar para prevenir ectrópio)"
+    ],
+    "complications": [
+      "Ectrópio (se malar, sem suspensão)",
+      "Deiscência por back-cut excessivo",
+      "Dog-ear no ponto pivô",
+      "Cicatriz visível se o arco não cair em borda de subunidade"
+    ],
+    "pearls": [
+      "Cantopexia lateral é medida preventiva obrigatória em rotação malar de Mustardé",
+      "O arco estende-se da cauda do supercílio, desce pré-auricular e pode seguir até cervical na rotação malar",
+      "Corrigir dog-ear no ponto pivô com triângulo em RSTL",
+      "Sempre avaliar vetor de rotação para prevenir tração em landmarks críticos"
+    ],
+    "images": [],
+    "citations": [
+      "Neligan, 2023, vol. 3, cap. 7",
+      "Grabb & Smith, 2024, cap. 36"
+    ],
+    "updates": [],
+    "tags": [
+      "tecnica",
+      "retalho-local",
+      "face",
+      "rotacao",
+      "mustarde",
+      "pele-tumores"
+    ]
+  },
+  {
+    "id": "rlf-tec-002",
+    "type": "technique",
+    "title": "Retalho Bilobado de Zitelli (modificado)",
+    "aliases": [],
+    "topic": "retalhos-locais-face",
+    "area": "pele-tumores",
+    "indication": "Defeito circular ou oval de até 1,5 cm no terço distal do nariz (ponta, asa, triângulo mole). É o padrão-ouro nessa região.",
+    "contraindication": "Defeitos > 1,5 cm (preferir retalho frontal paramediano); defeitos em pele fina do dorso proximal (preferir glabellar ou avanço).",
+    "steps": [
+      "1. Demarcar o defeito circular.",
+      "2. A partir da borda do defeito, traçar o eixo do primeiro lobo (45–50° do eixo do defeito), com diâmetro igual ao do defeito.",
+      "3. A partir do primeiro lobo, traçar o eixo do segundo lobo (mais 45–50°, totalizando 90–100° do defeito), com diâmetro 50–75% do defeito (lobo menor).",
+      "4. A ponta distal do segundo lobo afina-se em triângulo para facilitar o fechamento direto.",
+      "5. O ponto pivô fica na base do retalho; traçar Burow's triangle (excisão triangular) entre o defeito e o pivô para prevenir dog-ear.",
+      "6. Descolamento em plano subcutâneo (sobre pericôndrio nasal), amplo.",
+      "7. Rotação: primeiro lobo → defeito; segundo lobo → área do primeiro lobo; ponta triangular do segundo lobo → fechada em direto.",
+      "8. Sutura em dois planos."
+    ],
+    "complications": [
+      "Trap-door do primeiro lobo (especialmente em pele sebácea da ponta)",
+      "Necrose distal se razão do segundo lobo for desrespeitada",
+      "Distorção de asa (alar notching) se vetor mal planejado"
+    ],
+    "pearls": [
+      "Chave biomecânica: rotação total de 90–100° (50+50 ou 45+55) — Esser original era 180°, excessivo, gerava distorção; Zitelli reduziu para o arco mais fisiológico.",
+      "Prevenção de trap-door: descolamento subcutâneo amplo, evitar retalho muito espesso."
+    ],
+    "images": [],
+    "citations": [
+      "Neligan, 2023, vol. 3, cap. 8"
+    ],
+    "updates": [],
+    "tags": [
+      "tecnica",
+      "retalho-bilobado",
+      "zitelli",
+      "nariz",
+      "cirurgia-dermatologica",
+      "reconstrucao-facial"
+    ]
+  },
+  {
+    "id": "rlf-tec-003",
+    "type": "technique",
+    "title": "Retalho de Avanço — Unilateral, Bilateral, V-Y",
+    "aliases": [
+      "Burow's flap",
+      "H-plastia",
+      "duplo avanço",
+      "avanço V-Y"
+    ],
+    "topic": "retalhos-locais-face",
+    "area": "pele-tumores",
+    "indication": "defeitos retangulares ou convertíveis em retangulares, com RSTL paralela ao eixo longo, e tecido doador contíguo ao defeito no mesmo eixo. Especialmente úteis em fronte, região frontal-temporal, lábio superior, mento.",
+    "contraindication": "defeitos onde o vetor de avanço traciona landmark (ectrópio da pálpebra inferior na face malar → preferir rotação com cantopexia).",
+    "steps": [
+      "Avanço unilateral (Burow's flap): 1. Demarcar defeito retangular (se preciso, ampliar a defeito em retângulo)",
+      "2. Prolongar as duas bordas paralelas do retângulo do lado do tecido doador por distância 2–3× o comprimento do defeito",
+      "3. Excisar triângulos de Burow na base do retalho (laterais) para absorver o dog-ear decorrente do avanço",
+      "4. Descolar em plano subcutâneo; avançar para dentro do defeito; fechar",
+      "Avanço bilateral (H-plastia / duplo avanço): 1. Desenhar dois retalhos de avanço em espelho, um de cada lado do defeito",
+      "2. Cada retalho corresponde à metade da distância a ser vencida",
+      "3. Excisão de Burow em cada base externa",
+      "4. Avanço simultâneo; sutura central em linha",
+      "Avanço V-Y: 1. Desenhar triângulo em V com ápice apontando para longe do defeito; a base do V corresponde à borda proximal do defeito (que será o topo do Y)",
+      "2. Descolar o V no plano subcutâneo preservando pedículos perfurantes subjacentes (perfurantes miocutâneos)",
+      "3. Avançar o V em direção ao defeito — o ápice do V fica estirado; o fechamento posterior transforma o V em Y",
+      "4. Sutura em dois planos"
+    ],
+    "complications": [
+      "tensão no fechamento",
+      "trap-door em pele espessa",
+      "distorção de landmark se o vetor estiver mal orientado"
+    ],
+    "pearls": [
+      "Variação V-Y bilateral (dois triângulos convergindo no defeito central) é clássica para defeitos alares, labiais, perioculares",
+      "Corrigir tensão no fechamento com maior descolamento ou rediscutir técnica",
+      "Preservar pedículos perfurantes miocutâneos durante descolamento do retalho V-Y"
+    ],
+    "images": [],
+    "citations": [
+      "Neligan, 2023, vol. 1, cap. 23",
+      "Grabb & Smith, 2024, cap. 35"
+    ],
+    "updates": [],
+    "tags": [
+      "tecnica",
+      "retalho-local",
+      "face",
+      "avanço",
+      "burow",
+      "h-plastia",
+      "v-y",
+      "pele",
+      "tumores"
+    ]
+  },
+  {
+    "id": "rlf-tec-005",
+    "type": "technique",
+    "title": "Retalho de Transposição",
+    "aliases": [
+      "Transposição clássica",
+      "Glabellar (Rieger/Marchac)",
+      "Bilobado",
+      "Rombóide"
+    ],
+    "topic": "retalhos-locais-face",
+    "area": "pele-tumores",
+    "indication": "Defeitos em que o tecido doador ideal não está contíguo ao defeito, mas pode ser saltado por um retalho que passa sobre tecido interposto. Útil para defeitos do canto medial (glabellar), região temporal, mento.",
+    "contraindication": "Tecido doador insuficiente; o próprio ato de transpor geraria trap-door excessivo em pele espessa.",
+    "steps": [
+      "1. Identificar o tecido doador (frouxo, em RSTL, distante do landmark)",
+      "2. Desenhar retalho retangular ou triangular com base no pedículo desejado",
+      "3. Descolar em plano subcutâneo",
+      "4. Rotacionar o retalho em arco de 60–90° sobre tecido interposto, preenchendo o defeito",
+      "5. Fechar o sítio doador diretamente (ou com enxerto, se tensão excessiva)"
+    ],
+    "complications": [
+      "Trap-door (tecido transposto em pele espessa)",
+      "Pedículo torcido excessivamente (comprometimento vascular)",
+      "Cicatriz da transposição difícil de esconder se não houver RSTL coincidente"
+    ],
+    "pearls": [
+      "Cicatriz vertical glabelar pode cair em RSTL vertical da glabela",
+      "Bilobado é, por definição, duas transposições encadeadas",
+      "Rombóide é tecnicamente uma transposição em geometria losângica"
+    ],
+    "images": [],
+    "citations": [
+      "Neligan, 2023, vol. 1, cap. 23",
+      "Neligan, 2023, vol. 3, cap. 8"
+    ],
+    "updates": [],
+    "tags": [
+      "tecnica",
+      "retalho",
+      "transposicao",
+      "face",
+      "glabellar",
+      "bilobado",
+      "romboid",
+      "pele-tumores"
+    ]
+  }
+]
