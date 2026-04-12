@@ -253,7 +253,13 @@
       "RFAL oferece a melhor proposta de retração cutânea não-excisional",
       "A escolha depende da indicação, experiência do cirurgião e recursos disponíveis"
     ],
-    "images": [],
+    "images": [
+      {
+        "file": "lipo-tec-comparativo-tecnologias.png",
+        "caption": "Árvore de decisão clínica para seleção de tecnologia: tecido fibroso → UAL/VASER; flacidez cutânea moderada → RFAL (BodyTite); área pequena com desejo de retração → LAL; grande volume → PAL; demais cenários → SAL convencional.",
+        "credit": "Diagrama esquemático — Rohrich et al., PRS 2004; Nagy & Vanek, Aesthet Surg J 2012"
+      }
+    ],
     "citations": [
       "Rohrich et al., PRS, 2004",
       "Nagy & Vanek, Aesthet Surg J, 2012"
@@ -301,7 +307,13 @@
       "O aspirado é frequentemente reaproveitado para lipoenxertia em áreas de projeção (peitoral, glúteo, deltoide)",
       "As projeções musculares-alvo incluem: reto abdominal, oblíquos, peitoral, deltoide e glúteo médio"
     ],
-    "images": [],
+    "images": [
+      {
+        "file": "lipo-tec-hdbs-marcacao.png",
+        "caption": "Marcação dinâmica HDBS em torso masculino: zonas positivas (vermelho — reto abdominal em 3 blocos, peitoral — preservar ou enxertar), zonas negativas (azul — linha alba, linhas semilunares, interseções tendíneas — aprofundar) e zonas de transição (laranja — oblíquos — suavizar).",
+        "credit": "Diagrama esquemático — Hoyos & Millard, HDBS 2014, caps. 4, 6 e 8"
+      }
+    ],
     "citations": [
       "Hoyos & Millard, HDBS, 2014, cap.6",
       "Hoyos & Millard, HDBS, 2014, cap.4",
@@ -339,7 +351,13 @@
       "menor dependência de potência de vácuo",
       "menor incidência de irregularidades de superfície"
     ],
-    "images": [],
+    "images": [
+      {
+        "file": "lipo-tec-safe-tempos.png",
+        "caption": "Os 3 tempos da técnica SAFE (Wall & Lee): (1) Separation — cânula basket sem aspiração emulsifica mecanicamente; (2) Aspiration — cânula PAL convencional com aspiração remove o emulsificado; (3) Fat Equalization — cânula basket superficial sem aspiração redistribui a gordura residual para prevenir irregularidades.",
+        "credit": "Diagrama esquemático — Wall & Lee (técnica original); Neligan vol. 2, cap. 24"
+      }
+    ],
     "citations": [
       "Wall & Lee - conceito original da técnica SAFE em três tempos com cânulas PAL",
       "Neligan, 2023, vol.2, cap.24",

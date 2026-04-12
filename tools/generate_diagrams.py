@@ -641,6 +641,373 @@ def blefaroplastia_cantotomia_emergencia():
     save(fig, 'blefaroplastia', 'cantotomia-lateral-emergencia.png')
 
 
+# ============================================================
+# LIPOASPIRACAO
+# ============================================================
+
+def lipo_pmi():
+    """PMI — Point of Maximum Indentation (silhueta feminina e masculina)."""
+    fig, (axF, axM) = plt.subplots(1, 2, figsize=(9, 7))
+    for ax, title, waist_y, curve_amp, label in [
+        (axF, 'Silhueta feminina', 4.5, 0.85, 'PMI (cintura)'),
+        (axM, 'Silhueta masculina', 4.3, 0.35, 'Linha paralumbar'),
+    ]:
+        ax.set_xlim(-2.5, 2.5)
+        ax.set_ylim(0, 9)
+        ax.set_aspect('equal')
+        ax.axis('off')
+        ax.set_title(title, fontsize=11, fontweight='bold', color='#333', pad=8)
+        ys = np.linspace(1.2, 8, 300)
+        xs_r = 1.0 + 0.25*np.sin((ys-1.2)/1.2) - curve_amp*np.exp(-((ys-waist_y)**2)/0.8)
+        xs_l = -xs_r
+        ax.plot(xs_r, ys, color='#333', lw=2)
+        ax.plot(xs_l, ys, color='#333', lw=2)
+        ax.plot([xs_l[0], xs_r[0]], [1.2, 1.2], color='#333', lw=2)
+        head = plt.Circle((0, 8.5), 0.5, facecolor='#f5deb3', edgecolor='#333', lw=2)
+        ax.add_patch(head)
+        pmi_x = xs_r[np.argmin(xs_r)]
+        pmi_y = ys[np.argmin(xs_r)]
+        ax.plot(pmi_x, pmi_y, 'o', color='#e53935', markersize=14, zorder=5)
+        ax.plot(-pmi_x, pmi_y, 'o', color='#e53935', markersize=14, zorder=5)
+        ax.annotate(label, xy=(pmi_x, pmi_y), xytext=(2.3, pmi_y),
+                    fontsize=9, color='#e53935', fontweight='bold',
+                    arrowprops=dict(arrowstyle='->', color='#e53935', lw=1.2))
+    fig.suptitle('PMI — Point of Maximum Indentation',
+                 fontsize=13, fontweight='bold', color='#1e3a5f', y=0.96)
+    fig.text(0.5, 0.02,
+             'PMI ancora o desenho das marcações em lipoescultura (Hoyos & Millard, HDBS 2014, cap. 2)',
+             ha='center', fontsize=7.5, fontstyle='italic', color='#777')
+    save(fig, 'lipoaspiracao', 'lipo-anat-pmi.png')
+
+
+def lipo_zonas_seguranca():
+    """Mapa de zonas de segurança e perigo na lipoaspiração."""
+    fig, ax = plt.subplots(figsize=(8.5, 10))
+    ax.set_xlim(-3, 3)
+    ax.set_ylim(0, 12)
+    ax.set_aspect('equal')
+    ax.axis('off')
+    head = plt.Circle((0, 11), 0.55, facecolor='#f5deb3', edgecolor='#333', lw=2)
+    ax.add_patch(head)
+    body = FancyBboxPatch((-1.8, 2.2), 3.6, 8, boxstyle='round,pad=0.1',
+                          facecolor='#f5deb3', edgecolor='#333', lw=2)
+    ax.add_patch(body)
+    for side in [-1, 1]:
+        ax.add_patch(FancyBboxPatch((side*1.9-0.4, 1.0), 0.8, 1.4,
+                     boxstyle='round,pad=0.05', facecolor='#f5deb3', edgecolor='#333', lw=2))
+        ax.add_patch(FancyBboxPatch((side*2.2-0.35, 6.5), 0.7, 3.0,
+                     boxstyle='round,pad=0.05', facecolor='#f5deb3', edgecolor='#333', lw=2))
+    zonas = [
+        (0, 10.3, 0.55, 0.35, 'Triângulo\nsubmentoniano', '#e53935', 'n. marginal mandíbula'),
+        (-1.2, 2.7, 0.6, 0.45, 'Virilha', '#e53935', 'a./v. femoral'),
+        (1.2, 2.7, 0.6, 0.45, 'Virilha', '#e53935', 'a./v. femoral'),
+        (-1.0, 4.2, 0.7, 0.5, 'Face medial\nda coxa', '#ff9800', 'v. safena magna'),
+        (1.0, 4.2, 0.7, 0.5, 'Face medial\nda coxa', '#ff9800', 'v. safena magna'),
+        (0, 6.5, 1.2, 0.5, 'Abdome profundo', '#ff9800', 'perfuração visceral'),
+    ]
+    for x, y, w, h, label, color, _ in zonas:
+        ax.add_patch(FancyBboxPatch((x-w/2, y-h/2), w, h,
+                     boxstyle='round,pad=0.03', facecolor=color, edgecolor='white', lw=1.5, alpha=0.85))
+        ax.text(x, y, label, ha='center', va='center', fontsize=7.5,
+                color='white', fontweight='bold')
+    legendas = [
+        ('#e53935', 'Alto risco — estruturas neurovasculares críticas'),
+        ('#ff9800', 'Risco moderado — manter cânula romba e plano correto'),
+    ]
+    for i, (color, text) in enumerate(legendas):
+        y0 = 0.7 - i*0.35
+        ax.add_patch(FancyBboxPatch((-2.7, y0-0.12), 0.3, 0.24,
+                     boxstyle='square,pad=0', facecolor=color, edgecolor='none'))
+        ax.text(-2.3, y0, text, fontsize=8, va='center', color='#333')
+    ax.set_title('Zonas de Segurança e Perigo — Lipoaspiração',
+                 fontsize=12, fontweight='bold', color='#1e3a5f', pad=10)
+    ax.text(0, -0.5,
+            'Manter cânula > 2 cm da borda mandibular; palpar pulso femoral; cânula romba em abdome',
+            ha='center', fontsize=7.5, fontstyle='italic', color='#666')
+    save(fig, 'lipoaspiracao', 'lipo-anat-zonas-seguranca.png')
+
+
+def lipo_sfs_camadas():
+    """Corte sagital do subcutâneo — modelo Lockwood-Markman."""
+    fig, ax = plt.subplots(figsize=(10, 7))
+    ax.set_xlim(0, 10)
+    ax.set_ylim(0, 8)
+    ax.axis('off')
+    camadas = [
+        (6.6, 7.0, 'Epiderme', '#8d6e63', '#fff'),
+        (6.0, 6.3, 'Derme', '#a1887f', '#fff'),
+        (4.5, 5.2, 'SAT — tecido adiposo superficial\n(lóbulos pequenos, septos verticais)', '#ffe082', '#333'),
+        (0.25, 4.25, 'Fáscia membranosa\n(Scarpa / Camper / Colles)', '#fb8c00', '#fff'),
+        (2.0, 3.1, 'DAT — tecido adiposo profundo\n(lóbulos grandes, septos horizontais)', '#fff59d', '#333'),
+        (0.25, 2.1, 'Fáscia muscular (profunda)', '#6d4c41', '#fff'),
+        (0.6, 1.55, 'Músculo', '#e57373', '#fff'),
+    ]
+    for h, y, label, color, txt_color in camadas:
+        ax.add_patch(FancyBboxPatch((1.0, y-h/2), 8, h,
+                     boxstyle='square,pad=0', facecolor=color, edgecolor='#333', lw=1.2))
+        ax.text(5.0, y, label, ha='center', va='center', fontsize=9.5,
+                color=txt_color, fontweight='bold')
+    for yv, lab in [(5.2, 'retinacula\ncutis'), (3.1, 'septos\nfrouxos')]:
+        ax.plot([1.4, 8.6], [yv, yv], color='#555', lw=0.6, linestyle=':', alpha=0.7)
+    ax.annotate('alvo primário\nda SAL', xy=(8.5, 3.1), xytext=(9.7, 3.1),
+                fontsize=8.5, color='#2e7d32', fontweight='bold', ha='left', va='center',
+                arrowprops=dict(arrowstyle='->', color='#2e7d32', lw=1.3))
+    ax.annotate('preservar\n(< 1 cm da derme)', xy=(8.5, 5.2), xytext=(9.7, 5.6),
+                fontsize=8.5, color='#c62828', fontweight='bold', ha='left', va='center',
+                arrowprops=dict(arrowstyle='->', color='#c62828', lw=1.3))
+    ax.annotate('preservar\n(↓ seroma, ↓ ptose)', xy=(8.5, 4.25), xytext=(9.7, 4.4),
+                fontsize=8.5, color='#1565c0', fontweight='bold', ha='left', va='center',
+                arrowprops=dict(arrowstyle='->', color='#1565c0', lw=1.3))
+    ax.set_title('Sistema Fascial Superficial — Modelo de Lockwood-Markman',
+                 fontsize=12, fontweight='bold', color='#1e3a5f', pad=8)
+    ax.text(5.0, 0.5,
+            'Scarpa: abdome inferior  ·  Camper: coxa  ·  Colles: períneo',
+            ha='center', fontsize=8.5, color='#555', fontstyle='italic')
+    ax.text(5.0, 0.1,
+            'Neligan vol. 2, cap. 24  ·  Grabb & Smith cap. 75',
+            ha='center', fontsize=7, color='#999', fontstyle='italic')
+    save(fig, 'lipoaspiracao', 'lipo-anat-sfs-camadas.png')
+
+
+def lipo_zonas_aderencia():
+    """5 zonas de aderência de Rohrich — glúteo e coxa posterior."""
+    fig, ax = plt.subplots(figsize=(7, 10))
+    ax.set_xlim(-2.5, 2.5)
+    ax.set_ylim(0, 12)
+    ax.set_aspect('equal')
+    ax.axis('off')
+    # Silhueta glúteo/coxa posterior (contorno simplificado)
+    ax.add_patch(FancyBboxPatch((-1.7, 7.5), 3.4, 3.0, boxstyle='round,pad=0.15',
+                 facecolor='#f5deb3', edgecolor='#333', lw=2))
+    ax.add_patch(FancyBboxPatch((-1.4, 1.5), 1.2, 6.0, boxstyle='round,pad=0.1',
+                 facecolor='#f5deb3', edgecolor='#333', lw=2))
+    ax.add_patch(FancyBboxPatch((0.2, 1.5), 1.2, 6.0, boxstyle='round,pad=0.1',
+                 facecolor='#f5deb3', edgecolor='#333', lw=2))
+    ax.plot([-1.7, 1.7], [7.5, 7.5], color='#333', lw=1.5, linestyle='--', alpha=0.6)
+    zonas = [
+        (-1.95, 8.2, '1', 'Depressão glútea lateral\n(região trocantérica)'),
+        (1.95, 8.2, '1', ''),
+        (0, 7.4, '2', 'Sulco glúteo'),
+        (-0.8, 2.3, '3', 'Terço distal posterior\nda coxa'),
+        (0.8, 2.3, '3', ''),
+        (-1.55, 5.0, '4', 'Medial da coxa'),
+        (1.55, 5.0, '4', ''),
+        (-2.0, 6.0, '5', 'Trato iliotibial\ninferolateral'),
+        (2.0, 6.0, '5', ''),
+    ]
+    for x, y, num, label in zonas:
+        circle = plt.Circle((x, y), 0.3, facecolor='#c62828', edgecolor='white', lw=1.5, zorder=5)
+        ax.add_patch(circle)
+        ax.text(x, y, num, ha='center', va='center', fontsize=11,
+                color='white', fontweight='bold', zorder=6)
+    # Legenda lateral
+    legendas = [
+        ('1', 'Depressão glútea lateral (trocantérica)'),
+        ('2', 'Sulco glúteo'),
+        ('3', 'Terço distal posterior da coxa'),
+        ('4', 'Face medial da coxa'),
+        ('5', 'Trato iliotibial inferolateral'),
+    ]
+    for i, (num, label) in enumerate(legendas):
+        y0 = 1.2 - i*0.25
+        ax.add_patch(plt.Circle((-2.2, y0), 0.12, facecolor='#c62828', edgecolor='white', lw=1))
+        ax.text(-2.2, y0, num, ha='center', va='center', fontsize=7, color='white', fontweight='bold')
+        ax.text(-1.95, y0, label, fontsize=7.8, va='center', color='#333')
+    ax.set_title('Zonas de Aderência de Rohrich (vista posterior)',
+                 fontsize=12, fontweight='bold', color='#1e3a5f', pad=10)
+    ax.text(0, 11.5, 'Aspiração agressiva → ptose iatrogênica (ex: banana roll)',
+            ha='center', fontsize=8.5, color='#c62828', fontstyle='italic', fontweight='bold')
+    save(fig, 'lipoaspiracao', 'lipo-anat-zonas-aderencia-rohrich.png')
+
+
+def lipo_comparativo_tecnologias():
+    """Árvore de decisão — qual tecnologia de lipoaspiração escolher."""
+    fig, ax = plt.subplots(figsize=(13, 9.5))
+    ax.set_xlim(0, 13)
+    ax.set_ylim(0, 10)
+    ax.axis('off')
+    draw_box(ax, 6.5, 9.3, 4.2, 0.7,
+             'Seleção de tecnologia — Lipoaspiração',
+             color='#1e3a5f', fontsize=11)
+    draw_diamond(ax, 6.5, 7.9, 3.2, 0.9, 'Tecido fibroso\n(dorso, flanco, ginecomastia)?', fontsize=8.5)
+    draw_arrow(ax, 6.5, 7.45, 3.0, 6.6)
+    ax.text(4.6, 7.05, 'sim', fontsize=8, color='#2e7d32', fontweight='bold')
+    draw_arrow(ax, 6.5, 7.45, 10.0, 6.6)
+    ax.text(8.2, 7.05, 'não', fontsize=8, color='#c62828', fontweight='bold')
+    draw_box(ax, 3.0, 6.2, 2.6, 0.7, 'UAL / VASER', color='#5e35b1', fontsize=10)
+    ax.text(3.0, 5.55,
+            'Fibroso, lipo HD,\n+20-30% retração,\n60-90s por 100 mL',
+            ha='center', fontsize=7.5, color='#333')
+    draw_diamond(ax, 10.0, 6.2, 3.2, 0.9, 'Flacidez cutânea\nmoderada?', fontsize=8.5)
+    draw_arrow(ax, 10.0, 5.75, 11.8, 4.7)
+    ax.text(11.2, 5.2, 'sim', fontsize=8, color='#2e7d32', fontweight='bold')
+    draw_arrow(ax, 10.0, 5.75, 7.3, 4.7)
+    ax.text(8.3, 5.2, 'não', fontsize=8, color='#c62828', fontweight='bold')
+    draw_box(ax, 11.8, 4.3, 2.2, 0.7, 'RFAL (BodyTite)', color='#00838f', fontsize=9)
+    ax.text(11.8, 3.65,
+            'RF bipolar, 38-42°C\npele / 70°C interno,\nneocolagênese',
+            ha='center', fontsize=7.2, color='#333')
+    draw_diamond(ax, 7.3, 4.3, 3.2, 0.9, 'Área pequena\n(submento, braços)?', fontsize=8.2)
+    draw_arrow(ax, 7.3, 3.85, 5.0, 2.8)
+    ax.text(5.9, 3.3, 'sim', fontsize=8, color='#2e7d32', fontweight='bold')
+    draw_arrow(ax, 7.3, 3.85, 9.5, 2.8)
+    ax.text(8.6, 3.3, 'não', fontsize=8, color='#c62828', fontweight='bold')
+    draw_box(ax, 5.0, 2.4, 2.2, 0.7, 'LAL', color='#d84315', fontsize=10)
+    ax.text(5.0, 1.75,
+            'Nd:YAG 1064/diodo,\nretração controversa,\nrisco queimadura',
+            ha='center', fontsize=7.2, color='#333')
+    draw_diamond(ax, 9.5, 2.4, 3.0, 0.9, 'Grande volume?', fontsize=9)
+    draw_arrow(ax, 9.5, 1.95, 7.8, 1.0)
+    ax.text(8.5, 1.5, 'sim', fontsize=8, color='#2e7d32', fontweight='bold')
+    draw_arrow(ax, 9.5, 1.95, 11.5, 1.0)
+    ax.text(10.5, 1.5, 'não', fontsize=8, color='#c62828', fontweight='bold')
+    draw_box(ax, 7.8, 0.6, 2.2, 0.7, 'PAL (MicroAire)', color='#00695c', fontsize=9.5)
+    draw_box(ax, 11.5, 0.6, 2.0, 0.7, 'SAL (padrão)', color='#455a64', fontsize=10)
+    ax.text(1.0, 2.3, 'Legenda:', fontsize=8, fontweight='bold', color='#555')
+    for i, (tec, desc) in enumerate([
+        ('SAL', 'aspiração convencional, versátil, baixo custo'),
+        ('PAL', 'oscilação 2-4 mil ciclos/min, grandes volumes'),
+        ('UAL', 'cavitação ultrassônica, áreas fibrosas, HD'),
+        ('LAL', 'lipólise térmica por laser'),
+        ('RFAL', 'radiofrequência bipolar + retração cutânea'),
+    ]):
+        ax.text(1.0, 1.9 - i*0.3, f'• {tec} — {desc}',
+                fontsize=7.5, color='#333')
+    ax.set_title('Comparativo de Tecnologias — Árvore de decisão clínica',
+                 fontsize=12, fontweight='bold', color='#1e3a5f', y=1.0)
+    save(fig, 'lipoaspiracao', 'lipo-tec-comparativo-tecnologias.png')
+
+
+def lipo_hdbs_marcacao():
+    """HDBS — marcação dinâmica com zonas positivas/negativas/transição."""
+    fig, ax = plt.subplots(figsize=(7, 10))
+    ax.set_xlim(-3, 3)
+    ax.set_ylim(0, 12)
+    ax.set_aspect('equal')
+    ax.axis('off')
+    # Silhueta masculina (torso frontal)
+    ax.add_patch(FancyBboxPatch((-1.8, 2.5), 3.6, 7.0, boxstyle='round,pad=0.2',
+                 facecolor='#f5deb3', edgecolor='#333', lw=2))
+    head = plt.Circle((0, 10.5), 0.55, facecolor='#f5deb3', edgecolor='#333', lw=2)
+    ax.add_patch(head)
+    # Zonas negativas (aprofundar — azul)
+    neg = [
+        (0, 8.3, 0.25, 1.5, 'linha alba'),
+        (-1.3, 6.0, 0.55, 1.8, 'linha\nsemilunar'),
+        (1.3, 6.0, 0.55, 1.8, 'linha\nsemilunar'),
+        (0, 5.2, 1.3, 0.2, 'tendíneas'),
+        (0, 6.3, 1.3, 0.2, ''),
+        (0, 7.4, 1.3, 0.2, ''),
+    ]
+    for x, y, w, h, label in neg:
+        ax.add_patch(FancyBboxPatch((x-w/2, y-h/2), w, h,
+                     boxstyle='square,pad=0', facecolor='#1565c0', edgecolor='none', alpha=0.7))
+        if label:
+            ax.text(x, y, label, ha='center', va='center', fontsize=6.5,
+                    color='white', fontweight='bold')
+    # Zonas positivas (preservar/projetar — vermelho)
+    pos = [
+        (-0.7, 8.2, 0.9, 1.0, 'reto\n(bloco 1)'),
+        (0.7, 8.2, 0.9, 1.0, 'reto\n(bloco 1)'),
+        (-0.7, 6.85, 0.9, 0.8, 'bloco 2'),
+        (0.7, 6.85, 0.9, 0.8, 'bloco 2'),
+        (-0.7, 5.75, 0.9, 0.8, 'bloco 3'),
+        (0.7, 5.75, 0.9, 0.8, 'bloco 3'),
+    ]
+    for x, y, w, h, label in pos:
+        ax.add_patch(FancyBboxPatch((x-w/2, y-h/2), w, h,
+                     boxstyle='round,pad=0.02', facecolor='#c62828', edgecolor='none', alpha=0.55))
+        ax.text(x, y, label, ha='center', va='center', fontsize=6.5,
+                color='white', fontweight='bold')
+    # Transição (flancos/oblíquos — laranja)
+    trans = [
+        (-1.55, 5.5, 0.5, 2.5, 'oblíquo\n(transição)'),
+        (1.55, 5.5, 0.5, 2.5, 'oblíquo\n(transição)'),
+    ]
+    for x, y, w, h, label in trans:
+        ax.add_patch(FancyBboxPatch((x-w/2, y-h/2), w, h,
+                     boxstyle='round,pad=0.02', facecolor='#ef6c00', edgecolor='none', alpha=0.6))
+        ax.text(x, y, label, ha='center', va='center', fontsize=6.5,
+                color='white', fontweight='bold')
+    # Peitoral e deltoide
+    ax.add_patch(FancyBboxPatch((-1.4, 9.1), 2.8, 0.6, boxstyle='round,pad=0.02',
+                 facecolor='#c62828', edgecolor='none', alpha=0.5))
+    ax.text(0, 9.4, 'peitoral (enxerto)', ha='center', fontsize=7, color='white', fontweight='bold')
+    # Legenda
+    legs = [
+        ('#c62828', 'Zona positiva — preservar/projetar (enxerto)'),
+        ('#1565c0', 'Zona negativa — aprofundar (aspirar)'),
+        ('#ef6c00', 'Zona de transição — suavizar'),
+    ]
+    for i, (color, text) in enumerate(legs):
+        y0 = 1.8 - i*0.35
+        ax.add_patch(FancyBboxPatch((-2.7, y0-0.12), 0.4, 0.24,
+                     boxstyle='square,pad=0', facecolor=color, edgecolor='none', alpha=0.75))
+        ax.text(-2.2, y0, text, fontsize=7.5, va='center', color='#333')
+    ax.set_title('HDBS — Marcação dinâmica (contração isométrica)',
+                 fontsize=11.5, fontweight='bold', color='#1e3a5f', pad=8)
+    ax.text(0, 0.6, 'IMC < 30 · % gordura < 25♀/20♂ · boa elasticidade cutânea',
+            ha='center', fontsize=7.8, color='#555', fontstyle='italic')
+    ax.text(0, 0.25, 'Hoyos & Millard, HDBS 2014, caps. 4, 6 e 8',
+            ha='center', fontsize=6.8, color='#999', fontstyle='italic')
+    save(fig, 'lipoaspiracao', 'lipo-tec-hdbs-marcacao.png')
+
+
+def lipo_safe_tempos():
+    """Técnica SAFE — Separation, Aspiration, Fat Equalization."""
+    fig, axes = plt.subplots(1, 3, figsize=(13, 6))
+    tempos = [
+        ('1. SEPARATION',
+         'Emulsificação mecânica',
+         'cânula basket,\nSEM aspiração',
+         '#1565c0'),
+        ('2. ASPIRATION',
+         'Remoção do emulsificado',
+         'cânula PAL\nconvencional,\nCOM aspiração',
+         '#2e7d32'),
+        ('3. FAT EQUALIZATION',
+         'Redistribuição uniforme',
+         'cânula basket superficial,\nSEM aspiração\n(prevenir irregularidades)',
+         '#ef6c00'),
+    ]
+    for ax, (titulo, subt, desc, cor) in zip(axes, tempos):
+        ax.set_xlim(0, 10)
+        ax.set_ylim(0, 10)
+        ax.axis('off')
+        # Corte sagital esquemático: pele + subcutâneo + músculo
+        ax.add_patch(FancyBboxPatch((0.5, 8.0), 9, 0.6, boxstyle='square,pad=0',
+                     facecolor='#a1887f', edgecolor='#333', lw=1))
+        ax.text(0.8, 8.3, 'pele', fontsize=7, color='white')
+        ax.add_patch(FancyBboxPatch((0.5, 5.5), 9, 2.5, boxstyle='square,pad=0',
+                     facecolor='#fff59d', edgecolor='#333', lw=1))
+        ax.text(0.8, 6.7, 'subcutâneo', fontsize=7, color='#555')
+        ax.add_patch(FancyBboxPatch((0.5, 4.5), 9, 1.0, boxstyle='square,pad=0',
+                     facecolor='#e57373', edgecolor='#333', lw=1))
+        ax.text(0.8, 5.0, 'músculo', fontsize=7, color='white')
+        # Cânula com trajetória
+        ax.annotate('', xy=(8.5, 6.8), xytext=(1.2, 6.8),
+                    arrowprops=dict(arrowstyle='-|>', color=cor, lw=3))
+        for x in [2.5, 4.0, 5.5, 7.0]:
+            if 'basket' in desc and 'SEM' in desc:
+                ax.plot(x, 6.8, marker='o', color=cor, markersize=5, markerfacecolor='white')
+            elif 'PAL' in desc:
+                ax.plot(x, 6.8, marker='v', color=cor, markersize=8)
+        # Título do painel
+        ax.add_patch(FancyBboxPatch((0.5, 9.1), 9, 0.7, boxstyle='round,pad=0.03',
+                     facecolor=cor, edgecolor='none'))
+        ax.text(5.0, 9.45, titulo, ha='center', va='center',
+                fontsize=10.5, fontweight='bold', color='white')
+        ax.text(5.0, 3.5, subt, ha='center', fontsize=9, color=cor, fontweight='bold')
+        ax.text(5.0, 2.3, desc, ha='center', fontsize=8, color='#333')
+        # Seta entre painéis
+    fig.suptitle('Técnica SAFE (Wall & Lee) — 3 tempos',
+                 fontsize=12, fontweight='bold', color='#1e3a5f', y=0.98)
+    fig.text(0.5, 0.02,
+             'Aspirado mais limpo · menor dependência de vácuo · menos irregularidades de superfície',
+             ha='center', fontsize=8, color='#555', fontstyle='italic')
+    save(fig, 'lipoaspiracao', 'lipo-tec-safe-tempos.png')
+
+
 if __name__ == '__main__':
     print("Gerando diagramas esquemáticos...\n")
 
@@ -655,5 +1022,14 @@ if __name__ == '__main__':
     blefaroplastia_camadas_palpebrais()
     blefaroplastia_algoritmo_tecnica()
     blefaroplastia_cantotomia_emergencia()
+
+    print("\n=== LIPOASPIRACAO ===")
+    lipo_pmi()
+    lipo_zonas_seguranca()
+    lipo_sfs_camadas()
+    lipo_zonas_aderencia()
+    lipo_comparativo_tecnologias()
+    lipo_hdbs_marcacao()
+    lipo_safe_tempos()
 
     print("\nDiagramas gerados com sucesso!")
