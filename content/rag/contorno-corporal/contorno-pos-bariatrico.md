@@ -44,6 +44,7 @@
 - Estadiamento em 2-3 fases e a abordagem mais segura; combinacoes sao possiveis em pacientes bem selecionados (BMI < 30, albumina > 3,2 g/dL).
 - Complicacoes mais frequentes: seroma (10-30%), deiscencia (5-15%), infeccao (5-12%), TEV (2-5%), necrose cutanea (3-8%).
 - Profilaxia de TEV com compressao intermitente, mobilizacao precoce e HBPM em pacientes de risco e mandatoria.
+- Procedimentos de lower body lift cresceram 3.974% entre 2000 e 2020, totalizando 8.433 casos em 2020 nos Estados Unidos, refletindo o aumento de demanda por contorno pos-bariatrico. *(Grabb & Smith, 2024, cap. 76 — dados ASPS — American Society of Plastic Surgeons)*
 
 ## Introduction
 
@@ -52,6 +53,8 @@ A obesidade morbida afeta aproximadamente 7% da populacao mundial, com prevalenc
 Estima-se que 40-50% dos pacientes pos-bariatricos (apos perda macica > 30 kg) procuram pela cirurgia de contorno corporal para correcao do excesso cutaneo. A demanda por estes procedimentos cresceu exponencialmente, representando 8-15% das operacoes de cirurgia plastica em centros especializados. (Aly et al., PRS, 2003; Hasanbegovic & Sorensen, Obes Surg, 2012)
 
 Pacientes pos-bariatricos apresentam particularidades: perda macica de peso, alteracoes importantes na qualidade e elasticidade cutanea, desnutricao relativa (apesar da aparencia), comorbidades associadas a obesidade (diabetes, hipertensao, apneia do sono) frequentemente ja melhoradas. Estudos mostram melhoria significativa em autoestima e qualidade de vida com o contorno corporal. (Coon et al., Plast Surg, 2009; Hasanbegovic & Sorensen, Obes Surg, 2012)
+
+A incidencia de contorno pos-bariatrico acompanha a expansao global das cirurgias metabolicas: a ASPS — American Society of Plastic Surgeons registrou crescimento de 3.974% em lower body lifts entre 2000 e 2020 (8.433 casos em 2020), reforcando a necessidade de protocolos padronizados de selecao, seguranca e sequenciamento. *(Grabb & Smith, 2024, cap. 76)*
 
 ## Basic Science
 
@@ -159,6 +162,12 @@ Investigar diabetes residual, hipertensao nao controlada, sindrome metabolica pe
 
 O intervalo minimo recomendado entre cirurgia bariatrica e contorno corporal e de 12-18 meses. Este periodo permite: estabilizacao ponderal (plateau de perda de peso por 3-6 meses), recuperacao metabolica, resolucao de comorbidades associadas, e adaptacao da pele ao novo contorno corporal. (Lockwood et al., PRS, 1994; Grabb & Smith's Plastic Surgery, 8a Ed., 2020)
 
+O requisito de estabilidade ponderal de 3-6 meses e o alvo de IMC — indice de massa corporal <37-38 kg/m2 foram reforcados em capitulo dedicado a perda macica de peso, que tambem recomenda teste de funcao pulmonar e cardiaca em pacientes >50 anos ou portadores de doenca cardiopulmonar. *(Grabb & Smith, 2024, cap. 75)*
+
+A avaliacao nutricional deve rastrear albumina, pre-albumina, ferro e hemograma; a deficiencia mais comum no pos-bariatrico e a ferropenia, mas monitoramento de B12, vitamina D e zinco e mandatorio antes de cirurgia excisional. *(Grabb & Smith, 2024, cap. 75)*
+
+O calculo de risco de Caprini deve guiar a quimioprofilaxia: pacientes de alto risco recebem HBPM — heparina de baixo peso molecular em procedimentos excisionais prolongados. *(Grabb & Smith, 2024, cap. 75)*
+
 Iniciar cirurgia plastica antes da estabilizacao ponderal aumenta significativamente o risco de resultados insatisfatorios e necessidade de reoperacoes. (Aly et al., PRS, 2003)
 
 ### Estabilizacao Ponderal
@@ -223,6 +232,12 @@ Risco aumentado em pos-bariatricos: obesidade residual, imobilidade relativa, te
   3. Manutencao de cicatrizes ocultas ou semi-ocultas (inguinal, submamario para mulheres).
   4. Reducao de tempo operatorio comparado a multiplas incisoes separadas.
   5. Melhor simetria corporal e harmonizacao.
+  6. **Diferenciacao belt lipectomy vs lower body lift:** belt lipectomy remove tecido acima da "anchoring line" (Lockwood tipo I), enquanto o lower body lift remove tecido abaixo dessa linha (Lockwood tipo II), permitindo elevacao mais efetiva de gluteos e coxas posteriores. *(Grabb & Smith, 2024, cap. 76)*
+  7. **Marcacao em ortostatismo:** marcacoes horizontais espacadas a cada 6 cm; a quarta marca vertical coincide com a linha axilar media, servindo como ponto de encontro entre a incisao de abdominoplastia e a de cruroplastia para harmonizacao circunferencial. *(Grabb & Smith, 2024, cap. 76)*
+  8. **Disseccao subfascial preservando fascia de Scarpa:** reduz a formacao de seroma por manter linfaticos e perfurantes superficiais. *(Grabb & Smith, 2024, cap. 76)*
+  9. **Autoaumento gluteo com retalho desepitelializado em padrao J:** preservam-se as zonas 1-3 e resseca-se a zona 4; a rotacao de ~45 graus combinada com mattress horizontal propicia projecao glutea sem necessidade de implante. *(Grabb & Smith, 2024, cap. 76)*
+- **Drenagem:** dois drenos de succao continua, retirados quando o debito for <30 mL em 24h (tipicamente entre o 7o e o 10o pos-operatorio). *(Grabb & Smith, 2024, cap. 76)*
+- **Cinta compressiva:** uso em tempo integral por 4 semanas e parcial por 3-6 meses; posicionamento em semi-Fowler no pos-operatorio imediato minimiza tensao mecanica sobre a sutura. *(Grabb & Smith, 2024, cap. 76)*
 - **Complicacoes especificas:** Migracao cicatricial (5-10%), alteracao de sensibilidade (20-30%, usualmente transitoria), dor neuropatica cronica (1-3%).
 - (Lockwood et al., PRS, 1991-1994)
 
@@ -237,6 +252,10 @@ Risco aumentado em pos-bariatricos: obesidade residual, imobilidade relativa, te
   4. Resseccao em padrao vertical-obliquo, removendo faixa de pele/gordura de 5-15 cm de largura dependendo do excesso.
   5. Fixacao critica: ponta superior do retalho fixada ao periosteo da sinfise pubica ou ao ligamento de Cooper para evitar recorrencia de ptose.
 - **Complicacoes especificas:** Migracao cicatricial (10-25%), linfedema (5-15%), deiscencia perineal, dispareunia (< 2%), sensacao de queimacao perineal por parestesia do pudendo (5-10%).
+- **Padroes por severidade:** cruroplastia vertical indicada para laxidez predominantemente proximal; transversal/horizontal ao sulco inguinal para laxidez difusa, geralmente integrada ao lower body lift. *(Grabb & Smith, 2024, cap. 76)*
+- **Classificacao de severidade:** crescent (terco proximal), short-scar vertical (laxidez moderada) e full-scar vertical (laxidez extensa estendendo-se ate o joelho). *(Grabb & Smith, 2024, cap. 76)*
+- **Plicatura fascial com fixacao ao ligamento de Colles:** reduz a taxa de recidiva de ptose medial da coxa. *(Grabb & Smith, 2024, cap. 76)*
+- **Atencao ao lipedema:** acumulo bilateral subcutaneo extenso do quadril ao tornozelo, poupando os pes, e indicacao primaria de lipoaspiracao agressiva, nao de abdominoplastia ou cruroplastia excisional isolada. *(Grabb & Smith, 2024, cap. 76)*
 - (Lockwood et al., PRS, 1994; Aly et al., PRS, 2003)
 
 ### Cruroplastia Vertical (Lifting Medial Modificado)
@@ -285,6 +304,9 @@ Risco aumentado em pos-bariatricos: obesidade residual, imobilidade relativa, te
   6. Fechamento em camadas: fascia (Vicryl 2-0), subcuticular (Monocryl 3-0), intradermico.
   7. Localizar cicatriz em face medial de braco (nao lateral visivel). Em mulheres com seios pendentes, considerar cicatriz axilar quando possivel.
 - **Complicacoes especificas:** Lesao do nervo cutaneo medial do antebraco (parestesia transitoria 10-30%, permanente 2-5%), cicatriz alargada (5-15%), retracao cicatricial (3-8%).
+- **Padroes de incisao:** tres opcoes classicas — T curta no sulco axilar anterior, longitudinal medial do braco, e L combinando transversal axilar com longitudinal medial; o padrao longitudinal simetrico tende a reduzir a exposicao cicatricial axilar. *(Grabb & Smith, 2024, cap. 76)*
+- **Anatomia critica:** o ramo anterior do nervo cutaneo medial do antebraco corre na face medial do braco inferior; preservar ou marcar seu trajeto durante a disseccao evita neuroma iatrogenico. *(Neligan, 2023, vol. 2)*
+- **Lipoaspiracao adjuvante:** SAL — suction-assisted liposuction tumescente pode ser combinada a resseccao excisional em casos com adiposidade residual focal. *(Grabb & Smith, 2024, cap. 75)*
 - (Grabb & Smith's Plastic Surgery, 8a Ed., 2020; Aly et al., PRS, 2003)
 
 ### L-Braquioplastia (Extensao ao Torax Lateral)
@@ -349,6 +371,8 @@ Risco aumentado em pos-bariatricos: obesidade residual, imobilidade relativa, te
 - **Passos:**
   1. Transposicao de glandula/gordura inferior para colo mamario, criando auto-aumento.
 - **Complicacoes especificas:** Ganho modesto de volume, possivel recorrencia de ptose.
+- **Remodelacao parenquimal (parenchymal remodeling):** uso do tecido mamario residual para auto-aumento discreto, evitando a necessidade de implante. *(Neligan, 2023, vol. 2)*
+- **Rubin flap e dermal bra:** tecnicas de suspensao interna sem implante que preservam a viabilidade vascular e a sensibilidade do complexo areolo-papilar. *(Neligan, 2023, vol. 2)*
 - (Palusa et al., Plast Surg, 2011)
 
 ### Gigantomastia Pos-Bariatrica
@@ -446,6 +470,7 @@ Protocolo de reavaliacao:
 - **Prevencao:** Drenos de longa permanencia com evacuacao continua, compressao adequada, minimizacao de espaco morto.
 - **Diagnostico:** Flutuacao a palpacao, aumento de volume localizado, desconforto; confirmacao por ultrassonografia se duvida.
 - **Manejo:** Drenagem percutanea seriada, compressao continua, drenos de longa permanencia. Escleroterapia em casos refratarios.
+- **Tecnicas complementares de prevencao:** conservacao da gordura sobre a fascia de Scarpa reduz a taxa de seroma; quilting sutures (pontos de fixacao do retalho ao plano muscular) e adesivos tissulares atuam como adjuvantes eficazes. *(Neligan, 2023, vol. 2; Grabb & Smith, 2024, cap. 76)*
 - (Aly et al., PRS, 2003; Hasanbegovic & Sorensen, Obes Surg, 2012)
 
 ### Deiscencia de Ferida
@@ -454,6 +479,7 @@ Protocolo de reavaliacao:
 - **Prevencao:** Tecnica sem sobretensao, hemostasia meticulosa, drenagem adequada, otimizacao nutricional pre-operatoria.
 - **Diagnostico:** Separacao das bordas da ferida, drenagem sero-purulenta.
 - **Manejo:** Deiscencia pequena: curativos com cicatrizacao por segunda intencao. Deiscencia extensa: desbridamento e refechamento em centro cirurgico.
+- **Otimizacao perioperatoria para deiscencia:** aumento de ingestao proteica 1 mes antes e depois da cirurgia, flexao semi-permanente de cintura por 3 semanas e proibicao de exercicio intenso por 6 semanas reduzem a tensao sobre a sutura e a taxa de deiscencia. *(Grabb & Smith, 2024, cap. 76)*
 - (Aly et al., PRS, 2003; Shermak, PRS, 2006)
 
 ### Necrose Cutanea
@@ -462,6 +488,7 @@ Protocolo de reavaliacao:
 - **Prevencao:** Planejamento vascular, disseccao no plano correto, evitar tensao excessiva, cessar tabagismo.
 - **Diagnostico:** Mudanca de coloracao cutanea (cianotica ou enegrecida), flictenas, dor intensa seguida de anestesia.
 - **Manejo:** Necrose superficial: curativos com cicatrizacao por intencao secundaria. Necrose profunda: desbridamento cirurgico e possivel enxertia.
+- **Evolucao clinica:** a necrose cutanea evolui lentamente com deterioracao progressiva da borda ao longo de ~3 semanas; a conduta padrao e desbridamento seriado com cicatrizacao por segunda intencao ou reclosure apos amolecimento dos tecidos. *(Grabb & Smith, 2024, cap. 76)*
 - (Shermak, PRS, 2006)
 
 ### Infeccao de Sitio Cirurgico
@@ -478,6 +505,9 @@ Protocolo de reavaliacao:
 - **Prevencao:** Compressao intermitente intraoperatoria, mobilizacao precoce, HBPM em pacientes de risco.
 - **Diagnostico:** TVP (Trombose Venosa Profunda): edema unilateral, dor em panturrilha, sinal de Homans; confirmacao por duplex scan. TEP (Tromboembolismo Pulmonar): dispneia subita, dor toracica, taquicardia; confirmacao por angiotomografia.
 - **Manejo:** Anticoagulacao plena, filtro de veia cava em casos selecionados.
+- **Protocolo intraoperatorio e precoce:** dispositivos de compressao sequencial (SCDs) abaixo dos joelhos mantidos ate a deambulacao; pacientes de alto risco recebem 5000 UI de heparina subcutanea 8/8h durante a hospitalizacao, estendida ate 10 dias pos-operatorios ou conforme orientacao da hematologia. *(Grabb & Smith, 2024, cap. 76)*
+- **Vigilancia de TEV — tromboembolismo venoso:** manter observacao por 6 semanas pos-operatorias; qualquer sintoma sugestivo deve ser investigado com Doppler venoso e/ou angiotomografia de torax para descartar TEP — tromboembolismo pulmonar. *(Grabb & Smith, 2024, cap. 76; Neligan, 2023, vol. 2)*
+- **Preaquecimento com ar forcado:** 30-60 minutos antes da inducao reduz hipotermia em procedimentos excisionais prolongados, fator de risco adicional para TEV. *(Neligan, 2023, vol. 2)*
 - (Colwell et al., NEJM, 2011; Falck-Ytter et al., ACCP Guidelines, 2012)
 
 ### Migracao Cicatricial
@@ -548,6 +578,10 @@ Opcoes de estadiamento:
 Intervalo entre fases: minimo 4-6 semanas, ideal 8-12 semanas para cicatrizacao completa e resolucao de seroma.
 
 Combinacoes seguras (em pos-bariatricos bem selecionados com BMI < 30 e albumina > 3,2): abdominoplastia + braquioplastia, body lift + mastopexia, cruroplastia + braquioplastia. (Aly et al., PRS, 2003; Shermak, PRS, 2006; Abbas et al., PRS, 2022)
+
+Cirurgias combinadas devem ser limitadas a aproximadamente 7 horas de duracao; tempos operatorios superiores a 7h elevam significativamente o risco tromboembolico e as complicacoes anestesicas. *(Grabb & Smith, 2024, cap. 75)*
+
+A combinacao conhecida como "mommy makeover" (lipoabdominoplastia + mastopexia + lipoaspiracao axilar) demonstrou-se segura em pos-bariatricos com avaliacao apropriada, e a adicao de um terceiro procedimento pode ser segura ou ate reduzir o risco relativo — provavelmente por refletir selecao de pacientes em melhor estado geral. *(Neligan, 2023, vol. 2)*
 
 ### Limites de Tempo Cirurgico e Perda Sanguinea
 
