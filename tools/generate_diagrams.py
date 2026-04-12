@@ -1008,6 +1008,334 @@ def lipo_safe_tempos():
     save(fig, 'lipoaspiracao', 'lipo-tec-safe-tempos.png')
 
 
+def lipo_canulas_por_regiao():
+    """Tabela visual: diâmetro de cânula (profundo/superficial) por região."""
+    regions = [
+        ('Pescoço/submento', 2.4, 2.4),
+        ('Braços', 3.7, 3.0),
+        ('Dorso', 3.7, 3.0),
+        ('Flancos/quadris', 4.6, 3.7),
+        ('Abdome', 3.7, 3.0),
+        ('Coxas (lat/post)', 3.7, 3.0),
+        ('Joelhos', 3.0, 2.4),
+    ]
+    fig, ax = plt.subplots(figsize=(10, 8))
+    ax.set_xlim(0, 10)
+    ax.set_ylim(0, 10)
+    ax.axis('off')
+    ax.set_title('Seleção de Cânulas por Região\n(diâmetro em mm — trabalho profundo / refinamento superficial)',
+                 fontsize=13, fontweight='bold', pad=15)
+
+    # Header
+    draw_box(ax, 2.2, 9, 3.6, 0.6, 'REGIÃO', '#37474F')
+    draw_box(ax, 5.6, 9, 2.2, 0.6, 'PROFUNDO (mm)', '#C62828')
+    draw_box(ax, 8.0, 9, 2.0, 0.6, 'SUPERFICIAL (mm)', '#1565C0')
+
+    # Rows
+    y = 8.2
+    for i, (region, deep, sup) in enumerate(regions):
+        bg = '#ECEFF1' if i % 2 == 0 else '#FFFFFF'
+        ax.add_patch(FancyBboxPatch((0.3, y - 0.35), 9.4, 0.7,
+                                     boxstyle="round,pad=0.02",
+                                     facecolor=bg, edgecolor='#CFD8DC', linewidth=0.8))
+        ax.text(2.2, y, region, ha='center', va='center', fontsize=10,
+                color='#263238', fontfamily='sans-serif')
+        ax.text(5.6, y, f'{deep:.1f}', ha='center', va='center', fontsize=11,
+                color='#C62828', fontweight='bold', fontfamily='sans-serif')
+        ax.text(8.0, y, f'{sup:.1f}', ha='center', va='center', fontsize=11,
+                color='#1565C0', fontweight='bold', fontfamily='sans-serif')
+        y -= 0.85
+
+    # Note
+    note = ('Ponta romba 3 orifícios laterais (Mercedes) = padrão versátil.\n'
+            'VentX / basket (multi-orifício fino) = refinamento superficial e coleta para lipoenxertia.')
+    ax.text(5, 1.2, note, ha='center', va='center', fontsize=8.5,
+            fontfamily='sans-serif', color='#37474F', fontstyle='italic',
+            bbox=dict(boxstyle='round,pad=0.4', facecolor='#FFF3E0', edgecolor='#FB8C00'))
+
+    save(fig, 'lipoaspiracao', 'lipo-tec-canulas-por-regiao.png')
+
+
+def lipo_ual_vaser():
+    """Cavitação ultrassônica: sonda VASER emulsificando adipócitos."""
+    fig, ax = plt.subplots(figsize=(11, 6.5))
+    ax.set_xlim(0, 11)
+    ax.set_ylim(0, 6.5)
+    ax.axis('off')
+    ax.set_title('UAL/VASER — Emulsificação por Cavitação Acústica',
+                 fontsize=13, fontweight='bold', pad=12)
+
+    # Skin layers
+    ax.add_patch(mpatches.Rectangle((0.5, 5.3), 10, 0.35, facecolor='#FFE0B2', edgecolor='#333'))
+    ax.text(0.55, 5.47, 'pele', fontsize=8, color='#5D4037', fontfamily='sans-serif')
+    ax.add_patch(mpatches.Rectangle((0.5, 1.5), 10, 3.8, facecolor='#FFF8E1', edgecolor='#333'))
+    ax.text(0.6, 4.9, 'subcutâneo (adipócitos)', fontsize=8, color='#8D6E63', fontfamily='sans-serif')
+    ax.add_patch(mpatches.Rectangle((0.5, 1.1), 10, 0.4, facecolor='#EF9A9A', edgecolor='#333'))
+    ax.text(0.55, 1.3, 'músculo', fontsize=8, color='#4E342E', fontfamily='sans-serif')
+
+    # Probe entry
+    ax.plot([1.8, 5.5], [5.3, 3.5], color='#37474F', lw=3)
+    ax.add_patch(mpatches.Circle((5.5, 3.5), 0.12, color='#37474F'))
+    ax.text(1.5, 5.8, 'sonda VASER', fontsize=9, color='#263238', fontweight='bold')
+
+    # Cavitation waves (concentric)
+    for r, alpha in [(0.5, 0.6), (0.9, 0.4), (1.3, 0.25), (1.7, 0.15)]:
+        ax.add_patch(mpatches.Circle((5.5, 3.5), r, fill=False,
+                                      edgecolor='#1976D2', lw=1.5, alpha=alpha))
+
+    # Adipocytes left (intact)
+    for x, y in [(3.0, 4.3), (3.5, 3.8), (3.2, 3.2), (2.8, 2.6), (3.6, 2.3)]:
+        ax.add_patch(mpatches.Circle((x, y), 0.2, facecolor='#FFEB3B', edgecolor='#F9A825', lw=1.2))
+
+    # Adipocytes right (emulsified — broken)
+    import random
+    random.seed(42)
+    for _ in range(25):
+        x = 7 + random.random() * 2.8
+        y = 2 + random.random() * 2.8
+        ax.add_patch(mpatches.Circle((x, y), 0.07,
+                                      facecolor='#FFCA28', edgecolor='#FF8F00', lw=0.5, alpha=0.7))
+
+    ax.text(3.2, 1.75, 'INTACTO', ha='center', fontsize=10, fontweight='bold', color='#F57F17')
+    ax.text(8.4, 1.75, 'EMULSIFICADO', ha='center', fontsize=10, fontweight='bold', color='#E65100')
+    draw_arrow(ax, 5.8, 3.5, 7.0, 3.5, label='cavitação')
+
+    # Parameters
+    params = ('Sondas 2,2 / 2,9 / 3,7 / 4,5 mm (1 ranhura = fibroso · 3 ranhuras = macio)\n'
+              'Contínuo (fibroso) · Pulsátil 10 bursts/s (macio)\n'
+              'Endpoint: 60–90 s por 100 mL tumescente (VASER seconds)\n'
+              'Proteger entrada com toalha úmida (risco de queimadura se sonda parada)')
+    ax.text(5.5, 0.45, params, ha='center', va='center', fontsize=8,
+            fontfamily='sans-serif', color='#263238',
+            bbox=dict(boxstyle='round,pad=0.4', facecolor='#E3F2FD', edgecolor='#1976D2'))
+
+    save(fig, 'lipoaspiracao', 'lipo-tec-ual-vaser.png')
+
+
+def lipo_pal_oscilacao():
+    """PAL: cânula com movimento oscilatório recíproco."""
+    fig, ax = plt.subplots(figsize=(11, 5.5))
+    ax.set_xlim(0, 11)
+    ax.set_ylim(0, 5.5)
+    ax.axis('off')
+    ax.set_title('PAL (Power-Assisted Liposuction) — Oscilação Recíproca',
+                 fontsize=13, fontweight='bold', pad=12)
+
+    # Handpiece
+    ax.add_patch(FancyBboxPatch((0.5, 2.8), 2.2, 0.8, boxstyle="round,pad=0.05",
+                                facecolor='#546E7A', edgecolor='#263238', lw=1.5))
+    ax.text(1.6, 3.2, 'MicroAire\nhandpiece', ha='center', va='center',
+            fontsize=9, color='white', fontweight='bold')
+
+    # Cannula
+    ax.plot([2.7, 8.0], [3.2, 3.2], color='#90A4AE', lw=7, solid_capstyle='round')
+    ax.add_patch(mpatches.Circle((8.05, 3.2), 0.1, color='#263238'))
+
+    # Oscillation arrows
+    ax.annotate('', xy=(8.4, 3.2), xytext=(7.6, 3.2),
+                arrowprops=dict(arrowstyle='<->', color='#D32F2F', lw=2.5))
+    ax.text(8.0, 3.7, '2–3 mm\n2.000–4.000 cpm', ha='center', fontsize=9,
+            color='#C62828', fontweight='bold')
+
+    # Tissue context
+    ax.add_patch(mpatches.Rectangle((6.5, 1.5), 4, 1.2, facecolor='#FFF8E1', edgecolor='#F9A825'))
+    ax.text(8.5, 2.1, 'tecido fibroso\n(dorso/flancos)', ha='center', va='center',
+            fontsize=9, color='#5D4037', fontstyle='italic')
+
+    # Benefits box
+    benefits = ('Vantagens clínicas:\n'
+                '• Penetra tecido fibroso com menos esforço\n'
+                '• Reduz fadiga muscular do cirurgião em grandes volumes\n'
+                '• Aspirado de melhor qualidade para lipoenxertia\n'
+                '  (menor lesão adipocitária vs UAL e SAL calibrosa)\n'
+                '• Não gera calor — perfil de segurança excelente')
+    ax.text(3.0, 1.4, benefits, ha='left', va='center', fontsize=8.5,
+            fontfamily='sans-serif', color='#263238',
+            bbox=dict(boxstyle='round,pad=0.4', facecolor='#E8F5E9', edgecolor='#388E3C'))
+
+    save(fig, 'lipoaspiracao', 'lipo-tec-pal-oscilacao.png')
+
+
+def lipo_lal_laser():
+    """LAL: fibra óptica com laser Nd:YAG/diodo gerando lipólise térmica."""
+    fig, ax = plt.subplots(figsize=(11, 6), facecolor='white')
+    ax.set_xlim(0, 11)
+    ax.set_ylim(0, 6)
+    ax.axis('off')
+    ax.set_title('LAL (Laser-Assisted Lipolysis) — Lipólise Térmica',
+                 fontsize=13, fontweight='bold', pad=12)
+
+    # Skin
+    ax.add_patch(mpatches.Rectangle((0.5, 4.8), 10, 0.35, facecolor='#FFE0B2', edgecolor='#333'))
+    ax.add_patch(mpatches.Rectangle((0.5, 1.3), 10, 3.5, facecolor='#FFF8E1', edgecolor='#333'))
+    ax.text(0.6, 4.4, 'subcutâneo', fontsize=8, color='#8D6E63')
+
+    # Cannula with fiber
+    ax.plot([1.5, 6.0], [4.8, 3.2], color='#37474F', lw=4)
+    ax.plot([1.5, 6.0], [4.8, 3.2], color='#EF5350', lw=1.5)  # fiber inside
+
+    # Laser beam + thermal halo
+    for r, color, alpha in [(0.3, '#FF1744', 0.9), (0.7, '#FF5722', 0.55),
+                            (1.1, '#FFA726', 0.35), (1.5, '#FFE082', 0.2)]:
+        ax.add_patch(mpatches.Circle((6.0, 3.2), r, facecolor=color,
+                                      edgecolor='none', alpha=alpha))
+
+    ax.text(6.0, 1.6, 'zona térmica\n(Nd:YAG 1064 nm / diodo 980 nm)',
+            ha='center', fontsize=9, color='#BF360C', fontweight='bold')
+    ax.text(1.0, 5.3, 'fibra óptica\nno interior da cânula', fontsize=9,
+            color='#263238', fontweight='bold')
+
+    # Evidence box
+    ev = ('Evidência (revisão sistemática Wollina 2020):\n'
+          'NÃO demonstrou superioridade consistente sobre SAL\n'
+          'em retração cutânea. Marketing > evidência.\n\n'
+          'Risco: queimadura cutânea (exposição prolongada);\n'
+          'perfuração visceral (fibra rígida).')
+    ax.text(9.2, 3.0, ev, ha='center', va='center', fontsize=8,
+            fontfamily='sans-serif', color='#263238',
+            bbox=dict(boxstyle='round,pad=0.4', facecolor='#FFEBEE', edgecolor='#C62828'))
+
+    save(fig, 'lipoaspiracao', 'lipo-tec-lal-laser.png')
+
+
+def lipo_rfal_bodytite():
+    """RFAL bipolar: eletrodo interno + externo + zonas térmicas-alvo."""
+    fig, ax = plt.subplots(figsize=(11, 6.5))
+    ax.set_xlim(0, 11)
+    ax.set_ylim(0, 6.5)
+    ax.axis('off')
+    ax.set_title('RFAL (BodyTite) — Radiofrequência Bipolar Assistida',
+                 fontsize=13, fontweight='bold', pad=12)
+
+    # Skin layers
+    ax.add_patch(mpatches.Rectangle((0.5, 5.1), 10, 0.35, facecolor='#FFCCBC', edgecolor='#333'))
+    ax.text(0.6, 5.28, 'epiderme + derme', fontsize=8, color='#4E342E')
+    ax.add_patch(mpatches.Rectangle((0.5, 1.5), 10, 3.6, facecolor='#FFF8E1', edgecolor='#333'))
+    ax.text(0.6, 4.7, 'subcutâneo', fontsize=8, color='#8D6E63')
+
+    # External electrode (above skin)
+    ax.add_patch(FancyBboxPatch((4.5, 5.6), 2, 0.55, boxstyle="round,pad=0.05",
+                                facecolor='#1565C0', edgecolor='#0D47A1', lw=1.5))
+    ax.text(5.5, 5.87, 'eletrodo EXTERNO', ha='center', fontsize=9,
+            color='white', fontweight='bold')
+
+    # Internal electrode (cannula tip inside subcutis)
+    ax.plot([2.0, 5.5], [5.1, 3.3], color='#37474F', lw=4)
+    ax.add_patch(mpatches.Circle((5.5, 3.3), 0.15, color='#E65100'))
+    ax.text(2.5, 5.55, 'eletrodo INTERNO\n(na cânula)', fontsize=9,
+            color='#263238', fontweight='bold')
+
+    # RF field between electrodes
+    for y in np.linspace(3.4, 5.55, 8):
+        ax.plot([5.0, 6.0], [y, y], color='#FFA726', lw=0.6, alpha=0.7, linestyle='--')
+
+    # Temperature annotations
+    ax.annotate('38–42 °C\n(pele)', xy=(6.6, 5.35), xytext=(8.3, 5.8),
+                fontsize=9, color='#1565C0', fontweight='bold',
+                arrowprops=dict(arrowstyle='->', color='#1565C0', lw=1.2),
+                bbox=dict(boxstyle='round,pad=0.3', facecolor='#E3F2FD', edgecolor='#1565C0'))
+    ax.annotate('70 °C\n(subcutâneo)', xy=(5.7, 3.3), xytext=(8.3, 2.8),
+                fontsize=9, color='#E65100', fontweight='bold',
+                arrowprops=dict(arrowstyle='->', color='#E65100', lw=1.2),
+                bbox=dict(boxstyle='round,pad=0.3', facecolor='#FFF3E0', edgecolor='#E65100'))
+
+    # Mechanism note
+    mech = ('Monitorização térmica em tempo real é essencial.\n'
+            'Aquecimento dérmico → contração de colágeno + neocolagênese\n'
+            '→ retração cutânea sem excisão.\n'
+            'CI relativa: marca-passo, implantes metálicos na área-alvo.')
+    ax.text(3.3, 0.9, mech, ha='center', va='center', fontsize=8,
+            fontfamily='sans-serif', color='#263238',
+            bbox=dict(boxstyle='round,pad=0.4', facecolor='#E8F5E9', edgecolor='#388E3C'))
+
+    save(fig, 'lipoaspiracao', 'lipo-tec-rfal-bodytite.png')
+
+
+def lipo_lipoenxertia_coleman():
+    """Lipoenxertia: fluxo coleta → centrifugação 3 camadas → injeção."""
+    fig, ax = plt.subplots(figsize=(12, 7))
+    ax.set_xlim(0, 12)
+    ax.set_ylim(0, 7)
+    ax.axis('off')
+    ax.set_title('Lipoenxertia — Técnica de Coleman\n(Coleta → Centrifugação → Injeção)',
+                 fontsize=13, fontweight='bold', pad=12)
+
+    # === PANEL 1: HARVEST ===
+    ax.text(1.8, 6.3, '1. COLETA', ha='center', fontsize=11, fontweight='bold', color='#C62828')
+    # Syringe
+    ax.add_patch(mpatches.Rectangle((0.8, 3.5), 1.8, 2.3, facecolor='#E3F2FD',
+                                     edgecolor='#1565C0', lw=1.5))
+    ax.add_patch(mpatches.Rectangle((1.3, 5.0), 0.8, 0.9, facecolor='#90CAF9',
+                                     edgecolor='#1565C0', lw=1))  # plunger
+    # Cannula
+    ax.plot([1.7, 1.7], [3.5, 2.6], color='#37474F', lw=3)
+    ax.add_patch(mpatches.Circle((1.7, 2.55), 0.1, color='#37474F'))
+    ax.text(1.8, 3.0, 'cânula Coleman\n3 mm', ha='left', fontsize=8, color='#263238')
+    note1 = ('Seringa 10 mL\nVácuo manual 1–2 mL\n(baixa pressão)\n\n'
+             'Doadores:\n• abdome inferior\n• flanco\n• face medial coxa')
+    ax.text(1.8, 1.2, note1, ha='center', va='center', fontsize=8,
+            bbox=dict(boxstyle='round,pad=0.3', facecolor='#FFEBEE', edgecolor='#C62828'))
+
+    # Arrow to panel 2
+    draw_arrow(ax, 3.3, 4.5, 4.2, 4.5)
+
+    # === PANEL 2: CENTRIFUGATION ===
+    ax.text(6.0, 6.3, '2. CENTRIFUGAÇÃO', ha='center', fontsize=11, fontweight='bold', color='#F57C00')
+    ax.text(6.0, 5.9, '3.000 rpm × 3 min (~1.200 G)', ha='center', fontsize=9,
+            fontstyle='italic', color='#555')
+
+    # Syringe after centrifugation (3 layers)
+    ax.add_patch(mpatches.Rectangle((5.3, 3.5), 1.4, 2.1, facecolor='none',
+                                     edgecolor='#263238', lw=2))
+    # Layer 1 (top) — oil (descartar)
+    ax.add_patch(mpatches.Rectangle((5.32, 4.9), 1.36, 0.68, facecolor='#FDD835', edgecolor='none'))
+    ax.text(7.0, 5.24, 'óleo + adipócitos lisados', fontsize=8.5, color='#F57F17',
+            fontweight='bold', va='center')
+    ax.text(7.0, 4.95, '→ descartar', fontsize=8, color='#C62828',
+            fontstyle='italic', va='center')
+    # Layer 2 (middle) — viable fat (USE)
+    ax.add_patch(mpatches.Rectangle((5.32, 4.1), 1.36, 0.78, facecolor='#FFB74D', edgecolor='none'))
+    ax.text(7.0, 4.55, 'gordura VIÁVEL / purificada', fontsize=9, color='#E65100',
+            fontweight='bold', va='center')
+    ax.text(7.0, 4.22, '→ UTILIZAR', fontsize=9, color='#2E7D32',
+            fontweight='bold', va='center')
+    # Layer 3 (bottom) — blood + tumescent
+    ax.add_patch(mpatches.Rectangle((5.32, 3.52), 1.36, 0.56, facecolor='#EF5350', edgecolor='none'))
+    ax.text(7.0, 3.85, 'fração aquosa/sanguínea', fontsize=8.5, color='#B71C1C',
+            fontweight='bold', va='center')
+    ax.text(7.0, 3.62, '→ descartar', fontsize=8, color='#C62828',
+            fontstyle='italic', va='center')
+
+    # Arrow to panel 3
+    draw_arrow(ax, 9.0, 4.5, 9.8, 4.5)
+
+    # === PANEL 3: INJECTION ===
+    ax.text(10.8, 6.3, '3. INJEÇÃO', ha='center', fontsize=11, fontweight='bold', color='#2E7D32')
+    ax.add_patch(mpatches.Rectangle((10.2, 4.5), 1.2, 1.3, facecolor='#FFF3E0',
+                                     edgecolor='#E65100', lw=1.5))
+    ax.plot([10.8, 10.8], [4.5, 3.5], color='#37474F', lw=2.5)
+    # Multiple tunnels radiating
+    for ang in [-60, -30, 0, 30, 60]:
+        import math
+        x_end = 10.8 + 0.8 * math.sin(math.radians(ang))
+        y_end = 3.5 - 0.8 * math.cos(math.radians(ang))
+        ax.plot([10.8, x_end], [3.5, y_end], color='#FFB74D', lw=1.2, alpha=0.7)
+
+    note3 = ('Microcânulas Coleman\n1,5–2,0 mm\n\n'
+             'Alíquotas 0,1 mL/passagem\nmúltiplos túneis 3D\n\n'
+             'Sobrecorreção 20–30%\n(reabsorção 30–70%)')
+    ax.text(10.8, 1.5, note3, ha='center', va='center', fontsize=8,
+            bbox=dict(boxstyle='round,pad=0.3', facecolor='#E8F5E9', edgecolor='#2E7D32'))
+
+    # Footer — variants
+    footer = ('Variantes: nanofat (emulsão SVF intradérmico) · microfat (subdérmico fino) · '
+              'sistemas comerciais fechados (Revolve, Puregraft)')
+    ax.text(6.0, 0.25, footer, ha='center', va='center', fontsize=8,
+            fontstyle='italic', color='#455A64')
+
+    save(fig, 'lipoaspiracao', 'lipo-tec-lipoenxertia-coleman.png')
+
+
 if __name__ == '__main__':
     print("Gerando diagramas esquemáticos...\n")
 
@@ -1031,5 +1359,11 @@ if __name__ == '__main__':
     lipo_comparativo_tecnologias()
     lipo_hdbs_marcacao()
     lipo_safe_tempos()
+    lipo_canulas_por_regiao()
+    lipo_ual_vaser()
+    lipo_pal_oscilacao()
+    lipo_lal_laser()
+    lipo_rfal_bodytite()
+    lipo_lipoenxertia_coleman()
 
     print("\nDiagramas gerados com sucesso!")
