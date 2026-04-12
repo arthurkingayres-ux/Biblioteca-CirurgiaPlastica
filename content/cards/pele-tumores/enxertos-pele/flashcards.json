@@ -1,0 +1,194 @@
+{
+  "id": "enxp-fc-001",
+  "type": "flashcard",
+  "topic": "enxertos-pele",
+  "area": "pele-tumores",
+  "cards": [
+    {
+      "front": "Qual é a espessura da epiderme em áreas finas da pele?",
+      "back": "0,05–0,1 mm",
+      "citation": "Neligan, 2023, vol. 1, cap. 19",
+      "domain": "anatomia"
+    },
+    {
+      "front": "Qual é a espessura da epiderme na planta do pé?",
+      "back": "Até 1,5 mm",
+      "citation": "Neligan, 2023, vol. 1, cap. 19",
+      "domain": "anatomia"
+    },
+    {
+      "front": "Qual é a espessura da derme em diferentes regiões do corpo?",
+      "back": "1–4 mm conforme a região",
+      "citation": "Neligan, 2023, vol. 1, cap. 19",
+      "domain": "anatomia"
+    },
+    {
+      "front": "Quanto tempo dura a fase de imbibição plasmática na pega do enxerto?",
+      "back": "24–48 horas",
+      "citation": "Neligan, 2023, vol. 1, cap. 19",
+      "domain": "fisiopatologia"
+    },
+    {
+      "front": "Em que dias ocorre a fase de inosculação na pega do enxerto?",
+      "back": "Dias 2–3",
+      "citation": "Neligan, 2023, vol. 1, cap. 19",
+      "domain": "fisiopatologia"
+    },
+    {
+      "front": "Em que dias ocorre a revascularização neoangiogênica na pega do enxerto?",
+      "back": "Dias 4–7",
+      "citation": "Neligan, 2023, vol. 1, cap. 19",
+      "domain": "fisiopatologia"
+    },
+    {
+      "front": "Qual é o percentual de contratura secundária de STSG fino?",
+      "back": "Até 40%",
+      "citation": "Grabb & Smith, 2024, cap. 3",
+      "domain": "complicacao"
+    },
+    {
+      "front": "Qual é o percentual de contratura secundária de STSG espesso?",
+      "back": "Cerca de 20%",
+      "citation": "Grabb & Smith, 2024, cap. 3",
+      "domain": "complicacao"
+    },
+    {
+      "front": "Qual é o percentual de contratura secundária de FTSG?",
+      "back": "Menor que 10%",
+      "citation": "Grabb & Smith, 2024, cap. 3",
+      "domain": "complicacao"
+    },
+    {
+      "front": "Qual é a espessura de STSG colhido com dermátomo?",
+      "back": "0,008–0,018 polegada (tipicamente 0,012 pol = 0,3 mm)",
+      "citation": "Neligan, 2023, vol. 1, cap. 19",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Qual é o fator de ampliação de área com meshing 1,5×?",
+      "back": "1,5 vezes a área original",
+      "citation": "Neligan, 2023, vol. 1, cap. 19",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Qual é o fator de ampliação de área com meshing 2×?",
+      "back": "2 vezes a área original",
+      "citation": "Neligan, 2023, vol. 1, cap. 19",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Qual é o fator de ampliação de área com meshing 3×?",
+      "back": "3 vezes a área original",
+      "citation": "Neligan, 2023, vol. 1, cap. 19",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Por quanto tempo deve ser mantido o bolster (tie-over dressing)?",
+      "back": "5–7 dias",
+      "citation": "Neligan Core Procedures, 2020",
+      "domain": "pos-operatorio"
+    },
+    {
+      "front": "Em que ano Reverdin descreveu os primeiros enxertos de pele?",
+      "back": "1869 (pequenos enxertos epidérmicos)",
+      "citation": "Neligan, 2023, vol. 1, cap. 19",
+      "domain": "anatomia"
+    },
+    {
+      "front": "Em que ano Ollier e Thiersch descreveram enxertos finos de pele parcial?",
+      "back": "1872",
+      "citation": "Neligan, 2023, vol. 1, cap. 19",
+      "domain": "anatomia"
+    },
+    {
+      "front": "Em que ano Blair e Brown sistematizaram os enxertos pela espessura (intermediate split-thickness)?",
+      "back": "1929",
+      "citation": "Neligan, 2023, vol. 1, cap. 19",
+      "domain": "anatomia"
+    },
+    {
+      "front": "Em que ano Padgett introduziu o dermátomo elétrico?",
+      "back": "1939",
+      "citation": "Neligan, 2023, vol. 1, cap. 19",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Qual percentual de CBC apresenta-se em áreas fotoexpostas da face?",
+      "back": "Maior que 80%",
+      "citation": "Neligan, 2023, vol. 1, cap. 19",
+      "domain": "anatomia"
+    },
+    {
+      "front": "Liste as cinco causas clássicas de falha de enxerto (mnemônico HIST-I)?",
+      "back": "Hematoma, Infeccao, Seroma, Tensao/cisalhamento, Inadequacao do leito",
+      "citation": "Grabb & Smith, 2024, cap. 3",
+      "domain": "complicacao"
+    },
+    {
+      "front": "Qual é a espessura mínima do dermátomo em polegadas?",
+      "back": "0,008 polegada",
+      "citation": "Neligan, 2023, vol. 1, cap. 19",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Qual é a espessura máxima do dermátomo em polegadas?",
+      "back": "0,018 polegada",
+      "citation": "Neligan, 2023, vol. 1, cap. 19",
+      "domain": "tecnica"
+    },
+    {
+      "front": "O que diferencia conceitualmente enxerto de retalho?",
+      "back": "Enxerto nao possui pedículo vascular próprio; retalho leva consigo sua própria irrigação",
+      "citation": "Neligan, 2023, vol. 1, cap. 19; Grabb & Smith, 2024, cap. 3",
+      "domain": "decisao"
+    },
+    {
+      "front": "Qual tipo de enxerto inclui epiderme e toda a derme?",
+      "back": "FTSG (Full-Thickness Skin Graft)",
+      "citation": "Neligan, 2023, vol. 1, cap. 19",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Qual tipo de enxerto inclui epiderme e parte da derme?",
+      "back": "STSG (Split-Thickness Skin Graft)",
+      "citation": "Neligan, 2023, vol. 1, cap. 19",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Em que regiões faciais o FTSG é preferível para reconstrução oncológica?",
+      "back": "Dorso nasal, paredes laterais, alas e lóbulo auricular",
+      "citation": "Neligan, 2023, vol. 1, cap. 19",
+      "domain": "decisao"
+    },
+    {
+      "front": "Qual é o sítio doador de FTSG ideal para defeitos nasais?",
+      "back": "Pre- e retroauricular (match excelente para nariz e bochecha)",
+      "citation": "Neligan, 2023, vol. 1, cap. 19",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Qual é o sítio doador de FTSG com melhor match de cor para face?",
+      "back": "Supraclavicular",
+      "citation": "Neligan, 2023, vol. 1, cap. 19",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Qual é o sítio doador de FTSG ideal para a pálpebra?",
+      "back": "Pálpebra superior (match fino, sobra mínima)",
+      "citation": "Neligan, 2023, vol. 1, cap. 19",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Em que situação o enxerto nunca deve ser meshado na face?",
+      "back": "FTSG nunca é meshado em face",
+      "citation": "Neligan, 2023, vol. 1, cap. 19",
+      "domain": "tecnica"
+    }
+  ],
+  "tags": [
+    "flashcard",
+    "enxertos-pele",
+    "pele-tumores",
+    "cirurgia-plastica"
+  ]
+}

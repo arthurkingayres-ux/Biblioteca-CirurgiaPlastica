@@ -1,0 +1,176 @@
+[
+  {
+    "id": "excm-tec-001",
+    "type": "technique",
+    "title": "Excisão Ampliada de Melanoma",
+    "aliases": [],
+    "topic": "principios-excisao-margens",
+    "area": "pele-tumores",
+    "indication": "Melanoma invasivo com Breslow conhecido pela biópsia prévia",
+    "contraindication": "Diagnóstico ainda não confirmado; melanoma metastático sem discussão multidisciplinar",
+    "steps": [
+      "1. Marcar cicatriz da biópsia prévia como centro",
+      "2. Medir margem radial conforme Breslow: 1 cm se ≤1,0 mm; 1–2 cm se 1,01–2,0 mm; 2 cm se >2,0 mm",
+      "3. Planejar elipse seguindo RSTL",
+      "4. Incisar até a fáscia muscular na maioria dos sítios (exceto face e áreas anatômicas críticas, onde se respeita a profundidade segura)",
+      "5. Marcar polo superior e lateral com tinta de cor diferente para orientação tridimensional",
+      "6. Se for feita biópsia de linfonodo sentinela, realizá-la antes da excisão ampliada (preserva drenagem linfática)",
+      "7. Fechar por primeira intenção se possível; caso contrário, enxerto de espessura total (FTSG) — melhor opção para melanoma pela facilidade de vigilância e cobertura em camada única",
+      "8. Encaminhar para oncologia clínica se T2b ou maior (discussão de terapia adjuvante)"
+    ],
+    "complications": [
+      "Margem profunda inadequada",
+      "Biópsia prévia shave que subestimou o Breslow (resultado em nova excisão mais ampla após histologia definitiva)",
+      "Omissão de linfonodo sentinela"
+    ],
+    "pearls": [
+      "Biópsia de linfonodo sentinela deve preceder a excisão ampliada para preservar drenagem linfática",
+      "FTSG é preferível em melanoma para facilitar vigilância e cobertura uniforme",
+      "Respeitar profundidade segura em face e áreas anatômicas críticas"
+    ],
+    "images": [],
+    "citations": [
+      "NCCN Melanoma Guidelines",
+      "AJCC 8ª ed."
+    ],
+    "updates": [],
+    "tags": [
+      "tecnica",
+      "excisao",
+      "melanoma",
+      "margem-cirurgica",
+      "oncologia-pele",
+      "breslow"
+    ]
+  },
+  {
+    "id": "excm-tec-004",
+    "type": "technique",
+    "title": "Orientação da Peça e Comunicação com o Patologista",
+    "aliases": [],
+    "topic": "principios-excisao-margens",
+    "area": "pele-tumores",
+    "indication": "Obrigatório em toda excisão oncológica",
+    "contraindication": "Nenhuma",
+    "steps": [
+      "1. Marcar polo superior (12 h) com fio de seda curto antes de liberar a peça do leito — padronizar em todo serviço",
+      "2. Para orientação tridimensional adicional: aplicar tinta nanquim em cores (ex.: azul lateral, verde medial, vermelho profundo)",
+      "3. Anexar ao pedido de patologia um diagrama com a orientação das margens e topografia anatômica",
+      "4. Identificar a técnica usada no pedido: excisão elíptica com margem clínica de X mm; solicitar avaliação de margens laterais (4 pontos cardinais) e margem profunda; informar invasão perineural, vascular, subtipo histológico",
+      "5. Pedir avaliação de margem específica em lesões de alto risco (ex.: CBC morfeiforme: avaliar especificamente extensão morfeiforme além das margens clínicas)",
+      "6. Para melanoma: solicitar Breslow, Clark, ulceração, índice mitótico/mm², regressão, satelitose microscópica e margens"
+    ],
+    "complications": [
+      "Reexcisão cega por perda de orientação",
+      "Laudo incompleto por pedido genérico",
+      "Peça esmagada por pinçamento excessivo"
+    ],
+    "pearls": [
+      "Padronizar marcação de polo superior em todo serviço para consistência",
+      "Usar código de cores nanquim para orientação tridimensional completa",
+      "Anexar diagrama esquemático ao pedido de patologia",
+      "Solicitar avaliação específica de margens em lesões de alto risco",
+      "Para melanoma, solicitar múltiplos parâmetros prognósticos além das margens"
+    ],
+    "images": [],
+    "citations": [
+      "Neligan, 2023, vol. 1, Skin/Tumors; Practical Facial Reconstruction"
+    ],
+    "updates": [],
+    "tags": [
+      "tecnica",
+      "orientacao-peca",
+      "comunicacao-patologista",
+      "excisao-oncologica",
+      "margens-cirurgicas",
+      "melanoma",
+      "carcinoma-basocelular"
+    ]
+  },
+  {
+    "id": "excm-tec-005",
+    "type": "technique",
+    "title": "Cirurgia Micrográfica de Mohs (MMS) — Princípios",
+    "aliases": [
+      "MMS",
+      "Mohs Micrographic Surgery"
+    ],
+    "topic": "principios-excisao-margens",
+    "area": "pele-tumores",
+    "indication": "Critérios Mohs AUC (tumores de pele em áreas críticas, especialmente zona H facial, com risco de recorrência ou margens indefinidas)",
+    "contraindication": "Tumor claramente de baixo risco fora de zona H quando acesso à técnica é limitado",
+    "steps": [
+      "1. Excisão do tumor visível com margem estreita (1-2 mm)",
+      "2. Mapeamento bidimensional da peça com coloração de tinta em quadrantes",
+      "3. Realização de cortes horizontais (en face) congelados para avaliação de 100% da margem lateral e profunda",
+      "4. Se margem positiva em algum setor, realizar re-excisão orientada apenas daquele setor",
+      "5. Repetir etapas 3-4 até confirmação de margens livres em todos os cortes",
+      "6. Planejamento e execução do reparo após confirmação de margens negativas (em mesma sessão ou diferida)"
+    ],
+    "complications": [],
+    "pearls": [
+      "Avalia >99% da margem cirúrgica versus <1% em corte de parafina convencional (breadloafing)",
+      "Preserva máximo de tecido sadio ao retirar apenas o necessário por setor",
+      "Técnica indispensável em face centrofacial por vantagem reconstrutiva",
+      "Exige laboratório acoplado e dermatopatologia treinada",
+      "Dificuldade técnica no melanoma devido à coloração de congelado"
+    ],
+    "images": [],
+    "citations": [
+      "Mohs AUC, AAD/ACMS",
+      "Neligan, 2023, vol. 1"
+    ],
+    "updates": [],
+    "tags": [
+      "tecnica",
+      "mohs",
+      "cirurgia-micrografica",
+      "margens-cirurgicas",
+      "excisao-tumoral",
+      "pele",
+      "oncologia-dermatologica"
+    ]
+  },
+  {
+    "id": "excm-tec-006",
+    "type": "technique",
+    "title": "Re-excisão por Margem Comprometida",
+    "aliases": [],
+    "topic": "principios-excisao-margens",
+    "area": "pele-tumores",
+    "indication": "Margem positiva ou margem próxima (<1 mm em CBC/CEC, <2 mm em melanoma) em corte permanente",
+    "contraindication": "Margem negativa adequada (não re-excisar por via das dúvidas)",
+    "steps": [
+      "1. Revisar laudo: qual setor (superior, inferior, medial, lateral, profundo) está comprometido",
+      "2. Cruzar com a orientação da peça original (fio de 12 h e diagrama)",
+      "3. Programar nova excisão em 4–6 semanas — antes dificulta pela inflamação, depois pela fibrose",
+      "4. Margem da re-excisão: excisão padrão adicional (4 mm) a partir da cicatriz anterior em CBC/CEC; excisão da cicatriz toda com margem adicional conforme Breslow em melanoma",
+      "5. Considerar Mohs para re-excisão em zona H ou histologia agressiva",
+      "6. Orientar nova peça com fio e diagrama"
+    ],
+    "complications": [
+      "Re-excisão cega por perda de orientação",
+      "Recidiva por atraso >8 semanas"
+    ],
+    "pearls": [
+      "Intervalo ideal de 4–6 semanas entre excisão inicial e re-excisão para evitar inflamação e fibrose",
+      "Sempre correlacionar achados histopatológicos com diagrama e orientação da peça original"
+    ],
+    "images": [],
+    "citations": [
+      "NCCN Guidelines",
+      "Neligan Core Procedures, 2020"
+    ],
+    "updates": [],
+    "tags": [
+      "tecnica",
+      "re-excisao",
+      "margem-comprometida",
+      "tumores-pele",
+      "cbc",
+      "cec",
+      "melanoma",
+      "cirurgia-oncologica"
+    ]
+  }
+]

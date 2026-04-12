@@ -1,0 +1,138 @@
+[
+  {
+    "id": "enxp-tec-001",
+    "type": "technique",
+    "title": "Técnica STSG (Split-Thickness Skin Graft)",
+    "aliases": [
+      "Split-Thickness Skin Graft",
+      "Enxerto de Pele de Espessura Parcial"
+    ],
+    "topic": "enxertos-pele",
+    "area": "pele-tumores",
+    "indication": "Cobertura de grandes áreas (queimadura, defeito pós-desbridamento de tronco/extremidades, sítio doador de retalho como radial antebraço), sítios não-estéticos, leito receptor marginalmente vascularizado (STSG fino pega melhor que FTSG em leito duvidoso)",
+    "contraindication": "Áreas estéticas onde FTSG ou retalho é factível; articulações (contratura secundária inaceitável) — nestas, preferir FTSG ou retalho",
+    "steps": [
+      "1. Posicionamento: paciente em decúbito que exponha o sítio doador (coxa lateral = decúbito dorsal com rotação externa discreta; glúteo = decúbito ventral)",
+      "2. Preparo do sítio doador: antissepsia, infiltração subcutânea de solução tumescente (soro + vasoconstritor, opcionalmente com anestésico local) para firmar a pele e reduzir sangramento",
+      "3. Escolha do dermátomo e espessura: dermátomo elétrico (Zimmer, Padgett) calibrado em 0,010–0,015 polegada (0,25–0,38 mm) para uso geral; 0,008 pol em idosos e áreas pouco densas em anexos; 0,018 pol quando maior derme desejada. Largura da lâmina de 3 a 10 cm conforme defeito",
+      "4. Lubrificação: aplicar óleo mineral ou vaselina líquida no sítio doador para o dermátomo deslizar sem aderir",
+      "5. Colheita: posicionar o dermátomo em 30–45° ao plano da pele, avançar com pressão constante e velocidade uniforme; assistente traciona a pele à frente e atrás da lâmina. Na extremidade distal, elevar o ângulo para cortar",
+      "6. Inspeção do enxerto: aparência típica é de lâmina contínua, branca-amarelada, com brilho molhado e superfície profunda com pontilhado sanguíneo (plexo subdérmico exposto). Guardar em soro fisiológico gelado até uso",
+      "7. Meshing (opcional): passar o enxerto por dispositivo de malhagem (Zimmer Mesh Graft) em proporção 1:1,5 (mais comum em face e áreas visíveis), 1:2 (tronco), 1:3 (queimado grande). Meshing aumenta área, permite drenagem, mas deixa padrão fishnet permanente",
+      "8. Aplicação no receptor: posicionar o enxerto com face epiderme para cima (lado brilhante ao ar); ancorar a borda com pontos simples 4-0 ou 5-0 reabsorvíveis, ou com grampos. Em áreas amplas, grampos são mais rápidos",
+      "9. Curativo do receptor: tela não-aderente + gaze + curativo compressivo; imobilização se articulação. Em grandes áreas de queimado, sistemas VAC (vacuum-assisted closure) melhoram contato e reduzem infecção",
+      "10. Curativo do sítio doador: cobertura com tela siliconada (Mepitel) + gaze ou com curativo hidrocoloide/espuma; trocar em 24–48h e manter até reepitelização completa (10–14 dias)",
+      "11. Revisão: 5–7 dias pós-op — abrir curativo receptor, inspecionar pega; em áreas meshadas, a ilha epidermiza os espaços por cicatrização secundária em 7–14 dias"
+    ],
+    "complications": [
+      "Falha por cisalhamento (área funcional com movimento; falta de imobilização)",
+      "Dor no sítio doador (queimaduras de 2º grau superficial ardem proporcionalmente à área)",
+      "Hipertrofia cicatricial do sítio doador (raça negra, crianças — usar pressoterapia profilática)",
+      "Descoloração permanente"
+    ],
+    "pearls": [
+      "Dermátomo elétrico deve ser calibrado precisamente conforme a espessura desejada",
+      "Solução tumescente firma a pele e reduz sangramento",
+      "Posicionar dermátomo em 30–45° ao plano da pele para melhor colheita",
+      "Aparência branca-amarelada com pontilhado sanguíneo indica enxerto apropriado",
+      "Meshing em proporção 1:1,5 indicado para face e áreas visíveis",
+      "Grampos são mais rápidos que pontos em áreas amplas",
+      "Sistemas VAC melhoram contato e reduzem infecção em grandes queimadas",
+      "Reepitelização do sítio doador completa em 10–14 dias"
+    ],
+    "images": [],
+    "citations": [
+      "Neligan, 2023, vol. 1, cap. 19",
+      "Operative Dictations"
+    ],
+    "updates": [],
+    "tags": [
+      "tecnica",
+      "enxerto-pele",
+      "stsg",
+      "split-thickness",
+      "queimadura",
+      "dermatomo",
+      "meshing",
+      "cirurgia-plastica"
+    ]
+  },
+  {
+    "id": "enxp-tec-003",
+    "type": "technique",
+    "title": "Técnica de Meshing",
+    "aliases": [],
+    "topic": "enxertos-pele",
+    "area": "pele-tumores",
+    "indication": "STSG em áreas extensas (queimado > 20% SCQ), grandes defeitos traumáticos, leitos com exsudato moderado que se beneficia de drenagem, situações em que a sobra doadora é limitada",
+    "contraindication": "face, mão, articulação — padrão 'fishnet' é permanente e antiestético",
+    "steps": [
+      "1. Separar o carrier de meshing apropriado à proporção (1:1,5 / 1:2 / 1:3)",
+      "2. Posicionar o STSG sobre o carrier com face derme voltada para o rolamento",
+      "3. Passar o conjunto pela máquina de meshing",
+      "4. Estender o enxerto meshado sobre o leito, abrindo os buracos do mesh — a abertura aumenta a área",
+      "5. Fixar com grampos ou suturas reabsorvíveis"
+    ],
+    "complications": [
+      "padrão cicatricial permanente (fishnet)",
+      "epitelização interinsular falhada se leito pobre (espaço entre ilhas não fecha)"
+    ],
+    "pearls": [
+      "a proporção do carrier determina o grau de expansão do enxerto",
+      "a abertura dos buracos do mesh aumenta a área de cobertura disponível"
+    ],
+    "images": [],
+    "citations": [
+      "Neligan, 2023, vol. 1, cap. 19",
+      "Grabb & Smith, 2024, cap. 3"
+    ],
+    "updates": [],
+    "tags": [
+      "tecnica",
+      "meshing",
+      "stsg",
+      "enxerto-pele",
+      "queimaduras",
+      "defeitos-traumaticos"
+    ]
+  },
+  {
+    "id": "enxp-tec-004",
+    "type": "technique",
+    "title": "Técnica com Substituto Dérmico em Dois Tempos",
+    "aliases": [
+      "Técnica Integra em dois tempos"
+    ],
+    "topic": "enxertos-pele",
+    "area": "pele-tumores",
+    "indication": "leito de má qualidade (osso sem periósteo, cartilagem sem pericôndrio, leito irradiado, grande defeito facial em paciente que recusa retalho)",
+    "contraindication": "infecção ativa do leito; urgência de cobertura definitiva",
+    "steps": [
+      "1. Primeiro tempo: desbridar leito, aplicar Integra (matriz de colágeno + silicone externo) suturada nas bordas, realizar curativo compressivo e manter por 2–3 semanas enquanto a matriz neovasculariza",
+      "2. Segundo tempo: remover a camada de silicone, aplicar STSG fino sobre a neoderme formada e realizar curativo padrão com pega excelente pela vascularização prévia"
+    ],
+    "complications": [
+      "infecção sob a matriz (perda do Integra, requer refazer)",
+      "custo elevado",
+      "necessidade de dois tempos cirúrgicos"
+    ],
+    "pearls": [
+      "A matriz neovasculariza durante 2–3 semanas no primeiro tempo",
+      "A pega do STSG é excelente no segundo tempo pela vascularização prévia da neoderme"
+    ],
+    "images": [],
+    "citations": [
+      "Neligan, 2023, vol. 1, cap. 20"
+    ],
+    "updates": [],
+    "tags": [
+      "tecnica",
+      "substituto-dermico",
+      "integra",
+      "dois-tempos",
+      "enxerto-pele",
+      "stsg",
+      "matriz-colageno"
+    ]
+  }
+]

@@ -46,5 +46,23 @@
     "topic": "ritidoplastia",
     "displayName": "Ritidoplastia (Facelift)",
     "status": "complete"
+  },
+  {
+    "area": "pele-tumores",
+    "topic": "retalhos-locais-face",
+    "displayName": "Retalhos Locais de Face",
+    "status": "complete"
+  },
+  {
+    "area": "pele-tumores",
+    "topic": "enxertos-pele",
+    "displayName": "Enxertos de Pele (FTSG e STSG)",
+    "status": "complete"
+  },
+  {
+    "area": "pele-tumores",
+    "topic": "principios-excisao-margens",
+    "displayName": "Princípios de Excisão e Margens",
+    "status": "complete"
   }
 ]

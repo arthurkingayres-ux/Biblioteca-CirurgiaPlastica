@@ -1,0 +1,30 @@
+{
+  "topic": "retalhos-locais-face",
+  "area": "pele-tumores",
+  "displayName": "Retalhos locais face",
+  "version": "v1.0",
+  "date": "2026-04-12",
+  "status": "draft",
+  "references": [
+    "Neligan PC (Ed.). Plastic Surgery, 5ª Ed. Elsevier, 2023. Vol. 1, Cap. 23: Flap classification and applications.",
+    "Neligan PC (Ed.). Plastic Surgery, 5ª Ed. Elsevier, 2023. Vol. 3, Cap. 1: Anatomy of the head and neck.",
+    "Neligan PC (Ed.). Plastic Surgery, 5ª Ed. Elsevier, 2023. Vol. 3, Cap. 6: Reconstruction of the lip.",
+    "Neligan PC (Ed.). Plastic Surgery, 5ª Ed. Elsevier, 2023. Vol. 3, Cap. 7: Reconstruction of the cheek.",
+    "Neligan PC (Ed.). Plastic Surgery, 5ª Ed. Elsevier, 2023. Vol. 3, Cap. 8: Reconstruction of the nose.",
+    "Neligan PC (Ed.). Plastic Surgery, 5ª Ed. Elsevier, 2023. Vol. 3, Cap. 9: Reconstruction of the eyelids.",
+    "Neligan PC (Ed.). Plastic Surgery, 5ª Ed. Elsevier, 2023. Vol. 3, Cap. 10: Reconstruction of the ear.",
+    "Janis JE, Rohrich RJ (Eds.). Grabb & Smith's Plastic Surgery, 9ª Ed. Wolters Kluwer, 2024. Cap. 35–42: Skin flaps, facial reconstruction.",
+    "Baker SR. Local Flaps in Facial Reconstruction, 3ª Ed. (referenciado via Practical Facial Reconstruction: Theory and Practice).",
+    "Taylor GI, Palmer JH. The Cutaneous Arteries of the Human Body. (anatomia do angiossoma e vascularização de retalhos randômicos e axiais)."
+  ],
+  "articles": [
+    "(A serem incorporadas via pipeline de varredura em ciclos posteriores.)"
+  ],
+  "cardCounts": {
+    "anatomia": 4,
+    "tecnicas": 4,
+    "decisoes": 2,
+    "notas": 13,
+    "flashcards": 36
+  }
+}

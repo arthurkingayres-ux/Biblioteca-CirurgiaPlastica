@@ -1,0 +1,148 @@
+[
+  {
+    "id": "enxp-anat-001",
+    "type": "anatomy",
+    "title": "Estrutura da Pele em Três Camadas",
+    "aliases": [],
+    "topic": "enxertos-pele",
+    "area": "pele-tumores",
+    "definition": "A pele é composta por epiderme (estrato córneo, lúcido, granuloso, espinhoso, basal — total 0,05–0,1 mm em áreas finas, até 1,5 mm na planta), derme (papilar superficial + reticular profunda, 1–4 mm conforme região) e hipoderme (tecido celular subcutâneo, gorduroso, não incluso no enxerto). A derme contém os anexos — folículos pilosos, glândulas sebáceas e sudoríparas, vasos do plexo subdérmico, terminações nervosas.",
+    "location": "A espessura total da pele varia com a região anatômica: pálpebra superior (0,5 mm, a mais fina), pós-auricular e retroauricular (0,8–1 mm), face geral (1–1,5 mm), pescoço e flexuras (1 mm), tronco (1,5–2 mm), costas e palma/planta (> 3 mm).",
+    "relations": [
+      "tecido celular subcutâneo",
+      "plexo subdérmico",
+      "folículos pilosos",
+      "glândulas sebáceas",
+      "glândulas sudoríparas",
+      "terminações nervosas"
+    ],
+    "surgical_relevance": "A quantidade de derme define contratura secundária, match estético (cor, textura, espessura), quantidade de anexos transferidos (glândulas sebáceas dão brilho e flexibilidade) e capacidade de suportar carga mecânica. Enxertos mais espessos precisam de leito receptor mais bem vascularizado para pegarem (maior volume exige maior suprimento nutritivo nas primeiras 48 horas). A dissecção do enxerto (FTSG) ocorre no plano subdérmico — imediatamente abaixo da derme reticular, preservando toda a derme e removendo gordura residual antes do implante.",
+    "how_to_identify": "O plano correto de dissecção do FTSG é visualmente reconhecível — a face profunda da derme aparece esbranquiçada e brilhante, sem gordura; se vier amarelada, há lóbulos gordurosos que precisam ser removidos com tesoura curva antes do implante.",
+    "images": [],
+    "citations": [
+      "Neligan, 2023, vol. 1, cap. 10",
+      "Grabb & Smith, 2024, cap. 3",
+      "Neligan, 2023, vol. 1, cap. 19"
+    ],
+    "updates": [],
+    "tags": [
+      "anatomia",
+      "pele",
+      "epiderme",
+      "derme",
+      "hipoderme",
+      "enxerto-ftsg",
+      "estrutura-cutanea"
+    ]
+  },
+  {
+    "id": "enxp-anat-002",
+    "type": "anatomy",
+    "title": "Plexos Vasculares Cutâneos",
+    "aliases": [],
+    "topic": "enxertos-pele",
+    "area": "pele-tumores",
+    "definition": "a pele é nutrida por três plexos interconectados — subdérmico (principal, logo abaixo da derme reticular, recebe perfurantes musculocutâneas e septocutâneas), dérmico (entre derme reticular e papilar) e subpapilar (abaixo da junção dermoepidérmica, responsável pelo rubor). No enxerto, o plexo subdérmico é o alvo da revascularização — os capilares do leito invadem pela superfície profunda do enxerto através deste plexo remanescente.",
+    "location": "subdérmico imediatamente abaixo da derme reticular; os outros dois plexos situam-se em profundidades progressivamente maiores na derme.",
+    "relations": [
+      "derme reticular",
+      "derme papilar",
+      "junção dermoepidérmica",
+      "leito receptor",
+      "perfurantes musculocutâneas",
+      "perfurantes septocutâneas"
+    ],
+    "surgical_relevance": "a integridade do plexo subdérmico no enxerto é condição necessária para a pega. A inosculação e a neoangiogênese nas fases 2 e 3 da pega ocorrem via plexo subdérmico — por isso o contato íntimo entre face profunda do enxerto e leito receptor é inegociável. Hematomas ou seromas criam interface líquida que bloqueia essa continuidade vascular. Se o enxerto for colhido muito fino (menor que 0,008 polegada), parte do plexo subdérmico é deixada no sítio doador, o que reduz a chance de pega no receptor em leitos marginais.",
+    "how_to_identify": "na inspeção do enxerto após colheita, o plexo subdérmico aparece como pontilhado sanguinolento na face profunda — enxertos colhidos corretamente sangram essa face quando comprimidos.",
+    "images": [],
+    "citations": [
+      "Taylor & Palmer; Neligan, 2023, vol. 1, cap. 19",
+      "Neligan, 2023, vol. 1, cap. 19",
+      "Taylor & Palmer, Cutaneous Arteries"
+    ],
+    "updates": [],
+    "tags": [
+      "anatomia",
+      "vasculatura-cutanea",
+      "plexos-vasculares",
+      "pega-enxerto",
+      "revascularizacao",
+      "cirurgia-plastica"
+    ]
+  },
+  {
+    "id": "enxp-anat-003",
+    "type": "anatomy",
+    "title": "Sítios Doadores de FTSG",
+    "aliases": [],
+    "topic": "enxertos-pele",
+    "area": "pele-tumores",
+    "definition": "áreas cutâneas onde a sobra de pele permite fechamento primário da ferida doadora após a colheita de uma elipse de pele total. A escolha depende de três critérios: (1) match de cor, textura e espessura com o sítio receptor; (2) sobra suficiente para fechamento primário sem distorção; (3) cicatriz final em localização camuflada.",
+    "location": "pálpebra superior, retroauricular, pós-auricular, supraclavicular, pré-auricular, prega nasolabial, virilha (prega inguinal), fossa antecubital, prega inframamária, sulco infraglúteo",
+    "relations": [
+      "pálpebra inferior",
+      "cantos mediais",
+      "dorso nasal",
+      "paredes laterais nasais",
+      "paraauricular",
+      "bochecha",
+      "pescoço anterior",
+      "defeitos faciais",
+      "ala nasal",
+      "columela",
+      "mão",
+      "dedo"
+    ],
+    "surgical_relevance": "a escolha errada do sítio doador é o erro mais comum e mais visível em FTSG de face — enxerto de virilha em dorso nasal produz mancha hiperpigmentada permanente. Regra prática: quanto mais próximo do receptor, melhor o match — para face, sempre tentar pálpebra, retroauricular ou supraclavicular antes de qualquer sítio distante.",
+    "how_to_identify": "pinch test do sítio candidato com paciente sentado — se a pele pinçada fecha sem tração visível em um volume correspondente ao defeito, a sobra é adequada. Marcar elipse com razão comprimento/largura mínima 3:1 para evitar dog-ear na sutura doadora.",
+    "images": [],
+    "citations": [
+      "Neligan, 2023, vol. 1, cap. 19",
+      "Grabb & Smith, 2024, cap. 3"
+    ],
+    "updates": [],
+    "tags": [
+      "anatomia",
+      "enxertos",
+      "ftsg",
+      "sitios-doadores",
+      "pele",
+      "cirurgia-plastica",
+      "reconstrucao-facial"
+    ]
+  },
+  {
+    "id": "enxp-anat-004",
+    "type": "anatomy",
+    "title": "Sítios Doadores de STSG",
+    "aliases": [],
+    "topic": "enxertos-pele",
+    "area": "pele-tumores",
+    "definition": "áreas cutâneas amplas com pele espessa o suficiente para tolerar remoção parcial (0,008–0,018 pol). O sítio doador reepiteliza espontaneamente em 10–14 dias a partir dos folículos pilosos remanescentes e das glândulas sudoríparas/sebáceas que permanecem na derme profunda não colhida.",
+    "location": "Coxa anterolateral e lateral (sítio padrão), glúteo, dorso (costas), abdômen inferior, flanco, braço e couro cabeludo. Ideal: superfície plana, ampla, lisa, sem pilificação densa, acessível em decúbito.",
+    "relations": [
+      "folículos pilosos",
+      "glândulas sudoríparas",
+      "glândulas sebáceas",
+      "derme profunda",
+      "articulações (evitar)",
+      "áreas sob pressão contínua (evitar)"
+    ],
+    "surgical_relevance": "A cor do STSG sempre será diferente do sítio receptor — 'toma a cor da coxa onde foi colhido'. Este é o limite estético clássico do STSG e o motivo pelo qual não se usa em face quando FTSG ou retalho é factível. Evitar articulações pelo risco de contratura cicatricial e áreas submetidas a pressão contínua.",
+    "how_to_identify": "Sítio ideal é plano, largo, liso, sem pilificação densa, acessível em decúbito. A coxa lateral em decúbito dorsal atende todos os critérios.",
+    "images": [],
+    "citations": [
+      "Neligan, 2023, vol. 1, cap. 19",
+      "Grabb & Smith, 2024, cap. 3"
+    ],
+    "updates": [],
+    "tags": [
+      "anatomia",
+      "stsg",
+      "sitios-doadores",
+      "enxertos",
+      "pele",
+      "cirurgia-plastica"
+    ]
+  }
+]

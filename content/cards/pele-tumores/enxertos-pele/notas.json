@@ -1,0 +1,437 @@
+[
+  {
+    "id": "enxp-nota-001",
+    "type": "note",
+    "title": "Synopsis",
+    "topic": "enxertos-pele",
+    "area": "pele-tumores",
+    "section": "synopsis",
+    "content": [
+      "Enxerto de pele é segmento cutâneo totalmente destacado do sítio doador, sem pedículo vascular próprio — sua sobrevivência depende inteiramente do leito receptor. Difere conceitualmente do retalho, que leva consigo a própria irrigação.",
+      "Duas categorias clínicas: FTSG (Full-Thickness Skin Graft — enxerto de pele total, que inclui epiderme + toda a derme) e STSG (Split-Thickness Skin Graft — enxerto de pele parcial, inclui epiderme + parte da derme). A diferença de espessura governa contratura secundária, match estético, necessidade de imobilização e capacidade de pega sobre leitos imperfeitos.",
+      "O 'take' (pega do enxerto) passa por três fases sequenciais: (1) imbibição plasmática (24–48h), em que o enxerto nutre-se por difusão do exsudato do leito; (2) inosculação (dias 2–3), em que vasos do enxerto e do leito alinham suas bocas; (3) revascularização neoangiogênica (dias 4–7), em que capilares do leito invadem o enxerto.",
+      "As cinco causas clássicas de falha do enxerto são (mnemônico 'HIST-I'): Hematoma, Infecção, Seroma, Tensão/cisalhamento e Inadequação do leito (osso sem periósteo, cartilagem sem pericôndrio, tendão sem paratendão, tecido irradiado, gordura pura).",
+      "Contratura secundária (pós-pega, por miofibroblastos do leito) é inversamente proporcional à quantidade de derme: STSG fino contrai até 40%, STSG espesso cerca de 20%, FTSG < 10%. Portanto FTSG é preferível em face, mãos, articulações e áreas onde contratura prejudica função ou estética.",
+      "Sítios doadores preferenciais de FTSG para face: pálpebra superior (match fino, sobra mínima), pré- e retroauricular (match excelente para nariz e bochecha), supraclavicular (melhor cor para face), prega nasolabial (pequenos defeitos nasais). Para tronco e extremidades: virilha, fossa antecubital, prega inframamária.",
+      "STSG é colhido com dermátomo (espessura de 0,008–0,018 polegada, tipicamente 0,012 pol = 0,3 mm) de coxa lateral, glúteo ou dorso. Meshing (malhagem) amplia área 1,5×, 2× ou 3×, permite drenagem de exsudato, mas deixa padrão 'fishnet' visível; FTSG nunca é meshado em face.",
+      "Imobilização por bolster ('tie-over dressing') ou curativo compressivo por 5–7 dias é mandatória: impede cisalhamento, encosta o enxerto no leito e evita acúmulo de fluido sob o enxerto.",
+      "Contraindicações absolutas: osso cortical exposto sem periósteo, cartilagem sem pericôndrio, tendão sem paratendão — nestes casos o enxerto não pega e requer retalho (local, regional ou livre) ou uso prévio de substituto dérmico (Integra)."
+    ],
+    "images": [],
+    "citations": [
+      "Neligan, 2023, vol. 1, cap. 19",
+      "Grabb & Smith, 2024, cap. 3",
+      "Neligan Core Procedures, 2020",
+      "Operative Dictations"
+    ],
+    "updates": [],
+    "tags": [
+      "synopsis",
+      "enxertos-pele",
+      "ftsg",
+      "stsg",
+      "pega-enxerto",
+      "contratura-secundaria",
+      "falha-enxerto",
+      "dermoplastia",
+      "reconstrucao-cutanea"
+    ]
+  },
+  {
+    "id": "enxp-nota-002",
+    "type": "note",
+    "title": "Introdução",
+    "topic": "enxertos-pele",
+    "area": "pele-tumores",
+    "section": "introducao",
+    "content": [
+      "Enxertos de pele são pilar da reconstrução cutânea desde Reverdin (1869, pequenos enxertos epidérmicos) e Ollier/Thiersch (1872, enxertos finos de pele parcial). A sistematização moderna pela espessura data de Blair e Brown (1929, intermediate split-thickness) e a introdução do dermátomo elétrico por Padgett (1939) tornaram o STSG reprodutível em escala.",
+      "No contexto do Dr. Arthur (residência de Cirurgia Plástica, R2, UNICAMP), três cenários concentram o uso de enxertos: (1) cobertura de defeitos após excisão de tumores cutâneos (especialmente CBC — Carcinoma Basocelular — e CEC — Carcinoma Espinocelular — em tronco, extremidades e áreas faciais em que retalho local não é factível); (2) cobertura de áreas cruentas pós-queimadura ou pós-desbridamento; (3) cobertura de sítios doadores de retalhos (ex.: radial antebraço) ou fasciotomias.",
+      "A decisão entre enxerto e retalho é sempre hierárquica na escada reconstrutiva (fechamento primário → cicatrização secundária → enxerto → retalho local → regional → livre): escolhe-se o degrau mais simples que cumpra os requisitos funcionais e estéticos. Na face, FTSG costuma ser o degrau acima do fechamento primário; na extremidade inferior e no tronco, STSG frequentemente basta.",
+      "A epidemiologia é dominada, no consultório e no centro cirúrgico de cirurgia plástica, pelos tumores cutâneos não melanoma (face fotoexposta > 80% dos CBC) e pelas queimaduras de segundo grau profundo e terceiro grau (indicação clássica de STSG). Em reconstrução oncológica de face, FTSG é preferido em dorso nasal, paredes laterais, alas e lóbulo auricular quando retalho local não estiver indicado ou for recusado pelo paciente."
+    ],
+    "images": [],
+    "citations": [
+      "Neligan, 2023, vol. 1, cap. 19",
+      "Neligan, 2023, vol. 4, cap. 18",
+      "Grabb & Smith, 2024, cap. 3",
+      "Grabb & Smith, 2024, cap. 3"
+    ],
+    "updates": [],
+    "tags": [
+      "introducao",
+      "enxertos-pele",
+      "reconstrucao-cutanea",
+      "tumores-cutaneos",
+      "cbc",
+      "cec",
+      "stsg",
+      "ftsg",
+      "escada-reconstrutiva",
+      "queimaduras"
+    ]
+  },
+  {
+    "id": "enxp-nota-003",
+    "type": "note",
+    "title": "Diagnosis / Patient Presentation",
+    "topic": "enxertos-pele",
+    "area": "pele-tumores",
+    "section": "diagnóstico",
+    "content": [
+      "Enxerto não é um diagnóstico, é um procedimento; a avaliação diagnóstica refere-se ao defeito a cobrir e ao doador candidato.",
+      "Avaliação do defeito (receptor): tamanho em cm², profundidade (pele total × subcutâneo × músculo × osso/cartilagem/tendão), sítio anatômico (face × tronco × extremidade × área funcional × pregas), condição do leito (bem vascularizado, granulação, contaminação, radiado, isquêmico).",
+      "Avaliação do paciente: idade com consideração de reepitelização mais lenta em idosos, comorbidades (diabetes, tabagismo ativo, uso de corticoide, doença vascular periférica, imunossupressão), estado nutricional (albumina, hemoglobina), expectativa estética.",
+      "Avaliação do sítio doador candidato: disponibilidade de sobra de pele, match de cor/textura/pilificação com o receptor, localização da cicatriz doadora, cicatrizes prévias.",
+      "Avaliação de tumor/lesão prévia: margens de ressecção confirmadas por patologia (preferencialmente — enxerto sobre leito oncologicamente incerto atrapalha vigilância e reintervenção).",
+      "Exame físico dirigido no pré-operatório: pinch test do sítio doador, avaliação de pulsos distais em defeitos de extremidade, inspeção do leito (granulação vermelha, brilhante, sem fibrina indica leito pronto; fibrina aderida ou granulação pálida requer desbridamento ou uso de substituto dérmico antes)."
+    ],
+    "images": [],
+    "citations": [
+      "Documento RAG — enxertos-pele"
+    ],
+    "updates": [],
+    "tags": [
+      "diagnostico",
+      "enxertos",
+      "pele",
+      "avaliacao-preoperatoria",
+      "defeito-receptor",
+      "sítio-doador",
+      "exame-fisico"
+    ]
+  },
+  {
+    "id": "enxp-nota-004",
+    "type": "note",
+    "title": "Patient Selection",
+    "topic": "enxertos-pele",
+    "area": "pele-tumores",
+    "section": "seleção",
+    "content": [
+      "Enxerto é indicado quando o defeito é grande demais para fechamento primário sem distorção de landmarks, o leito receptor é adequado (granulação saudável, periósteo/pericôndrio/paratendão íntegros ou músculo/fáscia expostos), não há indicação de retalho e estética aceita cicatriz pachy.",
+      "Enxerto também é indicado quando a urgência cirúrgica impede retalho mais elaborado, como em casos de grande queimado ou desbridamento de fasceíte.",
+      "FTSG apresenta excelente match estético (cor/textura), contratura secundária < 10%, baixa tolerância a leito marginal (exige leito ótimo), área máxima prática de 5–10 cm², indicado para face, mão, dedo e articulação, com fechamento do sítio doador primário.",
+      "STSG apresenta ruim match estético, contratura secundária de 20–40%, alta tolerância a leito marginal (aceita leito bom), área ilimitada (meshing permite até 3×), indicado para tronco, extremidades e sítios doadores de retalho, com fechamento do sítio doador por segunda intenção.",
+      "Regra prática: FTSG em face e áreas funcionais; STSG em tronco, extremidades e grandes áreas. Em queimado, STSG meshado é a regra geral para agilizar cobertura de grandes superfícies.",
+      "Contraindicações absolutas ao enxerto de pele que exigem retalho ou substituto dérmico prévio: osso cortical exposto sem periósteo (ausência de plexo vascular), cartilagem sem pericôndrio, tendão sem paratendão (risco de aderência e perda de deslizamento) e grandes vasos ou nervos expostos (risco de ruptura/neurite).",
+      "Contraindicações relativas que reduzem taxa de pega e exigem otimização: leito irradiado (considerar substituto dérmico + STSG em dois tempos ou retalho), leito infectado > 10⁵ UFC/g (desbridar e postergar enxerto 3–5 dias), tabagismo ativo (reduzir para 0 cigarros 4 semanas pré e pós-operatório), diabetes descompensada (HbA1c < 7%), uso crônico de corticoide > 10 mg prednisona/dia (considerar pausa se clinicamente possível).",
+      "Substitutos dérmicos (Integra, Matriderm, Alloderm) são indicados quando o leito é inadequado para enxerto direto e retalho não é factível. Utiliza-se substituto dérmico em primeiro tempo (2–3 semanas para neovascularização da matriz) seguido de STSG em segundo tempo, trocando morbidade por tempo."
+    ],
+    "images": [],
+    "citations": [
+      "Grabb & Smith, 2024, cap. 3",
+      "Neligan, 2023, vol. 4, cap. 18",
+      "Neligan, 2023, vol. 1, cap. 20"
+    ],
+    "updates": [],
+    "tags": [
+      "selecao",
+      "enxerto-pele",
+      "ftsg",
+      "stsg",
+      "indicacoes",
+      "contraindicacoes",
+      "substitutos-dermicos",
+      "queimados",
+      "cicatrizacao"
+    ]
+  },
+  {
+    "id": "enxp-nota-005",
+    "type": "note",
+    "title": "Enxerto (FTSG ou STSG) no Sítio Receptor",
+    "topic": "enxertos-pele",
+    "area": "pele-tumores",
+    "section": "pós-operatorio",
+    "content": [
+      "Bolster (FTSG) ou curativo compressivo (STSG): manter por 5–7 dias sem tocar, mexer ou molhar. A imobilidade é inegociável — qualquer cisalhamento nas primeiras 72h interrompe inosculação.",
+      "Imobilização adicional: tala gessada ou ortose se articulação adjacente; restrição de atividade proporcional ao sítio.",
+      "Abertura do curativo (dia 5–7): remover fios do bolster ou curativo externo; inspecionar enxerto — róseo e aderido indica pega boa; áreas enegrecidas indicam necrose parcial; coleção sob o enxerto (hematoma/seroma) deve ser drenada por aspiração ou pequena incisão com refazimento de curativo.",
+      "Após a primeira revisão: trocas de curativo a cada 3–5 dias com tela não-aderente até cicatrização completa (2–3 semanas).",
+      "Hidratação e proteção solar: aplicar emoliente (hidratante neutro) a partir da 2ª–3ª semana; utilizar protetor solar (FPS 50+) por no mínimo 12 meses — enxerto hiperpigmenta com exposição solar precoce.",
+      "Massagem e pressoterapia: iniciar após 3 semanas, massagem circular com hidratante 2–3×/dia por 10 minutos; em sítios propensos a hipertrofia (jovens, raça negra, área de tensão), pressoterapia com fita de silicone ou placa de silicone 12–24h/dia por 3–6 meses."
+    ],
+    "images": [],
+    "citations": [
+      "Documento RAG — enxertos-pele"
+    ],
+    "updates": [],
+    "tags": [
+      "pos-operatorio",
+      "enxerto-pele",
+      "ftsg",
+      "stsg",
+      "curativo",
+      "bolster",
+      "inosculacao",
+      "cicatrizacao",
+      "hipertrofia",
+      "pressoterapia",
+      "protecao-solar"
+    ]
+  },
+  {
+    "id": "enxp-nota-006",
+    "type": "note",
+    "title": "Sítio Doador de FTSG",
+    "topic": "enxertos-pele",
+    "area": "pele-tumores",
+    "section": "pós-operatório",
+    "content": [
+      "Curativo simples com fita adesiva microporosa e gaze sobre sutura primária, com troca conforme necessário para limpeza.",
+      "Remoção de pontos: 5–7 dias em face, 10–14 dias em tronco e extremidade.",
+      "Proteção solar da cicatriz por 12 meses."
+    ],
+    "images": [],
+    "citations": [
+      "Documento RAG — enxertos-pele"
+    ],
+    "updates": [],
+    "tags": [
+      "pos-operatorio",
+      "ftsg",
+      "sitio-doador",
+      "curativo",
+      "cicatrizacao",
+      "protecao-solar"
+    ]
+  },
+  {
+    "id": "enxp-nota-007",
+    "type": "note",
+    "title": "Sítio Doador de STSG",
+    "topic": "enxertos-pele",
+    "area": "pele-tumores",
+    "section": "pós-operatório",
+    "content": [
+      "Cobertura oclusiva com tela siliconada (Mepitel) ou hidrocoloide/espuma por todo o período de reepitelização.",
+      "Evitar gaze seca direta sobre o sítio — adere e rasga a neoepiderme ao remover.",
+      "Reepitelização em 10–14 dias para espessura 0,012 pol.",
+      "Dor no sítio doador costuma ser maior que no receptor — prescrever analgesia adequada (tramadol se dor moderada, opioide fraco em grandes áreas).",
+      "Hidratação após reepitelização; protetor solar por 12 meses; pressoterapia profilática em pacientes de risco para hipertrofia."
+    ],
+    "images": [],
+    "citations": [
+      "Documento RAG — enxertos-pele"
+    ],
+    "updates": [],
+    "tags": [
+      "pos-operatorio",
+      "sítio-doador",
+      "stsg",
+      "reepitelizacao",
+      "cobertura-oclusiva",
+      "analgesia",
+      "protetor-solar"
+    ]
+  },
+  {
+    "id": "enxp-nota-008",
+    "type": "note",
+    "title": "Orientação ao Paciente",
+    "topic": "enxertos-pele",
+    "area": "pele-tumores",
+    "section": "pós-operatório",
+    "content": [
+      "Sinais de alarme: dor crescente após 72h, secreção purulenta, febre, descolamento do enxerto, odor fétido — contatar equipe imediatamente.",
+      "Atividade: restrição conforme sítio; evitar exposição solar direta do enxerto e do sítio doador por 12 meses; hidratação sistêmica adequada; parar tabagismo (reiterar).",
+      "Expectativa realista: enxerto nunca terá o mesmo aspecto da pele adjacente — haverá diferença de cor, textura e sensibilidade permanentes. Em face, o match estético melhora nos primeiros 6–12 meses conforme reinerva e ajusta pigmentação, mas nunca será invisível; informar o paciente no pré-operatório."
+    ],
+    "images": [],
+    "citations": [
+      "Documento RAG — enxertos-pele"
+    ],
+    "updates": [],
+    "tags": [
+      "pos-operatorio",
+      "sinais-alarme",
+      "enxerto-pele",
+      "orientacao-paciente",
+      "expectativa-estetica",
+      "protecao-solar",
+      "complicacoes"
+    ]
+  },
+  {
+    "id": "enxp-nota-009",
+    "type": "note",
+    "title": "Falha de Pega (Hematoma, Seroma, Infecção, Cisalhamento)",
+    "topic": "enxertos-pele",
+    "area": "pele-tumores",
+    "section": "complicacoes",
+    "content": [
+      "Incidência de 5–15% em cenário otimizado, com maior prevalência em leitos radiados, infectados, em diabéticos descompensados ou tabagistas.",
+      "Prevenção através de hemostasia meticulosa do leito antes do implante, pie-crusting adequado, bolster/curativo compressivo uniforme, imobilização rigorosa, antissepsia perioperatória e controle de comorbidades.",
+      "Diagnóstico realizado na revisão do dia 5–7 mediante avaliação de enxerto branco/acinzentado/enegrecido (necrose), enxerto mole e flutuante (coleção por baixo), secreção purulenta (infecção) ou enxerto deslocado (cisalhamento).",
+      "Manejo de perda parcial: desbridamento conservador da área necrosada, seguido de cicatrização secundária se pequena ou re-enxertia se grande. Perda total: desbridamento, otimização do leito com possível substituto dérmico, re-enxertia em 2–3 semanas. Infecção: cultura, antibioticoterapia dirigida e desbridamento cirúrgico."
+    ],
+    "images": [],
+    "citations": [
+      "Grabb & Smith, 2024, cap. 3"
+    ],
+    "updates": [],
+    "tags": [
+      "complicacoes",
+      "falha-de-pega",
+      "hematoma",
+      "seroma",
+      "infeccao",
+      "cisalhamento",
+      "enxerto-pele",
+      "prevencao",
+      "diagnostico",
+      "manejo"
+    ]
+  },
+  {
+    "id": "enxp-nota-010",
+    "type": "note",
+    "title": "Contratura Secundária e Cicatrização Hipertrófica",
+    "topic": "enxertos-pele",
+    "area": "pele-tumores",
+    "section": "complicacoes",
+    "content": [
+      "Incidência: contratura funcional significativa em 10–30% de STSG sobre articulação sem retalho associado; hipertrofia cicatricial em 5–15% dos sítios doadores de STSG, mais frequente em jovens e raça negra.",
+      "Prevenção: preferir FTSG em áreas funcionais; pressoterapia com silicone; massagem e fisioterapia precoces; proteção solar; evitar STSG em área de dobra articular quando retalho for factível.",
+      "Diagnóstico: cicatriz elevada, endurecida, pruriginosa, eritematosa (hipertrofia); limitação de movimento articular, aderência do enxerto a plano profundo (contratura).",
+      "Manejo: placa de silicone 12–24h/dia por 3–6 meses; injeção intralesional de triancinolona (Kenalog 10–40 mg/mL) a cada 4–6 semanas; laser vascular (pulsed dye) para componente eritematoso; cirurgia de Z-plastia ou re-enxertia com retalho em contratura funcional refratária."
+    ],
+    "images": [],
+    "citations": [
+      "Neligan, 2023, vol. 1, cap. 19"
+    ],
+    "updates": [],
+    "tags": [
+      "complicacoes",
+      "contratura",
+      "cicatrizacao-hipertrofica",
+      "stsg",
+      "ftsg",
+      "enxerto-pele",
+      "tratamento"
+    ]
+  },
+  {
+    "id": "enxp-nota-011",
+    "type": "note",
+    "title": "Discromia (Hiper- ou Hipopigmentação)",
+    "topic": "enxertos-pele",
+    "area": "pele-tumores",
+    "section": "complicacoes",
+    "content": [
+      "A discromia é uma complicação quase universal em algum grau nos enxertos de pele. É clinicamente relevante em 10–30% dos enxertos faciais, com maior incidência em peles morenas e escuras (Fitzpatrick III–VI), em enxertos finos e em exposição solar precoce.",
+      "A prevenção baseia-se na escolha adequada do sítio doador com bom match de cor, proteção solar do enxerto por no mínimo 12 meses e hidratação regular da área.",
+      "O diagnóstico é realizado por inspeção clínica, identificando áreas mais escuras (hiperpigmentação) ou mais claras (hipopigmentação) que a pele adjacente.",
+      "O manejo recomenda aguardar 6–12 meses antes de intervir, pois muitas vezes a discromia estabiliza ou clareia espontaneamente. Para hiperpigmentação persistente, pode-se usar hidroquinona 2–4%. Laser fracionado é útil para uniformizar cor e textura. Dermabrasão pode ser considerada em casos selecionados. Tatuagem médica ou repigmentação são opções para discromia severa, porém raramente necessárias."
+    ],
+    "images": [],
+    "citations": [
+      "Grabb & Smith, 2024, cap. 3"
+    ],
+    "updates": [],
+    "tags": [
+      "complicacoes",
+      "discromia",
+      "hiperpigmentacao",
+      "hipopigmentacao",
+      "enxertos",
+      "pele",
+      "prevencao",
+      "manejo"
+    ]
+  },
+  {
+    "id": "enxp-nota-012",
+    "type": "note",
+    "title": "Dor e Morbidade do Sítio Doador",
+    "topic": "enxertos-pele",
+    "area": "pele-tumores",
+    "section": "complicacoes",
+    "content": [
+      "Incidência: queixa rotineira em STSG — dor tipo queimação/ardência proporcional à área colhida; hipertrofia cicatricial em 5–15% conforme acima; hiperpigmentação do sítio doador em peles Fitzpatrick III–VI em até 30% dos casos.",
+      "Prevenção: analgesia adequada perioperatória (AINE, paracetamol, tramadol conforme dor); curativo hidrocoloide ou silicone não-aderente; uso de áreas doadoras de fácil cuidado pós-op.",
+      "Diagnóstico: inspeção (eritema, hipertrofia, discromia) e escala de dor.",
+      "Manejo: analgesia escalonada; silicone e pressoterapia profilática em pacientes de risco; tratamento de hipertrofia como acima."
+    ],
+    "images": [],
+    "citations": [
+      "Neligan, 2023, vol. 1, cap. 19"
+    ],
+    "updates": [],
+    "tags": [
+      "complicacoes",
+      "dor",
+      "morbidade",
+      "sitio-doador",
+      "stsg",
+      "hipertrofia-cicatricial",
+      "hiperpigmentacao",
+      "analgesia"
+    ]
+  },
+  {
+    "id": "enxp-nota-013",
+    "type": "note",
+    "title": "Trapdoor Effect e Distorção do Sítio Doador (FTSG)",
+    "topic": "enxertos-pele",
+    "area": "pele-tumores",
+    "section": "complicacoes",
+    "content": [
+      "Incidência: em pálpebra superior — risco de ectrópio reverso/ptose mecânica se removida sobra excessiva; em prega nasolabial — elevação do canto oral. Globalmente < 5% em mãos experientes.",
+      "Prevenção: pinch test rigoroso antes da marcação; razão C/L ≥ 3:1 no sítio doador; fechamento por planos sem tensão; respeitar limites seguros de cada sítio (pálpebra superior ≤ 2 × 1 cm por lado; prega nasolabial pequena).",
+      "Diagnóstico: exame pós-op da abertura ocular (lagoftalmo, ectrópio), simetria do canto oral, abertura bucal.",
+      "Manejo: dependendo da severidade — tarsorrafia temporária, lubrificação ocular intensa, Z-plastia de revisão após 6 meses, ou enxerto de pele adicional em cenário de ectrópio estabelecido."
+    ],
+    "images": [],
+    "citations": [
+      "Neligan, 2023, vol. 1, cap. 19"
+    ],
+    "updates": [],
+    "tags": [
+      "complicacoes",
+      "trapdoor-effect",
+      "distorcao-sitio-doador",
+      "ftsg",
+      "ectropio",
+      "ptose-mecanica",
+      "palpebra-superior",
+      "prega-nasolabial",
+      "prevencao",
+      "manejo"
+    ]
+  },
+  {
+    "id": "enxp-nota-014",
+    "type": "note",
+    "title": "Procedimentos Secundários",
+    "topic": "enxertos-pele",
+    "area": "pele-tumores",
+    "section": "revisao",
+    "content": [
+      "Revisão cicatricial: após 6–12 meses de estabilização, revisão com Z-plastia, W-plastia, excisão fusiforme ou re-enxertia em áreas de má pega, padrão fishnet problemático ou contratura leve.",
+      "Dermabrasão: indicada 6–12 meses pós-op para uniformizar superfície entre enxerto e pele adjacente, especialmente em face.",
+      "Laser fracionado (CO₂, erbium-YAG): melhora textura e discromia residual.",
+      "Expansão tecidual adjacente + retalho: quando enxerto insatisfatório é ressecado e substituído por tecido expandido e retalho local.",
+      "Lipoenxertia subjacente ao enxerto: melhora volume e textura em áreas com atrofia pós-enxerto (Coleman).",
+      "Infiltração de triancinolona: primeira linha em hipertrofia cicatricial do enxerto ou do sítio doador.",
+      "Tratamento de contratura articular: liberação + re-enxertia com FTSG espesso ou retalho cutâneo fasciocutâneo; em dedo/mão, Z-plastia da contratura em faixa."
+    ],
+    "images": [],
+    "citations": [
+      "Neligan, 2023, vol. 1, cap. 19",
+      "Grabb & Smith, 2024, cap. 3"
+    ],
+    "updates": [],
+    "tags": [
+      "revisao",
+      "enxertos",
+      "cicatrizes",
+      "procedimentos-secundarios",
+      "dermabrasao",
+      "laser",
+      "lipoenxertia",
+      "contratura"
+    ]
+  }
+]

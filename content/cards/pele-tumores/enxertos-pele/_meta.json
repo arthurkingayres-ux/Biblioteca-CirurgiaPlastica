@@ -1,0 +1,27 @@
+{
+  "topic": "enxertos-pele",
+  "area": "pele-tumores",
+  "displayName": "Enxertos pele",
+  "version": "v1.0",
+  "date": "2026-04-12",
+  "status": "draft",
+  "references": [
+    "Neligan PC (Ed.). Plastic Surgery, 5ª Ed. Elsevier, 2023. Vol. 1, Cap. 19: Skin graft.",
+    "Neligan PC (Ed.). Plastic Surgery, 5ª Ed. Elsevier, 2023. Vol. 1, Cap. 20: Biomaterials, tissue engineering, and dermal substitutes.",
+    "Neligan PC (Ed.). Plastic Surgery, 5ª Ed. Elsevier, 2023. Vol. 1, Cap. 10: Wound healing — healing of skin.",
+    "Neligan PC (Ed.). Plastic Surgery, 5ª Ed. Elsevier, 2023. Vol. 4, Cap. 18–19: Burn reconstruction e skin grafting no queimado.",
+    "Janis JE, Rohrich RJ (Eds.). Grabb & Smith's Plastic Surgery, 9ª Ed. Wolters Kluwer, 2024. Cap. 3: Skin grafts.",
+    "Cohen M (Ed.). Neligan Core Procedures, 2ª Ed. Elsevier, 2020. Cap.: Full-thickness and split-thickness skin grafting.",
+    "Thomas JR et al. Operative Dictations in Plastic and Reconstructive Surgery. Cap.: Split-thickness skin graft harvest and application; Full-thickness skin graft harvest and application."
+  ],
+  "articles": [
+    "(A serem incorporadas via pipeline de varredura em ciclos posteriores.)"
+  ],
+  "cardCounts": {
+    "anatomia": 4,
+    "tecnicas": 3,
+    "decisoes": 1,
+    "notas": 14,
+    "flashcards": 30
+  }
+}
