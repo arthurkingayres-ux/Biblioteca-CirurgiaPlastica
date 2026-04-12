@@ -46,3 +46,4 @@ Desktop.ini
 
 # Worktrees isolados (superpowers:using-git-worktrees)
 .worktrees/
+tools/_validation/
