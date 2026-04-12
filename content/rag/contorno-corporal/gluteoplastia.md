@@ -45,6 +45,8 @@
 - BBL: taxa de sobrevida da gordura enxertada 50–70%; restrição de sentar por 2–3 semanas é crítica para resultado.
 - Implantes: resultado imediato com sobrevida >15 anos em >90% dos casos.
 - Lifting glúteo indicado para ptose graus I–IV; taxa de recorrência 10–15% em 3–5 anos.
+- O BBL — Brazilian Butt Lift — é historicamente um dos procedimentos estéticos com maior mortalidade perioperatória entre as cirurgias cosméticas, o que motivou os consensos multissocietários recentes sobre segurança de injeção *(Hoyos & Prendergast, HDBS, cap. 15)*.
+- A combinação de lipoaspiração extensa com enxertia de gordura autóloga eleva significativamente o risco de síndrome de embolia gordurosa, particularmente em grandes volumes *(Hoyos & Prendergast, HDBS, cap. 20)*.
 
 ## Introduction
 
@@ -65,6 +67,8 @@ Conforme dados da American Society of Plastic Surgeons (ASPS, 2022), a gluteopla
 - **Relações:** superficial ao glúteo médio e mínimo; relação posterior com o nervo ciático (L5–S2), que descende adjacente ao piriforme.
 - **Relevância cirúrgica:** plano submuscular/intramuscular é utilizado para colocação de implantes; na lipoenxertia, a gordura deve ser injetada acima da fáscia do glúteo máximo (subcutânea apenas) para evitar embolia gordurosa intravascular. A zona de segurança glútea de Mendieta define limite de 2 cm medial à borda lateral do glúteo máximo para dissecção segura.
 - **Como identificar:** músculo palpável à contração ativa; borda lateral identificável por palpação em paciente magro.
+- **Origem e inserção detalhadas:** origem na crista ilíaca posterior, sacro, cóccix e ligamentos sacrotuberal/sacroilíaco; as fibras inferolaterais inserem no trato iliotibial e na tuberosidade glútea femoral, definindo a transição glúteo–coxa *(Hoyos & Prendergast, HDBS, cap. 2)*.
+- **Depressão infra-glútea:** a fáscia profunda atravessa a porção inferior do glúteo máximo, formando a depressão infra-glútea quando o quadril se estende — landmark estético a ser preservado no contorno *(Hoyos & Prendergast, HDBS, cap. 2)*.
 - (Neligan, Plastic Surgery 5ª Ed., 2023; Matarasso & Rosenberg, PRS, 1985)
 
 #### Músculo Glúteo Médio
@@ -74,6 +78,7 @@ Conforme dados da American Society of Plastic Surgeons (ASPS, 2022), a gluteopla
 - **Relações:** superficial ao glúteo mínimo; inervado pelo nervo glúteo superior (L4–S1).
 - **Relevância cirúrgica:** contorno lateral do glúteo médio é alvo de lipoenxertia para refinamento de silhueta; na técnica híbrida, gordura é injetada lateralmente sobre o glúteo médio enquanto implante projeta o máximo.
 - **Como identificar:** porção lateral da nádega, palpável com abdução do quadril contra resistência.
+- **Trajeto anatômico detalhado:** dispõe-se em leque, da crista ilíaca anterior em direção ao trocânter maior, sendo parcialmente coberto pelas fibras anteriores do glúteo máximo — o que explica porque seu contorno só se evidencia com etching superficial cuidadoso *(Hoyos & Prendergast, HDBS, cap. 2)*.
 - (Neligan, Plastic Surgery 5ª Ed., 2023)
 
 #### Músculo Glúteo Mínimo
@@ -101,7 +106,14 @@ Conforme dados da American Society of Plastic Surgeons (ASPS, 2022), a gluteopla
 - **Relações:** acompanhada pelo nervo glúteo inferior e pelo nervo ciático.
 - **Relevância cirúrgica:** risco de lesão na dissecção intramuscular profunda; veias intramiocelulares tributárias são o principal sítio de entrada de gordura na circulação durante BBL com injeção intramuscular.
 - **Como identificar:** localizada abaixo da borda inferior do piriforme, adjacente ao nervo ciático.
+- **Plexo venoso profundo:** o plexo venoso profundo e as artérias glúteas superior e inferior em plano intramuscular constituem a via anatômica de embolização caso a cânula atinja um vaso durante o BBL *(Hoyos & Prendergast, HDBS, cap. 15)*.
 - (Neligan, Plastic Surgery 5ª Ed., 2023; Mofid et al., PRS, 2015)
+
+#### Triângulo Sacral
+
+- **Definição:** área triangular formada pelas depressões bilaterais nas espinhas ilíacas póstero-superiores e pela fenda glútea superior, landmark estético marcante do dorso inferior *(Hoyos & Prendergast, HDBS, cap. 2)*.
+- **Relevância cirúrgica:** lipoplastia meticulosa do triângulo sacral define as bordas superiores das nádegas e cria a transição anatômica natural entre dorso e região glútea *(Hoyos & Prendergast, HDBS, cap. 2)*.
+- **Como identificar:** visualizado em pé, com as depressões correspondentes às espinhas ilíacas póstero-superiores delimitando a base do triângulo.
 
 #### Nervo Ciático
 
@@ -135,6 +147,8 @@ Conforme dados da American Society of Plastic Surgeons (ASPS, 2022), a gluteopla
 #### Embolia Gordurosa — Fisiopatologia
 
 A embolia gordurosa ocorre quando a cânula perfura uma veia intramiocelular dentro do glúteo máximo, permitindo entrada de gordura na circulação venosa. A gordura circula para os pulmões, causando embolia pulmonar gordurosa; em casos graves, ocorre embolismo arterial cerebral paradoxal. Incidência estimada: 1:3.000 procedimentos com técnica intramuscular; redução para 1:15.000+ com técnica exclusivamente subcutânea. Mortalidade: 1% dos casos diagnosticados (0,03–0,05% de taxa global de mortalidade em BBL moderno). (Steely et al., Aesthetic Surgery Journal, 2023)
+
+A síndrome de embolia gordurosa clássica acomete pulmões, sistema cardiovascular, sistema nervoso central e pele, manifestando-se com dispneia, febre, taquicardia e rash petequial; o substrato fisiopatológico é a inflamação endotelial desencadeada pela liberação de ácidos graxos livres via lipase dos adipócitos circulantes *(Hoyos & Prendergast, HDBS, cap. 20)*. O tratamento é essencialmente de suporte — reposição volêmica, equilíbrio hidroeletrolítico, oxigenação e ventilação conforme gravidade — sendo a metilprednisolona uma opção coadjuvante para atenuar a resposta inflamatória sistêmica *(Hoyos & Prendergast, HDBS, cap. 15)*.
 
 #### Sobrevida do Enxerto Adiposo
 
@@ -207,6 +221,9 @@ Mendieta (2004) classificou os glúteos em 4 tipos baseado em volume, projeção
   5. **Posicionamento e fixação do implante:** implante é inserido e posicionado no bolso submuscular sob visão direta. Fixação pode ser realizada com 2–4 pontos de sutura do implante à fáscia posterior (polipropileno 2-0), prevenindo rotação e deslocamento posterior. Alguns cirurgiões utilizam cola biológica (fibrina). Inspeção: verificar simetria visual, palpação de margens, e ausência de torção. (Cárdenas-Camarena et al., PRS, 2014)
   6. **Fechamento:** fechamento em planos — fáscia glútea com suturas absorvíveis, subcutâneo, e pele intradérmica ou pontos separados. Dreno de sucção facultativo por 48–72h. Curativos compressivos mantidos por 48h. (Mendieta, Plastic Surgery, 5ª Ed., 2023)
 - **Complicações específicas:** contratura capsular (mais comum com superfície lisa), deslocamento/rotação do implante, infecção periprotética, neuropraxia ciática, seroma. (Castellanos et al., PRS, 2018)
+- **Três planos de posicionamento (Mendieta/Gonzalez):** o implante pode ser alojado em plano subfascial (sob a fáscia glútea superficial), submuscular (entre o glúteo máximo e o plano profundo) ou intramuscular — a técnica XYZ de Gonzalez — com seleção ditada por biotipo e objetivo de projeção *(Neligan, 2023, vol. 4, cap. 35.2)*.
+- **Perfil de complicação por plano:** o plano intramuscular associa-se às maiores taxas de migração (15–25%) e seroma (até 20%), enquanto a contratura capsular é rara na região glútea em comparação com a mama *(Neligan, 2023, vol. 4, cap. 35.2; Operative Dictations, 2017, cap. 18)*.
+- **Proteção pós-op do bolso protético:** evitar compressão direta sobre as nádegas por 2 semanas reduz deiscência da ferida interglútea e limita o acúmulo de seroma periprotético *(Operative Dictations, 2017, cap. 18)*.
 
 ### Lipoenxertia Glútea (Brazilian Butt Lift — BBL)
 
@@ -221,6 +238,21 @@ Mendieta (2004) classificou os glúteos em 4 tipos baseado em volume, projeção
   6. **Volume e distribuição:** volume típico de enxertia: 400–600 mL por lado (800–1.200 mL bilateral), com compensação de absorção (injetar 20–30% a mais). Distribuição: 60% no polpudo (glúteo máximo), 30% na lateral (transição com médio), 10% na região do sulco (cuidado com embolia). Usar marcação pré-operatória para definir zonas de injeção segura. (Mendieta, Aesthetic Surgery Journal, 2016)
   7. **Monitorização intraoperatória:** monitorizar sinais vitais continuamente (PA, FC, SpO2, ETCO2 se anestesia geral). Observar cor da gordura durante aspiração (rosa avermelhado vs. amarelo-claro). Após injeção, aguardar 5–10 min antes de movimentar paciente (permitir hemostasia). Cânulas devem estar sempre visíveis durante injeção (não desaparecerem em profundidade). (ASERF Guidelines, 2023)
 - **Complicações específicas:** embolia gordurosa (mais temível — ver seção Outcomes and Complications), absorção excessiva do enxerto (40–50%), seroma, assimetria, irregularidades de contorno.
+- **Processamento por gravidade (método seringa):** alternativa à centrifugação — a gordura aspirada é deixada em decantação em seringas de 60 mL, separando espontaneamente em três camadas: óleo no topo, gordura pura no meio, sangue e fluido tumescente no fundo; apenas a camada média é retida para enxertia *(Operative Dictations, 2017, cap. 18)*.
+- **Volume típico por lado:** em média 500–600 mL de gordura processada por glúteo, com limite de segurança ao redor de 1000 mL por procedimento quando tecido doador permite *(Operative Dictations, 2017, cap. 18)*.
+- **Distribuição de planos (referência Operative Dictations):** aproximadamente dois terços do volume injetado devem permanecer superficiais aos músculos glúteos e até um terço no plano intramuscular superficial, sempre preservando margem em relação ao nervo ciático *(Operative Dictations, 2017, cap. 18)*. *Nota: este esquema difere do consenso ASERF 2023, que recomenda injeção exclusivamente subcutânea; a prática contemporânea segue o consenso multissocietário mais recente.*
+- **Calibre obrigatório e alíquotas:** cânulas de ponta romba (blunt-tip) com calibre ≥ 4 mm são mandatórias para prevenir penetração vascular; a injeção deve ocorrer em alíquotas menores que 0,1 mL durante a RETIRADA da cânula, em padrão crosshatched multidirecional *(Operative Dictations, 2017, cap. 18; Hoyos & Prendergast, HDBS, cap. 7)*.
+- **Manobra segura da cânula:** manter a cânula paralela à mesa, transitando entre o plano intramuscular superficial e o plano supramuscular e infiltrando fitas curtas de gordura apenas na retirada — conduta que reduz a pressão intramuscular e o risco de embolia por compressão venosa *(Hoyos & Prendergast, HDBS, cap. 15)*.
+- **Acessos cutâneos:** incisões-porta situadas no sulco interglúteo e nas pregas glúteas bilaterais permitem trabalhar todos os quadrantes do glúteo em padrão em leque com mínima cicatrização visível *(Operative Dictations, 2017, cap. 18)*.
+
+### Gluteal Etching / Contorno Glúteo de Alta Definição (HDBS — High Definition Body Sculpting)
+
+- **Indicação:** pacientes com IMC baixo a moderado e boa tonicidade cutânea que desejam realce dos contornos do glúteo máximo e médio, da fossa sacral e da transição glúteo–coxa, com ou sem enxertia complementar *(Hoyos & Prendergast, HDBS, cap. 1; cap. 15)*.
+- **Princípio VASER (Vibration Amplification of Sound Energy at Resonance):** tecnologia introduzida por Hoyos em 2002 que emulsifica a gordura em planos superficiais e profundos por cavitação ultrassônica, preservando vasos, nervos e malha conjuntiva — base técnica do HDBS *(Hoyos & Prendergast, HDBS, cap. 1)*.
+- **Tempo de entrega ultrassônica:** 60 a 90 segundos de VASER a cada 100 mL de solução tumescente infiltrada, com endpoint determinado pela perda de resistência ("feel") dos tecidos *(Hoyos & Prendergast, HDBS, cap. 7)*.
+- **Passo sequencial (VASER-HDL + lipoenxertia):** após o etching superficial dos sulcos anatômicos, enxertia de gordura em gotículas nos planos supramusculares realça as convexidades do glúteo máximo e do glúteo médio, criando o efeito tridimensional característico *(Hoyos & Prendergast, HDBS, cap. 15)*.
+- **Ângulo glúteo interno ideal:** o ângulo entre glúteo máximo e face medial da coxa deve situar-se entre 60° e 70°, parâmetro-alvo para planejamento do volume inferomedial *(Hoyos & Prendergast, HDBS, cap. 15)*.
+- **Complicações específicas:** queimadura térmica cutânea por VASER mal conduzido, irregularidades de contorno em pacientes com pele flácida, e riscos compostos quando associado a enxertia de grande volume *(Hoyos & Prendergast, HDBS, cap. 20)*.
 
 ### Retalho de Avanço Dermogorduroso (Autoaugmentation)
 
@@ -242,6 +274,9 @@ Mendieta (2004) classificou os glúteos em 4 tipos baseado em volume, projeção
   2. Retalho avançado ou transposto conforme necessidade.
   3. Requer dissecção cuidadosa dos vasos nutrindo o retalho (artérias glúteas superior e inferior).
   (Centeno, Grabb & Smith, 8ª Ed., 2020)
+- **Detalhamento dos pedículos:** a dissecção de retalho glúteo exige conhecimento dos pedículos perfurantes da artéria glútea superior (ramo cefálico, irrigando a porção superior do glúteo máximo) e da artéria glútea inferior (ramo caudal, irrigando a porção inferior); as margens seguras da ilha cutânea devem ser definidas em relação a esses pontos de emergência para evitar lesão vascular intraoperatória *(Neligan, 2023, vol. 4, cap. 33)*.
+- **Aplicação em auto-aumento:** em candidatas com ptose glútea severa, o flap de auto-aumento usa tecido autólogo desepidermizado (e não gordura enxertada), fornecendo resultado volumétrico mais durável que a lipoenxertia pura *(Neligan, 2023, vol. 4, cap. 33)*.
+- **Contorno circunferencial do tronco:** quando integrado ao lower body lift, o procedimento combina ressecção de pele e gordura redundantes em abdome inferior, flancos, dorso e coxas com reposicionamento superior do retalho glúteo para aumentar projeção *(Neligan, 2023, vol. 4, cap. 33)*.
 - **Complicações específicas:** necrose parcial do retalho, lesão neurovascular, seroma extenso.
 
 ### Gluteoplastia Combinada — Implante + Lipoenxertia
@@ -305,6 +340,10 @@ Mendieta (2004) classificou os glúteos em 4 tipos baseado em volume, projeção
 - Esteroides orais (metilprednisolona 4 mg/dia × 5 dias) em alguns centros para reduzir edema e inflamação.
 - Resultado progressivo: perda de 40–50% dos enxertos em 6 meses; estabilização 12–18 meses (os 50% que sobrevivem são permanentes).
 - (Mofid et al., Aesthetic Surgery Journal, 2016)
+- **Antibioticoprofilaxia:** cefalosporina perioperatória mantida por 5 dias no pós-operatório reduz infecção de ferida e celulite ao redor dos pontos de acesso *(Operative Dictations, 2017, cap. 18)*.
+- **Posicionamento nas primeiras semanas:** decúbito prono ou lateral, evitando supino; deambulação precoce ainda no dia da cirurgia; vestuário compressivo em abdome e flancos (jamais sobre os glúteos enxertados) mantido por 2 semanas *(Operative Dictations, 2017, cap. 18)*.
+- **Técnica de sentar ("sentar para frente"):** quando sentar for inevitável, apoiar-se sobre os ramos púbicos, inclinando o tronco anteriormente, reduz a pressão direta sobre o glúteo e maximiza o take da gordura enxertada *(Operative Dictations, 2017, cap. 18)*.
+- **Cinética de reabsorção e massagem:** espera-se 10–30% de reabsorção adicional no primeiro ano além da perda inicial de 40–50%; massagem leve realizada imediatamente após a injeção corrige irregularidades grosseiras, enquanto massagem agressiva no pós-operatório NÃO é recomendada pelo risco de ruptura dos microenxertos *(Hoyos & Prendergast, HDBS, cap. 20)*.
 
 ### Pós-operatório — Lifting Glúteo
 
@@ -327,6 +366,7 @@ Mendieta (2004) classificou os glúteos em 4 tipos baseado em volume, projeção
 - **Prevenção:** drenos de sucção, compressão adequada, minimizar espaço morto.
 - **Diagnóstico:** massa flutuante, desconforto local, aumento de volume assimétrico; confirmação por ultrassom se necessário.
 - **Manejo:** conservador com drenagem aspirativa por 7–14 dias. Se persistir ou sintomático (massa flutuante > 100 mL): drenagem percutânea com agulha 18G sob ultrassom, 2–3 vezes se necessário. Raro necessário dreno cirúrgico. (Centeno et al., Aesthetic Surgery Journal, 2017)
+- **Seroma específico do BBL:** ocorre em aproximadamente 5–15% das lipoenxertias glúteas; manter as incisões-porta abertas (não fechadas primariamente) facilita a drenagem espontânea de exsudato nas primeiras 48–72 horas *(Hoyos & Prendergast, HDBS, cap. 15)*.
 
 ### Infecção
 
@@ -369,6 +409,10 @@ Mendieta (2004) classificou os glúteos em 4 tipos baseado em volume, projeção
 - **Sessão adicional de BBL:** para compensar absorção excessiva ou obter maior volume. Realizar após estabilização do enxerto (12–18 meses). (Mofid et al., Aesthetic Surgery Journal, 2016)
 - **Conversão de técnica:** troca de implante para BBL ou vice-versa em casos de insatisfação ou complicação. (Centeno et al., Aesthetic Surgery Journal, 2017)
 - **Lipoaspiração de refinamento:** correção de irregularidades de contorno ou excesso residual em áreas doadoras. (Cárdenas-Camarena et al., PRS, 2014)
+- **Revisão de BBL por reabsorção > 30%:** quando a reabsorção do enxerto primário ultrapassa 30% do volume, nova sessão de lipoenxertia pode ser programada após 6 meses, tempo mínimo para consolidação do enxerto prévio e reconstituição do leito receptor *(Hoyos & Prendergast, HDBS, cap. 20)*.
+- **Correção de assimetria volumétrica:** enxertia focal no lado hipoplásico em pequenas alíquotas para igualar projeção, ou lipoaspiração focal se houver hiperenxertia localizada e palpável *(Hoyos & Prendergast, HDBS, cap. 20)*.
+- **Explante de implante glúteo:** indicado em seroma crônico refratário, migração sintomática ou infecção recorrente — consiste na remoção do implante com capsulectomia parcial seletiva; a conversão para lipoenxertia pode ser oferecida de forma diferida, respeitando intervalo ≥ 3 meses para cicatrização do bolso *(Neligan, 2023, vol. 4, cap. 35.2)*.
+- **Retoque de fossa sacral ou sulco subglúteo:** após a primeira sessão de VASER-HDL, retoques pontuais em fossa sacral ou sulco subcortical glúteo podem ser realizados sob anestesia local, em alíquotas pequenas de enxerto ou microlipoaspiração *(Hoyos & Prendergast, HDBS, cap. 15)*.
 
 ## Atualizações de Artigos
 
