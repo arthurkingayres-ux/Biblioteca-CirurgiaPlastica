@@ -1336,6 +1336,399 @@ def lipo_lipoenxertia_coleman():
     save(fig, 'lipoaspiracao', 'lipo-tec-lipoenxertia-coleman.png')
 
 
+# ============================================================
+# GLUTEOPLASTIA DIAGRAMS
+# ============================================================
+
+
+def glut_anat_neurovascular():
+    """Neurovascular glútea: a. glúteas sup/inf, n. ciático, nn. glúteos sup/inf, piriforme."""
+    fig, ax = plt.subplots(figsize=(11, 8))
+    ax.set_xlim(0, 11); ax.set_ylim(0, 8); ax.axis('off')
+
+    ax.set_title('Anatomia neurovascular glútea — landmarks para BBL seguro',
+                 fontsize=12, fontweight='bold', pad=10)
+
+    # Contorno glúteo posterior (simplificado)
+    ax.add_patch(mpatches.FancyBboxPatch((1.5, 1.0), 8.0, 6.0, boxstyle="round,pad=0.1",
+                                          facecolor='#FFF3E0', edgecolor='#8D6E63', linewidth=1.5))
+
+    # Sacro
+    ax.add_patch(plt.Polygon([(5.5, 6.5), (5.0, 5.2), (6.0, 5.2)],
+                              facecolor='#BCAAA4', edgecolor='#5D4037', linewidth=1.2))
+    ax.text(5.5, 5.9, 'Sacro', ha='center', fontsize=8, fontweight='bold')
+
+    # Piriforme (músculo de referência — todos os vasos/nervos passam ao redor)
+    ax.add_patch(mpatches.Ellipse((5.5, 4.3), 3.8, 0.9, facecolor='#A1887F',
+                                   edgecolor='#3E2723', linewidth=1.5, alpha=0.85))
+    ax.text(5.5, 4.3, 'Músculo piriforme', ha='center', va='center',
+            fontsize=9, color='white', fontweight='bold')
+
+    # Forame suprapiriforme — a./n. glúteos superiores
+    ax.plot(4.0, 4.7, 'o', markersize=12, color='#D32F2F')
+    ax.text(3.6, 4.95, 'Forame\nsuprapiriforme', fontsize=7, ha='right',
+            fontstyle='italic', color='#D32F2F')
+    ax.annotate('', xy=(2.5, 5.8), xytext=(4.0, 4.7),
+                arrowprops=dict(arrowstyle='->', color='#C62828', lw=1.8))
+    ax.text(2.3, 5.9, 'A. glútea SUPERIOR\n+ N. glúteo superior', fontsize=8,
+            color='#B71C1C', fontweight='bold', ha='right')
+
+    # Forame infrapiriforme — a./n. glúteos inferiores + n. ciático
+    ax.plot(4.0, 3.9, 'o', markersize=12, color='#1976D2')
+    ax.text(3.6, 3.6, 'Forame\ninfrapiriforme', fontsize=7, ha='right',
+            fontstyle='italic', color='#1976D2')
+    ax.annotate('', xy=(2.5, 2.8), xytext=(4.0, 3.9),
+                arrowprops=dict(arrowstyle='->', color='#0D47A1', lw=1.8))
+    ax.text(2.3, 2.7, 'A. glútea INFERIOR\n+ N. glúteo inferior\n+ N. cutâneo femoral post.',
+            fontsize=8, color='#0D47A1', fontweight='bold', ha='right')
+
+    # Nervo ciático — trajeto descendente
+    ax.plot([4.5, 5.0, 5.3, 5.5], [3.7, 2.8, 2.0, 1.3], color='#F57F17',
+            linewidth=3.5, solid_capstyle='round')
+    ax.text(5.9, 2.2, 'NERVO\nCIÁTICO', fontsize=9, color='#E65100',
+            fontweight='bold')
+    ax.text(5.9, 1.7, '(emerge inferior ao piriforme\nem 85% — pode ser intrapiriforme)',
+            fontsize=7, color='#E65100', fontstyle='italic')
+
+    # Zona de perigo BBL — submuscular
+    ax.add_patch(mpatches.Rectangle((6.5, 3.0), 2.8, 1.8, facecolor='#FFCDD2',
+                                     edgecolor='#C62828', linewidth=2, linestyle='--', alpha=0.6))
+    ax.text(7.9, 3.9, 'ZONA DE\nPERIGO BBL\n(submuscular)',
+            fontsize=9, color='#B71C1C', fontweight='bold', ha='center', va='center')
+
+    # Safe zone BBL — subcutâneo superficial
+    ax.add_patch(mpatches.Rectangle((6.5, 5.2), 2.8, 1.3, facecolor='#C8E6C9',
+                                     edgecolor='#2E7D32', linewidth=2, alpha=0.6))
+    ax.text(7.9, 5.85, 'ZONA SEGURA\n(subcutâneo superficial)',
+            fontsize=9, color='#1B5E20', fontweight='bold', ha='center', va='center')
+
+    # Footer
+    footer = ('Regra de ouro BBL (Multi-Society Task Force 2018): cânulas ≥4 mm, '
+              'angulação superficial, nunca transmuscular — embolia gordurosa letal via v. glútea inf.')
+    ax.text(5.5, 0.3, footer, ha='center', va='center', fontsize=8,
+            fontstyle='italic', color='#B71C1C',
+            bbox=dict(facecolor='#FFEBEE', edgecolor='#B71C1C', boxstyle='round,pad=0.4'))
+
+    save(fig, 'gluteoplastia', 'glut-anat-neurovascular.png')
+
+
+def glut_anat_musculos_camadas():
+    """Camadas musculares glúteas: máximo, médio, mínimo."""
+    fig, ax = plt.subplots(figsize=(10, 7))
+    ax.set_xlim(0, 10); ax.set_ylim(0, 7); ax.axis('off')
+
+    ax.set_title('Camadas musculares glúteas — superficial à profunda',
+                 fontsize=12, fontweight='bold', pad=10)
+
+    # Máximo (superficial)
+    ax.add_patch(mpatches.FancyBboxPatch((1.0, 4.8), 8.0, 1.2, boxstyle="round,pad=0.08",
+                                          facecolor='#D32F2F', edgecolor='#B71C1C', linewidth=1.5, alpha=0.85))
+    ax.text(5.0, 5.4, 'M. GLÚTEO MÁXIMO (superficial)', ha='center', va='center',
+            fontsize=11, color='white', fontweight='bold')
+    ax.text(5.0, 4.95, 'Origem: sacro/íleo · Inserção: trato iliotibial + tuberosidade glútea · Inervação: n. glúteo inferior (S1–S2)',
+            ha='center', va='center', fontsize=7.5, color='white', fontstyle='italic')
+
+    # Médio (intermediário)
+    ax.add_patch(mpatches.FancyBboxPatch((1.5, 3.3), 7.0, 1.1, boxstyle="round,pad=0.08",
+                                          facecolor='#F57C00', edgecolor='#E65100', linewidth=1.5, alpha=0.85))
+    ax.text(5.0, 3.85, 'M. GLÚTEO MÉDIO (intermediário)', ha='center', va='center',
+            fontsize=11, color='white', fontweight='bold')
+    ax.text(5.0, 3.45, 'Abdutor principal · Inervação: n. glúteo superior (L4–S1)',
+            ha='center', va='center', fontsize=7.5, color='white', fontstyle='italic')
+
+    # Mínimo (profundo)
+    ax.add_patch(mpatches.FancyBboxPatch((2.0, 1.8), 6.0, 1.1, boxstyle="round,pad=0.08",
+                                          facecolor='#FFA726', edgecolor='#EF6C00', linewidth=1.5, alpha=0.85))
+    ax.text(5.0, 2.35, 'M. GLÚTEO MÍNIMO (profundo)', ha='center', va='center',
+            fontsize=11, color='white', fontweight='bold')
+    ax.text(5.0, 1.95, 'Abdutor + rotação interna · Inervação: n. glúteo superior',
+            ha='center', va='center', fontsize=7.5, color='white', fontstyle='italic')
+
+    # Plano ósseo (íleo)
+    ax.add_patch(mpatches.FancyBboxPatch((2.5, 0.6), 5.0, 0.8, boxstyle="round,pad=0.05",
+                                          facecolor='#BCAAA4', edgecolor='#5D4037', linewidth=1.5))
+    ax.text(5.0, 1.0, 'Asa do íleo (plano ósseo)', ha='center', va='center',
+            fontsize=10, color='#3E2723', fontweight='bold')
+
+    # Legenda de planos cirúrgicos
+    ax.text(9.5, 5.4, 'subcutâneo', fontsize=8, ha='left', color='#1B5E20', fontweight='bold')
+    ax.text(9.5, 3.85, 'subfascial', fontsize=8, ha='left', color='#1B5E20', fontweight='bold')
+    ax.text(9.5, 2.35, 'intramuscular\n(entre máximo e médio)', fontsize=8, ha='left', color='#1B5E20', fontweight='bold')
+
+    # Footer
+    ax.text(5.0, 0.15, 'Planos para implante: subcutâneo (alto risco), subfascial (preferido), intramuscular (clássico Gonzalez).',
+            ha='center', fontsize=8, fontstyle='italic', color='#455A64')
+
+    save(fig, 'gluteoplastia', 'glut-anat-musculos-camadas.png')
+
+
+def glut_tec_bbl_safety():
+    """BBL — zona segura subcutânea vs zona letal submuscular."""
+    fig, ax = plt.subplots(figsize=(11, 7))
+    ax.set_xlim(0, 11); ax.set_ylim(0, 7); ax.axis('off')
+
+    ax.set_title('BBL (Brazilian Butt Lift) — regra de segurança subcutânea',
+                 fontsize=12, fontweight='bold', pad=10)
+
+    # Corte sagital simplificado
+    # Pele
+    ax.add_patch(mpatches.Rectangle((1.0, 5.5), 9.0, 0.4, facecolor='#FFE0B2', edgecolor='#8D6E63'))
+    ax.text(0.7, 5.7, 'Pele', ha='right', fontsize=8, fontweight='bold')
+
+    # Subcutâneo — ZONA SEGURA (verde)
+    ax.add_patch(mpatches.Rectangle((1.0, 4.5), 9.0, 1.0, facecolor='#C8E6C9',
+                                     edgecolor='#2E7D32', linewidth=1.5))
+    ax.text(0.7, 5.0, 'Subcutâneo\n(SEGURO)', ha='right', fontsize=8, fontweight='bold', color='#1B5E20')
+
+    # Fáscia glútea
+    ax.plot([1.0, 10.0], [4.5, 4.5], color='#5D4037', linewidth=2.5)
+    ax.text(10.3, 4.5, 'fáscia', fontsize=7, va='center', color='#5D4037')
+
+    # Músculo glúteo — ZONA PROIBIDA (vermelho)
+    ax.add_patch(mpatches.Rectangle((1.0, 2.8), 9.0, 1.7, facecolor='#FFCDD2',
+                                     edgecolor='#C62828', linewidth=1.5))
+    ax.text(0.7, 3.65, 'Músculo\n(PROIBIDO)', ha='right', fontsize=8, fontweight='bold', color='#B71C1C')
+    # Veias glúteas inferiores dentro do músculo
+    for y in [3.2, 3.6, 4.0]:
+        ax.plot([2.0, 9.0], [y, y], color='#1976D2', linewidth=1.2, linestyle=':', alpha=0.7)
+    ax.text(5.5, 3.65, 'Veias glúteas inferiores\n(ligação direta → coração/pulmão)',
+            ha='center', va='center', fontsize=8, color='#0D47A1', fontstyle='italic')
+
+    # Cânulas em posição correta (subcutânea, paralela à pele)
+    ax.annotate('', xy=(8.5, 5.0), xytext=(1.5, 5.0),
+                arrowprops=dict(arrowstyle='->', color='#2E7D32', lw=3))
+    ax.text(5.0, 5.25, 'Cânula ≥ 4 mm · ângulo paralelo à pele · apenas subcutâneo',
+            ha='center', fontsize=8, color='#1B5E20', fontweight='bold')
+
+    # Cânula errada (transmuscular) — X
+    ax.annotate('', xy=(5.5, 3.0), xytext=(3.0, 5.5),
+                arrowprops=dict(arrowstyle='->', color='#C62828', lw=2, linestyle='--'))
+    ax.text(5.8, 3.0, '✗ EMBOLIA GORDUROSA\n(letalidade ~1:1.000)',
+            fontsize=9, color='#B71C1C', fontweight='bold')
+
+    # Parâmetros BBL
+    params = ('Parâmetros seguros: volume/região ≤ 300 mL · pressão aspiração < 15 mmHg · '
+              'enxerto livre de sangue/óleo · 20–30% sobrecorreção · descompressão intraoperatória')
+    ax.text(5.5, 1.8, params, ha='center', va='center', fontsize=8,
+            bbox=dict(facecolor='#E8F5E9', edgecolor='#2E7D32', boxstyle='round,pad=0.4'))
+
+    # Mortalidade histórica
+    ax.text(5.5, 0.7, 'Multi-Society Task Force 2018/2022: mortalidade caiu de 1:3.000 para <1:15.000 com regra subcutânea estrita.',
+            ha='center', fontsize=8, color='#B71C1C', fontweight='bold', fontstyle='italic')
+
+    save(fig, 'gluteoplastia', 'glut-tec-bbl-safety.png')
+
+
+def glut_tec_lifting_gluteo():
+    """Lifting glúteo — incisões, ancoragem, vetor de suspensão."""
+    fig, ax = plt.subplots(figsize=(10, 7))
+    ax.set_xlim(0, 10); ax.set_ylim(0, 7); ax.axis('off')
+
+    ax.set_title('Lifting glúteo (gluteoplastia de suspensão)',
+                 fontsize=12, fontweight='bold', pad=10)
+
+    # Silhueta posterior (par de glúteos simplificados)
+    for cx in [3.5, 6.5]:
+        ax.add_patch(mpatches.Ellipse((cx, 3.5), 2.0, 3.0, facecolor='#FFE0B2',
+                                       edgecolor='#8D6E63', linewidth=1.5))
+
+    # Incisão em V — em cinto (belt lipectomy) / bikini upper
+    ax.plot([1.5, 3.5, 5.0, 6.5, 8.5], [5.5, 5.0, 5.4, 5.0, 5.5], color='#C62828',
+            linewidth=3, solid_capstyle='round')
+    ax.text(5.0, 5.9, 'Incisão em cinto (upper buttock)\nlinha do biquíni',
+            ha='center', fontsize=8.5, color='#B71C1C', fontweight='bold')
+
+    # Vetores de suspensão (setas verticais ascendentes)
+    for cx in [2.8, 3.5, 4.2, 5.8, 6.5, 7.2]:
+        ax.annotate('', xy=(cx, 5.0), xytext=(cx, 3.5),
+                    arrowprops=dict(arrowstyle='->', color='#1B5E20', lw=2))
+    ax.text(0.3, 4.2, 'Vetor de\nsuspensão\nvertical',
+            fontsize=8, color='#1B5E20', fontweight='bold')
+
+    # Pontos de ancoragem (fáscia de Lockwood / periósteo sacral)
+    for cx, cy in [(3.5, 4.8), (5.0, 4.9), (6.5, 4.8)]:
+        ax.plot(cx, cy, '*', markersize=15, color='#F57F17',
+                markeredgecolor='#E65100', markeredgewidth=1.5)
+    ax.text(9.7, 4.8, 'Ancoragem:\nfáscia profunda\nde Lockwood',
+            fontsize=8, color='#E65100', fontweight='bold', ha='right')
+
+    # Tecido excedente (crescente infraincisional ressecado)
+    ax.add_patch(mpatches.FancyBboxPatch((1.5, 5.0), 7.0, 0.6,
+                                          boxstyle="round,pad=0.05",
+                                          facecolor='none', edgecolor='#C62828',
+                                          linewidth=2, linestyle='--'))
+    ax.text(5.0, 5.25, '← ressecção de pele/tecido redundante (pós-bariátrico) →',
+            ha='center', fontsize=7.5, color='#B71C1C', fontstyle='italic')
+
+    # Principais indicações
+    ax.text(5.0, 1.8, 'Indicação principal: ptose cutânea pós-bariátrica · '
+                      'Frequentemente combinada com autoaugmentation (aponeurose) para restaurar projeção.',
+            ha='center', fontsize=8.5, color='#455A64',
+            bbox=dict(facecolor='#ECEFF1', edgecolor='#607D8B', boxstyle='round,pad=0.4'))
+
+    # Risco
+    ax.text(5.0, 0.7, 'Risco principal: deiscência na linha do biquíni por tensão — preservar sistema fascial profundo e evitar subminação agressiva.',
+            ha='center', fontsize=8, color='#B71C1C', fontstyle='italic')
+
+    save(fig, 'gluteoplastia', 'glut-tec-lifting-gluteo.png')
+
+
+def glut_tec_retalho_flap():
+    """Retalho glúteo em flap rotacional — preservação de projeção pós-bariátrica."""
+    fig, ax = plt.subplots(figsize=(10, 7))
+    ax.set_xlim(0, 10); ax.set_ylim(0, 7); ax.axis('off')
+
+    ax.set_title('Retalho glúteo em flap — autoaugmentation avançada',
+                 fontsize=12, fontweight='bold', pad=10)
+
+    # Glúteo
+    ax.add_patch(mpatches.Ellipse((5.0, 3.5), 6.0, 4.0, facecolor='#FFE0B2',
+                                   edgecolor='#8D6E63', linewidth=1.5))
+
+    # Incisão superior + desenho do retalho (de base superolateral)
+    ax.plot([2.5, 5.0, 7.5], [5.4, 5.1, 5.4], color='#C62828', linewidth=2.5)
+
+    # Retalho delineado (desepitelizado + elevado em bloco)
+    retalho = plt.Polygon([(3.5, 2.5), (6.5, 2.5), (6.8, 4.2), (3.2, 4.2)],
+                           facecolor='#FFA726', edgecolor='#E65100',
+                           linewidth=2, alpha=0.75, hatch='//')
+    ax.add_patch(retalho)
+    ax.text(5.0, 3.35, 'RETALHO\ndermogorduroso\ndesepitelizado',
+            ha='center', va='center', fontsize=8.5, color='#BF360C', fontweight='bold')
+
+    # Arco de rotação
+    ax.annotate('', xy=(5.0, 4.8), xytext=(5.0, 3.3),
+                arrowprops=dict(arrowstyle='->', color='#1B5E20', lw=2.5,
+                                connectionstyle="arc3,rad=0.3"))
+    ax.text(5.5, 4.0, 'Rotação\nsuperior\n(enrolamento)',
+            fontsize=8, color='#1B5E20', fontweight='bold')
+
+    # Pedículo (base de origem vascular)
+    ax.plot([3.2, 6.8], [4.2, 4.2], color='#E91E63', linewidth=4, solid_capstyle='round')
+    ax.text(5.0, 4.5, 'Base vascular preservada (perfurantes da a. glútea superior)',
+            ha='center', fontsize=8, color='#880E4F', fontweight='bold')
+
+    # Variantes (labels)
+    ax.text(1.0, 2.3, 'VARIANTES:', fontsize=9, fontweight='bold', color='#455A64')
+    ax.text(1.0, 1.8, '• Centurion (De la Peña): crescente central', fontsize=8, color='#455A64')
+    ax.text(1.0, 1.4, '• Colwell: retalho elíptico transverso', fontsize=8, color='#455A64')
+    ax.text(1.0, 1.0, '• Raposo-do-Amaral: dobra + ancoragem', fontsize=8, color='#455A64')
+
+    ax.text(5.0, 0.3, 'Diferencial vs. autoaugmentation simples: retalho em flap é desepitelizado, mantém vascularização e gera projeção mais durável.',
+            ha='center', fontsize=8, fontstyle='italic', color='#455A64')
+
+    save(fig, 'gluteoplastia', 'glut-tec-retalho-flap.png')
+
+
+def glut_tec_combinada_matrix():
+    """Matriz de combinações em gluteoplastia."""
+    fig, ax = plt.subplots(figsize=(11, 6.5))
+    ax.set_xlim(0, 11); ax.set_ylim(0, 6.5); ax.axis('off')
+
+    ax.set_title('Gluteoplastia combinada — matriz decisória',
+                 fontsize=12, fontweight='bold', pad=10)
+
+    # Cabeçalhos (objetivos)
+    headers = ['Projeção central', 'Contorno lateral', 'Ptose/pele excedente']
+    for i, h in enumerate(headers):
+        draw_box(ax, 2.8 + i*2.8, 5.7, 2.5, 0.7, h, color='#37474F', fontsize=10)
+
+    # Linhas (técnicas)
+    techs = [
+        ('Implante\n(subfascial/intramuscular)', '★★★', '★', '—'),
+        ('Lipoenxertia (BBL)', '★★', '★★★', '★'),
+        ('Lifting (suspensão)', '—', '★', '★★★'),
+        ('Autoaugmentation (retalho)', '★★', '★', '★★'),
+    ]
+
+    y_start = 4.7
+    for i, (name, c1, c2, c3) in enumerate(techs):
+        y = y_start - i*0.95
+        draw_box(ax, 1.0, y, 1.8, 0.7, name, color='#1976D2', fontsize=8.5)
+        for j, score in enumerate([c1, c2, c3]):
+            color = '#E8F5E9' if '★' in score else '#ECEFF1'
+            text_color = '#1B5E20' if '★' in score else '#455A64'
+            ax.add_patch(mpatches.Rectangle((1.55 + (j+1)*2.8 - 1.25, y-0.35), 2.5, 0.7,
+                                             facecolor=color, edgecolor='#607D8B', linewidth=0.8))
+            ax.text(1.55 + (j+1)*2.8, y, score, ha='center', va='center',
+                    fontsize=12, color=text_color, fontweight='bold')
+
+    # Combinações clássicas (footer)
+    combos = ('Combinações clássicas: Implante + BBL (projeção + contorno lateral) · '
+              'Implante + Retalho (pós-bariátrico com volume insuficiente) · '
+              'BBL + Lifting (ptose + hipotrofia)')
+    ax.text(5.5, 0.5, combos, ha='center', va='center', fontsize=8.5,
+            bbox=dict(facecolor='#FFF3E0', edgecolor='#F57C00', boxstyle='round,pad=0.4'))
+
+    save(fig, 'gluteoplastia', 'glut-tec-combinada-matrix.png')
+
+
+def glut_tec_etching_hdbs():
+    """Gluteal etching / HDBS — áreas de marcação em vista posterior."""
+    fig, ax = plt.subplots(figsize=(9, 8))
+    ax.set_xlim(0, 9); ax.set_ylim(0, 8); ax.axis('off')
+
+    ax.set_title('Gluteal etching — contorno glúteo de alta definição (HDBS)',
+                 fontsize=12, fontweight='bold', pad=10)
+
+    # Silhueta posterior
+    # Dorso
+    ax.add_patch(mpatches.FancyBboxPatch((2.0, 5.5), 5.0, 1.5,
+                                          boxstyle="round,pad=0.1",
+                                          facecolor='#FFE0B2', edgecolor='#8D6E63', linewidth=1.5))
+    # Cintura (cintura estreita via PMI)
+    ax.add_patch(mpatches.FancyBboxPatch((2.8, 4.8), 3.4, 0.8,
+                                          boxstyle="round,pad=0.1",
+                                          facecolor='#FFE0B2', edgecolor='#8D6E63', linewidth=1.5))
+    # Glúteos
+    for cx in [3.2, 5.8]:
+        ax.add_patch(mpatches.Ellipse((cx, 3.3), 2.2, 2.5, facecolor='#FFE0B2',
+                                       edgecolor='#8D6E63', linewidth=1.5))
+    # Coxas
+    ax.add_patch(mpatches.FancyBboxPatch((2.2, 0.5), 2.0, 1.8,
+                                          boxstyle="round,pad=0.1",
+                                          facecolor='#FFE0B2', edgecolor='#8D6E63', linewidth=1.5))
+    ax.add_patch(mpatches.FancyBboxPatch((4.8, 0.5), 2.0, 1.8,
+                                          boxstyle="round,pad=0.1",
+                                          facecolor='#FFE0B2', edgecolor='#8D6E63', linewidth=1.5))
+
+    # Triângulo sacral (V-shape, aspirar para definição)
+    sacral = plt.Polygon([(3.8, 5.1), (5.2, 5.1), (4.5, 3.8)],
+                          facecolor='#FF7043', edgecolor='#BF360C', linewidth=2, alpha=0.75)
+    ax.add_patch(sacral)
+    ax.text(4.5, 4.5, 'V\nsacral', ha='center', va='center', fontsize=9,
+            color='white', fontweight='bold')
+
+    # Fossetas de Vênus (Dimples of Venus)
+    ax.plot(3.8, 5.15, 'o', markersize=10, color='#4A148C', markeredgecolor='white', markeredgewidth=1.5)
+    ax.plot(5.2, 5.15, 'o', markersize=10, color='#4A148C', markeredgecolor='white', markeredgewidth=1.5)
+    ax.text(2.2, 5.15, 'Fossetas\nde Vênus', fontsize=7.5, ha='right',
+            color='#4A148C', fontweight='bold')
+
+    # Dobras paralumbares (linhas que levam ao V)
+    ax.plot([2.5, 3.8], [6.5, 5.1], color='#BF360C', linewidth=1.5, linestyle='--')
+    ax.plot([6.5, 5.2], [6.5, 5.1], color='#BF360C', linewidth=1.5, linestyle='--')
+    ax.text(1.8, 6.5, 'Linhas\nparalumbares', fontsize=7.5, ha='right', color='#BF360C')
+
+    # Áreas de deep etching (vermelho) e blending (laranja)
+    # Lateral ao glúteo (flanco)
+    ax.add_patch(mpatches.Ellipse((1.5, 3.5), 0.8, 1.8, facecolor='#E53935', alpha=0.5))
+    ax.add_patch(mpatches.Ellipse((7.5, 3.5), 0.8, 1.8, facecolor='#E53935', alpha=0.5))
+
+    # Legenda
+    ax.add_patch(mpatches.Rectangle((0.3, 0.6), 0.3, 0.3, facecolor='#FF7043', alpha=0.75))
+    ax.text(0.7, 0.75, 'Deep etching (aspiração agressiva)', fontsize=7.5, va='center')
+    ax.add_patch(mpatches.Rectangle((0.3, 0.2), 0.3, 0.3, facecolor='#E53935', alpha=0.5))
+    ax.text(0.7, 0.35, 'Blending (transição suave)', fontsize=7.5, va='center')
+
+    # Footer
+    ax.text(4.5, 7.5, 'Hoyos & Millard (HDBS, 2014): marcação em 4 zonas — '
+                      'V sacral, fossetas de Vênus, paralumbares, lateral glútea.',
+            ha='center', fontsize=8, fontstyle='italic', color='#455A64')
+
+    save(fig, 'gluteoplastia', 'glut-tec-etching-hdbs.png')
+
+
 if __name__ == '__main__':
     print("Gerando diagramas esquemáticos...\n")
 
@@ -1365,5 +1758,14 @@ if __name__ == '__main__':
     lipo_lal_laser()
     lipo_rfal_bodytite()
     lipo_lipoenxertia_coleman()
+
+    print("\n=== GLUTEOPLASTIA ===")
+    glut_anat_neurovascular()
+    glut_anat_musculos_camadas()
+    glut_tec_bbl_safety()
+    glut_tec_lifting_gluteo()
+    glut_tec_retalho_flap()
+    glut_tec_combinada_matrix()
+    glut_tec_etching_hdbs()
 
     print("\nDiagramas gerados com sucesso!")

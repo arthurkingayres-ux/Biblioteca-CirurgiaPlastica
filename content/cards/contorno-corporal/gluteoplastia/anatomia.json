@@ -16,7 +16,13 @@
     ],
     "surgical_relevance": "lesão durante dissecção de bolso para implantes pode causar sangramento significativo; referência para zona de segurança na lipoenxertia",
     "how_to_identify": "localizada acima da borda superior do piriforme no forame isquiático maior",
-    "images": [],
+    "images": [
+      {
+        "file": "glut-anat-neurovascular.png",
+        "caption": "Artéria glútea superior emerge pelo forame suprapiriforme; zona de perigo no BBL fica submuscular — preservar cânula subcutânea.",
+        "credit": "Diagrama esquemático — Neligan vol. 2, cap. 28; Multi-Society Task Force BBL 2018/2022"
+      }
+    ],
     "citations": [
       "Neligan, Plastic Surgery 5ª Ed., 2023",
       "Mofid et al., PRS, 2015"
@@ -46,7 +52,13 @@
     ],
     "surgical_relevance": "Contorno lateral do glúteo médio é alvo de lipoenxertia para refinamento de silhueta; na técnica híbrida, gordura é injetada lateralmente sobre o glúteo médio enquanto implante projeta o máximo.",
     "how_to_identify": "Porção lateral da nádega, palpável com abdução do quadril contra resistência.",
-    "images": [],
+    "images": [
+      {
+        "file": "glut-anat-musculos-camadas.png",
+        "caption": "Músculo glúteo médio — camada intermediária entre máximo (superficial) e mínimo (profundo); inervação pelo n. glúteo superior (L4–S1); abdutor principal.",
+        "credit": "Diagrama esquemático — Neligan vol. 2, cap. 28; Grabb & Smith cap. 77"
+      }
+    ],
     "citations": [
       "Neligan, Plastic Surgery 5ª Ed., 2023"
     ],
@@ -74,7 +86,13 @@
     ],
     "surgical_relevance": "Raramente abordado diretamente na gluteoplastia estética; serve como referência anatômica profunda",
     "how_to_identify": "Não palpável clinicamente; identificado em dissecção profunda",
-    "images": [],
+    "images": [
+      {
+        "file": "glut-anat-musculos-camadas.png",
+        "caption": "Músculo glúteo mínimo — camada profunda, sobre a asa do íleo; inervação n. glúteo superior; abdutor + rotação interna.",
+        "credit": "Diagrama esquemático — Neligan vol. 2, cap. 28; Grabb & Smith cap. 77"
+      }
+    ],
     "citations": [
       "Neligan, Plastic Surgery 5ª Ed., 2023"
     ],
@@ -106,7 +124,13 @@
     ],
     "surgical_relevance": "lesão durante dissecção de bolso para implantes pode causar sangramento significativo; referência para zona de segurança na lipoenxertia",
     "how_to_identify": "localizada acima da borda superior do piriforme no forame isquiático maior",
-    "images": [],
+    "images": [
+      {
+        "file": "glut-anat-neurovascular.png",
+        "caption": "Artéria glútea superior — pedículo principal dos retalhos glúteos superiores; emerge acima do piriforme.",
+        "credit": "Diagrama esquemático — Neligan vol. 2, cap. 28"
+      }
+    ],
     "citations": [
       "Neligan, Plastic Surgery 5ª Ed., 2023",
       "Mofid et al., PRS, 2015"
@@ -137,7 +161,13 @@
     ],
     "surgical_relevance": "risco de lesão na dissecção intramuscular profunda; veias intramiocelulares tributárias são o principal sítio de entrada de gordura na circulação durante BBL com injeção intramuscular",
     "how_to_identify": "localizada abaixo da borda inferior do piriforme, adjacente ao nervo ciático",
-    "images": [],
+    "images": [
+      {
+        "file": "glut-anat-neurovascular.png",
+        "caption": "Artéria glútea inferior emerge pelo forame infrapiriforme acompanhando n. ciático; veia homônima é via de embolia no BBL transmuscular.",
+        "credit": "Diagrama esquemático — Neligan vol. 2, cap. 28; Mulholland ASJ 2019"
+      }
+    ],
     "citations": [
       "Neligan, Plastic Surgery 5ª Ed., 2023",
       "Mofid et al., PRS, 2015"
@@ -168,7 +198,13 @@
     ],
     "surgical_relevance": "Risco de neuropraxia na gluteoplastia com implantes no plano submuscular/intramuscular; sintomas incluem queimação e dor irradiada na coxa/perna ipsilateral",
     "how_to_identify": "Landmark lateral ao piriforme; não palpável, mas identificável pela relação com piriforme e tuberosidade isquiática",
-    "images": [],
+    "images": [
+      {
+        "file": "glut-anat-neurovascular.png",
+        "caption": "Nervo ciático — emerge inferior ao piriforme em 85% dos casos (variantes intrapiriforme/suprapiriforme em 15%); lesão gera déficit motor irreversível.",
+        "credit": "Diagrama esquemático — Neligan vol. 2, cap. 28"
+      }
+    ],
     "citations": [
       "Mofid et al., PRS, 2015",
       "Matarasso & Rosenberg, PRS, 1985"
@@ -198,7 +234,13 @@
     ],
     "surgical_relevance": "lesão pode causar déficit de abdução do quadril (marcha de Trendelenburg)",
     "how_to_identify": "identificado na dissecção profunda acima do piriforme",
-    "images": [],
+    "images": [
+      {
+        "file": "glut-anat-neurovascular.png",
+        "caption": "Nervo glúteo superior acompanha a a. glútea superior pelo forame suprapiriforme; inerva glúteo médio, mínimo e tensor da fáscia lata.",
+        "credit": "Diagrama esquemático — Neligan vol. 2, cap. 28"
+      }
+    ],
     "citations": [
       "Neligan, Plastic Surgery 5ª Ed., 2023"
     ],
@@ -227,7 +269,13 @@
     ],
     "surgical_relevance": "lesão na dissecção do plano submuscular para implantes pode causar atrofia do glúteo máximo; a anatomia neurovascular é crítica no plano intramuscular",
     "how_to_identify": "identificado abaixo do piriforme na dissecção profunda",
-    "images": [],
+    "images": [
+      {
+        "file": "glut-anat-neurovascular.png",
+        "caption": "Nervo glúteo inferior acompanha a a. glútea inferior pelo forame infrapiriforme; único inervador do glúteo máximo.",
+        "credit": "Diagrama esquemático — Neligan vol. 2, cap. 28"
+      }
+    ],
     "citations": [
       "Neligan, Plastic Surgery 5ª Ed., 2023",
       "Mofid et al., PRS, 2015"
@@ -257,7 +305,13 @@
     ],
     "surgical_relevance": "Contorno lateral do glúteo médio é alvo de lipoenxertia para refinamento de silhueta; na técnica híbrida, gordura é injetada lateralmente sobre o glúteo médio enquanto implante projeta o máximo; seu contorno só se evidencia com etching superficial cuidadoso",
     "how_to_identify": "Porção lateral da nádega, palpável com abdução do quadril contra resistência",
-    "images": [],
+    "images": [
+      {
+        "file": "glut-anat-musculos-camadas.png",
+        "caption": "Glúteo médio — relação topográfica com plano subfascial preferido para implantes.",
+        "credit": "Diagrama esquemático — Neligan vol. 2, cap. 28"
+      }
+    ],
     "citations": [
       "Hoyos & Prendergast, HDBS, cap. 2",
       "Neligan, Plastic Surgery 5ª Ed., 2023"
@@ -286,7 +340,13 @@
     ],
     "surgical_relevance": "raramente abordado diretamente na gluteoplastia estética; serve como referência anatômica profunda",
     "how_to_identify": "não palpável clinicamente; identificado em dissecção profunda",
-    "images": [],
+    "images": [
+      {
+        "file": "glut-anat-musculos-camadas.png",
+        "caption": "Glúteo mínimo — camada profunda adjacente ao periósteo ilíaco.",
+        "credit": "Diagrama esquemático — Neligan vol. 2, cap. 28"
+      }
+    ],
     "citations": [
       "Neligan, Plastic Surgery 5ª Ed., 2023"
     ],
@@ -317,7 +377,13 @@
     ],
     "surgical_relevance": "Risco de lesão na dissecção intramuscular profunda. Veias intramiocelulares tributárias são o principal sítio de entrada de gordura na circulação durante BBL com injeção intramuscular. O plexo venoso profundo e as artérias glúteas superior e inferior em plano intramuscular constituem a via anatômica de embolização caso a cânula atinja um vaso durante BBL",
     "how_to_identify": "Localizada abaixo da borda inferior do piriforme, adjacente ao nervo ciático, acompanhada pelo nervo glúteo inferior",
-    "images": [],
+    "images": [
+      {
+        "file": "glut-anat-neurovascular.png",
+        "caption": "Artéria glútea inferior — risco de embolia gordurosa via veia homônima quando cânula transgride o plano muscular no BBL.",
+        "credit": "Diagrama esquemático — Multi-Society Task Force BBL 2018/2022"
+      }
+    ],
     "citations": [
       "Hoyos & Prendergast, HDBS, cap. 15",
       "Neligan, Plastic Surgery 5ª Ed., 2023",
@@ -350,7 +416,13 @@
     ],
     "surgical_relevance": "Lipoplastia meticulosa do triângulo sacral define as bordas superiores das nádegas e cria a transição anatômica natural entre dorso e região glútea",
     "how_to_identify": "Visualizado em pé, com as depressões correspondentes às espinhas ilíacas póstero-superiores delimitando a base do triângulo",
-    "images": [],
+    "images": [
+      {
+        "file": "glut-anat-pelve-ossea.png",
+        "caption": "Triângulo sacral — V anatômico delimitado por EIPS bilaterais e topo do sulco interglúteo; landmark-chave de marcação HDBS.",
+        "credit": "Hoyos & Millard, HDBS, 2014, cap. 10"
+      }
+    ],
     "citations": [
       "Hoyos & Prendergast, HDBS, cap. 2"
     ],
@@ -380,7 +452,13 @@
     ],
     "surgical_relevance": "Risco de neuropraxia na gluteoplastia com implantes no plano submuscular/intramuscular; sintomas incluem queimação e dor irradiada na coxa/perna ipsilateral",
     "how_to_identify": "Landmark lateral ao piriforme; não palpável, mas identificável pela relação com piriforme e tuberosidade isquiática",
-    "images": [],
+    "images": [
+      {
+        "file": "glut-anat-neurovascular.png",
+        "caption": "Nervo ciático — variantes anatômicas exigem dissecção cautelosa em retalhos profundos e cirurgias combinadas.",
+        "credit": "Diagrama esquemático — Neligan vol. 2, cap. 28"
+      }
+    ],
     "citations": [
       "Mofid et al., PRS, 2015",
       "Matarasso & Rosenberg, PRS, 1985"
@@ -412,7 +490,13 @@
     ],
     "surgical_relevance": "lesão pode causar déficit de abdução do quadril (marcha de Trendelenburg)",
     "how_to_identify": "identificado na dissecção profunda acima do piriforme",
-    "images": [],
+    "images": [
+      {
+        "file": "glut-anat-neurovascular.png",
+        "caption": "Nervo glúteo superior — lesão compromete abdução do quadril (marcha de Trendelenburg).",
+        "credit": "Diagrama esquemático — Neligan vol. 2, cap. 28"
+      }
+    ],
     "citations": [
       "Neligan, Plastic Surgery 5ª Ed., 2023"
     ],
@@ -441,7 +525,13 @@
     ],
     "surgical_relevance": "Lesão na dissecção do plano submuscular para implantes pode causar atrofia do glúteo máximo; a anatomia neurovascular é crítica no plano intramuscular",
     "how_to_identify": "Identificado abaixo do piriforme na dissecção profunda",
-    "images": [],
+    "images": [
+      {
+        "file": "glut-anat-neurovascular.png",
+        "caption": "Nervo glúteo inferior — lesão gera atrofia do glúteo máximo e perda de extensão do quadril.",
+        "credit": "Diagrama esquemático — Neligan vol. 2, cap. 28"
+      }
+    ],
     "citations": [
       "Neligan, Plastic Surgery 5ª Ed., 2023",
       "Mofid et al., PRS, 2015"
