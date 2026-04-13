@@ -1,0 +1,26 @@
+{
+  "topic": "principios-excisao-margens",
+  "area": "pele-tumores",
+  "displayName": "Principios excisao margens",
+  "version": "v1.0",
+  "date": "2026-04-12",
+  "status": "draft",
+  "references": [
+    "Neligan's Plastic Surgery, 5ª ed., Elsevier, 2023, vol. 1, cap. 10 (Wound healing) e cap. 20 (Skin graft)",
+    "Neligan's Plastic Surgery, 5ª ed., Elsevier, 2023, vol. 1 — capítulos de lesões cutâneas benignas, carcinoma basocelular, carcinoma espinocelular, melanoma (bloco de Skin/Tumors em Principles)",
+    "Grabb and Smith's Plastic Surgery, 9ª ed., 2024 — capítulos sobre lesões cutâneas e princípios oncológicos",
+    "Neligan Core Procedures, 2ª ed., Elsevier, 2020 — capítulo sobre excisão e reparo primário",
+    "Practical Facial Reconstruction: Theory and Practice — planejamento de excisão em face, subunidades estéticas",
+    "Operative Dictations in Plastic and Reconstructive Surgery — excisão elíptica, biópsias, Mohs"
+  ],
+  "articles": [
+    "(A ser povoado em varredura futura — diretrizes NCCN para BCC/SCC/melanoma, AJCC 8ª edição, literatura sobre nevo displásico e lentigo maligno.)"
+  ],
+  "cardCounts": {
+    "anatomia": 4,
+    "tecnicas": 4,
+    "decisoes": 0,
+    "notas": 12,
+    "flashcards": 33
+  }
+}

@@ -1,0 +1,170 @@
+[
+  {
+    "id": "rlf-anat-001",
+    "type": "anatomy",
+    "title": "Subunidades Estéticas da Face",
+    "aliases": [
+      "Princípio de Burget-Menick",
+      "Princípio de Gonzalez-Ulloa"
+    ],
+    "topic": "retalhos-locais-face",
+    "area": "pele-tumores",
+    "definition": "A face é dividida em regiões topográficas com características homogêneas de cor, textura, espessura, pilificação e relevo. As bordas entre subunidades são locais ideais para ocultação de cicatrizes.",
+    "location": "Face",
+    "relations": [
+      "nariz",
+      "fronte",
+      "periorbital",
+      "região malar",
+      "região labial",
+      "mento",
+      "região auricular",
+      "sulco nasogeniano",
+      "sulco alar",
+      "sulco melolabial",
+      "sulco nasolabial",
+      "região pré-auricular",
+      "filtro labial"
+    ],
+    "surgical_relevance": "O desenho do retalho deve posicionar as cicatrizes ao longo das bordas de subunidades (sulcos nasogeniano, alar, melolabial, nasolabial, pré-auricular, filtro). Cicatrizes dentro de uma subunidade destacam-se como 'patching'. Regra dos 50%: se o defeito ocupa ≥ 50% de uma subunidade, amplia-se a excisão para retirar toda a subunidade antes de reconstruir.",
+    "how_to_identify": "Fotografia frontal e perfil; demarcação pré-operatória com paciente em pé; luz tangencial para evidenciar sulcos.",
+    "images": [],
+    "citations": [
+      "Neligan, 2023, vol. 3, cap. 8"
+    ],
+    "updates": [],
+    "tags": [
+      "anatomia",
+      "subunidades-esteticas",
+      "face",
+      "nariz",
+      "burget-menick",
+      "gonzalez-ulloa",
+      "retalhos",
+      "cicatrizes"
+    ]
+  },
+  {
+    "id": "rlf-anat-003",
+    "type": "anatomy",
+    "title": "Vascularização Cutânea e Retalhos Randômicos",
+    "aliases": [
+      "random-pattern flaps",
+      "axial-pattern flaps",
+      "angiossoma"
+    ],
+    "topic": "retalhos-locais-face",
+    "area": "pele-tumores",
+    "definition": "A pele é nutrida por três plexos interconectados — subdérmico (principal, logo abaixo da derme), dérmico e subpapilar. Retalhos randômicos não contêm artéria nomeada no pedículo e dependem integralmente do plexo subdérmico. Retalhos axiais contêm artéria nomeada direta. Angiossoma é unidade tridimensional de tecido nutrida por artéria-fonte e seus ramos, com territórios adjacentes conectados por choke vessels.",
+    "location": "Face — ricamente vascularizada por ramos da carótida externa (artérias facial, temporal superficial, transversa da face) e carótida interna (supratroclear, supraorbital, dorsal nasal)",
+    "relations": [
+      "carótida externa",
+      "carótida interna",
+      "artéria facial",
+      "artéria temporal superficial",
+      "artéria transversa da face",
+      "artéria supratroclear",
+      "artéria supraorbital",
+      "artéria dorsal nasal",
+      "plexo subdérmico",
+      "plexo dérmico",
+      "plexo subpapilar",
+      "choke vessels"
+    ],
+    "surgical_relevance": "A face possui rede anastomótica densa permitindo razão C/L segura de 3:1 (comparado com 2:1 no tronco e 1,5:1 em extremidades). O plexo subdérmico preservado é crítico — dissecção em plano subcutâneo adequado. Delay phenomenon raramente indicado em face. Manutenção da razão C/L previne isquemia distal.",
+    "how_to_identify": "Doppler pré-operatório mapeia artérias axiais (supratroclear para retalho frontal paramediano); palpação do pulso facial no bordo anterior do masseter; transluminação do retalho ao final da dissecção para avaliar perfusão distal",
+    "images": [],
+    "citations": [
+      "Neligan, 2023, vol. 1, cap. 23",
+      "Taylor & Palmer, Cutaneous Arteries"
+    ],
+    "updates": [],
+    "tags": [
+      "anatomia",
+      "vascularizacao",
+      "retalhos-locais",
+      "face",
+      "plexos-vasculares",
+      "angiossoma",
+      "razao-c-l"
+    ]
+  },
+  {
+    "id": "rlf-anat-004",
+    "type": "anatomy",
+    "title": "Arco de Rotação, Back-cut e Dog-ear",
+    "aliases": [
+      "standing cutaneous deformity"
+    ],
+    "topic": "retalhos-locais-face",
+    "area": "pele-tumores",
+    "definition": "Conjunto de três conceitos relacionados a retalhos de rotação: (1) Arco de Rotação - amplitude angular disponível para rotação do retalho ao redor de seu ponto pivô na base do pedículo; (2) Back-cut - incisão complementar perpendicular ao eixo do pedículo que aumenta o arco de rotação efetivo; (3) Dog-ear - protuberância de pele formada quando comprimentos das bordas da ferida não se igualam após fechamento",
+    "location": "Base do pedículo do retalho (ponto pivô); extremidade oposta ao pivô do retalho ou pontas de elipse curta (dog-ear)",
+    "relations": [
+      "retalho de rotação",
+      "retalho de avanço",
+      "excisão elíptica",
+      "excisão em triângulo",
+      "M-plastia",
+      "triângulo de Burow's",
+      "romboides",
+      "retalho bilobado",
+      "Limberg"
+    ],
+    "surgical_relevance": "O arco de rotação determina amplitude de mobilização tecidual com risco de tensão aumentada na borda interna e formação de dog-ear. O back-cut aumenta efetividade mas risca reduzir largura da base vascular se excessivo. A prevenção de dog-ear através do planejamento angular adequado é preferível à correção pós-operatória. Ângulos de 30° em rombóides e bilobados, e 60/120° em Limberg, minimizam dog-ear.",
+    "how_to_identify": "Dog-ear é identificado durante o fechamento: pinçar as bordas com pinça de Adson antes do fechamento definitivo e observar se elevam-se cones de pele",
+    "images": [],
+    "citations": [
+      "Neligan, 2023, vol. 1, cap. 23",
+      "Grabb & Smith, 2024, cap. 35"
+    ],
+    "updates": [],
+    "tags": [
+      "anatomia",
+      "retalhos-locais",
+      "tecnica-cirurgica",
+      "face",
+      "dog-ear",
+      "back-cut",
+      "arco-rotacao",
+      "prevencao-complicacoes"
+    ]
+  },
+  {
+    "id": "rlf-anat-005",
+    "type": "anatomy",
+    "title": "Landmarks Imóveis da Face",
+    "aliases": [],
+    "topic": "retalhos-locais-face",
+    "area": "pele-tumores",
+    "definition": "Estruturas cuja posição e forma não toleram tração do retalho sem gerar distorção visível ou funcional. São os 'linhas vermelhas' do planejamento cirúrgico.",
+    "location": "Face, incluindo região superciliar, palpebral, nasal, labial e auricular",
+    "relations": [
+      "supercílio",
+      "pálpebra inferior",
+      "canto medial",
+      "canto lateral",
+      "ala nasal",
+      "comissura labial",
+      "filtro",
+      "arco do Cupido",
+      "hélice",
+      "tragus"
+    ],
+    "surgical_relevance": "O vetor de tensão do fechamento deve sempre apontar para longe desses landmarks. Quando há dúvida, preferir retalho mais complexo que preserve landmark a retalho simples que o distorça. Previne complicações como ectrópio, epicanto cirúrgico, alar notching e assimetria facial.",
+    "how_to_identify": "Demarcação pré-operatória com paciente sentado; revisão em múltiplas posições (olhar para frente, sorriso, olhar para cima) para testar dinamicamente.",
+    "images": [],
+    "citations": [
+      "Neligan, 2023, vol. 3, caps. 6–10"
+    ],
+    "updates": [],
+    "tags": [
+      "anatomia",
+      "face",
+      "landmarks",
+      "retalhos-locais",
+      "planejamento-cirurgico",
+      "distorcao-facial"
+    ]
+  }
+]

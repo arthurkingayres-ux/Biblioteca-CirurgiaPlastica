@@ -1,0 +1,392 @@
+[
+  {
+    "id": "rlf-nota-001",
+    "type": "note",
+    "title": "Introdução - Retalhos Locais de Face",
+    "topic": "retalhos-locais-face",
+    "area": "pele-tumores",
+    "section": "introdução",
+    "content": [
+      "Os retalhos locais de face são a espinha dorsal da reconstrução cutânea facial pós-excisional — em especial após ressecção de tumores cutâneos (basocelular, espinocelular, melanoma) e traumas. Comparados a enxertos de pele, oferecem correspondência superior de cor, textura, espessura e presença de anexos cutâneos; comparados a retalhos livres ou a distância, são mais simples, mais rápidos e evitam morbidade doadora significativa.",
+      "A reconstrução facial é regida por três conceitos inseparáveis: (1) as RSTL (Relaxed Skin Tension Lines) ditam a orientação da cicatriz final; (2) as subunidades estéticas ditam onde a cicatriz deve ficar; (3) a vascularização randômica via plexo subdérmico impõe limites geométricos de C/L (comprimento/largura) aos retalhos. O domínio dessas três dimensões, somado ao respeito aos landmarks imóveis de cada região (ala nasal livre, pálpebra inferior, comissura labial, tragus, supercílio), separa o resultado aceitável do resultado superior.",
+      "A epidemiologia é dominada pela excisão de tumores cutâneos não melanoma em peles foto-expostas (face representa > 80% dos CBC — Carcinomas Basocelulares — diagnosticados em áreas foto-expostas), com crescimento anual sustentado em populações envelhecidas. A escolha entre fechamento primário, enxerto e retalho local depende do tamanho do defeito, profundidade, subunidade acometida, mobilidade do tecido adjacente e expectativa estética do paciente."
+    ],
+    "images": [],
+    "citations": [
+      "Neligan, 2023, vol. 3, cap. 1",
+      "Neligan, 2023, vol. 3, caps. 6–10",
+      "Grabb & Smith, 2024, cap. 35"
+    ],
+    "updates": [],
+    "tags": [
+      "introducao",
+      "retalhos-locais",
+      "face",
+      "reconstrucao-facial",
+      "tumores-cutaneos",
+      "carcinoma-basocelular",
+      "enxertos",
+      "rstl",
+      "subunidades-esteticas",
+      "vascularizacao"
+    ]
+  },
+  {
+    "id": "rlf-nota-003",
+    "type": "note",
+    "title": "Physiology / Pathophysiology",
+    "topic": "retalhos-locais-face",
+    "area": "pele-tumores",
+    "section": "fisiopatologia",
+    "content": [
+      "Sobrevida do retalho cutâneo randômico depende da perfusão pelo plexo subdérmico do pedículo. O comprimento máximo sobrevivente é determinado pela pressão de perfusão capilar distal, que cai exponencialmente com a distância do pedículo. A razão C/L limite é: 3:1 na face (rica em anastomose), 2:1 no tronco, 1,5:1 em extremidades. Ultrapassar estes limites resulta em isquemia distal e necrose parcial ou total.",
+      "Na fase isquêmica precoce (0–48 h), todo retalho passa por período de hipoperfusão transitória. As medidas com evidência mais consistente incluem intervenções farmacológicas como nitroglicerina tópica em casos selecionados e manobras para reduzir tensão de fechamento e evitar hematoma sob o retalho.",
+      "A neovascularização ocorre entre 72 h – 7 dias, quando o retalho começa a receber aporte do leito receptor. A partir do 7º dia, o pedículo pode ser seccionado em retalhos de transferência em dois tempos (delay reverso).",
+      "A cicatrização por intenção primária em face é extraordinariamente favorável se mantida tensão mínima e vascularização preservadas. A face possui alta densidade de folículos pilosos e glândulas sebáceas (fontes de re-epitelização acessória) e é hipervascularizada. Paradoxalmente, essa riqueza torna a face especialmente propensa a trap-door (complicação em retalhos circulares).",
+      "O tabagismo afeta significativamente a sobrevida: fumantes ativos apresentam taxa de necrose parcial de retalhos faciais 2–3× maior. Recomendação universal: suspender tabagismo pelo menos 4 semanas antes e 2 semanas após o procedimento."
+    ],
+    "images": [],
+    "citations": [
+      "Neligan, 2023, vol. 1, cap. 23",
+      "Grabb & Smith, 2024, cap. 35"
+    ],
+    "updates": [],
+    "tags": [
+      "fisiopatologia",
+      "retalhos-cutaneos",
+      "sobrevida-retalhos",
+      "neovascularizacao",
+      "cicatrizacao-facial",
+      "tabagismo",
+      "isquemia",
+      "complicacoes-cirurgicas"
+    ]
+  },
+  {
+    "id": "rlf-nota-004",
+    "type": "note",
+    "title": "Avaliação do Defeito",
+    "topic": "retalhos-locais-face",
+    "area": "pele-tumores",
+    "section": "diagnóstico",
+    "content": [
+      "Todo planejamento começa no defeito, não na técnica. Seis perguntas estruturam a avaliação:",
+      "Tamanho e forma: medir maior eixo × menor eixo × profundidade. Fotografia com régua.",
+      "Profundidade: pele apenas / pele + subcutâneo / até fáscia ou pericôndrio / até osso/cartilagem exposta (leito avascular → considerar enxerto composto ou retalho com conteúdo vascular).",
+      "Subunidade estética acometida: identificar qual (nasal, malar, labial etc.) e se o defeito ocupa ≥ 50% da subunidade (regra do 50% → ampliar até a subunidade inteira).",
+      "Proximidade de landmarks imóveis: ectropizável? Distorceria ala? Comissura? Supercílio?",
+      "Mobilidade do tecido adjacente: pinch test — quanto de pele adjacente pode ser mobilizada sem tração em landmark. Idosos com pele redundante toleram retalhos maiores que jovens com pele tensa.",
+      "Características da pele: sebácea (ponta nasal, mento) → alto risco de trap-door; fina e móvel (pálpebras) → alto risco de distorção; fotodanificada / actínica → maior risco de tumor adicional em sítio doador."
+    ],
+    "images": [],
+    "citations": [
+      "Documento RAG — retalhos-locais-face"
+    ],
+    "updates": [],
+    "tags": [
+      "diagnostico",
+      "avaliacao-defeito",
+      "retalhos-locais",
+      "subunidades-esteticas",
+      "planejamento-cirurgico",
+      "pele-face"
+    ]
+  },
+  {
+    "id": "rlf-nota-005",
+    "type": "note",
+    "title": "Classificação dos Defeitos por Região",
+    "topic": "retalhos-locais-face",
+    "area": "pele-tumores",
+    "section": "diagnostico",
+    "content": [
+      "Nasal: classificação pela subunidade (Burget-Menick). Terço superior (raiz, dorso proximal): pele fina, móvel — aceita retalhos de avanço/rotação pequenos. Terço médio (dorso distal, paredes laterais): pele intermediária — glabellar, bilobado pequeno. Terço distal (ponta, asa, triângulo mole): pele espessa, sebácea, aderente — padrão-ouro é retalho bilobado de Zitelli para defeitos ≤ 1,5 cm; retalho frontal paramediano para defeitos > 1,5 cm ou defeitos em espessura total.",
+      "Malar (bochecha): defeitos pequenos (< 2 cm) → avanço ou rotação. Defeitos médios (2–5 cm) → retalho cervicofacial (Mustardé) ou rotação grande. Grandes → retalhos a distância. Atenção à pálpebra inferior — todo retalho malar vetoriza tensão para baixo, arriscando ectrópio. Suspensão periosteal é medida preventiva.",
+      "Perioral: respeitar unidades labiais (filtro, vermelhão, modíolo). Defeitos < 1/3 do lábio → fechamento primário. 1/3 a 2/3 → retalhos de Abbé (cruzado) ou Estlander (comissural). > 2/3 → Karapandzic, Webster, Bernard-Burow.",
+      "Periorbital: regra de Mustardé para pálpebra inferior — defeito < 25% fecha primário; 25–50% requer avanço semicircular (Tenzel); > 50% necessita retalho de Hughes (tarsoconjuntival + enxerto) ou Cutler-Beard para pálpebra superior.",
+      "Frontal: pele aderente ao periósteo, sem plano móvel em jovens. Avanço bilateral tipo 'H'; avanço em O-T; rotação grande; retalhos de expansão tecidual para defeitos grandes. Respeitar linha do cabelo e linhas horizontais da testa (RSTL).",
+      "Auricular: cartilagem exposta sem pericôndrio = leito avascular — enxerto simples não pega. Requer retalho para fornecer aporte vascular: retalho retroauricular, retalho revolving-door, retalho tubular de Washio."
+    ],
+    "images": [],
+    "citations": [
+      "Neligan, 2023, vol. 3, cap. 8",
+      "Neligan, 2023, vol. 3, cap. 7",
+      "Neligan, 2023, vol. 3, cap. 6",
+      "Neligan, 2023, vol. 3, cap. 9",
+      "Neligan, 2023, vol. 3, cap. 10"
+    ],
+    "updates": [],
+    "tags": [
+      "diagnostico",
+      "retalhos-locais",
+      "face",
+      "defeitos-nasais",
+      "defeitos-malares",
+      "defeitos-perioral",
+      "defeitos-periorbital",
+      "defeitos-frontal",
+      "defeitos-auricular",
+      "classificacao-regional",
+      "planejamento-cirurgico"
+    ]
+  },
+  {
+    "id": "rlf-nota-006",
+    "type": "note",
+    "title": "Cuidados Pós-operatórios",
+    "topic": "retalhos-locais-face",
+    "area": "pele-tumores",
+    "section": "pós-operatório",
+    "content": [
+      "Curativo: cobertura não-aderente (Mepitel, Adaptic) por 24–48 h; vaselina em linhas de sutura a partir do 2º dia.",
+      "Gelo local: 20 min a cada 2 h nas primeiras 48 h — reduz edema e dor.",
+      "Dormir com cabeceira elevada: 30–45°, por 7 dias — reduz edema facial.",
+      "Analgesia: paracetamol como 1ª linha; dipirona; evitar AINEs e ácido acetilsalicílico nas primeiras 48 h (risco de hematoma). Opioide apenas se falha.",
+      "Antibiótico profilático: em geral não necessário em reconstrução facial limpa com técnica asséptica; considerar em pacientes imunossuprimidos, defeitos em espessura total com exposição de cartilagem nasal, mucosa oral aberta.",
+      "Retirada de pontos: 5–7 dias na face (exceto pálpebras: 3–5 dias). Steri-strips por mais 5 dias reduzem alargamento da cicatriz.",
+      "Proteção solar: FPS 50+ na cicatriz por 6–12 meses (prevenção de hiperpigmentação pós-inflamatória).",
+      "Retorno: 1ª semana (retirada de pontos); 1 mês; 3 meses; 6 meses; 12 meses (cicatriz madura).",
+      "Massagem da cicatriz: a partir da 3ª semana, 2–3× ao dia, por 3–6 meses — melhora maleabilidade e reduz hipertrofia."
+    ],
+    "images": [],
+    "citations": [
+      "Mepitel",
+      "Adaptic"
+    ],
+    "updates": [],
+    "tags": [
+      "pos-operatorio",
+      "retalhos-locais",
+      "face",
+      "analgesia",
+      "antibiotico-profilatico",
+      "cicatriz",
+      "protecao-solar",
+      "massagem-cicatriz"
+    ]
+  },
+  {
+    "id": "rlf-nota-007",
+    "type": "note",
+    "title": "Necrose do Retalho",
+    "topic": "retalhos-locais-face",
+    "area": "pele-tumores",
+    "section": "complicações",
+    "content": [
+      "A incidência de necrose do retalho em retalhos bem planejados é menor que 5%, sendo a necrose parcial distal mais comum que a total.",
+      "A prevenção inclui: respeitar a razão C/L máxima de 3:1 na face, manter o plano subcutâneo correto, evitar tensão de fechamento, controlar tabagismo e realizar hemostasia rigorosa para evitar hematoma sob o retalho.",
+      "O diagnóstico no pós-operatório imediato apresenta palidez ou cianose distal com enchimento capilar lento. A necrose estabelecida manifesta-se em 48 a 72 horas com escurecimento e mumificação.",
+      "O manejo consiste em observação inicial, pois necrose parcial pode demarcar e cicatrizar por segunda intenção em áreas pequenas. Deve-se realizar desbridamento conservador após demarcação completa e considerar reconstrução secundária se a área for extensa. A câmara hiperbárica é indicada em casos selecionados com retalho em risco, mas não em necrose já estabelecida."
+    ],
+    "images": [],
+    "citations": [
+      "Neligan, 2023, vol. 1, cap. 23"
+    ],
+    "updates": [],
+    "tags": [
+      "complicacoes",
+      "necrose",
+      "retalho",
+      "face",
+      "manejo",
+      "prevencao",
+      "diagnostico"
+    ]
+  },
+  {
+    "id": "rlf-nota-008",
+    "type": "note",
+    "title": "Trap-door (Pincushion Deformity)",
+    "topic": "retalhos-locais-face",
+    "area": "pele-tumores",
+    "section": "complicacoes",
+    "content": [
+      "Incidência: mais comum em retalhos circulares ou curvos em pele espessa (ponta nasal, mento, malar sebáceo) — até 10–15% em reconstrução nasal sem medidas preventivas.",
+      "Prevenção: planejar retalhos com bordas retas em vez de curvas sempre que possível; descolamento amplo da pele circundante; suturas de ancoragem subcutâneas; massagem da cicatriz precoce.",
+      "Diagnóstico: bloco de tecido elevado e arredondado no sítio reconstruído, mais evidente 2–3 meses pós-operatório quando a cicatriz retrai.",
+      "Manejo: conservador inicialmente — massagem, infiltração de corticoide (triancinolona 10 mg/mL, 2–3 sessões com 4 semanas de intervalo); cirurgia de revisão com Z-plastia ou ressecção em fuso após 12 meses se persistente."
+    ],
+    "images": [],
+    "citations": [
+      "Grabb & Smith, 2024, cap. 35"
+    ],
+    "updates": [],
+    "tags": [
+      "complicacoes",
+      "trap-door",
+      "pincushion-deformity",
+      "retalhos-faciais",
+      "cicatriz",
+      "corticoide"
+    ]
+  },
+  {
+    "id": "rlf-nota-009",
+    "type": "note",
+    "title": "Deiscência",
+    "topic": "retalhos-locais-face",
+    "area": "pele-tumores",
+    "section": "complicacoes",
+    "content": [
+      "Incidência menor que 3% em face devido à pele bem vascularizada e alta capacidade de cicatrização. Maior risco em pacientes tabagistas, diabéticos e imunossuprimidos.",
+      "Prevenção através de: tensão mínima no fechamento, sutura em dois planos (subcutâneo e pele), uso de steri-strips e repouso relativo.",
+      "Diagnóstico caracterizado por abertura parcial ou total da cicatriz nas primeiras 1 a 2 semanas após o procedimento.",
+      "Manejo varia conforme apresentação: curativos úmidos para cicatrização por segunda intenção em casos pequenos; re-sutura se as bordas estão viáveis e o caso é precoce (menos de 48 horas); revisão cirúrgica tardia indicada se houver cicatriz alargada."
+    ],
+    "images": [],
+    "citations": [
+      "Documento RAG — retalhos-locais-face"
+    ],
+    "updates": [],
+    "tags": [
+      "complicacoes",
+      "deiscencia",
+      "retalhos-locais-face",
+      "cicatrizacao",
+      "manejo-cirurgico"
+    ]
+  },
+  {
+    "id": "rlf-nota-010",
+    "type": "note",
+    "title": "Distorção de Landmarks",
+    "topic": "retalhos-locais-face",
+    "area": "pele-tumores",
+    "section": "complicacoes",
+    "content": [
+      "Ectrópio da pálpebra inferior é a complicação mais temida em reconstrução malar, com incidência de 5–20% em reconstruções malares sem suspensão periosteal e < 2% com suspensão. Apresenta-se com eversão da margem palpebral inferior, epífora, exposição corneana e scleral show.",
+      "Prevenção do ectrópio inclui: vetor de tensão horizontal, cantopexia lateral e suspensão ao periósteo orbital inferior. Manejo precoce (< 3 meses) envolve massagem, steri-strips e tração vertical passiva. Manejo tardio inclui cantoplastia/cantopexia lateral, enxerto espaçador e cirurgia de revisão.",
+      "Alar notching e retração alar apresentam incidência variável, mais comum em reconstruções sem enxerto cartilaginoso de sustentação, manifestando-se como entalhe na margem alar e assimetria narinária.",
+      "Prevenção de alar notching requer sempre avaliar necessidade de enxerto cartilaginoso (auricular) em reconstruções alares em espessura total e evitar vetor de tensão cefálico sobre a margem alar. Manejo inclui enxerto cartilaginoso secundário e composto auricular.",
+      "Desvio de comissura labial é prevenido por ancoragem ao modíolo, respeito à simetria dinâmica e fotografia pré-operatória em sorriso forçado. Manejo envolve revisão com reposicionamento comissural e comissuroplastia tardia.",
+      "Elevação do supercílio é prevenida mantendo vetor de tensão sempre afastado do supercílio. Manejo inclui cirurgia de revisão ou blefaroplastia/lifting frontal compensatório."
+    ],
+    "images": [],
+    "citations": [
+      "Neligan, 2023, vol. 3, cap. 9",
+      "Neligan, 2023, vol. 3, cap. 8"
+    ],
+    "updates": [],
+    "tags": [
+      "complicacoes",
+      "distorcao-landmarks",
+      "ectrópio-palpebral",
+      "alar-notching",
+      "desvio-comissura",
+      "elevacao-supercilio",
+      "retalhos-faciais",
+      "reconstrucao-malar"
+    ]
+  },
+  {
+    "id": "rlf-nota-011",
+    "type": "note",
+    "title": "Cicatriz Hipertrófica e Queloide",
+    "topic": "retalhos-locais-face",
+    "area": "pele-tumores",
+    "section": "complicações",
+    "content": [
+      "A face apresenta baixa propensão a queloide, com exceção da linha mandibular, mento e região esternal, que são consideradas zonas queloidianas. Cicatrizes hipertróficas são mais comuns na região facial.",
+      "A prevenção inclui: realizar cicatriz seguindo as RSTL (Relaxed Skin Tension Lines), minimizar tensão, manter proteção solar por 6–12 meses e realizar massagem regular.",
+      "O diagnóstico de cicatriz hipertrófica é estabelecido pela presença de elevação, eritema e prurido da cicatriz, tipicamente observados entre 3–6 meses após o procedimento operatório.",
+      "O manejo inicial inclui aplicação de silicone em gel ou fita por 12–24 horas diárias durante 3 meses. Outras opções são infiltração de triancinolona e terapia com laser (laser vascular para eritema, laser fracionado para textura). A revisão cirúrgica deve ser realizada apenas após maturação completa da cicatriz, em período não inferior a 12 meses."
+    ],
+    "images": [],
+    "citations": [
+      "Documento RAG — retalhos-locais-face"
+    ],
+    "updates": [],
+    "tags": [
+      "complicacoes",
+      "cicatriz-hipertrofica",
+      "queloide",
+      "retalhos-locais-face",
+      "prevencao",
+      "manejo-cicatricial"
+    ]
+  },
+  {
+    "id": "rlf-nota-012",
+    "type": "note",
+    "title": "Hematoma",
+    "topic": "retalhos-locais-face",
+    "area": "pele-tumores",
+    "section": "complicacoes",
+    "content": [
+      "Incidência de 1–3%.",
+      "Prevenção através de hemostasia meticulosa, evitar AINEs e antiagregantes no peri-operatório, aplicação de curativo compressivo leve e elevação da cabeceira.",
+      "Diagnóstico identificado por tumefação dolorosa, equimose progressiva e retalho com palidez por compressão.",
+      "Manejo com drenagem precoce em menos de 24 horas através de abertura da ferida, remoção do coágulo, identificação e cauterização do ponto sangrante, seguido de re-sutura. Raramente abordagem conservadora se hematoma pequeno e estável."
+    ],
+    "images": [],
+    "citations": [
+      "Documento RAG — retalhos-locais-face"
+    ],
+    "updates": [],
+    "tags": [
+      "complicacoes",
+      "hematoma",
+      "retalhos-locais-face",
+      "hemostasia",
+      "drenagem"
+    ]
+  },
+  {
+    "id": "rlf-nota-013",
+    "type": "note",
+    "title": "Infecção",
+    "topic": "retalhos-locais-face",
+    "area": "pele-tumores",
+    "section": "complicacoes",
+    "content": [
+      "Incidência: < 2% em cirurgia facial limpa.",
+      "Prevenção: antissepsia com clorexidina alcoólica ou PVP-I, técnica asséptica; antibiótico profilático em casos selecionados.",
+      "Diagnóstico: eritema, calor, dor, secreção purulenta entre 3–7 dias pós-operatório.",
+      "Manejo: antibiótico oral (cefalexina, clindamicina); drenagem de abscesso se formado; cultura e sensibilidade se falha terapêutica."
+    ],
+    "images": [],
+    "citations": [
+      "Documento RAG — retalhos-locais-face"
+    ],
+    "updates": [],
+    "tags": [
+      "complicacoes",
+      "infeccao",
+      "prevencao",
+      "diagnostico",
+      "manejo",
+      "antibiotico",
+      "cirurgia-facial"
+    ]
+  },
+  {
+    "id": "rlf-nota-014",
+    "type": "note",
+    "title": "Procedimentos Secundários",
+    "topic": "retalhos-locais-face",
+    "area": "pele-tumores",
+    "section": "revisao",
+    "content": [
+      "Revisão de cicatriz após 12 meses quando a cicatriz está madura. As técnicas disponíveis incluem ressecção simples em fuso, Z-plastia indicada para cicatriz contrátil ou que cruza RSTL, W-plastia para cicatriz longa e retilínea, escarificação ou dermabrasion, e laser fracionado.",
+      "Enxerto cartilaginoso secundário em reconstruções alares com retração, utilizando cartilagem auricular conchal ou composto auricular.",
+      "Infiltração de corticoide ou laser vascular para tratamento de cicatrizes hipertróficas e eritematosas.",
+      "Comissuroplastia indicada em casos de microstomia pós-reconstrução perioral.",
+      "Cantopexia ou cantoplastia para correção de ectrópio residual.",
+      "Reconstrução em 2º tempo em retalhos pediculados como frontal paramediano, Abbé, Hughes e Cutler-Beard, com secção do pedículo e refinamento após 3 semanas."
+    ],
+    "images": [],
+    "citations": [
+      "Documento RAG — retalhos-locais-face"
+    ],
+    "updates": [],
+    "tags": [
+      "revisao",
+      "procedimentos-secundarios",
+      "cicatriz",
+      "retalhos-pediculados",
+      "reconstrucao-facial",
+      "enxerto-cartilaginoso",
+      "laser-vascular"
+    ]
+  }
+]

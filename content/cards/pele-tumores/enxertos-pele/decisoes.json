@@ -1,0 +1,91 @@
+[
+  {
+    "id": "enxp-dec-001",
+    "type": "decision",
+    "title": "FTSG × STSG: Árvore de Decisão",
+    "topic": "enxertos-pele",
+    "area": "pele-tumores",
+    "trigger": "Necessidade de cobertura por enxerto de pele (FTSG ou STSG)",
+    "steps": [
+      {
+        "question": "Qual é a localização anatômica da lesão a ser recoberta?",
+        "options": [
+          {
+            "answer": "Face, mão, dedo ou articulação (área funcional/estética crítica)",
+            "next": "Considerar FTSG"
+          },
+          {
+            "answer": "Tronco, extremidades ou sítio doador de retalho",
+            "next": "Considerar STSG"
+          }
+        ]
+      },
+      {
+        "question": "Qual é a prioridade clínica: match estético/funcional ou cobertura rápida de grande área?",
+        "options": [
+          {
+            "answer": "Match estético excelente e contratura mínima (<10%)",
+            "next": "Indicado FTSG"
+          },
+          {
+            "answer": "Cobertura rápida de grande superfície (queimado ou trauma extenso)",
+            "next": "Indicado STSG meshado"
+          }
+        ]
+      },
+      {
+        "question": "Qual é a qualidade do leito receptor disponível?",
+        "options": [
+          {
+            "answer": "Leito ótimo com vascularização excelente",
+            "next": "FTSG é viável (baixa tolerância a leito marginal)"
+          },
+          {
+            "answer": "Leito bom mas com áreas marginais ou cicatriciais",
+            "next": "Preferir STSG (alta tolerância a leito marginal)"
+          }
+        ]
+      },
+      {
+        "question": "Qual é a extensão da área a ser enxertada?",
+        "options": [
+          {
+            "answer": "Pequena a média (≤5–10 cm²)",
+            "next": "FTSG é opção viável"
+          },
+          {
+            "answer": "Grande (>10 cm² ou superfícies extensas)",
+            "next": "STSG com possível meshing (ampliação até 3×)"
+          }
+        ]
+      },
+      {
+        "question": "Qual é o contexto clínico: eletivo ou urgência?",
+        "options": [
+          {
+            "answer": "Eletivo com possibilidade de curva de aprendizado",
+            "next": "FTSG (contratura final melhor, match estético superior)"
+          },
+          {
+            "answer": "Urgência (queimado extenso ou trauma agudo)",
+            "next": "STSG meshado é a regra geral para agilizar cobertura"
+          }
+        ]
+      }
+    ],
+    "citations": [
+      "Grabb & Smith, 2024, cap. 3",
+      "Neligan, 2023, vol. 4, cap. 18"
+    ],
+    "updates": [],
+    "tags": [
+      "decisao",
+      "enxertos-pele",
+      "ftsg",
+      "stsg",
+      "cobertura-cutanea",
+      "cirurgia-plastica",
+      "algoritmo-clinico"
+    ]
+  }
+]

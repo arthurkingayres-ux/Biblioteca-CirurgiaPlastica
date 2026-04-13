@@ -1,0 +1,213 @@
+{
+  "id": "excm-fc-001",
+  "type": "flashcard",
+  "topic": "principios-excisao-margens",
+  "area": "pele-tumores",
+  "cards": [
+    {
+      "front": "Qual a margem de segurança recomendada para Carcinoma Basocelular de baixo risco?",
+      "back": "4 mm",
+      "citation": "Neligan's Plastic Surgery, 5ª ed., 2023, vol. 1",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Qual a margem de segurança para Carcinoma Espinocelular de baixo risco?",
+      "back": "4 mm",
+      "citation": "Neligan's Plastic Surgery, 5ª ed., 2023, vol. 1",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Qual a margem de segurança para Carcinoma Espinocelular de alto risco?",
+      "back": "6 mm",
+      "citation": "Neligan's Plastic Surgery, 5ª ed., 2023, vol. 1",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Qual a razão comprimento/largura ideal de uma elipse clássica de excisão?",
+      "back": "3:1 a 4:1",
+      "citation": "Neligan's Plastic Surgery, 5ª ed., 2023, vol. 1",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Qual o ângulo recomendado nas extremidades de uma elipse de excisão para evitar dog-ear?",
+      "back": "30 graus",
+      "citation": "Neligan's Plastic Surgery, 5ª ed., 2023, vol. 1",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Qual a espessura de Breslow para classificação de margens em melanoma?",
+      "back": "0,5 a 2 cm (conforme profundidade)",
+      "citation": "Neligan's Plastic Surgery, 5ª ed., 2023, vol. 1",
+      "domain": "decisao"
+    },
+    {
+      "front": "Qual o percentual da subunidade estética que, se comprometida, justifica ressecção total da subunidade?",
+      "back": "Maior que 50%",
+      "citation": "Practical Facial Reconstruction: Theory and Practice",
+      "domain": "decisao"
+    },
+    {
+      "front": "Em quanto tempo deve ser realizada re-excisão por margem comprometida?",
+      "back": "4 a 6 semanas",
+      "citation": "Neligan's Plastic Surgery, 5ª ed., 2023, vol. 1",
+      "domain": "pos-operatorio"
+    },
+    {
+      "front": "Qual é o padrão-ouro para excisão de tumores de pele com margem mal definida?",
+      "back": "Cirurgia Micrográfica de Mohs (MMS)",
+      "citation": "Neligan's Plastic Surgery, 5ª ed., 2023, vol. 1",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Em que situações a Cirurgia Micrográfica de Mohs é indicada?",
+      "back": "Preservação tecidual importante (face), margem mal definida, recidivas e histologias agressivas",
+      "citation": "Neligan's Plastic Surgery, 5ª ed., 2023, vol. 1",
+      "domain": "decisao"
+    },
+    {
+      "front": "Qual o tumor maligno de pele mais comum do ser humano?",
+      "back": "Carcinoma Basocelular (CBC)",
+      "citation": "Neligan's Plastic Surgery, 5ª ed., 2023, vol. 1",
+      "domain": "fisiopatologia"
+    },
+    {
+      "front": "Qual é a orientação ideal do eixo maior da elipse de excisão em face?",
+      "back": "Seguir as Relaxed Skin Tension Lines (RSTL)",
+      "citation": "Neligan's Plastic Surgery, 5ª ed., 2023, vol. 3; Practical Facial Reconstruction",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Como se identificam as RSTL (Relaxed Skin Tension Lines) em paciente vivo?",
+      "back": "Pregueamento manual da pele, observação de rugas dinâmicas e estáticas, marcação com paciente em posição neutra",
+      "citation": "Neligan's Plastic Surgery, 5ª ed., 2023, vol. 3",
+      "domain": "anatomia"
+    },
+    {
+      "front": "Qual é a direção das RSTL na fronte?",
+      "back": "Horizontais",
+      "citation": "Neligan's Plastic Surgery, 5ª ed., 2023, vol. 3",
+      "domain": "anatomia"
+    },
+    {
+      "front": "Qual é a direção das RSTL nas bochechas?",
+      "back": "Oblíquas",
+      "citation": "Neligan's Plastic Surgery, 5ª ed., 2023, vol. 3",
+      "domain": "anatomia"
+    },
+    {
+      "front": "Qual é a direção das RSTL no pescoço?",
+      "back": "Horizontais",
+      "citation": "Neligan's Plastic Surgery, 5ª ed., 2023, vol. 3",
+      "domain": "anatomia"
+    },
+    {
+      "front": "O que caracteriza a Zona H da face (Mask Zone)?",
+      "back": "Área de alto risco para recidiva e extensão subclínica de tumores de pele, compreendendo pálpebras, região periorbital, nariz, sulcos nasojugal e nasolabial, lábios, queixo e regiões pré e retroauriculares",
+      "citation": "Neligan's Plastic Surgery, 5ª ed., 2023, vol. 1",
+      "domain": "decisao"
+    },
+    {
+      "front": "Qual a margem recomendada para CBC primário em zona H?",
+      "back": "5 a 6 mm ou Mohs",
+      "citation": "Neligan's Plastic Surgery, 5ª ed., 2023, vol. 1",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Qual a margem recomendada para CEC primário em zona H?",
+      "back": "6 a 10 mm ou Mohs",
+      "citation": "Neligan's Plastic Surgery, 5ª ed., 2023, vol. 1",
+      "domain": "tecnica"
+    },
+    {
+      "front": "O que são skip areas em relação à margem de excisão?",
+      "back": "Extensões subclínicas do tumor que podem escapar de margens convencionais, sendo focos de doença não contíguos",
+      "citation": "Neligan's Plastic Surgery, 5ª ed., 2023, vol. 1",
+      "domain": "fisiopatologia"
+    },
+    {
+      "front": "Qual método é essencial para orientação correta da peça de excisão ao patologista?",
+      "back": "Uso de fio, tinta colorida e diagrama descritivo da orientação",
+      "citation": "Neligan Core Procedures, 2ª ed., 2020",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Qual é o principal objetivo na escolha da margem de excisão?",
+      "back": "Controle oncológico deve vir antes de considerações reconstrutivas",
+      "citation": "Neligan Core Procedures, 2ª ed., 2020",
+      "domain": "decisao"
+    },
+    {
+      "front": "Margens livres garantem cura em CBC?",
+      "back": "Não, extensão subclínica pode escapar de cortes em parafina convencional",
+      "citation": "Neligan's Plastic Surgery, 5ª ed., 2023, vol. 1",
+      "domain": "fisiopatologia"
+    },
+    {
+      "front": "Qual é o significado clínico de morfeia ou variante morfeiforme em CBC?",
+      "back": "Histologia agressiva com maior risco de extensão subclínica, indicando Mohs ou margens ampliadas",
+      "citation": "Neligan's Plastic Surgery, 5ª ed., 2023, vol. 1",
+      "domain": "fisiopatologia"
+    },
+    {
+      "front": "Qual é o significado da extensão perineural em tumores de pele?",
+      "back": "Invasão tumoral ao longo dos nervos, aumentando risco de recidiva e justificando Mohs ou margens ampliadas",
+      "citation": "Neligan's Plastic Surgery, 5ª ed., 2023, vol. 1",
+      "domain": "fisiopatologia"
+    },
+    {
+      "front": "Qual é a definição de subunidade estética facial segundo Burget & Menick?",
+      "back": "Divisão topográfica da face em regiões homogêneas por cor, textura, espessura, pilificação e contorno",
+      "citation": "Practical Facial Reconstruction: Theory and Practice",
+      "domain": "anatomia"
+    },
+    {
+      "front": "Onde estão localizadas as bordas entre subunidades estéticas faciais?",
+      "back": "Em sombras e reflexos naturais como sulco melolabial, sulco alar-facial e margem do vermelhão",
+      "citation": "Practical Facial Reconstruction: Theory and Practice",
+      "domain": "anatomia"
+    },
+    {
+      "front": "Qual é o erro clássico no planejamento de excisão em face?",
+      "back": "Sacrificar margem oncológica para seguir RSTL; o câncer dita a forma da peça, o reparo se adapta",
+      "citation": "Neligan's Plastic Surgery, 5ª ed., 2023, vol. 1",
+      "domain": "decisao"
+    },
+    {
+      "front": "Por que a cicatriz torna-se menos visível quando a elipse segue as RSTL?",
+      "back": "Porque fica alinhada com rugas naturais e reduz tração e contração visível",
+      "citation": "Neligan's Plastic Surgery, 5ª ed., 2023, vol. 3",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Qual é o intervalo ideal entre diagnóstico e re-excisão por margem positiva?",
+      "back": "4 a 6 semanas; após este prazo, cicatriz e inflamação dificultam leitura histológica",
+      "citation": "Neligan's Plastic Surgery, 5ª ed., 2023, vol. 1",
+      "domain": "pos-operatorio"
+    },
+    {
+      "front": "O que são linhas de Langer e qual sua aplicação clínica?",
+      "back": "Linhas de menor tensão descritas em cadáveres; menos úteis em vivos, substituídas por RSTL na prática clínica",
+      "citation": "Neligan's Plastic Surgery, 5ª ed., 2023, vol. 3",
+      "domain": "anatomia"
+    },
+    {
+      "front": "Qual é a indicação de imuno-histoquímica em melanoma in situ?",
+      "back": "Complementação diagnóstica em casos de excisão em estágios ou Mohs",
+      "citation": "Neligan's Plastic Surgery, 5ª ed., 2023, vol. 1",
+      "domain": "decisao"
+    },
+    {
+      "front": "Por que nevo displásico e lentigo maligno têm margens controversas?",
+      "back": "Dificuldade em definir limites histológicos precisos e risco variável de transformação maligna",
+      "citation": "Neligan's Plastic Surgery, 5ª ed., 2023, vol. 1",
+      "domain": "fisiopatologia"
+    }
+  ],
+  "tags": [
+    "flashcard",
+    "principios-excisao-margens",
+    "pele-tumores",
+    "cirurgia-plastica",
+    "oncologia-dermatologica"
+  ]
+}
