@@ -1,4 +1,4 @@
-const CACHE_NAME = 'briefing-preop-v12';
+const CACHE_NAME = 'briefing-preop-v13';
 const ASSETS = [
   './',
   './index.html',

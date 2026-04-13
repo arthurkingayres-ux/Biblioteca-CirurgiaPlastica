@@ -128,7 +128,13 @@
     "pearls": [
       "Fixação da ponta superior do retalho ao periósteo da sínfise púbica ou ligamento de Cooper é crítica para evitar recorrência de ptose"
     ],
-    "images": [],
+    "images": [
+      {
+        "file": "cpb-tec-cruroplastia-medial.png",
+        "caption": "Cruroplastia medial — incisão horizontal no sulco inguinal com ressecção em elipse; ancoragem em fáscia de Colles para prevenir migração cicatricial descendente.",
+        "credit": "Diagrama esquemático — Lockwood, PRS 1988/1991"
+      }
+    ],
     "citations": [
       "Lockwood et al., PRS, 1994",
       "Aly et al., PRS, 2003"
@@ -162,7 +168,13 @@
       "Recorrência de ptose (5-20% após 2-3 anos)"
     ],
     "pearls": [],
-    "images": [],
+    "images": [
+      {
+        "file": "cpb-tec-cruroplastia-vertical.png",
+        "caption": "Cruroplastia vertical — incisão longitudinal na face medial da coxa; indicada para excesso vertical predominante (deixa cicatriz visível de virilha a joelho).",
+        "credit": "Diagrama esquemático — Labbé/Neligan 5ª Ed., vol. 2 cap. 29"
+      }
+    ],
     "citations": [
       "Shermak, PRS, 2006"
     ],
@@ -196,7 +208,13 @@
       "Combina acessos múltiplos para melhor contorno circunferencial",
       "Opção de realização em duas fases reduz morbidade operatória"
     ],
-    "images": [],
+    "images": [
+      {
+        "file": "cpb-tec-cruroplastia-360.png",
+        "caption": "Thighplasty circunferencial 360° — combina ressecção medial + lateral (integrada ao lower body lift); maior risco de linfedema e necrose distal.",
+        "credit": "Diagrama esquemático — Hurwitz/Neligan 5ª Ed., vol. 2"
+      }
+    ],
     "citations": [
       "Hurwitz et al., PRS, 2004"
     ],
@@ -229,7 +247,13 @@
       "Dor crônica no sítio de fixação"
     ],
     "pearls": [],
-    "images": [],
+    "images": [
+      {
+        "file": "cpb-tec-fixacao-scarpa-aly.png",
+        "caption": "Fixação de Scarpa ao periósteo do púbis — 3 a 5 pontos não-absorvíveis; previne migração cicatricial cranial e reduz seroma (converte espaço morto em cavidade fechada).",
+        "credit": "Diagrama esquemático — Aly, PRS 2003 (Scarpa-to-periosteum fixation)"
+      }
+    ],
     "citations": [
       "Aly et al., PRS, 2003"
     ],
@@ -263,7 +287,13 @@
       "Deiscência aumentada em região axilar"
     ],
     "pearls": [],
-    "images": [],
+    "images": [
+      {
+        "file": "cpb-tec-l-braquioplastia.png",
+        "caption": "L-braquioplastia — extensão torácica lateral em \"L\" a partir da axila; indicada quando dog-ear axilar ou dobra torácica não resolvem com braquioplastia clássica.",
+        "credit": "Diagrama esquemático — Strauch/Neligan 5ª Ed."
+      }
+    ],
     "citations": [
       "Hurwitz et al., PRS, 2004"
     ],
@@ -298,7 +328,13 @@
       "Executar em camada subcuticular para melhor resultado",
       "Controlar volume aspirado para preservar perfusão vascular"
     ],
-    "images": [],
+    "images": [
+      {
+        "file": "cpb-tec-braquioplastia-marcacoes.png",
+        "caption": "Lipoaspiração adjuvante na braquioplastia — definição de contorno após ressecção cutânea; cânula 3–4 mm, preservar 1 cm dérmico.",
+        "credit": "Diagrama esquemático — Neligan 5ª Ed., vol. 2 cap. 28"
+      }
+    ],
     "citations": [
       "Grabb & Smith's Plastic Surgery, 8a Ed., 2020"
     ],
@@ -334,7 +370,13 @@
       "Recorrência de ptose (5-10%)"
     ],
     "pearls": [],
-    "images": [],
+    "images": [
+      {
+        "file": "cpb-tec-mastopexia-wise.png",
+        "caption": "Mastopexia com padrão Wise (âncora) + pedículo superior — cicatriz vertical + T invertido no IMF; CAM vascularizado por perfurantes do peitoral maior.",
+        "credit": "Diagrama esquemático — Wise, PRS 1956; Neligan 5ª Ed., vol. 5"
+      }
+    ],
     "citations": [
       "Wise, PRS, 1956",
       "Regnault, Clin Plast Surg, 1976"
@@ -370,7 +412,13 @@
     "pearls": [
       "Preservação do pedículo inferior oferece melhor sensibilidade em relação a outras técnicas."
     ],
-    "images": [],
+    "images": [
+      {
+        "file": "cpb-tec-mastopexia-palusa.png",
+        "caption": "Mastopexia vertical — pedículo inferior (Palusa/Lejour); cicatriz apenas vertical (sem sulco), preserva sensibilidade e volume; ideal para ptose leve a moderada.",
+        "credit": "Diagrama esquemático — Lejour, PRS 1994; Palusa/Neligan 5ª Ed."
+      }
+    ],
     "citations": [
       "Palusa et al., Plast Surg, 2011"
     ],
@@ -408,7 +456,13 @@
       "Utilizar tamanho conservador de implante (200-300 mL) em pós-bariátricos para evitar deformidade",
       "Posicionamento subfascial (sub-muscular maior) reduz visibilidade e palpabilidade do implante"
     ],
-    "images": [],
+    "images": [
+      {
+        "file": "cpb-tec-mastopexia-implante.png",
+        "caption": "Mastopexia com implante — bolso dual-plane (Tebbetts I–III); indicação: ptose + deflação severa do polo superior; risco de bottoming-out se pele frágil.",
+        "credit": "Diagrama esquemático — Tebbetts, PRS 2006 (dual-plane)"
+      }
+    ],
     "citations": [
       "Neligan's Plastic Surgery, 5a Ed., 2023"
     ],
@@ -439,7 +493,13 @@
       "Possível recorrência de ptose"
     ],
     "pearls": [],
-    "images": [],
+    "images": [
+      {
+        "file": "cpb-tec-autoaumento-dermoglandular.png",
+        "caption": "Autoaumento com retalho dermoglandular — retalho inferior desepitelizado é rotado cefalicamente e fixado ao m. peitoral no polo superior; evita implante.",
+        "credit": "Diagrama esquemático — Graf/Ribeiro, autoaumento dermoglandular"
+      }
+    ],
     "citations": [
       "Palusa et al., Plast Surg, 2011"
     ],
@@ -469,7 +529,13 @@
       "Maiores riscos vasculares pela extensão da ressecção"
     ],
     "pearls": [],
-    "images": [],
+    "images": [
+      {
+        "file": "cpb-tec-mastopexia-palusa.png",
+        "caption": "Gigantomastia pós-bariátrica — ressecção ampliada com pedículo inferior amplificado ou enxerto livre de CAP (se pedículo > 22 cm); risco de necrose do CAM.",
+        "credit": "Diagrama esquemático — Thorek, PRS 1922; Neligan 5ª Ed., vol. 5"
+      }
+    ],
     "citations": [
       "Shermak et al., PRS, 2006"
     ],
@@ -501,7 +567,13 @@
       "Lesão de ramo marginal mandibular do nervo facial"
     ],
     "pearls": [],
-    "images": [],
+    "images": [
+      {
+        "file": "cpb-tec-lifting-cervical.png",
+        "caption": "Submentoplastia + lifting cervical — incisão submentoniana 2–3 cm, lipoaspiração adjuvante e corset platysmaplasty (plicatura medial em \"X\"); alvo ângulo cervicomental 90–105°.",
+        "credit": "Diagrama esquemático — Feldman, PRS 1990 (corset platysmaplasty)"
+      }
+    ],
     "citations": [
       "Grabb & Smith's Plastic Surgery, 8a Ed., 2020"
     ],
@@ -536,7 +608,13 @@
     "pearls": [
       "Procedimento deve ser realizado como etapa final do contorno corporal para evitar necessidade de reintervenções"
     ],
-    "images": [],
+    "images": [
+      {
+        "file": "cpb-tec-facelift-smas.png",
+        "caption": "Facelift pós-bariátrico — incisão pré + retroauricular + temporal; vetor SMAS alto-lateral (~ 30–45° para zigoma); ressecção cutânea ampla para compensar flacidez severa.",
+        "credit": "Diagrama esquemático — Hamra composite, PRS 1990; Neligan 5ª Ed."
+      }
+    ],
     "citations": [
       "Neligan's Plastic Surgery, 5a Ed., 2023"
     ],
@@ -572,7 +650,13 @@
     "pearls": [
       "Considerar lipoenxertia autóloga apenas em casos selecionados para resultados mais duradouros"
     ],
-    "images": [],
+    "images": [
+      {
+        "file": "cpb-tec-volume-facial-adjuvantes.png",
+        "caption": "Reabilitação de volume facial — lipoenxertia (Coleman) ou HA em 5 zonas: temporal, malar, tear trough, submalar e pré-jowl/mandíbula (2–5 mL/zona gordura; 1–2 mL HA).",
+        "credit": "Diagrama esquemático — Coleman, structural fat grafting; Neligan 5ª Ed."
+      }
+    ],
     "citations": [
       "Neligan's Plastic Surgery, 5a Ed., 2023"
     ],
@@ -620,7 +704,13 @@
       "Uso de drenos Jackson-Pratt por 2-4 semanas reduz complicacoes de seroma",
       "Combinar suspensao de coxas durante abdominoplastia ampla evita segunda incisao"
     ],
-    "images": [],
+    "images": [
+      {
+        "file": "cpb-tec-belt-lipectomy-marcacoes.png",
+        "caption": "Abdominoplastia pós-bariátrica (APB) / dermolipectomia circunferencial — belt lipectomy com ressecção em cinturão e fixação de Scarpa ao periósteo.",
+        "credit": "Diagrama esquemático — Aly, PRS 2003 + Lockwood body lift"
+      }
+    ],
     "citations": [
       "Lockwood et al., PRS, 1994",
       "Aly et al., PRS, 2003",
@@ -671,7 +761,18 @@
       "Cinta compressiva: uso em tempo integral por 4 semanas e parcial por 3-6 meses",
       "Posicionamento em semi-Fowler no pos-operatorio imediato minimiza tensao mecanica sobre a sutura"
     ],
-    "images": [],
+    "images": [
+      {
+        "file": "cpb-tec-belt-lipectomy-marcacoes.png",
+        "caption": "Lower body lift — técnica de Lockwood; ressecção em belt + ancoragem ao sistema fascial superficial (SFS).",
+        "credit": "Diagrama esquemático — Lockwood, PRS 1993–1995 (body lift + SFS)"
+      },
+      {
+        "file": "cpb-tec-fleur-de-lis-marcacoes.png",
+        "caption": "Variante fleur-de-lis — incisão vertical adicional à horizontal quando excesso horizontal é predominante.",
+        "credit": "Diagrama esquemático — Dellon, PRS 1985; Neligan 5ª Ed."
+      }
+    ],
     "citations": [
       "Lockwood et al., PRS, 1991-1994",
       "Grabb & Smith, 2024, cap. 76"
@@ -715,7 +816,13 @@
       "Plicatura fascial com fixacao ao ligamento de Colles reduz a taxa de recidiva de ptose medial da coxa.",
       "Atencao ao lipedema: acumulo bilateral subcutaneo extenso do quadril ao tornozelo, poupando os pes, e indicacao primaria de lipoaspiracao agressiva, nao de abdominoplastia ou cruroplastia excisional isolada."
     ],
-    "images": [],
+    "images": [
+      {
+        "file": "cpb-tec-cruroplastia-medial.png",
+        "caption": "Cruroplastia medial — variante ASCII do card cpb-tec-003; incisão horizontal inguinal + ancoragem em fáscia de Colles.",
+        "credit": "Diagrama esquemático — Lockwood, PRS 1988/1991"
+      }
+    ],
     "citations": [
       "Grabb & Smith, 2024, cap. 76",
       "Lockwood et al., PRS, 1994",
@@ -751,7 +858,13 @@
       "Recorrência de ptose (5-20% após 2-3 anos)"
     ],
     "pearls": [],
-    "images": [],
+    "images": [
+      {
+        "file": "cpb-tec-cruroplastia-vertical.png",
+        "caption": "Cruroplastia vertical — variante ASCII; incisão longitudinal medial para excesso vertical predominante.",
+        "credit": "Diagrama esquemático — Labbé/Neligan 5ª Ed."
+      }
+    ],
     "citations": [
       "Shermak, PRS, 2006"
     ],
@@ -785,7 +898,13 @@
     "pearls": [
       "Técnica circunferencial completa oferece melhor contorno a custo de maior extensão cicatricial"
     ],
-    "images": [],
+    "images": [
+      {
+        "file": "cpb-tec-cruroplastia-360.png",
+        "caption": "Thighplasty 360° — variante ASCII; ressecção circunferencial combinada com lower body lift.",
+        "credit": "Diagrama esquemático — Hurwitz/Neligan 5ª Ed."
+      }
+    ],
     "citations": [
       "Hurwitz et al., PRS, 2004"
     ],
@@ -818,7 +937,13 @@
       "Dor cronica no sitio de fixacao"
     ],
     "pearls": [],
-    "images": [],
+    "images": [
+      {
+        "file": "cpb-tec-fixacao-scarpa-aly.png",
+        "caption": "Fixação de Scarpa ao periósteo — variante ASCII; 3 a 5 pontos ancoram a fáscia ao púbis.",
+        "credit": "Diagrama esquemático — Aly, PRS 2003 (Scarpa-to-periosteum fixation)"
+      }
+    ],
     "citations": [
       "Aly et al., PRS, 2003"
     ],
@@ -864,7 +989,13 @@
       "O padrao longitudinal simetrico tende a reduzir a exposicao cicatricial axilar.",
       "SAL (suction-assisted liposuction tumescente) pode ser combinada a resseccao excisional em casos com adiposidade residual focal."
     ],
-    "images": [],
+    "images": [
+      {
+        "file": "cpb-tec-braquioplastia-marcacoes.png",
+        "caption": "Braquioplastia convencional — variante ASCII; incisão medial do epicôndilo à axila com ressecção fusiforme.",
+        "credit": "Diagrama esquemático — Strauch, Neligan 5ª Ed., vol. 2 cap. 28"
+      }
+    ],
     "citations": [
       "Grabb & Smith, 2024, cap. 76",
       "Neligan, 2023, vol. 2",
@@ -902,7 +1033,13 @@
     "pearls": [
       "Extensao lateral da incisao permite melhor resseccao de redundancia axilar e toracica"
     ],
-    "images": [],
+    "images": [
+      {
+        "file": "cpb-tec-l-braquioplastia.png",
+        "caption": "L-braquioplastia — variante ASCII; extensão torácica lateral em \"L\" para correção de dog-ear axilar.",
+        "credit": "Diagrama esquemático — Strauch/Neligan 5ª Ed."
+      }
+    ],
     "citations": [
       "Hurwitz et al., PRS, 2004"
     ],
@@ -936,7 +1073,13 @@
     "pearls": [
       "Manter cuidado com volume aspirado para preservar vascularizacao do retalho"
     ],
-    "images": [],
+    "images": [
+      {
+        "file": "cpb-tec-braquioplastia-marcacoes.png",
+        "caption": "Lipoaspiração adjuvante — variante ASCII; cânula 3–4 mm e preservação dérmica de 1 cm.",
+        "credit": "Diagrama esquemático — Neligan 5ª Ed."
+      }
+    ],
     "citations": [
       "Grabb & Smith's Plastic Surgery, 8a Ed., 2020"
     ],
@@ -971,7 +1114,13 @@
       "Recorrencia de ptose (5-10%)"
     ],
     "pearls": [],
-    "images": [],
+    "images": [
+      {
+        "file": "cpb-tec-mastopexia-wise.png",
+        "caption": "Mastopexia Wise — variante ASCII; padrão em âncora + pedículo superior.",
+        "credit": "Diagrama esquemático — Wise, PRS 1956"
+      }
+    ],
     "citations": [
       "Wise, PRS, 1956",
       "Regnault, Clin Plast Surg, 1976"
@@ -1007,7 +1156,13 @@
     "pearls": [
       "Preservacao do pediculo inferior garante melhor sensibilidade comparado a tecnica de pediculo superior."
     ],
-    "images": [],
+    "images": [
+      {
+        "file": "cpb-tec-mastopexia-palusa.png",
+        "caption": "Mastopexia vertical — variante ASCII; pedículo inferior, cicatriz apenas vertical.",
+        "credit": "Diagrama esquemático — Lejour/Palusa"
+      }
+    ],
     "citations": [
       "Palusa et al., Plast Surg, 2011"
     ],
@@ -1044,7 +1199,13 @@
       "Utilizar tamanho conservador de implante (200-300 mL) em pacientes pos-bariatricos para evitar deformidade",
       "Posicionamento subfascial (sub-muscular maior) reduz complicacoes"
     ],
-    "images": [],
+    "images": [
+      {
+        "file": "cpb-tec-mastopexia-implante.png",
+        "caption": "Mastopexia com implante — variante ASCII; plano dual-plane de Tebbetts.",
+        "credit": "Diagrama esquemático — Tebbetts, PRS 2006 (dual-plane)"
+      }
+    ],
     "citations": [
       "Neligan's Plastic Surgery, 5a Ed., 2023"
     ],
@@ -1083,7 +1244,13 @@
       "Uso do tecido mamario residual para auto-aumento discreto, evitando a necessidade de implante",
       "Rubin flap e dermal bra sao tecnicas de suspensao interna sem implante que preservam a viabilidade vascular e a sensibilidade do complexo areolo-papilar"
     ],
-    "images": [],
+    "images": [
+      {
+        "file": "cpb-tec-autoaumento-dermoglandular.png",
+        "caption": "Autoaumento dermoglandular — variante ASCII; retalho inferior rotado para polo superior.",
+        "credit": "Diagrama esquemático — Graf/Ribeiro, autoaumento dermoglandular"
+      }
+    ],
     "citations": [
       "Neligan, 2023, vol. 2",
       "Palusa et al., Plast Surg, 2011"
@@ -1116,7 +1283,13 @@
       "Maiores riscos vasculares pela extensao da resseccao"
     ],
     "pearls": [],
-    "images": [],
+    "images": [
+      {
+        "file": "cpb-tec-mastopexia-palusa.png",
+        "caption": "Gigantomastia pós-bariátrica — variante ASCII; pedículo inferior amplificado ou enxerto livre de CAP.",
+        "credit": "Diagrama esquemático — Thorek/Neligan 5ª Ed."
+      }
+    ],
     "citations": [
       "Shermak et al., PRS, 2006"
     ],
@@ -1149,7 +1322,13 @@
       "Lesao de ramo marginal mandibular do nervo facial"
     ],
     "pearls": [],
-    "images": [],
+    "images": [
+      {
+        "file": "cpb-tec-lifting-cervical.png",
+        "caption": "Submentoplastia + lifting cervical — variante ASCII; corset platysmaplasty + lipoaspiração.",
+        "credit": "Diagrama esquemático — Feldman, PRS 1990"
+      }
+    ],
     "citations": [
       "Grabb & Smith's Plastic Surgery, 8a Ed., 2020"
     ],
@@ -1185,7 +1364,13 @@
     "pearls": [
       "Aguardar estabilizacao do contorno corporal antes de realizar o procedimento"
     ],
-    "images": [],
+    "images": [
+      {
+        "file": "cpb-tec-facelift-smas.png",
+        "caption": "Facelift pós-bariátrico — variante ASCII; SMAS robusto + vetor alto-lateral.",
+        "credit": "Diagrama esquemático — Hamra composite; Neligan 5ª Ed."
+      }
+    ],
     "citations": [
       "Neligan's Plastic Surgery, 5a Ed., 2023"
     ],
@@ -1222,7 +1407,13 @@
       "Indicado como complemento ao face lift ou procedimento isolado",
       "Lipoenxertia autologa facial em casos selecionados oferece resultados mais duradouros"
     ],
-    "images": [],
+    "images": [
+      {
+        "file": "cpb-tec-volume-facial-adjuvantes.png",
+        "caption": "Reabilitação de volume facial — variante ASCII; lipoenxertia em 5 zonas faciais.",
+        "credit": "Diagrama esquemático — Coleman; Neligan 5ª Ed."
+      }
+    ],
     "citations": [
       "Neligan's Plastic Surgery, 5a Ed., 2023"
     ],

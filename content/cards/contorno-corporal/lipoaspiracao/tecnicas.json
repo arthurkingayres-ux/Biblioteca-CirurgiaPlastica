@@ -32,7 +32,13 @@
       "Cânulas com orifícios menores e em maior número (tipo basket ou VentX) são preferidas em refinamento superficial",
       "Cânulas tipo basket ou VentX reduzem dano celular e irregularidades em coleta para lipoenxertia"
     ],
-    "images": [],
+    "images": [
+      {
+        "file": "lipo-tec-canulas-por-regiao.png",
+        "caption": "Tabela de seleção de cânulas por região anatômica: diâmetro de trabalho profundo (vermelho) e refinamento superficial (azul). Pescoço 2,4 mm · braços e dorso 3,7/3,0 mm · flancos 4,6/3,7 mm · abdome e coxas 3,7/3,0 mm · joelhos 3,0/2,4 mm. Cânulas Mercedes (3 orifícios) = padrão; VentX/basket = refinamento e coleta para lipoenxertia.",
+        "credit": "Diagrama esquemático — Core Procedures, 2020, cap. 8; Neligan vol. 2, cap. 24"
+      }
+    ],
     "citations": [
       "Core Procedures, 2020, cap.8",
       "Neligan, 2023, vol.2, cap.24"
@@ -81,7 +87,13 @@
       "Melhor retração cutânea que SAL (20-30% maior)",
       "Eficaz em áreas fibrosas e permite lipo HD com escultura muscular"
     ],
-    "images": [],
+    "images": [
+      {
+        "file": "lipo-tec-ual-vaser.png",
+        "caption": "UAL/VASER em corte esquemático: sonda de titânio multicanal emulsifica adipócitos por cavitação acústica (ondas concêntricas). À esquerda adipócitos intactos; à direita tecido emulsificado. Parâmetros: sondas 2,2/2,9/3,7/4,5 mm — modo contínuo em fibroso, pulsátil 10 bursts/s em macio. Endpoint 60–90 s por 100 mL tumescente (VASER seconds).",
+        "credit": "Diagrama esquemático — Hoyos & Millard, ASJ 2007; Nagy & Vanek, ASJ 2012"
+      }
+    ],
     "citations": [
       "Hoyos & Millard, Aesthet Surg J, 2007",
       "Nagy & Vanek, Aesthet Surg J, 2012",
@@ -128,7 +140,13 @@
       "Diminui a fadiga muscular do cirurgião",
       "Produz aspirado de melhor qualidade para lipoenxertia com menor lesão adipocitária comparada à UAL e SAL com cânulas calibrosas"
     ],
-    "images": [],
+    "images": [
+      {
+        "file": "lipo-tec-pal-oscilacao.png",
+        "caption": "PAL (MicroAire): handpiece com cânula em movimento recíproco de 2–3 mm de amplitude a 2.000–4.000 ciclos por minuto. A oscilação facilita penetração em tecido fibroso (dorso, flancos), reduz fadiga do cirurgião em grandes volumes e preserva viabilidade adipocitária para lipoenxertia. Não gera calor — perfil de segurança excelente.",
+        "credit": "Diagrama esquemático — Rohrich, Neligan 5ª Ed. 2023, vol. 2 cap. 24; Core Procedures 2020 cap. 8"
+      }
+    ],
     "citations": [
       "Rohrich, Neligan, 5a Ed., 2023",
       "Neligan, 2023, vol.2, cap.24",
@@ -168,7 +186,13 @@
       "Revisão sistemática de Wollina (2020) não demonstrou superioridade consistente sobre SAL em retração cutânea",
       "Evidência de retração cutânea é controversa"
     ],
-    "images": [],
+    "images": [
+      {
+        "file": "lipo-tec-lal-laser.png",
+        "caption": "LAL (laser-assisted lipolysis): fibra óptica introduzida por cânula emite laser Nd:YAG 1064 nm ou diodo 980 nm, gerando lipólise térmica com halo concêntrico de calor. Revisão sistemática de Wollina (2020) não demonstrou superioridade consistente sobre SAL em retração cutânea. Risco principal: queimadura cutânea e perfuração visceral.",
+        "credit": "Diagrama esquemático — Wollina, J Cosmet Dermatol 2020; Mordon & Plot, ASJ 2009"
+      }
+    ],
     "citations": [
       "Wollina, J Cosmet Dermatol, 2020",
       "Mordon & Plot, Aesthet Surg J, 2009"
@@ -211,7 +235,13 @@
       "Monitorização térmica em tempo real é essencial para evitar queimaduras cutâneas",
       "Temperatura-alvo de 38-42°C na pele e 70°C internamente promove retração cutânea via contração de colágeno e neocolagênese"
     ],
-    "images": [],
+    "images": [
+      {
+        "file": "lipo-tec-rfal-bodytite.png",
+        "caption": "RFAL (BodyTite): radiofrequência bipolar entre eletrodo interno (ponta da cânula no subcutâneo) e eletrodo externo (sobre a pele). Campo de RF aquece tecido entre os dois polos. Alvos monitorados em tempo real: 38–42 °C na pele (azul) e 70 °C no subcutâneo (laranja). Aquecimento dérmico → contração de colágeno + neocolagênese → retração cutânea sem excisão.",
+        "credit": "Diagrama esquemático — Paul & Mulholland, ASJ 2009; Hurwitz & Smith, ASJ 2012"
+      }
+    ],
     "citations": [
       "Paul & Mulholland, Aesthet Surg J, 2009",
       "Hurwitz & Smith, Aesthet Surg J, 2012"
@@ -253,7 +283,13 @@
       "RFAL oferece a melhor proposta de retração cutânea não-excisional",
       "A escolha depende da indicação, experiência do cirurgião e recursos disponíveis"
     ],
-    "images": [],
+    "images": [
+      {
+        "file": "lipo-tec-comparativo-tecnologias.png",
+        "caption": "Árvore de decisão clínica para seleção de tecnologia: tecido fibroso → UAL/VASER; flacidez cutânea moderada → RFAL (BodyTite); área pequena com desejo de retração → LAL; grande volume → PAL; demais cenários → SAL convencional.",
+        "credit": "Diagrama esquemático — Rohrich et al., PRS 2004; Nagy & Vanek, Aesthet Surg J 2012"
+      }
+    ],
     "citations": [
       "Rohrich et al., PRS, 2004",
       "Nagy & Vanek, Aesthet Surg J, 2012"
@@ -301,7 +337,13 @@
       "O aspirado é frequentemente reaproveitado para lipoenxertia em áreas de projeção (peitoral, glúteo, deltoide)",
       "As projeções musculares-alvo incluem: reto abdominal, oblíquos, peitoral, deltoide e glúteo médio"
     ],
-    "images": [],
+    "images": [
+      {
+        "file": "lipo-tec-hdbs-marcacao.png",
+        "caption": "Marcação dinâmica HDBS em torso masculino: zonas positivas (vermelho — reto abdominal em 3 blocos, peitoral — preservar ou enxertar), zonas negativas (azul — linha alba, linhas semilunares, interseções tendíneas — aprofundar) e zonas de transição (laranja — oblíquos — suavizar).",
+        "credit": "Diagrama esquemático — Hoyos & Millard, HDBS 2014, caps. 4, 6 e 8"
+      }
+    ],
     "citations": [
       "Hoyos & Millard, HDBS, 2014, cap.6",
       "Hoyos & Millard, HDBS, 2014, cap.4",
@@ -339,7 +381,13 @@
       "menor dependência de potência de vácuo",
       "menor incidência de irregularidades de superfície"
     ],
-    "images": [],
+    "images": [
+      {
+        "file": "lipo-tec-safe-tempos.png",
+        "caption": "Os 3 tempos da técnica SAFE (Wall & Lee): (1) Separation — cânula basket sem aspiração emulsifica mecanicamente; (2) Aspiration — cânula PAL convencional com aspiração remove o emulsificado; (3) Fat Equalization — cânula basket superficial sem aspiração redistribui a gordura residual para prevenir irregularidades.",
+        "credit": "Diagrama esquemático — Wall & Lee (técnica original); Neligan vol. 2, cap. 24"
+      }
+    ],
     "citations": [
       "Wall & Lee - conceito original da técnica SAFE em três tempos com cânulas PAL",
       "Neligan, 2023, vol.2, cap.24",
@@ -387,7 +435,13 @@
       "Alternativas de processamento: decantação por gravidade, lavagem com soro fisiológico, sistemas comerciais fechados (Revolve, Puregraft)",
       "Variantes derivadas: nanofat (emulsão rica em SVF para injeção intradérmica/regenerativa) e microfat (enxerto subdérmico fino)"
     ],
-    "images": [],
+    "images": [
+      {
+        "file": "lipo-tec-lipoenxertia-coleman.png",
+        "caption": "Técnica de Coleman em 3 tempos: (1) Coleta — seringa 10 mL com cânula Coleman 3 mm, vácuo manual 1–2 mL, doadores abdome inferior/flanco/face medial coxa; (2) Centrifugação — 3.000 rpm × 3 min (~1.200 G) separa em 3 camadas: óleo (descartar), gordura viável (utilizar), fração aquosa (descartar); (3) Injeção — microcânulas 1,5–2,0 mm em múltiplos túneis 3D com alíquotas de 0,1 mL/passagem; sobrecorreção 20–30% (reabsorção esperada 30–70%).",
+        "credit": "Diagrama esquemático — Coleman, PRS 2006; Tonnard et al., PRS 2013; Neligan vol. 2, cap. 24"
+      }
+    ],
     "citations": [
       "Coleman, PRS, 2006",
       "Tonnard et al., PRS, 2013",

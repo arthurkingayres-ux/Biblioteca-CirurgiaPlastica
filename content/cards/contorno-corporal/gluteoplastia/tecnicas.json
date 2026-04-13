@@ -25,7 +25,13 @@
       "técnica indicada especialmente para pacientes magras que rejeitam implantes",
       "resultado conservador em ganho de volume (1–2 cm de projeção)"
     ],
-    "images": [],
+    "images": [
+      {
+        "file": "glut-tec-aponeurose-glutea.png",
+        "caption": "Retalho de avanço dermogorduroso (autoaugmentation) — aponeurose glútea usada para manter projeção no pós-bariátrico sem implante.",
+        "credit": "Neligan vol. 2, cap. 28; Raposo-do-Amaral, PRS 2011"
+      }
+    ],
     "citations": [
       "Le Louarn & Pascal, Aesthetic Surgery Journal, 2011",
       "Pascal & Le Louarn, Aesthetic Surgery Journal, 2010"
@@ -76,7 +82,13 @@
       "manter cânula sempre visível durante injeção",
       "aguardar 5–10 min após injeção antes de movimentar paciente para hemostasia"
     ],
-    "images": [],
+    "images": [
+      {
+        "file": "glut-tec-bbl-safety.png",
+        "caption": "BBL seguro: cânula ≥4 mm paralela à pele, apenas subcutâneo, ≤300 mL/região; zona submuscular é letal via embolia pela v. glútea inferior.",
+        "credit": "Multi-Society Task Force on Gluteal Fat Grafting, ASJ 2018 e atualização 2022"
+      }
+    ],
     "citations": [
       "Mofid et al., Aesthetic Surgery Journal, 2016",
       "Centeno et al., Grabb & Smith, 8ª Ed., 2020",
@@ -126,7 +138,13 @@
       "indicada especialmente em pacientes magras que rejeitam implantes",
       "resultado modesto de aumento de projeção (1–2 cm típico)"
     ],
-    "images": [],
+    "images": [
+      {
+        "file": "glut-tec-aponeurose-glutea.png",
+        "caption": "Autoaugmentation por retalho dermogorduroso — preserva volume glúteo em ptose cutânea severa.",
+        "credit": "Neligan vol. 2, cap. 28"
+      }
+    ],
     "citations": [
       "Le Louarn & Pascal, Aesthetic Surgery Journal, 2011",
       "Pascal & Le Louarn, Aesthetic Surgery Journal, 2010"
@@ -163,7 +181,13 @@
     "pearls": [
       "dissecção cuidadosa dos vasos nutrindo o retalho é fundamental para preservação vascular"
     ],
-    "images": [],
+    "images": [
+      {
+        "file": "glut-tec-retalho-flap.png",
+        "caption": "Retalho glúteo em flap (desepitelizado, pediculado em perfurantes da a. glútea superior) para preservar projeção no lifting pós-bariátrico.",
+        "credit": "Centurion (De la Peña, PRS 2006); Colwell; Raposo-do-Amaral (PRS 2011)"
+      }
+    ],
     "citations": [
       "Centeno, Grabb & Smith, 8ª Ed., 2020"
     ],
@@ -200,7 +224,13 @@
       "Combinar técnicas permite máxima projeção com refinamento de contornos",
       "Planejamento cuidadoso é essencial para evitar sobreposição de riscos"
     ],
-    "images": [],
+    "images": [
+      {
+        "file": "glut-tec-combinada-matrix.png",
+        "caption": "Gluteoplastia combinada implante + lipoenxertia — implante garante projeção central, lipo refina contorno lateral e transição.",
+        "credit": "Neligan vol. 2, cap. 28; Gonzalez, PRS 2014"
+      }
+    ],
     "citations": [
       "Centeno et al., Aesthetic Surgery Journal, 2017"
     ],
@@ -232,7 +262,13 @@
       "risco de necrose do retalho sobre implante"
     ],
     "pearls": [],
-    "images": [],
+    "images": [
+      {
+        "file": "glut-tec-combinada-matrix.png",
+        "caption": "Gluteoplastia combinada implante + retalho — indicada quando volume nativo pós-bariátrico é insuficiente para autoaugmentation isolada.",
+        "credit": "Neligan vol. 2, cap. 28"
+      }
+    ],
     "citations": [
       "Centeno, Grabb & Smith, 8ª Ed., 2020"
     ],
@@ -266,7 +302,13 @@
     "pearls": [
       "resultado combina aumento + rejuvenescimento simultaneamente"
     ],
-    "images": [],
+    "images": [
+      {
+        "file": "glut-tec-combinada-matrix.png",
+        "caption": "BBL + lifting glúteo — corrige simultaneamente hipotrofia e ptose cutânea; vetor vertical do lifting protege o enxerto superior.",
+        "credit": "Hoyos & Millard, HDBS 2014; Mendieta, Gluteal Aesthetic Surgery 2011"
+      }
+    ],
     "citations": [
       "Cárdenas-Camarena et al., Plastic Surgery, 5ª Ed., 2023"
     ],
@@ -308,7 +350,13 @@
       "A gravidade e envelhecimento continuam atuando após a cirurgia, justificando taxa de recorrência de ptose de 10–15% em 3–5 anos",
       "Teste de pinch na região supra-glútea durante deambulação em flexão auxilia na determinação do excesso de pele a ressectar"
     ],
-    "images": [],
+    "images": [
+      {
+        "file": "glut-tec-lifting-gluteo.png",
+        "caption": "Lifting glúteo (gluteoplastia de suspensão) — incisão em cinto no sulco do biquíni, ancoragem na fáscia profunda de Lockwood, vetor vertical.",
+        "credit": "Lockwood, PRS 1995; Neligan vol. 2, cap. 28"
+      }
+    ],
     "citations": [
       "Mendieta, Aesthetic Surgery Journal, 2008",
       "Mendieta, Plastic Surgery, 5ª Ed., 2023",
@@ -358,7 +406,13 @@
       "Evitar compressão direta sobre as nádegas por 2 semanas reduz deiscência da ferida interglútea e limita acúmulo de seroma periprotético",
       "Plano intramuscular associa-se às maiores taxas de migração e seroma, enquanto contratura capsular é rara na região glútea"
     ],
-    "images": [],
+    "images": [
+      {
+        "file": "glut-tec-plano-subfascial.png",
+        "caption": "Plano subfascial para implantes glúteos — atualmente preferido ao subcutâneo (seroma/palpação) e ao intramuscular clássico de Gonzalez (risco neurovascular).",
+        "credit": "De la Peña, PRS 2004; Serra et al., PRS 2013"
+      }
+    ],
     "citations": [
       "Castellanos et al., PRS, 2018",
       "Mofid et al., PRS, 2015",
@@ -411,7 +465,13 @@
       "Ângulo glúteo interno ideal deve situar-se entre 60° e 70° para planejamento do volume inferomedial",
       "Endpoint da entrega ultrassônica determinado pela perda de resistência ('feel') dos tecidos"
     ],
-    "images": [],
+    "images": [
+      {
+        "file": "glut-tec-etching-hdbs.png",
+        "caption": "Gluteal etching (HDBS) — marcação em 4 zonas: V sacral, fossetas de Vênus, paralumbares e lateral glútea; lipoaspiração superficial para definição.",
+        "credit": "Hoyos & Millard, HDBS, 2014, cap. 10"
+      }
+    ],
     "citations": [
       "Hoyos & Prendergast, HDBS, cap. 1",
       "Hoyos & Prendergast, HDBS, cap. 15",
@@ -455,7 +515,13 @@
       "Em candidatas com ptose glútea severa, usar tecido autólogo desepidermizado fornece resultado volumétrico mais durável que lipoenxertia pura",
       "Quando integrado ao lower body lift, combina ressecção de pele e gordura redundantes em abdome inferior, flancos, dorso e coxas com reposicionamento superior"
     ],
-    "images": [],
+    "images": [
+      {
+        "file": "glut-tec-retalho-flap.png",
+        "caption": "Retalho glúteo em flap — alternativa de autoaugmentation com pedículo vascular preservado.",
+        "credit": "Raposo-do-Amaral, PRS 2011"
+      }
+    ],
     "citations": [
       "Centeno, Grabb & Smith, 8ª Ed., 2020",
       "Neligan, 2023, vol. 4, cap. 33"
@@ -493,7 +559,13 @@
       "Evitar sobreloading de técnicas para reduzir risco de complicações compostas",
       "Confirmar volume adiposo suficiente antes de indicar a técnica combinada"
     ],
-    "images": [],
+    "images": [
+      {
+        "file": "glut-tec-combinada-matrix.png",
+        "caption": "Combinada implante + lipoenxertia — matriz decisória por objetivo (projeção vs. contorno lateral vs. ptose).",
+        "credit": "Gonzalez, PRS 2014"
+      }
+    ],
     "citations": [
       "Centeno et al., Aesthetic Surgery Journal, 2017"
     ],
@@ -525,7 +597,13 @@
       "Risco de necrose do retalho sobre implante"
     ],
     "pearls": [],
-    "images": [],
+    "images": [
+      {
+        "file": "glut-tec-combinada-matrix.png",
+        "caption": "Combinada implante + retalho — resgate de pós-bariátrico com massa insuficiente.",
+        "credit": "Neligan vol. 2, cap. 28"
+      }
+    ],
     "citations": [
       "Centeno, Grabb & Smith, 8ª Ed., 2020"
     ],
@@ -561,7 +639,13 @@
       "a combinação BBL + lifting permite aumento volumétrico e rejuvenescimento simultâneo",
       "cicatrizes localizadas em sulco glúteo minimizam visibilidade"
     ],
-    "images": [],
+    "images": [
+      {
+        "file": "glut-tec-combinada-matrix.png",
+        "caption": "Combinada BBL + lifting — complementaridade entre volume enxertado e suspensão cutânea.",
+        "credit": "Hoyos & Millard, HDBS 2014"
+      }
+    ],
     "citations": [
       "Cárdenas-Camarena et al., Plastic Surgery, 5ª Ed., 2023"
     ],
@@ -601,7 +685,13 @@
       "Múltiplas suturas de plicatura sobre fáscia potencializam a suspensão cranial",
       "Cicatriz é trade-off aceitável; informar paciente sobre visibilidade em biquíni/saia baixa"
     ],
-    "images": [],
+    "images": [
+      {
+        "file": "glut-tec-lifting-gluteo.png",
+        "caption": "Lifting glúteo — ancoragem na fáscia de Lockwood previne recidiva precoce da ptose.",
+        "credit": "Lockwood, PRS 1995"
+      }
+    ],
     "citations": [
       "Mendieta, Aesthetic Surgery Journal, 2008",
       "Mendieta, Plastic Surgery, 5ª Ed., 2023",

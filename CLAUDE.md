@@ -216,7 +216,7 @@ Se é planejamento (decidir o que/como fazer antes de executar), é plan mode + 
 
 - **`github`** — operações no repositório remoto (issues, PRs, branches, code search, leitura de outros repos). Usar quando fizer sentido; sem gatilho obrigatório.
 - **`context7`** — **OBRIGATÓRIO** antes de usar qualquer API de terceiros, ao encontrar sintaxe nova ou duvidosa, ao migrar versões de dependências, ou para debug de comportamento específico de biblioteca. **NÃO usar para:** refatoração de código próprio, debug de lógica de negócio, code review, conceitos gerais de programação.
-- **`playwright`** — **OBRIGATÓRIO** para qualquer tarefa que exija browser: testar `webapp/library/` em mobile viewport, capturar screenshots para validar UI, navegar páginas renderizadas, verificar fluxos end-to-end (home → briefing → chat).
+- **Playwright** — **OBRIGATÓRIO** para qualquer tarefa que exija browser: testar `webapp/library/` em mobile viewport, capturar screenshots para validar UI, navegar páginas renderizadas, verificar fluxos end-to-end (home → briefing → chat). **Preferir script standalone `npx` (ex: `tools/validate_briefings.mjs`) sobre MCP** — reproduzível, commitável, CI-ready, imune a falhas silenciosas de startup do servidor MCP. MCP fica como fallback para exploração interativa ao vivo. Lembrete: briefings usam `loading="lazy"`; scripts de validação devem forçar `eager` e aguardar `img.complete` antes de medir, senão reportam falsos positivos.
 
 ### 8. Frontend
 

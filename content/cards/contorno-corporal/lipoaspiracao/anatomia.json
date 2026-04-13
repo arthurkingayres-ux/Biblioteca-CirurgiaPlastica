@@ -17,7 +17,13 @@
     ],
     "surgical_relevance": "Funciona como referência de ancoragem para orientar todas as demais marcações e desenhos pré-operatórios em procedimentos de lipoescultura",
     "how_to_identify": "Identificado visualmente como o ponto mais côncavo da silhueta lateral do paciente, servindo como ponto de referência primário no planejamento cirúrgico",
-    "images": [],
+    "images": [
+      {
+        "file": "lipo-anat-pmi.png",
+        "caption": "PMI — Point of Maximum Indentation na silhueta feminina (cintura) e masculina (linha paralumbar). Ponto âncora para todas as marcações pré-operatórias em lipoescultura.",
+        "credit": "Diagrama esquemático — Hoyos & Millard, HDBS, 2014, cap. 2"
+      }
+    ],
     "citations": [
       "Hoyos & Millard, HDBS, 2014, cap.2"
     ],
@@ -49,7 +55,13 @@
     ],
     "surgical_relevance": "O conhecimento dessas zonas é essencial para prevenção de complicações graves, incluindo lesão nervosa, hemorragia e perfuração visceral.",
     "how_to_identify": "Landmarks anatômicos superficiais: borda mandibular (manter cânula > 2 cm abaixo), ligamento inguinal, sulco glúteo, trajeto da artéria femoral (pulsação palpável)",
-    "images": [],
+    "images": [
+      {
+        "file": "lipo-anat-zonas-seguranca.png",
+        "caption": "Mapa de zonas de segurança e perigo: triângulo submentoniano (n. marginal da mandíbula), virilha (vasos femorais), face medial da coxa (v. safena magna) e abdome profundo (perfuração visceral). Vermelho = alto risco; laranja = risco moderado.",
+        "credit": "Diagrama esquemático — Rohrich & Beran, Grabb & Smith, 8ª Ed., 2020"
+      }
+    ],
     "citations": [
       "Rohrich & Beran, Grabb & Smith, 8a Ed., 2020"
     ],
@@ -85,7 +97,13 @@
     ],
     "surgical_relevance": "A preservação da fascia membranosa durante a lipoaspiração reduz seroma e ptose tardia. A aspiração inadvertida do SAT a menos de 1 cm da derme é o principal fator técnico de irregularidades visíveis e hiperpigmentação cicatricial. O DAT é o alvo primário da lipoaspiração tradicional",
     "how_to_identify": "SAT identifica-se por lóbulos pequenos densamente compartimentados por septos verticais; DAT por lóbulos maiores com septos horizontais frouxos; fascia membranosa é um plano fibroso contínuo",
-    "images": [],
+    "images": [
+      {
+        "file": "lipo-anat-sfs-camadas.png",
+        "caption": "Modelo Lockwood-Markman em corte esquemático: epiderme, derme, tecido adiposo superficial (SAT — preservar, risco de irregularidades se < 1 cm da derme), fáscia membranosa (Scarpa/Camper/Colles — preservar, reduz seroma e ptose), tecido adiposo profundo (DAT — alvo primário da SAL) e fáscia muscular.",
+        "credit": "Diagrama esquemático — Neligan vol. 2, cap. 24; Grabb & Smith cap. 75"
+      }
+    ],
     "citations": [
       "Neligan, 2023, vol.2, cap.24",
       "Grabb & Smith, 2024, cap.75",
@@ -118,7 +136,13 @@
     ],
     "surgical_relevance": "lipoaspiração agressiva sobre zonas de aderência destrói o ponto de fixação anatômico e gera ptose iatrogênica irreversível do tecido adjacente (exemplo: banana roll infraglúteo); recomenda-se preservação ou aspiração mínima dessas zonas",
     "how_to_identify": "reconhecer as cinco zonas clássicas de Rohrich pela sua localização topográfica e pela aderência firme à fáscia muscular subjacente",
-    "images": [],
+    "images": [
+      {
+        "file": "lipo-anat-zonas-aderencia-rohrich.png",
+        "caption": "Cinco zonas de aderência de Rohrich em vista posterior: (1) depressão glútea lateral/trocantérica, (2) sulco glúteo, (3) terço distal posterior da coxa, (4) face medial da coxa e (5) trato iliotibial inferolateral. Aspiração agressiva nestas zonas destrói o ponto de fixação e causa ptose iatrogênica (ex: banana roll infraglúteo).",
+        "credit": "Diagrama esquemático — Rohrich, Neligan vol. 2, cap. 24"
+      }
+    ],
     "citations": [
       "Neligan, 2023, vol.2, cap.24",
       "Core Procedures, 2020, cap.8",

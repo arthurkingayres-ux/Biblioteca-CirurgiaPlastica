@@ -38,7 +38,18 @@
       "Marcação percutânea prévia com agulha de insulina e azul de metileno permite visualização e ajuste fino antes da sutura.",
       "O ajuste final é feito com paciente sentado para avaliar simetria bilateral e contorno helicoidal direto (linha reta vista posteriormente, não em 'C' nem em 'bastão de hockey')."
     ],
-    "images": [],
+    "images": [
+      {
+        "file": "oto-tec-mustarde-sutura.jpg",
+        "caption": "Técnica de Mustarde — suturas de colchoeiro horizontais permanentes (Prolene/Nylon 4-0) criando anti-hélice por moldagem cartilaginosa sem escarificação. 3–5 suturas em padrão radial com ponto focal no ápice do tragus; espaçamento 2–5 mm.",
+        "credit": "Biblioteca Cirurgia Plástica — imagem curada"
+      },
+      {
+        "file": "oto-tec-antihelice-sutura.jpg",
+        "caption": "Detalhe da formação da anti-hélice — suturas atravessam ambos os pericôndrios sem perfurar pele. Ajuste final com paciente sentado: contorno helicoidal direto visto posteriormente.",
+        "credit": "Biblioteca Cirurgia Plástica — imagem curada"
+      }
+    ],
     "citations": [
       "Grabb & Smith, 2024, cap. 57",
       "Neligan, 2023, vol. 3, cap. 28",
@@ -94,7 +105,18 @@
       "Profundidade pós-operatória do ângulo concha-mastoideo deve aproximar-se de 90°; ângulos > 100° indicam subcorreção",
       "Aceitar 2–3 mm de sobrecorreção inicial é preferível, pois o relaxamento tecidual gradual nos primeiros 3 meses causa pequena recidiva"
     ],
-    "images": [],
+    "images": [
+      {
+        "file": "oto-tec-furnas-conchal.jpg",
+        "caption": "Técnica de Furnas — suturas concha-mastoide (2–3 pontos permanentes) fixando cartilagem conchal ao periósteo mastoideo. Reduz projeção por concha hipertrófica (~20% dos casos).",
+        "credit": "Biblioteca Cirurgia Plástica — imagem curada"
+      },
+      {
+        "file": "oto-tec-furnas-projecao.jpg",
+        "caption": "Redução da projeção conchal: vetor da sutura estritamente posterior (em direção à mastoide). Evitar zona < 15 mm superior ao lóbulo e tração medial/superior — risco de estenose do MAE.",
+        "credit": "Biblioteca Cirurgia Plástica — imagem curada"
+      }
+    ],
     "citations": [
       "Grabb & Smith, 2024, cap. 57",
       "Neligan, 2023, vol. 3, cap. 28",
@@ -141,7 +163,13 @@
       "Reduz morbidade vascular e chances de complicações infecciosas",
       "Ideal para deformidades leves-moderadas com desejo de cicatriz mínima"
     ],
-    "images": [],
+    "images": [
+      {
+        "file": "oto-tec-cartilage-sparing.jpg",
+        "caption": "Otoplastia poupadora de cartilagem — suturas percutâneas de Prolene criam anti-hélice sem incisão nem escarificação cartilaginosa. Série piloto de 24 orelhas: 91% de satisfação em 18 meses, 0% pericondrite.",
+        "credit": "Biblioteca Cirurgia Plástica — imagem curada"
+      }
+    ],
     "citations": [
       "Benkler M et al. Plast Reconstr Surg 2023;152(4):689e-692e",
       "Benkler M et al. Plast Reconstr Surg 2023;152(4):689e-692e. DOI: 10.1097/PRS.0000000000010401",
@@ -186,7 +214,13 @@
       "Em pele espessa (homens jovens) favorecer retalho por menor morbidade e maior integração",
       "Taxa de extrusão: 0% com retalho vs. 5,8% histórico (série de 340 orelhas)"
     ],
-    "images": [],
+    "images": [
+      {
+        "file": "oto-tec-retalho-dermofascial.png",
+        "caption": "Retalho dermofáscial pós-auricular rotacionado sobre nós de sutura = barreira mecânica contra extrusão. Taxa de extrusão: 0% vs. 5,8% histórico (Bulstrode 2024, série de 340 orelhas).",
+        "credit": "Diagrama esquemático — Bulstrode NW et al., PRS 2024;154(6):1191e-1199e"
+      }
+    ],
     "citations": [
       "Bulstrode NW et al. Plast Reconstr Surg 2024;154(6):1191e-1199e",
       "Bulstrode NW et al. Plast Reconstr Surg 2024;154(6):1191e-1199e. DOI: 10.1097/PRS.0000000000011342",
@@ -228,7 +262,13 @@
       "Utiliza tecido descartado da própria incisão — sem morbidade de área doadora adicional",
       "Zero extrusão em 24 meses vs. 8,6% no grupo controle histórico"
     ],
-    "images": [],
+    "images": [
+      {
+        "file": "oto-tec-enxerto-livre.png",
+        "caption": "Enxerto livre de tecido mole — fragmento excedente da própria incisão pós-auricular interposto entre o nó da sutura e o pericôndrio. Zero extrusão em 24 meses vs. 8,6% do controle (Alzayadneh 2022).",
+        "credit": "Diagrama esquemático — Alzayadneh I et al., Aesthet Surg J 2022;42(9):NP571-NP575"
+      }
+    ],
     "citations": [
       "Alzayadneh I et al. Aesthet Surg J 2022;42(9):NP571-NP575",
       "Alzayadneh I et al. Aesthet Surg J 2022;42(9):NP571-NP575. DOI: 10.1093/asj/sjac079"
@@ -273,7 +313,18 @@
       "Evita cirurgia em casos de orelha em abano leve-moderada",
       "Custo-efetiva: tratamento não cirúrgico ambulatorial, sem anestesia"
     ],
-    "images": [],
+    "images": [
+      {
+        "file": "oto-tec-moldagem-neonatal.jpg",
+        "caption": "Moldagem neonatal com dispositivo tipo EarWell — aproveita maleabilidade cartilaginosa sob estrogênio materno. Janela: primeiras 1–2 semanas; duração 4–6 semanas. Taxa de sucesso > 90% se iniciada antes de 6 semanas.",
+        "credit": "Biblioteca Cirurgia Plástica — imagem curada"
+      },
+      {
+        "file": "oto-tec-moldagem-prominente.jpg",
+        "caption": "Orelha prominente corrigida por moldagem neonatal — tratamento não cirúrgico ambulatorial, sem anestesia.",
+        "credit": "Biblioteca Cirurgia Plástica — imagem curada"
+      }
+    ],
     "citations": [
       "Neligan, 2023, vol. 3, cap. 28"
     ],
@@ -317,7 +368,13 @@
       "Profundidade controlada de 0,5 mm é crítica para sucesso",
       "Combinação com suturas de Mustarde reduz significativamente recidiva"
     ],
-    "images": [],
+    "images": [
+      {
+        "file": "oto-anat-cartilagem-scoring.jpg",
+        "caption": "Escarificação anterior (Stenstrom) — raspagem controlada de ~0,5 mm da camada superficial da cartilagem, aplicando o Princípio de Gibson: a face escarificada cria curvatura oposta. Combinada com suturas de Mustarde reduz recidiva a 1–2%.",
+        "credit": "Biblioteca Cirurgia Plástica — imagem curada"
+      }
+    ],
     "citations": [
       "Grabb & Smith, 2024, cap. 57",
       "Neligan Core Procedures, 2020, cap. 5"
@@ -355,7 +412,13 @@
       "Ressecar quantidade de cartilagem superior à quantidade de pele para evitar cicatriz visível anterioramente",
       "Everter as margens durante a reaproximação para evitar notching"
     ],
-    "images": [],
+    "images": [
+      {
+        "file": "oto-tec-abordagem-anterior.png",
+        "caption": "Abordagem anterior (lateral) — incisão intra-helicoidal para macrotia ou anti-hélice grosseiramente inadequada. Ressecar mais cartilagem que pele para esconder cicatriz na borda da hélice; reaproximação com mattress 5-0 evertendo margens (evita notching).",
+        "credit": "Diagrama esquemático — Neligan Core Procedures, 2020, cap. 5"
+      }
+    ],
     "citations": [
       "Neligan Core Procedures, 2020, cap. 5"
     ],
