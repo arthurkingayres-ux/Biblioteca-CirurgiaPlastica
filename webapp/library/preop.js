@@ -1,7 +1,7 @@
 // preop.js — Pre-operative briefing assembly
 const PreOp = (() => {
 
-  function buildBriefing(topic) {
+  function buildBriefing(topic, displayName) {
     const anatomyCards = SearchEngine.getByType('anatomy', topic);
     const techniqueCards = SearchEngine.getByType('technique', topic);
     const decisionCards = SearchEngine.getByType('decision', topic);
@@ -22,7 +22,7 @@ const PreOp = (() => {
     const allFlashcards = flashcardCards.flatMap(fc => fc.cards || []);
 
     let html = `<div class="briefing">`;
-    html += `<h2 class="briefing-title">Briefing Pre-Op: ${topic}</h2>`;
+    html += `<h2 class="briefing-title">Briefing Pré-Op: ${displayName || topic}</h2>`;
 
     // Clinical notes (non-complication) — overview, assessment, physiology
     if (otherNotes.length > 0) {
@@ -87,7 +87,7 @@ const PreOp = (() => {
     // Complications
     if (complicationNotes.length > 0) {
       html += `<details class="briefing-section">
-        <summary class="briefing-section-title">Complicações</summary>
+        <summary class="briefing-section-title">Complicações (${complicationNotes.length})</summary>
         <div class="briefing-section-body">
           ${complicationNotes.map(c => Renderer.note(c)).join('')}
         </div>

@@ -99,9 +99,11 @@ const App = (() => {
   // --- Briefing ---
   function openBriefing(topic) {
     const screen = document.getElementById('screen-briefing');
-    screen.innerHTML = PreOp.buildBriefing(topic);
+    const entry = _manifest.find(m => m.topic === topic);
+    const displayName = (entry && entry.displayName) || toTitleCase(topic);
+    screen.innerHTML = PreOp.buildBriefing(topic, displayName);
     showScreen('screen-briefing');
-    document.getElementById('nav-title').textContent = topic;
+    document.getElementById('nav-title').textContent = displayName;
     screen.scrollTop = 0;
   }
 

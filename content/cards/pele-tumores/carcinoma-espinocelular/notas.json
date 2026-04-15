@@ -121,7 +121,7 @@
     "images": [],
     "citations": ["Neligan, 2023, vol. 1, cap. 29", "Lansbury et al., Cochrane 2010"],
     "updates": [],
-    "tags": ["carcinoma-espinocelular", "pele-tumores", "recidiva-local", "mohs", "margem"]
+    "tags": ["carcinoma-espinocelular", "pele-tumores", "recidiva-local", "mohs", "margem", "complicacoes"]
   },
   {
     "id": "cec-nota-008",
@@ -139,7 +139,7 @@
     "images": [],
     "citations": ["Weinberg et al., Dermatol Surg 2007", "NCCN — Squamous Cell Skin Cancer"],
     "updates": [],
-    "tags": ["carcinoma-espinocelular", "pele-tumores", "metastase-regional", "linfonodo", "linfadenectomia"]
+    "tags": ["carcinoma-espinocelular", "pele-tumores", "metastase-regional", "linfonodo", "linfadenectomia", "complicacoes"]
   },
   {
     "id": "cec-nota-009",
@@ -157,6 +157,6 @@
     "images": [],
     "citations": ["NCCN — Squamous Cell Skin Cancer"],
     "updates": [],
-    "tags": ["carcinoma-espinocelular", "pele-tumores", "segundo-cancer", "cbc", "melanoma"]
+    "tags": ["carcinoma-espinocelular", "pele-tumores", "segundo-cancer", "cbc", "melanoma", "complicacoes"]
   }
 ]
