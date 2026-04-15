@@ -1,0 +1,268 @@
+[
+  {
+    "id": "cbc-nota-001",
+    "type": "note",
+    "title": "Diagnosis / Patient Presentation",
+    "topic": "carcinoma-basocelular",
+    "area": "pele-tumores",
+    "section": "diagnóstico",
+    "content": [
+      "A suspeita clínica baseia-se em lesão de crescimento lento em pele fotoexposta de paciente adulto, classicamente pápula ou nódulo perolado com telangiectasias, eventualmente ulcerado (úlcera roedora de Jacob).",
+      "Nodular: pápula ou nódulo perolado, róseo, com telangiectasias e depressão central; pode ulcerar.",
+      "Superficial multicêntrico: placa eritematosa escamosa, frequentemente em tronco, bordas finas e peroladas; diagnóstico diferencial com dermatite, psoríase, doença de Bowen.",
+      "Morfeiforme/esclerosante (infiltrativo esclerosante): placa brancacenta, endurecida, com bordas mal definidas; lembra cicatriz — suspeitar em cicatrizes espontâneas.",
+      "Pigmentado: lesão azul-acinzentada a enegrecida; diagnóstico diferencial com melanoma.",
+      "Basoescamoso: lesão agressiva com características mistas; maior risco de recidiva e de metástase.",
+      "Dermatoscopia: ausência de rede pigmentar associada a pelo menos um dos seguintes achados — vasos arboriformes, áreas em folha (leaf-like areas), grandes ninhos ovoides azul-acinzentados, múltiplos glóbulos azul-acinzentados, áreas em raios de roda (spoke-wheel) e ulceração.",
+      "Biópsia: confirmação histológica é mandatória antes de intervenção definitiva.",
+      "Shave/punch para lesões pequenas planas ou nodulares.",
+      "Excisional para lesões pequenas em que a margem mínima da biópsia pode servir de resseção definitiva.",
+      "Mapping biopsy para lesões mal delimitadas (morfeiforme) — múltiplos punch em eixos predefinidos para estimar extensão subclínica."
+    ],
+    "images": [],
+    "citations": [
+      "Neligan, 2023, vol. 1, cap. 29, Box 29.2"
+    ],
+    "updates": [],
+    "tags": [
+      "diagnostico",
+      "carcinoma-basocelular",
+      "dermatoscopia",
+      "biópsia",
+      "apresentacoes-clinicas",
+      "nodular",
+      "superficial-multicentrico",
+      "morfeiforme",
+      "pigmentado",
+      "basoescamoso",
+      "pele-fotoexposta"
+    ]
+  },
+  {
+    "id": "cbc-nota-003",
+    "type": "note",
+    "title": "Pathophysiology",
+    "topic": "carcinoma-basocelular",
+    "area": "pele-tumores",
+    "section": "fisiopatologia",
+    "content": [
+      "A patogênese do CBC é dominada pela ativação constitutiva da via de sinalização Hedgehog. Em condições fisiológicas, a proteína PATCHED-1 (PTCH1) inibe o receptor SMOOTHENED (SMO); a ligação do ligando Hedgehog a PTCH1 libera SMO, ativando a transcrição de genes-alvo (GLI1, GLI2) envolvidos na proliferação.",
+      "Em mais de 90% dos CBCs esporádicos detectam-se mutações inativadoras em PTCH1 ou ativadoras em SMO, induzidas tipicamente por dímeros de pirimidina induzidos por UV-B.",
+      "A síndrome de Gorlin (nevo basocelular) herda mutações germinativas em PTCH1 com padrão autossômico dominante, manifestando-se com CBCs múltiplos, ceratocistos odontogênicos, calcificação da foice cerebral e anomalias esqueléticas.",
+      "O eixo Hedgehog/PTCH1/SMO é o alvo terapêutico dos inibidores orais vismodegibe e sonidegibe, aprovados para doença localmente avançada ou metastática."
+    ],
+    "images": [],
+    "citations": [
+      "Neligan, 2023, vol. 1, cap. 29",
+      "WHO, 2006"
+    ],
+    "updates": [],
+    "tags": [
+      "fisiopatologia",
+      "hedgehog",
+      "ptch1",
+      "smo",
+      "mutacoes-geneticas",
+      "sindrome-de-gorlin",
+      "vismodegibe",
+      "sonidegibe",
+      "via-sinalizacao"
+    ]
+  },
+  {
+    "id": "cbc-nota-006",
+    "type": "note",
+    "title": "Classificação histológica (Box 29.5 — WHO/Neligan)",
+    "topic": "carcinoma-basocelular",
+    "area": "pele-tumores",
+    "section": "diagnostico",
+    "content": [
+      "Dez subtipos reconhecidos de carcinoma basocelular:",
+      "1. CBC superficial multicêntrico (multifocal superficial)",
+      "2. CBC nodular (sólido, adenoide-cístico)",
+      "3. CBC infiltrativo com variantes não-esclerosante e esclerosante (desmoplásico/morfeiforme)",
+      "4. CBC fibroepitelial (de Pinkus)",
+      "5. CBC com diferenciação anexial (folicular; écrina)",
+      "6. Carcinoma basoescamoso",
+      "7. CBC queratósico",
+      "8. CBC pigmentado",
+      "9. CBC associado à síndrome do nevo basocelular (Gorlin)",
+      "10. CBC micronodular"
+    ],
+    "images": [],
+    "citations": [
+      "Neligan, 2023, vol. 1, cap. 29, Box 29.5",
+      "WHO, 2006"
+    ],
+    "updates": [],
+    "tags": [
+      "diagnostico",
+      "classificacao-histologica",
+      "subtipos-cbc",
+      "who-neligan",
+      "carcinoma-basocelular"
+    ]
+  },
+  {
+    "id": "cbc-nota-007",
+    "type": "note",
+    "title": "Cuidados Pós-operatórios",
+    "topic": "carcinoma-basocelular",
+    "area": "pele-tumores",
+    "section": "pós-operatório",
+    "content": [
+      "Curativo oclusivo por 24–48 h em excisão convencional; revisão e retirada de pontos conforme topografia (face 5–7 dias; tronco/extremidades 10–14 dias).",
+      "Orientação de fotoproteção rigorosa da cicatriz por no mínimo 6 meses (FPS ≥ 50, reaplicação a cada 2 h em exposição).",
+      "Massagem cicatricial e silicone tópico após epitelização completa em zonas de maior risco de hipertrofia.",
+      "Primeira revisão em 2–4 semanas; revisão oncológica em 3–6 meses no primeiro ano."
+    ],
+    "images": [],
+    "citations": [
+      "Documento RAG — carcinoma-basocelular"
+    ],
+    "updates": [],
+    "tags": [
+      "pos-operatorio",
+      "curativo-oclusivo",
+      "retirada-pontos",
+      "fotoproteção",
+      "cicatriz",
+      "massagem-cicatricial",
+      "silicone-topico",
+      "seguimento-oncologico"
+    ]
+  },
+  {
+    "id": "cbc-nota-008",
+    "type": "note",
+    "title": "Recidiva local",
+    "topic": "carcinoma-basocelular",
+    "area": "pele-tumores",
+    "section": "complicacoes",
+    "content": [
+      "Incidência de recidiva local: excisão convencional apresenta taxa de recorrência em 5 anos de aproximadamente 3–5% em casos de baixo risco, podendo alcançar 10–15% em casos de alto risco sem técnica de Mohs. Quando utilizada cirurgia de Mohs, a incidência reduz para aproximadamente 1% em carcinoma basocelular primário e 5–6% em casos recidivados.",
+      "Prevenção de recidiva local deve incluir seleção correta da modalidade terapêutica conforme critérios NCCN, estabelecimento de margens adequadas e controle histológico completo em lesões de alto risco.",
+      "Diagnóstico de recidiva local requer inspeção clínica cuidadosa, dermatoscopia e biópsia em qualquer nódulo, placa ou úlcera que surja sobre cicatriz prévia.",
+      "Manejo da recidiva local compreende reexcisão utilizando técnica de Mohs, com consideração de radioterapia adjuvante em casos de invasão perineural ou margens persistentemente positivas. Para doença avançada, inibidor de Hedgehog pode ser considerado."
+    ],
+    "images": [],
+    "citations": [
+      "Neligan, 2023, vol. 1, cap. 29",
+      "NCCN — Basal Cell Skin Cancer"
+    ],
+    "updates": [],
+    "tags": [
+      "complicacoes",
+      "recidiva-local",
+      "excisao-cirurgica",
+      "tecnica-mohs",
+      "radioterapia",
+      "inibidor-hedgehog"
+    ]
+  },
+  {
+    "id": "cbc-nota-009",
+    "type": "note",
+    "title": "Segundo câncer de pele",
+    "topic": "carcinoma-basocelular",
+    "area": "pele-tumores",
+    "section": "complicacoes",
+    "content": [
+      "Paciente com carcinoma basocelular apresenta risco cumulativo de aproximadamente 40-50% em 5 anos de desenvolver novo carcinoma basocelular ou outro câncer de pele não-melanoma (NMSC).",
+      "Prevenção inclui fotoproteção adequada, autoexame regular da pele e dermatoscopia periódica.",
+      "Diagnóstico requer exame cutâneo total realizado a cada 6-12 meses indefinidamente.",
+      "Manejo consiste em tratamento individualizado da nova lesão identificada."
+    ],
+    "images": [],
+    "citations": [
+      "NCCN — Basal Cell Skin Cancer"
+    ],
+    "updates": [],
+    "tags": [
+      "complicacoes",
+      "segundo-cancer",
+      "câncer-nao-melanoma",
+      "fotoproteção",
+      "vigilancia-dermatologica"
+    ]
+  },
+  {
+    "id": "cbc-nota-010",
+    "type": "note",
+    "title": "Metástase",
+    "topic": "carcinoma-basocelular",
+    "area": "pele-tumores",
+    "section": "complicações",
+    "content": [
+      "Incidência: < 0,1% dos CBCs. Maior risco em subtipo basoescamoso, tumores grandes e negligenciados, com invasão perineural profunda.",
+      "Prevenção: tratamento precoce de lesões de alto risco com margem adequada.",
+      "Diagnóstico: linfonodopatia regional e sintomas sistêmicos. Tomografia computadorizada (TC), ressonância magnética (RM) ou tomografia por emissão de pósitrons com fluorodesoxiglicose (PET-FDG) indicadas quando há suspeita.",
+      "Manejo: linfadenectomia regional, radioterapia, inibidor de Hedgehog e imunoterapia anti-PD-1 em doença metastática."
+    ],
+    "images": [],
+    "citations": [
+      "Neligan, 2023, vol. 1, cap. 29"
+    ],
+    "updates": [],
+    "tags": [
+      "complicacoes",
+      "metastase",
+      "carcinoma-basocelular",
+      "diagnostico",
+      "manejo-terapeutico"
+    ]
+  },
+  {
+    "id": "cbc-nota-011",
+    "type": "note",
+    "title": "Invasão perineural",
+    "topic": "carcinoma-basocelular",
+    "area": "pele-tumores",
+    "section": "complicacoes",
+    "content": [
+      "Incidência de aproximadamente 1–3% dos carcinomas basocelulares, com maior prevalência em subtipos infiltrativo e morfeiforme, especialmente em sítios de face com ramos trigeminais e faciais.",
+      "Prevenção através de cirurgia de Mohs em lesões de alto risco e revisão histológica dedicada.",
+      "Diagnóstico fundamentado em manifestações clínicas como dor, parestesia ou paresia no território do nervo acometido, complementado por ressonância magnética com gadolínio para avaliação da extensão da invasão.",
+      "Manejo terapêutico inclui ressecção ampla com técnica de Mohs quando tecnicamente viável, seguida de radioterapia adjuvante, ou utilização de inibidor de Hedgehog em casos irresecáveis."
+    ],
+    "images": [],
+    "citations": [
+      "Neligan, 2023, vol. 1, cap. 29",
+      "NCCN — Basal Cell Skin Cancer"
+    ],
+    "updates": [],
+    "tags": [
+      "complicacoes",
+      "invasao-perineural",
+      "cirurgia-mohs",
+      "radioterapia",
+      "inibidor-hedgehog"
+    ]
+  },
+  {
+    "id": "cbc-nota-012",
+    "type": "note",
+    "title": "Procedimentos Secundários",
+    "topic": "carcinoma-basocelular",
+    "area": "pele-tumores",
+    "section": "revisao",
+    "content": [
+      "Reconstrução diferida: defeitos grandes em zona H após Mohs frequentemente reconstruídos em segundo tempo, após liberação de margens definitivas (cortes permanentes).",
+      "Revisão de cicatriz: Z-plastia, W-plastia ou revisão por unidade estética em cicatrizes contraídas ou visíveis.",
+      "Resgate de margem positiva: ampliação cirúrgica imediata em primário; em lesão previamente tratada, preferir Mohs.",
+      "Seguimento: exame cutâneo total a cada 6 meses nos primeiros 2 anos, depois anual por toda a vida."
+    ],
+    "images": [],
+    "citations": [
+      "NCCN — Basal Cell Skin Cancer"
+    ],
+    "updates": [],
+    "tags": [
+      "revisao",
+      "procedimentos-secundarios",
+      "mohs",
+      "reconstrucao",
+      "seguimento"
+    ]
+  }
+]

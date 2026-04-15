@@ -1,0 +1,25 @@
+{
+  "topic": "carcinoma-basocelular",
+  "area": "pele-tumores",
+  "displayName": "Carcinoma basocelular",
+  "version": "v1.0",
+  "date": "2026-04-15",
+  "status": "complete",
+  "references": [
+    "Neligan's Plastic Surgery, 5ª Ed., Vol. 1 (Principles), Cap. 29 — \"Benign and malignant nonmelanocytic tumors of the skin and soft tissue\" (Rei Ogawa)",
+    "Grabb and Smith's Plastic Surgery, 9ª Ed. — capítulos de câncer de pele não-melanoma",
+    "NCCN Clinical Practice Guidelines in Oncology — Basal Cell Skin Cancer (v.2)",
+    "UICC TNM Classification of Malignant Tumours, 8ª Ed. (2017)",
+    "WHO Classification of Skin Tumors (LeBoit, Burg, Weedon et al., IARC, 2006)"
+  ],
+  "articles": [
+    "(nenhum artigo incorporado neste ciclo; a incorporação seguirá o pipeline de varredura)"
+  ],
+  "cardCounts": {
+    "anatomia": 3,
+    "tecnicas": 5,
+    "decisoes": 1,
+    "notas": 9,
+    "flashcards": 25
+  }
+}

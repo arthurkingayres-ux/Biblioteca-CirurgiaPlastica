@@ -1,0 +1,96 @@
+[
+  {
+    "id": "cbc-anat-001",
+    "type": "anatomy",
+    "title": "Camada basal da epiderme",
+    "aliases": [
+      "estrato germinativo",
+      "stratum germinativum"
+    ],
+    "topic": "carcinoma-basocelular",
+    "area": "pele-tumores",
+    "definition": "célula-tronco epidérmica localizada no estrato germinativo, responsável pela renovação contínua da epiderme",
+    "location": "estrato mais profundo da epiderme, apoiado sobre a membrana basal; interface direta com a derme papilar",
+    "relations": [
+      "melanócitos",
+      "queratinócitos suprabasais",
+      "terminações nervosas livres",
+      "membrana basal",
+      "derme papilar"
+    ],
+    "surgical_relevance": "origem do CBC; a biologia da célula basal explica o crescimento lento, a dependência estromal (o tumor raramente invade por via hematogênica) e o padrão de recidiva superficial-infiltrativa",
+    "how_to_identify": "não é visível macroscopicamente; sua transformação tumoral manifesta-se clinicamente como pápula perolada, telangiectásica ou ulcerada",
+    "images": [],
+    "citations": [
+      "Neligan, 2023, vol. 1, cap. 29, Fig. 29.2"
+    ],
+    "updates": [],
+    "tags": [
+      "anatomia",
+      "epiderme",
+      "celula-tronco",
+      "carcinoma-basocelular",
+      "pele"
+    ]
+  },
+  {
+    "id": "cbc-anat-002",
+    "type": "anatomy",
+    "title": "Folículo piloso (bulge)",
+    "aliases": [],
+    "topic": "carcinoma-basocelular",
+    "area": "pele-tumores",
+    "definition": "reservatório de células-tronco multipotentes localizado na porção média do folículo piloso, junto à inserção do músculo eretor do pelo",
+    "location": "folículo piloso em pele pilosa; especialmente abundante em couro cabeludo e face",
+    "relations": [
+      "glândula sebácea",
+      "músculo eretor do pelo"
+    ],
+    "surgical_relevance": "considerado possível origem de subtipos com diferenciação folicular e basoescamoso; contribui para reepitelização após cirurgia quando a derme profunda com anexos é preservada",
+    "how_to_identify": "histologicamente (HE); sem correlato macroscópico",
+    "images": [],
+    "citations": [
+      "Neligan, 2023, vol. 1, cap. 29"
+    ],
+    "updates": [],
+    "tags": [
+      "anatomia",
+      "pele",
+      "folículo-piloso",
+      "celulas-tronco",
+      "carcinoma-basocelular"
+    ]
+  },
+  {
+    "id": "cbc-anat-003",
+    "type": "anatomy",
+    "title": "Zona H da face (alto risco para CBC)",
+    "aliases": [],
+    "topic": "carcinoma-basocelular",
+    "area": "pele-tumores",
+    "definition": "Região anatômica da face com alta taxa de recidiva pós-excisão, incluindo região central da face, pálpebras, sobrancelhas, região periorbital, nariz, lábios (cutâneo e vermelhão), queixo, mandíbula, área pré- e retroauricular, têmporas e orelhas.",
+    "location": "Unidades estéticas centrais da face e zonas embriológicas de fusão.",
+    "relations": [
+      "globo ocular",
+      "canal lacrimal",
+      "ramos do nervo facial",
+      "cartilagens nasal e auricular"
+    ],
+    "surgical_relevance": "Classifica automaticamente lesões > 6 mm como de alto risco pelos critérios NCCN; é indicação forte para cirurgia micrográfica de Mohs. A reconstrução nessa zona frequentemente recorre a retalhos locais específicos.",
+    "how_to_identify": "Topografia anatômica decorada no mapa cirúrgico de face pela regra H.",
+    "images": [],
+    "citations": [
+      "NCCN — Basal Cell Skin Cancer",
+      "Neligan, 2023, vol. 1, cap. 29"
+    ],
+    "updates": [],
+    "tags": [
+      "anatomia",
+      "zona-h",
+      "alto-risco",
+      "face",
+      "cirurgia-micrografica-mohs",
+      "reconstrucao-facial"
+    ]
+  }
+]

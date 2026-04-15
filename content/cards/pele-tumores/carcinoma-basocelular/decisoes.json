@@ -1,0 +1,110 @@
+[
+  {
+    "id": "cbc-dec-001",
+    "type": "decision",
+    "title": "Patient Selection - Carcinoma Basocelular",
+    "topic": "carcinoma-basocelular",
+    "area": "pele-tumores",
+    "trigger": "Diagnóstico confirmado de carcinoma basocelular com necessidade de seleção de modalidade terapêutica",
+    "steps": [
+      {
+        "question": "Qual é o perfil de risco da lesão (considerando subtipo histológico, localização em zona H/M/L, tamanho, bordas clínicas e recidiva prévia)?",
+        "options": [
+          {
+            "answer": "Baixo risco",
+            "next": "passo_2_baixo_risco"
+          },
+          {
+            "answer": "Alto risco",
+            "next": "passo_2_alto_risco"
+          }
+        ]
+      },
+      {
+        "question_id": "passo_2_baixo_risco",
+        "question": "Paciente é candidato a cirurgia convencional?",
+        "options": [
+          {
+            "answer": "Sim",
+            "next": "conduta_excisao_convencional_4mm"
+          },
+          {
+            "answer": "Não - paciente sem condições cirúrgicas ou recusa",
+            "next": "passo_3_nao_cirurgico"
+          }
+        ]
+      },
+      {
+        "question_id": "passo_2_alto_risco",
+        "question": "Cirurgia de Mohs (micrografia de Mohs) está disponível?",
+        "options": [
+          {
+            "answer": "Sim",
+            "next": "conduta_mohs"
+          },
+          {
+            "answer": "Não",
+            "next": "passo_3_alto_risco_sem_mohs"
+          }
+        ]
+      },
+      {
+        "question_id": "passo_3_alto_risco_sem_mohs",
+        "question": "Proceder com excisão convencional ampliada?",
+        "options": [
+          {
+            "answer": "Sim",
+            "next": "conduta_excisao_ampliada_5_10mm"
+          },
+          {
+            "answer": "Não - considerar terapia não-cirúrgica",
+            "next": "passo_3_nao_cirurgico"
+          }
+        ]
+      },
+      {
+        "question_id": "passo_3_nao_cirurgico",
+        "question": "CBC é superficial, pequeno e está fora da zona H?",
+        "options": [
+          {
+            "answer": "Sim",
+            "next": "conduta_topico_criocirurgia"
+          },
+          {
+            "answer": "Não ou necessita alternativa sistêmica",
+            "next": "passo_4_radioterapia"
+          }
+        ]
+      },
+      {
+        "question_id": "passo_4_radioterapia",
+        "question": "Paciente é idoso com lesão grande irresecável ou recusa cirurgia?",
+        "options": [
+          {
+            "answer": "Sim",
+            "next": "conduta_radioterapia"
+          },
+          {
+            "answer": "Não ou paciente jovem",
+            "next": "reavaliacao_opcoes"
+          }
+        ]
+      }
+    ],
+    "citations": [
+      "Neligan, 2023, vol. 1, cap. 29, Box 29.4",
+      "NCCN — Basal Cell Skin Cancer"
+    ],
+    "updates": [],
+    "tags": [
+      "decisao",
+      "carcinoma-basocelular",
+      "selecao-pacientes",
+      "tratamento-cirurgico",
+      "terapia-topica",
+      "radioterapia",
+      "mohs",
+      "pele-tumores"
+    ]
+  }
+]

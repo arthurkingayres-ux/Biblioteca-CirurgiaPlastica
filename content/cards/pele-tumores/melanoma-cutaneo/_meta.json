@@ -1,0 +1,29 @@
+{
+  "topic": "melanoma-cutaneo",
+  "area": "pele-tumores",
+  "displayName": "Melanoma cutâneo",
+  "version": "v1.0",
+  "date": "2026-04-15",
+  "status": "complete",
+  "references": [
+    "Neligan's Plastic Surgery, 5ª Ed., Vol. 1 (Principles), Cap. 30 — \"Melanoma\"",
+    "Grabb and Smith's Plastic Surgery, 9ª Ed. — capítulo de melanoma cutâneo",
+    "NCCN Clinical Practice Guidelines in Oncology — Cutaneous Melanoma",
+    "AJCC Cancer Staging Manual, 8ª Ed. (2017) — Cutaneous Melanoma",
+    "UICC TNM Classification of Malignant Tumours, 8ª Ed. (2017)",
+    "WHO Classification of Skin Tumors (IARC)"
+  ],
+  "articles": [
+    "Gershenwald JE, Scolyer RA, Hess KR, et al. CA Cancer J Clin. 2017;67:472–492.",
+    "Morton DL, Thompson JF, Cochran AJ, et al. N Engl J Med. 2014;370:599–609 (MSLT-I).",
+    "Faries MB, Thompson JF, Cochran AJ, et al. N Engl J Med. 2017;376:2211–2222 (MSLT-II).",
+    "Wheatley K, Wilson JS, Gaunt P, Marsden JR. Cancer Treat Rev. 2016;42:73–81."
+  ],
+  "cardCounts": {
+    "anatomia": 3,
+    "tecnicas": 7,
+    "decisoes": 1,
+    "notas": 9,
+    "flashcards": 27
+  }
+}

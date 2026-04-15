@@ -1,0 +1,168 @@
+{
+  "id": "cbc-fc-001",
+  "type": "flashcard",
+  "topic": "carcinoma-basocelular",
+  "area": "pele-tumores",
+  "cards": [
+    {
+      "front": "Qual é a taxa de metastatização do carcinoma basocelular?",
+      "back": "Menos de 0,1% dos casos",
+      "citation": "Neligan, 2023, vol. 1, cap. 29",
+      "domain": "fisiopatologia"
+    },
+    {
+      "front": "Qual é a margem de excisão recomendada para lesões de CBC de baixo risco?",
+      "back": "4 mm",
+      "citation": "Neligan, 2023, vol. 1, cap. 29, Box 29.4; NCCN — Basal Cell Skin Cancer",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Qual é a margem de excisão recomendada para lesões de CBC de alto risco?",
+      "back": "5–10 mm com controle histológico completo",
+      "citation": "Neligan, 2023, vol. 1, cap. 29, Box 29.4; NCCN — Basal Cell Skin Cancer",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Acima de qual tamanho em milímetros uma lesão na zona H da face é automaticamente classificada como alto risco?",
+      "back": "Maior que 6 mm",
+      "citation": "Neligan, 2023, vol. 1, cap. 29",
+      "domain": "decisao"
+    },
+    {
+      "front": "Qual fotótipo de Fitzpatrick apresenta maior risco para CBC?",
+      "back": "Fototipos I–II",
+      "citation": "Neligan, 2023, vol. 1, cap. 29",
+      "domain": "fisiopatologia"
+    },
+    {
+      "front": "Quantos subtipos histológicos de CBC são reconhecidos pela WHO?",
+      "back": "Dez subtipos",
+      "citation": "Neligan, 2023, vol. 1, cap. 29, Box 29.5; WHO Classification of Skin Tumors",
+      "domain": "anatomia"
+    },
+    {
+      "front": "Qual é o principal gene mutado na via Hedgehog em CBC?",
+      "back": "PTCH1 ou SMO",
+      "citation": "Neligan, 2023, vol. 1, cap. 29",
+      "domain": "fisiopatologia"
+    },
+    {
+      "front": "Qual é a principal causa de ativação aberrante da via Hedgehog no CBC?",
+      "back": "Radiação ultravioleta (UV) cumulativa",
+      "citation": "Neligan, 2023, vol. 1, cap. 29",
+      "domain": "fisiopatologia"
+    },
+    {
+      "front": "Quantos subtipos histológicos de CBC são considerados de baixo risco?",
+      "back": "2 (superficial e nodular)",
+      "citation": "Neligan, 2023, vol. 1, cap. 29, Box 29.5",
+      "domain": "decisao"
+    },
+    {
+      "front": "Quantos subtipos histológicos de CBC são considerados de alto risco?",
+      "back": "3 principais (infiltrativo/esclerosante/morfeiforme, micronodular, basoescamoso)",
+      "citation": "Neligan, 2023, vol. 1, cap. 29, Box 29.5",
+      "domain": "decisao"
+    },
+    {
+      "front": "Qual é a concentração/posologia do imiquimode usado em CBC?",
+      "back": "5%",
+      "citation": "Neligan, 2023, vol. 1, cap. 29",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Em que percentual dos casos o CBC metastatiza?",
+      "back": "< 0,1%",
+      "citation": "Neligan, 2023, vol. 1, cap. 29",
+      "domain": "fisiopatologia"
+    },
+    {
+      "front": "Qual inibidor de Hedgehog é aprovado para CBC localmente avançado ou metastático?",
+      "back": "Vismodegibe ou sonidegibe",
+      "citation": "Neligan, 2023, vol. 1, cap. 29",
+      "domain": "decisao"
+    },
+    {
+      "front": "Qual agente anti-PD-1 é aprovado para CBC irresecável?",
+      "back": "Cemiplimabe",
+      "citation": "Neligan, 2023, vol. 1, cap. 29",
+      "domain": "decisao"
+    },
+    {
+      "front": "Qual é a edição e ano da UICC TNM Classification usada como referência para CBC?",
+      "back": "8ª edição (2017)",
+      "citation": "UICC TNM Classification of Malignant Tumours, 8ª Ed. (2017)",
+      "domain": "decisao"
+    },
+    {
+      "front": "Qual é a incidência relativa do CBC comparado a outras neoplasias malignas?",
+      "back": "Mais prevalente neoplasia maligna no ser humano",
+      "citation": "Neligan, 2023, vol. 1, cap. 29",
+      "domain": "fisiopatologia"
+    },
+    {
+      "front": "Qual achado dermatoscópico é típico de CBC?",
+      "back": "Ausência de rede pigmentar, vasos arboriformes, áreas em folha de trevo, glóbulos/grandes ninhos ovoides azul-acinzentados, ulceração",
+      "citation": "Neligan, 2023, vol. 1, cap. 29, Box 29.2",
+      "domain": "anatomia"
+    },
+    {
+      "front": "Qual é a localizacao mais frequente do CBC?",
+      "back": "Cabeça e pescoço, especialmente face",
+      "citation": "Neligan, 2023, vol. 1, cap. 29",
+      "domain": "anatomia"
+    },
+    {
+      "front": "Qual é a velocidade de crescimento típica do CBC?",
+      "back": "Lenta e localmente invasiva",
+      "citation": "Neligan, 2023, vol. 1, cap. 29",
+      "domain": "fisiopatologia"
+    },
+    {
+      "front": "Qual síndrome genética cursa com CBCs múltiplos e precoces?",
+      "back": "Síndrome de Gorlin (nevo basocelular) — mutações germinativas em PTCH1",
+      "citation": "Neligan, 2023, vol. 1, cap. 29",
+      "domain": "fisiopatologia"
+    },
+    {
+      "front": "Qual é a técnica cirúrgica preferida para CBC de alto risco?",
+      "back": "Cirurgia micrográfica de Mohs ou excisão com margem ampliada (5–10 mm) e controle histológico completo",
+      "citation": "Neligan, 2023, vol. 1, cap. 29, Box 29.4; NCCN — Basal Cell Skin Cancer",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Em que contexto clínico o imiquimode 5% é indicado?",
+      "back": "Casos selecionados, geralmente superficiais e em sítios de baixo risco",
+      "citation": "Neligan, 2023, vol. 1, cap. 29",
+      "domain": "decisao"
+    },
+    {
+      "front": "Em que contexto clínico a criocirurgia é indicada?",
+      "back": "Casos selecionados, geralmente superficiais e em sítios de baixo risco",
+      "citation": "Neligan, 2023, vol. 1, cap. 29",
+      "domain": "decisao"
+    },
+    {
+      "front": "Qual é a técnica de biópsia recomendada para confirmar diagnóstico de CBC?",
+      "back": "Shave, punch ou excisional",
+      "citation": "Neligan, 2023, vol. 1, cap. 29, Box 29.2",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Qual é o padrão de crescimento tumoral do CBC?",
+      "back": "Superficial-infiltrativo, raramente por via hematogênica",
+      "citation": "Neligan, 2023, vol. 1, cap. 29",
+      "domain": "fisiopatologia"
+    }
+  ],
+  "tags": [
+    "flashcard",
+    "carcinoma-basocelular",
+    "pele-tumores",
+    "cirurgia-plastica",
+    "oncologia",
+    "parametros-numericos",
+    "classificacao",
+    "tecnica-cirurgica"
+  ]
+}

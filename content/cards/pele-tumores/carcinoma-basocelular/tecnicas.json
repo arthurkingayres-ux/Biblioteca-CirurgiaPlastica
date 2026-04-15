@@ -1,0 +1,193 @@
+[
+  {
+    "id": "cbc-tec-001",
+    "type": "technique",
+    "title": "Criocirurgia",
+    "aliases": [],
+    "topic": "carcinoma-basocelular",
+    "area": "pele-tumores",
+    "indication": "CBC superficial pequeno em paciente sem condições cirúrgicas ou com múltiplas lesões",
+    "contraindication": "zona H, subtipos agressivos, lesões recidivadas, lesões > 1 cm, pele com intolerância a hipopigmentação",
+    "steps": [
+      "1. Delimitação com margem de 3–5 mm",
+      "2. Aplicação de nitrogênio líquido por spray ou sonda, atingindo –50 a –60 °C no leito tumoral",
+      "3. Dois ciclos de congelamento-descongelamento, cada ciclo com tempo de congelamento ≥ 30 s"
+    ],
+    "complications": [
+      "hipopigmentação permanente",
+      "bolha",
+      "cicatriz atrófica",
+      "ausência de controle histológico"
+    ],
+    "pearls": [],
+    "images": [],
+    "citations": [
+      "Neligan, 2023, vol. 1, cap. 29"
+    ],
+    "updates": [],
+    "tags": [
+      "criocirurgia",
+      "tecnica",
+      "carcinoma-basocelular",
+      "nitogenio-liquido",
+      "pele",
+      "tumores"
+    ]
+  },
+  {
+    "id": "cbc-tec-003",
+    "type": "technique",
+    "title": "Curetagem e eletrodissecção",
+    "aliases": [],
+    "topic": "carcinoma-basocelular",
+    "area": "pele-tumores",
+    "indication": "CBC superficial ou nodular pequeno (< 1 cm) em tronco/extremidade, em paciente com múltiplas lesões e baixo risco estético",
+    "contraindication": "zona H da face; subtipos agressivos; lesões recidivadas; pelos terminais (folículos permitem extensão tumoral profunda além do alcance da cureta)",
+    "steps": [
+      "1. Anestesia local",
+      "2. Curetagem vigorosa da lesão com cureta 3–5 mm até sentir resistência dérmica firme",
+      "3. Eletrodissecção do leito com eletrocautério",
+      "4. Repetição do ciclo cureta-eletro por 2–3 vezes",
+      "5. Cicatrização por segunda intenção"
+    ],
+    "complications": [
+      "Cicatriz hipocrômica ou hipertrófica",
+      "Controle histológico nulo (não fornece margem)",
+      "Taxa de recidiva variável (1–27% conforme operador e seleção)"
+    ],
+    "pearls": [
+      "Técnica dependente do operador com variabilidade significativa em resultados"
+    ],
+    "images": [],
+    "citations": [
+      "Neligan, 2023, vol. 1, cap. 29"
+    ],
+    "updates": [],
+    "tags": [
+      "tecnica",
+      "curetagem",
+      "eletrodisseccao",
+      "carcinoma-basocelular",
+      "pele-tumores",
+      "cirurgia-dermatologica"
+    ]
+  },
+  {
+    "id": "cbc-tec-005",
+    "type": "technique",
+    "title": "Terapias tópicas (imiquimode 5%, 5-fluorouracil)",
+    "aliases": [],
+    "topic": "carcinoma-basocelular",
+    "area": "pele-tumores",
+    "indication": "CBC superficial fora da zona H, paciente que recusa cirurgia ou com múltiplas lesões",
+    "contraindication": "subtipos nodular, morfeiforme, infiltrativo; zona H; lesões recidivadas",
+    "steps": [
+      "1. Aplicar imiquimode 5% topicamente 5x/semana por 6 semanas",
+      "2. Monitorar resposta inflamatória local (eritema, erosão) como indicador de eficácia",
+      "3. Alternativamente, aplicar 5-FU 5% topicamente 2x/dia por 3-6 semanas"
+    ],
+    "complications": [
+      "Dermatite local intensa",
+      "Falha terapêutica com necessidade de resgate cirúrgico",
+      "Ausência de controle histológico"
+    ],
+    "pearls": [
+      "A resposta inflamatória local esperada (eritema, erosão) é indicador de eficácia do imiquimode",
+      "Técnica sem controle histológico final"
+    ],
+    "images": [],
+    "citations": [
+      "Neligan, 2023, vol. 1, cap. 29"
+    ],
+    "updates": [],
+    "tags": [
+      "tecnica",
+      "terapia-topica",
+      "carcinoma-basocelular",
+      "imiquimode",
+      "5-fluorouracil",
+      "pele-tumores"
+    ]
+  },
+  {
+    "id": "cbc-tec-006",
+    "type": "technique",
+    "title": "Radioterapia",
+    "aliases": [],
+    "topic": "carcinoma-basocelular",
+    "area": "pele-tumores",
+    "indication": "Paciente idoso com lesão extensa irresecável; recusa cirúrgica; adjuvância após excisão com margens comprometidas ou invasão perineural quando nova cirurgia inviável",
+    "contraindication": "Pacientes jovens (risco de carcinogênese induzida); síndrome de Gorlin (radiossensibilidade aumentada, risco de novos CBCs no campo); doenças do colágeno; áreas previamente irradiadas",
+    "steps": [
+      "Consultar seção \"Radioterapia\" do documento RAG para detalhes."
+    ],
+    "complications": [
+      "Radiodermite aguda (eritema, pigmentação, epilação, descamação)",
+      "Fibrose subcutânea",
+      "Telangiectasias",
+      "Atrofia",
+      "Necrose",
+      "Carcinoma secundário"
+    ],
+    "pearls": [
+      "Modalidades disponíveis: radioterapia externa (megavoltagem ou ortovoltagem) e braquiterapia"
+    ],
+    "images": [],
+    "citations": [
+      "Neligan, 2023, vol. 1, cap. 29",
+      "Bath et al., Cochrane 2003"
+    ],
+    "updates": [],
+    "tags": [
+      "radioterapia",
+      "carcinoma-basocelular",
+      "pele-tumores",
+      "adjuvancia",
+      "braquiterapia",
+      "radioterapia-externa"
+    ]
+  },
+  {
+    "id": "cbc-tec-007",
+    "type": "technique",
+    "title": "Terapia sistêmica — inibidores da via Hedgehog",
+    "aliases": [],
+    "topic": "carcinoma-basocelular",
+    "area": "pele-tumores",
+    "indication": "CBC localmente avançado irresecável ou não candidato a radioterapia; CBC metastático",
+    "contraindication": "não especificada no texto",
+    "steps": [
+      "1. Iniciar vismodegibe 150 mg/dia VO ou sonidegibe 200 mg/dia VO",
+      "2. Manter uso contínuo até progressão da doença ou toxicidade limitante",
+      "3. Em caso de falha terapêutica, considerar cemiplimabe (anti-PD-1) off-label em centros especializados"
+    ],
+    "complications": [
+      "espasmos musculares",
+      "alopecia",
+      "disgeusia",
+      "perda ponderal",
+      "fadiga",
+      "teratogenicidade"
+    ],
+    "pearls": [
+      "Contracepção obrigatória devido ao risco teratogênico",
+      "Resistência e recidiva pós-interrupção são frequentes",
+      "Monitorar tolerância para ajuste ou interrupção por toxicidade limitante"
+    ],
+    "images": [],
+    "citations": [
+      "Neligan, 2023, vol. 1, cap. 29",
+      "NCCN — Basal Cell Skin Cancer"
+    ],
+    "updates": [],
+    "tags": [
+      "tecnica",
+      "terapia-sistemica",
+      "inibidores-hedgehog",
+      "carcinoma-basocelular",
+      "vismodegibe",
+      "sonidegibe",
+      "oncologia"
+    ]
+  }
+]
