@@ -63,6 +63,13 @@
       "orelha-em-abano",
       "cirurgia-estetica-facial",
       "algoritmo-clinico"
+    ],
+    "images": [
+      {
+        "file": "oto-dec-algoritmo-otoplastia.jpg",
+        "caption": "Algoritmo de decisão clínica para otoplastia: avaliação do componente anatômico predominante (excesso conchal vs. deficiência do anti-hélix vs. combinado) e seleção da técnica cirúrgica.",
+        "credit": "Neligan, 2023, vol. 3, cap. 28; Grabb & Smith, 2024, cap. 57"
+      }
     ]
   }
 ]

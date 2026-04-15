@@ -57,6 +57,11 @@
         "file": "glut-anat-musculos-camadas.png",
         "caption": "Músculo glúteo médio — camada intermediária entre máximo (superficial) e mínimo (profundo); inervação pelo n. glúteo superior (L4–S1); abdutor principal.",
         "credit": "Diagrama esquemático — Neligan vol. 2, cap. 28; Grabb & Smith cap. 77"
+      },
+      {
+        "file": "glut-anat-gluteo-maximo.png",
+        "caption": "Músculo glúteo máximo — maior e mais superficial dos músculos glúteos; origem na fáscia glútea, crista ilíaca posterior, sacro e cóccix; inserção no trato iliotibial e linha glútea do fêmur.",
+        "credit": "Neligan, 2023, vol. 2, cap. 28; Hoyos & Prendergast, HDBS"
       }
     ],
     "citations": [
