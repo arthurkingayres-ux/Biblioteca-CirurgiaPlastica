@@ -1,0 +1,94 @@
+[
+  {
+    "id": "cec-dec-001",
+    "type": "decision",
+    "title": "Patient Selection - Carcinoma Espinocelular",
+    "topic": "carcinoma-espinocelular",
+    "area": "pele-tumores",
+    "trigger": "Diagnóstico confirmado de carcinoma espinocelular com necessidade de seleção de modalidade terapêutica e estratégia de tratamento",
+    "steps": [
+      {
+        "question": "Qual é o perfil de risco do carcinoma pela estratificação NCCN?",
+        "options": [
+          { "answer": "Baixo risco", "next": "passo_2_baixo_risco" },
+          { "answer": "Alto risco", "next": "passo_2_alto_risco" },
+          { "answer": "Doença metastática regional clinicamente detectada", "next": "passo_3_metastase_regional" },
+          { "answer": "Doença localmente avançada irresecável ou metastática à distância", "next": "passo_3_doenca_irresecavel" }
+        ]
+      },
+      {
+        "question_id": "passo_2_baixo_risco",
+        "question": "Paciente é candidato a cirurgia convencional (saúde geral, compliance, localização anatômica favorável)?",
+        "options": [
+          { "answer": "Sim, candidato cirúrgico", "next": "conduta_excisao_convencional_4a6mm" },
+          { "answer": "Não, contraindicações clínicas ou comorbidades significativas", "next": "passo_2b_baixo_risco_nao_cirurgico" }
+        ]
+      },
+      {
+        "question_id": "passo_2b_baixo_risco_nao_cirurgico",
+        "question": "Lesão é precursor (queratose actínica, Bowen) ou carcinoma espinocelular in situ?",
+        "options": [
+          { "answer": "Sim, precursor ou in situ", "next": "conduta_terapia_topica_criocirurgia" },
+          { "answer": "Não, carcinoma invasivo", "next": "conduta_radioterapia" }
+        ]
+      },
+      {
+        "question_id": "passo_2_alto_risco",
+        "question": "Técnica de Mohs micrográfica está disponível?",
+        "options": [
+          { "answer": "Sim, Mohs disponível", "next": "passo_3a_mohs" },
+          { "answer": "Não, Mohs não disponível", "next": "conduta_excisao_ampliada_10mm_plus" }
+        ]
+      },
+      {
+        "question_id": "passo_3a_mohs",
+        "question": "Lesão atende critérios de LNS (linfonodo sentinela): AJCC T2b/T3 ou BWH T2b/T3?",
+        "options": [
+          { "answer": "Sim, indica LNS", "next": "conduta_mohs_com_lns" },
+          { "answer": "Não, sem indicação LNS", "next": "conduta_mohs_sem_lns" }
+        ]
+      },
+      {
+        "question_id": "passo_3_metastase_regional",
+        "question": "Lesão primária é ressecável cirurgicamente?",
+        "options": [
+          { "answer": "Sim, ressecável", "next": "conduta_linfadenectomia_radioterapia" },
+          { "answer": "Não, irresecável", "next": "passo_3_metastase_regional_irresecavel" }
+        ]
+      },
+      {
+        "question_id": "passo_3_metastase_regional_irresecavel",
+        "question": "Paciente é candidato a imunoterapia (PS 0–1, função renal/hepática adequada)?",
+        "options": [
+          { "answer": "Sim, candidato", "next": "conduta_imunoterapia_metastase" },
+          { "answer": "Não, comorbidades limitantes", "next": "conduta_radioterapia_paliativa" }
+        ]
+      },
+      {
+        "question_id": "passo_3_doenca_irresecavel",
+        "question": "Paciente é candidato a imunoterapia anti-PD-1 (PS 0–1, função renal/hepática adequada)?",
+        "options": [
+          { "answer": "Sim, candidato", "next": "conduta_imunoterapia_doenca_avancada" },
+          { "answer": "Não, comorbidades limitantes ou PS ≥ 2", "next": "conduta_radioterapia_paliativa" }
+        ]
+      }
+    ],
+    "citations": [
+      "Neligan, 2023, vol. 1, cap. 29, Box 29.4",
+      "NCCN — Squamous Cell Skin Cancer",
+      "AJCC Cancer Staging Manual, 8ª edição, 2017"
+    ],
+    "updates": [],
+    "tags": [
+      "decisao",
+      "carcinoma-espinocelular",
+      "selecao-pacientes",
+      "nccn",
+      "mohs",
+      "linfonodo-sentinela",
+      "imunoterapia",
+      "radioterapia",
+      "pele-tumores"
+    ]
+  }
+]

@@ -1,0 +1,223 @@
+[
+  {
+    "id": "cec-tec-001",
+    "type": "technique",
+    "title": "Excisão cirúrgica convencional",
+    "aliases": [],
+    "topic": "carcinoma-espinocelular",
+    "area": "pele-tumores",
+    "indication": "CEC de baixo risco — tumor bem diferenciado, < 2 cm em tronco/extremidade, sem critérios NCCN de alto risco",
+    "contraindication": "lesões de alto risco (preferir Mohs); lesões com invasão perineural ou óssea clinicamente evidente (exige abordagem mais ampla/multidisciplinar)",
+    "steps": [
+      "1. Demarcação da lesão com lupa/dermatoscopia e boa iluminação",
+      "2. Margem horizontal de 4–6 mm ao redor da borda clínica (baixo risco); 10 mm em alto risco (quando Mohs indisponível)",
+      "3. Margem vertical até tecido celular subcutâneo ou fáscia profunda conforme profundidade clínica",
+      "4. Ressecção em bloco, evitando manipulação do tumor",
+      "5. Orientação da peça com fio de referência (12h, lateral) para o patologista",
+      "6. Fechamento primário, enxerto ou retalho local conforme defeito"
+    ],
+    "complications": [
+      "Margem positiva (reexcisão imediata)",
+      "Deiscência",
+      "Distorção de unidade estética em face",
+      "Infecção"
+    ],
+    "pearls": [],
+    "images": [],
+    "citations": [
+      "Neligan, 2023, vol. 1, cap. 29, Box 29.4",
+      "NCCN — Squamous Cell Skin Cancer"
+    ],
+    "updates": [],
+    "tags": [
+      "tecnica",
+      "excisao-convencional",
+      "carcinoma-espinocelular",
+      "pele-tumores",
+      "margens-cirurgicas"
+    ]
+  },
+  {
+    "id": "cec-tec-002",
+    "type": "technique",
+    "title": "Cirurgia micrográfica de Mohs",
+    "aliases": [],
+    "topic": "carcinoma-espinocelular",
+    "area": "pele-tumores",
+    "indication": "CEC de alto risco — zona H da face, subtipos agressivos (desmoplásico, acantolítico, sarcomatoide), invasão perineural, imunossuprimido, recidivado, bordas mal definidas, pouco diferenciado, > 2 cm em tronco/extremidade",
+    "contraindication": "ausência de equipe/infraestrutura; lesão metastática (indicação sistêmica); CEC bem diferenciado pequeno fora da zona H (custo-benefício desfavorável)",
+    "steps": [
+      "1. Remoção da lesão com margem mínima (1–2 mm) em formato de disco inclinado",
+      "2. Mapeamento da peça em quadrantes, com marcação cromática",
+      "3. Cortes por congelação horizontais (en face) cobrindo 100% da margem periférica e profunda",
+      "4. Leitura imediata pelo dermatocirurgião; se positivo, reexcisão dirigida ao quadrante envolvido",
+      "5. Repetir até margens livres em todo o perímetro",
+      "6. Reconstrução no mesmo tempo ou diferida"
+    ],
+    "complications": [
+      "Tempo cirúrgico longo",
+      "Custo elevado",
+      "Raro falso-negativo por amostragem"
+    ],
+    "pearls": [
+      "Maior preservação tecidual e maior taxa de cura em alto risco (cerca de 97% em CEC primário vs ~92% com excisão convencional)"
+    ],
+    "images": [],
+    "citations": [
+      "Neligan, 2023, vol. 1, cap. 29",
+      "NCCN — Squamous Cell Skin Cancer"
+    ],
+    "updates": [],
+    "tags": [
+      "tecnica",
+      "mohs",
+      "cirurgia-micrografica",
+      "carcinoma-espinocelular",
+      "pele-tumores",
+      "alto-risco"
+    ]
+  },
+  {
+    "id": "cec-tec-003",
+    "type": "technique",
+    "title": "Vermilionectomia",
+    "aliases": ["Vermilionectomia (CEC de lábio inferior)"],
+    "topic": "carcinoma-espinocelular",
+    "area": "pele-tumores",
+    "indication": "CEC invasivo ou queilite actínica difusa do vermelhão labial inferior",
+    "contraindication": "invasão muscular/óssea profunda (exige ressecção em cunha labial ampliada e reconstrução por técnicas de Abbé/Estlander/Karapandzic)",
+    "steps": [
+      "1. Demarcação do vermelhão com margem de segurança proximal e distal",
+      "2. Ressecção horizontal do vermelhão acometido, incluindo a lâmina própria",
+      "3. Avanço da mucosa labial (mucosa oral) para reconstruir a borda vermelha",
+      "4. Sutura da mucosa labial à pele do lábio branco"
+    ],
+    "complications": [
+      "Retração com ectrópio labial",
+      "Parestesia por lesão de ramos mentuais",
+      "Lábio curto funcional se ressecção muscular inadvertida"
+    ],
+    "pearls": [],
+    "images": [],
+    "citations": ["Neligan, 2023, vol. 1, cap. 29"],
+    "updates": [],
+    "tags": ["tecnica", "vermilionectomia", "labio", "carcinoma-espinocelular", "pele-tumores"]
+  },
+  {
+    "id": "cec-tec-004",
+    "type": "technique",
+    "title": "Dissecção linfonodal regional",
+    "aliases": [],
+    "topic": "carcinoma-espinocelular",
+    "area": "pele-tumores",
+    "indication": "Metástase nodal clinicamente detectada (citologia ou core biopsy confirmatória); considerar em lesões de alto risco (AJCC T2b/T3 ou BWH T2b/T3) para estadiamento",
+    "contraindication": "Lesões de baixo risco sem evidência clínica de metástase linfonodal",
+    "steps": [
+      "1. Avaliação clínica e confirmação histológica (citologia/core biopsy) de metástase nodal",
+      "2. Seleção do território: cervical I–III/I–IV ± parotidectomia superficial (cabeça/pescoço); axilar I–II (tronco superior/membro superior); inguinal (tronco inferior/membro inferior/períneo)",
+      "3. Exposição e identificação de estruturas nobres (nervos peitorais, torácico longo, intercostobraquiais; veia femoral, safena magna)",
+      "4. Dissecção em bloco preservando fáscia profunda e estruturas vasculonervosas",
+      "5. Drenagem aspirativa fechada e fechamento em camadas"
+    ],
+    "complications": [
+      "Linfedema (axilar e inguinal)",
+      "Seroma",
+      "Lesão nervosa",
+      "Deiscência"
+    ],
+    "pearls": [],
+    "images": [],
+    "citations": ["Neligan, 2023, vol. 1, cap. 29"],
+    "updates": [],
+    "tags": ["tecnica", "disseccao-linfonodal", "estadiamento", "carcinoma-espinocelular", "pele-tumores", "alto-risco"]
+  },
+  {
+    "id": "cec-tec-005",
+    "type": "technique",
+    "title": "Radioterapia",
+    "aliases": [],
+    "topic": "carcinoma-espinocelular",
+    "area": "pele-tumores",
+    "indication": "Paciente idoso, irresecável ou recusa cirúrgica; adjuvante em invasão perineural significativa, margens positivas sem possibilidade de reexcisão, múltiplos linfonodos ou extensão extracapsular",
+    "contraindication": "Pacientes jovens (carcinogênese induzida); doenças do colágeno; campos previamente irradiados",
+    "steps": [
+      "1. Planejamento dosimétrico com simulação e imobilização",
+      "2. Seleção de modalidade (radioterapia externa vs braquiterapia)",
+      "3. Fracionamento conforme sítio e intenção (curativa vs adjuvante)",
+      "4. Monitoramento semanal da radiodermite aguda",
+      "5. Seguimento para complicações tardias (fibrose, telangiectasias, necrose)"
+    ],
+    "complications": [
+      "Radiodermite aguda",
+      "Fibrose",
+      "Telangiectasias",
+      "Atrofia",
+      "Necrose"
+    ],
+    "pearls": [],
+    "images": [],
+    "citations": ["Neligan, 2023, vol. 1, cap. 29"],
+    "updates": [],
+    "tags": ["tecnica", "radioterapia", "tratamento-adjuvante", "carcinoma-espinocelular", "pele-tumores"]
+  },
+  {
+    "id": "cec-tec-006",
+    "type": "technique",
+    "title": "Terapia sistêmica — imunoterapia anti-PD-1",
+    "aliases": ["Imunoterapia anti-PD-1"],
+    "topic": "carcinoma-espinocelular",
+    "area": "pele-tumores",
+    "indication": "CEC localmente avançado irresecável ou não candidato a radioterapia curativa; CEC metastático",
+    "contraindication": "Pacientes com contraindicações para imunoterapia (doenças autoimunes graves não controladas)",
+    "steps": [
+      "1. Confirmação de doença localmente avançada irresecável ou metastática",
+      "2. Rastreamento basal de função tireoidiana, hepática, renal e glicêmica",
+      "3. Cemiplimabe 350 mg IV a cada 3 semanas (ou pembrolizumabe 200 mg IV a cada 3 semanas)",
+      "4. Monitoramento de efeitos adversos imunomediados a cada ciclo",
+      "5. Corticoterapia sistêmica em toxicidade grau ≥ 2; suspensão conforme grau",
+      "6. Continuar até progressão, toxicidade limitante ou 24 meses"
+    ],
+    "complications": [
+      "Pneumonite",
+      "Colite",
+      "Hepatite",
+      "Endocrinopatias (tireoidite, hipofisite, diabetes tipo 1)",
+      "Nefrite",
+      "Dermatite imunomediada"
+    ],
+    "pearls": [
+      "Cemiplimabe é o primeiro anti-PD-1 aprovado especificamente para CEC cutâneo"
+    ],
+    "images": [],
+    "citations": ["NCCN — Squamous Cell Skin Cancer"],
+    "updates": [],
+    "tags": ["tecnica", "imunoterapia", "anti-pd1", "carcinoma-espinocelular", "pele-tumores", "terapia-sistemica"]
+  },
+  {
+    "id": "cec-tec-007",
+    "type": "technique",
+    "title": "Quimioterapia",
+    "aliases": [],
+    "topic": "carcinoma-espinocelular",
+    "area": "pele-tumores",
+    "indication": "Doença avançada em pacientes inelegíveis para imunoterapia, ou combinações em casos selecionados (neoadjuvância/paliação)",
+    "contraindication": "Pacientes com função renal severamente comprometida (cisplatina); contraindicações gerais para quimioterapia sistêmica",
+    "steps": [
+      "1. Discussão multidisciplinar e exclusão de elegibilidade para imunoterapia",
+      "2. Seleção de esquema (cisplatina + 5-FU + bleomicina; cetuximabe em selecionados)",
+      "3. Rastreamento basal de função renal, hepática e hematológica",
+      "4. Administração cíclica com monitoramento laboratorial",
+      "5. Manejo de toxicidade hematológica e mucosite"
+    ],
+    "complications": [
+      "Toxicidade hematológica",
+      "Nefrotoxicidade (cisplatina)",
+      "Mucosite"
+    ],
+    "pearls": [],
+    "images": [],
+    "citations": ["Neligan, 2023, vol. 1, cap. 29"],
+    "updates": [],
+    "tags": ["tecnica", "quimioterapia", "carcinoma-espinocelular", "pele-tumores", "terapia-sistemica", "doenca-avancada"]
+  }
+]

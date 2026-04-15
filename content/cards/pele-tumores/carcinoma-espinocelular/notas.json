@@ -1,0 +1,162 @@
+[
+  {
+    "id": "cec-nota-001",
+    "type": "note",
+    "title": "Diagnosis / Patient Presentation",
+    "topic": "carcinoma-espinocelular",
+    "area": "pele-tumores",
+    "section": "diagnostico",
+    "content": [
+      "Lesão elevada, endurecida, eritematosa, com ulceração central, crostas, crescimento rápido e eventual odor fétido por maceração e infecção secundária. Diferencia-se do CBC pela consistência mais firme e hiperqueratose.",
+      "Sítios típicos: face (têmpora, couro cabeludo calvo, pavilhão auricular, nariz, lábio inferior), dorso das mãos, antebraços, pernas em mulheres idosas. Lesões em orelha e lábio têm maior risco de metástase regional.",
+      "Subtipos histológicos: CEC convencional (bem, moderadamente e pouco diferenciado), CEC acantolítico (adenoide), CEC verrucoso (variante bem diferenciada, localmente invasiva, metástase excepcional), CEC de células fusiformes (sarcomatoide), CEC desmoplásico (infiltrativo, alto risco de recidiva e invasão perineural), carcinoma basoescamoso (tratado como CEC para fins de agressividade), ceratoacantoma (controverso).",
+      "Investigação: dermatoscopia (vasos glomerulares/em grampo, escamas amareladas, queratina central); biópsia (incisional, excisional ou punch) definindo profundidade, grau de diferenciação, invasão perineural/linfovascular e distância até a margem. Em lesões de alto risco, TC de pescoço/tórax ou RM quando suspeita de invasão perineural profunda; PET-FDG em doença avançada."
+    ],
+    "images": [],
+    "citations": ["Neligan, 2023, vol. 1, cap. 29"],
+    "updates": [],
+    "tags": ["carcinoma-espinocelular", "pele-tumores", "diagnostico", "apresentacao-clinica", "subtipo-histologico"]
+  },
+  {
+    "id": "cec-nota-002",
+    "type": "note",
+    "title": "Pathophysiology",
+    "topic": "carcinoma-espinocelular",
+    "area": "pele-tumores",
+    "section": "fisiopatologia",
+    "content": [
+      "CEC resulta do acúmulo progressivo de lesões ao DNA dos queratinócitos, predominantemente induzidas por UV-B, que forma dímeros de pirimidina. A assinatura mutacional dominante inclui TP53, NOTCH1/2, CDKN2A e mutações ativadoras em RAS.",
+      "Progressão clássica: fotodano → queratose actínica → CEC in situ (doença de Bowen) → CEC invasivo → CEC metastático.",
+      "Em imunossuprimidos, particularmente transplantados renais e cardíacos sob esquemas com calcineurínicos, há perda de vigilância imunológica contra queratinócitos transformados, elevando a incidência em uma a duas ordens de grandeza e conferindo maior agressividade biológica.",
+      "Em HPV-associados (HPV 16, 18; cepas β em imunossuprimidos), o vírus contribui pela ação das oncoproteínas E6/E7.",
+      "Alta carga mutacional tumoral do CEC é fundamento biológico da excelente resposta aos inibidores de checkpoint imunológico (anti-PD-1), especialmente cemiplimabe."
+    ],
+    "images": [],
+    "citations": ["Neligan, 2023, vol. 1, cap. 29"],
+    "updates": [],
+    "tags": ["carcinoma-espinocelular", "pele-tumores", "fisiopatologia", "uv-dano", "mutacao-tp53"]
+  },
+  {
+    "id": "cec-nota-003",
+    "type": "note",
+    "title": "Precursores (QA, Bowen, queilite actínica)",
+    "topic": "carcinoma-espinocelular",
+    "area": "pele-tumores",
+    "section": "fisiopatologia",
+    "content": [
+      "Queratose actínica (QA): CEC intraepidérmico em estágio inicial; lesão escamosa eritematosa em pele fotodanificada; taxa de progressão individual baixa (~0,1–0,6% por lesão/ano), mas alta prevalência; tratamento com crioterapia, 5-fluorouracil tópico, imiquimode, terapia fotodinâmica ou curetagem.",
+      "Doença de Bowen (CEC in situ): placa eritematosa, bem delimitada, com progressão para CEC invasivo quando não tratada (estimativa de 3–5% ao longo da vida da lesão); tratamento cirúrgico ou tópico (imiquimode 5%, 5-FU) conforme sítio e tamanho.",
+      "Queilite actínica: QA do vermelhão labial; tratamento com vermilionectomia, laser de CO₂ ou 5-FU tópico."
+    ],
+    "images": [],
+    "citations": ["Neligan, 2023, vol. 1, cap. 29"],
+    "updates": [],
+    "tags": ["carcinoma-espinocelular", "pele-tumores", "precursor", "queratose-actinica", "bowen"]
+  },
+  {
+    "id": "cec-nota-004",
+    "type": "note",
+    "title": "Estadiamento AJCC 8 e BWH",
+    "topic": "carcinoma-espinocelular",
+    "area": "pele-tumores",
+    "section": "estadiamento",
+    "content": [
+      "AJCC 8ª Ed. — CEC cutâneo de cabeça e pescoço (T): T1 ≤ 2 cm; T2 > 2 cm e < 4 cm; T3 ≥ 4 cm, ou erosão óssea menor, ou invasão perineural (fibras ≥ 0,1 mm), ou invasão profunda (> 6 mm ou além da gordura subcutânea); T4a invasão cortical óssea/medular grosseira; T4b invasão esquelética axial/forame vertebral/espaço epidural.",
+      "Estadiamento linfonodal (N): N1 ipsilateral ≤ 3 cm; N2 3–6 cm ou múltiplos; N3 > 6 cm ou extensão extracapsular. M: M0 / M1.",
+      "BWH: soma de até 4 fatores de risco (diâmetro ≥ 2 cm, pouca diferenciação, invasão perineural ≥ 0,1 mm, invasão além do subcutâneo) estratifica em T1 (0), T2a (1), T2b (2–3), T3 (4 ou invasão óssea); T2b captura a maior parte dos desfechos adversos."
+    ],
+    "images": [],
+    "citations": ["AJCC, 2017", "Jambusaria-Pahlajani et al., JAMA Dermatol 2013"],
+    "updates": [],
+    "tags": ["carcinoma-espinocelular", "pele-tumores", "estadiamento", "ajcc", "bwh"]
+  },
+  {
+    "id": "cec-nota-005",
+    "type": "note",
+    "title": "Estratificação de risco NCCN",
+    "topic": "carcinoma-espinocelular",
+    "area": "pele-tumores",
+    "section": "diagnostico",
+    "content": [
+      "Fatores de alto risco NCCN incluem localização (zona H da face qualquer tamanho, zona M ≥ 10 mm, tronco/extremidades ≥ 2 cm), bordas mal definidas, recidiva, imunossupressão, radioterapia prévia no sítio ou inflamação crônica (úlcera de Marjolin).",
+      "Crescimento rápido, sintomas neurológicos (dor, parestesia), grau histológico pouco diferenciado, subtipos agressivos (acantolítico, desmoplásico, sarcomatoide).",
+      "Espessura > 6 mm ou invasão além do subcutâneo, invasão perineural, invasão linfovascular."
+    ],
+    "images": [],
+    "citations": ["NCCN — Squamous Cell Skin Cancer"],
+    "updates": [],
+    "tags": ["carcinoma-espinocelular", "pele-tumores", "risco-estratificacao", "nccn", "fatores-risco"]
+  },
+  {
+    "id": "cec-nota-006",
+    "type": "note",
+    "title": "Cuidados pós-operatórios",
+    "topic": "carcinoma-espinocelular",
+    "area": "pele-tumores",
+    "section": "pos-operatorio",
+    "content": [
+      "Curativo oclusivo por 24–48 h; retirada de pontos em face 5–7 dias, tronco/extremidades 10–14 dias.",
+      "Fotoproteção rigorosa da cicatriz e do restante da pele fotoexposta (FPS ≥ 50); exame cutâneo total a cada 3–6 meses no primeiro ano.",
+      "Em dissecção linfonodal: drenagem aspirativa fechada, enfaixamento do membro quando aplicável, fisioterapia linfática.",
+      "Em vermilionectomia: dieta pastosa por 5–7 dias, higiene oral vigorosa, massagem da cicatriz após epitelização."
+    ],
+    "images": [],
+    "citations": ["Neligan, 2023, vol. 1, cap. 29"],
+    "updates": [],
+    "tags": ["carcinoma-espinocelular", "pele-tumores", "pos-operatorio", "curativo", "fotoprotecao"]
+  },
+  {
+    "id": "cec-nota-007",
+    "type": "note",
+    "title": "Recidiva local",
+    "topic": "carcinoma-espinocelular",
+    "area": "pele-tumores",
+    "section": "complicacoes",
+    "content": [
+      "Incidência: excisão convencional — 5 anos ≈ 8% em baixo risco; > 20% em alto risco sem Mohs. Mohs em alto risco: ≈ 3%.",
+      "Prevenção: seleção correta de modalidade por NCCN; margens adequadas; Mohs em alto risco.",
+      "Diagnóstico: inspeção, dermatoscopia, biópsia em qualquer lesão sobre cicatriz.",
+      "Manejo: reexcisão (preferir Mohs); radioterapia adjuvante em invasão perineural ou margens positivas persistentes."
+    ],
+    "images": [],
+    "citations": ["Neligan, 2023, vol. 1, cap. 29", "Lansbury et al., Cochrane 2010"],
+    "updates": [],
+    "tags": ["carcinoma-espinocelular", "pele-tumores", "recidiva-local", "mohs", "margem"]
+  },
+  {
+    "id": "cec-nota-008",
+    "type": "note",
+    "title": "Metástase regional",
+    "topic": "carcinoma-espinocelular",
+    "area": "pele-tumores",
+    "section": "complicacoes",
+    "content": [
+      "Incidência: global ≈ 2–5%; lábio 10–15%; orelha 10%; úlcera de Marjolin até 30%; transplantado até 8%.",
+      "Prevenção: tratamento precoce, margens adequadas, Mohs em alto risco, discussão de linfadenectomia de sentinela (LNS) em alto risco.",
+      "Diagnóstico: palpação sistemática; ultrassonografia direcionada; TC/RM em alto risco; PET-FDG em doença avançada.",
+      "Manejo: linfadenectomia terapêutica + radioterapia adjuvante conforme N+, número de linfonodos e extensão extracapsular; considerar imunoterapia neoadjuvante em centros especializados."
+    ],
+    "images": [],
+    "citations": ["Weinberg et al., Dermatol Surg 2007", "NCCN — Squamous Cell Skin Cancer"],
+    "updates": [],
+    "tags": ["carcinoma-espinocelular", "pele-tumores", "metastase-regional", "linfonodo", "linfadenectomia"]
+  },
+  {
+    "id": "cec-nota-009",
+    "type": "note",
+    "title": "Segundo câncer de pele",
+    "topic": "carcinoma-espinocelular",
+    "area": "pele-tumores",
+    "section": "complicacoes",
+    "content": [
+      "Incidência: paciente com CEC tem risco elevado de novo CEC, CBC e melanoma.",
+      "Prevenção: fotoproteção, autoexame, seguimento dermatológico periódico.",
+      "Diagnóstico: exame cutâneo total a cada 3–6 meses no primeiro ano, depois 6–12 meses indefinidamente.",
+      "Manejo: individualizado por lesão."
+    ],
+    "images": [],
+    "citations": ["NCCN — Squamous Cell Skin Cancer"],
+    "updates": [],
+    "tags": ["carcinoma-espinocelular", "pele-tumores", "segundo-cancer", "cbc", "melanoma"]
+  }
+]

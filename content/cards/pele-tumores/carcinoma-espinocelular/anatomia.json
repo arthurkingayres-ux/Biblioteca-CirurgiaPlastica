@@ -1,0 +1,53 @@
+[
+  {
+    "id": "cec-anat-001",
+    "type": "anatomy",
+    "title": "Queratinócito espinhoso",
+    "aliases": ["stratum spinosum", "célula espinhosa"],
+    "topic": "carcinoma-espinocelular",
+    "area": "pele-tumores",
+    "definition": "célula epidérmica diferenciada a partir da célula basal, unida por desmossomos que lhe conferem o aspecto \"espinhoso\" em histologia",
+    "location": "estrato espinhoso da epiderme, suprabasal",
+    "relations": ["células basais inferiormente", "estrato granuloso superiormente", "outros queratinócitos por desmossomos"],
+    "surgical_relevance": "origem do CEC; o padrão de invasão em cordões de células atípicas com pérolas de queratina é o achado histológico clássico",
+    "how_to_identify": "histologicamente (HE); sem correlato macroscópico",
+    "images": [],
+    "citations": ["Neligan, 2023, vol. 1, cap. 29"],
+    "updates": [],
+    "tags": ["anatomia", "carcinoma-espinocelular", "pele-tumores", "queratinocito", "epiderme", "desmossomo"]
+  },
+  {
+    "id": "cec-anat-002",
+    "type": "anatomy",
+    "title": "Vermelhão do lábio inferior",
+    "aliases": ["zona vermelha labial", "vermelho labial"],
+    "topic": "carcinoma-espinocelular",
+    "area": "pele-tumores",
+    "definition": "zona de transição entre mucosa oral e pele, com queratinização reduzida e forte exposição UV",
+    "location": "borda vermelha do lábio inferior, da comissura à comissura",
+    "relations": ["mucosa oral medialmente", "pele do lábio branco lateralmente", "artéria labial inferior"],
+    "surgical_relevance": "sítio clássico de CEC associado a queilite actínica e tabagismo; conduta preferencial é vermilionectomia com avanço da mucosa labial; CEC de lábio tem maior propensão metastática que CEC de outros sítios",
+    "how_to_identify": "inspeção; biópsia dirigida quando houver leucoplasia, erosão ou espessamento",
+    "images": [],
+    "citations": ["Neligan, 2023, vol. 1, cap. 29"],
+    "updates": [],
+    "tags": ["anatomia", "carcinoma-espinocelular", "pele-tumores", "labio", "queilite-actinica", "metastase"]
+  },
+  {
+    "id": "cec-anat-003",
+    "type": "anatomy",
+    "title": "Cadeias linfonodais regionais de drenagem",
+    "aliases": ["linfonodos regionais", "estações linfonodais"],
+    "topic": "carcinoma-espinocelular",
+    "area": "pele-tumores",
+    "definition": "estações linfonodais de primeira ordem que drenam a pele por território topográfico",
+    "location": "pré-auricular, parotídea, submandibular, cervical e supraclavicular (cabeça/pescoço); axilar (tronco superior e membro superior); inguinal (tronco inferior, períneo e membro inferior)",
+    "relations": ["linfonodos parotídeos", "linfonodos cervicais", "linfonodos axilares", "linfonodos inguinais", "drenagem por território topográfico"],
+    "surgical_relevance": "exame clínico obrigatório; linfadenectomia terapêutica em N+ clinicamente detectado; discussão de LNS em lesões de alto risco",
+    "how_to_identify": "palpação sistemática; ultrassonografia direcionada; tomografia computadorizada (TC) em alto risco",
+    "images": [],
+    "citations": ["Neligan, 2023, vol. 1, cap. 29, Fig. 29.5", "UICC, 2017"],
+    "updates": [],
+    "tags": ["anatomia", "carcinoma-espinocelular", "pele-tumores", "linfonodos", "drenagem-linfatica", "estadiamento"]
+  }
+]

@@ -1,0 +1,27 @@
+{
+  "topic": "carcinoma-espinocelular",
+  "area": "pele-tumores",
+  "displayName": "Carcinoma espinocelular",
+  "version": "v1.0",
+  "date": "2026-04-15",
+  "status": "draft",
+  "references": [
+    "Neligan's Plastic Surgery, 5ª Ed., Vol. 1 (Principles), Cap. 29 — \"Benign and malignant nonmelanocytic tumors of the skin and soft tissue\" (Rei Ogawa)",
+    "Grabb and Smith's Plastic Surgery, 9ª Ed. — capítulos de câncer de pele não-melanoma",
+    "NCCN Clinical Practice Guidelines in Oncology — Squamous Cell Skin Cancer",
+    "AJCC Cancer Staging Manual, 8ª Ed. (2017) — Cutaneous Squamous Cell Carcinoma of the Head and Neck",
+    "Brigham and Women's Hospital (BWH) alternative staging system (Jambusaria-Pahlajani et al., JAMA Dermatol 2013)",
+    "UICC TNM Classification of Malignant Tumours, 8ª Ed. (2017)"
+  ],
+  "articles": [
+    "Lansbury L, Leonardi-Bee J, Perkins W, et al. Cochrane Database Syst Rev. 2010;4:CD007869.",
+    "Weinberg AS, Ogle CA, Shim EK. Dermatol Surg. 2007;33:885–899."
+  ],
+  "cardCounts": {
+    "anatomia": 3,
+    "tecnicas": 7,
+    "decisoes": 1,
+    "notas": 9,
+    "flashcards": 27
+  }
+}
