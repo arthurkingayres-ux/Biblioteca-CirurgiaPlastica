@@ -47,3 +47,11 @@ Desktop.ini
 # Worktrees isolados (superpowers:using-git-worktrees)
 .worktrees/
 tools/_validation/
+tools/_validation_all/
+tools/_validation_deep/
+
+# Inbox pessoal de imagens do Dr. Arthur (fonte, nao material publicado)
+01-Documentos-Estudo/Imagens/
+
+# Lock de tarefas agendadas do Claude Code
+.claude/scheduled_tasks.lock
