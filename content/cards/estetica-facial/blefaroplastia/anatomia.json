@@ -267,11 +267,6 @@
         "credit": "Neligan vol. 2, caps. 13-14 — Blepharoplasty"
       },
       {
-        "file": "blef-13-2-corte-horizontal-orbita.png",
-        "caption": "Corte horizontal da órbita mostrando trajeto do LPS sob o teto orbitário, desde o ápice até sua inserção na pálpebra superior.",
-        "credit": "Neligan vol. 2, caps. 13-14 — Blepharoplasty"
-      },
-      {
         "file": "blef-13-29-incisao-levantador-plicatura.png",
         "caption": "Incisão sobre a aponeurose do LPS para plicatura ou avanço — técnica-padrão de correção da ptose aponeurótica.",
         "credit": "Neligan vol. 2, caps. 13-14 — Blepharoplasty"
@@ -552,13 +547,7 @@
     ],
     "surgical_relevance": "Marco anatômico para a transição do LPS de músculo para aponeurose. Importante referência em cirurgia de ptose e blefaroplastia superior quando se acessa o espaço pré-aponeurótico.",
     "how_to_identify": "Banda fibrosa transversal esbranquiçada visível profundamente na órbita superior quando se disseca acima da aponeurose do LPS.",
-    "images": [
-      {
-        "file": "blef-13-2-corte-horizontal-orbita.png",
-        "caption": "Ligamento de Whitnall como fulcro do LPS: condensado fascial na transição muscular-aponeurótica do levantador.",
-        "credit": "Neligan vol. 2, caps. 13-14 — Blepharoplasty"
-      }
-    ],
+    "images": [],
     "citations": [
       "Neligan, 2023, vol. 2, cap. 13"
     ],
@@ -949,11 +938,6 @@
     "surgical_relevance": "O entendimento e restauração dessas estruturas é a chave para a cantopexia periocular efetiva. O tarsal strap é uma estrutura anatômica distinta que suspende o tarso medial e inferiormente ao tendão cantal lateral à parede orbitária lateral, ~4–5 mm do rebordo. Diferente do tendão cantal, o tarsal strap é relativamente resistente à laxidez relacionada ao envelhecimento. A liberação adequada do tarsal strap durante cantopexia permite re-suspensão sem tensão, minimizando a força de tração inferior.",
     "how_to_identify": "Conjunto de estruturas fibrosas no canto lateral convergindo ao tubérculo de Whitnall. O tarsal strap é identificado como uma banda fibrosa ~4–5 mm do rebordo orbitário lateral, distinta e inferior ao tendão cantal lateral principal.",
     "images": [
-      {
-        "file": "blef-13-2-corte-horizontal-orbita.png",
-        "caption": "Corte horizontal da órbita mostrando as estruturas do retináculo lateral convergindo ao tubérculo de Whitnall na parede orbitária lateral.",
-        "credit": "Neligan vol. 2, cap. 13 — Blepharoplasty"
-      },
       {
         "file": "blef-13-4-tarsal-strap.png",
         "caption": "Tarsal strap — componente do retináculo lateral que suspende o tarso medial e inferiormente ao tendão cantal lateral.",
