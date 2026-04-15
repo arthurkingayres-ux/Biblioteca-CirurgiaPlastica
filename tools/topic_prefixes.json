@@ -16,5 +16,8 @@
   "fissura-labiopalatina": "flp",
   "retalhos-locais-face": "rlf",
   "enxertos-pele": "enxp",
-  "principios-excisao-margens": "excm"
+  "principios-excisao-margens": "excm",
+  "carcinoma-basocelular": "cbc",
+  "carcinoma-espinocelular": "cec",
+  "melanoma-cutaneo": "mel"
 }
