@@ -127,7 +127,7 @@
       "NCCN — Cutaneous Melanoma"
     ],
     "updates": [],
-    "tags": ["melanoma-cutaneo", "pele-tumores", "metastase-nodal", "linfonodo-sentinela", "linfadenectomia"]
+    "tags": ["melanoma-cutaneo", "pele-tumores", "metastase-nodal", "linfonodo-sentinela", "linfadenectomia", "complicacoes"]
   },
   {
     "id": "mel-nota-008",
@@ -145,7 +145,7 @@
     "images": [],
     "citations": ["Neligan, 2023, vol. 1, cap. 30"],
     "updates": [],
-    "tags": ["melanoma-cutaneo", "pele-tumores", "linfedema", "linfadenectomia", "supermicrocirurgia"]
+    "tags": ["melanoma-cutaneo", "pele-tumores", "linfedema", "linfadenectomia", "supermicrocirurgia", "complicacoes"]
   },
   {
     "id": "mel-nota-009",
@@ -163,6 +163,6 @@
     "images": [],
     "citations": ["NCCN — Cutaneous Melanoma"],
     "updates": [],
-    "tags": ["melanoma-cutaneo", "pele-tumores", "segundo-melanoma", "nmsc", "seguimento"]
+    "tags": ["melanoma-cutaneo", "pele-tumores", "segundo-melanoma", "nmsc", "seguimento", "complicacoes"]
   }
 ]
