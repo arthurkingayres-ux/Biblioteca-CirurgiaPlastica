@@ -64,5 +64,23 @@
     "topic": "principios-excisao-margens",
     "displayName": "Princípios de Excisão e Margens",
     "status": "complete"
+  },
+  {
+    "area": "pele-tumores",
+    "topic": "carcinoma-basocelular",
+    "displayName": "Carcinoma Basocelular (CBC)",
+    "status": "complete"
+  },
+  {
+    "area": "pele-tumores",
+    "topic": "carcinoma-espinocelular",
+    "displayName": "Carcinoma Espinocelular (CEC)",
+    "status": "complete"
+  },
+  {
+    "area": "pele-tumores",
+    "topic": "melanoma-cutaneo",
+    "displayName": "Melanoma Cutâneo",
+    "status": "complete"
   }
 ]
