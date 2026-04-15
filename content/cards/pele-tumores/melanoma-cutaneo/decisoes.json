@@ -1,0 +1,84 @@
+[
+  {
+    "id": "mel-dec-001",
+    "type": "decision",
+    "title": "Patient Selection - Melanoma Cutâneo",
+    "topic": "melanoma-cutaneo",
+    "area": "pele-tumores",
+    "trigger": "Diagnóstico histológico confirmado de melanoma cutâneo, com necessidade de seleção de modalidade terapêutica",
+    "steps": [
+      {
+        "question": "Qual é o estágio / profundidade de Breslow da lesão?",
+        "options": [
+          { "answer": "Melanoma in situ", "next": "conduta_margem_in_situ" },
+          { "answer": "Breslow ≤ 1,0 mm", "next": "passo_2_lns_fino" },
+          { "answer": "Breslow 1,01–2,0 mm", "next": "conduta_margem_1_2cm_lns" },
+          { "answer": "Breslow > 2,0 mm", "next": "conduta_margem_2cm_lns" },
+          { "answer": "Linfonodo clinicamente positivo", "next": "passo_3_nodal_positivo" },
+          { "answer": "Doença em trânsito/satélite", "next": "passo_3_transito" },
+          { "answer": "Metástase à distância", "next": "passo_3_metastatica" }
+        ]
+      },
+      {
+        "question_id": "passo_2_lns_fino",
+        "question": "Breslow > 0,8 mm OU ≤ 0,8 mm com ulceração ou alto índice mitótico?",
+        "options": [
+          { "answer": "Sim", "next": "conduta_margem_1cm_com_lns" },
+          { "answer": "Não", "next": "conduta_margem_1cm_sem_lns" }
+        ]
+      },
+      {
+        "question_id": "passo_3_nodal_positivo",
+        "question": "Lesão primária ressecável?",
+        "options": [
+          { "answer": "Sim", "next": "conduta_linfadenectomia_terapeutica" },
+          { "answer": "Não", "next": "passo_3b_irresecavel" }
+        ]
+      },
+      {
+        "question_id": "passo_3_transito",
+        "question": "Doença ressecável ou limitada a membro?",
+        "options": [
+          { "answer": "Ressecável", "next": "conduta_excisao_local" },
+          { "answer": "Múltipla/irresecável de membro", "next": "conduta_terapia_regional_membro" }
+        ]
+      },
+      {
+        "question_id": "passo_3_metastatica",
+        "question": "Paciente é candidato a imunoterapia (PS 0–1, sem autoimune descompensada)?",
+        "options": [
+          { "answer": "Sim, BRAF V600+ com alta carga sintomática ou risco iminente", "next": "conduta_braf_mek_primeira_linha" },
+          { "answer": "Sim, BRAF wild-type ou sem urgência", "next": "conduta_imunoterapia_sistemica" },
+          { "answer": "Não (PS ≥ 2 ou contraindicações)", "next": "conduta_cuidados_paliativos" }
+        ]
+      },
+      {
+        "question_id": "passo_3b_irresecavel",
+        "question": "Paciente é candidato a imunoterapia?",
+        "options": [
+          { "answer": "Sim", "next": "conduta_imunoterapia_neoadjuvante" },
+          { "answer": "Não", "next": "conduta_radioterapia_paliativa" }
+        ]
+      }
+    ],
+    "citations": [
+      "Neligan, 2023, vol. 1, cap. 30",
+      "NCCN — Cutaneous Melanoma",
+      "AJCC Cancer Staging Manual, 8ª edição, 2017",
+      "Faries et al., NEJM 2017 — MSLT-II",
+      "Morton et al., NEJM 2014 — MSLT-I"
+    ],
+    "updates": [],
+    "tags": [
+      "decisao",
+      "melanoma-cutaneo",
+      "selecao-pacientes",
+      "breslow",
+      "lns",
+      "imunoterapia",
+      "braf",
+      "pele-tumores",
+      "estadiamento"
+    ]
+  }
+]

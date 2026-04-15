@@ -1,0 +1,65 @@
+[
+  {
+    "id": "mel-anat-001",
+    "type": "anatomy",
+    "title": "Melanócito epidérmico",
+    "aliases": ["célula melanocítica", "célula melânica"],
+    "topic": "melanoma-cutaneo",
+    "area": "pele-tumores",
+    "definition": "Célula dendrítica derivada da crista neural, produtora de melanina via melanossomos.",
+    "location": "Camada basal da epiderme; folículos pilosos; plexo coroide; olhos; mucosas; meninges.",
+    "relations": [
+      "queratinócitos adjacentes (1 melanócito para 10 queratinócitos na unidade melânica)",
+      "transferência de melanossomos aos queratinócitos via dendritos",
+      "distribuição topográfica explica subtipos: superficial em pele intermitentemente exposta, lentigo maligno em pele cronicamente exposta, acral em palmoplantares/subungueais"
+    ],
+    "surgical_relevance": "Célula de origem do melanoma cutâneo; a heterogeneidade de distribuição fundamenta o planejamento de margens e a compreensão dos subtipos clínico-patológicos.",
+    "how_to_identify": "Imuno-histoquímica com S-100, HMB-45, Melan-A/MART-1 e SOX10; visualização em microscopia eletrônica de melanossomos em vários estágios de maturação.",
+    "images": [],
+    "citations": ["Neligan, 2023, vol. 1, cap. 30"],
+    "updates": [],
+    "tags": ["anatomia", "melanoma-cutaneo", "pele-tumores", "epiderme", "melanossomos", "histopatologia"]
+  },
+  {
+    "id": "mel-anat-002",
+    "type": "anatomy",
+    "title": "Linfonodo sentinela",
+    "aliases": ["sentinel node", "SLN"],
+    "topic": "melanoma-cutaneo",
+    "area": "pele-tumores",
+    "definition": "Primeiro linfonodo a receber drenagem linfática da lesão cutânea primária, identificado por injeção intradérmica de tecnécio-99m coloidal e/ou corante azul patente durante estadiamento intraoperatório.",
+    "location": "Cervical/parotídeo (cabeça e pescoço), axilar (tronco superior e membro superior), inguinal (tronco inferior e membro inferior); podem existir linfonodos intercalares (in-transit) em drenagens aberrantes.",
+    "relations": [
+      "mapeamento linfocintigráfico pré-operatório obrigatório em drenagem ambígua (tronco, cabeça e pescoço)",
+      "múltiplos linfonodos sentinelas podem ocorrer em até 20% dos casos",
+      "positividade histológica move estádio para AJCC III e orienta terapia adjuvante"
+    ],
+    "surgical_relevance": "Estadiamento patológico mais acurado que qualquer outro método; sua positividade orienta discussão de terapia adjuvante e seguimento com ultrassonografia vs linfadenectomia de complementação.",
+    "how_to_identify": "Captação de radiotracer com gama-probe intraoperatório e/ou coloração azul; remoção em bloco do linfonodo mais quente (contagem residual ≤ 10% do hotspot); análise histopatológica em cortes seriados com imuno-histoquímica.",
+    "images": [],
+    "citations": ["Neligan, 2023, vol. 1, cap. 30", "Morton et al., NEJM 2014 — MSLT-I"],
+    "updates": [],
+    "tags": ["anatomia", "melanoma-cutaneo", "pele-tumores", "linfonodo-sentinela", "estadiamento", "linfatico"]
+  },
+  {
+    "id": "mel-anat-003",
+    "type": "anatomy",
+    "title": "Junção dermoepidérmica e espessura de Breslow",
+    "aliases": ["Breslow thickness", "profundidade de Breslow"],
+    "topic": "melanoma-cutaneo",
+    "area": "pele-tumores",
+    "definition": "Distância vertical, em milímetros, do topo da camada granulosa da epiderme até a célula tumoral mais profunda (ou base da úlcera se ulcerado), medida em corte histológico HE.",
+    "location": "Marco topográfico mensurado em espécime histopatológico; não é estrutura anatômica, mas parâmetro morfométrico de profundidade de invasão tumoral.",
+    "relations": [
+      "correlaciona-se diretamente com risco de metástase regional e à distância",
+      "principal determinante de T na AJCC 8ª edição — substitui a classificação de Clark",
+      "determina margem cirúrgica e indicação de linfonodo sentinela"
+    ],
+    "surgical_relevance": "Define margem horizontal (in situ 0,5–1,0 cm; ≤ 1 mm → 1 cm; 1,01–2 mm → 1–2 cm; > 2 mm → 2 cm) e indicação de LNS (> 0,8 mm ou ≤ 0,8 mm com ulceração/alto índice mitótico).",
+    "how_to_identify": "Laudo de biópsia excisional (preferida) ou incisional representativa; nunca extrapolar de shave superficial porque a base do tumor pode estar truncada.",
+    "images": [],
+    "citations": ["AJCC, 2017", "Neligan, 2023, vol. 1, cap. 30"],
+    "updates": [],
+    "tags": ["anatomia", "melanoma-cutaneo", "pele-tumores", "breslow", "estadiamento", "histopatologia"]
+  }
+]

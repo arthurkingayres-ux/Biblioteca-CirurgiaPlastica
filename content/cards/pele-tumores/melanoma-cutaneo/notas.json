@@ -1,0 +1,168 @@
+[
+  {
+    "id": "mel-nota-001",
+    "type": "note",
+    "title": "Diagnosis / Patient Presentation",
+    "topic": "melanoma-cutaneo",
+    "area": "pele-tumores",
+    "section": "diagnostico",
+    "content": [
+      "A regra ABCDE (Asymmetry, Border, Color, Diameter > 6 mm, Evolving) é a base do reconhecimento clínico do melanoma. A evolução (E) é o sinal mais sensível para melanomas iniciais; a regra do patinho feio (ugly duckling) — lesão morfologicamente distinta das demais do paciente — é frequentemente mais útil que ABCDE em pacientes com múltiplos nevos.",
+      "A dermatoscopia identifica redes pigmentares atípicas, pontos/glóbulos periféricos, estrias radiais, véu azul-esbranquiçado, áreas de regressão e padrão multicomponente, aumentando a sensibilidade diagnóstica e reduzindo biópsias desnecessárias.",
+      "A investigação inicial é por biópsia excisional com margem de 1–3 mm como padrão; biópsia incisional, punch ou shave profundo são aceitos em lesões grandes, faciais ou acrais quando a excisional é inviável — nunca shave superficial em lesão suspeita, porque compromete o Breslow. O laudo mínimo deve informar espessura de Breslow (mm), ulceração, índice mitótico, margens periférica e profunda, invasão linfovascular, microsatelitose, regressão e subtipo histológico.",
+      "Imagem não é rotineira em estágio I–IIA; em IIB–IV ou suspeita clínica de doença nodal/distante, ultrassonografia da cadeia de drenagem, TC de tórax/abdome/pelve, RM cerebral e PET-FDG são adicionados conforme o contexto. Status BRAF é obrigatório em estágio III/IV e recomendável em IIB–IIC para planejamento terapêutico."
+    ],
+    "images": [],
+    "citations": ["Neligan, 2023, vol. 1, cap. 30"],
+    "updates": [],
+    "tags": ["melanoma-cutaneo", "pele-tumores", "diagnostico", "abcde", "dermatoscopia", "biopsia"]
+  },
+  {
+    "id": "mel-nota-002",
+    "type": "note",
+    "title": "Pathophysiology",
+    "topic": "melanoma-cutaneo",
+    "area": "pele-tumores",
+    "section": "fisiopatologia",
+    "content": [
+      "O melanoma resulta de transformação maligna do melanócito com acúmulo de mutações somáticas induzidas predominantemente por radiação UV. A mutação ativadora BRAF V600E é o driver mais comum (40–50%) em melanomas de pele intermitentemente exposta; NRAS e c-KIT predominam em pele cronicamente exposta (lentigo maligno); melanomas acrais e mucosos têm perfil distinto (c-KIT, CCND1). Perdas em CDKN2A (INK4a/ARF) e PTEN são frequentes na progressão.",
+      "A progressão biológica é sequencial: melanócito normal → nevo benigno → nevo displásico → melanoma in situ (fase radial) → melanoma invasivo (fase vertical) → melanoma metastático. A alta carga mutacional tumoral, consequência do dano UV cumulativo, fundamenta a excelente resposta aos inibidores de checkpoint.",
+      "A síndrome do melanoma familial autossômica dominante está ligada a mutações germinativas em CDKN2A (9p21) e, menos frequentemente, em CDK4, BAP1, POT1 e MITF; deve-se suspeitar em múltiplos melanomas, associação com câncer pancreático familial ou melanoma em idade jovem."
+    ],
+    "images": [],
+    "citations": ["Neligan, 2023, vol. 1, cap. 30"],
+    "updates": [],
+    "tags": ["melanoma-cutaneo", "pele-tumores", "fisiopatologia", "braf", "cdkn2a", "uv"]
+  },
+  {
+    "id": "mel-nota-003",
+    "type": "note",
+    "title": "Subtipos clínico-patológicos",
+    "topic": "melanoma-cutaneo",
+    "area": "pele-tumores",
+    "section": "diagnostico",
+    "content": [
+      "Extensivo superficial: 70% dos casos; tronco em homens, pernas em mulheres; crescimento radial longo; idade média 40–50 anos.",
+      "Nodular: 15–20%; lesão em cúpula frequentemente ulcerada; cresce rapidamente em fase vertical; pior prognóstico por espessura ao diagnóstico.",
+      "Lentigo maligno / lentigo maligno melanoma: 10%; face de idosos com fotodano crônico; fase radial muito longa; bordas mal definidas; manejo pode exigir Mohs lento ou mapping biopsy.",
+      "Acral lentiginoso: 5% em fototipos claros, majoritário em fototipos escuros e asiáticos; palmas, plantas e regiões subungueais; diagnóstico frequentemente tardio.",
+      "Desmoplásico: variante rara com componente fibrosante; invasão perineural frequente; pior controle local, porém menor tendência à metástase nodal quando puro."
+    ],
+    "images": [],
+    "citations": ["Neligan, 2023, vol. 1, cap. 30"],
+    "updates": [],
+    "tags": ["melanoma-cutaneo", "pele-tumores", "subtipos", "extensivo-superficial", "nodular", "lentigo-maligno", "acral"]
+  },
+  {
+    "id": "mel-nota-004",
+    "type": "note",
+    "title": "Estadiamento AJCC 8ª Ed.",
+    "topic": "melanoma-cutaneo",
+    "area": "pele-tumores",
+    "section": "estadiamento",
+    "content": [
+      "T (Breslow + ulceração): pT1a ≤ 0,8 mm sem ulceração; pT1b 0,8–1,0 mm ou ≤ 0,8 mm com ulceração; pT2 > 1,0 a 2,0 mm; pT3 > 2,0 a 4,0 mm; pT4 > 4,0 mm. Sufixo a/b indica ausência/presença de ulceração nos grupos pT2–pT4.",
+      "N (linfonodos regionais): N1 1 linfonodo ou metástases em trânsito/satélite/microssatélite sem linfonodo; N2 2–3 linfonodos ou 1 linfonodo com metástases em trânsito; N3 ≥ 4 linfonodos, linfonodos coalescentes ou ≥ 2 com metástases em trânsito. Subclassificação a/b/c conforme clinicamente oculta, detectada ou com satelitose.",
+      "M (metástases à distância): M1a pele/subcutâneo/linfonodo não regional; M1b pulmão; M1c outras vísceras não SNC; M1d sistema nervoso central. Sufixo (0) se LDH normal, (1) se elevado.",
+      "Estágios agrupados (resumo): 0 (in situ); I (pT1–2a N0 M0); II (pT2b–4 N0 M0); III (qualquer T com N+); IV (M1 qualquer)."
+    ],
+    "images": [],
+    "citations": ["AJCC, 2017", "Gershenwald et al., CA Cancer J Clin 2017"],
+    "updates": [],
+    "tags": ["melanoma-cutaneo", "pele-tumores", "estadiamento", "ajcc", "breslow", "tnm"]
+  },
+  {
+    "id": "mel-nota-005",
+    "type": "note",
+    "title": "Cuidados pós-operatórios",
+    "topic": "melanoma-cutaneo",
+    "area": "pele-tumores",
+    "section": "pos-operatorio",
+    "content": [
+      "Curativo oclusivo por 24–48 h; retirada de pontos em face 5–7 dias, tronco/extremidades 10–14 dias.",
+      "Fotoproteção rigorosa (FPS ≥ 50) da cicatriz e de toda pele fotoexposta.",
+      "Em linfadenectomia: drenagem aspirativa fechada (retirada quando débito < 30 mL/24 h por 2 dias consecutivos), fisioterapia linfática precoce e compressão elástica do membro.",
+      "Seguimento estratificado por estágio: IA a cada 6–12 meses por 5 anos, depois anual; IB–IIA a cada 3–6 meses por 2 anos, depois 6–12 meses por 3 anos, depois anual; IIB–IV ressecado a cada 3 meses por 2 anos, depois 3–6 meses por 3 anos, depois anual, com imagem (TC/PET/RM cerebral) conforme risco; todos incluem autoexame mensal e exame dermatológico total anual."
+    ],
+    "images": [],
+    "citations": ["NCCN — Cutaneous Melanoma"],
+    "updates": [],
+    "tags": ["melanoma-cutaneo", "pele-tumores", "pos-operatorio", "curativo", "seguimento", "linfadenectomia"]
+  },
+  {
+    "id": "mel-nota-006",
+    "type": "note",
+    "title": "Recidiva local",
+    "topic": "melanoma-cutaneo",
+    "area": "pele-tumores",
+    "section": "complicacoes",
+    "content": [
+      "Incidência: 1–5% com margens adequadas; aumenta em desmoplásico e lentigo maligno facial.",
+      "Prevenção: margens conforme Breslow; Mohs lento ou mapping biopsy em lentigo maligno facial; revisão patológica das margens.",
+      "Diagnóstico: inspeção, dermatoscopia e biópsia de qualquer nódulo, placa ou lesão pigmentada sobre a cicatriz.",
+      "Manejo: reexcisão com margens adequadas; terapia adjuvante conforme re-estadiamento."
+    ],
+    "images": [],
+    "citations": ["Neligan, 2023, vol. 1, cap. 30", "NCCN — Cutaneous Melanoma"],
+    "updates": [],
+    "tags": ["melanoma-cutaneo", "pele-tumores", "recidiva-local", "margem", "complicacoes"]
+  },
+  {
+    "id": "mel-nota-007",
+    "type": "note",
+    "title": "Metástase nodal",
+    "topic": "melanoma-cutaneo",
+    "area": "pele-tumores",
+    "section": "complicacoes",
+    "content": [
+      "Incidência de LNS+ por Breslow: ~5% em ≤ 1 mm; ~20% em 1,01–2 mm; 30–40% em > 2 mm.",
+      "Prevenção: LNS em Breslow adequado permite detecção precoce; terapia adjuvante sistêmica reduz recidiva.",
+      "Diagnóstico: palpação, ultrassonografia, PAAF/core de linfonodo suspeito; PET-FDG em alto risco ou doença avançada.",
+      "Manejo: linfadenectomia terapêutica em doença clinicamente manifestada; em LNS+, discussão entre observação com ultrassonografia (padrão atual conforme MSLT-II e DeCOG-SLT) e linfadenectomia de complementação em casos selecionados; terapia adjuvante sistêmica após estadiamento III."
+    ],
+    "images": [],
+    "citations": [
+      "Morton et al., NEJM 2014 — MSLT-I",
+      "Faries et al., NEJM 2017 — MSLT-II",
+      "NCCN — Cutaneous Melanoma"
+    ],
+    "updates": [],
+    "tags": ["melanoma-cutaneo", "pele-tumores", "metastase-nodal", "linfonodo-sentinela", "linfadenectomia"]
+  },
+  {
+    "id": "mel-nota-008",
+    "type": "note",
+    "title": "Linfedema pós-linfadenectomia",
+    "topic": "melanoma-cutaneo",
+    "area": "pele-tumores",
+    "section": "complicacoes",
+    "content": [
+      "Incidência: 5–30% axilar; 20–50% inguinal, variando conforme extensão da dissecção e radioterapia adjuvante.",
+      "Prevenção: LNS quando possível em vez de CLND; fisioterapia linfática precoce; compressão elástica e educação sobre cuidados de pele.",
+      "Diagnóstico: perimetria seriada do membro (diferença > 2 cm em níveis homólogos); avaliação funcional; linfocintigrafia em casos dúbios.",
+      "Manejo: terapia física complexa (drenagem linfática manual, compressão graduada, exercícios, cuidados de pele); em refratários, supermicrocirurgia linfovenosa ou transferência linfonodal vascularizada; liposucção em linfedema avançado."
+    ],
+    "images": [],
+    "citations": ["Neligan, 2023, vol. 1, cap. 30"],
+    "updates": [],
+    "tags": ["melanoma-cutaneo", "pele-tumores", "linfedema", "linfadenectomia", "supermicrocirurgia"]
+  },
+  {
+    "id": "mel-nota-009",
+    "type": "note",
+    "title": "Segundo melanoma e outros cânceres cutâneos",
+    "topic": "melanoma-cutaneo",
+    "area": "pele-tumores",
+    "section": "complicacoes",
+    "content": [
+      "Incidência: paciente com melanoma tem risco aumentado de segundo melanoma (~5% ao longo da vida) e de carcinomas não-melanoma (CBC, CEC).",
+      "Prevenção: fotoproteção, autoexame mensal e exame dermatológico total anual.",
+      "Diagnóstico: exame cutâneo total periódico com dermatoscopia de lesões novas ou em evolução.",
+      "Manejo: individualizado por lesão; pacientes com múltiplos melanomas primários podem ser candidatos a aconselhamento genético."
+    ],
+    "images": [],
+    "citations": ["NCCN — Cutaneous Melanoma"],
+    "updates": [],
+    "tags": ["melanoma-cutaneo", "pele-tumores", "segundo-melanoma", "nmsc", "seguimento"]
+  }
+]

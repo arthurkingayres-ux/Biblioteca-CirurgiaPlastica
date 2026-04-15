@@ -1,0 +1,202 @@
+[
+  {
+    "id": "mel-tec-001",
+    "type": "technique",
+    "title": "Biópsia excisional diagnóstica",
+    "aliases": [],
+    "topic": "melanoma-cutaneo",
+    "area": "pele-tumores",
+    "indication": "Lesão cutânea pigmentada suspeita de melanoma sempre que tecnicamente viável.",
+    "contraindication": "Lesões muito extensas ou em topografia crítica (face central, subungueal, genital) — considerar punch ou incisional representativa.",
+    "steps": [
+      "1. Marcar a lesão com margem de 1–3 mm de pele sã",
+      "2. Orientar o eixo da incisão conforme linhas de relaxamento e futura ampliação",
+      "3. Excisionar até tecido celular subcutâneo",
+      "4. Orientar a peça com fio de sutura (12h)",
+      "5. Fechamento primário",
+      "6. Encaminhar peça para patologia (Breslow, ulceração, mitoses, margens, invasão linfovascular, regressão, subtipo)"
+    ],
+    "complications": [
+      "laudo insuficiente com Breslow truncado",
+      "cicatriz inestética",
+      "necessidade de reoperação para ampliação de margem"
+    ],
+    "pearls": [],
+    "images": [],
+    "citations": ["Neligan, 2023, vol. 1, cap. 30", "NCCN — Cutaneous Melanoma"],
+    "updates": [],
+    "tags": ["tecnica", "melanoma-cutaneo", "pele-tumores", "biopsia", "diagnostico"]
+  },
+  {
+    "id": "mel-tec-002",
+    "type": "technique",
+    "title": "Excisão oncológica ampliada (ampliação de margem)",
+    "aliases": ["ampliação de margem", "wide local excision"],
+    "topic": "melanoma-cutaneo",
+    "area": "pele-tumores",
+    "indication": "Após confirmação histológica de melanoma, ampliar margem conforme profundidade de Breslow.",
+    "contraindication": "Doença metastática disseminada sem benefício oncológico; sítios críticos (face, acral) exigem individualização da estratégia.",
+    "steps": [
+      "1. Identificar a cicatriz da biópsia prévia",
+      "2. Definir margem horizontal conforme Breslow: in situ 0,5–1,0 cm; ≤ 1,0 mm → 1 cm; 1,01–2,0 mm → 1–2 cm; > 2,0 mm → 2 cm",
+      "3. Incluir margem vertical com fáscia muscular (ou tecido adiposo profundo quando fáscia ausente em face e mão)",
+      "4. Ressecção em bloco com orientação por fio de sutura",
+      "5. Reconstrução por fechamento primário, enxerto ou retalho conforme defeito"
+    ],
+    "complications": [
+      "deiscência de ferida",
+      "necrose parcial de retalho",
+      "distorção de unidade estética",
+      "restrição funcional em áreas articulares"
+    ],
+    "pearls": [],
+    "images": [],
+    "citations": ["NCCN — Cutaneous Melanoma", "Wheatley et al., Cancer Treat Rev 2016"],
+    "updates": [],
+    "tags": ["tecnica", "melanoma-cutaneo", "pele-tumores", "excisao", "ampliacao-margem"]
+  },
+  {
+    "id": "mel-tec-003",
+    "type": "technique",
+    "title": "Biópsia de linfonodo sentinela (LNS)",
+    "aliases": ["linfonodo sentinela", "sentinel lymph node biopsy", "SLNB"],
+    "topic": "melanoma-cutaneo",
+    "area": "pele-tumores",
+    "indication": "Breslow > 0,8 mm; ou ≤ 0,8 mm com ulceração ou alto índice mitótico; linfonodos clinicamente negativos.",
+    "contraindication": "Linfonodos clinicamente positivos (prosseguir para linfadenectomia terapêutica); doença metastática à distância.",
+    "steps": [
+      "1. Linfocintigrafia pré-operatória com tecnécio-99m coloidal, injeção intradérmica peritumoral conforme protocolo",
+      "2. Corante azul patente intradérmico peritumoral 5–10 minutos antes da incisão",
+      "3. Incisão sobre o hotspot identificado com gama-probe",
+      "4. Dissecção até identificar o(s) linfonodo(s) mais quente(s) e/ou azul(is)",
+      "5. Remoção em bloco; conferência de contagem residual ≤ 10% do hotspot",
+      "6. Fechamento por planos; encaminhamento do linfonodo para análise em série (S-100, Melan-A, HMB-45)"
+    ],
+    "complications": [
+      "falso-negativo (< 5% em centros experientes)",
+      "seroma",
+      "linfedema (raro em LNS isolado)",
+      "lesão nervosa (nervo facial em cabeça/pescoço; torácico longo e ramos peitorais em axila)",
+      "reação alérgica ao corante azul patente"
+    ],
+    "pearls": [],
+    "images": [],
+    "citations": ["Morton et al., NEJM 2014 — MSLT-I", "NCCN — Cutaneous Melanoma"],
+    "updates": [],
+    "tags": ["tecnica", "melanoma-cutaneo", "pele-tumores", "linfonodo-sentinela", "estadiamento"]
+  },
+  {
+    "id": "mel-tec-004",
+    "type": "technique",
+    "title": "Linfadenectomia regional",
+    "aliases": ["dissecção de linfonodos", "CLND", "linfadenectomia completa"],
+    "topic": "melanoma-cutaneo",
+    "area": "pele-tumores",
+    "indication": "Linfonodo clinicamente positivo (palpável ou em imagem) confirmado por citologia/biópsia; CLND em LNS+ apenas em casos selecionados após discussão multidisciplinar.",
+    "contraindication": "Doença metastática à distância sem benefício local claro.",
+    "steps": [
+      "1. Cervical (melanomas de couro cabeludo/têmpora): dissecção seletiva níveis I–V ± parotidectomia superficial",
+      "2. Axilar: níveis I–III (Berg); preservar nervos peitorais, torácico longo, intercostobraquiais e vasos axilares",
+      "3. Inguinal: triangulação ligamento inguinal / sartório / adutor longo; identificar veia femoral e safena; ilioinguinal (Cloquet) em doença pélvica",
+      "4. Drenagem aspirativa fechada",
+      "5. Enfaixamento compressivo e elevação do membro no pós-operatório imediato"
+    ],
+    "complications": [
+      "linfedema (inguinal > axilar)",
+      "seroma",
+      "deiscência",
+      "necrose cutânea",
+      "lesão nervosa"
+    ],
+    "pearls": [],
+    "images": [],
+    "citations": ["Faries et al., NEJM 2017 — MSLT-II", "NCCN — Cutaneous Melanoma"],
+    "updates": [],
+    "tags": ["tecnica", "melanoma-cutaneo", "pele-tumores", "linfadenectomia", "oncologia"]
+  },
+  {
+    "id": "mel-tec-005",
+    "type": "technique",
+    "title": "Terapia adjuvante sistêmica",
+    "aliases": ["adjuvante sistêmica"],
+    "topic": "melanoma-cutaneo",
+    "area": "pele-tumores",
+    "indication": "Estágio III (qualquer T com linfonodo+) e IV ressecado com alto risco de recidiva; considerar em IIB/IIC de alto risco conforme NCCN.",
+    "contraindication": "Doenças autoimunes graves não controladas (para imunoterapia); gestação.",
+    "steps": [
+      "1. Avaliar status BRAF V600 (imuno-histoquímica e/ou PCR)",
+      "2. BRAF V600+: dabrafenibe 150 mg 2x/dia + trametinibe 2 mg/dia por 12 meses, OU anti-PD-1 (nivolumabe 480 mg IV q4sem ou pembrolizumabe 200 mg IV q3sem) por 12 meses",
+      "3. BRAF wild-type: anti-PD-1 (nivolumabe ou pembrolizumabe) por 12 meses",
+      "4. Monitorização de toxicidade imunomediada (pneumonite, colite, hepatite, endocrinopatias, nefrite, dermatite) ou alvo-específica (febre com dabrafenibe/trametinibe; fotossensibilidade com vemurafenibe)"
+    ],
+    "complications": [
+      "efeitos adversos imunomediados exigindo corticoterapia",
+      "toxicidade cardíaca (fração de ejeção em inibidores MEK)",
+      "hepatotoxicidade",
+      "endocrinopatias"
+    ],
+    "pearls": [],
+    "images": [],
+    "citations": ["NCCN — Cutaneous Melanoma"],
+    "updates": [],
+    "tags": ["tecnica", "melanoma-cutaneo", "pele-tumores", "adjuvante", "imunoterapia", "braf", "pd-1"]
+  },
+  {
+    "id": "mel-tec-006",
+    "type": "technique",
+    "title": "Terapia sistêmica em doença metastática",
+    "aliases": ["tratamento metastático", "estágio IV"],
+    "topic": "melanoma-cutaneo",
+    "area": "pele-tumores",
+    "indication": "Estágio IV irresecável ou III irresecável.",
+    "contraindication": "Performance status ≥ 3; doenças autoimunes graves descompensadas (para imunoterapia).",
+    "steps": [
+      "1. Anti-PD-1 isolado (nivolumabe 480 mg IV q4sem ou pembrolizumabe 200 mg IV q3sem), OU anti-PD-1 + anti-CTLA-4 (nivolumabe 1 mg/kg + ipilimumabe 3 mg/kg q3sem x4 doses, seguido de manutenção com nivolumabe) em pacientes elegíveis",
+      "2. BRAF V600+ com alta carga sintomática ou risco iminente: terapia-alvo dabrafenibe+trametinibe, vemurafenibe+cobimetinibe ou encorafenibe+binimetinibe",
+      "3. Metástase cerebral: radiocirurgia estereotáxica (SRS) + imunoterapia sistêmica",
+      "4. T-VEC intralesional em doença cutânea/nodal sem acometimento visceral",
+      "5. Metastasectomia em doença oligometastática selecionada"
+    ],
+    "complications": [
+      "colite imunomediada (5–10%)",
+      "hepatite imunomediada",
+      "pneumonite",
+      "endocrinopatias (hipofisite, tireoidite, diabetes tipo 1, insuficiência adrenal)",
+      "nefrite",
+      "miocardite rara",
+      "toxicidade dermatológica (exantema, vitiligo)"
+    ],
+    "pearls": [],
+    "images": [],
+    "citations": ["NCCN — Cutaneous Melanoma"],
+    "updates": [],
+    "tags": ["tecnica", "melanoma-cutaneo", "pele-tumores", "metastatico", "imunoterapia", "braf"]
+  },
+  {
+    "id": "mel-tec-007",
+    "type": "technique",
+    "title": "Radioterapia",
+    "aliases": ["radioterapia externa", "SRS"],
+    "topic": "melanoma-cutaneo",
+    "area": "pele-tumores",
+    "indication": "Lentigo maligno extenso de face irresecável (alternativa ao Mohs lento); adjuvante em invasão perineural do desmoplásico; cabeça e pescoço com múltiplos linfonodos ou extensão extracapsular pós-linfadenectomia; paliativa (óssea, SNC).",
+    "contraindication": "Pacientes jovens com melanoma localizado ressecável; doenças do colágeno ativas.",
+    "steps": [
+      "1. Planejamento dosimétrico com tomografia de simulação",
+      "2. Radioterapia externa com fracionamento convencional para adjuvância nodal",
+      "3. Radiocirurgia estereotáxica (SRS) para metástases cerebrais selecionadas",
+      "4. Avaliação clínica periódica para monitorização de reações teciduais"
+    ],
+    "complications": [
+      "radiodermite aguda",
+      "linfedema agravado quando associado a linfadenectomia",
+      "necrose óssea em altas doses cervicais",
+      "fibrose tecidual tardia"
+    ],
+    "pearls": [],
+    "images": [],
+    "citations": ["Neligan, 2023, vol. 1, cap. 30", "NCCN — Cutaneous Melanoma"],
+    "updates": [],
+    "tags": ["tecnica", "melanoma-cutaneo", "pele-tumores", "radioterapia", "adjuvante", "paliativa"]
+  }
+]
