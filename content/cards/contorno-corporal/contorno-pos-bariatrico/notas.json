@@ -1,70 +1,5 @@
 [
   {
-    "id": "cpb-nota-001",
-    "type": "note",
-    "title": "Synopsis",
-    "topic": "contorno-pos-bariatrico",
-    "area": "contorno-corporal",
-    "section": "synopsis",
-    "content": [
-      "Contorno corporal pós-bariátrico abrange pacientes com perda maciça de peso (> 30 kg) que apresentam excesso cutâneo significativo em múltiplas regiões corporais, com impacto funcional e psicológico importante.",
-      "O intervalo mínimo recomendado entre cirurgia bariátrica e contorno corporal é de 12-18 meses, com IMC ideal < 32 kg/m2 e peso estável por 3-6 meses.",
-      "Avaliação nutricional rigorosa é obrigatória: deficiências de proteína, ferro, B12, vitamina D e ácido fólico são frequentes e comprometem cicatrização.",
-      "Pittsburgh Rating Scale é a ferramenta padronizada para classificar severidade do excesso cutâneo por região corporal.",
-      "Procedimentos principais: abdominoplastia pós-bariátrica/body lift (Lockwood), cruroplastia (medial, vertical ou circunferencial), braquioplastia (com possível extensão em L ao tórax), mastopexia pós-bariátrica e lifting facial/cervical.",
-      "Estadiamento em 2-3 fases é a abordagem mais segura; combinações são possíveis em pacientes bem selecionados (IMC — Índice de Massa Corporal < 30, albumina > 3,2 g/dL).",
-      "Complicações mais frequentes: seroma (10-30%), deiscência (5-15%), infecção (5-12%), TEV (2-5%), necrose cutânea (3-8%).",
-      "Profilaxia de TEV com compressão intermitente, mobilização precoce e HBPM em pacientes de risco é mandatória."
-    ],
-    "images": [],
-    "citations": [
-      "Pittsburgh Rating Scale",
-      "Lockwood",
-      "body lift"
-    ],
-    "updates": [],
-    "tags": [
-      "synopsis",
-      "contorno-pos-bariatrico",
-      "contorno-corporal",
-      "cirurgia-bariatrica",
-      "abdominoplastia",
-      "complicacoes-cirurgicas",
-      "avaliacao-nutricional",
-      "TEV-profilaxia"
-    ]
-  },
-  {
-    "id": "cpb-nota-002",
-    "type": "note",
-    "title": "Introdução",
-    "topic": "contorno-pos-bariatrico",
-    "area": "contorno-corporal",
-    "section": "introducao",
-    "content": [
-      "A obesidade mórbida afeta aproximadamente 7% da população mundial, com prevalência em ascensão. Cirurgias bariátricas (bypass gástrico em Y de Roux, gastrectomia vertical, banda gástrica ajustável) resultam em perda ponderal média de 50-80% do excesso de peso em 12-24 meses.",
-      "Estima-se que 40-50% dos pacientes pós-bariátricos (após perda maciça > 30 kg) procuram pela cirurgia de contorno corporal para correção do excesso cutâneo. A demanda por estes procedimentos cresceu exponencialmente, representando 8-15% das operações de cirurgia plástica em centros especializados.",
-      "Pacientes pós-bariátricos apresentam particularidades: perda maciça de peso, alterações importantes na qualidade e elasticidade cutânea, desnutrição relativa (apesar da aparência), comorbidades associadas à obesidade (diabetes, hipertensão, apneia do sono) frequentemente já melhoradas. Estudos mostram melhoria significativa em autoestima e qualidade de vida com o contorno corporal."
-    ],
-    "images": [],
-    "citations": [
-      "Neligan's Plastic Surgery, 5a Ed., 2023",
-      "Shermak, PRS, 2006",
-      "Aly et al., PRS, 2003",
-      "Hasanbegovic & Sorensen, Obes Surg, 2012",
-      "Coon et al., Plast Surg, 2009"
-    ],
-    "updates": [],
-    "tags": [
-      "introducao",
-      "contorno-pos-bariatrico",
-      "cirurgia-bariatrica",
-      "perda-ponderal",
-      "contorno-corporal",
-      "qualidade-vida"
-    ]
-  },
-  {
     "id": "cpb-nota-003",
     "type": "note",
     "title": "Características do Paciente Pós-Bariátrico",
@@ -302,34 +237,6 @@
     ]
   },
   {
-    "id": "cpb-nota-012",
-    "type": "note",
-    "title": "Manejo de Drenos",
-    "topic": "contorno-pos-bariatrico",
-    "area": "contorno-corporal",
-    "section": "pós-operatório",
-    "content": [
-      "Jackson-Pratt (JP) ou Blake com evacuação contínua (preferível) versus intermitente.",
-      "Remover quando débito < 30 mL/dia por 48 horas consecutivas.",
-      "Tempo típico: 2-4 semanas em body lift (frequentemente necessário período prolongado por risco de seroma).",
-      "Orientar paciente em auto-medição de débito."
-    ],
-    "images": [],
-    "citations": [
-      "Aly et al., PRS, 2003"
-    ],
-    "updates": [],
-    "tags": [
-      "pos-operatorio",
-      "drenagem",
-      "jackson-pratt",
-      "blake",
-      "body-lift",
-      "seroma",
-      "manejo-drenos"
-    ]
-  },
-  {
     "id": "cpb-nota-013",
     "type": "note",
     "title": "Malhas Compressivas e Vestuário",
@@ -437,33 +344,6 @@
     ]
   },
   {
-    "id": "cpb-nota-017",
-    "type": "note",
-    "title": "Seguimento Ambulatorial",
-    "topic": "contorno-pos-bariatrico",
-    "area": "contorno-corporal",
-    "section": "pós-operatório",
-    "content": [
-      "Semana 2: avaliação das incisões, retirada de sutura (se não absorvível)",
-      "Semana 6: avaliação de seroma, foto clínica, liberar atividades moderadas",
-      "Semana 12: avaliação final cicatricial, liberar atividades plenas",
-      "Mês 6: avaliação de cicatrização tardia, possível peeling ou microdermabrasão",
-      "Mês 12: avaliação de resultados finais, planejamento de possíveis reoperações"
-    ],
-    "images": [],
-    "citations": [
-      "Documento RAG — contorno-pos-bariatrico"
-    ],
-    "updates": [],
-    "tags": [
-      "pos-operatorio",
-      "seguimento-ambulatorial",
-      "protocolo-reavaliacao",
-      "cicatrizacao",
-      "contorno-corporal"
-    ]
-  },
-  {
     "id": "cpb-nota-018",
     "type": "note",
     "title": "Retorno a Atividades",
@@ -487,34 +367,6 @@
       "contorno-corporal",
       "reabilitacao",
       "bariatrico"
-    ]
-  },
-  {
-    "id": "cpb-nota-019",
-    "type": "note",
-    "title": "Seroma",
-    "topic": "contorno-pos-bariatrico",
-    "area": "contorno-corporal",
-    "section": "complicacoes",
-    "content": [
-      "Incidência de 10-30%, com maior incidência em abdominoplastia pós-bariátrica/body lift comparado a abdominoplastia eletiva devido à extensão de dissecção.",
-      "Prevenção através de drenos de longa permanência com evacuação contínua, compressão adequada e minimização de espaço morto.",
-      "Diagnóstico clínico por flutuação à palpação, aumento de volume localizado e desconforto, com confirmação por ultrassonografia em caso de dúvida.",
-      "Manejo inicial com drenagem percutânea seriada, compressão contínua e drenos de longa permanência. Escleroterapia indicada em casos refratários."
-    ],
-    "images": [],
-    "citations": [
-      "Aly et al., PRS, 2003",
-      "Hasanbegovic & Sorensen, Obes Surg, 2012"
-    ],
-    "updates": [],
-    "tags": [
-      "complicacoes",
-      "seroma",
-      "drenagem",
-      "abdominoplastia",
-      "body-lift",
-      "compressao"
     ]
   },
   {
@@ -600,36 +452,6 @@
       "prevencao",
       "diagnostico",
       "manejo"
-    ]
-  },
-  {
-    "id": "cpb-nota-023",
-    "type": "note",
-    "title": "Tromboembolismo Venoso (TEV)",
-    "topic": "contorno-pos-bariatrico",
-    "area": "contorno-corporal",
-    "section": "complicacoes",
-    "content": [
-      "Incidência: 2-5%.",
-      "Prevenção: Compressão intermitente intraoperatória, mobilização precoce, HBPM em pacientes de risco.",
-      "Diagnóstico TVP (Trombose Venosa Profunda): edema unilateral, dor em panturrilha, sinal de Homans; confirmação por duplex scan.",
-      "Diagnóstico TEP (Tromboembolismo Pulmonar): dispneia súbita, dor torácica, taquicardia; confirmação por angiotomografia.",
-      "Manejo: Anticoagulação plena, filtro de veia cava em casos selecionados."
-    ],
-    "images": [],
-    "citations": [
-      "Colwell et al., NEJM, 2011",
-      "Falck-Ytter et al., ACCP Guidelines, 2012"
-    ],
-    "updates": [],
-    "tags": [
-      "complicacoes",
-      "tromboembolismo-venoso",
-      "tev",
-      "tvp",
-      "tep",
-      "anticoagulacao",
-      "prevencao"
     ]
   },
   {
@@ -883,32 +705,6 @@
     ]
   },
   {
-    "id": "cpb-nota-033",
-    "type": "note",
-    "title": "Vantagens do Estadiamento vs Cirurgias Combinadas",
-    "topic": "contorno-pos-bariatrico",
-    "area": "contorno-corporal",
-    "section": "revisao",
-    "content": [
-      "Estadiamento reduz morbidade per-cirurgia com menor tempo cirúrgico e perda sanguínea. Porém requer múltiplas anestesias, aumenta custo total e tempo até resultado final, podendo deixar desproporções corporais temporárias.",
-      "Cirurgias combinadas apresentam resultado estético superior, menor número de anestesias e maior satisfação do paciente. Contudo, apresentam maior risco imediato de complicações em pacientes frágeis."
-    ],
-    "images": [],
-    "citations": [
-      "Aly et al., PRS, 2003",
-      "Hasanbegovic & Sorensen, Obes Surg, 2012"
-    ],
-    "updates": [],
-    "tags": [
-      "revisao",
-      "estadiamento",
-      "cirurgias-combinadas",
-      "morbidade",
-      "contorno-corporal",
-      "cirurgia-bariatrica"
-    ]
-  },
-  {
     "id": "cpb-nota-034",
     "type": "note",
     "title": "Revisões Cicatriciais",
@@ -1158,35 +954,6 @@
     ]
   },
   {
-    "id": "cpb-nota-043",
-    "type": "note",
-    "title": "Estudos Laboratoriais Essenciais",
-    "topic": "contorno-pos-bariatrico",
-    "area": "contorno-corporal",
-    "section": "diagnóstico",
-    "content": [
-      "Perfil laboratorial completo e mandatorio.",
-      "Avaliacao nutricional: proteina total, albumina, ferritina, hemoglobina, B12, vitamina D, calcio, acido folico, zinco.",
-      "Investigar funcao hepatica com atencao a cirrose biliar primaria e esteatose hepatica pos-bariatrica.",
-      "Investigar funcao renal considerando desidratacao relativa.",
-      "Coagulograma: deficiencia de vitamina K frequente em pacientes pos-bariatricos."
-    ],
-    "images": [],
-    "citations": [
-      "Shermak, PRS, 2006"
-    ],
-    "updates": [],
-    "tags": [
-      "diagnostico",
-      "estudos-laboratoriais",
-      "avaliacao-nutricional",
-      "funcao-hepatica",
-      "funcao-renal",
-      "coagulograma",
-      "pos-bariatrico"
-    ]
-  },
-  {
     "id": "cpb-nota-044",
     "type": "note",
     "title": "Avaliacao de Comorbidades Residuais",
@@ -1212,32 +979,6 @@
       "apneia-do-sono",
       "avaliacao-pre-anestesica",
       "imc"
-    ]
-  },
-  {
-    "id": "cpb-nota-045",
-    "type": "note",
-    "title": "Cuidados Imediatos (Primeiras 24-48 Horas)",
-    "topic": "contorno-pos-bariatrico",
-    "area": "contorno-corporal",
-    "section": "pós-operatório",
-    "content": [
-      "Monitoramento em unidade de terapia intensiva ou enfermaria de cuidados intermediarios recomendado em procedimentos extensos.",
-      "Vigilancia de: debito de drenos (volume, cor, aspecto), sinais de TEV (edema unilateral, dor em panturrilha), infeccao (febre > 38,5 graus C, rubor), e sangramento excessivo."
-    ],
-    "images": [],
-    "citations": [
-      "Grabb & Smith's Plastic Surgery, 8a Ed., 2020"
-    ],
-    "updates": [],
-    "tags": [
-      "pos-operatorio",
-      "cuidados-imediatos",
-      "monitoramento",
-      "drenagem",
-      "tromboembolismo-venoso",
-      "infeccao",
-      "sangramento"
     ]
   },
   {
@@ -1400,32 +1141,6 @@
       "protocolo-reavaliacacao",
       "cicatrizacao",
       "contorno-corporal"
-    ]
-  },
-  {
-    "id": "cpb-nota-052",
-    "type": "note",
-    "title": "Retorno a Atividades",
-    "topic": "contorno-pos-bariatrico",
-    "area": "contorno-corporal",
-    "section": "pós-operatório",
-    "content": [
-      "Atividades leves como caminhar podem ser retomadas a partir da semana 2-3 de pós-operatório.",
-      "Exercício aeróbico moderado, incluindo caminhada rápida e natação, está liberado a partir da semana 6.",
-      "Musculação pode ser iniciada no mês 3 pós-operatório, começando com pesos leves.",
-      "Contato sexual pode ser retomado entre a semana 6-8, dependendo da localização das cicatrizes."
-    ],
-    "images": [],
-    "citations": [
-      "Grabb & Smith's Plastic Surgery, 8a Ed., 2020"
-    ],
-    "updates": [],
-    "tags": [
-      "pos-operatorio",
-      "retorno-atividades",
-      "reabilitacao",
-      "contorno-corporal",
-      "bariatrico"
     ]
   },
   {
