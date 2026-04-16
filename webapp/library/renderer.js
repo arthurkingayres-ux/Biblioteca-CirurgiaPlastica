@@ -1,4 +1,4 @@
-// renderer.js — Renders atomic cards as HTML
+// renderer.js — Renders atomic cards as HTML (Atlas edition)
 const Renderer = (() => {
   const TOPIC_IMAGE_BASE = '../../assets/images/';
 
@@ -8,24 +8,20 @@ const Renderer = (() => {
 
   function _section(title, content, className) {
     if (!content) return '';
-    // If content is already HTML (starts with <), don't re-format
     const body = typeof content === 'string' && !content.startsWith('<') ? _formatText(content) : content;
+    const titleHtml = title ? `<h3 class="section-title">${title}</h3>` : '';
     return `<div class="card-section ${className || ''}">
-      <h3 class="section-title">${title}</h3>
+      ${titleHtml}
       <div class="section-body">${body}</div>
     </div>`;
   }
 
-  // Inline formatting: **bold**, numbers/measurements, parenthetical citations
   function _formatText(html) {
     if (!html || typeof html !== 'string') return html || '';
     return html
-      // **bold** markers
       .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
-      // Highlight key measurements (e.g., 15 mm, 2–3 cm, 0,5 mm, ≥ 10 mm)
       .replace(/([\d.,]+\s*[–-]\s*[\d.,]+\s*(?:mm|cm|%|°|mg|mL|kg|anos|meses|semanas|dias|horas))/g, '<span class="measure">$1</span>')
       .replace(/((?:[≥≤><~]\s*)?[\d.,]+\s*(?:mm|cm|%|°|mg|mL|kg|anos|meses|semanas|dias|horas))/g, '<span class="measure">$1</span>')
-      // Italic citations in parentheses
       .replace(/\(([^)]*(?:Neligan|Grabb|Core Procedures|Operative Dictations|PRS|ASJ|JPRAS)[^)]*)\)/g, '<cite class="inline-cite">($1)</cite>');
   }
 
@@ -37,7 +33,6 @@ const Renderer = (() => {
   function _images(topic, images) {
     if (!images || images.length === 0) return '';
     return images.map(img => {
-      // Backward-compat: aceita string legacy ou objeto {file, caption, credit}
       const file = typeof img === 'string' ? img : img.file;
       const caption = typeof img === 'string' ? '' : (img.caption || '');
       const credit = typeof img === 'string' ? '' : (img.credit || '');
@@ -71,7 +66,7 @@ const Renderer = (() => {
   }
 
   function _badge(type) {
-    const labels = { technique: 'Técnica', anatomy: 'Anatomia', decision: 'Decisão', note: 'Nota', flashcard: 'Flashcard' };
+    const labels = { technique: 'Técnica', anatomy: 'Anatomia', decision: 'Decisão', note: 'Nota', flashcard: 'Flashcard', update: 'Atualização' };
     return `<span class="card-badge badge-${type}">${labels[type] || type}</span>`;
   }
 
@@ -129,7 +124,7 @@ const Renderer = (() => {
     return `<article class="card card-note">
       ${_badge('note')}
       <h2>${card.title}</h2>
-      ${card.section ? `<div class="card-section-label">${card.section}</div>` : ''}
+      ${card.section ? `<div class="card-section-label role-label">${card.section}</div>` : ''}
       ${_section('', _list(card.content))}
       ${_images(card.topic, card.images)}
       ${_updates(card.updates)}
@@ -148,9 +143,8 @@ const Renderer = (() => {
   }
 
   function searchResult(entry) {
-    const icons = { technique: '&#9986;', anatomy: '&#9874;', decision: '&#9670;', note: '&#9998;', flashcard: '&#9733;' };
     return `<div class="search-result" data-id="${entry.id}">
-      <span class="result-icon">${icons[entry.type] || ''}</span>
+      <span class="result-icon" data-icon="chevron-right" data-icon-size="14"></span>
       <div class="result-text">
         <div class="result-title">${entry.title}</div>
         <div class="result-meta">${_badge(entry.type)} · ${entry.topic}</div>

@@ -1,13 +1,19 @@
-const CACHE_NAME = 'briefing-preop-v15';
+const CACHE_NAME = 'briefing-preop-v16';
 const ASSETS = [
   './',
   './index.html',
-  './style.css',
-  './app.js?v=2026-04-09',
-  './search.js?v=2026-04-09',
-  './renderer.js?v=2026-04-09',
-  './preop.js?v=2026-04-09',
-  './chat.js?v=2026-04-09',
+  './style.css?v=2026-04-16-atlas',
+  './theme.js?v=2026-04-16-atlas',
+  './app.js?v=2026-04-16-atlas',
+  './search.js?v=2026-04-16-atlas',
+  './renderer.js?v=2026-04-16-atlas',
+  './preop.js?v=2026-04-16-atlas',
+  './chat.js?v=2026-04-16-atlas',
+  './icons/lucide.js?v=2026-04-16-atlas',
+  './fonts/Fraunces-VariableFont.woff2',
+  './fonts/InstrumentSans-VariableFont.woff2',
+  './fonts/InstrumentSans-Italic-VariableFont.woff2',
+  './fonts/JetBrainsMono-VariableFont.woff2',
   './manifest.json'
 ];
 

@@ -102,6 +102,7 @@ const App = (() => {
     const entry = _manifest.find(m => m.topic === topic);
     const displayName = (entry && entry.displayName) || toTitleCase(topic);
     screen.innerHTML = PreOp.buildBriefing(topic, displayName);
+    if (window.LucideIcons) window.LucideIcons.hydrateIcons(screen);
     showScreen('screen-briefing');
     document.getElementById('nav-title').textContent = displayName;
     screen.scrollTop = 0;
@@ -122,18 +123,26 @@ const App = (() => {
     const msgs = document.getElementById('chat-messages');
     if (Chat.getMessages().length === 0) {
       msgs.innerHTML = _renderEmpty();
+      if (window.LucideIcons) window.LucideIcons.hydrateIcons(msgs);
     }
     document.getElementById('chat-input').focus();
   }
 
   function _renderEmpty() {
+    const roman = ['I.', 'II.', 'III.'];
+    const items = SUGGESTIONS.map((s, i) => `
+      <li class="chat-suggestion-item" data-text="${s.replace(/"/g, '&quot;')}">
+        <span class="chat-suggestion-index">${roman[i]}</span>
+        <span class="chat-suggestion-text">${s}</span>
+      </li>`).join('');
+
     return `<div class="chat-empty">
-      <div class="chat-empty-icon">&#128218;</div>
-      <div class="chat-empty-title">Assistente Cirúrgico</div>
-      <div class="chat-empty-subtitle">Pergunte sobre anatomia, técnicas, decisões clínicas ou parâmetros</div>
-      <div class="chat-suggestions">
-        ${SUGGESTIONS.map(s => `<button class="chat-suggestion">${s}</button>`).join('')}
-      </div>
+      <span class="fleuron">· · ·</span>
+      <h2 class="role-hero">Consulta aberta.</h2>
+      <span class="gold-rule"></span>
+      <p class="role-meta">Pergunte sobre anatomia, técnicas ou decisões clínicas — respondo com base no acervo.</p>
+      <div class="chat-label">Começar por</div>
+      <ul class="chat-suggestions-list">${items}</ul>
     </div>`;
   }
 
@@ -252,8 +261,11 @@ const App = (() => {
       const topicItem = e.target.closest('.topic-item');
       if (topicItem) { openBriefing(topicItem.dataset.topic); return; }
 
-      const suggestion = e.target.closest('.chat-suggestion');
-      if (suggestion) { handleSend(suggestion.textContent); return; }
+      const suggestion = e.target.closest('.chat-suggestion-item');
+      if (suggestion) { handleSend(suggestion.dataset.text); return; }
+
+      const themeBtn = e.target.closest('#btn-theme');
+      if (themeBtn) { window.AtlasTheme && window.AtlasTheme.toggle(); return; }
     });
 
     // Load data then render
@@ -261,6 +273,21 @@ const App = (() => {
       renderProcedureList();
       showScreen('screen-home');
     });
+
+    // Hydrate Lucide icons (initial + on theme change for moon/sun swap)
+    const refreshThemeIcon = () => {
+      const btn = document.getElementById('btn-theme');
+      if (!btn) return;
+      const theme = document.documentElement.getAttribute('data-theme') || 'light';
+      const iconEl = btn.querySelector('[data-icon]');
+      iconEl.setAttribute('data-icon', theme === 'dark' ? 'sun' : 'moon');
+      iconEl.removeAttribute('data-icon-hydrated');
+      if (window.LucideIcons) window.LucideIcons.hydrateIcons(btn);
+    };
+    if (window.LucideIcons) window.LucideIcons.hydrateIcons();
+    refreshThemeIcon();
+    window.addEventListener('atlas:themechange', refreshThemeIcon);
+
 
     // Register service worker
     if ('serviceWorker' in navigator) {

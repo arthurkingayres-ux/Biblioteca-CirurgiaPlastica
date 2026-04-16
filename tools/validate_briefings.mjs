@@ -9,6 +9,9 @@ const PORT = 8767;
 const TOPICS = ['lipoaspiracao', 'gluteoplastia', 'contorno-pos-bariatrico', 'otoplastia'];
 const OUT_DIR = join(ROOT, 'tools', '_validation');
 
+const themeArg = (process.argv.find(a => a.startsWith('--theme=')) || '--theme=both').split('=')[1];
+const THEMES = themeArg === 'both' ? ['light', 'dark'] : [themeArg];
+
 const MIME = {
   '.html': 'text/html; charset=utf-8',
   '.js': 'application/javascript; charset=utf-8',
@@ -16,6 +19,7 @@ const MIME = {
   '.json': 'application/json; charset=utf-8',
   '.png': 'image/png', '.jpg': 'image/jpeg', '.jpeg': 'image/jpeg',
   '.svg': 'image/svg+xml', '.webp': 'image/webp',
+  '.woff2': 'font/woff2',
 };
 
 function startServer() {
@@ -34,14 +38,21 @@ function startServer() {
   return new Promise(r => server.listen(PORT, () => r(server)));
 }
 
-async function validateTopic(page, topic) {
-  await page.goto(`http://localhost:${PORT}/webapp/library/`, { waitUntil: 'networkidle' });
+async function setTheme(page, theme) {
+  await page.evaluate((t) => {
+    localStorage.setItem('atlasTheme', t);
+    window.AtlasTheme && window.AtlasTheme.apply(t);
+  }, theme);
+}
+
+async function validateTopic(page, topic, theme) {
+  await page.goto(`http://localhost:${PORT}/webapp/library/?t=${theme}`, { waitUntil: 'networkidle' });
+  await setTheme(page, theme);
   await page.waitForSelector(`.topic-item[data-topic="${topic}"]`, { timeout: 5000 });
   await page.click(`.topic-item[data-topic="${topic}"]`);
   await page.waitForSelector('#screen-briefing:not(.hidden)', { timeout: 5000 });
-  await page.waitForTimeout(500);
+  await page.waitForTimeout(400);
 
-  // Force eager load (bypass loading="lazy") and wait for all to settle.
   const report = await page.evaluate(async () => {
     const imgs = Array.from(document.querySelectorAll('#screen-briefing img'));
     imgs.forEach(i => { i.loading = 'eager'; if (!i.complete) { const s = i.src; i.src = ''; i.src = s; } });
@@ -52,12 +63,25 @@ async function validateTopic(page, topic) {
     })));
     const broken = imgs.filter(i => !i.complete || i.naturalWidth === 0)
       .map(i => ({ src: i.getAttribute('src'), alt: i.alt }));
-    return { total: imgs.length, broken };
+    const theme = document.documentElement.getAttribute('data-theme');
+    const bodyBg = getComputedStyle(document.body).backgroundColor;
+    const heroCount = document.querySelectorAll('.briefing-hero .role-hero').length;
+    const badgeTypes = [...new Set(Array.from(document.querySelectorAll('.card-badge')).map(b => [...b.classList].find(c => c.startsWith('badge-'))))];
+    return { total: imgs.length, broken, theme, bodyBg, heroCount, badgeTypes };
   });
 
   await mkdir(OUT_DIR, { recursive: true });
-  await page.screenshot({ path: join(OUT_DIR, `${topic}.png`), fullPage: true });
+  await page.screenshot({ path: join(OUT_DIR, `${topic}-${theme}.png`), fullPage: true });
   return report;
+}
+
+async function smokeToggle(page) {
+  await page.goto(`http://localhost:${PORT}/webapp/library/`, { waitUntil: 'networkidle' });
+  const before = await page.evaluate(() => document.documentElement.getAttribute('data-theme'));
+  await page.click('#btn-theme');
+  await page.waitForTimeout(200);
+  const after = await page.evaluate(() => document.documentElement.getAttribute('data-theme'));
+  return { before, after, toggled: before !== after };
 }
 
 (async () => {
@@ -67,18 +91,24 @@ async function validateTopic(page, topic) {
   const page = await ctx.newPage();
   page.on('pageerror', e => console.error('[pageerror]', e.message));
 
-  const results = {};
   let ok = true;
-  for (const t of TOPICS) {
-    try {
-      const r = await validateTopic(page, t);
-      results[t] = r;
-      const pass = r.broken.length === 0 && r.total > 0;
-      if (!pass) ok = false;
-      console.log(`${pass ? 'PASS' : 'FAIL'} ${t}: ${r.total} imagens, ${r.broken.length} quebradas`);
-      if (r.broken.length) console.log('  quebradas:', r.broken.slice(0, 5));
-    } catch (e) { ok = false; console.log(`FAIL ${t}: ${e.message}`); results[t] = { error: e.message }; }
+  for (const theme of THEMES) {
+    console.log(`\n=== Theme: ${theme} ===`);
+    for (const t of TOPICS) {
+      try {
+        const r = await validateTopic(page, t, theme);
+        const pass = r.broken.length === 0 && r.total > 0 && r.heroCount === 1 && r.theme === theme;
+        if (!pass) ok = false;
+        console.log(`${pass ? 'PASS' : 'FAIL'} ${t} [${theme}]: ${r.total} img, ${r.broken.length} broken, hero=${r.heroCount}, bg=${r.bodyBg}, badges=${r.badgeTypes.join(',')}`);
+        if (r.broken.length) console.log('  broken:', r.broken.slice(0, 5));
+      } catch (e) { ok = false; console.log(`FAIL ${t} [${theme}]: ${e.message}`); }
+    }
   }
+
+  const toggle = await smokeToggle(page);
+  const togglePass = toggle.toggled;
+  if (!togglePass) ok = false;
+  console.log(`\nToggle smoke: ${togglePass ? 'PASS' : 'FAIL'} (${toggle.before} -> ${toggle.after})`);
 
   await browser.close();
   server.close();

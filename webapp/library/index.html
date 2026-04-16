@@ -2,28 +2,38 @@
 <html lang="pt-BR">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="theme-color" content="#FAF7F2">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <meta name="theme-color" content="#F4EFE4">
   <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="default">
-  <meta name="apple-mobile-web-app-title" content="Briefing Pré-Op">
-  <title>Briefing Pré-Op — Cirurgia Plástica</title>
+  <meta name="apple-mobile-web-app-title" content="Biblioteca">
+  <title>Biblioteca — Cirurgia Plástica</title>
   <link rel="manifest" href="manifest.json">
   <link rel="apple-touch-icon" href="icons/icon-192.svg">
-  <link rel="stylesheet" href="style.css">
+  <link rel="preload" href="fonts/Fraunces-VariableFont.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="fonts/InstrumentSans-VariableFont.woff2" as="font" type="font/woff2" crossorigin>
+  <script src="theme.js?v=2026-04-16-atlas"></script>
+  <link rel="stylesheet" href="style.css?v=2026-04-16-atlas">
 </head>
 <body>
   <!-- Navigation bar -->
   <nav id="navbar">
-    <button id="btn-back" class="nav-btn hidden" aria-label="Voltar">&#8592;</button>
-    <h1 id="nav-title">Briefing Pré-Op</h1>
-    <button id="btn-chat" class="nav-btn" aria-label="Chat IA">&#9993;</button>
+    <button id="btn-back" class="nav-btn hidden" aria-label="Voltar"><span data-icon="arrow-left" data-icon-size="18"></span></button>
+    <h1 id="nav-title">Biblioteca</h1>
+    <button id="btn-theme" class="nav-btn" aria-label="Alternar tema"><span data-icon="moon" data-icon-size="18"></span></button>
+    <button id="btn-chat" class="nav-btn" aria-label="Chat IA"><span data-icon="message-circle" data-icon-size="18"></span></button>
   </nav>
 
-  <!-- Home screen: procedure list -->
+  <!-- Home screen -->
   <div id="screen-home" class="screen">
+    <header class="home-hero">
+      <h2 class="role-hero">Biblioteca</h2>
+      <span class="gold-rule"></span>
+      <p class="role-meta">Cirurgia Plástica · Briefings Pré-Op</p>
+    </header>
     <div class="search-container">
-      <input type="search" id="procedure-filter" placeholder="Buscar procedimento..." autocomplete="off">
+      <input type="search" id="procedure-filter" placeholder="Buscar procedimento…" autocomplete="off">
     </div>
     <div id="procedure-list"></div>
   </div>
@@ -34,17 +44,18 @@
   <!-- Chat screen -->
   <div id="screen-chat" class="screen hidden">
     <div id="chat-messages"></div>
-    <div id="chat-offline" class="chat-offline hidden">Sem conexão — chat indisponível offline</div>
+    <div id="chat-offline" class="chat-offline hidden"><span data-icon="wifi-off" data-icon-size="16"></span><span>Sem conexão — chat indisponível offline</span></div>
     <div class="chat-input-area">
-      <input type="text" id="chat-input" placeholder="Pergunte sobre cirurgia..." autocomplete="off">
-      <button id="btn-send" aria-label="Enviar">&#10148;</button>
+      <input type="text" id="chat-input" placeholder="Pergunte sobre cirurgia…" autocomplete="off">
+      <button id="btn-send" aria-label="Enviar"><span data-icon="send" data-icon-size="18"></span></button>
     </div>
   </div>
 
-  <script src="search.js?v=2026-04-09"></script>
-  <script src="renderer.js?v=2026-04-09"></script>
-  <script src="preop.js?v=2026-04-09"></script>
-  <script src="chat.js?v=2026-04-09"></script>
-  <script src="app.js?v=2026-04-09"></script>
+  <script src="icons/lucide.js?v=2026-04-16-atlas"></script>
+  <script src="search.js?v=2026-04-16-atlas"></script>
+  <script src="renderer.js?v=2026-04-16-atlas"></script>
+  <script src="preop.js?v=2026-04-16-atlas"></script>
+  <script src="chat.js?v=2026-04-16-atlas"></script>
+  <script src="app.js?v=2026-04-16-atlas"></script>
 </body>
 </html>
