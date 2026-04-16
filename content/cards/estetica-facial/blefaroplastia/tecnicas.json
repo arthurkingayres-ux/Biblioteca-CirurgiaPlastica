@@ -42,8 +42,8 @@
     ],
     "images": [
       {
-        "file": "blef-13-25-blefaro-superior-tecnica.png",
-        "caption": "Técnica da blefaroplastia superior clássica: incisão elíptica sobre a prega palpebral natural e ressecção conservadora de pele, orbicular e gordura quando indicada.",
+        "file": "fig13-25-blefaroplastia-superior.jpeg",
+        "caption": "Técnica da blefaroplastia superior clássica: marcação elíptica sobre a prega palpebral natural e sequência cirúrgica de ressecção conservadora de pele, orbicular e gordura quando indicada.",
         "credit": "Neligan vol. 2, caps. 13-14 — Blepharoplasty"
       },
       {
@@ -54,11 +54,6 @@
       {
         "file": "blef-13-28-gordura-medial-fechamento.png",
         "caption": "Ressecção conservadora do compartimento medial de gordura e fechamento por planos da incisão superior.",
-        "credit": "Neligan vol. 2, caps. 13-14 — Blepharoplasty"
-      },
-      {
-        "file": "fig13-25-blefaroplastia-superior.jpeg",
-        "caption": "Marcação e sequência cirúrgica da blefaroplastia superior clássica ilustradas.",
         "credit": "Neligan vol. 2, caps. 13-14 — Blepharoplasty"
       }
     ],
@@ -195,11 +190,6 @@
     ],
     "images": [
       {
-        "file": "blef-13-30-transconjuntival.png",
-        "caption": "Acesso transconjuntival à pálpebra inferior: incisão na conjuntiva palpebral 4 mm abaixo da borda tarsal — via preferida para remoção de bolsas sem cicatriz externa.",
-        "credit": "Neligan vol. 2, caps. 13-14 — Blepharoplasty"
-      },
-      {
         "file": "blef-13-31-gordura-compartimentos-inferiores.png",
         "caption": "Identificação dos três compartimentos de gordura inferior (medial, central e lateral) após abertura retrosseptal.",
         "credit": "Neligan vol. 2, caps. 13-14 — Blepharoplasty"
@@ -216,7 +206,7 @@
       },
       {
         "file": "fig13-30-acesso-transconjuntival.jpeg",
-        "caption": "Ilustração do acesso transconjuntival pré-septal versus retrosseptal para blefaroplastia inferior.",
+        "caption": "Acesso transconjuntival à pálpebra inferior — incisão na conjuntiva 4 mm abaixo da borda tarsal; comparação pré-septal versus retrosseptal.",
         "credit": "Neligan vol. 2, caps. 13-14 — Blepharoplasty"
       }
     ],
@@ -366,11 +356,6 @@
       {
         "file": "blef-13-38-cantopexia-duas-camadas.png",
         "caption": "Cantopexia em duas camadas com fixação ao periósteo posterior ao tubérculo de Whitnall, restaurando inclinação positiva da fenda palpebral.",
-        "credit": "Neligan vol. 2, caps. 13-14 — Blepharoplasty"
-      },
-      {
-        "file": "fig13-37a-cantopexia-periosteal.jpeg",
-        "caption": "Vista intraoperatória da cantopexia periosteal com sutura no periósteo lateral.",
         "credit": "Neligan vol. 2, caps. 13-14 — Blepharoplasty"
       }
     ],
@@ -522,13 +507,8 @@
     ],
     "images": [
       {
-        "file": "blef-13-10ab-variacoes-palpebra-superior.png",
-        "caption": "Double eyelid surgery: criação de prega palpebral asiática por fixação cutânea à aponeurose do LPS ou tarso superior.",
-        "credit": "Neligan vol. 2, caps. 13-14 — Blepharoplasty"
-      },
-      {
-        "file": "blef-13-10cd-palpebra-asiatica-baggy.png",
-        "caption": "Pálpebra asiática pré-operatória (baggy) — candidata à criação de prega palpebral dupla por blefaroplastia asiática.",
+        "file": "fig13-10-variacoes-palpebra-superior.jpeg",
+        "caption": "Variações anatômicas da pálpebra superior ocidental (prega definida) versus asiática (fusão septo-aponeurose inferior, fullness pré-tarsal) — substrato anatômico da double eyelid surgery.",
         "credit": "Neligan vol. 2, caps. 13-14 — Blepharoplasty"
       }
     ],
