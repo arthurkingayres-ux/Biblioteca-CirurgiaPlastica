@@ -1,5 +1,17 @@
-// preop.js — Pre-operative briefing assembly
+// preop.js — Pre-operative briefing assembly (Atlas edition)
 const PreOp = (() => {
+
+  function _pad(n) { return String(n).padStart(2, '0'); }
+
+  function _section(titleText, count, bodyHtml) {
+    return `<details class="briefing-section" open>
+      <summary class="briefing-section-title">
+        <span>${titleText}</span>
+        <span class="section-count">${_pad(count)}</span>
+      </summary>
+      <div class="briefing-section-body">${bodyHtml}</div>
+    </details>`;
+  }
 
   function buildBriefing(topic, displayName) {
     const anatomyCards = SearchEngine.getByType('anatomy', topic);
@@ -7,7 +19,6 @@ const PreOp = (() => {
     const decisionCards = SearchEngine.getByType('decision', topic);
     const noteCards = SearchEngine.getByType('note', topic);
 
-    // Separate complication notes (normalize accents for matching)
     const _compKeywords = ['complicacao', 'complicacoes', 'emergencia', 'hematoma'];
     const complicationNotes = noteCards.filter(c =>
       c.tags && c.tags.some(t => {
@@ -16,85 +27,64 @@ const PreOp = (() => {
       })
     );
     const otherNotes = noteCards.filter(c => !complicationNotes.includes(c));
-
-    // Collect flashcard parameters
     const flashcardCards = SearchEngine.getByType('flashcard', topic);
     const allFlashcards = flashcardCards.flatMap(fc => fc.cards || []);
 
+    const totalCards = anatomyCards.length + techniqueCards.length + decisionCards.length + noteCards.length;
+
     let html = `<div class="briefing">`;
-    html += `<h2 class="briefing-title">Briefing Pré-Op: ${displayName || topic}</h2>`;
+    html += `<header class="briefing-hero">
+      <span class="fleuron">· · ·</span>
+      <h2 class="role-hero">${displayName || topic}</h2>
+      <span class="gold-rule"></span>
+      <div class="briefing-meta">
+        <span class="role-meta">Briefing pré-operatória</span>
+        <span class="sep">·</span>
+        <span class="count">${_pad(totalCards)} fichas</span>
+      </div>
+    </header>`;
 
-    // Clinical notes (non-complication) — overview, assessment, physiology
     if (otherNotes.length > 0) {
-      html += `<details class="briefing-section">
-        <summary class="briefing-section-title">Notas Clínicas (${otherNotes.length})</summary>
-        <div class="briefing-section-body">
-          ${otherNotes.map(c => `
-            <details class="briefing-item">
-              <summary class="briefing-item-title">${c.title}</summary>
-              <div class="briefing-item-body">${Renderer.note(c)}</div>
-            </details>
-          `).join('')}
-        </div>
-      </details>`;
+      const body = otherNotes.map(c => `
+        <details class="briefing-item">
+          <summary class="briefing-item-title">${c.title}</summary>
+          <div class="briefing-item-body">${Renderer.note(c)}</div>
+        </details>`).join('');
+      html += _section('Notas Clínicas', otherNotes.length, body);
     }
 
-    // Anatomy (each card is a toggle)
     if (anatomyCards.length > 0) {
-      html += `<details class="briefing-section">
-        <summary class="briefing-section-title">Anatomia Relevante (${anatomyCards.length})</summary>
-        <div class="briefing-section-body">
-          ${anatomyCards.map(c => `
-            <details class="briefing-item">
-              <summary class="briefing-item-title">${c.title}</summary>
-              <div class="briefing-item-body">${Renderer.anatomy(c)}</div>
-            </details>
-          `).join('')}
-        </div>
-      </details>`;
+      const body = anatomyCards.map(c => `
+        <details class="briefing-item">
+          <summary class="briefing-item-title">${c.title}</summary>
+          <div class="briefing-item-body">${Renderer.anatomy(c)}</div>
+        </details>`).join('');
+      html += _section('Anatomia Relevante', anatomyCards.length, body);
     }
 
-    // Decision trees (each card is a toggle)
     if (decisionCards.length > 0) {
-      html += `<details class="briefing-section">
-        <summary class="briefing-section-title">Decisões Clínicas (${decisionCards.length})</summary>
-        <div class="briefing-section-body">
-          ${decisionCards.map(c => `
-            <details class="briefing-item">
-              <summary class="briefing-item-title">${c.title}</summary>
-              <div class="briefing-item-body">${Renderer.decision(c)}</div>
-            </details>
-          `).join('')}
-        </div>
-      </details>`;
+      const body = decisionCards.map(c => `
+        <details class="briefing-item">
+          <summary class="briefing-item-title">${c.title}</summary>
+          <div class="briefing-item-body">${Renderer.decision(c)}</div>
+        </details>`).join('');
+      html += _section('Decisões Clínicas', decisionCards.length, body);
     }
 
-    // Techniques (each card is a toggle)
     if (techniqueCards.length > 0) {
-      html += `<details class="briefing-section">
-        <summary class="briefing-section-title">Técnicas (${techniqueCards.length})</summary>
-        <div class="briefing-section-body">
-          ${techniqueCards.map(c => `
-            <details class="briefing-item">
-              <summary class="briefing-item-title">${c.title}</summary>
-              <div class="briefing-item-body">${Renderer.technique(c)}</div>
-            </details>
-          `).join('')}
-        </div>
-      </details>`;
+      const body = techniqueCards.map(c => `
+        <details class="briefing-item">
+          <summary class="briefing-item-title">${c.title}</summary>
+          <div class="briefing-item-body">${Renderer.technique(c)}</div>
+        </details>`).join('');
+      html += _section('Técnicas', techniqueCards.length, body);
     }
 
-    // Complications
     if (complicationNotes.length > 0) {
-      html += `<details class="briefing-section">
-        <summary class="briefing-section-title">Complicações (${complicationNotes.length})</summary>
-        <div class="briefing-section-body">
-          ${complicationNotes.map(c => Renderer.note(c)).join('')}
-        </div>
-      </details>`;
+      const body = complicationNotes.map(c => Renderer.note(c)).join('');
+      html += _section('Complicações', complicationNotes.length, body);
     }
 
-    // Flashcard parameters (grouped by domain, collapsed by default)
     if (allFlashcards.length > 0) {
       const domains = {};
       allFlashcards.forEach(fc => {
@@ -102,23 +92,16 @@ const PreOp = (() => {
         if (!domains[d]) domains[d] = [];
         domains[d].push(fc);
       });
-
-      html += `<details class="briefing-section">
-        <summary class="briefing-section-title">Parâmetros (${allFlashcards.length})</summary>
-        <div class="briefing-section-body">
-          ${Object.entries(domains).map(([domain, cards]) => `
-            <div class="params-domain">
-              <div class="params-domain-title">${domain}</div>
-              ${cards.map(fc => `
-                <div class="param-row">
-                  <span class="param-front">${fc.front}</span>
-                  <span class="param-back">${fc.back}</span>
-                </div>
-              `).join('')}
-            </div>
-          `).join('')}
-        </div>
-      </details>`;
+      const body = Object.entries(domains).map(([domain, cards]) => `
+        <div class="params-domain">
+          <div class="params-domain-title">${domain}</div>
+          ${cards.map(fc => `
+            <div class="param-row">
+              <span class="param-front">${fc.front}</span>
+              <span class="param-back">${fc.back}</span>
+            </div>`).join('')}
+        </div>`).join('');
+      html += _section('Parâmetros', allFlashcards.length, body);
     }
 
     html += `</div>`;
