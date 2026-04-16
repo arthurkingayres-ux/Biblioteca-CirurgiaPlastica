@@ -102,6 +102,7 @@ const App = (() => {
     const entry = _manifest.find(m => m.topic === topic);
     const displayName = (entry && entry.displayName) || toTitleCase(topic);
     screen.innerHTML = PreOp.buildBriefing(topic, displayName);
+    if (window.LucideIcons) window.LucideIcons.hydrateIcons(screen);
     showScreen('screen-briefing');
     document.getElementById('nav-title').textContent = displayName;
     screen.scrollTop = 0;
@@ -122,6 +123,7 @@ const App = (() => {
     const msgs = document.getElementById('chat-messages');
     if (Chat.getMessages().length === 0) {
       msgs.innerHTML = _renderEmpty();
+      if (window.LucideIcons) window.LucideIcons.hydrateIcons(msgs);
     }
     document.getElementById('chat-input').focus();
   }
@@ -286,15 +288,6 @@ const App = (() => {
     refreshThemeIcon();
     window.addEventListener('atlas:themechange', refreshThemeIcon);
 
-    // Re-hydrate icons after dynamic content (briefing, chat empty state)
-    let _hydrating = false;
-    const mo = new MutationObserver(() => {
-      if (_hydrating || !window.LucideIcons) return;
-      _hydrating = true;
-      window.LucideIcons.hydrateIcons();
-      _hydrating = false;
-    });
-    mo.observe(document.body, { subtree: true, childList: true });
 
     // Register service worker
     if ('serviceWorker' in navigator) {
