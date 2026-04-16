@@ -4,7 +4,7 @@ const PreOp = (() => {
   function _pad(n) { return String(n).padStart(2, '0'); }
 
   function _section(titleText, count, bodyHtml) {
-    return `<details class="briefing-section" open>
+    return `<details class="briefing-section">
       <summary class="briefing-section-title">
         <span>${titleText}</span>
         <span class="section-count">${_pad(count)}</span>
