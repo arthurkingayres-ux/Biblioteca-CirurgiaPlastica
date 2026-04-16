@@ -291,7 +291,13 @@
     ],
     "surgical_relevance": "A Müllerectomy (ressecção conjuntivo-mülleriana) é a base da correção de ptose leve (MRD1 3–4 mm) quando o teste da fenilefrina 2,5% é positivo (elevação ≥ 1,5 mm confirma tônus simpático residual). Fasanella-Servat = variante que inclui tarso.",
     "how_to_identify": "Músculo liso vermelho-escuro profundo à aponeurose do LPS; teste com fenilefrina 2,5% tópica: elevação ≥ 1,5 mm confirma função.",
-    "images": [],
+    "images": [
+      {
+        "file": "fig13-9-anatomia-palpebral-sagital.jpeg",
+        "caption": "Corte sagital da pálpebra superior — Müller's muscle em posição profunda à aponeurose do LPS, entre este e a conjuntiva, estendendo-se até a borda superior do tarso.",
+        "credit": "Neligan vol. 2, caps. 13-14 — Blepharoplasty"
+      }
+    ],
     "citations": [
       "Neligan, 2023, vol. 2, cap. 13",
       "Grabb & Smith, 2024, cap. 51"
@@ -548,7 +554,7 @@
     "images": [
       {
         "file": "fig13-14-suprimento-arterial.jpeg",
-        "caption": "Vascularização periorbital: arco marginal (2 mm da borda ciliar) e arco periférico — ramos das artérias oftálmica (V1) e lacrimal, com anastomoses entre carótida interna (oftálmica) e externa (facial).",
+        "caption": "Vascularização periorbital: arco marginal (2 mm da borda ciliar) e arco periférico — ramos das artérias oftálmica (carótida interna) e lacrimal, com anastomose para a artéria angular (ramo da facial, carótida externa).",
         "credit": "Neligan vol. 2, caps. 13-14 — Blepharoplasty"
       }
     ],
