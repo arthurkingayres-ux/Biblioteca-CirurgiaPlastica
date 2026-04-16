@@ -20,10 +20,13 @@ function icon(name, size = 16) {
 
 // Hydrate [data-icon="name"] elements after DOM load.
 function hydrateIcons(root = document) {
-  root.querySelectorAll('[data-icon]').forEach(el => {
+  root.querySelectorAll('[data-icon]:not([data-icon-hydrated])').forEach(el => {
     const name = el.getAttribute('data-icon');
     const size = parseInt(el.getAttribute('data-icon-size') || '16', 10);
-    if (ICONS[name]) el.innerHTML = icon(name, size);
+    if (ICONS[name]) {
+      el.innerHTML = icon(name, size);
+      el.setAttribute('data-icon-hydrated', '');
+    }
   });
 }
 

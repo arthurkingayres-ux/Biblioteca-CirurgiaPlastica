@@ -277,7 +277,9 @@ const App = (() => {
       const btn = document.getElementById('btn-theme');
       if (!btn) return;
       const theme = document.documentElement.getAttribute('data-theme') || 'light';
-      btn.querySelector('[data-icon]').setAttribute('data-icon', theme === 'dark' ? 'sun' : 'moon');
+      const iconEl = btn.querySelector('[data-icon]');
+      iconEl.setAttribute('data-icon', theme === 'dark' ? 'sun' : 'moon');
+      iconEl.removeAttribute('data-icon-hydrated');
       if (window.LucideIcons) window.LucideIcons.hydrateIcons(btn);
     };
     if (window.LucideIcons) window.LucideIcons.hydrateIcons();
