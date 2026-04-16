@@ -21,7 +21,13 @@
     ],
     "surgical_relevance": "Pele espessa limita o grau de definição possível e prolonga o edema pós-operatório. Pele fina torna visíveis irregularidades sutis do arcabouço. Dissecção subdérmica excessiva — como no defatting da ponta — coloca em risco o delicado plexo subdérmico e pode resultar em necrose cutânea.",
     "how_to_identify": "Inspeção e palpação: pele fina e translúcida sobre o dorso versus pele espessa, sebácea e pouco móvel sobre a ponta. Observar poros dilatados e oleosidade.",
-    "images": [],
+    "images": [
+      {
+        "file": "fig18-1-terminologia-nasal.jpeg",
+        "caption": "Terminologia anatômica do nariz externo — radix, dorso (dorsal hump), ponta (tip), columela e sulco alar: pontos de referência padronizados do planejamento rinoplástico.",
+        "credit": "Neligan vol. 2, cap. 18 — Rhinoplasty"
+      }
+    ],
     "citations": [
       "Neligan, 2023, vol. 2, cap. 19"
     ],

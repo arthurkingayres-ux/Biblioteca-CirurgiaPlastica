@@ -56,8 +56,8 @@
     "how_to_identify": "Músculo rosa-pálido imediatamente profundo à pele; porção pré-tarsal aderida ao tarso, porção pré-septal mais frouxa sobre o septo.",
     "images": [
       {
-        "file": "blef-13-6-musculos-orbitais.png",
-        "caption": "Músculo orbicular do olho com suas três porções (pré-tarsal, pré-septal e orbital) circundando a fissura palpebral.",
+        "file": "fig13-6-musculos-periorbitarios.jpeg",
+        "caption": "Musculatura periorbitária em vista frontal: orbicular, frontal, corrugador do supercílio e prócero — todos participam da dinâmica do terço superior da face.",
         "credit": "Neligan vol. 2, caps. 13-14 — Blepharoplasty"
       },
       {
@@ -66,13 +66,8 @@
         "credit": "Neligan vol. 2, caps. 13-14 — Blepharoplasty"
       },
       {
-        "file": "blef-13-16-inervacao-temporal-sobrancelha.png",
+        "file": "fig13-16-anatomia-sobrancelha.jpeg",
         "caption": "Ramo temporal do nervo facial cruzando o arco zigomático — zona perigosa ~1 cm anterior ao trago, inerva a porção superior do orbicular.",
-        "credit": "Neligan vol. 2, caps. 13-14 — Blepharoplasty"
-      },
-      {
-        "file": "fig13-6-musculos-periorbitarios.jpeg",
-        "caption": "Musculatura periorbitária em vista frontal: orbicular, frontal, corrugador e prócero envolvidos na dinâmica do terço superior da face.",
         "credit": "Neligan vol. 2, caps. 13-14 — Blepharoplasty"
       }
     ],
@@ -111,23 +106,13 @@
     "how_to_identify": "Membrana fibrosa branco-perolada profunda ao orbicular; ao abrir, expõe a gordura pré-aponeurótica amarela. Relação com a fusão à aponeurose é o marco crítico.",
     "images": [
       {
-        "file": "blef-13-11-septo-orbital.png",
-        "caption": "Septo orbital originando-se do arcus marginalis e fundindo-se com a aponeurose do LPS — barreira entre os compartimentos pré-septal e intraorbitário.",
-        "credit": "Neligan vol. 2, caps. 13-14 — Blepharoplasty"
-      },
-      {
-        "file": "blef-13-8-anatomia-palpebral-sagital.png",
-        "caption": "Corte sagital da pálpebra superior mostrando as camadas: pele, orbicular, septo orbital, gordura pré-aponeurótica, aponeurose do LPS, músculo de Müller, tarso e conjuntiva.",
-        "credit": "Neligan vol. 2, caps. 13-14 — Blepharoplasty"
-      },
-      {
         "file": "fig13-11-septo-orbital.jpeg",
         "caption": "Septo orbital em detalhe: ponto de fusão com a aponeurose do LPS, marco cirúrgico crítico para evitar lesão iatrogênica do levantador.",
         "credit": "Neligan vol. 2, caps. 13-14 — Blepharoplasty"
       },
       {
         "file": "fig13-9-anatomia-palpebral-sagital.jpeg",
-        "caption": "Anatomia sagital palpebral ilustrada, destacando a disposição do septo, gordura orbitária e aponeurose do levantador.",
+        "caption": "Corte sagital da pálpebra superior: pele, orbicular, septo orbital, gordura pré-aponeurótica, aponeurose do LPS, músculo de Müller, tarso e conjuntiva.",
         "credit": "Neligan vol. 2, caps. 13-14 — Blepharoplasty"
       }
     ],
@@ -262,11 +247,6 @@
     "how_to_identify": "Aponeurose branca brilhante, profunda ao septo órbital; ao abrir o septo, a gordura pré-aponeurótica recobre a aponeurose. Fibras que se estendem à pele formam a prega.",
     "images": [
       {
-        "file": "blef-13-8-anatomia-palpebral-sagital.png",
-        "caption": "Anatomia sagital palpebral: músculo levantador da pálpebra superior (LPS) e sua transição em aponeurose ao nível do ligamento de Whitnall.",
-        "credit": "Neligan vol. 2, caps. 13-14 — Blepharoplasty"
-      },
-      {
         "file": "blef-13-29-incisao-levantador-plicatura.png",
         "caption": "Incisão sobre a aponeurose do LPS para plicatura ou avanço — técnica-padrão de correção da ptose aponeurótica.",
         "credit": "Neligan vol. 2, caps. 13-14 — Blepharoplasty"
@@ -313,8 +293,8 @@
     "how_to_identify": "Músculo liso vermelho-escuro profundo à aponeurose do LPS; teste com fenilefrina 2,5% tópica: elevação ≥ 1,5 mm confirma função.",
     "images": [
       {
-        "file": "blef-13-8-anatomia-palpebral-sagital.png",
-        "caption": "Músculo de Müller (tarsal superior) na face profunda da aponeurose do LPS, com inserção na borda superior do tarso — contribui com ~2 mm de elevação palpebral.",
+        "file": "fig13-9-anatomia-palpebral-sagital.jpeg",
+        "caption": "Corte sagital da pálpebra superior — Müller's muscle em posição profunda à aponeurose do LPS, entre este e a conjuntiva, estendendo-se até a borda superior do tarso.",
         "credit": "Neligan vol. 2, caps. 13-14 — Blepharoplasty"
       }
     ],
@@ -405,11 +385,6 @@
     "surgical_relevance": "A disfunção das glândulas de Meibomius (meibomite) causa evaporação excessiva e olho seco. Cirurgias sobre o tarso (suturas de eversão, enxertos) devem considerar a integridade dessas glândulas. O tarso é a referência para a prega pálpebral e para a marcação de incisões.",
     "how_to_identify": "Placa fibrosa densa palpável sob a pele; face posterior revestida por conjuntiva; glândulas de Meibomius visíveis como estrias amareladas ao everter a pálpebra.",
     "images": [
-      {
-        "file": "blef-13-8-anatomia-palpebral-sagital.png",
-        "caption": "Tarso superior (10–12 mm) e inferior (3,5–5 mm) vistos em corte sagital — placas fibrosas densas contendo as glândulas de Meibomius.",
-        "credit": "Neligan vol. 2, caps. 13-14 — Blepharoplasty"
-      },
       {
         "file": "diagrama-camadas-palpebrais.png",
         "caption": "Diagrama das camadas palpebrais com localização do tarso na lamela posterior (tarso + conjuntiva).",
@@ -506,11 +481,6 @@
         "file": "blef-13-35-canto-lateral-envelhecimento.png",
         "caption": "Ptose do canto lateral no envelhecimento periorbital: perda da inclinação positiva e descenso da fenda palpebral.",
         "credit": "Neligan vol. 2, caps. 13-14 — Blepharoplasty"
-      },
-      {
-        "file": "fig13-35-ptose-canto-lateral.jpeg",
-        "caption": "Alterações senis do canto lateral: laxidão tendinosa e descenso lateral comparados a anatomia jovem.",
-        "credit": "Neligan vol. 2, caps. 13-14 — Blepharoplasty"
       }
     ],
     "citations": [
@@ -583,13 +553,8 @@
     "how_to_identify": "Arco marginal visível como vasos finos 2 mm da margem; artéria angular palpável lateralmente ao dorso nasal.",
     "images": [
       {
-        "file": "blef-13-14-vascularizacao-periorbital.png",
-        "caption": "Vascularização periorbital: arco marginal (2 mm da borda ciliar) e arco periférico formados pelos ramos das artérias oftálmica e lacrimal.",
-        "credit": "Neligan vol. 2, caps. 13-14 — Blepharoplasty"
-      },
-      {
         "file": "fig13-14-suprimento-arterial.jpeg",
-        "caption": "Suprimento arterial palpebral ilustrado, com anastomoses entre circulações carotídeas interna (oftálmica) e externa (facial).",
+        "caption": "Vascularização periorbital: arco marginal (2 mm da borda ciliar) e arco periférico — ramos das artérias oftálmica (carótida interna) e lacrimal, com anastomose para a artéria angular (ramo da facial, carótida externa).",
         "credit": "Neligan vol. 2, caps. 13-14 — Blepharoplasty"
       }
     ],
@@ -632,23 +597,13 @@
     "how_to_identify": "Nervo supraórbital: bloqueável no forame na junção 1/3 medial e 2/3 laterais do rebordo. Ramo temporal do VII: zona perigosa 1 cm anterior ao tragus sobre o arco zigomático.",
     "images": [
       {
-        "file": "blef-13-15-inervacao-palpebral.png",
+        "file": "fig13-15-nervos-sensoriais.jpeg",
         "caption": "Inervação sensitiva palpebral: V1 (supraorbital, supratroclear, infratroclear, lacrimal) para pálpebra superior e V2 (infraorbital) para pálpebra inferior.",
         "credit": "Neligan vol. 2, caps. 13-14 — Blepharoplasty"
       },
       {
-        "file": "blef-13-16-inervacao-temporal-sobrancelha.png",
-        "caption": "Ramo temporal do facial cruzando o arco zigomático — inervação motora da porção superior do orbicular, zona de risco cirúrgico.",
-        "credit": "Neligan vol. 2, caps. 13-14 — Blepharoplasty"
-      },
-      {
-        "file": "fig13-15-nervos-sensoriais.jpeg",
-        "caption": "Distribuição dos ramos sensoriais V1 e V2 sobre a região periorbital.",
-        "credit": "Neligan vol. 2, caps. 13-14 — Blepharoplasty"
-      },
-      {
         "file": "fig13-16-anatomia-sobrancelha.jpeg",
-        "caption": "Inervação motora e sensitiva da sobrancelha e região frontal — mapa de zonas de risco para o ramo temporal do facial.",
+        "caption": "Ramo temporal do facial cruzando o arco zigomático ~1 cm anterior ao tragus — inerva a porção superior do orbicular; zona de risco para lifting temporal.",
         "credit": "Neligan vol. 2, caps. 13-14 — Blepharoplasty"
       }
     ],
@@ -789,18 +744,8 @@
     "how_to_identify": "Ausência de prega pálpebral superior (single eyelid); fullness pré-tarsal; epicanto presente em graus variáveis.",
     "images": [
       {
-        "file": "blef-13-10ab-variacoes-palpebra-superior.png",
-        "caption": "Variações da pálpebra superior: ocidental (fibras aponeuróticas inserem-se na derme pré-tarsal formando a prega) versus asiática (fusão septo-aponeurose baixa, sem prega ou prega rasa).",
-        "credit": "Neligan vol. 2, caps. 13-14 — Blepharoplasty"
-      },
-      {
-        "file": "blef-13-10cd-palpebra-asiatica-baggy.png",
-        "caption": "Pálpebra asiática com aparência abaulada (baggy): descida de gordura pré-aponeurótica à frente do tarso pela fusão septo-aponeurose inferior.",
-        "credit": "Neligan vol. 2, caps. 13-14 — Blepharoplasty"
-      },
-      {
         "file": "fig13-10-variacoes-palpebra-superior.jpeg",
-        "caption": "Comparação anatômica entre pálpebra ocidental com prega definida e variações da pálpebra asiática.",
+        "caption": "Variações da pálpebra superior: ocidental (fibras aponeuróticas inserem-se na derme pré-tarsal formando a prega) versus asiática (fusão septo-aponeurose inferior, sem prega ou com aparência abaulada por descida de gordura pré-aponeurótica).",
         "credit": "Neligan vol. 2, caps. 13-14 — Blepharoplasty"
       }
     ],
@@ -841,23 +786,13 @@
     "how_to_identify": "Rebordo orbitário palpável em toda a circunferência; forame supraórbital na junção 1/3 medial e 2/3 laterais do rebordo superior; forame infraórbital ~7 mm abaixo do rebordo inferior.",
     "images": [
       {
-        "file": "blef-13-1-ossos-orbitarios.png",
-        "caption": "Ossos da órbita: sete ossos formam a cavidade piramidal (frontal, zigomático, maxilar, lacrimal, etmoide, palatino e esfenoide).",
-        "credit": "Neligan vol. 2, caps. 13-14 — Blepharoplasty"
-      },
-      {
         "file": "fig13-1-ossos-orbitarios.jpeg",
-        "caption": "Vista frontal da órbita óssea com forames supraorbital, infraorbital e óptico — referências para bloqueios anestésicos e marcos cirúrgicos.",
-        "credit": "Neligan vol. 2, caps. 13-14 — Blepharoplasty"
-      },
-      {
-        "file": "blef-13-2-corte-horizontal-orbita.png",
-        "caption": "Corte horizontal da órbita mostrando paredes medial, lateral e o ápice orbitário.",
+        "caption": "Vista frontal da órbita óssea: sete ossos (frontal, zigomático, maxilar, lacrimal, etmoide, palatino, esfenoide) formam a cavidade piramidal com forames supraorbital, infraorbital e óptico.",
         "credit": "Neligan vol. 2, caps. 13-14 — Blepharoplasty"
       },
       {
         "file": "fig13-2-secao-horizontal-orbita.jpeg",
-        "caption": "Seção horizontal da órbita ilustrando relações do LPS, reto superior e conteúdo intraconal.",
+        "caption": "Seção horizontal da órbita: paredes medial e lateral, ápice orbitário e relações do LPS, reto superior e conteúdo intraconal.",
         "credit": "Neligan vol. 2, caps. 13-14 — Blepharoplasty"
       },
       {

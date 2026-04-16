@@ -2,7 +2,9 @@
   "name": "biblioteca-cirurgia-plastica",
   "version": "2.0.0",
   "description": "Biblioteca Inteligente de Cirurgia Plástica — PWA mobile-first + sistema RAG (Dr. Arthur, R2 UNICAMP)",
-  "scripts": {},
+  "scripts": {
+    "dev": "npx serve webapp/library -l 5173"
+  },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.52.0",
     "ajv": "^8.18.0",

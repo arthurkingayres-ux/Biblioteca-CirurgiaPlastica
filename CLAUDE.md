@@ -163,6 +163,7 @@ O Dr. Arthur consome a biblioteca exclusivamente pelo iPhone.
 5. Nomes de arquivo de imagem: ASCII sem acentos (NUNCA aplicar diacríticos a nomes de arquivo)
 6. Língua: português brasileiro, terminologia anatômica oficial
 7. Nunca escrever conteúdo sem ter lido o capítulo correspondente do Neligan
+8. **Uma figura, um arquivo.** Antes de adicionar imagem, rodar `python tools/audit_images.py` e conferir se já não existe versão equivalente no disco (mesmo tema + mesma figura do livro). Não introduzir PNG + JPEG coexistentes da mesma ilustração — pipelines antigos geraram esse tipo de duplicata e resolvê-las custou caro.
 
 ---
 
