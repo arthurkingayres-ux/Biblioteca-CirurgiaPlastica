@@ -278,9 +278,19 @@
     ],
     "images": [
       {
+        "file": "glut-tec-implante-marcacao.png",
+        "caption": "Marcação pré-operatória para gluteoplastia de aumento com implantes: eixo longo glúteo, zona de segurança de Mendieta (2 cm medial à borda lateral do glúteo máximo) e projeção máxima desejada.",
+        "credit": "Mendieta, Aesthetic Surgery Journal, 2008"
+      },
+      {
         "file": "glut-tec-plano-subfascial.png",
         "caption": "Plano subfascial para implantes glúteos — atualmente preferido ao subcutâneo (seroma/palpação) e ao intramuscular clássico de Gonzalez (risco neurovascular).",
         "credit": "De la Peña, PRS 2004; Serra et al., PRS 2013"
+      },
+      {
+        "file": "glut-tec-bolso-implante.png",
+        "caption": "Dissecção do bolso subfascial/intramuscular para implante glúteo — bolso justo, amplo o suficiente para o implante sem espaços mortos que favoreçam seroma e rotação.",
+        "credit": "Mendieta, Plastic Surgery, 5ª Ed., 2023"
       }
     ],
     "citations": [
