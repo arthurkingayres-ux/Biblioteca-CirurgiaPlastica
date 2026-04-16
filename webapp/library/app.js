@@ -285,8 +285,12 @@ const App = (() => {
     window.addEventListener('atlas:themechange', refreshThemeIcon);
 
     // Re-hydrate icons after dynamic content (briefing, chat empty state)
+    let _hydrating = false;
     const mo = new MutationObserver(() => {
-      if (window.LucideIcons) window.LucideIcons.hydrateIcons();
+      if (_hydrating || !window.LucideIcons) return;
+      _hydrating = true;
+      window.LucideIcons.hydrateIcons();
+      _hydrating = false;
     });
     mo.observe(document.body, { subtree: true, childList: true });
 
