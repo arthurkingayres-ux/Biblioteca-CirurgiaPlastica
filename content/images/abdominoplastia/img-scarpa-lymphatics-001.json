@@ -1,0 +1,18 @@
+{
+  "id": "img-scarpa-lymphatics-001",
+  "file": "abdominoplastia/abdo-anat-scarpa-linfaticos.jpg",
+  "subject": "fascia de Scarpa como substrato do plexo linfatico subdermico inferior",
+  "role": "detail",
+  "source": "Neligan 2023, vol. 2, cap. 27 - Matarasso (Abdominoplasty)",
+  "credit": "Adaptado de Neligan 2023, vol. 2, cap. 27 - Matarasso",
+  "default_caption": "Histologia (a) com linfaticos infraumbilicais corados por injeacao de latex e esquema (b) das camadas teciduais correspondentes.",
+  "labels": [
+    { "num": 1, "text": "Painel (a) - corte histologico infraumbilical; insets 50 um mostram linfaticos preservados na fascia de Scarpa." },
+    { "num": 2, "text": "Painel (b) - esquema em camadas: rosa = gordura subcutanea superficial; amarelo = gordura profunda; verde-agua = plano sub-fascial." },
+    { "num": 3, "text": "Plexo linfatico superficial - acima da fascia de Scarpa." },
+    { "num": 4, "text": "Fascia de Scarpa (membranosa) - substrato do plexo linfatico; preserva-la reduz seroma." },
+    { "num": 5, "text": "Drenagem obliqua para linfonodos inguinais ipsilaterais." }
+  ],
+  "applicable_topics": ["abdominoplastia"],
+  "status": "available"
+}

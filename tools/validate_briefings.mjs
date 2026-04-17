@@ -13,7 +13,7 @@ const EXPECTED_IMAGE_COUNTS = {
   gluteoplastia: null,
   'contorno-pos-bariatrico': null,
   otoplastia: null,
-  abdominoplastia: null, // flipa para 6 no PR #2
+  abdominoplastia: 14,
 };
 const OUT_DIR = join(ROOT, 'tools', '_validation');
 

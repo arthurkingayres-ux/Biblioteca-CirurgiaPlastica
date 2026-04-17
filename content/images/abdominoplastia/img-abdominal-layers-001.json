@@ -1,0 +1,18 @@
+{
+  "id": "img-abdominal-layers-001",
+  "file": "abdominoplastia/abdo-anat-camadas-histologia.jpg",
+  "subject": "camadas histologicas da parede abdominal anterior (Scarpa)",
+  "role": "detail",
+  "source": "Neligan 2023, vol. 2, cap. 27 - Matarasso (Abdominoplasty)",
+  "credit": "Adaptado de Neligan 2023, vol. 2, cap. 27 - Matarasso",
+  "default_caption": "Histologia (a, c) e dissecacao macroscopica (b) da parede abdominal: a fascia de Scarpa (SF) e a camada membranosa entre as duas gorduras subcutaneas.",
+  "labels": [
+    { "num": 1, "text": "E - epiderme." },
+    { "num": 2, "text": "D - derme." },
+    { "num": 3, "text": "SAT (superficial adipose tissue) - gordura subcutanea superficial." },
+    { "num": 4, "text": "SF (superficial fascia) - fascia membranosa superficial, a fascia de Scarpa." },
+    { "num": 5, "text": "DAT (deep adipose tissue) - gordura subcutanea profunda (subscarpal)." }
+  ],
+  "applicable_topics": ["abdominoplastia"],
+  "status": "available"
+}

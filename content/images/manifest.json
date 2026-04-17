@@ -1,5 +1,182 @@
 {
-  "generatedAt": "2026-04-17T01:42:28Z",
-  "count": 0,
-  "entries": []
+  "generatedAt": "2026-04-17T17:09:47Z",
+  "count": 5,
+  "entries": [
+    {
+      "id": "img-abdominal-layers-001",
+      "file": "abdominoplastia/abdo-anat-camadas-histologia.jpg",
+      "subject": "camadas histologicas da parede abdominal anterior (Scarpa)",
+      "role": "detail",
+      "source": "Neligan 2023, vol. 2, cap. 27 - Matarasso (Abdominoplasty)",
+      "credit": "Adaptado de Neligan 2023, vol. 2, cap. 27 - Matarasso",
+      "default_caption": "Histologia (a, c) e dissecacao macroscopica (b) da parede abdominal: a fascia de Scarpa (SF) e a camada membranosa entre as duas gorduras subcutaneas.",
+      "labels": [
+        {
+          "num": 1,
+          "text": "E - epiderme."
+        },
+        {
+          "num": 2,
+          "text": "D - derme."
+        },
+        {
+          "num": 3,
+          "text": "SAT (superficial adipose tissue) - gordura subcutanea superficial."
+        },
+        {
+          "num": 4,
+          "text": "SF (superficial fascia) - fascia membranosa superficial, a fascia de Scarpa."
+        },
+        {
+          "num": 5,
+          "text": "DAT (deep adipose tissue) - gordura subcutanea profunda (subscarpal)."
+        }
+      ],
+      "applicable_topics": [
+        "abdominoplastia"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-aesthetic-subunits-001",
+      "file": "abdominoplastia/abdo-anat-unidades-esteticas.jpg",
+      "subject": "unidades esteticas do abdome feminino (Matarasso)",
+      "role": "schematic",
+      "source": "Neligan 2023, vol. 2, cap. 27 - Matarasso (Abdominoplasty)",
+      "credit": "Adaptado de Neligan 2023, vol. 2, cap. 27 - Matarasso",
+      "default_caption": "Unidades esteticas do abdome feminino relevantes ao planejamento conjunto de abdominoplastia e lipoaspiracao.",
+      "labels": [
+        {
+          "num": 1,
+          "text": "Abdome superior central (epigastrio)."
+        },
+        {
+          "num": 2,
+          "text": "Abdome superior lateral - bilateral."
+        },
+        {
+          "num": 3,
+          "text": "Abdome inferior (infraumbilical, area de ressecao)."
+        },
+        {
+          "num": 4,
+          "text": "Flancos - bilateral."
+        },
+        {
+          "num": 5,
+          "text": "Monte pubiano."
+        },
+        {
+          "num": 6,
+          "text": "Zona (a) - transicao axilar para flanco."
+        },
+        {
+          "num": 7,
+          "text": "Zona (b) - transicao flanco para coxa proximal."
+        }
+      ],
+      "applicable_topics": [
+        "abdominoplastia"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-huger-zones-001",
+      "file": "abdominoplastia/abdo-anat-huger-ilustracao.jpg",
+      "subject": "zonas de perfusao de Huger (I/II/III) da parede abdominal anterior",
+      "role": "overview",
+      "source": "Neligan 2023, vol. 2, cap. 27 - Matarasso (Abdominoplasty), baseado em Huger 1979",
+      "credit": "Adaptado de Neligan 2023, vol. 2, cap. 27 - Matarasso",
+      "default_caption": "Tres zonas de perfusao da parede abdominal anterior (Huger, 1979); apos abdominoplastia, a Zona III sustenta o retalho.",
+      "labels": [
+        {
+          "num": 1,
+          "text": "Zona I (central) - DIEA (epigastrica inferior profunda) + SIEA (superficial); perfusao dominante no abdome nao operado, ligada na disseccao."
+        },
+        {
+          "num": 2,
+          "text": "Zona II (inguinal) - SCIA (circunflexa iliaca superficial) + SIEA; territorio inferior, tambem comprometido."
+        },
+        {
+          "num": 3,
+          "text": "Zona III (lateral) - intercostais, subcostais e lombares (perfurantes segmentares); passa a dominante apos abdominoplastia."
+        }
+      ],
+      "applicable_topics": [
+        "abdominoplastia",
+        "dermolipectomia"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-pdsea-preservation-001",
+      "file": "abdominoplastia/abdo-anat-huger-perfuradores.jpg",
+      "subject": "preservacao da PDSEA (septocutanea subcostal paramediana) na abdominoplastia",
+      "role": "schematic",
+      "source": "Neligan 2023, vol. 2, cap. 27 - Matarasso (Abdominoplasty)",
+      "credit": "Adaptado de Neligan 2023, vol. 2, cap. 27 - Matarasso",
+      "default_caption": "Impacto da preservacao (verde) vs sacrificio (amarelo) da PDSEA sobre a perfusao residual do retalho em abdominoplastia.",
+      "labels": [
+        {
+          "num": 1,
+          "text": "PDSEA (paramedian deep septocutaneous epigastric artery) - perfurante subcostal paramediana emergente cerca de 6 cm acima e 4 cm lateral ao umbigo."
+        },
+        {
+          "num": 2,
+          "text": "Margem subcostal - referencia superior para localizar a PDSEA."
+        },
+        {
+          "num": 3,
+          "text": "Zona verde - irrigacao preservada ao abdome se a PDSEA for poupada durante a disseccao."
+        },
+        {
+          "num": 4,
+          "text": "Zona amarela - irrigacao remanescente apos abdominoplastia tradicional (PDSEA sacrificada)."
+        },
+        {
+          "num": 5,
+          "text": "Oval tracejada - area de ressecao dermocutanea planejada."
+        }
+      ],
+      "applicable_topics": [
+        "abdominoplastia"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-scarpa-lymphatics-001",
+      "file": "abdominoplastia/abdo-anat-scarpa-linfaticos.jpg",
+      "subject": "fascia de Scarpa como substrato do plexo linfatico subdermico inferior",
+      "role": "detail",
+      "source": "Neligan 2023, vol. 2, cap. 27 - Matarasso (Abdominoplasty)",
+      "credit": "Adaptado de Neligan 2023, vol. 2, cap. 27 - Matarasso",
+      "default_caption": "Histologia (a) com linfaticos infraumbilicais corados por injeacao de latex e esquema (b) das camadas teciduais correspondentes.",
+      "labels": [
+        {
+          "num": 1,
+          "text": "Painel (a) - corte histologico infraumbilical; insets 50 um mostram linfaticos preservados na fascia de Scarpa."
+        },
+        {
+          "num": 2,
+          "text": "Painel (b) - esquema em camadas: rosa = gordura subcutanea superficial; amarelo = gordura profunda; verde-agua = plano sub-fascial."
+        },
+        {
+          "num": 3,
+          "text": "Plexo linfatico superficial - acima da fascia de Scarpa."
+        },
+        {
+          "num": 4,
+          "text": "Fascia de Scarpa (membranosa) - substrato do plexo linfatico; preserva-la reduz seroma."
+        },
+        {
+          "num": 5,
+          "text": "Drenagem obliqua para linfonodos inguinais ipsilaterais."
+        }
+      ],
+      "applicable_topics": [
+        "abdominoplastia"
+      ],
+      "status": "available"
+    }
+  ]
 }
