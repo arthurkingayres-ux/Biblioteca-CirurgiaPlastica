@@ -22,8 +22,8 @@
   },
   "card_types": {
     "anatomy": {
-      "purpose": "1 card por estrutura anatomica — landmarks, relevancia cirurgica, como identificar",
-      "required_fields": ["id", "type", "title", "topic", "area", "definition", "location", "surgical_relevance"],
+      "purpose": "1 card por estrutura anatomica — one-liner clinico, tabela de estruturas, hook cirurgico (schema v2)",
+      "required_fields": ["id", "type", "title", "topic", "area", "one_liner", "structures", "clinical_hook"],
       "example": {
         "id": "abdo-anat-002",
         "type": "anatomy",
