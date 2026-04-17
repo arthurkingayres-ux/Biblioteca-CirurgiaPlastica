@@ -49,7 +49,9 @@
     ],
     "clinical_hook": "Ressecção conservadora com plicatura de Scarpa ancorada à sínfise corrige ptose; evitar plicatura excessiva que cause dispareunia ou disúria.",
     "how_to_identify": "Inspeção em ortostase; grau de ptose medido em relação à sínfise púbica.",
-    "images": [],
+    "images": [
+      { "ref": "img-pubic-mound-001" }
+    ],
     "citations": [
       "Lockwood et al., PRS, 1994",
       "Aly et al., PRS, 2003"
@@ -210,7 +212,9 @@
     ],
     "clinical_hook": "Ligar rotineiramente circunflexa ilíaca superficial, pudenda externa e artérias do monte púbico evita hematoma pós-operatório.",
     "how_to_identify": "Identificação intraoperatória na dissecção supramuscular em direção à sínfise púbica.",
-    "images": [],
+    "images": [
+      { "ref": "img-rectus-diastasis-001" }
+    ],
     "citations": [
       "Nahas, Neligan 2023, vol. 2",
       "Lockwood et al., PRS, 1994"
@@ -238,7 +242,9 @@
     ],
     "clinical_hook": "Ancoragem da Scarpa à sínfise sustenta a correção; suspensão ao Cooper é reservada para ptose grave refratária.",
     "how_to_identify": "Palpação da sínfise pubiana durante o planejamento da suspensão.",
-    "images": [],
+    "images": [
+      { "ref": "img-pubic-mound-001" }
+    ],
     "citations": [
       "Lockwood et al., PRS, 1994",
       "Aly et al., PRS, 2003"
@@ -267,7 +273,9 @@
     ],
     "clinical_hook": "Preservar plano supramuscular e evitar dissecção lateral além da linha média reduz incidência de linfedema pós-cruroplastia.",
     "how_to_identify": "Palpação dos linfonodos inguinais pré-operatoriamente como parâmetro baseline.",
-    "images": [],
+    "images": [
+      { "ref": "img-medial-thigh-001" }
+    ],
     "citations": [
       "Aly et al., PRS, 2003",
       "Lockwood et al., PRS, 1994"
@@ -296,7 +304,9 @@
     ],
     "clinical_hook": "Marcar em abdução 90° evita subressecção; ressecção excessiva na região axilar gera cicatriz hipertrófica visível.",
     "how_to_identify": "Paciente sentado com braço abduzido; pinch test ao longo da linha medial.",
-    "images": [],
+    "images": [
+      { "ref": "img-arm-sagittal-001" }
+    ],
     "citations": [
       "Grabb & Smith, 8ª Ed., 2020",
       "Hasanbegovic & Sorensen, Obes Surg, 2012"
@@ -325,7 +335,9 @@
     ],
     "clinical_hook": "Pseudoptose por deflação exige autoaumento dermoglandular ou implante associado à mastopexia para restaurar plenitude.",
     "how_to_identify": "Inspeção do polo superior em ortostase; ausência de projeção superior mesmo após mastopexia isolada.",
-    "images": [],
+    "images": [
+      { "ref": "img-breast-ptosis-001" }
+    ],
     "citations": [
       "Neligan 2023, vol. 5",
       "Shermak et al., PRS, 2006"
@@ -354,7 +366,9 @@
     ],
     "clinical_hook": "Ptose de glândulas submandibulares e excesso cervical frequentemente exigem suspensão profunda além do lifting cutâneo superficial.",
     "how_to_identify": "Inspeção cervical em ortostase; palpação da borda da submandibular.",
-    "images": [],
+    "images": [
+      { "ref": "img-face-neck-ptosis-001" }
+    ],
     "citations": [
       "Neligan 2023, vol. 2",
       "Grabb & Smith, 8ª Ed., 2020"
