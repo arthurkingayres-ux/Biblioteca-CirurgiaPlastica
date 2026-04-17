@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-17T21:28:25Z",
-  "count": 20,
+  "generatedAt": "2026-04-17T21:36:37Z",
+  "count": 25,
   "entries": [
     {
       "id": "img-abdominal-layers-001",
@@ -180,6 +180,41 @@
       ],
       "applicable_topics": [
         "contorno-pos-bariatrico"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-capsulopalpebral-fascia-001",
+      "file": "blefaroplastia/blef-13-33-fascia-capsulopalpebral.png",
+      "subject": "fáscia capsulopálpebral e ligamento de Lockwood — retratores da pálpebra inferior",
+      "role": "detail",
+      "source": "Neligan 2023, vol. 2, cap. 13 — Blepharoplasty",
+      "credit": "Adaptado de Neligan 2023, vol. 2, cap. 13",
+      "default_caption": "Fáscia capsulopálpebral (análogo inferior da aponeurose do LPS) e ligamento suspensor de Lockwood — chave do acesso transconjuntival.",
+      "labels": [
+        {
+          "num": 1,
+          "text": "Fáscia capsulopálpebral — origina-se do músculo reto inferior; insere-se na face anterior do tarso inferior."
+        },
+        {
+          "num": 2,
+          "text": "Ligamento de Lockwood — condensação fascial suspensora do bulbo ocular."
+        },
+        {
+          "num": 3,
+          "text": "Tarso inferior — 4-5 mm de altura."
+        },
+        {
+          "num": 4,
+          "text": "Septo orbitário inferior — funde-se com a capsulopálpebral ~5 mm abaixo do tarso."
+        },
+        {
+          "num": 5,
+          "text": "Acesso transconjuntival — plano pré-septal ou retrosseptal dependendo da técnica."
+        }
+      ],
+      "applicable_topics": [
+        "blefaroplastia"
       ],
       "status": "available"
     },
@@ -371,6 +406,49 @@
       "status": "available"
     },
     {
+      "id": "img-orbital-bones-001",
+      "file": "blefaroplastia/fig13-1-ossos-orbitarios.jpeg",
+      "subject": "ossos da órbita — vista frontal e landmarks cirúrgicos",
+      "role": "overview",
+      "source": "Neligan 2023, vol. 2, cap. 13 — Blepharoplasty",
+      "credit": "Adaptado de Neligan 2023, vol. 2, cap. 13",
+      "default_caption": "Sete ossos formam a órbita: frontal, esfenoide, zigomático, maxila, lacrimal, etmoide e palatino.",
+      "labels": [
+        {
+          "num": 1,
+          "text": "Osso frontal — teto da órbita e rebordo superior."
+        },
+        {
+          "num": 2,
+          "text": "Maxila — assoalho; medialmente contém o canal lacrimal."
+        },
+        {
+          "num": 3,
+          "text": "Zigomático — parede lateral inferior e rebordo lateral."
+        },
+        {
+          "num": 4,
+          "text": "Esfenoide — asa maior (parede lateral) e menor (teto posterior)."
+        },
+        {
+          "num": 5,
+          "text": "Lacrimal — parede medial anterior; abriga a fossa lacrimal."
+        },
+        {
+          "num": 6,
+          "text": "Etmoide — lâmina papirácea; parede medial fina (risco em fraturas)."
+        },
+        {
+          "num": 7,
+          "text": "Palatino — pequeno componente posteroinferior."
+        }
+      ],
+      "applicable_topics": [
+        "blefaroplastia"
+      ],
+      "status": "available"
+    },
+    {
       "id": "img-pdsea-preservation-001",
       "file": "abdominoplastia/abdo-anat-huger-perfuradores.jpg",
       "subject": "preservação da PDSEA (septocutânea subcostal paramediana) na abdominoplastia",
@@ -402,6 +480,46 @@
       ],
       "applicable_topics": [
         "abdominoplastia"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-periorbital-muscles-001",
+      "file": "blefaroplastia/fig13-6-musculos-periorbitarios.jpeg",
+      "subject": "musculatura periorbitária — orbicular, frontal, corrugador e prócero",
+      "role": "overview",
+      "source": "Neligan 2023, vol. 2, cap. 13 — Blepharoplasty",
+      "credit": "Adaptado de Neligan 2023, vol. 2, cap. 13",
+      "default_caption": "Vista frontal da musculatura periorbitária: orbicular (3 porções), frontal, corrugador do supercílio e prócero — dinâmica do terço superior da face.",
+      "labels": [
+        {
+          "num": 1,
+          "text": "Orbicular pré-tarsal — piscar involuntário; aderido ao tarso."
+        },
+        {
+          "num": 2,
+          "text": "Orbicular pré-septal — fechamento reflexo e voluntário; sobre o septo orbitário."
+        },
+        {
+          "num": 3,
+          "text": "Orbicular orbitário — fechamento forçado; estende-se sobre o rebordo orbitário."
+        },
+        {
+          "num": 4,
+          "text": "Músculo frontal — elevador da sobrancelha; compensa ptose palpebral."
+        },
+        {
+          "num": 5,
+          "text": "Corrugador do supercílio — traciona medial e inferiormente; gera rugas verticais."
+        },
+        {
+          "num": 6,
+          "text": "Prócero — traciona a glabela inferiormente; gera ruga horizontal nasal."
+        }
+      ],
+      "applicable_topics": [
+        "blefaroplastia",
+        "ritidoplastia"
       ],
       "status": "available"
     },
@@ -639,6 +757,42 @@
       "status": "available"
     },
     {
+      "id": "img-tear-trough-001",
+      "file": "blefaroplastia/blef-13-21-anatomia-tear-trough.png",
+      "subject": "sulco lacrimojugal (tear trough) e ligamento palpebro-malar",
+      "role": "detail",
+      "source": "Neligan 2023, vol. 2, cap. 13 — Blepharoplasty",
+      "credit": "Adaptado de Neligan 2023, vol. 2, cap. 13",
+      "default_caption": "Depressão medial inferior à pálpebra inferior: origem do orbicular no periósteo maxilar cria o sulco; acentuada por deflação da bochecha.",
+      "labels": [
+        {
+          "num": 1,
+          "text": "Tear trough (sulco lacrimojugal) — depressão medial inferior à pálpebra."
+        },
+        {
+          "num": 2,
+          "text": "Origem do orbicular no periósteo maxilar — gera o sulco em ponto de fixação cutâneo."
+        },
+        {
+          "num": 3,
+          "text": "Ligamento palpebro-malar — extensão lateral do tear trough; separa compartimentos."
+        },
+        {
+          "num": 4,
+          "text": "Bolsa de gordura medial — protrusão acentua o sulco por contraste."
+        },
+        {
+          "num": 5,
+          "text": "Compartimento graxo malar (SOOF) — deflação envelhece a transição."
+        }
+      ],
+      "applicable_topics": [
+        "blefaroplastia",
+        "ritidoplastia"
+      ],
+      "status": "available"
+    },
+    {
       "id": "img-trunk-adherence-zones-001",
       "file": "contorno-pos-bariatrico/cpb-anat-zonas-aderencia-tronco.png",
       "subject": "zonas de aderência do tronco no paciente pós-bariátrico — vetores de descenso inferomedial",
@@ -662,6 +816,45 @@
       ],
       "applicable_topics": [
         "contorno-pos-bariatrico"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-upper-lid-sagittal-001",
+      "file": "blefaroplastia/fig13-9-anatomia-palpebral-sagital.jpeg",
+      "subject": "corte sagital da pálpebra superior — LPS, aponeurose, Müller, tarso e septo",
+      "role": "detail",
+      "source": "Neligan 2023, vol. 2, cap. 13 — Blepharoplasty",
+      "credit": "Adaptado de Neligan 2023, vol. 2, cap. 13",
+      "default_caption": "Corte sagital da pálpebra superior: LPS e sua aponeurose, músculo de Müller, tarso, septo orbitário e coxins adiposos.",
+      "labels": [
+        {
+          "num": 1,
+          "text": "LPS (levantador da pálpebra superior) — ventre muscular e aponeurose."
+        },
+        {
+          "num": 2,
+          "text": "Aponeurose do LPS — insere-se na face anterior do tarso e na derme (prega)."
+        },
+        {
+          "num": 3,
+          "text": "Músculo de Müller — tarsal superior; simpático; 1-2 mm de elevação."
+        },
+        {
+          "num": 4,
+          "text": "Septo orbitário — funde-se com a aponeurose 2-5 mm acima do tarso."
+        },
+        {
+          "num": 5,
+          "text": "Tarso superior — 10-12 mm de altura; dá estrutura à pálpebra."
+        },
+        {
+          "num": 6,
+          "text": "Coxim adiposo pré-aponeurótico — superficial à aponeurose do LPS."
+        }
+      ],
+      "applicable_topics": [
+        "blefaroplastia"
       ],
       "status": "available"
     }

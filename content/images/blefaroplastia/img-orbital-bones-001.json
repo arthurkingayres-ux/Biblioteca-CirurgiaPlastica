@@ -1,0 +1,20 @@
+{
+  "id": "img-orbital-bones-001",
+  "file": "blefaroplastia/fig13-1-ossos-orbitarios.jpeg",
+  "subject": "ossos da órbita — vista frontal e landmarks cirúrgicos",
+  "role": "overview",
+  "source": "Neligan 2023, vol. 2, cap. 13 — Blepharoplasty",
+  "credit": "Adaptado de Neligan 2023, vol. 2, cap. 13",
+  "default_caption": "Sete ossos formam a órbita: frontal, esfenoide, zigomático, maxila, lacrimal, etmoide e palatino.",
+  "labels": [
+    { "num": 1, "text": "Osso frontal — teto da órbita e rebordo superior." },
+    { "num": 2, "text": "Maxila — assoalho; medialmente contém o canal lacrimal." },
+    { "num": 3, "text": "Zigomático — parede lateral inferior e rebordo lateral." },
+    { "num": 4, "text": "Esfenoide — asa maior (parede lateral) e menor (teto posterior)." },
+    { "num": 5, "text": "Lacrimal — parede medial anterior; abriga a fossa lacrimal." },
+    { "num": 6, "text": "Etmoide — lâmina papirácea; parede medial fina (risco em fraturas)." },
+    { "num": 7, "text": "Palatino — pequeno componente posteroinferior." }
+  ],
+  "applicable_topics": ["blefaroplastia"],
+  "status": "available"
+}
