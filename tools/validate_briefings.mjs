@@ -1,6 +1,7 @@
 import { chromium, devices } from 'playwright';
 import { createServer } from 'node:http';
 import { readFile, stat, mkdir } from 'node:fs/promises';
+import { readFileSync, existsSync } from 'node:fs';
 import { extname, join, resolve } from 'node:path';
 import { fileURLToPath } from 'node:url';
 
@@ -16,9 +17,77 @@ const EXPECTED_IMAGE_COUNTS = {
   abdominoplastia: 14,
 };
 const OUT_DIR = join(ROOT, 'tools', '_validation');
+const CARDS_ROOT = join(ROOT, 'content', 'cards');
+const MANIFEST_PATH = join(CARDS_ROOT, 'manifest.json');
 
-const themeArg = (process.argv.find(a => a.startsWith('--theme=')) || '--theme=both').split('=')[1];
+const argv = process.argv.slice(2);
+const themeArg = (argv.find(a => a.startsWith('--theme=')) || '--theme=both').split('=')[1];
 const THEMES = themeArg === 'both' ? ['light', 'dark'] : [themeArg];
+const CHECK_IMAGE_COUNTS_ONLY = argv.includes('--check-image-counts-only');
+const REPORT_PENDING = argv.includes('--report-pending');
+const topicFlagIdx = argv.indexOf('--topic');
+const ONLY_TOPIC = topicFlagIdx >= 0 ? argv[topicFlagIdx + 1] : null;
+
+function readAnatomia(area, topic) {
+  const p = join(CARDS_ROOT, area, topic, 'anatomia.json');
+  if (!existsSync(p)) return null;
+  return JSON.parse(readFileSync(p, 'utf8'));
+}
+
+function isV2Card(card) {
+  return typeof card.one_liner === 'string';
+}
+
+function countImages(cards) {
+  let withImages = 0;
+  let pending = 0;
+  const pendingCards = [];
+  for (const c of cards) {
+    if (!isV2Card(c)) continue;
+    if (Array.isArray(c.images) && c.images.length > 0) {
+      withImages++;
+    } else {
+      pending++;
+      pendingCards.push(c);
+    }
+  }
+  return { withImages, pending, pendingCards, totalV2: withImages + pending };
+}
+
+function checkImageCounts(topics, { reportPending = false } = {}) {
+  const report = [];
+  let hardFail = false;
+
+  for (const { area, topic } of topics) {
+    const cards = readAnatomia(area, topic);
+    if (!cards) continue;
+    const { withImages, pending, pendingCards, totalV2 } = countImages(cards);
+
+    if (totalV2 === 0) {
+      report.push(`${topic}: legacy (sem metrica v2)`);
+      continue;
+    }
+
+    // Topicos pequenos (<=5 cards) podem ter 1 card conceitual sem imagem
+    // (ex: "Gordura visceral" em abdomino nao tem figura natural).
+    // Topicos grandes (>5 cards) exigem os 5 ancoras.
+    const required = totalV2 <= 5 ? Math.max(1, totalV2 - 1) : 5;
+    const passes = withImages >= required;
+    if (!passes) {
+      hardFail = true;
+      report.push(`${topic}: FAIL ${withImages}/${required} com imagem (${pending} pendentes)`);
+    } else {
+      report.push(`${topic}: OK ${withImages} com imagem, ${pending} pendentes`);
+    }
+    if (reportPending && pendingCards.length > 0) {
+      for (const c of pendingCards) {
+        report.push(`  pendente: ${c.id} - ${c.title}`);
+      }
+    }
+  }
+
+  return { report, hardFail };
+}
 
 const MIME = {
   '.html': 'text/html; charset=utf-8',
@@ -94,6 +163,14 @@ async function smokeToggle(page) {
 }
 
 (async () => {
+  if (CHECK_IMAGE_COUNTS_ONLY) {
+    const manifest = JSON.parse(readFileSync(MANIFEST_PATH, 'utf8'));
+    const topics = ONLY_TOPIC ? manifest.filter(m => m.topic === ONLY_TOPIC) : manifest;
+    const { report, hardFail } = checkImageCounts(topics, { reportPending: REPORT_PENDING });
+    for (const line of report) console.log(line);
+    process.exit(hardFail ? 1 : 0);
+  }
+
   const server = await startServer();
   const browser = await chromium.launch();
   const ctx = await browser.newContext({ ...devices['iPhone 14 Pro'] });
@@ -125,6 +202,16 @@ async function smokeToggle(page) {
 
   await browser.close();
   server.close();
+
+  const manifest = JSON.parse(readFileSync(MANIFEST_PATH, 'utf8'));
+  const { report: imgReport, hardFail: imgFail } = checkImageCounts(manifest);
+  console.log('\n=== Image count check ===');
+  for (const line of imgReport) console.log(line);
+  if (imgFail) {
+    ok = false;
+    console.error('Image count check failed');
+  }
+
   console.log(`\n${ok ? 'ALL PASS' : 'FAILURES DETECTED'}`);
   console.log(`screenshots: ${OUT_DIR}`);
   process.exit(ok ? 0 : 1);

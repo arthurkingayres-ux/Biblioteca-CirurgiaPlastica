@@ -39,18 +39,22 @@ def test_v2_cards_with_images_pass():
     assert "OK" in result.stdout, f"Esperava marcador OK. stdout:\n{result.stdout}"
 
 
-def test_pending_report_shows_abdomino_with_zero_pending():
-    """Com --report-pending, abdomino aparece com 0 pendentes."""
+def test_pending_report_lists_abdomino_gordura_visceral():
+    """Com --report-pending, abdomino lista Gordura Visceral como pendente
+    (card conceitual sem figura natural; 4/5 cards tem imagem, regra
+    aceita 1 exemption em topicos pequenos)."""
     result = run_validator(["--topic", "abdominoplastia", "--report-pending"])
-    assert result.returncode == 0
-    # Uma linha deve dizer algo como: "abdominoplastia: OK 5 com imagem, 0 pendentes"
-    found = False
-    for line in result.stdout.split("\n"):
-        low = line.lower()
-        if "abdominoplastia" in low and "0 pendente" in low:
-            found = True
-            break
-    assert found, f"Nao achei abdominoplastia com 0 pendentes. stdout:\n{result.stdout}"
+    assert result.returncode == 0, f"stderr: {result.stderr}\nstdout: {result.stdout}"
+    # Linha principal deve dizer "abdominoplastia: OK 4 com imagem, 1 pendentes"
+    ok_line = next(
+        (l for l in result.stdout.split("\n") if "abdominoplastia:" in l and "OK" in l),
+        None,
+    )
+    assert ok_line, f"Linha OK de abdominoplastia ausente. stdout:\n{result.stdout}"
+    assert "4 com imagem" in ok_line, ok_line
+    assert "1 pendente" in ok_line, ok_line
+    # Detalhe da pendencia deve citar abdo-anat-005
+    assert "abdo-anat-005" in result.stdout, result.stdout
 
 
 def test_legacy_topic_reported_as_legacy():
