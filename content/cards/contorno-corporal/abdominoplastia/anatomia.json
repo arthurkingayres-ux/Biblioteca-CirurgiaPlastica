@@ -6,18 +6,18 @@
     "aliases": ["parede abdominal", "layers of abdominal wall"],
     "topic": "abdominoplastia",
     "area": "contorno-corporal",
-    "one_liner": "Sete camadas da parede abdominal anterior; a fascia de Scarpa separa as duas gorduras subcutaneas.",
+    "one_liner": "Sete camadas da parede abdominal anterior; a fáscia de Scarpa separa as duas gorduras subcutâneas.",
     "structures": [
       { "label": "Camada 1", "description": "Pele." },
-      { "label": "Camada 2", "description": "Gordura subcutanea superficial." },
-      { "label": "Camada 3", "description": "Fascia de Scarpa (fascia membranosa superficial)." },
+      { "label": "Camada 2", "description": "Gordura subcutânea superficial." },
+      { "label": "Camada 3", "description": "Fáscia de Scarpa (fáscia membranosa superficial)." },
       { "label": "Camada 4", "description": "Gordura subscarpal (profunda)." },
       { "label": "Camada 5", "description": "Bainha anterior do reto abdominal." },
-      { "label": "Camada 6", "description": "Musculo reto abdominal." },
+      { "label": "Camada 6", "description": "Músculo reto abdominal." },
       { "label": "Camada 7", "description": "Bainha posterior do reto abdominal." }
     ],
-    "clinical_hook": "Dissecar profundamente a fascia de Scarpa e o plano classico; preserva-la reduz seroma por manter os linfaticos subdermicos intactos.",
-    "how_to_identify": "Camada membranosa esbranquicada entre as duas gorduras, mais nitida em regiao infraumbilical.",
+    "clinical_hook": "Dissecar profundamente à fáscia de Scarpa é o plano clássico; preservá-la reduz seroma por manter os linfáticos subdérmicos intactos.",
+    "how_to_identify": "Camada membranosa esbranquiçada entre as duas gorduras, mais nítida em região infraumbilical.",
     "images": [
       { "ref": "img-abdominal-layers-001" }
     ],
@@ -35,15 +35,15 @@
     "aliases": ["zonas vasculares de Huger", "Huger zones", "vascularizacao abdominal"],
     "topic": "abdominoplastia",
     "area": "contorno-corporal",
-    "one_liner": "Tres zonas de perfusao da parede abdominal anterior (Huger 1979); Zona III (lateral) sustenta o retalho apos disseccao.",
+    "one_liner": "Três zonas de perfusão da parede abdominal anterior (Huger 1979); Zona III (lateral) sustenta o retalho após dissecção.",
     "structures": [
-      { "label": "Zona I", "description": "DIEA (epigastrica inferior profunda) + SIEA (epigastrica inferior superficial); central." },
-      { "label": "Zona II", "description": "SCIA (circunflexa iliaca superficial) + SIEA (epigastrica inferior superficial); inguinal." },
-      { "label": "Zona III", "description": "Intercostais + subcostais + lombares; dominante pos-op." }
+      { "label": "Zona I", "description": "DIEA (epigástrica inferior profunda) + SIEA (epigástrica inferior superficial); central." },
+      { "label": "Zona II", "description": "SCIA (circunflexa ilíaca superficial) + SIEA (epigástrica inferior superficial); inguinal." },
+      { "label": "Zona III", "description": "Intercostais + subcostais + lombares; dominante pós-op." }
     ],
     "relations": [
       "Perfurantes da Zona III (lateral) entram entre linha axilar anterior e hemiclavicular.",
-      "Arcada de Thompson conecta a DIEA (epigastrica inferior profunda) a arteria toracica interna (supraumbilical)."
+      "Arcada de Thompson conecta a DIEA (epigástrica inferior profunda) à artéria torácica interna (supraumbilical)."
     ],
     "clinical_hook": "Descolagem em V invertido preserva perfurantes da Zona III (lateral) - chave da viabilidade do retalho.",
     "images": [
@@ -57,20 +57,20 @@
   {
     "id": "abdo-anat-003",
     "type": "anatomy",
-    "title": "Fascia de Scarpa e Linfaticos",
+    "title": "Fáscia de Scarpa e Linfáticos",
     "aliases": ["fascia superficial", "linfaticos abdominais"],
     "topic": "abdominoplastia",
     "area": "contorno-corporal",
-    "one_liner": "A fascia de Scarpa e substrato do plexo linfatico subdermico inferior; preserva-la reduz seroma.",
+    "one_liner": "A fáscia de Scarpa é substrato do plexo linfático subdérmico inferior; preservá-la reduz seroma.",
     "structures": [
-      { "label": "Superficial", "description": "Gordura subcutanea superficial." },
-      { "label": "Fascia", "description": "Fascia de Scarpa (membranosa)." },
+      { "label": "Superficial", "description": "Gordura subcutânea superficial." },
+      { "label": "Fáscia", "description": "Fáscia de Scarpa (membranosa)." },
       { "label": "Profunda", "description": "Gordura subscarpal." },
-      { "label": "Linfaticos", "description": "Plexo subdermico com drenagem inguinal ipsilateral." }
+      { "label": "Linfáticos", "description": "Plexo subdérmico com drenagem inguinal ipsilateral." }
     ],
-    "location": "Regiao infra-umbilical; continua-se com fascia de Colles (perineo) e Buck (penis).",
-    "clinical_hook": "Fechamento por camadas incorporando a fascia de Scarpa reduz significativamente a incidencia de seroma.",
-    "how_to_identify": "Camada membranosa distinta entre as duas gorduras, evidente em regiao infraumbilical.",
+    "location": "Região infraumbilical; continua-se com fáscia de Colles (períneo) e Buck (pênis).",
+    "clinical_hook": "Fechamento por camadas incorporando a fáscia de Scarpa reduz significativamente a incidência de seroma.",
+    "how_to_identify": "Camada membranosa distinta entre as duas gorduras, evidente em região infraumbilical.",
     "images": [
       { "ref": "img-scarpa-lymphatics-001" }
     ],
@@ -84,20 +84,20 @@
   {
     "id": "abdo-anat-004",
     "type": "anatomy",
-    "title": "Unidades Esteticas do Abdome",
+    "title": "Unidades Estéticas do Abdome",
     "aliases": ["aesthetic units", "subunidades abdominais"],
     "topic": "abdominoplastia",
     "area": "contorno-corporal",
-    "one_liner": "Cinco unidades esteticas do abdome feminino guiam a resseccao e a lipoaspiracao complementar.",
+    "one_liner": "Cinco unidades estéticas do abdome feminino guiam a ressecção e a lipoaspiração complementar.",
     "structures": [
       { "label": "1 Central", "description": "Linha alba e umbigo (eixo medial)." },
       { "label": "2 Paramediano", "description": "Sobre o reto (supraumbilical)." },
-      { "label": "3 Infraumbilical", "description": "Area de resseccao classica." },
+      { "label": "3 Infraumbilical", "description": "Área de ressecção clássica." },
       { "label": "4 Flancos", "description": "Lateral bilateral - alvo de lipo." },
-      { "label": "5 Pubiano", "description": "Monte pubico - elevacao e preservacao." }
+      { "label": "5 Pubiano", "description": "Monte púbico - elevação e preservação." }
     ],
-    "clinical_hook": "Trate unidades adjacentes na mesma cirurgia: nao abordar flancos ou monte pubiano gera insatisfacao por resultado incompleto.",
-    "how_to_identify": "Inspecao em pe (frente, perfil e posterior); limites definidos pela transicao de contorno.",
+    "clinical_hook": "Trate unidades adjacentes na mesma cirurgia: não abordar flancos ou monte pubiano gera insatisfação por resultado incompleto.",
+    "how_to_identify": "Inspeção em pé (frente, perfil e posterior); limites definidos pela transição de contorno.",
     "images": [
       { "ref": "img-aesthetic-subunits-001" }
     ],
@@ -112,17 +112,17 @@
     "aliases": ["gordura omental", "gordura intra-abdominal", "visceral fat"],
     "topic": "abdominoplastia",
     "area": "contorno-corporal",
-    "one_liner": "Gordura visceral e firme, nao tratavel por lipoaspiracao e nao se beneficia de plicatura muscular.",
+    "one_liner": "Gordura visceral é firme, não tratável por lipoaspiração e não se beneficia de plicatura muscular.",
     "structures": [
-      { "label": "Compartimento", "description": "Intraperitoneal - omento maior e mesenterio." },
-      { "label": "Distincao", "description": "Distinta da subcutanea; firme a palpacao." }
+      { "label": "Compartimento", "description": "Intraperitoneal - omento maior e mesentério." },
+      { "label": "Distinção", "description": "Distinta da subcutânea; firme à palpação." }
     ],
     "relations": [
-      "Musculo reto abdominal e bainha posterior funcionam como barreira anatomica.",
-      "Associa-se a risco cardiometabolico, cancer e demencia."
+      "Músculo reto abdominal e bainha posterior funcionam como barreira anatômica.",
+      "Associa-se a risco cardiometabólico, câncer e demência."
     ],
-    "clinical_hook": "Abdome que permanece convexo em decubito dorsal indica predominio visceral - plicatura do reto esta contraindicada.",
-    "how_to_identify": "Palpacao firme e profunda, nao pincavel; diferencia da subcutanea macia e depressivel.",
+    "clinical_hook": "Abdome que permanece convexo em decúbito dorsal indica predomínio visceral - plicatura do reto está contraindicada.",
+    "how_to_identify": "Palpação firme e profunda, não pinçável; diferencia da subcutânea macia e depressível.",
     "citations": ["Neligan 2023, vol. 2, cap. 27 - Matarasso"],
     "updates": [],
     "tags": ["anatomia", "gordura-visceral", "contraindicacao", "plicatura", "avaliacao"]
