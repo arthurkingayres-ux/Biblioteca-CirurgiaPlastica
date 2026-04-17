@@ -1,17 +1,17 @@
 {
   "id": "img-pubic-mound-001",
   "file": "contorno-pos-bariatrico/cpb-anat-monte-pubico-marcacao.png",
-  "subject": "Monte pubico pos-bariatrico — marcacao cirurgica e limites de resseccao",
+  "subject": "Monte púbico pós-bariátrico — marcação cirúrgica e limites de ressecção",
   "role": "surgical",
   "source": "Neligan 2023, vol. 2, cap. 38",
   "credit": "Adaptado de Neligan 2023, vol. 2, cap. 38",
-  "default_caption": "Marcacao cirurgica do monte pubico: linha mediana vertical, limite inferior de resseccao e palpacao da sinfise pubica para planejamento da plicatura da fascia de Scarpa.",
+  "default_caption": "Marcação cirúrgica do monte púbico: linha mediana vertical, limite inferior de ressecção e palpação da sínfise púbica para planejamento da plicatura da fáscia de Scarpa.",
   "labels": [
-    { "num": 1, "text": "Linha mediana vertical — referencia central para simetria da marcacao." },
-    { "num": 2, "text": "Linha horizontal inferior — limite de resseccao cutanea suprapubica." },
-    { "num": 3, "text": "Monte pubico — eminencia adipocutanea sobre a sinfise pubica; alvo da plicatura de Scarpa." },
-    { "num": 4, "text": "Sinfise pubica — ponto de ancoragem da sutura suspensora da fascia de Scarpa." },
-    { "num": 5, "text": "Instrumento de marcacao — delimitacao intraoperatoria do segmento a resseccionar." }
+    { "num": 1, "text": "Linha mediana vertical — referência central para simetria da marcação." },
+    { "num": 2, "text": "Linha horizontal inferior — limite de ressecção cutânea suprapúbica." },
+    { "num": 3, "text": "Monte púbico — eminência adipocutânea sobre a sínfise púbica; alvo da plicatura de Scarpa." },
+    { "num": 4, "text": "Sínfise púbica — ponto de ancoragem da sutura suspensora da fáscia de Scarpa." },
+    { "num": 5, "text": "Instrumento de marcação — delimitação intraoperatória do segmento a ressecionar." }
   ],
   "applicable_topics": ["contorno-pos-bariatrico"],
   "status": "available"
