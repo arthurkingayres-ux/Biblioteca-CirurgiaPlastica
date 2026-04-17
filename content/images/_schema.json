@@ -1,0 +1,37 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "biblioteca-cirurgia-plastica/image-library-schema",
+  "title": "Image Library Entry",
+  "description": "One JSON per image — first-class asset referenced from atomic cards",
+  "type": "object",
+  "required": ["id", "file", "subject", "role", "source", "credit", "default_caption", "applicable_topics", "status"],
+  "additionalProperties": false,
+  "properties": {
+    "id": { "type": "string", "pattern": "^img-[a-z0-9-]+-[0-9]{3}$" },
+    "file": { "type": "string", "pattern": "^[a-z0-9-]+/[a-z0-9._-]+\\.(png|jpg|jpeg|webp|svg)$" },
+    "subject": { "type": "string", "minLength": 4 },
+    "role": { "enum": ["overview", "detail", "surgical", "variation", "schematic"] },
+    "source": { "type": "string", "minLength": 4 },
+    "credit": { "type": "string", "minLength": 4 },
+    "default_caption": { "type": "string", "minLength": 4, "maxLength": 200 },
+    "labels": {
+      "type": "array",
+      "default": [],
+      "items": {
+        "type": "object",
+        "required": ["num", "text"],
+        "additionalProperties": false,
+        "properties": {
+          "num": { "type": "integer", "minimum": 1, "maximum": 99 },
+          "text": { "type": "string", "minLength": 2, "maxLength": 200 }
+        }
+      }
+    },
+    "applicable_topics": {
+      "type": "array",
+      "items": { "type": "string" },
+      "minItems": 1
+    },
+    "status": { "enum": ["available", "placeholder"] }
+  }
+}

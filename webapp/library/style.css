@@ -840,3 +840,97 @@ body {
     transition-duration: 1ms !important;
   }
 }
+
+/* === Anatomy v2 primitives === */
+.lead-line {
+  font-size: 1.05rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: var(--text);
+  margin: 0.5rem 0 0.25rem;
+}
+.chips-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+  margin: 0.5rem 0;
+}
+.chip {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 0.35rem;
+  background: var(--chip-bg, #eef4ff);
+  color: var(--chip-fg, #1d4ed8);
+  border: 1px solid var(--chip-border, #bfdbfe);
+  font-size: 0.8rem;
+  font-weight: 600;
+  padding: 0.15rem 0.55rem;
+  border-radius: 999px;
+}
+.chip .chip-value { font-weight: 700; }
+.chip .chip-note { color: var(--muted, #64748b); font-weight: 500; font-size: 0.72rem; }
+[data-theme="dark"] .chip {
+  background: rgba(59, 130, 246, 0.15);
+  color: #bfdbfe;
+  border-color: rgba(59, 130, 246, 0.35);
+}
+.struct-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.9rem;
+  margin-top: 0.35rem;
+}
+.struct-table td {
+  padding: 0.3rem 0.5rem;
+  border-bottom: 1px solid var(--divider, #e5e7eb);
+  vertical-align: top;
+}
+.struct-table td:first-child {
+  font-weight: 700;
+  width: 30%;
+  white-space: nowrap;
+}
+.struct-table tr:last-child td { border-bottom: none; }
+.hook-box {
+  background: var(--hook-bg, #fef2f2);
+  border-left: 4px solid var(--hook-border, #dc2626);
+  padding: 0.65rem 0.85rem;
+  border-radius: 0.35rem;
+  margin-top: 0.75rem;
+}
+.hook-label {
+  font-size: 0.7rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--hook-label, #991b1b);
+  font-weight: 700;
+  margin-bottom: 0.2rem;
+}
+[data-theme="dark"] .hook-box {
+  background: rgba(220, 38, 38, 0.12);
+  border-left-color: #ef4444;
+}
+[data-theme="dark"] .hook-label { color: #fca5a5; }
+.card-figure .fig-legend {
+  background: var(--legend-bg, #f5f9ff);
+  border-left: 3px solid var(--legend-border, #0891b2);
+  padding: 0.55rem 0.75rem;
+  margin-top: 0.5rem;
+  font-size: 0.8rem;
+  line-height: 1.5;
+}
+.card-figure .fig-legend .legend-item { display: block; margin: 0.15rem 0; }
+.card-figure .fig-legend .legend-num {
+  display: inline-block;
+  width: 1.1rem; height: 1.1rem;
+  border-radius: 50%;
+  background: #111; color: #fff;
+  text-align: center; font-weight: 700; font-size: 0.7rem;
+  line-height: 1.1rem;
+  margin-right: 0.35rem;
+  vertical-align: middle;
+}
+[data-theme="dark"] .card-figure .fig-legend {
+  background: rgba(8, 145, 178, 0.12);
+  border-left-color: #22d3ee;
+}

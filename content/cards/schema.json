@@ -41,6 +41,12 @@
       }
     },
     "anatomy": {
+      "oneOf": [
+        { "$ref": "#/$defs/anatomy_legacy" },
+        { "$ref": "#/$defs/anatomy_v2" }
+      ]
+    },
+    "anatomy_legacy": {
       "type": "object",
       "required": ["id", "type", "title", "topic", "area", "definition", "location", "citations", "tags"],
       "additionalProperties": false,
@@ -67,6 +73,67 @@
               "file":    { "type": "string", "pattern": "^[a-z0-9._-]+\\.(jpg|jpeg|png|webp|svg)$" },
               "caption": { "type": "string", "minLength": 4 },
               "credit":  { "type": "string", "minLength": 4 }
+            }
+          }
+        },
+        "citations": { "type": "array", "items": { "type": "string" }, "minItems": 1 },
+        "updates": { "type": "array", "items": { "$ref": "#/$defs/update" }, "default": [] },
+        "tags": { "type": "array", "items": { "type": "string" }, "minItems": 1 }
+      }
+    },
+    "anatomy_v2": {
+      "type": "object",
+      "required": ["id", "type", "title", "topic", "area", "one_liner", "clinical_hook", "citations", "tags"],
+      "additionalProperties": false,
+      "properties": {
+        "id": { "type": "string", "pattern": "^[a-z]+-anat-" },
+        "type": { "const": "anatomy" },
+        "title": { "type": "string", "maxLength": 60 },
+        "aliases": { "type": "array", "items": { "type": "string", "maxLength": 60 }, "default": [] },
+        "topic": { "type": "string" },
+        "area": { "type": "string" },
+        "one_liner": { "type": "string", "maxLength": 160 },
+        "structures": {
+          "type": "array",
+          "default": [],
+          "items": {
+            "type": "object",
+            "required": ["label", "description"],
+            "additionalProperties": false,
+            "properties": {
+              "label": { "type": "string", "maxLength": 60 },
+              "description": { "type": "string", "maxLength": 80 }
+            }
+          }
+        },
+        "numbers": {
+          "type": "array",
+          "default": [],
+          "items": {
+            "type": "object",
+            "required": ["label", "value"],
+            "additionalProperties": false,
+            "properties": {
+              "label": { "type": "string", "maxLength": 40 },
+              "value": { "type": "string", "maxLength": 30 },
+              "note": { "type": "string", "maxLength": 60 }
+            }
+          }
+        },
+        "relations": { "type": "array", "items": { "type": "string", "maxLength": 80 }, "default": [] },
+        "location": { "type": "string", "maxLength": 200 },
+        "clinical_hook": { "type": "string", "maxLength": 200 },
+        "how_to_identify": { "type": "string", "maxLength": 150 },
+        "images": {
+          "type": "array",
+          "default": [],
+          "items": {
+            "type": "object",
+            "required": ["ref"],
+            "additionalProperties": false,
+            "properties": {
+              "ref": { "type": "string", "pattern": "^img-[a-z0-9-]+-[0-9]{3}$" },
+              "caption_override": { "type": "string", "minLength": 4, "maxLength": 200 }
             }
           }
         },
