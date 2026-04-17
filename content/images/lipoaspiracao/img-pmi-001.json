@@ -1,0 +1,16 @@
+{
+  "id": "img-pmi-001",
+  "file": "lipoaspiracao/lipo-anat-pmi.png",
+  "subject": "PMI (Point of Maximum Indentation) como âncora das marcações em lipoescultura",
+  "role": "schematic",
+  "source": "Hoyos & Millard, High Definition Body Sculpting, 2014, cap. 2",
+  "credit": "Adaptado de Hoyos & Millard, HDBS, 2014, cap. 2",
+  "default_caption": "PMI — ponto mais côncavo da silhueta lateral. Feminino: cintura. Masculino: linha paralumbar. Âncora das demais marcações.",
+  "labels": [
+    { "num": 1, "text": "PMI feminino — ponto mais côncavo da cintura lateral." },
+    { "num": 2, "text": "PMI masculino — linha paralumbar, mais baixa e vertical." },
+    { "num": 3, "text": "A partir do PMI desenham-se as linhas paralumbares e o grid das marcações." }
+  ],
+  "applicable_topics": ["lipoaspiracao"],
+  "status": "available"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "img-sfs-layers-001",
+  "file": "lipoaspiracao/lipo-anat-sfs-camadas.png",
+  "subject": "modelo Lockwood-Markman — camadas adiposas e fáscia membranosa superficial",
+  "role": "detail",
+  "source": "Neligan 2023, vol. 2, cap. 24; Grabb & Smith 2024, cap. 75",
+  "credit": "Adaptado de Neligan 2023, vol. 2, cap. 24",
+  "default_caption": "Corte esquemático das camadas: derme, SAT (preservar), fáscia membranosa (Scarpa/Camper/Colles), DAT (alvo da SAL) e fáscia muscular.",
+  "labels": [
+    { "num": 1, "text": "Epiderme e derme." },
+    { "num": 2, "text": "SAT (superficial adipose tissue) — lóbulos pequenos e septos verticais densos; preservar > 1 cm da derme para evitar irregularidades." },
+    { "num": 3, "text": "Fáscia membranosa — Scarpa (abdome), Camper (coxa), Colles (períneo); preservá-la reduz seroma e ptose." },
+    { "num": 4, "text": "DAT (deep adipose tissue) — lóbulos maiores, septos horizontais frouxos; alvo primário da SAL tradicional." },
+    { "num": 5, "text": "Fáscia muscular — limite profundo; aspiração abaixo dela é contraindicada." }
+  ],
+  "applicable_topics": ["lipoaspiracao", "abdominoplastia"],
+  "status": "available"
+}

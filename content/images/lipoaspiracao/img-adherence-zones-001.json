@@ -1,0 +1,18 @@
+{
+  "id": "img-adherence-zones-001",
+  "file": "lipoaspiracao/lipo-anat-zonas-aderencia-rohrich.png",
+  "subject": "cinco zonas de aderência de Rohrich na região glúteo-femoral",
+  "role": "overview",
+  "source": "Rohrich, em Neligan 2023, vol. 2, cap. 24",
+  "credit": "Adaptado de Neligan 2023, vol. 2, cap. 24",
+  "default_caption": "Vista posterior: cinco zonas onde a fáscia subcutânea adere à fáscia muscular. Aspiração agressiva gera ptose iatrogênica (ex.: banana roll).",
+  "labels": [
+    { "num": 1, "text": "Depressão glútea lateral (região trocantérica) — âncora da projeção glútea lateral." },
+    { "num": 2, "text": "Sulco glúteo — separa glúteo da coxa; destruí-lo cria o banana roll infraglúteo." },
+    { "num": 3, "text": "Terço distal posterior da coxa — aderência suprapoplítea." },
+    { "num": 4, "text": "Face medial da coxa — aderência inguino-crural." },
+    { "num": 5, "text": "Trato iliotibial inferolateral — aderência à banda iliotibial." }
+  ],
+  "applicable_topics": ["lipoaspiracao", "gluteoplastia", "contorno-pos-bariatrico"],
+  "status": "available"
+}

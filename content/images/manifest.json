@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-04-17T17:09:47Z",
-  "count": 5,
+  "generatedAt": "2026-04-17T21:23:40Z",
+  "count": 9,
   "entries": [
     {
       "id": "img-abdominal-layers-001",
       "file": "abdominoplastia/abdo-anat-camadas-histologia.jpg",
-      "subject": "camadas histologicas da parede abdominal anterior (Scarpa)",
+      "subject": "camadas histológicas da parede abdominal anterior (Scarpa)",
       "role": "detail",
       "source": "Neligan 2023, vol. 2, cap. 27 - Matarasso (Abdominoplasty)",
       "credit": "Adaptado de Neligan 2023, vol. 2, cap. 27 - Matarasso",
-      "default_caption": "Histologia (a, c) e dissecacao macroscopica (b) da parede abdominal: a fascia de Scarpa (SF) e a camada membranosa entre as duas gorduras subcutaneas.",
+      "default_caption": "Histologia (a, c) e dissecção macroscópica (b) da parede abdominal: a fáscia de Scarpa (SF) é a camada membranosa entre as duas gorduras subcutâneas.",
       "labels": [
         {
           "num": 1,
@@ -21,15 +21,15 @@
         },
         {
           "num": 3,
-          "text": "SAT (superficial adipose tissue) - gordura subcutanea superficial."
+          "text": "SAT (superficial adipose tissue) - gordura subcutânea superficial."
         },
         {
           "num": 4,
-          "text": "SF (superficial fascia) - fascia membranosa superficial, a fascia de Scarpa."
+          "text": "SF (superficial fascia) - fáscia membranosa superficial, a fáscia de Scarpa."
         },
         {
           "num": 5,
-          "text": "DAT (deep adipose tissue) - gordura subcutanea profunda (subscarpal)."
+          "text": "DAT (deep adipose tissue) - gordura subcutânea profunda (subscarpal)."
         }
       ],
       "applicable_topics": [
@@ -38,17 +38,54 @@
       "status": "available"
     },
     {
-      "id": "img-aesthetic-subunits-001",
-      "file": "abdominoplastia/abdo-anat-unidades-esteticas.jpg",
-      "subject": "unidades esteticas do abdome feminino (Matarasso)",
-      "role": "schematic",
-      "source": "Neligan 2023, vol. 2, cap. 27 - Matarasso (Abdominoplasty)",
-      "credit": "Adaptado de Neligan 2023, vol. 2, cap. 27 - Matarasso",
-      "default_caption": "Unidades esteticas do abdome feminino relevantes ao planejamento conjunto de abdominoplastia e lipoaspiracao.",
+      "id": "img-adherence-zones-001",
+      "file": "lipoaspiracao/lipo-anat-zonas-aderencia-rohrich.png",
+      "subject": "cinco zonas de aderência de Rohrich na região glúteo-femoral",
+      "role": "overview",
+      "source": "Rohrich, em Neligan 2023, vol. 2, cap. 24",
+      "credit": "Adaptado de Neligan 2023, vol. 2, cap. 24",
+      "default_caption": "Vista posterior: cinco zonas onde a fáscia subcutânea adere à fáscia muscular. Aspiração agressiva gera ptose iatrogênica (ex.: banana roll).",
       "labels": [
         {
           "num": 1,
-          "text": "Abdome superior central (epigastrio)."
+          "text": "Depressão glútea lateral (região trocantérica) — âncora da projeção glútea lateral."
+        },
+        {
+          "num": 2,
+          "text": "Sulco glúteo — separa glúteo da coxa; destruí-lo cria o banana roll infraglúteo."
+        },
+        {
+          "num": 3,
+          "text": "Terço distal posterior da coxa — aderência suprapoplítea."
+        },
+        {
+          "num": 4,
+          "text": "Face medial da coxa — aderência inguino-crural."
+        },
+        {
+          "num": 5,
+          "text": "Trato iliotibial inferolateral — aderência à banda iliotibial."
+        }
+      ],
+      "applicable_topics": [
+        "lipoaspiracao",
+        "gluteoplastia",
+        "contorno-pos-bariatrico"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-aesthetic-subunits-001",
+      "file": "abdominoplastia/abdo-anat-unidades-esteticas.jpg",
+      "subject": "unidades estéticas do abdome feminino (Matarasso)",
+      "role": "schematic",
+      "source": "Neligan 2023, vol. 2, cap. 27 - Matarasso (Abdominoplasty)",
+      "credit": "Adaptado de Neligan 2023, vol. 2, cap. 27 - Matarasso",
+      "default_caption": "Unidades estéticas do abdome feminino relevantes ao planejamento conjunto de abdominoplastia e lipoaspiração.",
+      "labels": [
+        {
+          "num": 1,
+          "text": "Abdome superior central (epigástrio)."
         },
         {
           "num": 2,
@@ -56,7 +93,7 @@
         },
         {
           "num": 3,
-          "text": "Abdome inferior (infraumbilical, area de ressecao)."
+          "text": "Abdome inferior (infraumbilical, área de ressecção)."
         },
         {
           "num": 4,
@@ -68,11 +105,11 @@
         },
         {
           "num": 6,
-          "text": "Zona (a) - transicao axilar para flanco."
+          "text": "Zona (a) - transição axilar para flanco."
         },
         {
           "num": 7,
-          "text": "Zona (b) - transicao flanco para coxa proximal."
+          "text": "Zona (b) - transição flanco para coxa proximal."
         }
       ],
       "applicable_topics": [
@@ -83,23 +120,23 @@
     {
       "id": "img-huger-zones-001",
       "file": "abdominoplastia/abdo-anat-huger-ilustracao.jpg",
-      "subject": "zonas de perfusao de Huger (I/II/III) da parede abdominal anterior",
+      "subject": "zonas de perfusão de Huger (I/II/III) da parede abdominal anterior",
       "role": "overview",
       "source": "Neligan 2023, vol. 2, cap. 27 - Matarasso (Abdominoplasty), baseado em Huger 1979",
       "credit": "Adaptado de Neligan 2023, vol. 2, cap. 27 - Matarasso",
-      "default_caption": "Tres zonas de perfusao da parede abdominal anterior (Huger, 1979); apos abdominoplastia, a Zona III sustenta o retalho.",
+      "default_caption": "Três zonas de perfusão da parede abdominal anterior (Huger, 1979); após abdominoplastia, a Zona III sustenta o retalho.",
       "labels": [
         {
           "num": 1,
-          "text": "Zona I (central) - DIEA (epigastrica inferior profunda) + SIEA (superficial); perfusao dominante no abdome nao operado, ligada na disseccao."
+          "text": "Zona I (central) - DIEA (epigástrica inferior profunda) + SIEA (superficial); perfusão dominante no abdome não operado, ligada na dissecção."
         },
         {
           "num": 2,
-          "text": "Zona II (inguinal) - SCIA (circunflexa iliaca superficial) + SIEA; territorio inferior, tambem comprometido."
+          "text": "Zona II (inguinal) - SCIA (circunflexa ilíaca superficial) + SIEA; território inferior, também comprometido."
         },
         {
           "num": 3,
-          "text": "Zona III (lateral) - intercostais, subcostais e lombares (perfurantes segmentares); passa a dominante apos abdominoplastia."
+          "text": "Zona III (lateral) - intercostais, subcostais e lombares (perfurantes segmentares); passa a dominante após abdominoplastia."
         }
       ],
       "applicable_topics": [
@@ -111,11 +148,11 @@
     {
       "id": "img-pdsea-preservation-001",
       "file": "abdominoplastia/abdo-anat-huger-perfuradores.jpg",
-      "subject": "preservacao da PDSEA (septocutanea subcostal paramediana) na abdominoplastia",
+      "subject": "preservação da PDSEA (septocutânea subcostal paramediana) na abdominoplastia",
       "role": "schematic",
       "source": "Neligan 2023, vol. 2, cap. 27 - Matarasso (Abdominoplasty)",
       "credit": "Adaptado de Neligan 2023, vol. 2, cap. 27 - Matarasso",
-      "default_caption": "Impacto da preservacao (verde) vs sacrificio (amarelo) da PDSEA sobre a perfusao residual do retalho em abdominoplastia.",
+      "default_caption": "Impacto da preservação (verde) vs sacrifício (amarelo) da PDSEA sobre a perfusão residual do retalho em abdominoplastia.",
       "labels": [
         {
           "num": 1,
@@ -123,19 +160,19 @@
         },
         {
           "num": 2,
-          "text": "Margem subcostal - referencia superior para localizar a PDSEA."
+          "text": "Margem subcostal - referência superior para localizar a PDSEA."
         },
         {
           "num": 3,
-          "text": "Zona verde - irrigacao preservada ao abdome se a PDSEA for poupada durante a disseccao."
+          "text": "Zona verde - irrigação preservada ao abdome se a PDSEA for poupada durante a dissecção."
         },
         {
           "num": 4,
-          "text": "Zona amarela - irrigacao remanescente apos abdominoplastia tradicional (PDSEA sacrificada)."
+          "text": "Zona amarela - irrigação remanescente após abdominoplastia tradicional (PDSEA sacrificada)."
         },
         {
           "num": 5,
-          "text": "Oval tracejada - area de ressecao dermocutanea planejada."
+          "text": "Oval tracejada - área de ressecção dermocutânea planejada."
         }
       ],
       "applicable_topics": [
@@ -144,36 +181,134 @@
       "status": "available"
     },
     {
-      "id": "img-scarpa-lymphatics-001",
-      "file": "abdominoplastia/abdo-anat-scarpa-linfaticos.jpg",
-      "subject": "fascia de Scarpa como substrato do plexo linfatico subdermico inferior",
-      "role": "detail",
-      "source": "Neligan 2023, vol. 2, cap. 27 - Matarasso (Abdominoplasty)",
-      "credit": "Adaptado de Neligan 2023, vol. 2, cap. 27 - Matarasso",
-      "default_caption": "Histologia (a) com linfaticos infraumbilicais corados por injeacao de latex e esquema (b) das camadas teciduais correspondentes.",
+      "id": "img-pmi-001",
+      "file": "lipoaspiracao/lipo-anat-pmi.png",
+      "subject": "PMI (Point of Maximum Indentation) como âncora das marcações em lipoescultura",
+      "role": "schematic",
+      "source": "Hoyos & Millard, High Definition Body Sculpting, 2014, cap. 2",
+      "credit": "Adaptado de Hoyos & Millard, HDBS, 2014, cap. 2",
+      "default_caption": "PMI — ponto mais côncavo da silhueta lateral. Feminino: cintura. Masculino: linha paralumbar. Âncora das demais marcações.",
       "labels": [
         {
           "num": 1,
-          "text": "Painel (a) - corte histologico infraumbilical; insets 50 um mostram linfaticos preservados na fascia de Scarpa."
+          "text": "PMI feminino — ponto mais côncavo da cintura lateral."
         },
         {
           "num": 2,
-          "text": "Painel (b) - esquema em camadas: rosa = gordura subcutanea superficial; amarelo = gordura profunda; verde-agua = plano sub-fascial."
+          "text": "PMI masculino — linha paralumbar, mais baixa e vertical."
         },
         {
           "num": 3,
-          "text": "Plexo linfatico superficial - acima da fascia de Scarpa."
-        },
-        {
-          "num": 4,
-          "text": "Fascia de Scarpa (membranosa) - substrato do plexo linfatico; preserva-la reduz seroma."
-        },
-        {
-          "num": 5,
-          "text": "Drenagem obliqua para linfonodos inguinais ipsilaterais."
+          "text": "A partir do PMI desenham-se as linhas paralumbares e o grid das marcações."
         }
       ],
       "applicable_topics": [
+        "lipoaspiracao"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-safety-zones-001",
+      "file": "lipoaspiracao/lipo-anat-zonas-seguranca.png",
+      "subject": "zonas de segurança e perigo na lipoaspiração — estruturas neurovasculares vulneráveis",
+      "role": "overview",
+      "source": "Rohrich & Beran, Grabb & Smith's Plastic Surgery, 8ª Ed., 2020",
+      "credit": "Adaptado de Rohrich & Beran, Grabb & Smith, 8ª Ed., 2020",
+      "default_caption": "Mapa de zonas de perigo: submentoniano (n. marginal), virilha (vasos femorais), face medial da coxa (v. safena magna) e abdome profundo (perfuração visceral).",
+      "labels": [
+        {
+          "num": 1,
+          "text": "Triângulo submentoniano — nervo marginal da mandíbula; manter cânula > 2 cm abaixo da borda mandibular."
+        },
+        {
+          "num": 2,
+          "text": "Região inguinal — artéria e veia femorais; pulsação palpável guia a distância segura."
+        },
+        {
+          "num": 3,
+          "text": "Face medial da coxa — v. safena magna e ramos do nervo safeno."
+        },
+        {
+          "num": 4,
+          "text": "Região glútea profunda — nervo ciático; cânula não deve ultrapassar a fáscia muscular."
+        },
+        {
+          "num": 5,
+          "text": "Abdome profundo — peritônio; perfuração visceral em pacientes com diástase ou hérnia."
+        }
+      ],
+      "applicable_topics": [
+        "lipoaspiracao"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-scarpa-lymphatics-001",
+      "file": "abdominoplastia/abdo-anat-scarpa-linfaticos.jpg",
+      "subject": "fáscia de Scarpa como substrato do plexo linfático subdérmico inferior",
+      "role": "detail",
+      "source": "Neligan 2023, vol. 2, cap. 27 - Matarasso (Abdominoplasty)",
+      "credit": "Adaptado de Neligan 2023, vol. 2, cap. 27 - Matarasso",
+      "default_caption": "Histologia (a) com linfáticos infraumbilicais corados por injeção de látex e esquema (b) das camadas teciduais correspondentes.",
+      "labels": [
+        {
+          "num": 1,
+          "text": "Painel (a) - corte histológico infraumbilical; insets 50 um mostram linfáticos preservados na fáscia de Scarpa."
+        },
+        {
+          "num": 2,
+          "text": "Painel (b) - esquema em camadas: rosa = gordura subcutânea superficial; amarelo = gordura profunda; verde-água = plano sub-fascial."
+        },
+        {
+          "num": 3,
+          "text": "Plexo linfático superficial - acima da fáscia de Scarpa."
+        },
+        {
+          "num": 4,
+          "text": "Fáscia de Scarpa (membranosa) - substrato do plexo linfático; preservá-la reduz seroma."
+        },
+        {
+          "num": 5,
+          "text": "Drenagem oblíqua para linfonodos inguinais ipsilaterais."
+        }
+      ],
+      "applicable_topics": [
+        "abdominoplastia"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-sfs-layers-001",
+      "file": "lipoaspiracao/lipo-anat-sfs-camadas.png",
+      "subject": "modelo Lockwood-Markman — camadas adiposas e fáscia membranosa superficial",
+      "role": "detail",
+      "source": "Neligan 2023, vol. 2, cap. 24; Grabb & Smith 2024, cap. 75",
+      "credit": "Adaptado de Neligan 2023, vol. 2, cap. 24",
+      "default_caption": "Corte esquemático das camadas: derme, SAT (preservar), fáscia membranosa (Scarpa/Camper/Colles), DAT (alvo da SAL) e fáscia muscular.",
+      "labels": [
+        {
+          "num": 1,
+          "text": "Epiderme e derme."
+        },
+        {
+          "num": 2,
+          "text": "SAT (superficial adipose tissue) — lóbulos pequenos e septos verticais densos; preservar > 1 cm da derme para evitar irregularidades."
+        },
+        {
+          "num": 3,
+          "text": "Fáscia membranosa — Scarpa (abdome), Camper (coxa), Colles (períneo); preservá-la reduz seroma e ptose."
+        },
+        {
+          "num": 4,
+          "text": "DAT (deep adipose tissue) — lóbulos maiores, septos horizontais frouxos; alvo primário da SAL tradicional."
+        },
+        {
+          "num": 5,
+          "text": "Fáscia muscular — limite profundo; aspiração abaixo dela é contraindicada."
+        }
+      ],
+      "applicable_topics": [
+        "lipoaspiracao",
         "abdominoplastia"
       ],
       "status": "available"
