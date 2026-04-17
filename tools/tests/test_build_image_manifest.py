@@ -73,3 +73,13 @@ def test_entries_sorted_and_infrastructure_skipped(tmp_path):
     ids = [e["id"] for e in manifest["entries"]]
     assert ids == ["img-a-001", "img-b-001"]
     assert manifest["count"] == 2
+
+
+def test_malformed_json_is_reported(tmp_path):
+    images_root = tmp_path / "content" / "images"
+    tema_dir = images_root / "abdominoplastia"
+    tema_dir.mkdir(parents=True)
+    (tema_dir / "img-broken.json").write_text("{not-json", encoding="utf-8")
+
+    with pytest.raises(ValueError, match="img-broken.json"):
+        build_image_manifest.build(images_root)
