@@ -1,0 +1,16 @@
+{
+  "id": "img-gluteal-muscles-layers-001",
+  "file": "gluteoplastia/glut-anat-musculos-camadas.png",
+  "subject": "três camadas musculares da região glútea — máximo, médio e mínimo",
+  "role": "overview",
+  "source": "Neligan 2023, vol. 2, cap. 28; Grabb & Smith 2024, cap. 77",
+  "credit": "Adaptado de Neligan 2023, vol. 2, cap. 28",
+  "default_caption": "Camadas musculares em corte coronal: máximo (superficial), médio (intermediário) e mínimo (profundo, sobre a asa do íleo).",
+  "labels": [
+    { "num": 1, "text": "Glúteo máximo — camada superficial; inervação pelo nervo glúteo inferior; extensor e rotador lateral do quadril." },
+    { "num": 2, "text": "Glúteo médio — camada intermediária; abdutor principal do quadril; inervação pelo nervo glúteo superior." },
+    { "num": 3, "text": "Glúteo mínimo — camada profunda, sobre a asa do íleo; abdutor e rotador interno; inervação pelo nervo glúteo superior." }
+  ],
+  "applicable_topics": ["gluteoplastia"],
+  "status": "available"
+}

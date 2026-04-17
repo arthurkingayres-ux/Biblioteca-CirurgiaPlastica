@@ -1,0 +1,17 @@
+{
+  "id": "img-gluteus-maximus-001",
+  "file": "gluteoplastia/glut-anat-gluteo-maximo.png",
+  "subject": "glúteo máximo — origem, inserção e relações com o trato iliotibial",
+  "role": "detail",
+  "source": "Neligan 2023, vol. 2, cap. 28; Hoyos & Prendergast, HDBS",
+  "credit": "Adaptado de Neligan 2023, vol. 2, cap. 28",
+  "default_caption": "Glúteo máximo — maior e mais superficial; origem na fáscia glútea, crista ilíaca posterior, sacro e cóccix; inserção no trato iliotibial e linha glútea do fêmur.",
+  "labels": [
+    { "num": 1, "text": "Origem — fáscia glútea, crista ilíaca posterior, sacro e cóccix." },
+    { "num": 2, "text": "Inserção superior — trato iliotibial (75% das fibras)." },
+    { "num": 3, "text": "Inserção inferior — linha glútea do fêmur (25% das fibras)." },
+    { "num": 4, "text": "Inervação — nervo glúteo inferior (L5-S2); via forame infrapiriforme." }
+  ],
+  "applicable_topics": ["gluteoplastia"],
+  "status": "available"
+}

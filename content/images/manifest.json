@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-17T21:23:40Z",
-  "count": 9,
+  "generatedAt": "2026-04-17T21:25:44Z",
+  "count": 13,
   "entries": [
     {
       "id": "img-abdominal-layers-001",
@@ -118,6 +118,99 @@
       "status": "available"
     },
     {
+      "id": "img-gluteal-muscles-layers-001",
+      "file": "gluteoplastia/glut-anat-musculos-camadas.png",
+      "subject": "três camadas musculares da região glútea — máximo, médio e mínimo",
+      "role": "overview",
+      "source": "Neligan 2023, vol. 2, cap. 28; Grabb & Smith 2024, cap. 77",
+      "credit": "Adaptado de Neligan 2023, vol. 2, cap. 28",
+      "default_caption": "Camadas musculares em corte coronal: máximo (superficial), médio (intermediário) e mínimo (profundo, sobre a asa do íleo).",
+      "labels": [
+        {
+          "num": 1,
+          "text": "Glúteo máximo — camada superficial; inervação pelo nervo glúteo inferior; extensor e rotador lateral do quadril."
+        },
+        {
+          "num": 2,
+          "text": "Glúteo médio — camada intermediária; abdutor principal do quadril; inervação pelo nervo glúteo superior."
+        },
+        {
+          "num": 3,
+          "text": "Glúteo mínimo — camada profunda, sobre a asa do íleo; abdutor e rotador interno; inervação pelo nervo glúteo superior."
+        }
+      ],
+      "applicable_topics": [
+        "gluteoplastia"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-gluteal-neurovascular-001",
+      "file": "gluteoplastia/glut-anat-neurovascular.png",
+      "subject": "feixe neurovascular da região glútea — artérias, nervos e forames supra/infrapiriforme",
+      "role": "overview",
+      "source": "Neligan 2023, vol. 2, cap. 28; Multi-Society Task Force BBL 2018/2022",
+      "credit": "Adaptado de Neligan 2023, vol. 2, cap. 28",
+      "default_caption": "Emergência das estruturas neurovasculares pelos forames supra e infrapiriforme; zona de perigo intramuscular no BBL.",
+      "labels": [
+        {
+          "num": 1,
+          "text": "Forame suprapiriforme — passagem da artéria glútea superior e do nervo glúteo superior."
+        },
+        {
+          "num": 2,
+          "text": "Forame infrapiriforme — passagem da artéria glútea inferior, nervo glúteo inferior e nervo ciático."
+        },
+        {
+          "num": 3,
+          "text": "Artéria glútea superior — irriga porção superior; lesão cria sangramento em dissecção submuscular."
+        },
+        {
+          "num": 4,
+          "text": "Artéria glútea inferior — veia homônima é o principal sítio de embolia gordurosa no BBL intramuscular."
+        },
+        {
+          "num": 5,
+          "text": "Nervo ciático — desce entre trocânter maior e tuberosidade isquiática; risco de neuropraxia em implante submuscular."
+        }
+      ],
+      "applicable_topics": [
+        "gluteoplastia"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-gluteus-maximus-001",
+      "file": "gluteoplastia/glut-anat-gluteo-maximo.png",
+      "subject": "glúteo máximo — origem, inserção e relações com o trato iliotibial",
+      "role": "detail",
+      "source": "Neligan 2023, vol. 2, cap. 28; Hoyos & Prendergast, HDBS",
+      "credit": "Adaptado de Neligan 2023, vol. 2, cap. 28",
+      "default_caption": "Glúteo máximo — maior e mais superficial; origem na fáscia glútea, crista ilíaca posterior, sacro e cóccix; inserção no trato iliotibial e linha glútea do fêmur.",
+      "labels": [
+        {
+          "num": 1,
+          "text": "Origem — fáscia glútea, crista ilíaca posterior, sacro e cóccix."
+        },
+        {
+          "num": 2,
+          "text": "Inserção superior — trato iliotibial (75% das fibras)."
+        },
+        {
+          "num": 3,
+          "text": "Inserção inferior — linha glútea do fêmur (25% das fibras)."
+        },
+        {
+          "num": 4,
+          "text": "Inervação — nervo glúteo inferior (L5-S2); via forame infrapiriforme."
+        }
+      ],
+      "applicable_topics": [
+        "gluteoplastia"
+      ],
+      "status": "available"
+    },
+    {
       "id": "img-huger-zones-001",
       "file": "abdominoplastia/abdo-anat-huger-ilustracao.jpg",
       "subject": "zonas de perfusão de Huger (I/II/III) da parede abdominal anterior",
@@ -204,6 +297,38 @@
       ],
       "applicable_topics": [
         "lipoaspiracao"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-sacral-triangle-001",
+      "file": "gluteoplastia/glut-anat-pelve-ossea.png",
+      "subject": "triângulo sacral e landmarks ósseos da região glútea posterior",
+      "role": "overview",
+      "source": "Hoyos & Millard, HDBS, 2014, cap. 10",
+      "credit": "Adaptado de Hoyos & Millard, HDBS, 2014",
+      "default_caption": "V anatômico delimitado pelas EIPS (espinhas ilíacas póstero-superiores) bilaterais e pelo topo do sulco interglúteo — landmark de marcação HDBS.",
+      "labels": [
+        {
+          "num": 1,
+          "text": "EIPS direita — vértice superolateral do triângulo, identificável como covinha cutânea."
+        },
+        {
+          "num": 2,
+          "text": "EIPS esquerda — vértice superolateral contralateral."
+        },
+        {
+          "num": 3,
+          "text": "Topo do sulco interglúteo — vértice inferior do triângulo."
+        },
+        {
+          "num": 4,
+          "text": "Sacro — base óssea do triângulo; referência para lipoplastia do dorso inferior."
+        }
+      ],
+      "applicable_topics": [
+        "gluteoplastia",
+        "contorno-pos-bariatrico"
       ],
       "status": "available"
     },
