@@ -43,6 +43,18 @@ Desktop.ini
 
 # Screenshots de smoke test (gerados ad-hoc na raiz, nao vao pra master)
 /test-*.png
+/briefing.png
+/briefing_open.png
+/card_detail.png
+/card_detail2.png
+/card_viewport.png
+/chat.png
+/home.png
+/technique.png
+/technique_steps.png
+
+# Cache superpowers local
+.superpowers/
 
 # Worktrees isolados (superpowers:using-git-worktrees)
 .worktrees/
