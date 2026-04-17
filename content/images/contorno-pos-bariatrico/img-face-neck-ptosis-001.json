@@ -1,0 +1,18 @@
+{
+  "id": "img-face-neck-ptosis-001",
+  "file": "contorno-pos-bariatrico/cpb-anat-face-pescoco-ptose.png",
+  "subject": "face e pescoço pós-bariátricos — envelhecimento acelerado por deflação e flacidez",
+  "role": "overview",
+  "source": "Neligan 2023, vol. 2 (Aesthetic) — facelift/neck lift",
+  "credit": "Adaptado de Neligan 2023, vol. 2",
+  "default_caption": "Jowls, sulco nasolabial profundo, submento ptótico, ângulo cervicomental obtuso (> 120°) e deflação de compartimentos graxos profundos.",
+  "labels": [
+    { "num": 1, "text": "Jowls — ptose da gordura jugal abaixo da mandíbula." },
+    { "num": 2, "text": "Sulco nasolabial profundo — deflação do compartimento graxo malar." },
+    { "num": 3, "text": "Submento ptótico — flacidez do platisma e pele cervical." },
+    { "num": 4, "text": "Ângulo cervicomental obtuso (> 120°) — perda da definição da linha mandibular." },
+    { "num": 5, "text": "Bandas platismais visíveis — diástase anterior do platisma." }
+  ],
+  "applicable_topics": ["contorno-pos-bariatrico"],
+  "status": "available"
+}

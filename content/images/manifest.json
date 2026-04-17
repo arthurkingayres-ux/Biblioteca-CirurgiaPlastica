@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-04-17T17:09:47Z",
-  "count": 5,
+  "generatedAt": "2026-04-17T21:28:25Z",
+  "count": 20,
   "entries": [
     {
       "id": "img-abdominal-layers-001",
       "file": "abdominoplastia/abdo-anat-camadas-histologia.jpg",
-      "subject": "camadas histologicas da parede abdominal anterior (Scarpa)",
+      "subject": "camadas histológicas da parede abdominal anterior (Scarpa)",
       "role": "detail",
       "source": "Neligan 2023, vol. 2, cap. 27 - Matarasso (Abdominoplasty)",
       "credit": "Adaptado de Neligan 2023, vol. 2, cap. 27 - Matarasso",
-      "default_caption": "Histologia (a, c) e dissecacao macroscopica (b) da parede abdominal: a fascia de Scarpa (SF) e a camada membranosa entre as duas gorduras subcutaneas.",
+      "default_caption": "Histologia (a, c) e dissecção macroscópica (b) da parede abdominal: a fáscia de Scarpa (SF) é a camada membranosa entre as duas gorduras subcutâneas.",
       "labels": [
         {
           "num": 1,
@@ -21,15 +21,15 @@
         },
         {
           "num": 3,
-          "text": "SAT (superficial adipose tissue) - gordura subcutanea superficial."
+          "text": "SAT (superficial adipose tissue) - gordura subcutânea superficial."
         },
         {
           "num": 4,
-          "text": "SF (superficial fascia) - fascia membranosa superficial, a fascia de Scarpa."
+          "text": "SF (superficial fascia) - fáscia membranosa superficial, a fáscia de Scarpa."
         },
         {
           "num": 5,
-          "text": "DAT (deep adipose tissue) - gordura subcutanea profunda (subscarpal)."
+          "text": "DAT (deep adipose tissue) - gordura subcutânea profunda (subscarpal)."
         }
       ],
       "applicable_topics": [
@@ -38,17 +38,54 @@
       "status": "available"
     },
     {
-      "id": "img-aesthetic-subunits-001",
-      "file": "abdominoplastia/abdo-anat-unidades-esteticas.jpg",
-      "subject": "unidades esteticas do abdome feminino (Matarasso)",
-      "role": "schematic",
-      "source": "Neligan 2023, vol. 2, cap. 27 - Matarasso (Abdominoplasty)",
-      "credit": "Adaptado de Neligan 2023, vol. 2, cap. 27 - Matarasso",
-      "default_caption": "Unidades esteticas do abdome feminino relevantes ao planejamento conjunto de abdominoplastia e lipoaspiracao.",
+      "id": "img-adherence-zones-001",
+      "file": "lipoaspiracao/lipo-anat-zonas-aderencia-rohrich.png",
+      "subject": "cinco zonas de aderência de Rohrich na região glúteo-femoral",
+      "role": "overview",
+      "source": "Rohrich, em Neligan 2023, vol. 2, cap. 24",
+      "credit": "Adaptado de Neligan 2023, vol. 2, cap. 24",
+      "default_caption": "Vista posterior: cinco zonas onde a fáscia subcutânea adere à fáscia muscular. Aspiração agressiva gera ptose iatrogênica (ex.: banana roll).",
       "labels": [
         {
           "num": 1,
-          "text": "Abdome superior central (epigastrio)."
+          "text": "Depressão glútea lateral (região trocantérica) — âncora da projeção glútea lateral."
+        },
+        {
+          "num": 2,
+          "text": "Sulco glúteo — separa glúteo da coxa; destruí-lo cria o banana roll infraglúteo."
+        },
+        {
+          "num": 3,
+          "text": "Terço distal posterior da coxa — aderência suprapoplítea."
+        },
+        {
+          "num": 4,
+          "text": "Face medial da coxa — aderência inguino-crural."
+        },
+        {
+          "num": 5,
+          "text": "Trato iliotibial inferolateral — aderência à banda iliotibial."
+        }
+      ],
+      "applicable_topics": [
+        "lipoaspiracao",
+        "gluteoplastia",
+        "contorno-pos-bariatrico"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-aesthetic-subunits-001",
+      "file": "abdominoplastia/abdo-anat-unidades-esteticas.jpg",
+      "subject": "unidades estéticas do abdome feminino (Matarasso)",
+      "role": "schematic",
+      "source": "Neligan 2023, vol. 2, cap. 27 - Matarasso (Abdominoplasty)",
+      "credit": "Adaptado de Neligan 2023, vol. 2, cap. 27 - Matarasso",
+      "default_caption": "Unidades estéticas do abdome feminino relevantes ao planejamento conjunto de abdominoplastia e lipoaspiração.",
+      "labels": [
+        {
+          "num": 1,
+          "text": "Abdome superior central (epigástrio)."
         },
         {
           "num": 2,
@@ -56,7 +93,7 @@
         },
         {
           "num": 3,
-          "text": "Abdome inferior (infraumbilical, area de ressecao)."
+          "text": "Abdome inferior (infraumbilical, área de ressecção)."
         },
         {
           "num": 4,
@@ -68,11 +105,11 @@
         },
         {
           "num": 6,
-          "text": "Zona (a) - transicao axilar para flanco."
+          "text": "Zona (a) - transição axilar para flanco."
         },
         {
           "num": 7,
-          "text": "Zona (b) - transicao flanco para coxa proximal."
+          "text": "Zona (b) - transição flanco para coxa proximal."
         }
       ],
       "applicable_topics": [
@@ -81,25 +118,219 @@
       "status": "available"
     },
     {
-      "id": "img-huger-zones-001",
-      "file": "abdominoplastia/abdo-anat-huger-ilustracao.jpg",
-      "subject": "zonas de perfusao de Huger (I/II/III) da parede abdominal anterior",
-      "role": "overview",
-      "source": "Neligan 2023, vol. 2, cap. 27 - Matarasso (Abdominoplasty), baseado em Huger 1979",
-      "credit": "Adaptado de Neligan 2023, vol. 2, cap. 27 - Matarasso",
-      "default_caption": "Tres zonas de perfusao da parede abdominal anterior (Huger, 1979); apos abdominoplastia, a Zona III sustenta o retalho.",
+      "id": "img-arm-sagittal-001",
+      "file": "contorno-pos-bariatrico/cpb-anat-braco-sagital.png",
+      "subject": "corte sagital do terço médio do braço — relações neurovasculares do compartimento medial",
+      "role": "detail",
+      "source": "Neligan 2023, vol. 2, cap. 36, Fig. 36.8 — Luthringer/Shulzhenko/Capella",
+      "credit": "Adaptado de Neligan 2023, vol. 2, cap. 36",
+      "default_caption": "Relação entre bíceps, tríceps, úmero, veia basílica e nervo cutâneo medial do antebraço — plano supramuscular seguro para braquioplastia.",
       "labels": [
         {
           "num": 1,
-          "text": "Zona I (central) - DIEA (epigastrica inferior profunda) + SIEA (superficial); perfusao dominante no abdome nao operado, ligada na disseccao."
+          "text": "Pele e tecido subcutâneo — plano de dissecção supramuscular."
         },
         {
           "num": 2,
-          "text": "Zona II (inguinal) - SCIA (circunflexa iliaca superficial) + SIEA; territorio inferior, tambem comprometido."
+          "text": "Fáscia muscular — limite profundo; não ultrapassar evita lesão nervosa."
         },
         {
           "num": 3,
-          "text": "Zona III (lateral) - intercostais, subcostais e lombares (perfurantes segmentares); passa a dominante apos abdominoplastia."
+          "text": "Veia basílica — referência vascular superficial medial."
+        },
+        {
+          "num": 4,
+          "text": "Nervo cutâneo medial do antebraço — risco de parestesia transitória (10-30%) ou permanente (2-5%)."
+        },
+        {
+          "num": 5,
+          "text": "Úmero — estrutura óssea profunda."
+        }
+      ],
+      "applicable_topics": [
+        "contorno-pos-bariatrico"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-breast-ptosis-001",
+      "file": "contorno-pos-bariatrico/cpb-anat-mama-ptose-bariatrica.png",
+      "subject": "mama pós-bariátrica — ptose Regnault III com CAP abaixo do IMF",
+      "role": "overview",
+      "source": "Regnault, PRS 1976; Neligan 2023, vol. 5",
+      "credit": "Adaptado de Neligan 2023, vol. 5",
+      "default_caption": "Ptose Regnault III: CAP (complexo areolo-papilar) abaixo do IMF (sulco inframamário), esvaziamento do polo superior e pele redundante.",
+      "labels": [
+        {
+          "num": 1,
+          "text": "CAP (complexo areolo-papilar) — posicionado abaixo do IMF na ptose grau III."
+        },
+        {
+          "num": 2,
+          "text": "IMF (sulco inframamário) — referência de medida da ptose."
+        },
+        {
+          "num": 3,
+          "text": "Polo superior esvaziado — perda de plenitude; pseudoptose."
+        },
+        {
+          "num": 4,
+          "text": "Pele redundante — qualidade comprometida, pouca elasticidade."
+        }
+      ],
+      "applicable_topics": [
+        "contorno-pos-bariatrico"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-face-neck-ptosis-001",
+      "file": "contorno-pos-bariatrico/cpb-anat-face-pescoco-ptose.png",
+      "subject": "face e pescoço pós-bariátricos — envelhecimento acelerado por deflação e flacidez",
+      "role": "overview",
+      "source": "Neligan 2023, vol. 2 (Aesthetic) — facelift/neck lift",
+      "credit": "Adaptado de Neligan 2023, vol. 2",
+      "default_caption": "Jowls, sulco nasolabial profundo, submento ptótico, ângulo cervicomental obtuso (> 120°) e deflação de compartimentos graxos profundos.",
+      "labels": [
+        {
+          "num": 1,
+          "text": "Jowls — ptose da gordura jugal abaixo da mandíbula."
+        },
+        {
+          "num": 2,
+          "text": "Sulco nasolabial profundo — deflação do compartimento graxo malar."
+        },
+        {
+          "num": 3,
+          "text": "Submento ptótico — flacidez do platisma e pele cervical."
+        },
+        {
+          "num": 4,
+          "text": "Ângulo cervicomental obtuso (> 120°) — perda da definição da linha mandibular."
+        },
+        {
+          "num": 5,
+          "text": "Bandas platismais visíveis — diástase anterior do platisma."
+        }
+      ],
+      "applicable_topics": [
+        "contorno-pos-bariatrico"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-gluteal-muscles-layers-001",
+      "file": "gluteoplastia/glut-anat-musculos-camadas.png",
+      "subject": "três camadas musculares da região glútea — máximo, médio e mínimo",
+      "role": "overview",
+      "source": "Neligan 2023, vol. 2, cap. 28; Grabb & Smith 2024, cap. 77",
+      "credit": "Adaptado de Neligan 2023, vol. 2, cap. 28",
+      "default_caption": "Camadas musculares em corte coronal: máximo (superficial), médio (intermediário) e mínimo (profundo, sobre a asa do íleo).",
+      "labels": [
+        {
+          "num": 1,
+          "text": "Glúteo máximo — camada superficial; inervação pelo nervo glúteo inferior; extensor e rotador lateral do quadril."
+        },
+        {
+          "num": 2,
+          "text": "Glúteo médio — camada intermediária; abdutor principal do quadril; inervação pelo nervo glúteo superior."
+        },
+        {
+          "num": 3,
+          "text": "Glúteo mínimo — camada profunda, sobre a asa do íleo; abdutor e rotador interno; inervação pelo nervo glúteo superior."
+        }
+      ],
+      "applicable_topics": [
+        "gluteoplastia"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-gluteal-neurovascular-001",
+      "file": "gluteoplastia/glut-anat-neurovascular.png",
+      "subject": "feixe neurovascular da região glútea — artérias, nervos e forames supra/infrapiriforme",
+      "role": "overview",
+      "source": "Neligan 2023, vol. 2, cap. 28; Multi-Society Task Force BBL 2018/2022",
+      "credit": "Adaptado de Neligan 2023, vol. 2, cap. 28",
+      "default_caption": "Emergência das estruturas neurovasculares pelos forames supra e infrapiriforme; zona de perigo intramuscular no BBL.",
+      "labels": [
+        {
+          "num": 1,
+          "text": "Forame suprapiriforme — passagem da artéria glútea superior e do nervo glúteo superior."
+        },
+        {
+          "num": 2,
+          "text": "Forame infrapiriforme — passagem da artéria glútea inferior, nervo glúteo inferior e nervo ciático."
+        },
+        {
+          "num": 3,
+          "text": "Artéria glútea superior — irriga porção superior; lesão cria sangramento em dissecção submuscular."
+        },
+        {
+          "num": 4,
+          "text": "Artéria glútea inferior — veia homônima é o principal sítio de embolia gordurosa no BBL intramuscular."
+        },
+        {
+          "num": 5,
+          "text": "Nervo ciático — desce entre trocânter maior e tuberosidade isquiática; risco de neuropraxia em implante submuscular."
+        }
+      ],
+      "applicable_topics": [
+        "gluteoplastia"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-gluteus-maximus-001",
+      "file": "gluteoplastia/glut-anat-gluteo-maximo.png",
+      "subject": "glúteo máximo — origem, inserção e relações com o trato iliotibial",
+      "role": "detail",
+      "source": "Neligan 2023, vol. 2, cap. 28; Hoyos & Prendergast, HDBS",
+      "credit": "Adaptado de Neligan 2023, vol. 2, cap. 28",
+      "default_caption": "Glúteo máximo — maior e mais superficial; origem na fáscia glútea, crista ilíaca posterior, sacro e cóccix; inserção no trato iliotibial e linha glútea do fêmur.",
+      "labels": [
+        {
+          "num": 1,
+          "text": "Origem — fáscia glútea, crista ilíaca posterior, sacro e cóccix."
+        },
+        {
+          "num": 2,
+          "text": "Inserção superior — trato iliotibial (75% das fibras)."
+        },
+        {
+          "num": 3,
+          "text": "Inserção inferior — linha glútea do fêmur (25% das fibras)."
+        },
+        {
+          "num": 4,
+          "text": "Inervação — nervo glúteo inferior (L5-S2); via forame infrapiriforme."
+        }
+      ],
+      "applicable_topics": [
+        "gluteoplastia"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-huger-zones-001",
+      "file": "abdominoplastia/abdo-anat-huger-ilustracao.jpg",
+      "subject": "zonas de perfusão de Huger (I/II/III) da parede abdominal anterior",
+      "role": "overview",
+      "source": "Neligan 2023, vol. 2, cap. 27 - Matarasso (Abdominoplasty), baseado em Huger 1979",
+      "credit": "Adaptado de Neligan 2023, vol. 2, cap. 27 - Matarasso",
+      "default_caption": "Três zonas de perfusão da parede abdominal anterior (Huger, 1979); após abdominoplastia, a Zona III sustenta o retalho.",
+      "labels": [
+        {
+          "num": 1,
+          "text": "Zona I (central) - DIEA (epigástrica inferior profunda) + SIEA (superficial); perfusão dominante no abdome não operado, ligada na dissecção."
+        },
+        {
+          "num": 2,
+          "text": "Zona II (inguinal) - SCIA (circunflexa ilíaca superficial) + SIEA; território inferior, também comprometido."
+        },
+        {
+          "num": 3,
+          "text": "Zona III (lateral) - intercostais, subcostais e lombares (perfurantes segmentares); passa a dominante após abdominoplastia."
         }
       ],
       "applicable_topics": [
@@ -109,13 +340,44 @@
       "status": "available"
     },
     {
+      "id": "img-medial-thigh-001",
+      "file": "contorno-pos-bariatrico/cpb-anat-coxa-medial-marcacoes.png",
+      "subject": "marcação do lifting medial vertical da coxa pós-bariátrica",
+      "role": "surgical",
+      "source": "Neligan 2023, vol. 2, cap. 38, Fig. 38.12 — Toy/Rubin",
+      "credit": "Adaptado de Neligan 2023, vol. 2, cap. 38",
+      "default_caption": "Linha superior na prega inguinal 4 cm lateral à linha média do monte púbico; extensão vertical estimada por pinch test; fuso de ressecção desenhado até o joelho.",
+      "labels": [
+        {
+          "num": 1,
+          "text": "Linha superior — prega inguinal, 4 cm lateral à linha média do monte púbico."
+        },
+        {
+          "num": 2,
+          "text": "Extensão vertical — estimada por pinch test bilateral."
+        },
+        {
+          "num": 3,
+          "text": "Fuso de ressecção — face medial da coxa até o joelho."
+        },
+        {
+          "num": 4,
+          "text": "Fixação à fáscia de Colles/periósteo da sínfise — evita recorrência da ptose."
+        }
+      ],
+      "applicable_topics": [
+        "contorno-pos-bariatrico"
+      ],
+      "status": "available"
+    },
+    {
       "id": "img-pdsea-preservation-001",
       "file": "abdominoplastia/abdo-anat-huger-perfuradores.jpg",
-      "subject": "preservacao da PDSEA (septocutanea subcostal paramediana) na abdominoplastia",
+      "subject": "preservação da PDSEA (septocutânea subcostal paramediana) na abdominoplastia",
       "role": "schematic",
       "source": "Neligan 2023, vol. 2, cap. 27 - Matarasso (Abdominoplasty)",
       "credit": "Adaptado de Neligan 2023, vol. 2, cap. 27 - Matarasso",
-      "default_caption": "Impacto da preservacao (verde) vs sacrificio (amarelo) da PDSEA sobre a perfusao residual do retalho em abdominoplastia.",
+      "default_caption": "Impacto da preservação (verde) vs sacrifício (amarelo) da PDSEA sobre a perfusão residual do retalho em abdominoplastia.",
       "labels": [
         {
           "num": 1,
@@ -123,19 +385,19 @@
         },
         {
           "num": 2,
-          "text": "Margem subcostal - referencia superior para localizar a PDSEA."
+          "text": "Margem subcostal - referência superior para localizar a PDSEA."
         },
         {
           "num": 3,
-          "text": "Zona verde - irrigacao preservada ao abdome se a PDSEA for poupada durante a disseccao."
+          "text": "Zona verde - irrigação preservada ao abdome se a PDSEA for poupada durante a dissecção."
         },
         {
           "num": 4,
-          "text": "Zona amarela - irrigacao remanescente apos abdominoplastia tradicional (PDSEA sacrificada)."
+          "text": "Zona amarela - irrigação remanescente após abdominoplastia tradicional (PDSEA sacrificada)."
         },
         {
           "num": 5,
-          "text": "Oval tracejada - area de ressecao dermocutanea planejada."
+          "text": "Oval tracejada - área de ressecção dermocutânea planejada."
         }
       ],
       "applicable_topics": [
@@ -144,37 +406,262 @@
       "status": "available"
     },
     {
-      "id": "img-scarpa-lymphatics-001",
-      "file": "abdominoplastia/abdo-anat-scarpa-linfaticos.jpg",
-      "subject": "fascia de Scarpa como substrato do plexo linfatico subdermico inferior",
-      "role": "detail",
-      "source": "Neligan 2023, vol. 2, cap. 27 - Matarasso (Abdominoplasty)",
-      "credit": "Adaptado de Neligan 2023, vol. 2, cap. 27 - Matarasso",
-      "default_caption": "Histologia (a) com linfaticos infraumbilicais corados por injeacao de latex e esquema (b) das camadas teciduais correspondentes.",
+      "id": "img-pmi-001",
+      "file": "lipoaspiracao/lipo-anat-pmi.png",
+      "subject": "PMI (Point of Maximum Indentation) como âncora das marcações em lipoescultura",
+      "role": "schematic",
+      "source": "Hoyos & Millard, High Definition Body Sculpting, 2014, cap. 2",
+      "credit": "Adaptado de Hoyos & Millard, HDBS, 2014, cap. 2",
+      "default_caption": "PMI — ponto mais côncavo da silhueta lateral. Feminino: cintura. Masculino: linha paralumbar. Âncora das demais marcações.",
       "labels": [
         {
           "num": 1,
-          "text": "Painel (a) - corte histologico infraumbilical; insets 50 um mostram linfaticos preservados na fascia de Scarpa."
+          "text": "PMI feminino — ponto mais côncavo da cintura lateral."
         },
         {
           "num": 2,
-          "text": "Painel (b) - esquema em camadas: rosa = gordura subcutanea superficial; amarelo = gordura profunda; verde-agua = plano sub-fascial."
+          "text": "PMI masculino — linha paralumbar, mais baixa e vertical."
         },
         {
           "num": 3,
-          "text": "Plexo linfatico superficial - acima da fascia de Scarpa."
+          "text": "A partir do PMI desenham-se as linhas paralumbares e o grid das marcações."
+        }
+      ],
+      "applicable_topics": [
+        "lipoaspiracao"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-rectus-diastasis-001",
+      "file": "contorno-pos-bariatrico/cpb-anat-diastase-plicatura.png",
+      "subject": "diástase dos retos abdominais e plicatura em duplo plano",
+      "role": "detail",
+      "source": "Neligan 2023, vol. 2, cap. 31, Fig. 31.22 — Singh/Aly",
+      "credit": "Adaptado de Neligan 2023, vol. 2, cap. 31",
+      "default_caption": "Corte transverso: afastamento da linha alba entre retos e plicatura em duplo plano que restaura a tensão aponeurótica pós-bariátrica.",
+      "labels": [
+        {
+          "num": 1,
+          "text": "Músculos retos abdominais — afastados da linha média (diástase > 2 cm)."
+        },
+        {
+          "num": 2,
+          "text": "Linha alba alargada — alvo da plicatura."
+        },
+        {
+          "num": 3,
+          "text": "Plicatura fascial (plano superficial) — sutura absorvível 2-0 ou 0."
         },
         {
           "num": 4,
-          "text": "Fascia de Scarpa (membranosa) - substrato do plexo linfatico; preserva-la reduz seroma."
+          "text": "Plicatura muscular (plano profundo) — restaura tensão aponeurótica."
+        }
+      ],
+      "applicable_topics": [
+        "contorno-pos-bariatrico",
+        "abdominoplastia"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-sacral-triangle-001",
+      "file": "gluteoplastia/glut-anat-pelve-ossea.png",
+      "subject": "triângulo sacral e landmarks ósseos da região glútea posterior",
+      "role": "overview",
+      "source": "Hoyos & Millard, HDBS, 2014, cap. 10",
+      "credit": "Adaptado de Hoyos & Millard, HDBS, 2014",
+      "default_caption": "V anatômico delimitado pelas EIPS (espinhas ilíacas póstero-superiores) bilaterais e pelo topo do sulco interglúteo — landmark de marcação HDBS.",
+      "labels": [
+        {
+          "num": 1,
+          "text": "EIPS direita — vértice superolateral do triângulo, identificável como covinha cutânea."
+        },
+        {
+          "num": 2,
+          "text": "EIPS esquerda — vértice superolateral contralateral."
+        },
+        {
+          "num": 3,
+          "text": "Topo do sulco interglúteo — vértice inferior do triângulo."
+        },
+        {
+          "num": 4,
+          "text": "Sacro — base óssea do triângulo; referência para lipoplastia do dorso inferior."
+        }
+      ],
+      "applicable_topics": [
+        "gluteoplastia",
+        "contorno-pos-bariatrico"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-safety-zones-001",
+      "file": "lipoaspiracao/lipo-anat-zonas-seguranca.png",
+      "subject": "zonas de segurança e perigo na lipoaspiração — estruturas neurovasculares vulneráveis",
+      "role": "overview",
+      "source": "Rohrich & Beran, Grabb & Smith's Plastic Surgery, 8ª Ed., 2020",
+      "credit": "Adaptado de Rohrich & Beran, Grabb & Smith, 8ª Ed., 2020",
+      "default_caption": "Mapa de zonas de perigo: submentoniano (n. marginal), virilha (vasos femorais), face medial da coxa (v. safena magna) e abdome profundo (perfuração visceral).",
+      "labels": [
+        {
+          "num": 1,
+          "text": "Triângulo submentoniano — nervo marginal da mandíbula; manter cânula > 2 cm abaixo da borda mandibular."
+        },
+        {
+          "num": 2,
+          "text": "Região inguinal — artéria e veia femorais; pulsação palpável guia a distância segura."
+        },
+        {
+          "num": 3,
+          "text": "Face medial da coxa — v. safena magna e ramos do nervo safeno."
+        },
+        {
+          "num": 4,
+          "text": "Região glútea profunda — nervo ciático; cânula não deve ultrapassar a fáscia muscular."
         },
         {
           "num": 5,
-          "text": "Drenagem obliqua para linfonodos inguinais ipsilaterais."
+          "text": "Abdome profundo — peritônio; perfuração visceral em pacientes com diástase ou hérnia."
+        }
+      ],
+      "applicable_topics": [
+        "lipoaspiracao"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-scarpa-fat-compartment-001",
+      "file": "contorno-pos-bariatrico/cpb-anat-scarpa-compartimento-graxo.png",
+      "subject": "corte sagital — fáscia de Scarpa separando compartimento adiposo superficial e profundo",
+      "role": "detail",
+      "source": "Neligan 2023, vol. 2, cap. 32, Fig. 32.3 — Richter/Schwaiger",
+      "credit": "Adaptado de Neligan 2023, vol. 2, cap. 32",
+      "default_caption": "Fáscia de Scarpa separa a gordura superficial lobular da profunda; plano supraneural das perfurantes epigástricas preserva vasculatura e drenagem linfática.",
+      "labels": [
+        {
+          "num": 1,
+          "text": "Gordura superficial — lobular, septos verticais densos."
+        },
+        {
+          "num": 2,
+          "text": "Fáscia de Scarpa — membranosa; preservar reduz seroma e ptose."
+        },
+        {
+          "num": 3,
+          "text": "Gordura profunda (subscarpal) — lóbulos maiores."
+        },
+        {
+          "num": 4,
+          "text": "Perfurantes epigástricas inferiores — plano supraneural."
+        },
+        {
+          "num": 5,
+          "text": "Fáscia muscular (reto abdominal) — limite profundo da dissecção."
+        }
+      ],
+      "applicable_topics": [
+        "contorno-pos-bariatrico",
+        "abdominoplastia"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-scarpa-lymphatics-001",
+      "file": "abdominoplastia/abdo-anat-scarpa-linfaticos.jpg",
+      "subject": "fáscia de Scarpa como substrato do plexo linfático subdérmico inferior",
+      "role": "detail",
+      "source": "Neligan 2023, vol. 2, cap. 27 - Matarasso (Abdominoplasty)",
+      "credit": "Adaptado de Neligan 2023, vol. 2, cap. 27 - Matarasso",
+      "default_caption": "Histologia (a) com linfáticos infraumbilicais corados por injeção de látex e esquema (b) das camadas teciduais correspondentes.",
+      "labels": [
+        {
+          "num": 1,
+          "text": "Painel (a) - corte histológico infraumbilical; insets 50 um mostram linfáticos preservados na fáscia de Scarpa."
+        },
+        {
+          "num": 2,
+          "text": "Painel (b) - esquema em camadas: rosa = gordura subcutânea superficial; amarelo = gordura profunda; verde-água = plano sub-fascial."
+        },
+        {
+          "num": 3,
+          "text": "Plexo linfático superficial - acima da fáscia de Scarpa."
+        },
+        {
+          "num": 4,
+          "text": "Fáscia de Scarpa (membranosa) - substrato do plexo linfático; preservá-la reduz seroma."
+        },
+        {
+          "num": 5,
+          "text": "Drenagem oblíqua para linfonodos inguinais ipsilaterais."
         }
       ],
       "applicable_topics": [
         "abdominoplastia"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-sfs-layers-001",
+      "file": "lipoaspiracao/lipo-anat-sfs-camadas.png",
+      "subject": "modelo Lockwood-Markman — camadas adiposas e fáscia membranosa superficial",
+      "role": "detail",
+      "source": "Neligan 2023, vol. 2, cap. 24; Grabb & Smith 2024, cap. 75",
+      "credit": "Adaptado de Neligan 2023, vol. 2, cap. 24",
+      "default_caption": "Corte esquemático das camadas: derme, SAT (preservar), fáscia membranosa (Scarpa/Camper/Colles), DAT (alvo da SAL) e fáscia muscular.",
+      "labels": [
+        {
+          "num": 1,
+          "text": "Epiderme e derme."
+        },
+        {
+          "num": 2,
+          "text": "SAT (superficial adipose tissue) — lóbulos pequenos e septos verticais densos; preservar > 1 cm da derme para evitar irregularidades."
+        },
+        {
+          "num": 3,
+          "text": "Fáscia membranosa — Scarpa (abdome), Camper (coxa), Colles (períneo); preservá-la reduz seroma e ptose."
+        },
+        {
+          "num": 4,
+          "text": "DAT (deep adipose tissue) — lóbulos maiores, septos horizontais frouxos; alvo primário da SAL tradicional."
+        },
+        {
+          "num": 5,
+          "text": "Fáscia muscular — limite profundo; aspiração abaixo dela é contraindicada."
+        }
+      ],
+      "applicable_topics": [
+        "lipoaspiracao",
+        "abdominoplastia"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-trunk-adherence-zones-001",
+      "file": "contorno-pos-bariatrico/cpb-anat-zonas-aderencia-tronco.png",
+      "subject": "zonas de aderência do tronco no paciente pós-bariátrico — vetores de descenso inferomedial",
+      "role": "overview",
+      "source": "Neligan 2023, vol. 2, cap. 31, Fig. 31.1 — Singh/Aly, Belt lipectomy",
+      "credit": "Adaptado de Neligan 2023, vol. 2, cap. 31",
+      "default_caption": "Zonas de aderência do tronco e vetores de descenso inferomedial — determinam direção do puxamento e posicionamento das incisões do body lift.",
+      "labels": [
+        {
+          "num": 1,
+          "text": "Zonas de aderência do tronco — áreas onde a fáscia subcutânea adere à fáscia muscular."
+        },
+        {
+          "num": 2,
+          "text": "Vetores de descenso inferomedial — direção do deslocamento dos tecidos com envelhecimento e perda ponderal maciça."
+        },
+        {
+          "num": 3,
+          "text": "Posicionamento da incisão do belt lipectomy — perpendicular aos vetores de tração."
+        }
+      ],
+      "applicable_topics": [
+        "contorno-pos-bariatrico"
       ],
       "status": "available"
     }

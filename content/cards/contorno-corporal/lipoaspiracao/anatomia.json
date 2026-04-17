@@ -3,29 +3,21 @@
     "id": "lipo-anat-001",
     "type": "anatomy",
     "title": "PMI (Point of Maximum Indentation)",
-    "aliases": [
-      "ponto de máxima indentação"
-    ],
+    "aliases": ["ponto de máxima indentação"],
     "topic": "lipoaspiracao",
     "area": "contorno-corporal",
-    "definition": "Ponto mais côncavo da silhueta lateral feminina (cintura) ou da linha paralumbar masculina que serve como âncora para o desenho das demais marcações em lipoescultura",
-    "location": "Cintura (feminino) ou linha paralumbar (masculino)",
-    "relations": [
-      "linhas paralumbares",
-      "lipoescultura abdominal",
-      "marcações cirúrgicas"
+    "one_liner": "PMI (Point of Maximum Indentation): ponto mais côncavo da silhueta lateral; âncora de todas as marcações em lipoescultura.",
+    "structures": [
+      { "label": "PMI feminino", "description": "Ponto mais côncavo da cintura lateral." },
+      { "label": "PMI masculino", "description": "Linha paralumbar, mais baixa e vertical." }
     ],
-    "surgical_relevance": "Funciona como referência de ancoragem para orientar todas as demais marcações e desenhos pré-operatórios em procedimentos de lipoescultura",
-    "how_to_identify": "Identificado visualmente como o ponto mais côncavo da silhueta lateral do paciente, servindo como ponto de referência primário no planejamento cirúrgico",
+    "clinical_hook": "Marcar este ponto antes de qualquer outra linha garante que a lipoescultura respeite a silhueta natural do paciente.",
+    "how_to_identify": "Inspeção visual em ortostase; ponto mais côncavo da silhueta lateral do paciente despido.",
     "images": [
-      {
-        "file": "lipo-anat-pmi.png",
-        "caption": "PMI — Point of Maximum Indentation na silhueta feminina (cintura) e masculina (linha paralumbar). Ponto âncora para todas as marcações pré-operatórias em lipoescultura.",
-        "credit": "Diagrama esquemático — Hoyos & Millard, HDBS, 2014, cap. 2"
-      }
+      { "ref": "img-pmi-001" }
     ],
     "citations": [
-      "Hoyos & Millard, HDBS, 2014, cap.2"
+      "Hoyos & Millard, HDBS, 2014, cap. 2"
     ],
     "updates": [],
     "tags": [
@@ -43,27 +35,21 @@
     "aliases": [],
     "topic": "lipoaspiracao",
     "area": "contorno-corporal",
-    "definition": "Áreas de maior risco durante a lipoaspiração, onde estruturas neurovasculares são vulneráveis a lesões por cânulas mal posicionadas ou técnica inadequada.",
-    "location": "Triângulo submentoniano, região inguinal, região glútea, face medial da coxa, abdome",
-    "relations": [
-      "nervo marginal da mandíbula",
-      "veia jugular anterior",
-      "vasos femorais",
-      "nervo ciático",
-      "artéria femoral superficial",
-      "peritônio"
+    "one_liner": "Regiões onde estruturas neurovasculares ficam vulneráveis à cânula; conhecer landmarks evita complicações graves.",
+    "structures": [
+      { "label": "Triângulo submentoniano", "description": "Nervo marginal da mandíbula; manter cânula > 2 cm abaixo." },
+      { "label": "Região inguinal", "description": "Vasos femorais; pulsação palpável guia distância." },
+      { "label": "Face medial da coxa", "description": "Veia safena magna e ramos do nervo safeno." },
+      { "label": "Região glútea profunda", "description": "Nervo ciático; não ultrapassar fáscia muscular." },
+      { "label": "Abdome profundo", "description": "Peritônio; risco de perfuração visceral." }
     ],
-    "surgical_relevance": "O conhecimento dessas zonas é essencial para prevenção de complicações graves, incluindo lesão nervosa, hemorragia e perfuração visceral.",
-    "how_to_identify": "Landmarks anatômicos superficiais: borda mandibular (manter cânula > 2 cm abaixo), ligamento inguinal, sulco glúteo, trajeto da artéria femoral (pulsação palpável)",
+    "clinical_hook": "Lesão nervosa, hemorragia e perfuração visceral são as três complicações graves evitadas ao respeitar essas zonas.",
+    "how_to_identify": "Landmarks superficiais: borda mandibular, ligamento inguinal, sulco glúteo, trajeto da artéria femoral (pulsação palpável).",
     "images": [
-      {
-        "file": "lipo-anat-zonas-seguranca.png",
-        "caption": "Mapa de zonas de segurança e perigo: triângulo submentoniano (n. marginal da mandíbula), virilha (vasos femorais), face medial da coxa (v. safena magna) e abdome profundo (perfuração visceral). Vermelho = alto risco; laranja = risco moderado.",
-        "credit": "Diagrama esquemático — Rohrich & Beran, Grabb & Smith, 8ª Ed., 2020"
-      }
+      { "ref": "img-safety-zones-001" }
     ],
     "citations": [
-      "Rohrich & Beran, Grabb & Smith, 8a Ed., 2020"
+      "Rohrich & Beran, Grabb & Smith, 8ª Ed., 2020"
     ],
     "updates": [],
     "tags": [
@@ -78,36 +64,27 @@
   {
     "id": "lipo-anat-004",
     "type": "anatomy",
-    "title": "Sistema Fascial Superficial e Camadas Adiposas (Modelo de Lockwood-Markman)",
-    "aliases": [
-      "SFS",
-      "Modelo Lockwood-Markman"
-    ],
+    "title": "Sistema Fascial Superficial e Camadas Adiposas (Lockwood-Markman)",
+    "aliases": ["SFS", "Modelo Lockwood-Markman"],
     "topic": "lipoaspiracao",
     "area": "contorno-corporal",
-    "definition": "Organização do tecido adiposo subcutâneo em três camadas separadas pelo sistema fascial superficial: tecido adiposo superficial (SAT), fascia membranosa e tecido adiposo profundo (DAT)",
-    "location": "Subcutâneo em todo o corpo; fascia membranosa denomina-se Scarpa no abdome inferior, Colles no períneo e Camper na coxa",
-    "relations": [
-      "tecido adiposo superficial (SAT)",
-      "fascia membranosa",
-      "tecido adiposo profundo (DAT)",
-      "sistema fascial superficial",
-      "retinacula cutis",
-      "derme"
+    "one_liner": "Tecido adiposo subcutâneo em três camadas separadas pela fáscia membranosa: SAT (superficial adipose tissue), fáscia e DAT (deep adipose tissue).",
+    "structures": [
+      { "label": "Epiderme e derme", "description": "Limite superior; manter cânula > 1 cm da derme." },
+      { "label": "SAT (superficial adipose tissue)", "description": "Lóbulos pequenos, septos verticais densos." },
+      { "label": "Fáscia membranosa", "description": "Scarpa (abdome), Camper (coxa), Colles (períneo)." },
+      { "label": "DAT (deep adipose tissue)", "description": "Alvo primário da SAL (suction-assisted lipoplasty)." },
+      { "label": "Fáscia muscular", "description": "Limite profundo; aspiração abaixo é contraindicada." }
     ],
-    "surgical_relevance": "A preservação da fascia membranosa durante a lipoaspiração reduz seroma e ptose tardia. A aspiração inadvertida do SAT a menos de 1 cm da derme é o principal fator técnico de irregularidades visíveis e hiperpigmentação cicatricial. O DAT é o alvo primário da lipoaspiração tradicional",
-    "how_to_identify": "SAT identifica-se por lóbulos pequenos densamente compartimentados por septos verticais; DAT por lóbulos maiores com septos horizontais frouxos; fascia membranosa é um plano fibroso contínuo",
+    "clinical_hook": "Preservar a fáscia membranosa reduz seroma e ptose tardia; aspirar superficialmente < 1 cm da derme gera irregularidades visíveis irreversíveis.",
+    "how_to_identify": "Camada superficial: lóbulos pequenos com septos verticais. Camada profunda: lóbulos maiores, septos horizontais frouxos. Fáscia: plano fibroso contínuo esbranquiçado.",
     "images": [
-      {
-        "file": "lipo-anat-sfs-camadas.png",
-        "caption": "Modelo Lockwood-Markman em corte esquemático: epiderme, derme, tecido adiposo superficial (SAT — preservar, risco de irregularidades se < 1 cm da derme), fáscia membranosa (Scarpa/Camper/Colles — preservar, reduz seroma e ptose), tecido adiposo profundo (DAT — alvo primário da SAL) e fáscia muscular.",
-        "credit": "Diagrama esquemático — Neligan vol. 2, cap. 24; Grabb & Smith cap. 75"
-      }
+      { "ref": "img-sfs-layers-001" }
     ],
     "citations": [
-      "Neligan, 2023, vol.2, cap.24",
-      "Grabb & Smith, 2024, cap.75",
-      "Core Procedures, 2020, cap.8"
+      "Neligan 2023, vol. 2, cap. 24",
+      "Grabb & Smith 2024, cap. 75",
+      "Core Procedures 2020, cap. 8"
     ],
     "updates": [],
     "tags": [
@@ -126,27 +103,22 @@
     "aliases": [],
     "topic": "lipoaspiracao",
     "area": "contorno-corporal",
-    "definition": "áreas onde o sistema fascial subcutâneo adere firmemente à fáscia muscular subjacente, restringindo a mobilidade do envelope cutâneo e formando depressões anatômicas estéticas na transição com regiões móveis",
-    "location": "região glútea e coxa: depressão glútea lateral (região trocantérica), sulco glúteo, terço distal posterior da coxa, região mediomedial da coxa, trato iliotibial inferolateral",
-    "relations": [
-      "sistema fascial subcutâneo",
-      "fáscia muscular",
-      "envelope cutâneo",
-      "depressões anatômicas"
+    "one_liner": "Cinco áreas onde a fáscia subcutânea adere firmemente à fáscia muscular; aspiração agressiva gera ptose iatrogênica.",
+    "structures": [
+      { "label": "Depressão glútea lateral", "description": "Região trocantérica; âncora da projeção glútea lateral." },
+      { "label": "Sulco glúteo", "description": "Separa glúteo da coxa; destruição causa banana roll." },
+      { "label": "Terço distal posterior da coxa", "description": "Aderência suprapoplítea." },
+      { "label": "Face medial da coxa", "description": "Aderência inguino-crural." },
+      { "label": "Trato iliotibial inferolateral", "description": "Aderência à banda iliotibial." }
     ],
-    "surgical_relevance": "lipoaspiração agressiva sobre zonas de aderência destrói o ponto de fixação anatômico e gera ptose iatrogênica irreversível do tecido adjacente (exemplo: banana roll infraglúteo); recomenda-se preservação ou aspiração mínima dessas zonas",
-    "how_to_identify": "reconhecer as cinco zonas clássicas de Rohrich pela sua localização topográfica e pela aderência firme à fáscia muscular subjacente",
+    "clinical_hook": "Preservar ou aspirar minimamente as zonas de aderência; destruí-las causa ptose irreversível do tecido adjacente.",
+    "how_to_identify": "Palpação pré-operatória: aderência firme da pele à fáscia muscular nas cinco zonas clássicas de Rohrich.",
     "images": [
-      {
-        "file": "lipo-anat-zonas-aderencia-rohrich.png",
-        "caption": "Cinco zonas de aderência de Rohrich em vista posterior: (1) depressão glútea lateral/trocantérica, (2) sulco glúteo, (3) terço distal posterior da coxa, (4) face medial da coxa e (5) trato iliotibial inferolateral. Aspiração agressiva nestas zonas destrói o ponto de fixação e causa ptose iatrogênica (ex: banana roll infraglúteo).",
-        "credit": "Diagrama esquemático — Rohrich, Neligan vol. 2, cap. 24"
-      }
+      { "ref": "img-adherence-zones-001" }
     ],
     "citations": [
-      "Neligan, 2023, vol.2, cap.24",
-      "Core Procedures, 2020, cap.8",
-      "Neligan, 2023, vol.2, cap.24"
+      "Neligan 2023, vol. 2, cap. 24",
+      "Core Procedures 2020, cap. 8"
     ],
     "updates": [],
     "tags": [
@@ -156,7 +128,7 @@
       "contorno-corporal",
       "gluteo",
       "coxa",
-      "complicacoes-iatrognicas"
+      "complicacoes-iatrogenicas"
     ]
   }
 ]

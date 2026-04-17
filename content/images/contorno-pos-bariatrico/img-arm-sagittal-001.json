@@ -1,0 +1,18 @@
+{
+  "id": "img-arm-sagittal-001",
+  "file": "contorno-pos-bariatrico/cpb-anat-braco-sagital.png",
+  "subject": "corte sagital do terço médio do braço — relações neurovasculares do compartimento medial",
+  "role": "detail",
+  "source": "Neligan 2023, vol. 2, cap. 36, Fig. 36.8 — Luthringer/Shulzhenko/Capella",
+  "credit": "Adaptado de Neligan 2023, vol. 2, cap. 36",
+  "default_caption": "Relação entre bíceps, tríceps, úmero, veia basílica e nervo cutâneo medial do antebraço — plano supramuscular seguro para braquioplastia.",
+  "labels": [
+    { "num": 1, "text": "Pele e tecido subcutâneo — plano de dissecção supramuscular." },
+    { "num": 2, "text": "Fáscia muscular — limite profundo; não ultrapassar evita lesão nervosa." },
+    { "num": 3, "text": "Veia basílica — referência vascular superficial medial." },
+    { "num": 4, "text": "Nervo cutâneo medial do antebraço — risco de parestesia transitória (10-30%) ou permanente (2-5%)." },
+    { "num": 5, "text": "Úmero — estrutura óssea profunda." }
+  ],
+  "applicable_topics": ["contorno-pos-bariatrico"],
+  "status": "available"
+}

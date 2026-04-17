@@ -6,39 +6,23 @@
     "aliases": [],
     "topic": "contorno-pos-bariatrico",
     "area": "contorno-corporal",
-    "definition": "Estrutura musculoaponeurótica composta por retos abdominais, oblíquos e transverso do abdome, recoberta por pele com qualidade comprometida após perda maciça de peso",
-    "location": "Região anterior do tronco entre arco costal e pelve",
-    "relations": [
-      "Fáscia de Scarpa",
-      "Perfurantes epigástricas inferiores",
-      "Nervos intercostais",
-      "Ligamento de Cooper",
-      "Periósteo da sínfise púbica",
-      "Retos abdominais",
-      "Oblíquos abdominais",
-      "Transverso do abdome"
+    "one_liner": "Estrutura musculoaponeurótica com diástase severa dos retos e pele de qualidade comprometida após perda maciça de peso.",
+    "structures": [
+      { "label": "Retos abdominais", "description": "Afastados da linha alba; diástase frequentemente > 2 cm." },
+      { "label": "Oblíquos e transverso", "description": "Aponeurose lateral; fecham a bainha do reto." },
+      { "label": "Fáscia de Scarpa", "description": "Membranosa; substrato linfático subdérmico." },
+      { "label": "Perfurantes epigástricas inferiores", "description": "Plano supraneural; preservar na dissecção." },
+      { "label": "Umbigo", "description": "Reimplantado em neo-óstio pós-dermolipectomia." }
     ],
-    "surgical_relevance": "Diástase dos retos abdominais frequentemente severa (> 2 cm). Plicatura em duplo plano (fascial e muscular) com sutura absorvível 2-0 ou 0 é necessária. Dissecção em plano supramuscular até arco costal evitando lesão de nervos intercostais. Ligadura de ramos vasculares superficiais (circunflexa ilíaca superficial, pudenda externa, artérias do monte púbico)",
-    "how_to_identify": "Diástase palpável com paciente em posição supina realizando flexão cervical. Landmarks: espinha ilíaca anterossuperior (EIAS) bilateralmente, sínfise púbica, arco costal, umbigo",
+    "clinical_hook": "Plicatura em duplo plano com sutura absorvível 2-0 e dissecção supramuscular até arco costal evitando lesão dos nervos intercostais.",
+    "how_to_identify": "Diástase palpável em supino com flexão cervical; landmarks: EIAS (espinha ilíaca anterossuperior) bilaterais, sínfise púbica, arco costal, umbigo.",
     "images": [
-      {
-        "file": "cpb-anat-zonas-aderencia-tronco.png",
-        "caption": "Zonas de aderência do tronco no paciente pós-bariátrico. As setas indicam o vetor de descenso inferomedial dos tecidos com envelhecimento e perda ponderal maciça, determinando a direção do puxamento e o posicionamento das incisões do body lift.",
-        "credit": "Neligan's Plastic Surgery 5a Ed., 2023, vol. 2, cap. 31, Fig. 31.1 — Singh/Aly, Belt lipectomy."
-      },
-      {
-        "file": "cpb-anat-scarpa-compartimento-graxo.png",
-        "caption": "Corte sagital do abdome inferior mostrando a fáscia de Scarpa separando a gordura superficial lobular da gordura profunda, com o plano supraneural das perfurantes epigástricas. Plano-chave para dissecção abdominal preservando vasculatura e drenagem linfática.",
-        "credit": "Neligan's Plastic Surgery 5a Ed., 2023, vol. 2, cap. 32, Fig. 32.3 — Richter/Schwaiger, Circumferential lower lipo-bodylift."
-      },
-      {
-        "file": "cpb-anat-diastase-plicatura.png",
-        "caption": "Corte transverso da parede abdominal demonstrando a diástase dos músculos retos com afastamento da linha alba e a plicatura em duplo plano que restaura a tensão aponeurótica. Representa o alvo da sutura de aproximação no paciente pós-bariátrico.",
-        "credit": "Neligan's Plastic Surgery 5a Ed., 2023, vol. 2, cap. 31, Fig. 31.22 — Singh/Aly, Belt lipectomy."
-      }
+      { "ref": "img-trunk-adherence-zones-001" },
+      { "ref": "img-scarpa-fat-compartment-001" },
+      { "ref": "img-rectus-diastasis-001" }
     ],
     "citations": [
-      "Nahas, Neligan's Plastic Surgery, 5a Ed., 2023",
+      "Nahas, Neligan 2023, vol. 2",
       "Lockwood et al., PRS, 1994"
     ],
     "updates": [],
@@ -57,23 +41,15 @@
     "aliases": [],
     "topic": "contorno-pos-bariatrico",
     "area": "contorno-corporal",
-    "definition": "Eminência adipocutânea sobre a sínfise púbica",
-    "location": "Região suprapúbica, anterior à sínfise púbica",
-    "relations": [
-      "ramos sensitivos de T12 e L1",
-      "fáscia de Scarpa",
-      "periósteo da sínfise púbica",
-      "ligamento de Cooper"
+    "one_liner": "Eminência adipocutânea sobre a sínfise púbica; ptose importante é frequente no pós-bariátrico.",
+    "structures": [
+      { "label": "Monte púbico", "description": "Eminência adipocutânea suprapúbica." },
+      { "label": "Inervação", "description": "Ramos sensitivos de T12 e L1." },
+      { "label": "Ligamento de Cooper", "description": "Ancoragem retropúbica para sutura suspensora." }
     ],
-    "surgical_relevance": "Ptose importante do monte púbico frequente em pós-bariátricos resulta em aspecto estético desagradável mesmo após ressecção adequada do abdome. Técnicas de correção incluem ressecção conservadora de pele/gordura com preservação de sensibilidade, plicatura da fáscia de Scarpa com ancoragem ao periósteo da sínfise, e em casos graves sutura suspensora ao ligamento de Cooper. Evitar plicatura excessiva que leve à dispareunia ou disúria",
-    "how_to_identify": "Inspeção com paciente em posição ortostática; grau de ptose medido em relação à sínfise púbica",
-    "images": [
-      {
-        "file": "cpb-anat-monte-pubico-marcacao.png",
-        "caption": "Marcação horizontal do monte púbico no planejamento do belt lipectomy: linha suprapubiana traçada com o cirurgião estabilizando a região umbilical, estabelecendo a referência caudal da ressecção abdominal e o ponto de ancoragem para ressuspensão do monte pubiano à sínfise.",
-        "credit": "Neligan's Plastic Surgery 5a Ed., 2023, vol. 2, cap. 31, Fig. 31.16 — Singh/Aly, Belt lipectomy."
-      }
-    ],
+    "clinical_hook": "Ressecção conservadora com plicatura de Scarpa ancorada à sínfise corrige ptose; evitar plicatura excessiva que cause dispareunia ou disúria.",
+    "how_to_identify": "Inspeção em ortostase; grau de ptose medido em relação à sínfise púbica.",
+    "images": [],
     "citations": [
       "Lockwood et al., PRS, 1994",
       "Aly et al., PRS, 2003"
@@ -94,23 +70,17 @@
     "aliases": [],
     "topic": "contorno-pos-bariatrico",
     "area": "contorno-corporal",
-    "definition": "Região medial da coxa composta por pele, tecido subcutâneo e fáscia muscular sobre musculatura adutora",
-    "location": "Da fossa inguinal ao joelho, face medial",
-    "relations": [
-      "Fáscia do músculo adutor",
-      "Vasos e linfáticos inguinais",
-      "Ligamento de Scarpa",
-      "Periósteo da sínfise púbica",
-      "Linhas de Langer"
+    "one_liner": "Face medial da coxa com fáscia adutora e rede linfática inguinal; plano supramuscular preserva drenagem.",
+    "structures": [
+      { "label": "Fáscia do adutor", "description": "Limite profundo da dissecção supramuscular." },
+      { "label": "Linfáticos inguinais", "description": "Rede superficial; risco de linfedema 5–15%." },
+      { "label": "Ligamento de Scarpa", "description": "Ancoragem da ponta superior do retalho." },
+      { "label": "Periósteo da sínfise púbica", "description": "Ponto de fixação para evitar recorrência da ptose." }
     ],
-    "surgical_relevance": "Dissecção em plano supramuscular até fáscia do adutor preservando linfa e vasos. Fixação da ponta superior do retalho ao periósteo da sínfise púbica ou ligamento de Cooper para evitar recorrência de ptose. Ressecção de tecido adiposo pode prejudicar drenagem linfática com risco de linfedema entre 5-15%",
-    "how_to_identify": "Prega cutânea de redundância com paciente em ortostatismo; palpação da fossa inguinal e trocânter",
+    "clinical_hook": "Dissecção supramuscular até a fáscia do adutor preserva linfáticos; fixar retalho ao periósteo/Cooper evita recidiva da ptose.",
+    "how_to_identify": "Prega cutânea redundante em ortostase; palpação da fossa inguinal e do trocânter maior.",
     "images": [
-      {
-        "file": "cpb-anat-coxa-medial-marcacoes.png",
-        "caption": "Marcação do lifting medial vertical da coxa em decúbito dorsal: linha superior na prega inguinal 4 cm lateral à linha média do monte púbico, extensão vertical do componente estimada por pinch test bilateralmente, com fuso de ressecção desenhado ao longo de toda a face medial da coxa até o joelho.",
-        "credit": "Neligan's Plastic Surgery 5a Ed., 2023, vol. 2, cap. 38, Fig. 38.12 — Toy/Rubin, Post-bariatric reconstruction."
-      }
+      { "ref": "img-medial-thigh-001" }
     ],
     "citations": [
       "Aly et al., PRS, 2003",
@@ -133,26 +103,20 @@
     "aliases": [],
     "topic": "contorno-pos-bariatrico",
     "area": "contorno-corporal",
-    "definition": "Face medial do braço com pele, tecido subcutâneo e fáscia muscular sobre bíceps e tríceps.",
-    "location": "Da axila à fossa antecubital, face medial.",
-    "relations": [
-      "Nervo cutâneo medial do antebraço",
-      "Fáscia muscular",
-      "Veia basílica",
-      "Bíceps",
-      "Tríceps"
+    "one_liner": "Face medial do braço com fáscia muscular sobre bíceps e tríceps; plano supramuscular protege nervo cutâneo medial.",
+    "structures": [
+      { "label": "Fáscia muscular", "description": "Limite profundo; não ultrapassar." },
+      { "label": "Nervo cutâneo medial do antebraço", "description": "Risco de parestesia: transitória 10–30%, permanente 2–5%." },
+      { "label": "Veia basílica", "description": "Referência vascular superficial medial." },
+      { "label": "Bíceps e tríceps", "description": "Delimitam o sulco bicipital medial." }
     ],
-    "surgical_relevance": "Dissecção em plano supramuscular obrigatória — não descer além da fáscia para evitar lesão do nervo cutâneo medial do antebraço (parestesia transitória 10-30%, permanente 2-5%). Marcação com braço abduzido a 90 graus, identificar linha de maior redundância (ponto médio entre cotovelo e axilar).",
-    "how_to_identify": "Pinch test com braço abduzido; palpação do sulco bicipital medial para localizar nervo cutâneo.",
+    "clinical_hook": "Dissecção supramuscular obrigatória; marcação com braço em abdução 90°, linha de maior redundância entre cotovelo e axila.",
+    "how_to_identify": "Pinch test com braço abduzido; palpação do sulco bicipital medial.",
     "images": [
-      {
-        "file": "cpb-anat-braco-sagital.png",
-        "caption": "Corte sagital do terço médio do braço mostrando a relação entre músculos (bíceps e tríceps), úmero, veia basílica e nervo cutâneo medial do antebraço no compartimento subfascial medial. Define o plano supramuscular seguro para dissecção na braquioplastia, evitando lesão do nervo cutâneo medial.",
-        "credit": "Neligan's Plastic Surgery 5a Ed., 2023, vol. 2, cap. 36, Fig. 36.8 — Luthringer/Shulzhenko/Capella, Upper limb contouring."
-      }
+      { "ref": "img-arm-sagittal-001" }
     ],
     "citations": [
-      "Grabb & Smith's Plastic Surgery, 8a Ed., 2020",
+      "Grabb & Smith, 8ª Ed., 2020",
       "Hasanbegovic & Sorensen, Obes Surg, 2012"
     ],
     "updates": [],
@@ -172,25 +136,20 @@
     "aliases": [],
     "topic": "contorno-pos-bariatrico",
     "area": "contorno-corporal",
-    "definition": "Glândula mamária com deflação de volume, ptose severa e qualidade cutânea comprometida após perda maciça de peso.",
-    "location": "Parede torácica anterior, entre 2o e 6o arcos costais.",
-    "relations": [
-      "pedículo vascular superior (ramos da torácica interna)",
-      "pedículo vascular inferior (perfurantes intercostais)",
-      "sulco inframamário (Inframammary Fold - IMF)",
-      "complexo areolo-papilar (CAP)"
+    "one_liner": "Glândula mamária com deflação, ptose severa (Regnault grau 3 a 4) e qualidade cutânea comprometida pós-perda ponderal.",
+    "structures": [
+      { "label": "Pedículo superior", "description": "Ramos da artéria torácica interna." },
+      { "label": "Pedículo inferior", "description": "Perfurantes intercostais (2º ao 6º espaços)." },
+      { "label": "IMF (sulco inframamário)", "description": "Referência de medida da ptose." },
+      { "label": "CAP (complexo areolo-papilar)", "description": "Posição relativa ao sulco define o grau Regnault." }
     ],
-    "surgical_relevance": "Ptose severa (graus III-IV de Regnault), deflação de volume, perda de plenitude de colo, estrias, assimetria importante. Qualidade de pele frequentemente comprometida com pouca elasticidade. Causa: perda de volume glandular + laxidão cutânea.",
-    "how_to_identify": "Classificação de Regnault avaliando relação mamilo-sulco inframamário; inspeção com paciente em ortostatismo.",
+    "clinical_hook": "Ptose grau 3 ou 4 com deflação glandular exige mastopexia associada a implante ou autoaumento dermoglandular.",
+    "how_to_identify": "Classificação de Regnault: avaliar relação mamilo-sulco em ortostase.",
     "images": [
-      {
-        "file": "cpb-anat-mama-ptose-bariatrica.png",
-        "caption": "Mama pós-bariátrica — ptose Regnault III com CAM abaixo do IMF, esvaziamento do polo superior e pele redundante; comparação com mama normal à esquerda.",
-        "credit": "Diagrama esquemático — Regnault, PRS 1976; Neligan 5ª Ed., vol. 5"
-      }
+      { "ref": "img-breast-ptosis-001" }
     ],
     "citations": [
-      "Neligan's Plastic Surgery, 5a Ed., 2023",
+      "Neligan 2023, vol. 5",
       "Shermak et al., PRS, 2006"
     ],
     "updates": [],
@@ -206,31 +165,25 @@
   {
     "id": "cpb-anat-006",
     "type": "anatomy",
-    "title": "Face e Pescoço Pós-Bariátrico",
+    "title": "Face e Pescoço Pós-Bariátricos",
     "aliases": [],
     "topic": "contorno-pos-bariatrico",
     "area": "contorno-corporal",
-    "definition": "Região craniofacial e cervical com envelhecimento acelerado após perda maciça de peso.",
-    "location": "Face (terços superior, médio e inferior) e pescoço (região cervical anterior e lateral).",
-    "relations": [
-      "SMAS (Sistema Musculoaponeurótico Superficial)",
-      "platisma",
-      "ligamentos faciais de retenção",
-      "gordura subcutânea facial (atrofiada)",
-      "glândulas submandibulares"
+    "one_liner": "Envelhecimento craniofacial acelerado por deflação de compartimentos graxos e flacidez do SMAS (Sistema Musculoaponeurótico Superficial) e do platisma.",
+    "structures": [
+      { "label": "SMAS", "description": "Sistema musculoaponeurótico superficial; alvo do lifting facial." },
+      { "label": "Platisma", "description": "Diástase anterior gera bandas cervicais visíveis." },
+      { "label": "Ligamentos faciais de retenção", "description": "Flacidez acelera ptose jugal e do submento." },
+      { "label": "Compartimentos graxos faciais", "description": "Atrofia cria sulco nasolabial profundo e jowls." }
     ],
-    "surgical_relevance": "Perda de volume facial (atrofia de gordura subcutânea), laxidão cutânea, flacidez de ligamentos faciais, ressecção óssea aparente. Face frequentemente parece 10-15 anos mais velha que o corpo. Pescoço particularmente afetado com laxidez de platisma, excesso de pele cervical e ptose de glândulas submandibulares.",
-    "how_to_identify": "Inspeção facial com atenção à ptose de tecidos moles, sulco nasogeniano profundo, bandas platismais visíveis, redundância cervical.",
+    "clinical_hook": "Face parece 10–15 anos mais velha que o corpo; reabilitação combina lifting facial + cervicoplastia + restauração volumétrica.",
+    "how_to_identify": "Inspeção: ptose jugal, sulco nasogeniano profundo, bandas platismais, ângulo cervicomental obtuso.",
     "images": [
-      {
-        "file": "cpb-anat-face-pescoco-ptose.png",
-        "caption": "Face e pescoço pós-bariátricos — jowls, sulco nasolabial profundo, submento ptótico, ângulo cervicomental obtuso (> 120°) e deflação de compartimentos graxos profundos.",
-        "credit": "Diagrama esquemático — Neligan 5ª Ed., vol. 2 (Aesthetic) (cap. facelift/neck lift)"
-      }
+      { "ref": "img-face-neck-ptosis-001" }
     ],
     "citations": [
-      "Neligan's Plastic Surgery, 5a Ed., 2023",
-      "Grabb & Smith's Plastic Surgery, 8a Ed., 2020"
+      "Neligan 2023, vol. 2",
+      "Grabb & Smith, 8ª Ed., 2020"
     ],
     "updates": [],
     "tags": [
@@ -245,46 +198,21 @@
   {
     "id": "cpb-anat-007",
     "type": "anatomy",
-    "title": "Parede Abdominal no Paciente Pos-Bariatrico",
+    "title": "Parede Abdominal Pós-Bariátrica (ficha complementar)",
     "aliases": [],
     "topic": "contorno-pos-bariatrico",
     "area": "contorno-corporal",
-    "definition": "Estrutura musculoaponeurotica composta por retos abdominais, obliquos e transverso do abdome, recoberta por pele com qualidade comprometida apos perda macica de peso.",
-    "location": "Regiao anterior do tronco entre arco costal e pelve.",
-    "relations": [
-      "Fascia de Scarpa",
-      "Perfurantes epigastricas inferiores",
-      "Nervos intercostais",
-      "Ligamento de Cooper",
-      "Periosteo da sinfise pubica",
-      "Retos abdominais",
-      "Obliquos abdominais",
-      "Transverso do abdome",
-      "Circunflexa iliaca superficial",
-      "Pudenda externa",
-      "Arterias do monte pubico"
+    "one_liner": "Ficha complementar da parede abdominal pós-bariátrica; mesma estrutura de cpb-anat-001 com ênfase em ramos vasculares superficiais.",
+    "structures": [
+      { "label": "Circunflexa ilíaca superficial", "description": "Ramo superficial; ligar rotineiramente." },
+      { "label": "Pudenda externa", "description": "Ramo superficial; ligar no acesso inguinal." },
+      { "label": "Artérias do monte púbico", "description": "Ramos terminais; hemostasia cuidadosa." }
     ],
-    "surgical_relevance": "Diastase dos retos abdominais frequentemente severa (> 2 cm). Plicatura em duplo plano (fascial e muscular) com sutura absorvivel 2-0 ou 0 e necessaria. Disseccao em plano supramuscular ate arco costal evitando lesao de nervos intercostais. Ligadura de ramos vasculares superficiais (circunflexa iliaca superficial, pudenda externa, arterias do monte pubico).",
-    "how_to_identify": "Diastase palpavel com paciente em posicao supina realizando flexao cervical. Landmarks: espinha iliaca anterossuperior (EIAS) bilateralmente, sinfise pubica, arco costal, umbigo.",
-    "images": [
-      {
-        "file": "cpb-anat-zonas-aderencia-tronco.png",
-        "caption": "Parede abdominal pós-bariátrica — zonas de aderência do tronco (pré-existentes) marcadas em vermelho; aspiração nestas áreas gera depressões iatrogênicas.",
-        "credit": "Diagrama esquemático — Rohrich, Neligan 5ª Ed., vol. 2"
-      },
-      {
-        "file": "cpb-anat-scarpa-compartimento-graxo.png",
-        "caption": "Compartimento adiposo superficial e profundo separados pela fáscia de Scarpa — referência para dissecção e preservação seletiva.",
-        "credit": "Diagrama esquemático — Lockwood, PRS 1993–1995 (body lift + SFS)"
-      },
-      {
-        "file": "cpb-anat-diastase-plicatura.png",
-        "caption": "Diástase dos retos abdominais (> 2 cm) comum no pós-bariátrico; plicatura aponeurótica em duas camadas (4-0 PDS + 0 Ethibond).",
-        "credit": "Diagrama esquemático — Matarasso/Neligan 5ª Ed., vol. 2 cap. 26"
-      }
-    ],
+    "clinical_hook": "Ligar rotineiramente circunflexa ilíaca superficial, pudenda externa e artérias do monte púbico evita hematoma pós-operatório.",
+    "how_to_identify": "Identificação intraoperatória na dissecção supramuscular em direção à sínfise púbica.",
+    "images": [],
     "citations": [
-      "Nahas, Neligan's Plastic Surgery, 5a Ed., 2023",
+      "Nahas, Neligan 2023, vol. 2",
       "Lockwood et al., PRS, 1994"
     ],
     "updates": [],
@@ -299,27 +227,18 @@
   {
     "id": "cpb-anat-008",
     "type": "anatomy",
-    "title": "Monte Pubico",
+    "title": "Monte Púbico (ficha complementar)",
     "aliases": [],
     "topic": "contorno-pos-bariatrico",
     "area": "contorno-corporal",
-    "definition": "Eminencia adipocutanea sobre a sinfise pubica",
-    "location": "Regiao suprapubica, anterior a sinfise",
-    "relations": [
-      "ramos sensitivos de T12 e L1",
-      "fascia de Scarpa",
-      "periosteo da sinfise pubica",
-      "ligamento de Cooper retropubico"
+    "one_liner": "Ficha complementar do monte púbico pós-bariátrico; detalha a ancoragem da fáscia de Scarpa à sínfise.",
+    "structures": [
+      { "label": "Fáscia de Scarpa suprapúbica", "description": "Ancorada ao periósteo da sínfise para corrigir ptose." },
+      { "label": "Ligamento de Cooper retropúbico", "description": "Sutura suspensora em casos graves." }
     ],
-    "surgical_relevance": "Ptose importante do monte pubico frequente em pos-bariatricos resultando em aspecto estetico desagradavel mesmo apos resseccao adequada do abdome. Tecnicas de correcao incluem resseccao conservadora de pele/gordura com preservacao de sensibilidade, plicatura da fascia de Scarpa com ancoragem ao periosteo da sinfise, e em casos graves sutura suspensora ao ligamento de Cooper. Evitar plicatura excessiva que leve a dispareunia ou disuria.",
-    "how_to_identify": "Inspecao com paciente em posicao ortostatica; grau de ptose medido em relacao a sinfise pubica",
-    "images": [
-      {
-        "file": "cpb-anat-monte-pubico-marcacao.png",
-        "caption": "Monte púbico pós-bariátrico — ptose com dobra acima do púbis; marcação para ressecção de triângulo cutâneo + lipoaspiração adjuvante.",
-        "credit": "Diagrama esquemático — Neligan 5ª Ed., vol. 2 (Aesthetic) (cap. 27)"
-      }
-    ],
+    "clinical_hook": "Ancoragem da Scarpa à sínfise sustenta a correção; suspensão ao Cooper é reservada para ptose grave refratária.",
+    "how_to_identify": "Palpação da sínfise pubiana durante o planejamento da suspensão.",
+    "images": [],
     "citations": [
       "Lockwood et al., PRS, 1994",
       "Aly et al., PRS, 2003"
@@ -337,29 +256,18 @@
   {
     "id": "cpb-anat-009",
     "type": "anatomy",
-    "title": "Coxa Medial — Compartimento Fascial e Linfatico",
+    "title": "Coxa Medial (ficha complementar)",
     "aliases": [],
     "topic": "contorno-pos-bariatrico",
     "area": "contorno-corporal",
-    "definition": "Regiao medial da coxa composta por pele, tecido subcutaneo e fascia muscular sobre musculatura adutora.",
-    "location": "Da fossa inguinal ao joelho, face medial.",
-    "relations": [
-      "fascia do musculo adutor",
-      "vasos inguinais",
-      "linfaticos inguinais",
-      "ligamento de Scarpa",
-      "periosteo da sinfise pubica",
-      "linhas de Langer"
+    "one_liner": "Ficha complementar da coxa medial pós-bariátrica; foco no sistema linfático e prevenção de linfedema.",
+    "structures": [
+      { "label": "Linfáticos superficiais", "description": "Drenam para linfonodos inguinais; risco 5–15% de linfedema." },
+      { "label": "Linhas de Langer", "description": "Orientação da incisão vertical." }
     ],
-    "surgical_relevance": "Disseccao em plano supramuscular ate fascia do adutor preservando linfa e vasos. Fixacao da ponta superior do retalho ao periosteo da sinfise pubica ou ligamento de Cooper para evitar recorrencia de ptose. Resseccao de tecido adiposo pode prejudicar drenagem linfatica (risco de linfedema 5-15%).",
-    "how_to_identify": "Prega cutanea de redundancia com paciente em ortostatismo; palpacao da fossa inguinal e trocanter.",
-    "images": [
-      {
-        "file": "cpb-anat-coxa-medial-marcacoes.png",
-        "caption": "Coxa medial pós-bariátrica — compartimento fascial e sistema linfático superficial (risco de linfedema em cruroplastia); marcações para ressecção.",
-        "credit": "Diagrama esquemático — Lockwood SFS + Neligan 5ª Ed."
-      }
-    ],
+    "clinical_hook": "Preservar plano supramuscular e evitar dissecção lateral além da linha média reduz incidência de linfedema pós-cruroplastia.",
+    "how_to_identify": "Palpação dos linfonodos inguinais pré-operatoriamente como parâmetro baseline.",
+    "images": [],
     "citations": [
       "Aly et al., PRS, 2003",
       "Lockwood et al., PRS, 1994"
@@ -367,8 +275,8 @@
     "updates": [],
     "tags": [
       "anatomia",
-      "coxa medial",
-      "contorno corporal",
+      "coxa-medial",
+      "contorno-corporal",
       "pos-bariatrico",
       "fascia",
       "linfatico"
@@ -377,30 +285,20 @@
   {
     "id": "cpb-anat-010",
     "type": "anatomy",
-    "title": "Braco — Compartimento Medial",
+    "title": "Braço (ficha complementar)",
     "aliases": [],
     "topic": "contorno-pos-bariatrico",
     "area": "contorno-corporal",
-    "definition": "Face medial do braco com pele, tecido subcutaneo e fascia muscular sobre biceps e triceps.",
-    "location": "Da axila a fossa antecubital, face medial.",
-    "relations": [
-      "nervo cutaneo medial do antebraco",
-      "fascia muscular",
-      "veia basilica",
-      "biceps",
-      "triceps"
+    "one_liner": "Ficha complementar do braço pós-bariátrico; detalha marcação e referências de redundância cutânea.",
+    "structures": [
+      { "label": "Linha de maior redundância", "description": "Ponto médio entre cotovelo e axila com braço em abdução 90°." },
+      { "label": "Sulco bicipital medial", "description": "Referência palpatória para localizar o nervo cutâneo." }
     ],
-    "surgical_relevance": "Disseccao em plano supramuscular obrigatoria — nao descer alem da fascia para evitar lesao do nervo cutaneo medial do antebraco (parestesia transitoria 10-30%, permanente 2-5%). Marcacao com braco abduzido a 90 graus, identificar linha de maior redundancia (ponto medio entre cotovelo e axilar).",
-    "how_to_identify": "Pinch test com braco abduzido; palpacao do sulco bicipital medial para localizar nervo cutaneo.",
-    "images": [
-      {
-        "file": "cpb-anat-braco-sagital.png",
-        "caption": "Braço — compartimento medial em corte sagital; n. ulnar e n. cutâneo medial do braço como referências de segurança para braquioplastia.",
-        "credit": "Diagrama esquemático — Strauch, Neligan 5ª Ed., vol. 2 cap. 28"
-      }
-    ],
+    "clinical_hook": "Marcar em abdução 90° evita subressecção; ressecção excessiva na região axilar gera cicatriz hipertrófica visível.",
+    "how_to_identify": "Paciente sentado com braço abduzido; pinch test ao longo da linha medial.",
+    "images": [],
     "citations": [
-      "Grabb & Smith's Plastic Surgery, 8a Ed., 2020",
+      "Grabb & Smith, 8ª Ed., 2020",
       "Hasanbegovic & Sorensen, Obes Surg, 2012"
     ],
     "updates": [],
@@ -416,29 +314,20 @@
   {
     "id": "cpb-anat-011",
     "type": "anatomy",
-    "title": "Mama Pos-Bariatrica",
+    "title": "Mama Pós-Bariátrica (ficha complementar)",
     "aliases": [],
     "topic": "contorno-pos-bariatrico",
     "area": "contorno-corporal",
-    "definition": "Glandula mamaria com deflacao de volume, ptose severa e qualidade cutanea comprometida apos perda macica de peso.",
-    "location": "Parede toracica anterior, entre 2o e 6o arcos costais.",
-    "relations": [
-      "pediculo vascular superior (ramos da toracica interna)",
-      "pediculo vascular inferior (perfurantes intercostais)",
-      "sulco inframamario (Inframammary Fold — IMF)",
-      "complexo areolo-papilar (CAP)"
+    "one_liner": "Ficha complementar da mama pós-bariátrica; detalha pseudoptose por esvaziamento do polo superior.",
+    "structures": [
+      { "label": "Polo superior esvaziado", "description": "Deflação glandular com pseudoptose." },
+      { "label": "Estrias cutâneas", "description": "Sinal de laxidão e perda de elasticidade." }
     ],
-    "surgical_relevance": "Ptose severa (graus III-IV de Regnault), deflacao de volume, perda de plenitude de colo, estrias, assimetria importante. Qualidade de pele frequentemente comprometida com pouca elasticidade. Causa: perda de volume glandular + laxidao cutanea.",
-    "how_to_identify": "Classificacao de Regnault avaliando relacao mamilo-sulco inframamario; inspecao com paciente em ortostatismo.",
-    "images": [
-      {
-        "file": "cpb-anat-mama-ptose-bariatrica.png",
-        "caption": "Mama pós-bariátrica — ptose grau III, pseudoptose por esvaziamento do polo superior e redundância cutânea; base para planejamento de mastopexia.",
-        "credit": "Diagrama esquemático — Regnault, PRS 1976; Neligan 5ª Ed., vol. 5"
-      }
-    ],
+    "clinical_hook": "Pseudoptose por deflação exige autoaumento dermoglandular ou implante associado à mastopexia para restaurar plenitude.",
+    "how_to_identify": "Inspeção do polo superior em ortostase; ausência de projeção superior mesmo após mastopexia isolada.",
+    "images": [],
     "citations": [
-      "Neligan's Plastic Surgery, 5a Ed., 2023",
+      "Neligan 2023, vol. 5",
       "Shermak et al., PRS, 2006"
     ],
     "updates": [],
@@ -454,31 +343,21 @@
   {
     "id": "cpb-anat-012",
     "type": "anatomy",
-    "title": "Face e Pescoco Pos-Bariatrico",
+    "title": "Face e Pescoço (ficha complementar)",
     "aliases": [],
     "topic": "contorno-pos-bariatrico",
     "area": "contorno-corporal",
-    "definition": "Regiao craniofacial e cervical com envelhecimento acelerado apos perda macica de peso.",
-    "location": "Face (tercos superior, medio e inferior) e pescoco (regiao cervical anterior e lateral).",
-    "relations": [
-      "SMAS (Sistema Musculoaponeurotico Superficial)",
-      "platisma",
-      "ligamentos faciais de retencao",
-      "gordura subcutanea facial (atrofiada)",
-      "glandulas submandibulares"
+    "one_liner": "Ficha complementar da face e pescoço pós-bariátricos; detalha achados cervicais e glândulas submandibulares.",
+    "structures": [
+      { "label": "Glândulas submandibulares", "description": "Ptose visível; considerar suspensão em lifting cervical." },
+      { "label": "Excesso cervical", "description": "Pele redundante da região cervical anterior e lateral." }
     ],
-    "surgical_relevance": "Perda de volume facial (atrofia de gordura subcutanea), laxidao cutanea, flacidez de ligamentos faciais, resseccao ossea aparente. Face frequentemente parece 10-15 anos mais velha que o corpo. Pescoco particularmente afetado com laxidez de platisma, excesso de pele cervical e ptose de glandulas submandibulares.",
-    "how_to_identify": "Inspecao facial com atencao a ptose de tecidos moles, sulco nasogeniano profundo, bandas platismais visiveis, redundancia cervical.",
-    "images": [
-      {
-        "file": "cpb-anat-face-pescoco-ptose.png",
-        "caption": "Face e pescoço pós-bariátricos — envelhecimento acelerado por deflação de compartimentos graxos e flacidez SMAS/platisma.",
-        "credit": "Diagrama esquemático — Neligan 5ª Ed., vol. 2 (Aesthetic)"
-      }
-    ],
+    "clinical_hook": "Ptose de glândulas submandibulares e excesso cervical frequentemente exigem suspensão profunda além do lifting cutâneo superficial.",
+    "how_to_identify": "Inspeção cervical em ortostase; palpação da borda da submandibular.",
+    "images": [],
     "citations": [
-      "Neligan's Plastic Surgery, 5a Ed., 2023",
-      "Grabb & Smith's Plastic Surgery, 8a Ed., 2020"
+      "Neligan 2023, vol. 2",
+      "Grabb & Smith, 8ª Ed., 2020"
     ],
     "updates": [],
     "tags": [

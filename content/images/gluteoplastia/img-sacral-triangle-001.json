@@ -1,0 +1,17 @@
+{
+  "id": "img-sacral-triangle-001",
+  "file": "gluteoplastia/glut-anat-pelve-ossea.png",
+  "subject": "triângulo sacral e landmarks ósseos da região glútea posterior",
+  "role": "overview",
+  "source": "Hoyos & Millard, HDBS, 2014, cap. 10",
+  "credit": "Adaptado de Hoyos & Millard, HDBS, 2014",
+  "default_caption": "V anatômico delimitado pelas EIPS (espinhas ilíacas póstero-superiores) bilaterais e pelo topo do sulco interglúteo — landmark de marcação HDBS.",
+  "labels": [
+    { "num": 1, "text": "EIPS direita — vértice superolateral do triângulo, identificável como covinha cutânea." },
+    { "num": 2, "text": "EIPS esquerda — vértice superolateral contralateral." },
+    { "num": 3, "text": "Topo do sulco interglúteo — vértice inferior do triângulo." },
+    { "num": 4, "text": "Sacro — base óssea do triângulo; referência para lipoplastia do dorso inferior." }
+  ],
+  "applicable_topics": ["gluteoplastia", "contorno-pos-bariatrico"],
+  "status": "available"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "img-breast-ptosis-001",
+  "file": "contorno-pos-bariatrico/cpb-anat-mama-ptose-bariatrica.png",
+  "subject": "mama pós-bariátrica — ptose Regnault III com CAP abaixo do IMF",
+  "role": "overview",
+  "source": "Regnault, PRS 1976; Neligan 2023, vol. 5",
+  "credit": "Adaptado de Neligan 2023, vol. 5",
+  "default_caption": "Ptose Regnault III: CAP (complexo areolo-papilar) abaixo do IMF (sulco inframamário), esvaziamento do polo superior e pele redundante.",
+  "labels": [
+    { "num": 1, "text": "CAP (complexo areolo-papilar) — posicionado abaixo do IMF na ptose grau III." },
+    { "num": 2, "text": "IMF (sulco inframamário) — referência de medida da ptose." },
+    { "num": 3, "text": "Polo superior esvaziado — perda de plenitude; pseudoptose." },
+    { "num": 4, "text": "Pele redundante — qualidade comprometida, pouca elasticidade." }
+  ],
+  "applicable_topics": ["contorno-pos-bariatrico"],
+  "status": "available"
+}

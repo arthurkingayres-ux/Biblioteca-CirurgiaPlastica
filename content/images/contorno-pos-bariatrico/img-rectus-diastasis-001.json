@@ -1,0 +1,17 @@
+{
+  "id": "img-rectus-diastasis-001",
+  "file": "contorno-pos-bariatrico/cpb-anat-diastase-plicatura.png",
+  "subject": "diástase dos retos abdominais e plicatura em duplo plano",
+  "role": "detail",
+  "source": "Neligan 2023, vol. 2, cap. 31, Fig. 31.22 — Singh/Aly",
+  "credit": "Adaptado de Neligan 2023, vol. 2, cap. 31",
+  "default_caption": "Corte transverso: afastamento da linha alba entre retos e plicatura em duplo plano que restaura a tensão aponeurótica pós-bariátrica.",
+  "labels": [
+    { "num": 1, "text": "Músculos retos abdominais — afastados da linha média (diástase > 2 cm)." },
+    { "num": 2, "text": "Linha alba alargada — alvo da plicatura." },
+    { "num": 3, "text": "Plicatura fascial (plano superficial) — sutura absorvível 2-0 ou 0." },
+    { "num": 4, "text": "Plicatura muscular (plano profundo) — restaura tensão aponeurótica." }
+  ],
+  "applicable_topics": ["contorno-pos-bariatrico", "abdominoplastia"],
+  "status": "available"
+}
