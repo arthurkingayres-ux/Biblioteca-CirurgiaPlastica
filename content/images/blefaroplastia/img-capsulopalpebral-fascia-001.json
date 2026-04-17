@@ -1,0 +1,18 @@
+{
+  "id": "img-capsulopalpebral-fascia-001",
+  "file": "blefaroplastia/blef-13-33-fascia-capsulopalpebral.png",
+  "subject": "fáscia capsulopálpebral e ligamento de Lockwood — retratores da pálpebra inferior",
+  "role": "detail",
+  "source": "Neligan 2023, vol. 2, cap. 13 — Blepharoplasty",
+  "credit": "Adaptado de Neligan 2023, vol. 2, cap. 13",
+  "default_caption": "Fáscia capsulopálpebral (análogo inferior da aponeurose do LPS) e ligamento suspensor de Lockwood — chave do acesso transconjuntival.",
+  "labels": [
+    { "num": 1, "text": "Fáscia capsulopálpebral — origina-se do músculo reto inferior; insere-se na face anterior do tarso inferior." },
+    { "num": 2, "text": "Ligamento de Lockwood — condensação fascial suspensora do bulbo ocular." },
+    { "num": 3, "text": "Tarso inferior — 4-5 mm de altura." },
+    { "num": 4, "text": "Septo orbitário inferior — funde-se com a capsulopálpebral ~5 mm abaixo do tarso." },
+    { "num": 5, "text": "Acesso transconjuntival — plano pré-septal ou retrosseptal dependendo da técnica." }
+  ],
+  "applicable_topics": ["blefaroplastia"],
+  "status": "available"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "img-facial-nerve-branches-001",
+  "file": "ritidoplastia/riti-anat-nervo-facial-ramos.jpg",
+  "subject": "ramos do nervo facial vulneráveis no facelift — temporal, zigomático e mandibular marginal",
+  "role": "overview",
+  "source": "Neligan 2023, vol. 2, cap. 11 — Facelift (Deep Plane)",
+  "credit": "Adaptado de Neligan 2023, vol. 2, cap. 11",
+  "default_caption": "Três ramos de risco crítico no facelift; lesão permanente em <1% quando plano cirúrgico é respeitado.",
+  "labels": [
+    { "num": 1, "text": "Ramo temporal (Pitanguy) — cruza arco zigomático na fáscia temporoparietal." },
+    { "num": 2, "text": "Ramo zigomático — inerva orbicular do olho; próximo aos ligamentos de retenção." },
+    { "num": 3, "text": "Ramo bucal — geralmente redundante; menor impacto clínico." },
+    { "num": 4, "text": "Ramo marginal mandibular — 1-2 cm abaixo da borda; lesão gera assimetria do sorriso." },
+    { "num": 5, "text": "Ramo cervical — inerva platisma; lesão simula paralisia marginal." }
+  ],
+  "applicable_topics": ["ritidoplastia"],
+  "status": "available"
+}

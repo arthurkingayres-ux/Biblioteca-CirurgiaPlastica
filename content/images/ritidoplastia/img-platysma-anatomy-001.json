@@ -1,0 +1,18 @@
+{
+  "id": "img-platysma-anatomy-001",
+  "file": "ritidoplastia/riti-anat-platisma-anatomia.jpg",
+  "subject": "anatomia do platisma — continuação cervical do SMAS",
+  "role": "overview",
+  "source": "Neligan 2023, vol. 2, cap. 11 — Facelift (Deep Plane)",
+  "credit": "Adaptado de Neligan 2023, vol. 2, cap. 11",
+  "default_caption": "Músculo fino que se estende do tórax superior à mandíbula e comissura labial; alvo da platismaplastia.",
+  "labels": [
+    { "num": 1, "text": "Bordas mediais — encontram-se na linha média em jovens; separam-se com envelhecimento." },
+    { "num": 2, "text": "Bandas platismais — cordões verticais visíveis no pescoço anterior." },
+    { "num": 3, "text": "Gordura subplatismal — profunda ao músculo; acesso só após abrir o platisma." },
+    { "num": 4, "text": "Glândula submandibular — profunda ao platisma; ptose contribui para contorno cervical." },
+    { "num": 5, "text": "Ramo marginal mandibular — cruza profundamente próximo à borda da mandíbula." }
+  ],
+  "applicable_topics": ["ritidoplastia"],
+  "status": "available"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "img-internal-valve-001",
+  "file": "rinoplastia/fig18-30-cartilagens-laterais-3d.jpeg",
+  "subject": "valva nasal interna — ângulo entre septo e margem caudal das CLS (cartilagens laterais superiores)",
+  "role": "detail",
+  "source": "Neligan 2023, vol. 2, cap. 18 — Rhinoplasty",
+  "credit": "Adaptado de Neligan 2023, vol. 2, cap. 18",
+  "default_caption": "Segmento mais estreito da via aérea nasal (~50% da resistência total); ângulo normal 10-15 graus.",
+  "labels": [
+    { "num": 1, "text": "Margem caudal das CLS (cartilagens laterais superiores) — uma das paredes da valva." },
+    { "num": 2, "text": "Septo nasal — parede medial; desvios reduzem o ângulo valvar." },
+    { "num": 3, "text": "Angulo valvar — 10-15 graus em nariz normal; <10 graus = incompetência." },
+    { "num": 4, "text": "Cabeca anterior do corneto inferior — contribui para o piso da valva." },
+    { "num": 5, "text": "Scroll area — transição CLS-CLA; cicatriz aqui estreita a valva." }
+  ],
+  "applicable_topics": ["rinoplastia"],
+  "status": "available"
+}

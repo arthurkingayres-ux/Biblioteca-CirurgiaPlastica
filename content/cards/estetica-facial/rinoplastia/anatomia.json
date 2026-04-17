@@ -11,34 +11,39 @@
     ],
     "topic": "rinoplastia",
     "area": "estética-facial",
-    "definition": "A pele nasal varia significativamente em espessura ao longo do nariz. É típicamente mais fina e móvel superiormente, mais espessa ao redor da ponta nasal, mais fina sobre a junção ósseocartilaginosa, e mais espessa sobre o nasion e a área supraponta. As características da pele — sebácea espessa vs. fina — influenciam diretamente o resultado e a recuperação.",
-    "location": "Reveste todo o arcabouço nasal, desde o radix até a columela e asas nasais.",
-    "relations": [
-      "Fáscia nasal superficial (SMAS — Sistema Músculo-Aponeurótico Superficial)",
-      "Musculatura nasal",
-      "Arcabouço ósseocartilaginoso",
-      "Plexo subdérmico vascular"
+    "one_liner": "Espessura e mobilidade variáveis da pele nasal — críticas para definição estética e hemostasia pós-operatória.",
+    "structures": [
+      {
+        "label": "Epiderme e derme nasal",
+        "description": "Mais finas e móveis sobre o dorso; mais espessas, sebáceas e aderentes sobre a ponta e supraponta."
+      },
+      {
+        "label": "Plexo subdérmico vascular",
+        "description": "Delicada rede de capilares de importância crítica; dissecção excessiva causa risco de necrose cutânea."
+      },
+      {
+        "label": "Fáscia nasal superficial (SMAS)",
+        "description": "Camada de sustentação subjacente às estruturas de partes moles."
+      }
     ],
-    "surgical_relevance": "Pele espessa limita o grau de definição possível e prolonga o edema pós-operatório. Pele fina torna visíveis irregularidades sutis do arcabouço. Dissecção subdérmica excessiva — como no defatting da ponta — coloca em risco o delicado plexo subdérmico e pode resultar em necrose cutânea.",
+    "clinical_hook": "Pele espessa adia definição e prolonga edema; pele fina expõe irregularidades do arcabouço. Defatting da ponta arriscado — preservar plexo subdérmico evita necrose.",
     "how_to_identify": "Inspeção e palpação: pele fina e translúcida sobre o dorso versus pele espessa, sebácea e pouco móvel sobre a ponta. Observar poros dilatados e oleosidade.",
     "images": [
       {
-        "file": "fig18-1-terminologia-nasal.jpeg",
-        "caption": "Terminologia anatômica do nariz externo — radix, dorso (dorsal hump), ponta (tip), columela e sulco alar: pontos de referência padronizados do planejamento rinoplástico.",
-        "credit": "Neligan vol. 2, cap. 18 — Rhinoplasty"
+        "ref": "img-nasal-terminology-001"
       }
     ],
     "citations": [
       "Neligan, 2023, vol. 2, cap. 19"
     ],
-    "updates": [],
     "tags": [
       "anatomia",
       "pele",
       "SSTE",
       "envelope",
       "espessura"
-    ]
+    ],
+    "updates": []
   },
   {
     "id": "rino-anat-003",
@@ -52,29 +57,36 @@
     ],
     "topic": "rinoplastia",
     "area": "estética-facial",
-    "definition": "O terço superior do nariz é uma pirâmide óssea formada pelos ossos nasais e o processo frontal da maxila. Os ossos nasais formam o vault superior (abóbada óssea). Sua espessura varia: são mais espessos na raiz e mais finos lateralmente, na transição para o processo frontal da maxila.",
-    "location": "Da raiz nasal (junção com o osso frontal) até a transição com as cartilagens laterais superiores. Lateralmente, os processos frontais da maxila formam as paredes laterais.",
-    "relations": [
-      "Processo frontal da maxila",
-      "Osso frontal",
-      "CLS (keystone area)",
-      "Septo nasal (lâmina perpendicular do etmóide)"
+    "one_liner": "Ossos nasais e processos frontais da maxila — estrutura rígida que permite osteotomias previsíveis com mínimo de resistência.",
+    "structures": [
+      {
+        "label": "Ossos nasais",
+        "description": "Mais espessos na raiz, mais finos lateralmente; formam o vault ou abóbada óssea superior."
+      },
+      {
+        "label": "Processos frontais da maxila",
+        "description": "Flancos laterais do terço superior; zona de espessura diminuída que facilita osteotomias consistentes."
+      },
+      {
+        "label": "Septo nasal (porção óssea)",
+        "description": "Divide internamente a cavidade nasal; articula-se com os ossos nasais cranialmente."
+      }
     ],
-    "surgical_relevance": "Uma zona de espessura diminuída ao longo do processo frontal da maxila — do orifício piriforme ao radix — permite osteotomias consistentes e padrões de fratura previsíveis. Os ossos nasais são mais espessos na raiz, o que torna a raspa menos eficaz cranialmente.",
+    "clinical_hook": "Zona de espessura diminuída do processo frontal permite osteotomias consistentes e padrões de fratura previsíveis. Ossos mais espessos na raiz; raspa cranial menos eficaz.",
     "how_to_identify": "Palpação da estrutura rígida do terço superior; ossos nasais firmes na linha média, processo frontal da maxila lateralmente. Transição para cartilagem identificável por mobilidade e flexibilidade.",
     "images": [],
     "citations": [
       "Neligan, 2023, vol. 2, cap. 18",
       "Grabb & Smith, 2024, cap. 55"
     ],
-    "updates": [],
     "tags": [
       "anatomia",
       "pirâmide-óssea",
       "ossos-nasais",
       "vault-ósseo",
       "terço-superior"
-    ]
+    ],
+    "updates": []
   },
   {
     "id": "rino-anat-004",
@@ -88,27 +100,31 @@
     ],
     "topic": "rinoplastia",
     "area": "estética-facial",
-    "definition": "As cartilagens laterais superiores (CLS) formam o terço médio do nariz. São triangulares e se fixam aos ossos nasais cranialmente e ao septo nasal dorsalmente. Em sua extensão superior, são sobrepostas pelos ossos nasais por 4–5 mm na chamada 'área do keystone', normalmente a parte mais larga do dorso nasal. A relação das CLS com o septo forma uma estrutura em 'T' ou 'I-beam' que confere estabilidade ao terço médio e previne colapso das vias aéreas.",
-    "location": "Terço médio nasal — da transição com os ossos nasais (keystone) até a sobreposição com as CLA (scroll area).",
-    "relations": [
-      "Ossos nasais (keystone area — sobreposição de 4–5 mm)",
-      "Septo nasal (estrutura em T/I-beam)",
-      "CLA (scroll area)",
-      "Músculo nasalis transverso"
-    ],
-    "surgical_relevance": "A contração do músculo nasalis transverso, que se insere na borda das CLS, promove dilatação lateral e aumento do fluxo aéreo. Remoção das CLS ou ressecção excessiva do septo pode causar colapso valvar. Spreader grafts reconstituem o 'I-beam' e restauram a patência. A preservação das CLS durante a redução septal dorsal é fundamental: ressecção igual de septo e CLS causa arredondamento do dorso; ressecção excessiva das CLS causa deformidade em V invertido.",
-    "how_to_identify": "Porção triangular flexível do terço médio, entre a rigidez do osso nasal acima e a mobilidade das CLA abaixo. Palpação sobre o dorso identifica a transição do keystone.",
-    "images": [
+    "one_liner": "Cartilagens triangulares do terço médio que formam estrutura I-beam com o septo — críticas para patência valvar.",
+    "structures": [
       {
-        "file": "fig18-25-tres-abobadas-nasais.jpeg",
-        "caption": "As três abóbadas nasais: abóbada óssea (ossos nasais), abóbada cartilaginosa superior (CLS formando o I-beam com o septo) e abóbada cartilaginosa inferior (CLA — cruras mediais, médias e laterais).",
-        "credit": "Neligan vol. 2, caps. 18-22 — Rhinoplasty"
+        "label": "Corpo cartilaginoso principal",
+        "description": "Estrutura triangular flexível, se fixa aos ossos nasais cranialmente e ao septo nasal dorsalmente."
+      },
+      {
+        "label": "Área do keystone",
+        "description": "Zona de sobreposição de 4–5 mm entre ossos nasais (acima) e CLS (cartilagens laterais superiores) abaixo — parte mais larga do dorso."
+      },
+      {
+        "label": "Relação I-beam com septo",
+        "description": "Junção CLS (cartilagens laterais superiores)-septo forma estrutura em I-beam que confere estabilidade e previne colapso valvar medial."
+      },
+      {
+        "label": "Inserção do nasalis transverso",
+        "description": "Músculo se insere na borda das CLS (cartilagens laterais superiores); sua contração promove dilatação lateral."
       }
     ],
+    "clinical_hook": "Ressecção excessiva ou precariedade das CLS (cartilagens laterais superiores) causa colapso valvar e deformidade em V invertido. Spreader grafts reconstituem I-beam. Preservação durante redução dorsal é fundamental.",
+    "how_to_identify": "Porção triangular flexível do terço médio, entre a rigidez do osso nasal acima e a mobilidade das CLA (cartilagens laterais inferiores) abaixo. Palpação sobre o dorso identifica a transição do keystone.",
+    "images": [],
     "citations": [
       "Neligan, 2023, vol. 2, cap. 18"
     ],
-    "updates": [],
     "tags": [
       "anatomia",
       "CLS",
@@ -116,7 +132,8 @@
       "terço-médio",
       "keystone",
       "I-beam"
-    ]
+    ],
+    "updates": []
   },
   {
     "id": "rino-anat-005",
@@ -129,27 +146,35 @@
     ],
     "topic": "rinoplastia",
     "area": "estética-facial",
-    "definition": "A área do keystone é a zona de sobreposição entre os ossos nasais e as CLS, com extensão de 4–5 mm. Representa a parte mais larga do dorso nasal e é uma região de importância biomecânica fundamental, pois a integridade dessa junção garante a estabilidade do terço médio nasal.",
-    "location": "Junção do terço superior (ósseo) com o terço médio (cartilaginoso), na porção mais cranial das CLS.",
-    "relations": [
-      "Ossos nasais (sobreposição cranial)",
-      "CLS (aderência caudal)",
-      "Septo nasal dorsal"
+    "one_liner": "Zona de sobreposição de 4–5 mm entre ossos nasais e CLS (cartilagens laterais superiores) — região crítica de suporte nasal.",
+    "structures": [
+      {
+        "label": "Zona de sobreposição",
+        "description": "Sobreposição de 4–5 mm onde ossos nasais cobrem cranialmente a porção mais cranial das CLS (cartilagens laterais superiores)."
+      },
+      {
+        "label": "Ponto mais largo do dorso",
+        "description": "Localização natural onde a rigidez óssea transiciona para a flexibilidade cartilaginosa."
+      },
+      {
+        "label": "Junção óssea-cartilaginosa",
+        "description": "Interface crítica para estabilidade biomecânica do terço médio nasal."
+      }
     ],
-    "surgical_relevance": "A preservação do keystone é o princípio central da rinoplastia de preservação dorsal. Na técnica aberta convencional, a dissecção passa justamente acima do keystone para elevar o envelope de partes moles. Na rinoplastia de preservação, manter a relação intrínseca do keystone evita o 'teto aberto' e a necessidade de osteotomias tradicionais.",
-    "how_to_identify": "Palpação do ponto mais largo do dorso, onde a rigidez óssea transiciona para a flexibilidade cartilaginosa. Na via aberta, é visualizada como a zona de sobreposição onde os ossos nasais cobrem as CLS.",
+    "clinical_hook": "Preservação do keystone é o princípio central da rinoplastia de preservação dorsal. Evita deformidade em teto aberto e elimina necessidade de osteotomias tradicionais.",
+    "how_to_identify": "Palpação do ponto mais largo do dorso, onde a rigidez óssea transiciona para a flexibilidade cartilaginosa. Na via aberta, é visualizada como a zona de sobreposição onde os ossos nasais cobrem as CLS (cartilagens laterais superiores).",
     "images": [],
     "citations": [
       "Neligan, 2023, vol. 2, caps. 18–19"
     ],
-    "updates": [],
     "tags": [
       "anatomia",
       "keystone",
       "junção",
       "suporte",
       "preservação"
-    ]
+    ],
+    "updates": []
   },
   {
     "id": "rino-anat-006",
@@ -163,33 +188,36 @@
     ],
     "topic": "rinoplastia",
     "area": "estética-facial",
-    "definition": "As cartilagens alares (cartilagens laterais inferiores) constituem o terço inferior do nariz e são as mais determinantes da estética da ponta nasal. Cada CLA possui três segmentos: crura medial (forma a columela), crura média ou middle crus (define os 'tip-defining points' e o ângulo columelo-lobular) e crura lateral (determina a forma do rim alar e a estética dos soft triangles). As CLA não são paralelas ao rim alar — seguem um trajeto oblíquo em direção ao osso maxilar.",
-    "location": "Terço inferior nasal. Crura medial na columela; crura média nos domos (ponta nasal); crura lateral em direção oblíqua ao osso maxilar.",
-    "relations": [
-      "CLS (scroll area — sobreposição)",
-      "Septo nasal (fixação das cruras mediais)",
-      "Pele e tecidos moles alares",
-      "Ligamento inter-alar (de Pitanguy)"
+    "one_liner": "Cartilagens do terço inferior — cruras medial, média e lateral — determinam estética da ponta e sustentam valva externa.",
+    "structures": [
+      {
+        "label": "Crura medial",
+        "description": "Forma a columela; fixada ao septo nasal; sustenta projeção medial da ponta."
+      },
+      {
+        "label": "Crura média (middle crus/domus)",
+        "description": "Define os tip-defining points e ângulo columelo-lobular; determina altura e projeção da ponta."
+      },
+      {
+        "label": "Crura lateral",
+        "description": "Segue trajeto oblíquo em direção ao osso maxilar; determina forma do rim alar e estética dos soft triangles."
+      },
+      {
+        "label": "Ligamento inter-alar (Pitanguy)",
+        "description": "Estabiliza os domos; ruptura causa alargamento e distorção da ponta."
+      }
     ],
-    "surgical_relevance": "A angulação normal das CLA é em direção ao canto lateral do olho; angulação mais cefálica (em direção ao canto medial) contribui para a 'parentheses deformity'. Funcionalmente, as CLA sustentam a valva nasal externa. Sua borda caudal, junto com os tecidos moles alares, o septo membranoso e a soleira nasal, formam a entrada da narina.",
+    "clinical_hook": "Angulação normal em direção ao canto lateral do olho; angulação cefálica causa parentheses deformity. As CLA (cartilagens laterais inferiores) sustentam a valva externa — sua integridade é essencial.",
     "how_to_identify": "Palpação da estrutura cartilaginosa da ponta e do rim alar. As cruras mediais são palpáveis dentro da columela; os domos correspondem aos tip-defining points.",
     "images": [
       {
-        "file": "fig18-24-arcabouco-cartilaginoso.jpeg",
-        "caption": "Arcabouço cartilaginoso do nariz: cartilagens laterais superiores (CLS) e cartilagens laterais inferiores / alares (CLA) formando os terços médio e inferior.",
-        "credit": "Neligan vol. 2, caps. 18-22 — Rhinoplasty"
-      },
-      {
-        "file": "fig18-4-cartilagens-laterais-inf.jpeg",
-        "caption": "Cartilagens alares em detalhe: crura medial, domus e crura lateral — estruturas determinantes da estética e projeção da ponta nasal.",
-        "credit": "Neligan vol. 2, caps. 18-22 — Rhinoplasty"
+        "ref": "img-alar-cartilages-001"
       }
     ],
     "citations": [
       "Neligan, 2023, vol. 2, cap. 18",
       "Grabb & Smith, 2024, cap. 54"
     ],
-    "updates": [],
     "tags": [
       "anatomia",
       "CLA",
@@ -197,7 +225,8 @@
       "ponta-nasal",
       "crura",
       "terço-inferior"
-    ]
+    ],
+    "updates": []
   },
   {
     "id": "rino-anat-007",
@@ -210,26 +239,27 @@
     ],
     "topic": "rinoplastia",
     "area": "estética-facial",
-    "definition": "A sobreposição entre as bordas caudais das CLS e as bordas cefálicas das CLA constitui a 'scroll area'. Essa sobreposição cartilaginosa confere suporte adicional na transição entre os terços médio e inferior do nariz.",
-    "location": "Zona de transição entre as CLS (cranialmente) e as CLA (caudalmente), na região paramarginal.",
-    "relations": [
-      "CLS (borda caudal)",
-      "CLA (borda cefálica)",
-      "Valva nasal interna"
-    ],
-    "surgical_relevance": "Cicatriz pós-rinoplastia na scroll area pode causar estreitamento ou colapso da valva interna. A integridade do scroll é importante para o suporte da transição entre os terços médio e inferior.",
-    "how_to_identify": "Na via aberta, visualização direta da zona onde a cartilagem lateral superior se sobrepõe à borda cefálica da crura lateral.",
-    "images": [
+    "one_liner": "Sobreposição entre borda caudal da CLS (cartilagens laterais superiores) e borda cefálica da CLA (cartilagens laterais inferiores) — sustenta transição e estabiliza valva interna.",
+    "structures": [
       {
-        "file": "fig18-30-cartilagens-laterais-3d.jpeg",
-        "caption": "Reconstrução 3D das cartilagens laterais com a scroll area — sobreposição entre CLS caudal e CLA cefálica que sustenta a transição dos terços médio e inferior.",
-        "credit": "Neligan vol. 2, caps. 18-22 — Rhinoplasty"
+        "label": "Borda caudal das CLS",
+        "description": "Extremidade inferior das cartilagens laterais superiores na zona de transição."
+      },
+      {
+        "label": "Borda cefálica das CLA",
+        "description": "Extremidade superior das cartilagens laterais inferiores que se sobrepõe à CLS (cartilagens laterais superiores)."
+      },
+      {
+        "label": "Sobreposição cartilaginosa",
+        "description": "Zona de dupla cobertura que confere suporte adicional na transição dos terços médio e inferior."
       }
     ],
+    "clinical_hook": "Cicatriz pós-rinoplastia na scroll area causa estreitamento ou colapso da valva interna. Integridade do scroll é crítica para suporte estrutural.",
+    "how_to_identify": "Na via aberta, visualização direta da zona onde a cartilagem lateral superior se sobrepõe à borda cefálica da crura lateral.",
+    "images": [],
     "citations": [
       "Neligan, 2023, vol. 2, cap. 18"
     ],
-    "updates": [],
     "tags": [
       "anatomia",
       "scroll",
@@ -237,7 +267,8 @@
       "CLS",
       "CLA",
       "suporte"
-    ]
+    ],
+    "updates": []
   },
   {
     "id": "rino-anat-008",
@@ -250,34 +281,40 @@
     ],
     "topic": "rinoplastia",
     "area": "estética-facial",
-    "definition": "O septo nasal é a principal estrutura de suporte do nariz. É composto por cartilagem hialina (cartilagem quadrangular ou septal) e osso: a lâmina perpendicular do etmoide (superiormente) e o vômer (inferiormente e posteriormente). A cartilagem septal se articula anteriormente e caudalmente com a crista maxilar em uma relação tongue-and-groove. A junção do septo anterior com a borda caudal define o ângulo septal anterior.",
-    "location": "Linha média do nariz, dividindo a cavidade nasal em duas fossas. A porção cartilaginosa é anterior; a porção óssea é posterior e superior.",
-    "relations": [
-      "Lâmina perpendicular do etmoide (superior)",
-      "Vômer (posteroinferior)",
-      "Crista maxilar (inferior — tongue-and-groove)",
-      "CLS (dorsalmente — estrutura em T)",
-      "Cruras mediais (caudalmente)"
+    "one_liner": "Estrutura de suporte medial — cartilagem quadrangular + lâmina perpendicular + vômer — chave para integridade nasal.",
+    "structures": [
+      {
+        "label": "Cartilagem quadrangular",
+        "description": "Porção cartilaginosa anterior; articula-se com crista maxilar em relação tongue-and-groove."
+      },
+      {
+        "label": "Lâmina perpendicular do etmoide",
+        "description": "Porção óssea superior; componente dorsal do septo."
+      },
+      {
+        "label": "Vômer",
+        "description": "Porção óssea inferior e posterior; completa a divisão da cavidade nasal."
+      },
+      {
+        "label": "L-strut",
+        "description": "Faixa de cartilagem dorsal e caudal de ≥10 mm (idealmente ≥15 mm em cartilagem fraca) — preservada para manutenção de suporte."
+      },
+      {
+        "label": "Área de Kiesselbach",
+        "description": "Zona densa de vascularidade no septo anterior; local mais provável de epistaxe."
+      }
     ],
-    "surgical_relevance": "O 'L-strut' — faixa de cartilagem dorsal e caudal de pelo menos 10 mm de largura (idealmente ≥ 15 mm em cartilagem fraca) — deve ser preservada durante a coleta de enxerto septal para manutenção do suporte nasal. A mucosa que recobre o pericôndrio septal é altamente vascularizada. A área densa de vascularidade no septo anterior é referida como área de Kiesselbach, local mais provável de epistaxe. A dissecção no plano subpericondrial minimiza o sangramento.",
+    "clinical_hook": "O L-strut deve ser preservado durante enxertia septal para evitar colapso. Área de Kiesselbach é de risco hemorrágico — dissecção subpericondrial minimiza sangramento.",
     "how_to_identify": "Estrutura firme na linha média; palpação com espátula revela desvios. Inspeção via rinoscopia anterior com espéculo nasal.",
     "images": [
       {
-        "file": "fig18-26-septo-nasal-sagital.jpeg",
-        "caption": "Corte sagital do septo nasal: cartilagem quadrangular anterior, lâmina perpendicular do etmoide superior e vômer inferior.",
-        "credit": "Neligan vol. 2, caps. 18-22 — Rhinoplasty"
-      },
-      {
-        "file": "fig18-34-septo-nasal-componentes.jpeg",
-        "caption": "Componentes do septo nasal em vista expandida — principal estrutura de suporte do dorso e fonte preferencial de enxerto cartilaginoso.",
-        "credit": "Neligan vol. 2, caps. 18-22 — Rhinoplasty"
+        "ref": "img-nasal-septum-001"
       }
     ],
     "citations": [
       "Neligan, 2023, vol. 2, caps. 18–19",
       "Core Procedures, 2020, cap. 4"
     ],
-    "updates": [],
     "tags": [
       "anatomia",
       "septo",
@@ -285,7 +322,8 @@
       "L-strut",
       "Kiesselbach",
       "suporte"
-    ]
+    ],
+    "updates": []
   },
   {
     "id": "rino-anat-009",
@@ -298,28 +336,39 @@
     ],
     "topic": "rinoplastia",
     "area": "estética-facial",
-    "definition": "Os ligamentos são parte do suporte estático nasal. Conexões fibrosas unem: (1) a porção superior da crura lateral com a porção inferior das CLS; (2) as cruras mediais ao septo distal; (3) os domos alares entre si pelo ligamento inter-alar superficial (na fáscia superficial) e pelo ligamento inter-alar propriamente dito — frequentemente referido como 'ligamento de Pitanguy'. O ligamento piriforme é uma membrana fibrosa que encapsula as cartilagens nasais, permitindo que funcionem como uma unidade.",
-    "location": "Ligamento inter-alar: entre os domos das CLA na fáscia superficial. Ligamento piriforme: membrana fibrosa envolvendo as cartilagens nasais.",
-    "relations": [
-      "CLA (cruras mediais e laterais)",
-      "CLS (sobreposição ligamentar)",
-      "Septo distal",
-      "Fáscia nasal superficial"
+    "one_liner": "Conexões fibrosas (Pitanguy inter-alar, piriforme) que estabilizam a ponta — ruptura causa alargamento.",
+    "structures": [
+      {
+        "label": "Ligamento inter-alar (Pitanguy)",
+        "description": "Faixa fibrosa entre os domos alares na fáscia superficial; estabiliza os domos ao nível da junção crura medial–crura média."
+      },
+      {
+        "label": "Ligamento inter-alar superficial",
+        "description": "Camada superficial na fáscia nasal superficial conectando os domos."
+      },
+      {
+        "label": "Ligamento piriforme",
+        "description": "Membrana fibrosa que encapsula as cartilagens nasais; permite que funcionem como unidade coesa."
+      },
+      {
+        "label": "Ligamentos crura-CLS",
+        "description": "Conexões entre crura lateral e porção inferior das CLS (cartilagens laterais superiores) na zona de scroll."
+      }
     ],
-    "surgical_relevance": "O ligamento inter-alar estabiliza as CLA ao nível da junção crura medial–crura média. Sua ruptura causa alargamento e distorção da ponta, razão pela qual suturas interdomais são necessárias após rinoplastia aberta.",
+    "clinical_hook": "Ruptura do ligamento inter-alar causa alargamento e distorção da ponta — motivo para suturas interdomais rotineiras após rinoplastia aberta.",
     "how_to_identify": "Na via aberta, após elevação do envelope de partes moles, os ligamentos são visualizados como faixas fibrosas conectando os domos e as cartilagens.",
     "images": [],
     "citations": [
       "Neligan, 2023, vol. 2, cap. 18"
     ],
-    "updates": [],
     "tags": [
       "anatomia",
       "ligamentos",
       "Pitanguy",
       "inter-alar",
       "suporte-estático"
-    ]
+    ],
+    "updates": []
   },
   {
     "id": "rino-anat-010",
@@ -333,35 +382,43 @@
     ],
     "topic": "rinoplastia",
     "area": "estética-facial",
-    "definition": "O nariz possui suprimento sanguíneo colateral extenso, o que torna a via aberta um procedimento seguro. A artéria supratroclear (carótida interna) dá origem às artérias nasal lateral, nasal externa descendente e angular. A artéria facial (carótida externa) ascende para conectar-se com a artéria angular. A artéria labial superior origina: (1) a artéria da soleira (sill artery), (2) as artérias filtrais, e (3) as artérias columelares ascendentes — o principal suprimento da columela. A drenagem venosa consiste em vasos que anastomosam com a veia facial.",
-    "location": "Todas as artérias nasais maiores situam-se acima da musculatura e da fáscia nasal, diretamente abaixo da derme.",
-    "relations": [
-      "Artéria supratroclear (carótida interna)",
-      "Artéria facial (carótida externa)",
-      "Artéria labial superior",
-      "Artéria columelar ascendente",
-      "Artéria nasal lateral"
+    "one_liner": "Suprimento colateral extenso (supratroclear + facial) protege a ponta — mas arteríola columelar é seccionada na via aberta.",
+    "structures": [
+      {
+        "label": "Artéria supratroclear",
+        "description": "Ramo da carótida interna via oftálmica; origina artérias nasal lateral, nasal externa descendente e angular."
+      },
+      {
+        "label": "Artéria facial",
+        "description": "Carótida externa; ascende para conectar-se com artéria angular — fornece colateralização crítica."
+      },
+      {
+        "label": "Artérias columelares ascendentes",
+        "description": "Originam-se de artéria labial superior; principal suprimento da columela e ponta nasal."
+      },
+      {
+        "label": "Plexo subdérmico",
+        "description": "Rede delicada de capilares abaixo da derme — em risco durante defatting excessivo."
+      }
     ],
-    "surgical_relevance": "A artéria columelar é seccionada durante a via aberta, mas a extensa colateralização protege a ponta nasal. A dissecção no plano correto (supraperichondrial sobre as cartilagens, subperiosteal sobre os ossos) preserva o suprimento sanguíneo. Dissecção subdérmica excessiva coloca em risco o delicado plexo subdérmico. A artéria nasal lateral fica em risco durante o descolamento lateral amplo da pele. As incisões de base alar devem ser inferiores ao sulco alar para preservar as artérias nasais laterais.",
+    "clinical_hook": "Colateralização extensa torna via aberta segura mesmo com secção da artéria columelar. Dissecção nos planos corretos (supraperichondrial/subperiosteal) preserva suprimento.",
     "how_to_identify": "Artérias visíveis como vasos pulsáteis na camada subdérmica durante dissecção. Sangramento orienta localização dos ramos principais.",
     "images": [
       {
-        "file": "fig18-15-vascularizacao-nasal.jpeg",
-        "caption": "Vascularização do nariz: anastomoses entre artéria supratroclear (ACI via oftálmica) e artéria facial (ACE), assegurando suprimento colateral e segurança da rinoplastia aberta.",
-        "credit": "Neligan vol. 2, caps. 18-22 — Rhinoplasty"
+        "ref": "img-nasal-vasculature-001"
       }
     ],
     "citations": [
       "Neligan, 2023, vol. 2, cap. 18"
     ],
-    "updates": [],
     "tags": [
       "anatomia",
       "vascularização",
       "artéria-columelar",
       "artéria-nasal-lateral",
       "plexo-subdérmico"
-    ]
+    ],
+    "updates": []
   },
   {
     "id": "rino-anat-011",
@@ -375,19 +432,27 @@
     ],
     "topic": "rinoplastia",
     "area": "estética-facial",
-    "definition": "Os principais nervos sensitivos do nariz são ramos do trigêmeo: (1) Nervo infraórbital (V2): sai pelo forame infraórbital (~10–12 mm abaixo do rebordo orbitário) e emite múltiplos ramos para a base alar, lábio superior e parede nasal lateral. (2) Nervo nasal externo (V1): ramo do etmoidal anterior, sai por um pequeno forame na porção média do osso nasal (~6–10 mm da linha média).",
-    "location": "V2 (infraórbital): emerge do forame infraórbital. V1 (nasal externo): emerge de forame na porção média do osso nasal.",
-    "relations": [
-      "Nervo trigêmeo — V1 (oftálmico) e V2 (maxilar)",
-      "Artérias alar e da soleira (em contato direto com ramos de V2)"
+    "one_liner": "V2 (infraórbital) + V1 (nasal externo) — ramos do trigêmeo que guiam anestesia bilocal para a ponta nasal.",
+    "structures": [
+      {
+        "label": "Nervo infraórbital (V2)",
+        "description": "Ramo maxilar do trigêmeo; emerge do forame infraórbital ~10–12 mm abaixo do rebordo orbitário; emite ramos para base alar, lábio superior e parede nasal lateral."
+      },
+      {
+        "label": "Nervo nasal externo (V1)",
+        "description": "Ramo oftálmico do trigêmeo; originário do nervo etmoidal anterior; emerge por forame na porção média do osso nasal ~6–10 mm da linha média."
+      },
+      {
+        "label": "Confluência V2 na base alar",
+        "description": "Zona densa de ramos sensitivos; ponto ideal para infiltração local anestésica da ponta."
+      }
     ],
-    "surgical_relevance": "A confluência densa de ramos sensitivos de V2 na base alar torna a infiltração local nesse ponto ideal para anestesia da ponta nasal. A infiltração nos dois pontos (base alar + dorso sobre o forame do nasal externo) resulta em anestesia quase completa da pele nasal.",
+    "clinical_hook": "Infiltração bilocal (base alar + dorso sobre forame do nasal externo) resulta em anestesia quase completa da pele nasal com mínimo de volume.",
     "how_to_identify": "Forame infraórbital: ~10–12 mm abaixo do rebordo orbitário na linha médio-pupilar. Forame do nasal externo: ~6–10 mm lateral à linha média no dorso nasal.",
     "images": [],
     "citations": [
       "Neligan, 2023, vol. 2, cap. 18"
     ],
-    "updates": [],
     "tags": [
       "anatomia",
       "inervação",
@@ -395,7 +460,8 @@
       "infraórbital",
       "nasal-externo",
       "anestesia"
-    ]
+    ],
+    "updates": []
   },
   {
     "id": "rino-anat-012",
@@ -409,27 +475,31 @@
     ],
     "topic": "rinoplastia",
     "area": "estética-facial",
-    "definition": "Músculos intrínsecos: (1) Nasalis (pars transversa) — insere-se na borda das CLS; sua contração lateral aumenta o fluxo aéreo; (2) Dilatador das narinas (pars alaris / levator alae) — dilata a ala e aumenta a área da valva externa; (3) Depressor septi nasi — origina-se no septo caudal e insere-se no orbicular do lábio superior; seu espasmo causa descida da ponta, encurtamento do lábio superior e vinco transverso no filtro. Músculos extrínsecos: prócero, orbicular, levator labii alaeque nasi.",
-    "location": "Nasalis: sobre a ponte nasal e CLS. Dilatador: na asa nasal. Depressor septi nasi: entre o septo caudal e o orbicular do lábio.",
-    "relations": [
-      "CLS (inserção do nasalis)",
-      "Orbicular do lábio (inserção do depressor septi)",
-      "Nervo facial VII (inervação motora)",
-      "Valva nasal externa (levator alae)"
-    ],
-    "surgical_relevance": "A lesão inadvertida da pars transversa do nasalis pode desestabilizar as CLS e comprometer o fluxo aéreo no terço médio. A paralisia facial (VII par) resulta em colapso da valva externa por perda da tonicidade do levator alae (até 20% de aumento na resistência). O depressor septi nasi tipo I e II requer liberação quando há descida da ponta com animação.",
-    "how_to_identify": "Nasalis: contração visível na ponte nasal durante inspiração forçada. Depressor septi: descida da ponta ao sorrir.",
-    "images": [
+    "one_liner": "Nasalis + depressor septi nasi + dilatador — músculos que modula fluxo aéreo e dinâmica da ponta com sorriso.",
+    "structures": [
       {
-        "file": "fig18-20-musculos-nasais.jpeg",
-        "caption": "Músculos intrínsecos e extrínsecos do nariz: nasalis, dilatador das narinas, depressor do septo e levator labii superioris alaeque nasi.",
-        "credit": "Neligan vol. 2, caps. 18-22 — Rhinoplasty"
+        "label": "Nasalis (pars transversa)",
+        "description": "Insere-se na borda das CLS (cartilagens laterais superiores); sua contração lateral aumenta o fluxo aéreo no terço médio."
+      },
+      {
+        "label": "Dilatador das narinas (levator alae)",
+        "description": "Dilata a ala e aumenta a área da valva externa; inervado por VII (nervo facial) — sua paralisia compromete tonicidade."
+      },
+      {
+        "label": "Depressor septi nasi",
+        "description": "Origina-se no septo caudal; insere-se no orbicular do lábio; seu espasmo causa descida da ponta com animação."
+      },
+      {
+        "label": "Músculos extrínsecos",
+        "description": "Prócero, orbicular, levator labii alaeque nasi — atuam em função com a musculatura nasal intrínseca."
       }
     ],
+    "clinical_hook": "Lesão do nasalis desestabiliza CLS (cartilagens laterais superiores) e compromete fluxo aéreo. Paralisia do nervo facial causa colapso valvar por perda do levator alae. Depressor septi tipos 1–2 requer liberação se houver descida dinâmica.",
+    "how_to_identify": "Nasalis: contração visível na ponte nasal durante inspiração forçada. Depressor septi: descida da ponta ao sorrir.",
+    "images": [],
     "citations": [
       "Neligan, 2023, vol. 2, caps. 18 e 21"
     ],
-    "updates": [],
     "tags": [
       "anatomia",
       "musculatura",
@@ -437,7 +507,8 @@
       "depressor-septi",
       "dilatador",
       "valva"
-    ]
+    ],
+    "updates": []
   },
   {
     "id": "rino-anat-013",
@@ -451,34 +522,40 @@
     ],
     "topic": "rinoplastia",
     "area": "estética-facial",
-    "definition": "Os cornetos superior, médio e inferior são estruturas ósseas recobertas por mucosa espessa com epitélio cilíndrico pseudoestratificado ciliado. A submucosa contém glândulas seromucosas e canais vasculares com sinusoides cavernosos sob controle autonômico (simpático: vasos de resistência/fluxo; parassimpático: vasos de capacitância/volume). O corneto inferior responde por até 2/3 da resistência total das vias aéreas e é o alvo mais frequente de cirurgia para obstrução.",
-    "location": "Parede lateral da cavidade nasal — inferior, médio e superior, de inferior a superior.",
-    "relations": [
-      "Meato inferior (sob corneto inferior — ducto nasolacrimal)",
-      "Meato médio (sob corneto médio — drenagem de seios paranasais)",
-      "Septo nasal (face medial)"
-    ],
-    "surgical_relevance": "Os vasos do corneto posterior são de maior calibre — ressecção posterior aumenta o risco de sangramento significativo. O ciclo nasal (ciclo de Minz) produz tumefação e contração alternada da mucosa de cada lado em ciclos de 30 min a 5 h, mantendo a resistência total constante. Hipertrofia do corneto inferior típicamente é contralateral ao desvio septal.",
-    "how_to_identify": "Inspeção via rinoscopia anterior com espéculo nasal: estruturas rosadas curvas na parede lateral. Corneto inferior é o maior e mais visível; corneto médio logo acima.",
-    "images": [
+    "one_liner": "Estruturas ósseas da parede lateral recobertas por mucosa espessa — corneto inferior controla 2/3 da resistência aérea total.",
+    "structures": [
       {
-        "file": "fig18-35-cornetos-nasais.jpeg",
-        "caption": "Cornetos (turbinatos) nasais: inferior, médio e superior — estruturas que condicionam o fluxo aéreo e podem ser manejadas em casos de obstrução.",
-        "credit": "Neligan vol. 2, caps. 18-22 — Rhinoplasty"
+        "label": "Corneto inferior",
+        "description": "Maior e mais visível; responde por até 2/3 da resistência total das vias aéreas; alvo frequente de cirurgia para obstrução."
+      },
+      {
+        "label": "Corneto médio",
+        "description": "Posição intermediária; participa da resistência aérea; marca limite de drenagem para seios paranasais."
+      },
+      {
+        "label": "Corneto superior",
+        "description": "Menor; contribuição menor à resistência aérea; menos frequentemente tratado cirurgicamente."
+      },
+      {
+        "label": "Mucosa pseudoestratificada com sinusoides",
+        "description": "Epitélio cilíndrico sob controle autonômico (simpático: resistência; parassimpático: capacitância)."
       }
     ],
+    "clinical_hook": "Vasos cornetos posteriores têm maior calibre — ressecção posterior arriscada para sangramento. Ciclo nasal (Minz) de 30 min–5 h mantém resistência total constante. Hipertrofia inferior típica é contralateral a desvio septal.",
+    "how_to_identify": "Inspeção via rinoscopia anterior com espéculo nasal: estruturas rosadas curvas na parede lateral. Corneto inferior é o maior e mais visível; corneto médio logo acima.",
+    "images": [],
     "citations": [
       "Neligan, 2023, vol. 2, caps. 18 e 21",
       "Grabb & Smith, 2024, cap. 54"
     ],
-    "updates": [],
     "tags": [
       "anatomia",
       "cornetos",
       "turbinatos",
       "resistência-aérea",
       "ciclo-nasal"
-    ]
+    ],
+    "updates": []
   },
   {
     "id": "rino-anat-014",
@@ -491,28 +568,36 @@
     ],
     "topic": "rinoplastia",
     "area": "estética-facial",
-    "definition": "A valva nasal interna é o segmento mais estreito das vias aéreas nasais e o local de maior resistência. É formada pelo ângulo entre o septo nasal e a margem caudal das CLS, típicamente de 10–15°. Essa valva é responsável por aproximadamente 50% da resistência total das vias aéreas. Alterações mínimas em seu calibre causam mudanças exponenciais no fluxo aéreo (lei de Poiseuille: fluxo ∝ r⁴).",
-    "location": "Junção entre a margem caudal das CLS e o septo nasal, com contribuição da cabeça anterior do corneto inferior.",
-    "relations": [
-      "CLS (margem caudal)",
-      "Septo nasal (face lateral)",
-      "Corneto inferior (cabeça anterior)",
-      "Scroll area"
+    "one_liner": "Ângulo de 10–15° entre septo e CLS (cartilagens laterais superiores) — segmento crítico responsável por 50% da resistência aérea total.",
+    "structures": [
+      {
+        "label": "Ângulo valvar",
+        "description": "Tipicamente de 10–15° entre septo nasal lateral e margem caudal das CLS (cartilagens laterais superiores)."
+      },
+      {
+        "label": "Margem caudal das CLS",
+        "description": "Borda inferior das cartilagens laterais superiores que define a parede lateral da valva."
+      },
+      {
+        "label": "Septo nasal (face lateral)",
+        "description": "Parede medial da valva; desvios causam incompetência."
+      },
+      {
+        "label": "Cabeça anterior do corneto inferior",
+        "description": "Contribui à definição inferior da valva."
+      }
     ],
-    "surgical_relevance": "Causas de incompetência: desvio septal, colapso ou estreitamento das CLS (deformidade em V invertido), cicatriz pós-rinoplastia na scroll area. Manobra de Cottle (tração lateral da bochecha): alívio sugere incompetência valvar. Tratamento: spreader grafts, spreader flaps (auto-spreader), batten grafts e suturas de suspensão. Todas as osteotomias laterais diminuem a valva nasal interna.",
+    "clinical_hook": "Alterações mínimas em calibre causam mudanças exponenciais no fluxo aéreo (lei de Poiseuille: fluxo ∝ r⁴). Spreader grafts e spreader flaps restauram competência.",
     "how_to_identify": "Manobra de Cottle: tração lateral da bochecha abre a valva — se alivia a obstrução, sugere incompetência. Inspeção com espéculo na inspiração: colapso visível da parede lateral nasal.",
     "images": [
       {
-        "file": "fig18-30-cartilagens-laterais-3d.jpeg",
-        "caption": "Valva nasal interna: ângulo de 10–15° entre o septo e a margem caudal das CLS — segmento mais estreito da via aérea nasal.",
-        "credit": "Neligan vol. 2, caps. 18-22 — Rhinoplasty"
+        "ref": "img-internal-valve-001"
       }
     ],
     "citations": [
       "Neligan, 2023, vol. 2, caps. 18 e 21",
       "Grabb & Smith, 2024, cap. 54"
     ],
-    "updates": [],
     "tags": [
       "anatomia",
       "valva-interna",
@@ -520,7 +605,8 @@
       "CLS",
       "Poiseuille",
       "Cottle"
-    ]
+    ],
+    "updates": []
   },
   {
     "id": "rino-anat-015",
@@ -533,30 +619,44 @@
     ],
     "topic": "rinoplastia",
     "area": "estética-facial",
-    "definition": "Formada pela borda caudal da crura lateral da CLA, tecidos moles alares (fibroadiposos, sem cartilagem), septo membranoso e soleira nasal. A valva externa representa a abertura das narinas e é sustentada ativamente pela musculatura nasal.",
-    "location": "Abertura da narina, delimitada pela crura lateral da CLA, tecidos moles alares, septo membranoso e soleira nasal.",
-    "relations": [
-      "CLA (crura lateral — borda caudal)",
-      "Tecidos moles alares",
-      "Septo membranoso",
-      "Soleira nasal",
-      "Músculo dilatador das narinas (levator alae)"
+    "one_liner": "Abertura da narina formada por crura lateral + tecidos alares + septo membranoso — suportada ativamente pela musculatura.",
+    "structures": [
+      {
+        "label": "Crura lateral da CLA",
+        "description": "Borda caudal que define a parede lateral da narina; deve ter rigidez e espessura adequadas."
+      },
+      {
+        "label": "Tecidos moles alares",
+        "description": "Componente fibroadiposo sem cartilagem que contribui à forma e competência da valva."
+      },
+      {
+        "label": "Septo membranoso",
+        "description": "Parede medial cartilágeno-membranosa da valva."
+      },
+      {
+        "label": "Soleira nasal",
+        "description": "Borda inferior da narina; ponto de contato com lábio superior na inspiração."
+      },
+      {
+        "label": "Músculo dilatador (levator alae)",
+        "description": "Sustentação ativa; perda de tonicidade por paralisia causa colapso."
+      }
     ],
-    "surgical_relevance": "Colapso externo ocorre por: CLA fracas ou finas, malposição cefálica das CLA (reduz suporte lateral), perda de tonicidade muscular (paralisia facial — até 20% de aumento na resistência), cicatriz vestibular. Tratamento: lateral crural strut grafts, alar contour grafts, alar batten grafts, turnover flaps das CLA.",
+    "clinical_hook": "Colapso externo ocorre por CLA (cartilagens laterais inferiores) fraca/fina, malposição cefálica ou paralisia facial (até 20% ↑ resistência). Lateral crural strut e alar batten grafts restauram competência.",
     "how_to_identify": "Inspeção durante inspiração profunda: colapso visível da asa nasal indica incompetência da valva externa. Inserção de espátula no vestíbulo e tração lateral melhora o fluxo.",
     "images": [],
     "citations": [
       "Neligan, 2023, vol. 2, cap. 21",
       "Grabb & Smith, 2024, cap. 54"
     ],
-    "updates": [],
     "tags": [
       "anatomia",
       "valva-externa",
       "colapso-alar",
       "CLA",
       "musculatura"
-    ]
+    ],
+    "updates": []
   },
   {
     "id": "rino-anat-016",
@@ -569,29 +669,32 @@
     ],
     "topic": "rinoplastia",
     "area": "estética-facial",
-    "definition": "A ponta nasal é o elemento mais determinante do resultado estético. O conceito clássico de trípode (dois pilares = cruras laterais; um pilar = cruras mediais unidas) é útil para entender como alterações em cada pilar afetam projeção e rotação. Os mecanismos de suporte incluem: intrínseco — rigidez e forma das CLA, fixação das cruras mediais ao septo; extrínseco — ligamento inter-alar, scroll, inserção da pele e tecidos moles, espinha nasal anterior.",
-    "location": "Terço inferior nasal — ponta e columela.",
-    "relations": [
-      "CLA (todas as cruras)",
-      "Ligamento inter-alar (Pitanguy)",
-      "Septo nasal caudal",
-      "Espinha nasal anterior",
-      "Scroll area"
-    ],
-    "surgical_relevance": "A via aberta pode causar leve perda de projeção por ruptura do suporte ligamentar e descolamento extenso da pele — razão para uso rotineiro de columellar strut e técnicas de sutura. Técnicas de sutura (transdomal, interdomal, lateral crural steal) devem preceder a ressecção tecidual. Enxertos de escudo, cap e columelar strut ajustam projeção, rotação e suporte.",
-    "how_to_identify": "Projeção da ponta testada com pressão digital: quanto a ponta resiste à retroprojeção indica a integridade dos mecanismos de suporte.",
-    "images": [
+    "one_liner": "Trípode (cruras laterais + cruras mediais) + ligamento inter-alar + scroll — determine projeção, rotação e estética final.",
+    "structures": [
       {
-        "file": "fig18-3-projecao-ponta.jpeg",
-        "caption": "Mecanismos de suporte da ponta nasal e conceito do trípode: cruras laterais como pilares laterais e cruras mediais unidas como pilar medial.",
-        "credit": "Neligan vol. 2, caps. 18-22 — Rhinoplasty"
+        "label": "Conceito de trípode",
+        "description": "Dois pilares laterais (cruras laterais) + um pilar medial (cruras mediais unidas); alterações em cada pilar afetam projeção e rotação."
+      },
+      {
+        "label": "Suporte intrínseco",
+        "description": "Rigidez e forma das CLA (cartilagens laterais inferiores), fixação das cruras mediais ao septo; preservação crítica durante manipulação."
+      },
+      {
+        "label": "Suporte extrínseco",
+        "description": "Ligamento inter-alar, scroll, inserção da pele e tecidos moles, espinha nasal anterior."
+      },
+      {
+        "label": "Columela e septo caudal",
+        "description": "Fornece sustentação medial; fixação das cruras mediais mantém projeção."
       }
     ],
+    "clinical_hook": "Via aberta causa leve perda de projeção por ruptura ligamentar e descolamento extenso — necessário columellar strut e suturas. Sutura antes da ressecção.",
+    "how_to_identify": "Projeção da ponta testada com pressão digital: quanto a ponta resiste à retroprojeção indica a integridade dos mecanismos de suporte.",
+    "images": [],
     "citations": [
       "Neligan, 2023, vol. 2, cap. 18",
       "Grabb & Smith, 2024, cap. 55"
     ],
-    "updates": [],
     "tags": [
       "anatomia",
       "suporte",
@@ -599,6 +702,7 @@
       "trípode",
       "projeção",
       "rotação"
-    ]
+    ],
+    "updates": []
   }
 ]

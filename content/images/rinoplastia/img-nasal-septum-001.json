@@ -1,0 +1,18 @@
+{
+  "id": "img-nasal-septum-001",
+  "file": "rinoplastia/fig18-34-septo-nasal-componentes.jpeg",
+  "subject": "componentes do septo nasal — cartilagem quadrangular, lâmina perpendicular do etmoide e vômer",
+  "role": "detail",
+  "source": "Neligan 2023, vol. 2, cap. 18 — Rhinoplasty",
+  "credit": "Adaptado de Neligan 2023, vol. 2, cap. 18",
+  "default_caption": "Principal estrutura de suporte do nariz e fonte preferencial de enxerto cartilaginoso.",
+  "labels": [
+    { "num": 1, "text": "Cartilagem quadrangular — porção anterior; doadora de enxerto septal." },
+    { "num": 2, "text": "Lâmina perpendicular do etmoide — componente ósseo superior." },
+    { "num": 3, "text": "Vômer — componente ósseo posteroinferior." },
+    { "num": 4, "text": "Crista maxilar — articulação inferior (tongue-and-groove com o septo)." },
+    { "num": 5, "text": "L-strut — faixa dorsal + caudal de >=10 mm que deve ser preservada." }
+  ],
+  "applicable_topics": ["rinoplastia"],
+  "status": "available"
+}

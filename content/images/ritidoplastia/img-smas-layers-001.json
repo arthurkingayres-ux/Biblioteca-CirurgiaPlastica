@@ -1,0 +1,18 @@
+{
+  "id": "img-smas-layers-001",
+  "file": "ritidoplastia/riti-anat-smas-camadas.jpg",
+  "subject": "camadas do SMAS (Sistema Musculoaponeurótico Superficial) — plano fibromuscular entre platisma e orbicular",
+  "role": "overview",
+  "source": "Neligan 2023, vol. 2, cap. 11 — Facelift (Deep Plane)",
+  "credit": "Adaptado de Neligan 2023, vol. 2, cap. 11",
+  "default_caption": "Camada fibromuscular contínua entre a gordura subcutânea e a fáscia parotidomasseteria — alvo da tração no facelift.",
+  "labels": [
+    { "num": 1, "text": "Pele e derme — plano superficial; retalho cutâneo elevado primeiro." },
+    { "num": 2, "text": "Gordura subcutânea — entre pele e SMAS; preservar vascularização." },
+    { "num": 3, "text": "SMAS — camada fibromuscular; vetor de tração posterior-superior." },
+    { "num": 4, "text": "Fáscia parotidomasseteria — plano profundo; contém ramos do nervo facial." },
+    { "num": 5, "text": "Platisma — continuação cervical do SMAS; manejo associado." }
+  ],
+  "applicable_topics": ["ritidoplastia"],
+  "status": "available"
+}
