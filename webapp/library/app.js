@@ -3,9 +3,27 @@ const App = (() => {
   const CARD_TYPES = ['anatomia', 'tecnicas', 'decisoes', 'notas', 'flashcards'];
   const CARDS_BASE = '../../content/cards/';
   const MANIFEST_URL = CARDS_BASE + 'manifest.json';
+  const IMAGE_MANIFEST_URL = '../../content/images/manifest.json';
 
   let _allCards = [];
   let _manifest = [];
+  let _imageIndex = null;
+
+  async function loadImageIndex() {
+    if (_imageIndex) return _imageIndex;
+    try {
+      const resp = await fetch(IMAGE_MANIFEST_URL);
+      if (!resp.ok) { _imageIndex = new Map(); return _imageIndex; }
+      const data = await resp.json();
+      _imageIndex = new Map((data.entries || []).map(e => [e.id, e]));
+    } catch (_) {
+      _imageIndex = new Map();
+    }
+    return _imageIndex;
+  }
+
+  window.Atlas = window.Atlas || {};
+  window.Atlas.loadImageIndex = loadImageIndex;
 
   // --- Helpers ---
   function toTitleCase(slug) {
@@ -25,6 +43,7 @@ const App = (() => {
       console.warn('Failed to load manifest.json, using empty manifest:', e.message);
       _manifest = [];
     }
+    await loadImageIndex();
 
     for (const { area, topic } of _manifest) {
       for (const type of CARD_TYPES) {
