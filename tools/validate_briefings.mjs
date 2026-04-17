@@ -6,7 +6,15 @@ import { fileURLToPath } from 'node:url';
 
 const ROOT = resolve(fileURLToPath(new URL('../', import.meta.url)));
 const PORT = 8767;
-const TOPICS = ['lipoaspiracao', 'gluteoplastia', 'contorno-pos-bariatrico', 'otoplastia'];
+const TOPICS = ['lipoaspiracao', 'gluteoplastia', 'contorno-pos-bariatrico', 'otoplastia', 'abdominoplastia'];
+
+const EXPECTED_IMAGE_COUNTS = {
+  lipoaspiracao: null,
+  gluteoplastia: null,
+  'contorno-pos-bariatrico': null,
+  otoplastia: null,
+  abdominoplastia: null, // flipa para 6 no PR #2
+};
 const OUT_DIR = join(ROOT, 'tools', '_validation');
 
 const themeArg = (process.argv.find(a => a.startsWith('--theme=')) || '--theme=both').split('=')[1];
@@ -67,7 +75,8 @@ async function validateTopic(page, topic, theme) {
     const bodyBg = getComputedStyle(document.body).backgroundColor;
     const heroCount = document.querySelectorAll('.briefing-hero .role-hero').length;
     const badgeTypes = [...new Set(Array.from(document.querySelectorAll('.card-badge')).map(b => [...b.classList].find(c => c.startsWith('badge-'))))];
-    return { total: imgs.length, broken, theme, bodyBg, heroCount, badgeTypes };
+    const placeholders = document.querySelectorAll('.card-figure.placeholder').length;
+    return { total: imgs.length, broken, theme, bodyBg, heroCount, badgeTypes, placeholders };
   });
 
   await mkdir(OUT_DIR, { recursive: true });
@@ -97,10 +106,14 @@ async function smokeToggle(page) {
     for (const t of TOPICS) {
       try {
         const r = await validateTopic(page, t, theme);
-        const pass = r.broken.length === 0 && r.total > 0 && r.heroCount === 1 && r.theme === theme;
+        const pass = r.broken.length === 0 && r.total > 0 && r.heroCount === 1 && r.theme === theme && r.placeholders === 0;
         if (!pass) ok = false;
-        console.log(`${pass ? 'PASS' : 'FAIL'} ${t} [${theme}]: ${r.total} img, ${r.broken.length} broken, hero=${r.heroCount}, bg=${r.bodyBg}, badges=${r.badgeTypes.join(',')}`);
+        console.log(`${pass ? 'PASS' : 'FAIL'} ${t} [${theme}]: ${r.total} img, ${r.broken.length} broken, ${r.placeholders} placeholder, hero=${r.heroCount}, bg=${r.bodyBg}, badges=${r.badgeTypes.join(',')}`);
         if (r.broken.length) console.log('  broken:', r.broken.slice(0, 5));
+        const expected = EXPECTED_IMAGE_COUNTS[t];
+        if (expected !== null && expected !== undefined && r.total !== expected) {
+          console.log(`  WARN expected ${expected} images for ${t}, got ${r.total}`);
+        }
       } catch (e) { ok = false; console.log(`FAIL ${t} [${theme}]: ${e.message}`); }
     }
   }
