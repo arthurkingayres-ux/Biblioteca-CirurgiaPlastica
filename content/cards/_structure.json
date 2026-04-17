@@ -25,21 +25,28 @@
       "purpose": "1 card por estrutura anatomica — landmarks, relevancia cirurgica, como identificar",
       "required_fields": ["id", "type", "title", "topic", "area", "definition", "location", "surgical_relevance"],
       "example": {
-        "id": "blef-anat-001",
+        "id": "abdo-anat-002",
         "type": "anatomy",
-        "title": "Pele Palpebral",
-        "aliases": ["pele da palpebra"],
-        "topic": "blefaroplastia",
-        "area": "estetica-facial",
-        "definition": "A pele mais fina do corpo (~0.5mm)...",
-        "location": "Regiao pre-tarsal e pre-septal...",
-        "relations": ["musculo orbicular", "septo orbital"],
-        "surgical_relevance": "Preservar >=20mm entre borda ciliar e sobrancelha...",
-        "how_to_identify": "Pele translucida, pincavel na regiao pre-septal...",
-        "images": ["blef-pele-palpebral.png"],
-        "citations": ["Neligan, 2023, vol. 2, cap. 8"],
-        "updates": [],
-        "tags": ["anatomia", "palpebra", "pele"]
+        "title": "Zonas de Huger",
+        "aliases": ["zonas vasculares de Huger", "Huger zones"],
+        "topic": "abdominoplastia",
+        "area": "contorno-corporal",
+        "one_liner": "Tres zonas de perfusao da parede abdominal (Huger, 1979); Zona III sustenta o retalho apos disseccao.",
+        "structures": [
+          { "label": "Zona I", "description": "DIEA + SIEA · central · ligada na disseccao" },
+          { "label": "Zona II", "description": "SCIA + SIEA · inguinal · tambem comprometida" },
+          { "label": "Zona III", "description": "intercostais + subcostais + lombares · dominante pos-op" }
+        ],
+        "relations": [
+          "Perfurantes da Zona III entram entre linha axilar anterior e hemiclavicular",
+          "Arcada de Thompson conecta DIEA a toracica interna"
+        ],
+        "clinical_hook": "Descolagem em V invertido preserva perfurantes da Zona III — chave da viabilidade do retalho.",
+        "images": [
+          { "ref": "img-huger-zones-overview-001" }
+        ],
+        "citations": ["Neligan 2023, vol. 2, cap. 27"],
+        "tags": ["anatomia", "vascularizacao", "zonas-huger"]
       }
     },
     "technique": {
