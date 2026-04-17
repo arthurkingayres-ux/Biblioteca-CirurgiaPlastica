@@ -1,17 +1,17 @@
 {
   "id": "img-scarpa-lymphatics-001",
   "file": "abdominoplastia/abdo-anat-scarpa-linfaticos.jpg",
-  "subject": "fascia de Scarpa como substrato do plexo linfatico subdermico inferior",
+  "subject": "fáscia de Scarpa como substrato do plexo linfático subdérmico inferior",
   "role": "detail",
   "source": "Neligan 2023, vol. 2, cap. 27 - Matarasso (Abdominoplasty)",
   "credit": "Adaptado de Neligan 2023, vol. 2, cap. 27 - Matarasso",
-  "default_caption": "Histologia (a) com linfaticos infraumbilicais corados por injeacao de latex e esquema (b) das camadas teciduais correspondentes.",
+  "default_caption": "Histologia (a) com linfáticos infraumbilicais corados por injeção de látex e esquema (b) das camadas teciduais correspondentes.",
   "labels": [
-    { "num": 1, "text": "Painel (a) - corte histologico infraumbilical; insets 50 um mostram linfaticos preservados na fascia de Scarpa." },
-    { "num": 2, "text": "Painel (b) - esquema em camadas: rosa = gordura subcutanea superficial; amarelo = gordura profunda; verde-agua = plano sub-fascial." },
-    { "num": 3, "text": "Plexo linfatico superficial - acima da fascia de Scarpa." },
-    { "num": 4, "text": "Fascia de Scarpa (membranosa) - substrato do plexo linfatico; preserva-la reduz seroma." },
-    { "num": 5, "text": "Drenagem obliqua para linfonodos inguinais ipsilaterais." }
+    { "num": 1, "text": "Painel (a) - corte histológico infraumbilical; insets 50 um mostram linfáticos preservados na fáscia de Scarpa." },
+    { "num": 2, "text": "Painel (b) - esquema em camadas: rosa = gordura subcutânea superficial; amarelo = gordura profunda; verde-água = plano sub-fascial." },
+    { "num": 3, "text": "Plexo linfático superficial - acima da fáscia de Scarpa." },
+    { "num": 4, "text": "Fáscia de Scarpa (membranosa) - substrato do plexo linfático; preservá-la reduz seroma." },
+    { "num": 5, "text": "Drenagem oblíqua para linfonodos inguinais ipsilaterais." }
   ],
   "applicable_topics": ["abdominoplastia"],
   "status": "available"

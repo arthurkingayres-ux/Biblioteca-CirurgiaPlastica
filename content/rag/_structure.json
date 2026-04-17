@@ -40,18 +40,19 @@
         {
           "level": 3,
           "title": "Anatomy",
+          "purpose": "Narra anatomia da regiao com granularidade suficiente para derivar cards v2 (one_liner, structures numeradas, clinical hook, how_to_identify, ref a library entry).",
           "structure_template": {
             "level": 4,
             "title": "<Estrutura>",
             "fields": [
-              "**Definicao:** ...",
-              "**Localizacao:** ...",
-              "**Relacoes:** ...",
-              "**Relevancia cirurgica:** ...",
-              "**Como identificar:** ...",
-              "[Imagem: <filename>]",
+              "**One-liner:** frase-resumo em portugues com acentos (<=160 chars).",
+              "**Estruturas:** lista numerada (label + descricao curta) para o card v2 structures[].",
+              "**Clinical hook:** por que importa cirurgicamente (<=200 chars).",
+              "**Como identificar:** como reconhecer no campo operatorio.",
+              "[Imagem: <filename>] (opcional; nomes ASCII sem acentos)",
               "(Citacao inline)"
-            ]
+            ],
+            "required_fields": ["one_liner", "structures", "clinical_hook", "how_to_identify"]
           }
         },
         {
