@@ -1,0 +1,20 @@
+{
+  "id": "img-aesthetic-subunits-001",
+  "file": "abdominoplastia/abdo-anat-unidades-esteticas.jpg",
+  "subject": "unidades esteticas do abdome feminino (Matarasso)",
+  "role": "schematic",
+  "source": "Neligan 2023, vol. 2, cap. 27 - Matarasso (Abdominoplasty)",
+  "credit": "Adaptado de Neligan 2023, vol. 2, cap. 27 - Matarasso",
+  "default_caption": "Unidades esteticas do abdome feminino relevantes ao planejamento conjunto de abdominoplastia e lipoaspiracao.",
+  "labels": [
+    { "num": 1, "text": "Abdome superior central (epigastrio)." },
+    { "num": 2, "text": "Abdome superior lateral - bilateral." },
+    { "num": 3, "text": "Abdome inferior (infraumbilical, area de ressecao)." },
+    { "num": 4, "text": "Flancos - bilateral." },
+    { "num": 5, "text": "Monte pubiano." },
+    { "num": 6, "text": "Zona (a) - transicao axilar para flanco." },
+    { "num": 7, "text": "Zona (b) - transicao flanco para coxa proximal." }
+  ],
+  "applicable_topics": ["abdominoplastia"],
+  "status": "available"
+}

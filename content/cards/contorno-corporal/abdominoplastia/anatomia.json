@@ -3,267 +3,128 @@
     "id": "abdo-anat-001",
     "type": "anatomy",
     "title": "Camadas da Parede Abdominal",
-    "aliases": [
-      "parede abdominal",
-      "layers of abdominal wall"
-    ],
+    "aliases": ["parede abdominal", "layers of abdominal wall"],
     "topic": "abdominoplastia",
     "area": "contorno-corporal",
-    "definition": "A parede abdominal anterior é composta por sete camadas, de superficial para profundo: (1) pele, (2) gordura subcutânea superficial, (3) fáscia de Scarpa (fáscia membranosa superficial), (4) gordura subscarpal (profunda), (5) bainha anterior do reto abdominal, (6) músculo reto abdominal e (7) bainha posterior do reto abdominal. Na cirurgia de contorno, distinguem-se duas camadas de gordura subcutânea: superficial (abaixo da derme) e profunda (abaixo da fáscia superficial). A lipoaspiração é realizada livremente na camada profunda, com maior cautela na superficial para evitar irregularidades de contorno.",
-    "location": "Toda a extensão da parede abdominal anterior, do processo xifoide ao pubis e das linhas axilares anteriores bilateralmente.",
-    "relations": [
-      "Fáscia de Scarpa (entre gordura superficial e profunda)",
-      "Bainha do reto abdominal (anterior e posterior)",
-      "Músculo reto abdominal",
-      "Músculos oblíquos externo, interno e transverso do abdome"
+    "one_liner": "Sete camadas da parede abdominal anterior; a fascia de Scarpa separa as duas gorduras subcutaneas.",
+    "structures": [
+      { "label": "Camada 1", "description": "Pele." },
+      { "label": "Camada 2", "description": "Gordura subcutanea superficial." },
+      { "label": "Camada 3", "description": "Fascia de Scarpa (fascia membranosa superficial)." },
+      { "label": "Camada 4", "description": "Gordura subscarpal (profunda)." },
+      { "label": "Camada 5", "description": "Bainha anterior do reto abdominal." },
+      { "label": "Camada 6", "description": "Musculo reto abdominal." },
+      { "label": "Camada 7", "description": "Bainha posterior do reto abdominal." }
     ],
-    "surgical_relevance": "O conhecimento das camadas é essencial para o plano de dissecção correto na abdominoplastia. A dissecção é realizada profundamente à fáscia de Scarpa na técnica clássica, porém a preservação da fáscia de Scarpa reduz a incidência de seroma ao manter os linfáticos subdérmicos intactos.",
-    "how_to_identify": "Pele e tecido subcutâneo são incisados até a visualização da fáscia esbranquiçada da bainha anterior do reto. A fáscia de Scarpa é uma camada membranosa distinta entre as gorduras superficial e profunda, identificável na região infra-umbilical.",
+    "clinical_hook": "Dissecar profundamente a fascia de Scarpa e o plano classico; preserva-la reduz seroma por manter os linfaticos subdermicos intactos.",
+    "how_to_identify": "Camada membranosa esbranquicada entre as duas gorduras, mais nitida em regiao infraumbilical.",
     "images": [
-      {
-        "file": "abdo-anat-camadas-us.jpg",
-        "caption": "Camadas da parede abdominal em ultrassom: pele, gordura subcutânea superficial, fáscia de Scarpa, gordura profunda e fáscia do reto — plano de dissecção da abdominoplastia clássica.",
-        "credit": "Neligan vol. 2, cap. 27 — Matarasso (Abdominoplasty)"
-      },
-      {
-        "file": "abdo-anat-camadas-histologia.jpg",
-        "caption": "Corte histológico mostrando as sete camadas da parede abdominal anterior, com destaque para a fáscia de Scarpa separando a gordura subcutânea superficial da profunda.",
-        "credit": "Neligan vol. 2, cap. 27 — Matarasso (Abdominoplasty)"
-      }
+      { "ref": "img-abdominal-layers-001" }
     ],
     "citations": [
-      "Grabb & Smith, 2024, cap. 75 — Colwell",
-      "Neligan, 2023, vol. 2, cap. 27 — Matarasso"
+      "Neligan 2023, vol. 2, cap. 27 - Matarasso",
+      "Grabb & Smith 2024, cap. 75 - Colwell"
     ],
     "updates": [],
-    "tags": [
-      "anatomia",
-      "parede-abdominal",
-      "camadas",
-      "fáscia",
-      "gordura-subcutânea"
-    ]
+    "tags": ["anatomia", "parede-abdominal", "camadas", "fascia", "gordura-subcutanea"]
   },
   {
     "id": "abdo-anat-002",
     "type": "anatomy",
-    "title": "Zonas de Huger — Suprimento Vascular da Parede Abdominal",
-    "aliases": [
-      "zonas vasculares de Huger",
-      "Huger zones",
-      "vascularização abdominal"
-    ],
+    "title": "Zonas de Huger",
+    "aliases": ["zonas vasculares de Huger", "Huger zones", "vascularizacao abdominal"],
     "topic": "abdominoplastia",
     "area": "contorno-corporal",
-    "definition": "Huger (1979) descreveu três zonas de perfusão da parede abdominal anterior: Zona I (central) — artérias DIEA (Deep Inferior Epigastric Artery — Artéria Epigástrica Profunda Inferior) e SIEA (Superficial Inferior Epigastric Artery — Artéria Epigástrica Superficial Inferior), perfusão dominante no abdome não operado, ligada durante a dissecção da abdominoplastia. Zona II (inguinal) — artérias SCIA (Superficial Circumflex Iliac Artery — Artéria Circunflexa Ilíaca Superficial) e SIEA, contribuem com fluxo lateral, também comprometidas na abdominoplastia padrão. Zona III (lateral/intercostal) — artérias intercostais, subcostais e lombares, tornam-se o suprimento dominante do retalho abdominoplástico após a dissecção.",
-    "location": "Zona I: região central periumbilical. Zona II: regiões inguinais bilaterais. Zona III: flancos e região lateral do abdome.",
+    "one_liner": "Tres zonas de perfusao da parede abdominal anterior (Huger 1979); Zona III (lateral) sustenta o retalho apos disseccao.",
+    "structures": [
+      { "label": "Zona I", "description": "DIEA (epigastrica inferior profunda) + SIEA (epigastrica inferior superficial); central." },
+      { "label": "Zona II", "description": "SCIA (circunflexa iliaca superficial) + SIEA (epigastrica inferior superficial); inguinal." },
+      { "label": "Zona III", "description": "Intercostais + subcostais + lombares; dominante pos-op." }
+    ],
     "relations": [
-      "DIEA (Artéria Epigástrica Profunda Inferior) — Zona I",
-      "SIEA (Artéria Epigástrica Superficial Inferior) — Zonas I e II",
-      "SCIA (Artéria Circunflexa Ilíaca Superficial) — Zona II",
-      "Artérias intercostais, subcostais e lombares — Zona III",
-      "Perfuradores laterais intercostais"
+      "Perfurantes da Zona III (lateral) entram entre linha axilar anterior e hemiclavicular.",
+      "Arcada de Thompson conecta a DIEA (epigastrica inferior profunda) a arteria toracica interna (supraumbilical)."
     ],
-    "surgical_relevance": "Após a elevação do retalho, a perfusão é sustentada primariamente pelos perfuradores laterais da Zona III (intercostais). A descolagem em V invertido preserva uma faixa intacta de tecido lateral, sendo a manobra-chave para garantir viabilidade do retalho. O triângulo terrível do abdome — ponto de máxima tensão na linha média ao nível do fechamento — é o local mais suscetível à isquemia, pois está mais distante dos perfuradores laterais.",
-    "how_to_identify": "As zonas são definidas anatomicamente pela distribuição territorial dos vasos. Intraoperatoriamente, os perfuradores da Zona III são visualizados na face lateral do retalho durante a descolagem seletiva.",
+    "clinical_hook": "Descolagem em V invertido preserva perfurantes da Zona III (lateral) - chave da viabilidade do retalho.",
     "images": [
-      {
-        "file": "abdo-anat-huger-zonas.jpg",
-        "caption": "Zonas vasculares de Huger da parede abdominal: Zona I (DIEA/SIEA central), Zona II (SCIA/SIEA inguinal) e Zona III (intercostais, subcostais e lombares) — esta última sustenta o retalho após a abdominoplastia.",
-        "credit": "Neligan vol. 2, cap. 27 — Matarasso (Abdominoplasty), Huger 1979"
-      },
-      {
-        "file": "abdo-anat-huger-perfuradores.jpg",
-        "caption": "Perfuradores laterais da Zona III (intercostais) expostos durante dissecção seletiva em V invertido — suprimento axial preservado para viabilidade do retalho abdominoplástico.",
-        "credit": "Neligan vol. 2, cap. 27 — Matarasso (Abdominoplasty)"
-      },
-      {
-        "file": "abdo-anat-huger-ilustracao.jpg",
-        "caption": "Ilustração esquemática das três zonas de Huger sobre a parede abdominal anterior, com mapeamento dos territórios vasculares ligados durante a descolagem do retalho.",
-        "credit": "Neligan vol. 2, cap. 27 — Matarasso (Abdominoplasty)"
-      }
+      { "ref": "img-huger-zones-001" },
+      { "ref": "img-pdsea-preservation-001" }
     ],
-    "citations": [
-      "Neligan, 2023, vol. 2, cap. 27 — Matarasso"
-    ],
+    "citations": ["Neligan 2023, vol. 2, cap. 27 - Matarasso"],
     "updates": [],
-    "tags": [
-      "anatomia",
-      "vascularização",
-      "zonas-huger",
-      "perfuradores",
-      "retalho",
-      "isquemia"
-    ]
+    "tags": ["anatomia", "vascularizacao", "zonas-huger", "perfuradores", "retalho", "isquemia"]
   },
   {
     "id": "abdo-anat-003",
     "type": "anatomy",
-    "title": "Fáscia de Scarpa e Sistema Linfático Abdominal",
-    "aliases": [
-      "fáscia superficial",
-      "Scarpa's fáscia",
-      "linfáticos abdominais"
-    ],
+    "title": "Fascia de Scarpa e Linfaticos",
+    "aliases": ["fascia superficial", "linfaticos abdominais"],
     "topic": "abdominoplastia",
     "area": "contorno-corporal",
-    "definition": "A fáscia de Scarpa é uma estrutura fascial membranosa localizada na região infra-umbilical, entre a gordura subcutânea superficial e a profunda. Os vasos linfáticos do abdome inferior seguem drenagem oblíqua em direção aos linfonodos inguinais ipsilaterais, correndo sobre e através desta fáscia. A preservação da fáscia de Scarpa durante a dissecção abdominal mantém esse plexo linfático subdérmico, reduzindo significativamente a formação de seroma — a complicação local mais comum da abdominoplastia.",
-    "location": "Região infra-umbilical da parede abdominal anterior, entre a gordura subcutânea superficial e a profunda. Continua-se com a fáscia de Colles no períneo e com a fáscia de Buck no pênis.",
-    "relations": [
-      "Gordura subcutânea superficial (superficialmente)",
-      "Gordura subcutânea profunda (profundamente)",
-      "Plexo linfático subdérmico inferior",
-      "Linfonodos inguinais (drenagem)"
+    "one_liner": "A fascia de Scarpa e substrato do plexo linfatico subdermico inferior; preserva-la reduz seroma.",
+    "structures": [
+      { "label": "Superficial", "description": "Gordura subcutanea superficial." },
+      { "label": "Fascia", "description": "Fascia de Scarpa (membranosa)." },
+      { "label": "Profunda", "description": "Gordura subscarpal." },
+      { "label": "Linfaticos", "description": "Plexo subdermico com drenagem inguinal ipsilateral." }
     ],
-    "surgical_relevance": "A preservação da fáscia de Scarpa durante a abdominoplastia reduz a incidência de seroma ao manter os linfáticos subdérmicos. Estudos anatômicos com injeção de látex corado demonstraram que a fáscia de Scarpa funciona como substrato para o plexo linfático subdérmico inferior. O fechamento por camadas incorporando a fáscia de Scarpa (sutura Quill Monoderm 2-0) é parte do protocolo de fechamento.",
-    "how_to_identify": "Camada membranosa esbranquiçada distinta entre as camadas de gordura subcutânea, mais proeminente na região infra-umbilical. Identificada durante a dissecção do retalho abdominal.",
+    "location": "Regiao infra-umbilical; continua-se com fascia de Colles (perineo) e Buck (penis).",
+    "clinical_hook": "Fechamento por camadas incorporando a fascia de Scarpa reduz significativamente a incidencia de seroma.",
+    "how_to_identify": "Camada membranosa distinta entre as duas gorduras, evidente em regiao infraumbilical.",
     "images": [
-      {
-        "file": "abdo-anat-scarpa-linfaticos.jpg",
-        "caption": "Fáscia de Scarpa e plexo linfático subdérmico infraumbilical: a preservação da fáscia mantém os linfáticos íntegros e reduz a incidência de seroma — complicação local mais comum da abdominoplastia.",
-        "credit": "Neligan vol. 2, cap. 27 — Matarasso (Abdominoplasty)"
-      },
-      {
-        "file": "abdo-anat-camadas-histologia.jpg",
-        "caption": "Histologia das camadas da parede abdominal destacando a fáscia de Scarpa como substrato anatômico do plexo linfático inferior.",
-        "credit": "Neligan vol. 2, cap. 27 — Matarasso (Abdominoplasty)"
-      }
+      { "ref": "img-scarpa-lymphatics-001" }
     ],
     "citations": [
-      "Neligan, 2023, vol. 2, cap. 27 — Matarasso",
-      "Grabb & Smith, 2024, cap. 75 — Colwell"
+      "Neligan 2023, vol. 2, cap. 27 - Matarasso",
+      "Grabb & Smith 2024, cap. 75 - Colwell"
     ],
     "updates": [],
-    "tags": [
-      "anatomia",
-      "fáscia-scarpa",
-      "linfáticos",
-      "seroma",
-      "dissecção"
-    ]
+    "tags": ["anatomia", "fascia-scarpa", "linfaticos", "seroma", "disseccao"]
   },
   {
     "id": "abdo-anat-004",
     "type": "anatomy",
-    "title": "Anatomia do Umbigo",
-    "aliases": [
-      "umbilicus",
-      "navel",
-      "cicatriz umbilical"
-    ],
+    "title": "Unidades Esteticas do Abdome",
+    "aliases": ["aesthetic units", "subunidades abdominais"],
     "topic": "abdominoplastia",
     "area": "contorno-corporal",
-    "definition": "O umbigo possui tríplice vascularização: (1) plexo subdermal superficial, (2) remanescente do ligamento redondo (ligamentum teres hepatis) e (3) perfuradores das DIEA (Deep Inferior Epigastric Arteries — Artérias Epigástricas Profundas Inferiores). Essa tríplice vascularização é fundamental no planejamento da abdominoplastia — quanto maior o comprometimento do pedículo profundo (ligação das perfurantes na dissecção), mais importante torna-se a preservação do pedículo dermal superficial.",
-    "location": "Centro da parede abdominal anterior, na junção da linha média com uma linha horizontal ao nível das cristas ilíacas.",
-    "relations": [
-      "Ligamento redondo (ligamentum teres hepatis)",
-      "DIEA (Artéria Epigástrica Profunda Inferior) — perfuradores",
-      "Plexo subdermal superficial",
-      "Fáscia anterior do reto abdominal"
+    "one_liner": "Cinco unidades esteticas do abdome feminino guiam a resseccao e a lipoaspiracao complementar.",
+    "structures": [
+      { "label": "1 Central", "description": "Linha alba e umbigo (eixo medial)." },
+      { "label": "2 Paramediano", "description": "Sobre o reto (supraumbilical)." },
+      { "label": "3 Infraumbilical", "description": "Area de resseccao classica." },
+      { "label": "4 Flancos", "description": "Lateral bilateral - alvo de lipo." },
+      { "label": "5 Pubiano", "description": "Monte pubico - elevacao e preservacao." }
     ],
-    "surgical_relevance": "Na abdominoplastia clássica, o umbigo é liberado do pannus com tesoura de Metzenbaum, marcado com botão ocular plástico e reimplantado (umbilicoplastia) ao final. Na técnica de float umbilical, o pedículo profundo é seccionado para permitir plicatura completa, mas o pedículo dermal é preservado. O umbigo NÃO é ancorado à fáscia (ancoragem pode causar distorção unilateral se um lado se soltar). Hérnias umbilicais são identificadas e corrigidas simultaneamente (Ventralex patch).",
-    "how_to_identify": "Cicatriz cutânea natural na linha média. Intraoperatoriamente, o coto umbilical é identificado por palpação do botão ocular plástico suturado ao coto após liberação.",
+    "clinical_hook": "Trate unidades adjacentes na mesma cirurgia: nao abordar flancos ou monte pubiano gera insatisfacao por resultado incompleto.",
+    "how_to_identify": "Inspecao em pe (frente, perfil e posterior); limites definidos pela transicao de contorno.",
     "images": [
-      {
-        "file": "abdo-anat-huger-ilustracao.jpg",
-        "caption": "Ilustração da vascularização da parede abdominal e do umbigo: perfuradores da DIEA emergem ao redor do coto umbilical, compondo o pedículo profundo preservado na abdominoplastia clássica.",
-        "credit": "Neligan vol. 2, cap. 27 — Matarasso (Abdominoplasty)"
-      }
+      { "ref": "img-aesthetic-subunits-001" }
     ],
-    "citations": [
-      "Neligan, 2023, vol. 2, cap. 27 — Matarasso"
-    ],
+    "citations": ["Neligan 2023, vol. 2, cap. 27 - Matarasso"],
     "updates": [],
-    "tags": [
-      "anatomia",
-      "umbigo",
-      "umbilicoplastia",
-      "vascularização",
-      "pedículo"
-    ]
+    "tags": ["anatomia", "unidades-esteticas", "planejamento", "lipoaspiracao", "contorno"]
   },
   {
     "id": "abdo-anat-005",
     "type": "anatomy",
-    "title": "Unidades Estéticas do Abdome",
-    "aliases": [
-      "aesthetic units",
-      "subunidades abdominais"
-    ],
+    "title": "Gordura Visceral",
+    "aliases": ["gordura omental", "gordura intra-abdominal", "visceral fat"],
     "topic": "abdominoplastia",
     "area": "contorno-corporal",
-    "definition": "Mulheres possuem sete unidades estéticas abdominais quando se considera lipoaspiração: (1) abdome superior, (2) umbigo, (3) abdome inferior, (4) monte pubiano, (5) flancos bilaterais e (6-7) rolos dorsais. Homens têm seis unidades (rolos dorsais raramente são considerados). O paciente frequentemente percebe todos esses segmentos como parte do 'abdome' ao planejar a cirurgia.",
-    "location": "Toda a circunferência do tronco ao nível abdominal, incluindo flancos e região dorsal baixa.",
+    "one_liner": "Gordura visceral e firme, nao tratavel por lipoaspiracao e nao se beneficia de plicatura muscular.",
+    "structures": [
+      { "label": "Compartimento", "description": "Intraperitoneal - omento maior e mesenterio." },
+      { "label": "Distincao", "description": "Distinta da subcutanea; firme a palpacao." }
+    ],
     "relations": [
-      "Abdome superior e inferior",
-      "Monte pubiano",
-      "Flancos bilaterais",
-      "Rolos dorsais (mulheres)"
+      "Musculo reto abdominal e bainha posterior funcionam como barreira anatomica.",
+      "Associa-se a risco cardiometabolico, cancer e demencia."
     ],
-    "surgical_relevance": "O planejamento pré-operatório deve abordar todas as unidades estéticas relevantes para o paciente. A lipoaspiração pode tratar flancos, monte pubiano e rolos dorsais simultaneamente à abdominoplastia. A não abordagem de unidades adjacentes pode levar à insatisfação do paciente, que percebe o resultado como incompleto.",
-    "how_to_identify": "Inspeção clínica com paciente em pé, de frente, perfil e posterior. Cada unidade tem limites anatômicos definidos pela transição de contorno.",
-    "images": [
-      {
-        "file": "abdo-anat-unidades-esteticas.jpg",
-        "caption": "Unidades estéticas do abdome feminino: abdome superior, umbigo, abdome inferior, monte pubiano, flancos bilaterais e rolos dorsais — todas a serem consideradas no planejamento cirúrgico.",
-        "credit": "Neligan vol. 2, cap. 27 — Matarasso (Abdominoplasty)"
-      },
-      {
-        "file": "abdo-anat-unidades-marcacao.jpg",
-        "caption": "Marcação pré-operatória das unidades estéticas abdominais com paciente em pé, delimitando áreas para abdominoplastia e lipoaspiração complementar.",
-        "credit": "Neligan vol. 2, cap. 27 — Matarasso (Abdominoplasty)"
-      }
-    ],
-    "citations": [
-      "Neligan, 2023, vol. 2, cap. 27 — Matarasso"
-    ],
+    "clinical_hook": "Abdome que permanece convexo em decubito dorsal indica predominio visceral - plicatura do reto esta contraindicada.",
+    "how_to_identify": "Palpacao firme e profunda, nao pincavel; diferencia da subcutanea macia e depressivel.",
+    "citations": ["Neligan 2023, vol. 2, cap. 27 - Matarasso"],
     "updates": [],
-    "tags": [
-      "anatomia",
-      "unidades-estéticas",
-      "planejamento",
-      "lipoaspiração",
-      "contorno"
-    ]
-  },
-  {
-    "id": "abdo-anat-006",
-    "type": "anatomy",
-    "title": "Gordura Visceral (Intraabdominal)",
-    "aliases": [
-      "gordura omental",
-      "gordura intra-abdominal",
-      "visceral fat"
-    ],
-    "topic": "abdominoplastia",
-    "area": "contorno-corporal",
-    "definition": "A gordura visceral (omental/intra-abdominal) é clinicamente distinta da gordura subcutânea: é densa, firme à palpação, não tratável por lipoaspiração e não se beneficia de plicatura muscular. Está associada a risco cardiometabólico, câncer e demência. Acumula-se em homens a partir dos 30 anos e em mulheres no período perimenopausal.",
-    "location": "Compartimento intraperitoneal, envolvendo as vísceras abdominais. Predomina no omento maior e mesentério.",
-    "relations": [
-      "Gordura subcutânea (distinção clínica fundamental)",
-      "Músculo reto abdominal e bainha posterior (barreira anatômica)",
-      "Omento maior",
-      "Mesentério"
-    ],
-    "surgical_relevance": "Sua presença deve ser identificada no pré-operatório: abdome que permanece convexo (não côncavo) na posição supina indica predominância visceral. Nesses pacientes, a plicatura do reto está CONTRAINDICADA (não oferece benefício e pode alargar o contorno da cintura em sentido anteroposterior). É um fator limitante do resultado estético da abdominoplastia que deve ser comunicado ao paciente.",
-    "how_to_identify": "Abdome que permanece convexo em decúbito dorsal, com palpação firme e profunda (não depressível como a gordura subcutânea). Diferente da gordura subcutânea que é macia e pinçável.",
-    "images": [
-      {
-        "file": "abdo-anat-camadas-us.jpg",
-        "caption": "Ultrassom diferenciando gordura subcutânea (compressível) da gordura visceral (firme, profunda à fáscia do reto): a predominância visceral contraindica plicatura muscular na abdominoplastia.",
-        "credit": "Neligan vol. 2, cap. 27 — Matarasso (Abdominoplasty)"
-      }
-    ],
-    "citations": [
-      "Neligan, 2023, vol. 2, cap. 27 — Matarasso"
-    ],
-    "updates": [],
-    "tags": [
-      "anatomia",
-      "gordura-visceral",
-      "contraindicação",
-      "plicatura",
-      "avaliação"
-    ]
+    "tags": ["anatomia", "gordura-visceral", "contraindicacao", "plicatura", "avaliacao"]
   }
 ]
