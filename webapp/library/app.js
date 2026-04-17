@@ -13,17 +13,21 @@ const App = (() => {
     if (_imageIndex) return _imageIndex;
     try {
       const resp = await fetch(IMAGE_MANIFEST_URL);
-      if (!resp.ok) { _imageIndex = new Map(); return _imageIndex; }
-      const data = await resp.json();
-      _imageIndex = new Map((data.entries || []).map(e => [e.id, e]));
+      if (!resp.ok) { _imageIndex = new Map(); }
+      else {
+        const data = await resp.json();
+        _imageIndex = new Map((data.entries || []).map(e => [e.id, e]));
+      }
     } catch (_) {
       _imageIndex = new Map();
     }
+    window.Atlas._imageIndex = _imageIndex;
     return _imageIndex;
   }
 
   window.Atlas = window.Atlas || {};
   window.Atlas.loadImageIndex = loadImageIndex;
+  window.Atlas._imageIndex = _imageIndex;
 
   // --- Helpers ---
   function toTitleCase(slug) {

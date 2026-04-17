@@ -85,7 +85,70 @@ const Renderer = (() => {
     </article>`;
   }
 
+  function _chipRow(numbers) {
+    if (!numbers || numbers.length === 0) return '';
+    const chips = numbers.map(n => {
+      const note = n.note ? `<span class="chip-note">${n.note}</span>` : '';
+      return `<span class="chip">${n.label} <span class="chip-value">${n.value}</span>${note}</span>`;
+    }).join('');
+    return `<div class="chips-row">${chips}</div>`;
+  }
+
+  function _structTable(structures) {
+    if (!structures || structures.length === 0) return '';
+    const rows = structures.map(s => `<tr><td>${s.label}</td><td>${_formatText(s.description)}</td></tr>`).join('');
+    return `<table class="struct-table">${rows}</table>`;
+  }
+
+  function _hookBox(hook) {
+    if (!hook) return '';
+    return `<div class="hook-box">
+      <div class="hook-label">Gancho Clinico</div>
+      <div>${_formatText(hook)}</div>
+    </div>`;
+  }
+
+  function _resolveImageRef(ref) {
+    const idx = (window.Atlas && window.Atlas._imageIndex) || null;
+    if (idx && idx.get) return idx.get(ref) || null;
+    return null;
+  }
+
+  function _libraryImages(card) {
+    const items = card.images || [];
+    if (items.length === 0) return '';
+    return items.map(item => {
+      const entry = _resolveImageRef(item.ref);
+      if (!entry) {
+        return `<figure class="card-figure placeholder"><figcaption>Imagem pendente: ${item.ref}</figcaption></figure>`;
+      }
+      const src = '../../assets/images/' + entry.file;
+      const caption = item.caption_override || entry.default_caption;
+      const labels = (entry.labels || []).map(l =>
+        `<span class="legend-item"><span class="legend-num">${l.num}</span>${_formatText(l.text)}</span>`
+      ).join('');
+      const legend = labels ? `<div class="fig-legend">${labels}</div>` : '';
+      return `<figure class="card-figure">
+        <img src="${src}" alt="${caption}" loading="lazy">
+        <figcaption>
+          <span class="caption">${caption}</span>
+          <span class="credit">${entry.credit}</span>
+        </figcaption>
+        ${legend}
+      </figure>`;
+    }).join('');
+  }
+
+  function _isAnatomyV2(card) {
+    return typeof card.one_liner === 'string' || typeof card.clinical_hook === 'string';
+  }
+
   function anatomy(card) {
+    if (_isAnatomyV2(card)) return _anatomyV2(card);
+    return _anatomyLegacy(card);
+  }
+
+  function _anatomyLegacy(card) {
     return `<article class="card card-anatomy">
       ${_badge('anatomy')}
       <h2>${card.title}</h2>
@@ -96,6 +159,24 @@ const Renderer = (() => {
       ${_section('Relevância Cirúrgica', card.surgical_relevance, 'highlight')}
       ${_section('Como Identificar', card.how_to_identify, 'highlight')}
       ${_images(card.topic, card.images)}
+      ${_updates(card.updates)}
+      ${_citations(card.citations)}
+    </article>`;
+  }
+
+  function _anatomyV2(card) {
+    return `<article class="card card-anatomy card-anatomy-v2">
+      ${_badge('anatomy')}
+      <h2>${card.title}</h2>
+      ${card.aliases ? `<div class="card-aliases">${card.aliases.join(' · ')}</div>` : ''}
+      ${card.one_liner ? `<p class="lead-line">${_formatText(card.one_liner)}</p>` : ''}
+      ${_chipRow(card.numbers)}
+      ${_structTable(card.structures)}
+      ${_section('Relações', _list(card.relations))}
+      ${_section('Localização', card.location)}
+      ${_section('Como Identificar', card.how_to_identify, 'highlight')}
+      ${_hookBox(card.clinical_hook)}
+      ${_libraryImages(card)}
       ${_updates(card.updates)}
       ${_citations(card.citations)}
     </article>`;
