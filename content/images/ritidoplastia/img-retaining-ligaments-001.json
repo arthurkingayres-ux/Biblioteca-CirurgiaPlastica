@@ -1,0 +1,18 @@
+{
+  "id": "img-retaining-ligaments-001",
+  "file": "ritidoplastia/riti-anat-ligamentos-overview.jpg",
+  "subject": "ligamentos de retenção facial (Furnas) — ancoragem osso-derme",
+  "role": "overview",
+  "source": "Neligan 2023, vol. 2, cap. 11 — Facelift (Deep Plane)",
+  "credit": "Adaptado de Neligan 2023, vol. 2, cap. 11",
+  "default_caption": "Condensações fibrosas que conectam esqueleto e fáscia profunda à derme — sua liberação é o passo-chave do deep plane.",
+  "labels": [
+    { "num": 1, "text": "Ligamento zigomático-cutâneo (McGregor) — do arco zigomático à pele malar." },
+    { "num": 2, "text": "Ligamento massetérico-cutâneo — do masseter à pele do jowl." },
+    { "num": 3, "text": "Ligamento mandibular — da borda mandibular ao sulco labiomandibular." },
+    { "num": 4, "text": "Ligamento orbicular-retentor — ancora o orbicular inferior ao rebordo orbitário." },
+    { "num": 5, "text": "SMAS — perfurado pelos ligamentos em seu trajeto até a derme." }
+  ],
+  "applicable_topics": ["ritidoplastia"],
+  "status": "available"
+}
