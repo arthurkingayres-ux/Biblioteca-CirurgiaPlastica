@@ -103,7 +103,7 @@ const Renderer = (() => {
   function _hookBox(hook) {
     if (!hook) return '';
     return `<div class="hook-box">
-      <div class="hook-label">Gancho Clinico</div>
+      <div class="hook-label">Gancho Clínico</div>
       <div>${_formatText(hook)}</div>
     </div>`;
   }

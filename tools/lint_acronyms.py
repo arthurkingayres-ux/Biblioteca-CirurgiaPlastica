@@ -46,6 +46,13 @@ def scan_card(card: dict) -> list[dict]:
         value = card.get(field)
         if isinstance(value, str):
             out.extend(scan_text(value, context=f"{card_id}:{field}"))
+    for i, struct in enumerate(card.get("structures") or []):
+        desc = struct.get("description") if isinstance(struct, dict) else None
+        if isinstance(desc, str):
+            out.extend(scan_text(desc, context=f"{card_id}:structures[{i}].description"))
+    for i, rel in enumerate(card.get("relations") or []):
+        if isinstance(rel, str):
+            out.extend(scan_text(rel, context=f"{card_id}:relations[{i}]"))
     return out
 
 
