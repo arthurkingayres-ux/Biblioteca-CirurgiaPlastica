@@ -13,7 +13,9 @@
     ],
     "clinical_hook": "Lesão durante dissecção submuscular para implantes causa sangramento significativo; referência para zona de segurança na lipoenxertia.",
     "how_to_identify": "Localizada acima da borda superior do piriforme, no forame isquiático maior.",
-    "images": [],
+    "images": [
+      { "ref": "img-gluteal-neurovascular-001" }
+    ],
     "citations": [
       "Neligan 2023, vol. 2, cap. 28",
       "Mofid et al., PRS, 2015"
@@ -103,7 +105,9 @@
     ],
     "clinical_hook": "Lesão causa déficit de abdução do quadril (marcha de Trendelenburg); risco em dissecção profunda lateral.",
     "how_to_identify": "Identificado na dissecção profunda acima do piriforme, junto à artéria glútea superior.",
-    "images": [],
+    "images": [
+      { "ref": "img-gluteal-neurovascular-001" }
+    ],
     "citations": [
       "Neligan 2023, vol. 2, cap. 28"
     ],
@@ -129,7 +133,9 @@
     ],
     "clinical_hook": "Lesão no plano submuscular causa atrofia do glúteo máximo; anatomia neurovascular é crítica no plano intramuscular.",
     "how_to_identify": "Identificado abaixo do piriforme na dissecção profunda, junto à artéria glútea inferior.",
-    "images": [],
+    "images": [
+      { "ref": "img-gluteal-neurovascular-001" }
+    ],
     "citations": [
       "Neligan 2023, vol. 2, cap. 28",
       "Mofid et al., PRS, 2015"
