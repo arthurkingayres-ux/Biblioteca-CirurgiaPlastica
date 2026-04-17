@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-17T21:36:37Z",
-  "count": 25,
+  "generatedAt": "2026-04-17T21:55:21Z",
+  "count": 36,
   "entries": [
     {
       "id": "img-abdominal-layers-001",
@@ -118,6 +118,41 @@
       "status": "available"
     },
     {
+      "id": "img-alar-cartilages-001",
+      "file": "rinoplastia/fig18-4-cartilagens-laterais-inf.jpeg",
+      "subject": "cartilagens alares (CLA — cartilagens laterais inferiores) em detalhe — cruras medial, média e lateral",
+      "role": "detail",
+      "source": "Neligan 2023, vol. 2, cap. 18 — Rhinoplasty",
+      "credit": "Adaptado de Neligan 2023, vol. 2, cap. 18",
+      "default_caption": "Três segmentos das CLA: crura medial (columela), crura média (domos / tip defining points) e crura lateral (rim alar).",
+      "labels": [
+        {
+          "num": 1,
+          "text": "Crura medial — forma a columela; palpável entre as narinas."
+        },
+        {
+          "num": 2,
+          "text": "Crura média — segmento curto que define os domos e tip defining points."
+        },
+        {
+          "num": 3,
+          "text": "Domo — ápice da crura média; determina projeção e luz da ponta."
+        },
+        {
+          "num": 4,
+          "text": "Crura lateral — trajeto oblíquo em direção ao osso maxilar (não paralelo ao rim alar)."
+        },
+        {
+          "num": 5,
+          "text": "Soft triangle — área livre de cartilagem no ápice da narina; evitar sutura."
+        }
+      ],
+      "applicable_topics": [
+        "rinoplastia"
+      ],
+      "status": "available"
+    },
+    {
       "id": "img-arm-sagittal-001",
       "file": "contorno-pos-bariatrico/cpb-anat-braco-sagital.png",
       "subject": "corte sagital do terço médio do braço — relações neurovasculares do compartimento medial",
@@ -149,6 +184,80 @@
       ],
       "applicable_topics": [
         "contorno-pos-bariatrico"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-auricular-cartilage-001",
+      "file": "otoplastia/oto-anat-cartilagem-deformidades.jpg",
+      "subject": "cartilagem auricular elástica — arcabouço estrutural e deformidades típicas",
+      "role": "detail",
+      "source": "Neligan 2023, vol. 3, cap. 28 — Otoplasty",
+      "credit": "Adaptado de Neligan 2023, vol. 3, cap. 28",
+      "default_caption": "Cartilagem elástica em peça única; nutrida por difusão pericondrial — hematoma não drenado evolui para orelha em couve-flor.",
+      "labels": [
+        {
+          "num": 1,
+          "text": "Cartilagem auricular — elástica (não hialina); peça única com dobras."
+        },
+        {
+          "num": 2,
+          "text": "Pericôndrio — membrana vascularizada; única fonte de nutrição da cartilagem."
+        },
+        {
+          "num": 3,
+          "text": "Anti-hélice hipoplásica — ângulo CS (concha-escafoide) >90 graus; orelha em abano."
+        },
+        {
+          "num": 4,
+          "text": "Excesso conchal — profundidade >20 mm exige Furnas ou ressecção."
+        },
+        {
+          "num": 5,
+          "text": "Lóbulo — tecido fibroadiposo, sem cartilagem; protrusão tratada separadamente."
+        }
+      ],
+      "applicable_topics": [
+        "otoplastia"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-auricular-landmarks-001",
+      "file": "otoplastia/oto-anat-pavilhao-anatomia.jpg",
+      "subject": "marcos de superfície do pavilhão auricular — hélice, anti-hélice, tragus, antitragus, concha e lóbulo",
+      "role": "overview",
+      "source": "Neligan 2023, vol. 3, cap. 28 — Otoplasty",
+      "credit": "Adaptado de Neligan 2023, vol. 3, cap. 28",
+      "default_caption": "Dimensões adultas: altura ~6 cm, largura ~3,5 cm; ângulo cefaloauricular normal 25-35 graus.",
+      "labels": [
+        {
+          "num": 1,
+          "text": "Hélice — borda superior enrolada do pavilhão."
+        },
+        {
+          "num": 2,
+          "text": "Anti-hélice — crista paralela interna; hipoplasia gera orelha em abano."
+        },
+        {
+          "num": 3,
+          "text": "Tragus — protuberância anterior ao meato acústico externo."
+        },
+        {
+          "num": 4,
+          "text": "Concha — depressão central (cymba + cavum); profundidade ideal ~15 mm."
+        },
+        {
+          "num": 5,
+          "text": "Lóbulo — porção inferior sem cartilagem; avaliar protrusão isolada."
+        },
+        {
+          "num": 6,
+          "text": "Crus helicis — divide concha em cymba (superior) e cavum (inferior)."
+        }
+      ],
+      "applicable_topics": [
+        "otoplastia"
       ],
       "status": "available"
     },
@@ -250,6 +359,41 @@
       ],
       "applicable_topics": [
         "contorno-pos-bariatrico"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-facial-nerve-branches-001",
+      "file": "ritidoplastia/riti-anat-nervo-facial-ramos.jpg",
+      "subject": "ramos do nervo facial vulneráveis no facelift — temporal, zigomático e mandibular marginal",
+      "role": "overview",
+      "source": "Neligan 2023, vol. 2, cap. 11 — Facelift (Deep Plane)",
+      "credit": "Adaptado de Neligan 2023, vol. 2, cap. 11",
+      "default_caption": "Três ramos de risco crítico no facelift; lesão permanente em <1% quando plano cirúrgico é respeitado.",
+      "labels": [
+        {
+          "num": 1,
+          "text": "Ramo temporal (Pitanguy) — cruza arco zigomático na fáscia temporoparietal."
+        },
+        {
+          "num": 2,
+          "text": "Ramo zigomático — inerva orbicular do olho; próximo aos ligamentos de retenção."
+        },
+        {
+          "num": 3,
+          "text": "Ramo bucal — geralmente redundante; menor impacto clínico."
+        },
+        {
+          "num": 4,
+          "text": "Ramo marginal mandibular — 1-2 cm abaixo da borda; lesão gera assimetria do sorriso."
+        },
+        {
+          "num": 5,
+          "text": "Ramo cervical — inerva platisma; lesão simula paralisia marginal."
+        }
+      ],
+      "applicable_topics": [
+        "ritidoplastia"
       ],
       "status": "available"
     },
@@ -375,6 +519,41 @@
       "status": "available"
     },
     {
+      "id": "img-internal-valve-001",
+      "file": "rinoplastia/fig18-30-cartilagens-laterais-3d.jpeg",
+      "subject": "valva nasal interna — ângulo entre septo e margem caudal das CLS (cartilagens laterais superiores)",
+      "role": "detail",
+      "source": "Neligan 2023, vol. 2, cap. 18 — Rhinoplasty",
+      "credit": "Adaptado de Neligan 2023, vol. 2, cap. 18",
+      "default_caption": "Segmento mais estreito da via aérea nasal (~50% da resistência total); ângulo normal 10-15 graus.",
+      "labels": [
+        {
+          "num": 1,
+          "text": "Margem caudal das CLS (cartilagens laterais superiores) — uma das paredes da valva."
+        },
+        {
+          "num": 2,
+          "text": "Septo nasal — parede medial; desvios reduzem o ângulo valvar."
+        },
+        {
+          "num": 3,
+          "text": "Angulo valvar — 10-15 graus em nariz normal; <10 graus = incompetência."
+        },
+        {
+          "num": 4,
+          "text": "Cabeca anterior do corneto inferior — contribui para o piso da valva."
+        },
+        {
+          "num": 5,
+          "text": "Scroll area — transição CLS-CLA; cicatriz aqui estreita a valva."
+        }
+      ],
+      "applicable_topics": [
+        "rinoplastia"
+      ],
+      "status": "available"
+    },
+    {
       "id": "img-medial-thigh-001",
       "file": "contorno-pos-bariatrico/cpb-anat-coxa-medial-marcacoes.png",
       "subject": "marcação do lifting medial vertical da coxa pós-bariátrica",
@@ -402,6 +581,115 @@
       ],
       "applicable_topics": [
         "contorno-pos-bariatrico"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-nasal-septum-001",
+      "file": "rinoplastia/fig18-34-septo-nasal-componentes.jpeg",
+      "subject": "componentes do septo nasal — cartilagem quadrangular, lâmina perpendicular do etmoide e vômer",
+      "role": "detail",
+      "source": "Neligan 2023, vol. 2, cap. 18 — Rhinoplasty",
+      "credit": "Adaptado de Neligan 2023, vol. 2, cap. 18",
+      "default_caption": "Principal estrutura de suporte do nariz e fonte preferencial de enxerto cartilaginoso.",
+      "labels": [
+        {
+          "num": 1,
+          "text": "Cartilagem quadrangular — porção anterior; doadora de enxerto septal."
+        },
+        {
+          "num": 2,
+          "text": "Lâmina perpendicular do etmoide — componente ósseo superior."
+        },
+        {
+          "num": 3,
+          "text": "Vômer — componente ósseo posteroinferior."
+        },
+        {
+          "num": 4,
+          "text": "Crista maxilar — articulação inferior (tongue-and-groove com o septo)."
+        },
+        {
+          "num": 5,
+          "text": "L-strut — faixa dorsal + caudal de >=10 mm que deve ser preservada."
+        }
+      ],
+      "applicable_topics": [
+        "rinoplastia"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-nasal-terminology-001",
+      "file": "rinoplastia/fig18-1-terminologia-nasal.jpeg",
+      "subject": "terminologia anatômica do nariz externo — pontos de referência do planejamento rinoplástico",
+      "role": "overview",
+      "source": "Neligan 2023, vol. 2, cap. 18 — Rhinoplasty",
+      "credit": "Adaptado de Neligan 2023, vol. 2, cap. 18",
+      "default_caption": "Radix, dorso, ponta, columela e sulco alar — vocabulário padronizado das análises pré-operatórias.",
+      "labels": [
+        {
+          "num": 1,
+          "text": "Radix — raiz nasal; ponto mais deprimido entre glabela e dorso."
+        },
+        {
+          "num": 2,
+          "text": "Dorso (dorsum) — linha média do terço superior e médio; local da giba."
+        },
+        {
+          "num": 3,
+          "text": "Supratip — depressão suave acima da ponta; define break dorsal-ponta."
+        },
+        {
+          "num": 4,
+          "text": "Tip defining points — dois pontos simétricos sobre os domos; refletem luz."
+        },
+        {
+          "num": 5,
+          "text": "Columela — pilar medial entre narinas; mostra 2-4 mm na vista lateral."
+        },
+        {
+          "num": 6,
+          "text": "Sulco alar — transição lábio-asa; referência para incisões de base alar."
+        }
+      ],
+      "applicable_topics": [
+        "rinoplastia"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-nasal-vasculature-001",
+      "file": "rinoplastia/fig18-15-vascularizacao-nasal.jpeg",
+      "subject": "vascularização do nariz — anastomoses entre carótida interna e externa",
+      "role": "overview",
+      "source": "Neligan 2023, vol. 2, cap. 18 — Rhinoplasty",
+      "credit": "Adaptado de Neligan 2023, vol. 2, cap. 18",
+      "default_caption": "Suprimento colateral extenso acima da musculatura nasal — base da segurança da via aberta.",
+      "labels": [
+        {
+          "num": 1,
+          "text": "Artéria supratroclear — ramo da oftálmica (carótida interna); dorso superior."
+        },
+        {
+          "num": 2,
+          "text": "Artéria nasal dorsal — continuação da supratroclear; dorso médio."
+        },
+        {
+          "num": 3,
+          "text": "Artéria angular — ramo terminal da facial (carótida externa); anastomose com supratroclear."
+        },
+        {
+          "num": 4,
+          "text": "Artéria columelar ascendente — ramo da labial superior; principal suprimento da columela (seccionada na via aberta)."
+        },
+        {
+          "num": 5,
+          "text": "Artéria nasal lateral — dorso e asas; risco no descolamento lateral amplo."
+        }
+      ],
+      "applicable_topics": [
+        "rinoplastia"
       ],
       "status": "available"
     },
@@ -524,6 +812,41 @@
       "status": "available"
     },
     {
+      "id": "img-platysma-anatomy-001",
+      "file": "ritidoplastia/riti-anat-platisma-anatomia.jpg",
+      "subject": "anatomia do platisma — continuação cervical do SMAS",
+      "role": "overview",
+      "source": "Neligan 2023, vol. 2, cap. 11 — Facelift (Deep Plane)",
+      "credit": "Adaptado de Neligan 2023, vol. 2, cap. 11",
+      "default_caption": "Músculo fino que se estende do tórax superior à mandíbula e comissura labial; alvo da platismaplastia.",
+      "labels": [
+        {
+          "num": 1,
+          "text": "Bordas mediais — encontram-se na linha média em jovens; separam-se com envelhecimento."
+        },
+        {
+          "num": 2,
+          "text": "Bandas platismais — cordões verticais visíveis no pescoço anterior."
+        },
+        {
+          "num": 3,
+          "text": "Gordura subplatismal — profunda ao músculo; acesso só após abrir o platisma."
+        },
+        {
+          "num": 4,
+          "text": "Glândula submandibular — profunda ao platisma; ptose contribui para contorno cervical."
+        },
+        {
+          "num": 5,
+          "text": "Ramo marginal mandibular — cruza profundamente próximo à borda da mandíbula."
+        }
+      ],
+      "applicable_topics": [
+        "ritidoplastia"
+      ],
+      "status": "available"
+    },
+    {
       "id": "img-pmi-001",
       "file": "lipoaspiracao/lipo-anat-pmi.png",
       "subject": "PMI (Point of Maximum Indentation) como âncora das marcações em lipoescultura",
@@ -579,6 +902,41 @@
       "applicable_topics": [
         "contorno-pos-bariatrico",
         "abdominoplastia"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-retaining-ligaments-001",
+      "file": "ritidoplastia/riti-anat-ligamentos-overview.jpg",
+      "subject": "ligamentos de retenção facial (Furnas) — ancoragem osso-derme",
+      "role": "overview",
+      "source": "Neligan 2023, vol. 2, cap. 11 — Facelift (Deep Plane)",
+      "credit": "Adaptado de Neligan 2023, vol. 2, cap. 11",
+      "default_caption": "Condensações fibrosas que conectam esqueleto e fáscia profunda à derme — sua liberação é o passo-chave do deep plane.",
+      "labels": [
+        {
+          "num": 1,
+          "text": "Ligamento zigomático-cutâneo (McGregor) — do arco zigomático à pele malar."
+        },
+        {
+          "num": 2,
+          "text": "Ligamento massetérico-cutâneo — do masseter à pele do jowl."
+        },
+        {
+          "num": 3,
+          "text": "Ligamento mandibular — da borda mandibular ao sulco labiomandibular."
+        },
+        {
+          "num": 4,
+          "text": "Ligamento orbicular-retentor — ancora o orbicular inferior ao rebordo orbitário."
+        },
+        {
+          "num": 5,
+          "text": "SMAS — perfurado pelos ligamentos em seu trajeto até a derme."
+        }
+      ],
+      "applicable_topics": [
+        "ritidoplastia"
       ],
       "status": "available"
     },
@@ -753,6 +1111,41 @@
       "applicable_topics": [
         "lipoaspiracao",
         "abdominoplastia"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-smas-layers-001",
+      "file": "ritidoplastia/riti-anat-smas-camadas.jpg",
+      "subject": "camadas do SMAS (Sistema Musculoaponeurótico Superficial) — plano fibromuscular entre platisma e orbicular",
+      "role": "overview",
+      "source": "Neligan 2023, vol. 2, cap. 11 — Facelift (Deep Plane)",
+      "credit": "Adaptado de Neligan 2023, vol. 2, cap. 11",
+      "default_caption": "Camada fibromuscular contínua entre a gordura subcutânea e a fáscia parotidomasseteria — alvo da tração no facelift.",
+      "labels": [
+        {
+          "num": 1,
+          "text": "Pele e derme — plano superficial; retalho cutâneo elevado primeiro."
+        },
+        {
+          "num": 2,
+          "text": "Gordura subcutânea — entre pele e SMAS; preservar vascularização."
+        },
+        {
+          "num": 3,
+          "text": "SMAS — camada fibromuscular; vetor de tração posterior-superior."
+        },
+        {
+          "num": 4,
+          "text": "Fáscia parotidomasseteria — plano profundo; contém ramos do nervo facial."
+        },
+        {
+          "num": 5,
+          "text": "Platisma — continuação cervical do SMAS; manejo associado."
+        }
+      ],
+      "applicable_topics": [
+        "ritidoplastia"
       ],
       "status": "available"
     },

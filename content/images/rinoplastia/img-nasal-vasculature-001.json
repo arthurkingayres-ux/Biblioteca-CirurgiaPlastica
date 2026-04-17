@@ -1,0 +1,18 @@
+{
+  "id": "img-nasal-vasculature-001",
+  "file": "rinoplastia/fig18-15-vascularizacao-nasal.jpeg",
+  "subject": "vascularização do nariz — anastomoses entre carótida interna e externa",
+  "role": "overview",
+  "source": "Neligan 2023, vol. 2, cap. 18 — Rhinoplasty",
+  "credit": "Adaptado de Neligan 2023, vol. 2, cap. 18",
+  "default_caption": "Suprimento colateral extenso acima da musculatura nasal — base da segurança da via aberta.",
+  "labels": [
+    { "num": 1, "text": "Artéria supratroclear — ramo da oftálmica (carótida interna); dorso superior." },
+    { "num": 2, "text": "Artéria nasal dorsal — continuação da supratroclear; dorso médio." },
+    { "num": 3, "text": "Artéria angular — ramo terminal da facial (carótida externa); anastomose com supratroclear." },
+    { "num": 4, "text": "Artéria columelar ascendente — ramo da labial superior; principal suprimento da columela (seccionada na via aberta)." },
+    { "num": 5, "text": "Artéria nasal lateral — dorso e asas; risco no descolamento lateral amplo." }
+  ],
+  "applicable_topics": ["rinoplastia"],
+  "status": "available"
+}

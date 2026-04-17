@@ -1,0 +1,18 @@
+{
+  "id": "img-alar-cartilages-001",
+  "file": "rinoplastia/fig18-4-cartilagens-laterais-inf.jpeg",
+  "subject": "cartilagens alares (CLA — cartilagens laterais inferiores) em detalhe — cruras medial, média e lateral",
+  "role": "detail",
+  "source": "Neligan 2023, vol. 2, cap. 18 — Rhinoplasty",
+  "credit": "Adaptado de Neligan 2023, vol. 2, cap. 18",
+  "default_caption": "Três segmentos das CLA: crura medial (columela), crura média (domos / tip defining points) e crura lateral (rim alar).",
+  "labels": [
+    { "num": 1, "text": "Crura medial — forma a columela; palpável entre as narinas." },
+    { "num": 2, "text": "Crura média — segmento curto que define os domos e tip defining points." },
+    { "num": 3, "text": "Domo — ápice da crura média; determina projeção e luz da ponta." },
+    { "num": 4, "text": "Crura lateral — trajeto oblíquo em direção ao osso maxilar (não paralelo ao rim alar)." },
+    { "num": 5, "text": "Soft triangle — área livre de cartilagem no ápice da narina; evitar sutura." }
+  ],
+  "applicable_topics": ["rinoplastia"],
+  "status": "available"
+}
