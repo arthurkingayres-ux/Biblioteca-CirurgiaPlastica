@@ -1,0 +1,17 @@
+{
+  "id": "img-medial-thigh-001",
+  "file": "contorno-pos-bariatrico/cpb-anat-coxa-medial-marcacoes.png",
+  "subject": "marcação do lifting medial vertical da coxa pós-bariátrica",
+  "role": "surgical",
+  "source": "Neligan 2023, vol. 2, cap. 38, Fig. 38.12 — Toy/Rubin",
+  "credit": "Adaptado de Neligan 2023, vol. 2, cap. 38",
+  "default_caption": "Linha superior na prega inguinal 4 cm lateral à linha média do monte púbico; extensão vertical estimada por pinch test; fuso de ressecção desenhado até o joelho.",
+  "labels": [
+    { "num": 1, "text": "Linha superior — prega inguinal, 4 cm lateral à linha média do monte púbico." },
+    { "num": 2, "text": "Extensão vertical — estimada por pinch test bilateral." },
+    { "num": 3, "text": "Fuso de ressecção — face medial da coxa até o joelho." },
+    { "num": 4, "text": "Fixação à fáscia de Colles/periósteo da sínfise — evita recorrência da ptose." }
+  ],
+  "applicable_topics": ["contorno-pos-bariatrico"],
+  "status": "available"
+}

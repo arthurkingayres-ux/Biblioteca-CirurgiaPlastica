@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-17T21:25:44Z",
-  "count": 13,
+  "generatedAt": "2026-04-17T21:28:25Z",
+  "count": 20,
   "entries": [
     {
       "id": "img-abdominal-layers-001",
@@ -114,6 +114,107 @@
       ],
       "applicable_topics": [
         "abdominoplastia"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-arm-sagittal-001",
+      "file": "contorno-pos-bariatrico/cpb-anat-braco-sagital.png",
+      "subject": "corte sagital do terço médio do braço — relações neurovasculares do compartimento medial",
+      "role": "detail",
+      "source": "Neligan 2023, vol. 2, cap. 36, Fig. 36.8 — Luthringer/Shulzhenko/Capella",
+      "credit": "Adaptado de Neligan 2023, vol. 2, cap. 36",
+      "default_caption": "Relação entre bíceps, tríceps, úmero, veia basílica e nervo cutâneo medial do antebraço — plano supramuscular seguro para braquioplastia.",
+      "labels": [
+        {
+          "num": 1,
+          "text": "Pele e tecido subcutâneo — plano de dissecção supramuscular."
+        },
+        {
+          "num": 2,
+          "text": "Fáscia muscular — limite profundo; não ultrapassar evita lesão nervosa."
+        },
+        {
+          "num": 3,
+          "text": "Veia basílica — referência vascular superficial medial."
+        },
+        {
+          "num": 4,
+          "text": "Nervo cutâneo medial do antebraço — risco de parestesia transitória (10-30%) ou permanente (2-5%)."
+        },
+        {
+          "num": 5,
+          "text": "Úmero — estrutura óssea profunda."
+        }
+      ],
+      "applicable_topics": [
+        "contorno-pos-bariatrico"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-breast-ptosis-001",
+      "file": "contorno-pos-bariatrico/cpb-anat-mama-ptose-bariatrica.png",
+      "subject": "mama pós-bariátrica — ptose Regnault III com CAP abaixo do IMF",
+      "role": "overview",
+      "source": "Regnault, PRS 1976; Neligan 2023, vol. 5",
+      "credit": "Adaptado de Neligan 2023, vol. 5",
+      "default_caption": "Ptose Regnault III: CAP (complexo areolo-papilar) abaixo do IMF (sulco inframamário), esvaziamento do polo superior e pele redundante.",
+      "labels": [
+        {
+          "num": 1,
+          "text": "CAP (complexo areolo-papilar) — posicionado abaixo do IMF na ptose grau III."
+        },
+        {
+          "num": 2,
+          "text": "IMF (sulco inframamário) — referência de medida da ptose."
+        },
+        {
+          "num": 3,
+          "text": "Polo superior esvaziado — perda de plenitude; pseudoptose."
+        },
+        {
+          "num": 4,
+          "text": "Pele redundante — qualidade comprometida, pouca elasticidade."
+        }
+      ],
+      "applicable_topics": [
+        "contorno-pos-bariatrico"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-face-neck-ptosis-001",
+      "file": "contorno-pos-bariatrico/cpb-anat-face-pescoco-ptose.png",
+      "subject": "face e pescoço pós-bariátricos — envelhecimento acelerado por deflação e flacidez",
+      "role": "overview",
+      "source": "Neligan 2023, vol. 2 (Aesthetic) — facelift/neck lift",
+      "credit": "Adaptado de Neligan 2023, vol. 2",
+      "default_caption": "Jowls, sulco nasolabial profundo, submento ptótico, ângulo cervicomental obtuso (> 120°) e deflação de compartimentos graxos profundos.",
+      "labels": [
+        {
+          "num": 1,
+          "text": "Jowls — ptose da gordura jugal abaixo da mandíbula."
+        },
+        {
+          "num": 2,
+          "text": "Sulco nasolabial profundo — deflação do compartimento graxo malar."
+        },
+        {
+          "num": 3,
+          "text": "Submento ptótico — flacidez do platisma e pele cervical."
+        },
+        {
+          "num": 4,
+          "text": "Ângulo cervicomental obtuso (> 120°) — perda da definição da linha mandibular."
+        },
+        {
+          "num": 5,
+          "text": "Bandas platismais visíveis — diástase anterior do platisma."
+        }
+      ],
+      "applicable_topics": [
+        "contorno-pos-bariatrico"
       ],
       "status": "available"
     },
@@ -239,6 +340,37 @@
       "status": "available"
     },
     {
+      "id": "img-medial-thigh-001",
+      "file": "contorno-pos-bariatrico/cpb-anat-coxa-medial-marcacoes.png",
+      "subject": "marcação do lifting medial vertical da coxa pós-bariátrica",
+      "role": "surgical",
+      "source": "Neligan 2023, vol. 2, cap. 38, Fig. 38.12 — Toy/Rubin",
+      "credit": "Adaptado de Neligan 2023, vol. 2, cap. 38",
+      "default_caption": "Linha superior na prega inguinal 4 cm lateral à linha média do monte púbico; extensão vertical estimada por pinch test; fuso de ressecção desenhado até o joelho.",
+      "labels": [
+        {
+          "num": 1,
+          "text": "Linha superior — prega inguinal, 4 cm lateral à linha média do monte púbico."
+        },
+        {
+          "num": 2,
+          "text": "Extensão vertical — estimada por pinch test bilateral."
+        },
+        {
+          "num": 3,
+          "text": "Fuso de ressecção — face medial da coxa até o joelho."
+        },
+        {
+          "num": 4,
+          "text": "Fixação à fáscia de Colles/periósteo da sínfise — evita recorrência da ptose."
+        }
+      ],
+      "applicable_topics": [
+        "contorno-pos-bariatrico"
+      ],
+      "status": "available"
+    },
+    {
       "id": "img-pdsea-preservation-001",
       "file": "abdominoplastia/abdo-anat-huger-perfuradores.jpg",
       "subject": "preservação da PDSEA (septocutânea subcostal paramediana) na abdominoplastia",
@@ -297,6 +429,38 @@
       ],
       "applicable_topics": [
         "lipoaspiracao"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-rectus-diastasis-001",
+      "file": "contorno-pos-bariatrico/cpb-anat-diastase-plicatura.png",
+      "subject": "diástase dos retos abdominais e plicatura em duplo plano",
+      "role": "detail",
+      "source": "Neligan 2023, vol. 2, cap. 31, Fig. 31.22 — Singh/Aly",
+      "credit": "Adaptado de Neligan 2023, vol. 2, cap. 31",
+      "default_caption": "Corte transverso: afastamento da linha alba entre retos e plicatura em duplo plano que restaura a tensão aponeurótica pós-bariátrica.",
+      "labels": [
+        {
+          "num": 1,
+          "text": "Músculos retos abdominais — afastados da linha média (diástase > 2 cm)."
+        },
+        {
+          "num": 2,
+          "text": "Linha alba alargada — alvo da plicatura."
+        },
+        {
+          "num": 3,
+          "text": "Plicatura fascial (plano superficial) — sutura absorvível 2-0 ou 0."
+        },
+        {
+          "num": 4,
+          "text": "Plicatura muscular (plano profundo) — restaura tensão aponeurótica."
+        }
+      ],
+      "applicable_topics": [
+        "contorno-pos-bariatrico",
+        "abdominoplastia"
       ],
       "status": "available"
     },
@@ -368,6 +532,42 @@
       "status": "available"
     },
     {
+      "id": "img-scarpa-fat-compartment-001",
+      "file": "contorno-pos-bariatrico/cpb-anat-scarpa-compartimento-graxo.png",
+      "subject": "corte sagital — fáscia de Scarpa separando compartimento adiposo superficial e profundo",
+      "role": "detail",
+      "source": "Neligan 2023, vol. 2, cap. 32, Fig. 32.3 — Richter/Schwaiger",
+      "credit": "Adaptado de Neligan 2023, vol. 2, cap. 32",
+      "default_caption": "Fáscia de Scarpa separa a gordura superficial lobular da profunda; plano supraneural das perfurantes epigástricas preserva vasculatura e drenagem linfática.",
+      "labels": [
+        {
+          "num": 1,
+          "text": "Gordura superficial — lobular, septos verticais densos."
+        },
+        {
+          "num": 2,
+          "text": "Fáscia de Scarpa — membranosa; preservar reduz seroma e ptose."
+        },
+        {
+          "num": 3,
+          "text": "Gordura profunda (subscarpal) — lóbulos maiores."
+        },
+        {
+          "num": 4,
+          "text": "Perfurantes epigástricas inferiores — plano supraneural."
+        },
+        {
+          "num": 5,
+          "text": "Fáscia muscular (reto abdominal) — limite profundo da dissecção."
+        }
+      ],
+      "applicable_topics": [
+        "contorno-pos-bariatrico",
+        "abdominoplastia"
+      ],
+      "status": "available"
+    },
+    {
       "id": "img-scarpa-lymphatics-001",
       "file": "abdominoplastia/abdo-anat-scarpa-linfaticos.jpg",
       "subject": "fáscia de Scarpa como substrato do plexo linfático subdérmico inferior",
@@ -435,6 +635,33 @@
       "applicable_topics": [
         "lipoaspiracao",
         "abdominoplastia"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-trunk-adherence-zones-001",
+      "file": "contorno-pos-bariatrico/cpb-anat-zonas-aderencia-tronco.png",
+      "subject": "zonas de aderência do tronco no paciente pós-bariátrico — vetores de descenso inferomedial",
+      "role": "overview",
+      "source": "Neligan 2023, vol. 2, cap. 31, Fig. 31.1 — Singh/Aly, Belt lipectomy",
+      "credit": "Adaptado de Neligan 2023, vol. 2, cap. 31",
+      "default_caption": "Zonas de aderência do tronco e vetores de descenso inferomedial — determinam direção do puxamento e posicionamento das incisões do body lift.",
+      "labels": [
+        {
+          "num": 1,
+          "text": "Zonas de aderência do tronco — áreas onde a fáscia subcutânea adere à fáscia muscular."
+        },
+        {
+          "num": 2,
+          "text": "Vetores de descenso inferomedial — direção do deslocamento dos tecidos com envelhecimento e perda ponderal maciça."
+        },
+        {
+          "num": 3,
+          "text": "Posicionamento da incisão do belt lipectomy — perpendicular aos vetores de tração."
+        }
+      ],
+      "applicable_topics": [
+        "contorno-pos-bariatrico"
       ],
       "status": "available"
     }
