@@ -45,3 +45,31 @@ def test_single_entry_is_preserved(tmp_path):
 
     assert manifest["count"] == 1
     assert manifest["entries"][0] == entry
+
+
+def test_entries_sorted_and_infrastructure_skipped(tmp_path):
+    images_root = tmp_path / "content" / "images"
+    tema_dir = images_root / "abdominoplastia"
+    tema_dir.mkdir(parents=True)
+
+    base = {
+        "file": "abdominoplastia/x.png",
+        "subject": "s",
+        "role": "overview",
+        "source": "src",
+        "credit": "c",
+        "default_caption": "cap",
+        "labels": [],
+        "applicable_topics": ["abdominoplastia"],
+        "status": "available",
+    }
+    _write(tema_dir / "img-b.json", {**base, "id": "img-b-001"})
+    _write(tema_dir / "img-a.json", {**base, "id": "img-a-001"})
+    _write(images_root / "_schema.json", {"ignored": True})
+    _write(images_root / "manifest.json", {"ignored": True})
+
+    manifest = build_image_manifest.build(images_root)
+
+    ids = [e["id"] for e in manifest["entries"]]
+    assert ids == ["img-a-001", "img-b-001"]
+    assert manifest["count"] == 2
