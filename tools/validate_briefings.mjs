@@ -111,7 +111,7 @@ async function smokeToggle(page) {
         console.log(`${pass ? 'PASS' : 'FAIL'} ${t} [${theme}]: ${r.total} img, ${r.broken.length} broken, ${r.placeholders} placeholder, hero=${r.heroCount}, bg=${r.bodyBg}, badges=${r.badgeTypes.join(',')}`);
         if (r.broken.length) console.log('  broken:', r.broken.slice(0, 5));
         const expected = EXPECTED_IMAGE_COUNTS[t];
-        if (expected !== null && expected !== undefined && r.total !== expected) {
+        if (expected !== null && r.total !== expected) {
           console.log(`  WARN expected ${expected} images for ${t}, got ${r.total}`);
         }
       } catch (e) { ok = false; console.log(`FAIL ${t} [${theme}]: ${e.message}`); }

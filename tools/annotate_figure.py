@@ -26,6 +26,7 @@ def _load_font(size: int) -> ImageFont.ImageFont:
     try:
         return ImageFont.truetype("DejaVuSans-Bold.ttf", size=size)
     except OSError:
+        log.warning("DejaVuSans-Bold.ttf not found; falling back to Pillow default bitmap font (callouts will appear small)")
         return ImageFont.load_default()
 
 
@@ -55,6 +56,8 @@ def annotate(
             log.warning("coord %s clamped from (%s,%s) to (%s,%s)", num, nx, ny, clamped_x, clamped_y)
         px = int(round(clamped_x * w))
         py = int(round(clamped_y * h))
+        px = max(radius, min(w - radius - 1, px))
+        py = max(radius, min(h - radius - 1, py))
         bbox = [px - radius, py - radius, px + radius, py + radius]
         draw.ellipse(bbox, fill=(0, 0, 0, 255), outline=(255, 255, 255, 255), width=max(1, int(round(stroke))))
         text = str(num)
@@ -82,7 +85,11 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--font-size", type=int, default=16)
     args = parser.parse_args(argv)
     logging.basicConfig(level=logging.WARNING)
-    annotate(args.image, args.coords, args.out, args.radius, args.stroke, args.font_size)
+    try:
+        annotate(args.image, args.coords, args.out, args.radius, args.stroke, args.font_size)
+    except (FileNotFoundError, json.JSONDecodeError, TypeError, KeyError, OSError) as exc:
+        log.error("failed to annotate: %s", exc)
+        return 1
     return 0
 
 

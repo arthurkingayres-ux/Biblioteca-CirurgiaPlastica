@@ -59,5 +59,5 @@ def test_out_of_range_coord_is_clamped_and_warns(tmp_path, caplog):
     assert any("clamped" in rec.message for rec in caplog.records)
     # The circle should have landed near (200, 0) — clamped corner.
     out_img = Image.open(out).convert("RGB")
-    probe = out_img.getpixel((199, 0))
-    assert max(probe) < 120, f"expected dark pixel near clamp, got {probe}"
+    probe = out_img.getpixel((181 - 8, 18 - 8))
+    assert max(probe) < 80, f"expected near-black, got {probe}"
