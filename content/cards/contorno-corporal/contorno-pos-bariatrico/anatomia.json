@@ -15,7 +15,7 @@
       { "label": "Umbigo", "description": "Reimplantado em neo-óstio pós-dermolipectomia." }
     ],
     "clinical_hook": "Plicatura em duplo plano com sutura absorvível 2-0 e dissecção supramuscular até arco costal evitando lesão dos nervos intercostais.",
-    "how_to_identify": "Diástase palpável em supino com flexão cervical; landmarks: EIAS bilaterais, sínfise púbica, arco costal, umbigo.",
+    "how_to_identify": "Diástase palpável em supino com flexão cervical; landmarks: EIAS (espinha ilíaca anterossuperior) bilaterais, sínfise púbica, arco costal, umbigo.",
     "images": [
       { "ref": "img-trunk-adherence-zones-001" },
       { "ref": "img-scarpa-fat-compartment-001" },
@@ -136,15 +136,15 @@
     "aliases": [],
     "topic": "contorno-pos-bariatrico",
     "area": "contorno-corporal",
-    "one_liner": "Glândula mamária com deflação, ptose severa (Regnault III–IV) e qualidade cutânea comprometida pós-perda ponderal.",
+    "one_liner": "Glândula mamária com deflação, ptose severa (Regnault grau 3 a 4) e qualidade cutânea comprometida pós-perda ponderal.",
     "structures": [
       { "label": "Pedículo superior", "description": "Ramos da artéria torácica interna." },
       { "label": "Pedículo inferior", "description": "Perfurantes intercostais (2º ao 6º espaços)." },
-      { "label": "IMF", "description": "Sulco inframamário; referência da ptose." },
-      { "label": "CAP", "description": "Complexo areolo-papilar; posição relativa ao IMF define o grau Regnault." }
+      { "label": "IMF (sulco inframamário)", "description": "Referência de medida da ptose." },
+      { "label": "CAP (complexo areolo-papilar)", "description": "Posição relativa ao sulco define o grau Regnault." }
     ],
-    "clinical_hook": "Ptose Regnault III–IV com deflação glandular exige mastopexia ± aumento com implante ou autoaumento dermoglandular.",
-    "how_to_identify": "Classificação de Regnault: avaliar relação CAP–IMF em ortostase.",
+    "clinical_hook": "Ptose grau 3 ou 4 com deflação glandular exige mastopexia associada a implante ou autoaumento dermoglandular.",
+    "how_to_identify": "Classificação de Regnault: avaliar relação mamilo-sulco em ortostase.",
     "images": [
       { "ref": "img-breast-ptosis-001" }
     ],
@@ -169,7 +169,7 @@
     "aliases": [],
     "topic": "contorno-pos-bariatrico",
     "area": "contorno-corporal",
-    "one_liner": "Envelhecimento craniofacial acelerado por deflação de compartimentos graxos e flacidez SMAS/platisma.",
+    "one_liner": "Envelhecimento craniofacial acelerado por deflação de compartimentos graxos e flacidez do SMAS (Sistema Musculoaponeurótico Superficial) e do platisma.",
     "structures": [
       { "label": "SMAS", "description": "Sistema musculoaponeurótico superficial; alvo do lifting facial." },
       { "label": "Platisma", "description": "Diástase anterior gera bandas cervicais visíveis." },

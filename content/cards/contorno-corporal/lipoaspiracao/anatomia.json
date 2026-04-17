@@ -6,12 +6,12 @@
     "aliases": ["ponto de máxima indentação"],
     "topic": "lipoaspiracao",
     "area": "contorno-corporal",
-    "one_liner": "Ponto mais côncavo da silhueta lateral (cintura feminina ou linha paralumbar masculina); âncora de todas as marcações em lipoescultura.",
+    "one_liner": "PMI (Point of Maximum Indentation): ponto mais côncavo da silhueta lateral; âncora de todas as marcações em lipoescultura.",
     "structures": [
       { "label": "PMI feminino", "description": "Ponto mais côncavo da cintura lateral." },
       { "label": "PMI masculino", "description": "Linha paralumbar, mais baixa e vertical." }
     ],
-    "clinical_hook": "Marcar o PMI antes de qualquer outra linha garante que a lipoescultura respeite a silhueta natural do paciente.",
+    "clinical_hook": "Marcar este ponto antes de qualquer outra linha garante que a lipoescultura respeite a silhueta natural do paciente.",
     "how_to_identify": "Inspeção visual em ortostase; ponto mais côncavo da silhueta lateral do paciente despido.",
     "images": [
       { "ref": "img-pmi-001" }
@@ -68,16 +68,16 @@
     "aliases": ["SFS", "Modelo Lockwood-Markman"],
     "topic": "lipoaspiracao",
     "area": "contorno-corporal",
-    "one_liner": "Tecido adiposo subcutâneo em três camadas separadas pela fáscia membranosa: SAT, fáscia e DAT.",
+    "one_liner": "Tecido adiposo subcutâneo em três camadas separadas pela fáscia membranosa: SAT (superficial adipose tissue), fáscia e DAT (deep adipose tissue).",
     "structures": [
-      { "label": "Epiderme e derme", "description": "Limite superior; manter > 1 cm de SAT entre cânula e derme." },
-      { "label": "SAT", "description": "Tecido adiposo superficial; lóbulos pequenos, septos verticais densos." },
+      { "label": "Epiderme e derme", "description": "Limite superior; manter cânula > 1 cm da derme." },
+      { "label": "SAT (superficial adipose tissue)", "description": "Lóbulos pequenos, septos verticais densos." },
       { "label": "Fáscia membranosa", "description": "Scarpa (abdome), Camper (coxa), Colles (períneo)." },
-      { "label": "DAT", "description": "Tecido adiposo profundo; alvo primário da SAL tradicional." },
+      { "label": "DAT (deep adipose tissue)", "description": "Alvo primário da SAL (suction-assisted lipoplasty)." },
       { "label": "Fáscia muscular", "description": "Limite profundo; aspiração abaixo é contraindicada." }
     ],
-    "clinical_hook": "Preservar a fáscia membranosa reduz seroma e ptose tardia; aspirar SAT < 1 cm da derme gera irregularidades visíveis irreversíveis.",
-    "how_to_identify": "SAT: lóbulos pequenos compartimentados por septos verticais. DAT: lóbulos maiores, septos horizontais frouxos. Fáscia: plano fibroso contínuo esbranquiçado.",
+    "clinical_hook": "Preservar a fáscia membranosa reduz seroma e ptose tardia; aspirar superficialmente < 1 cm da derme gera irregularidades visíveis irreversíveis.",
+    "how_to_identify": "Camada superficial: lóbulos pequenos com septos verticais. Camada profunda: lóbulos maiores, septos horizontais frouxos. Fáscia: plano fibroso contínuo esbranquiçado.",
     "images": [
       { "ref": "img-sfs-layers-001" }
     ],

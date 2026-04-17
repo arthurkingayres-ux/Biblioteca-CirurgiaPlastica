@@ -150,13 +150,13 @@
     "aliases": [],
     "topic": "gluteoplastia",
     "area": "contorno-corporal",
-    "one_liner": "Ramo da ilíaca interna que irriga a porção inferior glútea; veia homônima é sítio-chave de embolia gordurosa no BBL.",
+    "one_liner": "Ramo da ilíaca interna que irriga a porção inferior glútea; veia homônima é sítio-chave de embolia gordurosa no BBL (Brazilian Butt Lift).",
     "structures": [
       { "label": "Artéria glútea inferior", "description": "Emerge abaixo do piriforme pelo forame isquiático maior." },
-      { "label": "Veia glútea inferior", "description": "Principal porta de entrada de gordura na circulação no BBL intramuscular." },
+      { "label": "Veia glútea inferior", "description": "Principal porta de entrada de gordura na circulação intramuscular." },
       { "label": "Relações", "description": "Adjacente ao nervo ciático e ao nervo glúteo inferior." }
     ],
-    "clinical_hook": "Cânula que transgride o plano muscular no BBL pode atingir a veia glútea inferior e causar embolia gordurosa fatal.",
+    "clinical_hook": "Cânula que transgride o plano muscular pode atingir a veia glútea inferior e causar embolia gordurosa fatal.",
     "how_to_identify": "Localizada abaixo da borda inferior do piriforme, adjacente ao nervo ciático, acompanhada pelo nervo glúteo inferior.",
     "images": [
       { "ref": "img-gluteal-neurovascular-001" }
@@ -183,14 +183,14 @@
     "aliases": [],
     "topic": "gluteoplastia",
     "area": "contorno-corporal",
-    "one_liner": "V anatômico delimitado pelas EIPS bilaterais e pelo topo do sulco interglúteo; landmark estético do dorso inferior.",
+    "one_liner": "V anatômico delimitado pelas EIPS (espinhas ilíacas póstero-superiores) bilaterais e pelo topo do sulco interglúteo; landmark estético.",
     "structures": [
       { "label": "EIPS bilaterais", "description": "Vértices superolaterais; covinhas cutâneas de Vênus." },
       { "label": "Topo do sulco interglúteo", "description": "Vértice inferior do triângulo." },
       { "label": "Sacro", "description": "Base óssea; referência para lipoplastia do dorso inferior." }
     ],
     "clinical_hook": "Lipoplastia meticulosa do triângulo sacral define as bordas superiores das nádegas e cria transição natural entre dorso e glúteo.",
-    "how_to_identify": "Visualizado em pé: covinhas das EIPS delimitam a base; topo da fenda glútea fecha o vértice inferior.",
+    "how_to_identify": "Visualizado em pé: covinhas laterais delimitam a base; topo da fenda glútea fecha o vértice inferior.",
     "images": [
       { "ref": "img-sacral-triangle-001" }
     ],
