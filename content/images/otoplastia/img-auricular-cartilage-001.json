@@ -1,17 +1,17 @@
 {
   "id": "img-auricular-cartilage-001",
-  "file": "otoplastia/oto-anat-cartilagem-deformidades.jpg",
-  "subject": "cartilagem auricular elástica — arcabouço estrutural e deformidades típicas",
+  "file": "otoplastia/oto-anat-cartilagem-framework.jpg",
+  "subject": "arcabouço cartilaginoso auricular — peça única de cartilagem elástica com dobras",
   "role": "detail",
-  "source": "Neligan 2023, vol. 3, cap. 28 — Otoplasty",
-  "credit": "Adaptado de Neligan 2023, vol. 3, cap. 28",
-  "default_caption": "Cartilagem elástica em peça única; nutrida por difusão pericondrial — hematoma não drenado evolui para orelha em couve-flor.",
+  "source": "Neligan 2023, vol. 3 — Fig. 4.4 Cartilage framework of the native ear",
+  "credit": "Adaptado de Neligan 2023, vol. 3, Fig. 4.4",
+  "default_caption": "Cartilagem elástica em peça única moldada em hélice, anti-hélice, concha, trago e anti-trago; o lóbulo é fibroadiposo, sem suporte cartilaginoso.",
   "labels": [
-    { "num": 1, "text": "Cartilagem auricular — elástica (não hialina); peça única com dobras." },
-    { "num": 2, "text": "Pericôndrio — membrana vascularizada; única fonte de nutrição da cartilagem." },
-    { "num": 3, "text": "Anti-hélice hipoplásica — ângulo CS (concha-escafoide) >90 graus; orelha em abano." },
-    { "num": 4, "text": "Excesso conchal — profundidade >20 mm exige Furnas ou ressecção." },
-    { "num": 5, "text": "Lóbulo — tecido fibroadiposo, sem cartilagem; protrusão tratada separadamente." }
+    { "num": 1, "text": "Hélice — borda externa enrolada do pavilhão, definida pela cartilagem." },
+    { "num": 2, "text": "Anti-hélice com crura superior e inferior — dobra principal; hipoplasia causa orelha em abano." },
+    { "num": 3, "text": "Concha (cymba e cavum) — depressão central profunda; profundidade >20 mm indica excesso conchal." },
+    { "num": 4, "text": "Trago e anti-trago — proeminências cartilaginosas anteriores delimitando a entrada do meato acústico." },
+    { "num": 5, "text": "Lóbulo — tecido fibroadiposo sem cartilagem; protrusão é tratada separadamente das técnicas cartilaginosas." }
   ],
   "applicable_topics": ["otoplastia"],
   "status": "available"
