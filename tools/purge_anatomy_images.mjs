@@ -52,16 +52,22 @@ function allCardFiles(topicDir) {
 }
 
 function imageRefsInCards(cardFiles) {
+  // Collects both `ref` (anatomy v2 registry key) and `file` (direct PNG filename
+  // used by non-anatomy card schemas). Both count as "other card uses this image".
   const refs = new Set();
+  const files = new Set();
   for (const f of cardFiles) {
     const data = readJSON(f);
     const cards = Array.isArray(data) ? data : [data];
     for (const c of cards) {
       if (!Array.isArray(c.images)) continue;
-      for (const img of c.images) if (img?.ref) refs.add(img.ref);
+      for (const img of c.images) {
+        if (img?.ref) refs.add(img.ref);
+        if (img?.file) files.add(img.file);
+      }
     }
   }
-  return refs;
+  return { refs, files };
 }
 
 // ---------- Phase A: collect planned mutations ----------
@@ -107,11 +113,11 @@ for (const { area, topic } of SCOPE) {
 
   // Check if each ref is shared with other card types in the same topic
   const otherCardFiles = allCardFiles(topicDir).filter(f => path.basename(f) !== 'anatomia.json');
-  const otherRefs = imageRefsInCards(otherCardFiles);
+  const { refs: otherRefs, files: otherFiles } = imageRefsInCards(otherCardFiles);
 
   for (const imgId of anatomyRefs) {
     if (otherRefs.has(imgId)) {
-      plan.registriesKept.push({ imgId, reason: `shared with non-anatomy cards in ${topic}` });
+      plan.registriesKept.push({ imgId, reason: `shared with non-anatomy cards in ${topic} (ref)` });
       continue;
     }
 
@@ -119,12 +125,19 @@ for (const { area, topic } of SCOPE) {
     const registrySrc = path.join(ROOT, 'content/images', topic, `${imgId}.json`);
     if (fs.existsSync(registrySrc)) {
       const registryDest = path.join(ROOT, 'content/images', topic, '_archived', `${imgId}.json`);
+
+      // Check if the registry's PNG file is directly referenced by non-anatomy
+      // cards (which use `file:` schema instead of `ref:`). If so, keep PNG
+      // but still archive the now-orphan registry/manifest entry.
+      const registry = readJSON(registrySrc);
+      const pngStillUsed = registry.file && otherFiles.has(path.basename(registry.file));
+
       plan.registriesToArchive.push({ imgId, src: registrySrc, dest: registryDest });
 
-      // Find PNG from registry
-      const registry = readJSON(registrySrc);
-      if (registry.file) {
-        // assets/images/<file>
+      if (pngStillUsed) {
+        plan.registriesKept.push({ imgId, reason: `PNG ${path.basename(registry.file)} used by non-anatomy cards via file: ref — PNG kept, registry+manifest archived` });
+      } else if (registry.file) {
+        // Find PNG from registry
         const pngRel = registry.file;
         const assetSrc = path.join(ROOT, 'assets/images', pngRel);
         const pngName = path.basename(pngRel);

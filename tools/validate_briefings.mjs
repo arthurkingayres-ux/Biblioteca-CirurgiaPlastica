@@ -68,16 +68,14 @@ function checkImageCounts(topics, { reportPending = false } = {}) {
       continue;
     }
 
-    // Topicos pequenos (<=5 cards) podem ter 1 card conceitual sem imagem
-    // (ex: "Gordura visceral" em abdomino nao tem figura natural).
-    // Topicos grandes (>5 cards) exigem os 5 ancoras.
-    const required = totalV2 <= 5 ? Math.max(1, totalV2 - 1) : 5;
-    const passes = withImages >= required;
-    if (!passes) {
+    // Phase 7.2 invariant: anatomia v2 cards dos 8 temas contorno+face
+    // NAO devem ter imagens. Reintroducao futura via visual companion
+    // card-a-card exigira revisitar este check.
+    if (withImages > 0) {
       hardFail = true;
-      report.push(`${topic}: FAIL ${withImages}/${required} com imagem (${pending} pendentes)`);
+      report.push(`${topic}: FAIL ${withImages} card(s) com imagem — Phase 7.2 purge exige zero`);
     } else {
-      report.push(`${topic}: OK ${withImages} com imagem, ${pending} pendentes`);
+      report.push(`${topic}: OK (${totalV2} cards anatomia, zero imagens — pos purge 7.2)`);
     }
     if (reportPending && pendingCards.length > 0) {
       for (const c of pendingCards) {
