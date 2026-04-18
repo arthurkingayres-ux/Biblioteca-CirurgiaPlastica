@@ -124,12 +124,20 @@ const Renderer = (() => {
       }
       const src = '../../assets/images/' + entry.file;
       const caption = item.caption_override || entry.default_caption;
-      const labels = (entry.labels || []).map(l =>
+      const entryLabels = entry.labels || [];
+      const markers = entryLabels
+        .filter(l => typeof l.x === 'number' && typeof l.y === 'number')
+        .map(l => `<span class="fig-marker" style="left:${(l.x * 100).toFixed(2)}%;top:${(l.y * 100).toFixed(2)}%">${l.num}</span>`)
+        .join('');
+      const legendItems = entryLabels.map(l =>
         `<span class="legend-item"><span class="legend-num">${l.num}</span>${_formatText(l.text)}</span>`
       ).join('');
-      const legend = labels ? `<div class="fig-legend">${labels}</div>` : '';
+      const legend = legendItems ? `<div class="fig-legend">${legendItems}</div>` : '';
       return `<figure class="card-figure">
-        <img src="${src}" alt="${caption}" loading="lazy">
+        <div class="fig-container">
+          <img src="${src}" alt="${caption}" loading="lazy">
+          ${markers}
+        </div>
         <figcaption>
           <span class="caption">${caption}</span>
           <span class="credit">${entry.credit}</span>

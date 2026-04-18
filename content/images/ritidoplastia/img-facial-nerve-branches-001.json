@@ -7,12 +7,39 @@
   "credit": "Adaptado de Neligan 2023, vol. 2, cap. 11",
   "default_caption": "Três ramos de risco crítico no facelift; lesão permanente em <1% quando plano cirúrgico é respeitado.",
   "labels": [
-    { "num": 1, "text": "Ramo temporal (Pitanguy) — cruza arco zigomático na fáscia temporoparietal." },
-    { "num": 2, "text": "Ramo zigomático — inerva orbicular do olho; próximo aos ligamentos de retenção." },
-    { "num": 3, "text": "Ramo bucal — geralmente redundante; menor impacto clínico." },
-    { "num": 4, "text": "Ramo marginal mandibular — 1-2 cm abaixo da borda; lesão gera assimetria do sorriso." },
-    { "num": 5, "text": "Ramo cervical — inerva platisma; lesão simula paralisia marginal." }
+    {
+      "num": 1,
+      "text": "Ramo temporal (Pitanguy) — cruza arco zigomático na fáscia temporoparietal.",
+      "x": 0.49,
+      "y": 0.32
+    },
+    {
+      "num": 2,
+      "text": "Ramo zigomático — inerva orbicular do olho; próximo aos ligamentos de retenção.",
+      "x": 0.56,
+      "y": 0.38
+    },
+    {
+      "num": 3,
+      "text": "Ramo bucal — geralmente redundante; menor impacto clínico.",
+      "x": 0.525,
+      "y": 0.45
+    },
+    {
+      "num": 4,
+      "text": "Ramo marginal mandibular — 1-2 cm abaixo da borda; lesão gera assimetria do sorriso.",
+      "x": 0.62,
+      "y": 0.58
+    },
+    {
+      "num": 5,
+      "text": "Ramo cervical — inerva platisma; lesão simula paralisia marginal.",
+      "x": 0.55,
+      "y": 0.72
+    }
   ],
-  "applicable_topics": ["ritidoplastia"],
+  "applicable_topics": [
+    "ritidoplastia"
+  ],
   "status": "available"
 }

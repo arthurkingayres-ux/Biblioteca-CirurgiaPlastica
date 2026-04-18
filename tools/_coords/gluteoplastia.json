@@ -1,0 +1,18 @@
+[
+  { "image_id": "img-gluteal-muscles-layers-001", "label_num": 1, "x": 0.600, "y": 0.240 },
+  { "image_id": "img-gluteal-muscles-layers-001", "label_num": 2, "x": 0.600, "y": 0.420 },
+  { "image_id": "img-gluteal-muscles-layers-001", "label_num": 3, "x": 0.600, "y": 0.600 },
+  { "image_id": "img-gluteal-neurovascular-001", "label_num": 1, "x": 0.350, "y": 0.140 },
+  { "image_id": "img-gluteal-neurovascular-001", "label_num": 2, "x": 0.350, "y": 0.280 },
+  { "image_id": "img-gluteal-neurovascular-001", "label_num": 3, "x": 0.450, "y": 0.160 },
+  { "image_id": "img-gluteal-neurovascular-001", "label_num": 4, "x": 0.450, "y": 0.320 },
+  { "image_id": "img-gluteal-neurovascular-001", "label_num": 5, "x": 0.500, "y": 0.420 },
+  { "image_id": "img-gluteus-maximus-001", "label_num": 1, "x": 0.550, "y": 0.350 },
+  { "image_id": "img-gluteus-maximus-001", "label_num": 2, "x": 0.750, "y": 0.450 },
+  { "image_id": "img-gluteus-maximus-001", "label_num": 3, "x": 0.750, "y": 0.650 },
+  { "image_id": "img-gluteus-maximus-001", "label_num": 4, "x": 0.550, "y": 0.750 },
+  { "image_id": "img-sacral-triangle-001", "label_num": 1, "x": 0.300, "y": 0.250 },
+  { "image_id": "img-sacral-triangle-001", "label_num": 2, "x": 0.700, "y": 0.250 },
+  { "image_id": "img-sacral-triangle-001", "label_num": 3, "x": 0.500, "y": 0.700 },
+  { "image_id": "img-sacral-triangle-001", "label_num": 4, "x": 0.500, "y": 0.500 }
+]

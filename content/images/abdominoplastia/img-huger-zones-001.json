@@ -7,10 +7,28 @@
   "credit": "Adaptado de Neligan 2023, vol. 2, cap. 27 - Matarasso",
   "default_caption": "Três zonas de perfusão da parede abdominal anterior (Huger, 1979); após abdominoplastia, a Zona III sustenta o retalho.",
   "labels": [
-    { "num": 1, "text": "Zona I (central) - DIEA (epigástrica inferior profunda) + SIEA (superficial); perfusão dominante no abdome não operado, ligada na dissecção." },
-    { "num": 2, "text": "Zona II (inguinal) - SCIA (circunflexa ilíaca superficial) + SIEA; território inferior, também comprometido." },
-    { "num": 3, "text": "Zona III (lateral) - intercostais, subcostais e lombares (perfurantes segmentares); passa a dominante após abdominoplastia." }
+    {
+      "num": 1,
+      "text": "Zona I (central) - DIEA (epigástrica inferior profunda) + SIEA (superficial); perfusão dominante no abdome não operado, ligada na dissecção.",
+      "x": 0.5,
+      "y": 0.35
+    },
+    {
+      "num": 2,
+      "text": "Zona II (inguinal) - SCIA (circunflexa ilíaca superficial) + SIEA; território inferior, também comprometido.",
+      "x": 0.5,
+      "y": 0.62
+    },
+    {
+      "num": 3,
+      "text": "Zona III (lateral) - intercostais, subcostais e lombares (perfurantes segmentares); passa a dominante após abdominoplastia.",
+      "x": 0.78,
+      "y": 0.45
+    }
   ],
-  "applicable_topics": ["abdominoplastia", "dermolipectomia"],
+  "applicable_topics": [
+    "abdominoplastia",
+    "dermolipectomia"
+  ],
   "status": "available"
 }

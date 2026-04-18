@@ -7,11 +7,33 @@
   "credit": "Adaptado de Neligan 2023, vol. 2, cap. 28",
   "default_caption": "Glúteo máximo — maior e mais superficial; origem na fáscia glútea, crista ilíaca posterior, sacro e cóccix; inserção no trato iliotibial e linha glútea do fêmur.",
   "labels": [
-    { "num": 1, "text": "Origem — fáscia glútea, crista ilíaca posterior, sacro e cóccix." },
-    { "num": 2, "text": "Inserção superior — trato iliotibial (75% das fibras)." },
-    { "num": 3, "text": "Inserção inferior — linha glútea do fêmur (25% das fibras)." },
-    { "num": 4, "text": "Inervação — nervo glúteo inferior (L5-S2); via forame infrapiriforme." }
+    {
+      "num": 1,
+      "text": "Origem — fáscia glútea, crista ilíaca posterior, sacro e cóccix.",
+      "x": 0.55,
+      "y": 0.35
+    },
+    {
+      "num": 2,
+      "text": "Inserção superior — trato iliotibial (75% das fibras).",
+      "x": 0.75,
+      "y": 0.45
+    },
+    {
+      "num": 3,
+      "text": "Inserção inferior — linha glútea do fêmur (25% das fibras).",
+      "x": 0.75,
+      "y": 0.65
+    },
+    {
+      "num": 4,
+      "text": "Inervação — nervo glúteo inferior (L5-S2); via forame infrapiriforme.",
+      "x": 0.55,
+      "y": 0.75
+    }
   ],
-  "applicable_topics": ["gluteoplastia"],
+  "applicable_topics": [
+    "gluteoplastia"
+  ],
   "status": "available"
 }

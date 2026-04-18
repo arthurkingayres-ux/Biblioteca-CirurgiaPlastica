@@ -7,10 +7,27 @@
   "credit": "Adaptado de Neligan 2023, vol. 2, cap. 31",
   "default_caption": "Zonas de aderência do tronco e vetores de descenso inferomedial — determinam direção do puxamento e posicionamento das incisões do body lift.",
   "labels": [
-    { "num": 1, "text": "Zonas de aderência do tronco — áreas onde a fáscia subcutânea adere à fáscia muscular." },
-    { "num": 2, "text": "Vetores de descenso inferomedial — direção do deslocamento dos tecidos com envelhecimento e perda ponderal maciça." },
-    { "num": 3, "text": "Posicionamento da incisão do belt lipectomy — perpendicular aos vetores de tração." }
+    {
+      "num": 1,
+      "text": "Zonas de aderência do tronco — áreas onde a fáscia subcutânea adere à fáscia muscular.",
+      "x": 0.5,
+      "y": 0.38
+    },
+    {
+      "num": 2,
+      "text": "Vetores de descenso inferomedial — direção do deslocamento dos tecidos com envelhecimento e perda ponderal maciça.",
+      "x": 0.7,
+      "y": 0.58
+    },
+    {
+      "num": 3,
+      "text": "Posicionamento da incisão do belt lipectomy — perpendicular aos vetores de tração.",
+      "x": 0.5,
+      "y": 0.72
+    }
   ],
-  "applicable_topics": ["contorno-pos-bariatrico"],
+  "applicable_topics": [
+    "contorno-pos-bariatrico"
+  ],
   "status": "available"
 }

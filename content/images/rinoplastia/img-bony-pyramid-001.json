@@ -7,13 +7,45 @@
   "credit": "Adaptado de Neligan 2023, vol. 2, cap. 19",
   "default_caption": "Osteotomias laterais percutâneas descontínuas sobre a pirâmide óssea: (A) low-to-high, (B) low-to-low e (C) duplo nível — destacam ossos nasais e processos frontais da maxila.",
   "labels": [
-    {"num": 1, "text": "Ossos nasais — estrutura rígida do terço superior; mais espessos na raiz, mais finos lateralmente."},
-    {"num": 2, "text": "Processo frontal da maxila — flanco lateral da pirâmide óssea; zona de espessura diminuída que permite fraturas previsíveis."},
-    {"num": 3, "text": "Trajetória low-to-high (A) — osteotomia ascendente que preserva triângulo ósseo lateral."},
-    {"num": 4, "text": "Trajetória low-to-low (B) — osteotomia que mobiliza toda a parede lateral."},
-    {"num": 5, "text": "Trajetória duplo nível (C) — combinação para controle máximo da largura óssea."},
-    {"num": 6, "text": "Osteótomo percutâneo — instrumentação de 2 mm inserida por punctura; minimiza edema e equimose."}
+    {
+      "num": 1,
+      "text": "Ossos nasais — estrutura rígida do terço superior; mais espessos na raiz, mais finos lateralmente.",
+      "x": 0.35,
+      "y": 0.3
+    },
+    {
+      "num": 2,
+      "text": "Processo frontal da maxila — flanco lateral da pirâmide óssea; zona de espessura diminuída que permite fraturas previsíveis.",
+      "x": 0.42,
+      "y": 0.4
+    },
+    {
+      "num": 3,
+      "text": "Trajetória low-to-high (A) — osteotomia ascendente que preserva triângulo ósseo lateral.",
+      "x": 0.28,
+      "y": 0.45
+    },
+    {
+      "num": 4,
+      "text": "Trajetória low-to-low (B) — osteotomia que mobiliza toda a parede lateral.",
+      "x": 0.5,
+      "y": 0.48
+    },
+    {
+      "num": 5,
+      "text": "Trajetória duplo nível (C) — combinação para controle máximo da largura óssea.",
+      "x": 0.72,
+      "y": 0.5
+    },
+    {
+      "num": 6,
+      "text": "Osteótomo percutâneo — instrumentação de 2 mm inserida por punctura; minimiza edema e equimose.",
+      "x": 0.38,
+      "y": 0.35
+    }
   ],
-  "applicable_topics": ["rinoplastia"],
+  "applicable_topics": [
+    "rinoplastia"
+  ],
   "status": "available"
 }

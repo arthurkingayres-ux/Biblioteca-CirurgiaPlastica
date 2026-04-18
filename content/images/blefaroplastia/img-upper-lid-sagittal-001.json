@@ -7,13 +7,45 @@
   "credit": "Adaptado de Neligan 2023, vol. 2, cap. 13",
   "default_caption": "Corte sagital da pálpebra superior: LPS e sua aponeurose, músculo de Müller, tarso, septo orbitário e coxins adiposos.",
   "labels": [
-    { "num": 1, "text": "LPS (levantador da pálpebra superior) — ventre muscular e aponeurose." },
-    { "num": 2, "text": "Aponeurose do LPS — insere-se na face anterior do tarso e na derme (prega)." },
-    { "num": 3, "text": "Músculo de Müller — tarsal superior; simpático; 1-2 mm de elevação." },
-    { "num": 4, "text": "Septo orbitário — funde-se com a aponeurose 2-5 mm acima do tarso." },
-    { "num": 5, "text": "Tarso superior — 10-12 mm de altura; dá estrutura à pálpebra." },
-    { "num": 6, "text": "Coxim adiposo pré-aponeurótico — superficial à aponeurose do LPS." }
+    {
+      "num": 1,
+      "text": "LPS (levantador da pálpebra superior) — ventre muscular e aponeurose.",
+      "x": 0.3,
+      "y": 0.25
+    },
+    {
+      "num": 2,
+      "text": "Aponeurose do LPS — insere-se na face anterior do tarso e na derme (prega).",
+      "x": 0.65,
+      "y": 0.3
+    },
+    {
+      "num": 3,
+      "text": "Músculo de Müller — tarsal superior; simpático; 1-2 mm de elevação.",
+      "x": 0.7,
+      "y": 0.5
+    },
+    {
+      "num": 4,
+      "text": "Septo orbitário — funde-se com a aponeurose 2-5 mm acima do tarso.",
+      "x": 0.65,
+      "y": 0.45
+    },
+    {
+      "num": 5,
+      "text": "Tarso superior — 10-12 mm de altura; dá estrutura à pálpebra.",
+      "x": 0.5,
+      "y": 0.7
+    },
+    {
+      "num": 6,
+      "text": "Coxim adiposo pré-aponeurótico — superficial à aponeurose do LPS.",
+      "x": 0.45,
+      "y": 0.35
+    }
   ],
-  "applicable_topics": ["blefaroplastia"],
+  "applicable_topics": [
+    "blefaroplastia"
+  ],
   "status": "available"
 }

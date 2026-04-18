@@ -7,12 +7,41 @@
   "credit": "Adaptado de Neligan 2023, vol. 2, cap. 24",
   "default_caption": "Vista posterior: cinco zonas onde a fáscia subcutânea adere à fáscia muscular. Aspiração agressiva gera ptose iatrogênica (ex.: banana roll).",
   "labels": [
-    { "num": 1, "text": "Depressão glútea lateral (região trocantérica) — âncora da projeção glútea lateral." },
-    { "num": 2, "text": "Sulco glúteo — separa glúteo da coxa; destruí-lo cria o banana roll infraglúteo." },
-    { "num": 3, "text": "Terço distal posterior da coxa — aderência suprapoplítea." },
-    { "num": 4, "text": "Face medial da coxa — aderência inguino-crural." },
-    { "num": 5, "text": "Trato iliotibial inferolateral — aderência à banda iliotibial." }
+    {
+      "num": 1,
+      "text": "Depressão glútea lateral (região trocantérica) — âncora da projeção glútea lateral.",
+      "x": 0.175,
+      "y": 0.36
+    },
+    {
+      "num": 2,
+      "text": "Sulco glúteo — separa glúteo da coxa; destruí-lo cria o banana roll infraglúteo.",
+      "x": 0.5,
+      "y": 0.45
+    },
+    {
+      "num": 3,
+      "text": "Terço distal posterior da coxa — aderência suprapoplítea.",
+      "x": 0.35,
+      "y": 0.75
+    },
+    {
+      "num": 4,
+      "text": "Face medial da coxa — aderência inguino-crural.",
+      "x": 0.35,
+      "y": 0.57
+    },
+    {
+      "num": 5,
+      "text": "Trato iliotibial inferolateral — aderência à banda iliotibial.",
+      "x": 0.175,
+      "y": 0.47
+    }
   ],
-  "applicable_topics": ["lipoaspiracao", "gluteoplastia", "contorno-pos-bariatrico"],
+  "applicable_topics": [
+    "lipoaspiracao",
+    "gluteoplastia",
+    "contorno-pos-bariatrico"
+  ],
   "status": "available"
 }

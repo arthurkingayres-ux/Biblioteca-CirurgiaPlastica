@@ -7,13 +7,45 @@
   "credit": "Adaptado de Neligan 2023, vol. 3, cap. 28",
   "default_caption": "Dimensões adultas: altura ~6 cm, largura ~3,5 cm; ângulo cefaloauricular normal 25-35 graus.",
   "labels": [
-    { "num": 1, "text": "Hélice — borda superior enrolada do pavilhão." },
-    { "num": 2, "text": "Anti-hélice — crista paralela interna; hipoplasia gera orelha em abano." },
-    { "num": 3, "text": "Tragus — protuberância anterior ao meato acústico externo." },
-    { "num": 4, "text": "Concha — depressão central (cymba + cavum); profundidade ideal ~15 mm." },
-    { "num": 5, "text": "Lóbulo — porção inferior sem cartilagem; avaliar protrusão isolada." },
-    { "num": 6, "text": "Crus helicis — divide concha em cymba (superior) e cavum (inferior)." }
+    {
+      "num": 1,
+      "text": "Hélice — borda superior enrolada do pavilhão.",
+      "x": 0.65,
+      "y": 0.18
+    },
+    {
+      "num": 2,
+      "text": "Anti-hélice — crista paralela interna; hipoplasia gera orelha em abano.",
+      "x": 0.58,
+      "y": 0.32
+    },
+    {
+      "num": 3,
+      "text": "Tragus — protuberância anterior ao meato acústico externo.",
+      "x": 0.72,
+      "y": 0.65
+    },
+    {
+      "num": 4,
+      "text": "Concha — depressão central (cymba + cavum); profundidade ideal ~15 mm.",
+      "x": 0.58,
+      "y": 0.52
+    },
+    {
+      "num": 5,
+      "text": "Lóbulo — porção inferior sem cartilagem; avaliar protrusão isolada.",
+      "x": 0.72,
+      "y": 0.82
+    },
+    {
+      "num": 6,
+      "text": "Crus helicis — divide concha em cymba (superior) e cavum (inferior).",
+      "x": 0.62,
+      "y": 0.48
+    }
   ],
-  "applicable_topics": ["otoplastia"],
+  "applicable_topics": [
+    "otoplastia"
+  ],
   "status": "available"
 }

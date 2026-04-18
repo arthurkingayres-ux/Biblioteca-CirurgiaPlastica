@@ -7,13 +7,45 @@
   "credit": "Adaptado de Neligan 2023, vol. 2, cap. 13",
   "default_caption": "Vascularização periórbital em vista frontal mostrando arcos pálpebrais, artérias oftálmica e facial, e anastomose angular.",
   "labels": [
-    { "num": 1, "text": "Superficial temporal artery — ramo superior da carótida externa; vasculariza lateralmente." },
-    { "num": 2, "text": "Supratrochlear artery — ramo oftálmico; irrigação superior medial." },
-    { "num": 3, "text": "Lacrimal artery — ramo oftálmico; vasculariza lateralmente sobrancelha." },
-    { "num": 4, "text": "Angular artery — terminal da facial; anastomose carotídea crucial." },
-    { "num": 5, "text": "Medial and inferior palpebral arteries — formam arcos marginal e periférico; distribuição pálpebras superior e inferior." },
-    { "num": 6, "text": "Infrarorbital artery — ramo maxilar; vasculariza rebordo inferior." }
+    {
+      "num": 1,
+      "text": "Superficial temporal artery — ramo superior da carótida externa; vasculariza lateralmente.",
+      "x": 0.2,
+      "y": 0.25
+    },
+    {
+      "num": 2,
+      "text": "Supratrochlear artery — ramo oftálmico; irrigação superior medial.",
+      "x": 0.4,
+      "y": 0.2
+    },
+    {
+      "num": 3,
+      "text": "Lacrimal artery — ramo oftálmico; vasculariza lateralmente sobrancelha.",
+      "x": 0.25,
+      "y": 0.35
+    },
+    {
+      "num": 4,
+      "text": "Angular artery — terminal da facial; anastomose carotídea crucial.",
+      "x": 0.7,
+      "y": 0.4
+    },
+    {
+      "num": 5,
+      "text": "Medial and inferior palpebral arteries — formam arcos marginal e periférico; distribuição pálpebras superior e inferior.",
+      "x": 0.5,
+      "y": 0.5
+    },
+    {
+      "num": 6,
+      "text": "Infrarorbital artery — ramo maxilar; vasculariza rebordo inferior.",
+      "x": 0.55,
+      "y": 0.65
+    }
   ],
-  "applicable_topics": ["blefaroplastia"],
+  "applicable_topics": [
+    "blefaroplastia"
+  ],
   "status": "available"
 }

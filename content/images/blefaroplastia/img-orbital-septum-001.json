@@ -7,13 +7,45 @@
   "credit": "Adaptado de Neligan 2023, vol. 2, cap. 13",
   "default_caption": "Seção transversal mostrando o septo órbital como barreira entre pré-septal e intraorbitário, sua fusão com a aponeurose do levantador e relação com Müller e tarso.",
   "labels": [
-    { "num": 1, "text": "Orbicularis oculi — músculo ao redor, pré-septal e pré-tarsal." },
-    { "num": 2, "text": "Septo órbital — membrana fibrosa que define a barreira pré-septal versus intraorbitária." },
-    { "num": 3, "text": "Müller's muscle — inervação simpática; profundo à aponeurose." },
-    { "num": 4, "text": "Levator aponeurosis — transição de músculo para aponeurose; fusão septo-aponeurose." },
-    { "num": 5, "text": "Septal extension — extensão anterior do septo ao redor do globo." },
-    { "num": 6, "text": "Tarso — estrutura fibrosa densa; define margem inferior da pálpebra." }
+    {
+      "num": 1,
+      "text": "Orbicularis oculi — músculo ao redor, pré-septal e pré-tarsal.",
+      "x": 0.25,
+      "y": 0.35
+    },
+    {
+      "num": 2,
+      "text": "Septo órbital — membrana fibrosa que define a barreira pré-septal versus intraorbitária.",
+      "x": 0.65,
+      "y": 0.4
+    },
+    {
+      "num": 3,
+      "text": "Müller's muscle — inervação simpática; profundo à aponeurose.",
+      "x": 0.7,
+      "y": 0.55
+    },
+    {
+      "num": 4,
+      "text": "Levator aponeurosis — transição de músculo para aponeurose; fusão septo-aponeurose.",
+      "x": 0.65,
+      "y": 0.65
+    },
+    {
+      "num": 5,
+      "text": "Septal extension — extensão anterior do septo ao redor do globo.",
+      "x": 0.6,
+      "y": 0.3
+    },
+    {
+      "num": 6,
+      "text": "Tarso — estrutura fibrosa densa; define margem inferior da pálpebra.",
+      "x": 0.5,
+      "y": 0.75
+    }
   ],
-  "applicable_topics": ["blefaroplastia"],
+  "applicable_topics": [
+    "blefaroplastia"
+  ],
   "status": "available"
 }

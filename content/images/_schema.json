@@ -23,7 +23,9 @@
         "additionalProperties": false,
         "properties": {
           "num": { "type": "integer", "minimum": 1, "maximum": 99 },
-          "text": { "type": "string", "minLength": 2, "maxLength": 200 }
+          "text": { "type": "string", "minLength": 2, "maxLength": 200 },
+          "x": { "type": "number", "minimum": 0, "maximum": 1 },
+          "y": { "type": "number", "minimum": 0, "maximum": 1 }
         }
       }
     },

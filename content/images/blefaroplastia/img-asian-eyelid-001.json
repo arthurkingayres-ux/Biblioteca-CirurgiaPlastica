@@ -7,12 +7,39 @@
   "credit": "Adaptado de Neligan 2023, vol. 2, cap. 13",
   "default_caption": "Comparação de quatro padrões anatômicos de pálpebra superior: inserção aponeurose em relação ao tarso, distribuição gordura pré-aponeurótica e presença/ausência de prega.",
   "labels": [
-    { "num": 1, "text": "Occidental — aponeurose insere 3-4 mm acima tarso; prega clara; ausência gordura anterior." },
-    { "num": 2, "text": "Deep set — inserção aponeurose normal (3-4 mm); orbicular e gordura anteriorizadas criando aparência deprimida; supra-orbital hollowing." },
-    { "num": 3, "text": "Baggy eyelid — inserção aponeurose normal mas com herniação gordura pré-aponeurótica anteriorizada; prega presente." },
-    { "num": 4, "text": "Asian eyelid — inserção aponeurose inferior (~1-2 mm acima tarso) ou fusion com septo próximo à margem tarsal; ausência prega; fullness pré-tarsal." },
-    { "num": 5, "text": "Epicanto (medial) — prega semilunar que cobre canto medial em pálpebras asiáticas; grau variável." }
+    {
+      "num": 1,
+      "text": "Occidental — aponeurose insere 3-4 mm acima tarso; prega clara; ausência gordura anterior.",
+      "x": 0.25,
+      "y": 0.35
+    },
+    {
+      "num": 2,
+      "text": "Deep set — inserção aponeurose normal (3-4 mm); orbicular e gordura anteriorizadas criando aparência deprimida; supra-orbital hollowing.",
+      "x": 0.25,
+      "y": 0.55
+    },
+    {
+      "num": 3,
+      "text": "Baggy eyelid — inserção aponeurose normal mas com herniação gordura pré-aponeurótica anteriorizada; prega presente.",
+      "x": 0.25,
+      "y": 0.75
+    },
+    {
+      "num": 4,
+      "text": "Asian eyelid — inserção aponeurose inferior (~1-2 mm acima tarso) ou fusion com septo próximo à margem tarsal; ausência prega; fullness pré-tarsal.",
+      "x": 0.25,
+      "y": 0.95
+    },
+    {
+      "num": 5,
+      "text": "Epicanto (medial) — prega semilunar que cobre canto medial em pálpebras asiáticas; grau variável.",
+      "x": 0.65,
+      "y": 0.5
+    }
   ],
-  "applicable_topics": ["blefaroplastia"],
+  "applicable_topics": [
+    "blefaroplastia"
+  ],
   "status": "available"
 }

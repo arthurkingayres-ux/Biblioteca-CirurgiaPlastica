@@ -7,14 +7,51 @@
   "credit": "Adaptado de Neligan 2023, vol. 2, cap. 27 - Matarasso",
   "default_caption": "Unidades estéticas do abdome feminino relevantes ao planejamento conjunto de abdominoplastia e lipoaspiração.",
   "labels": [
-    { "num": 1, "text": "Abdome superior central (epigástrio)." },
-    { "num": 2, "text": "Abdome superior lateral - bilateral." },
-    { "num": 3, "text": "Abdome inferior (infraumbilical, área de ressecção)." },
-    { "num": 4, "text": "Flancos - bilateral." },
-    { "num": 5, "text": "Monte pubiano." },
-    { "num": 6, "text": "Zona (a) - transição axilar para flanco." },
-    { "num": 7, "text": "Zona (b) - transição flanco para coxa proximal." }
+    {
+      "num": 1,
+      "text": "Abdome superior central (epigástrio).",
+      "x": 0.5,
+      "y": 0.08
+    },
+    {
+      "num": 2,
+      "text": "Abdome superior lateral - bilateral.",
+      "x": 0.27,
+      "y": 0.18
+    },
+    {
+      "num": 3,
+      "text": "Abdome inferior (infraumbilical, área de ressecção).",
+      "x": 0.5,
+      "y": 0.45
+    },
+    {
+      "num": 4,
+      "text": "Flancos - bilateral.",
+      "x": 0.15,
+      "y": 0.35
+    },
+    {
+      "num": 5,
+      "text": "Monte pubiano.",
+      "x": 0.5,
+      "y": 0.75
+    },
+    {
+      "num": 6,
+      "text": "Zona (a) - transição axilar para flanco.",
+      "x": 0.08,
+      "y": 0.18
+    },
+    {
+      "num": 7,
+      "text": "Zona (b) - transição flanco para coxa proximal.",
+      "x": 0.08,
+      "y": 0.6
+    }
   ],
-  "applicable_topics": ["abdominoplastia"],
+  "applicable_topics": [
+    "abdominoplastia"
+  ],
   "status": "available"
 }

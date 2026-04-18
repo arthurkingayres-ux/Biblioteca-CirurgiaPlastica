@@ -7,12 +7,39 @@
   "credit": "Adaptado de Neligan 2023, vol. 2, cap. 18",
   "default_caption": "Principal estrutura de suporte do nariz e fonte preferencial de enxerto cartilaginoso.",
   "labels": [
-    { "num": 1, "text": "Cartilagem quadrangular — porção anterior; doadora de enxerto septal." },
-    { "num": 2, "text": "Lâmina perpendicular do etmoide — componente ósseo superior." },
-    { "num": 3, "text": "Vômer — componente ósseo posteroinferior." },
-    { "num": 4, "text": "Crista maxilar — articulação inferior (tongue-and-groove com o septo)." },
-    { "num": 5, "text": "L-strut — faixa dorsal + caudal de >=10 mm que deve ser preservada." }
+    {
+      "num": 1,
+      "text": "Cartilagem quadrangular — porção anterior; doadora de enxerto septal.",
+      "x": 0.52,
+      "y": 0.38
+    },
+    {
+      "num": 2,
+      "text": "Lâmina perpendicular do etmoide — componente ósseo superior.",
+      "x": 0.5,
+      "y": 0.28
+    },
+    {
+      "num": 3,
+      "text": "Vômer — componente ósseo posteroinferior.",
+      "x": 0.48,
+      "y": 0.58
+    },
+    {
+      "num": 4,
+      "text": "Crista maxilar — articulação inferior (tongue-and-groove com o septo).",
+      "x": 0.5,
+      "y": 0.68
+    },
+    {
+      "num": 5,
+      "text": "L-strut — faixa dorsal + caudal de >=10 mm que deve ser preservada.",
+      "x": 0.45,
+      "y": 0.45
+    }
   ],
-  "applicable_topics": ["rinoplastia"],
+  "applicable_topics": [
+    "rinoplastia"
+  ],
   "status": "available"
 }

@@ -7,12 +7,39 @@
   "credit": "Adaptado de Neligan 2023, vol. 2, cap. 27 - Matarasso",
   "default_caption": "Histologia (a, c) e dissecção macroscópica (b) da parede abdominal: a fáscia de Scarpa (SF) é a camada membranosa entre as duas gorduras subcutâneas.",
   "labels": [
-    { "num": 1, "text": "E - epiderme." },
-    { "num": 2, "text": "D - derme." },
-    { "num": 3, "text": "SAT (superficial adipose tissue) - gordura subcutânea superficial." },
-    { "num": 4, "text": "SF (superficial fascia) - fáscia membranosa superficial, a fáscia de Scarpa." },
-    { "num": 5, "text": "DAT (deep adipose tissue) - gordura subcutânea profunda (subscarpal)." }
+    {
+      "num": 1,
+      "text": "E - epiderme.",
+      "x": 0.15,
+      "y": 0.08
+    },
+    {
+      "num": 2,
+      "text": "D - derme.",
+      "x": 0.22,
+      "y": 0.12
+    },
+    {
+      "num": 3,
+      "text": "SAT (superficial adipose tissue) - gordura subcutânea superficial.",
+      "x": 0.18,
+      "y": 0.25
+    },
+    {
+      "num": 4,
+      "text": "SF (superficial fascia) - fáscia membranosa superficial, a fáscia de Scarpa.",
+      "x": 0.15,
+      "y": 0.42
+    },
+    {
+      "num": 5,
+      "text": "DAT (deep adipose tissue) - gordura subcutânea profunda (subscarpal).",
+      "x": 0.15,
+      "y": 0.62
+    }
   ],
-  "applicable_topics": ["abdominoplastia"],
+  "applicable_topics": [
+    "abdominoplastia"
+  ],
   "status": "available"
 }

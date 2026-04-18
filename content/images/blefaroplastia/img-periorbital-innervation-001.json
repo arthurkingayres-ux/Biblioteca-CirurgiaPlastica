@@ -7,13 +7,45 @@
   "credit": "Adaptado de Neligan 2023, vol. 2, cap. 13",
   "default_caption": "Distribuição de nervos sensitivos periórbital em vista frontal: V1 (supraórbital, supratroclear, lacrimal) superior; V2 (infraórbital) inferior; nervos motores (facial) não mostrados.",
   "labels": [
-    { "num": 1, "text": "Lacrimal nerve — ramo V1; inervação lateral superior e sobrancelha." },
-    { "num": 2, "text": "Supraorbital nerve — ramo V1; sai forame supraórbital; inervação superior medial." },
-    { "num": 3, "text": "Supratrochlear nerve — ramo V1; inervação medial sobrancelha e pálpebra superior." },
-    { "num": 4, "text": "Infratrochlear nerve — ramo V1; inervação medial pálpebra inferior e dorso nasal." },
-    { "num": 5, "text": "Zygomaticofacial nerve — ramo V2; inervação lateral sobrancelha e zigoma." },
-    { "num": 6, "text": "Infraorbital nerve — ramo V2; sai forame infraórbital; inervação pálpebra inferior e bochecha." }
+    {
+      "num": 1,
+      "text": "Lacrimal nerve — ramo V1; inervação lateral superior e sobrancelha.",
+      "x": 0.25,
+      "y": 0.35
+    },
+    {
+      "num": 2,
+      "text": "Supraorbital nerve — ramo V1; sai forame supraórbital; inervação superior medial.",
+      "x": 0.45,
+      "y": 0.25
+    },
+    {
+      "num": 3,
+      "text": "Supratrochlear nerve — ramo V1; inervação medial sobrancelha e pálpebra superior.",
+      "x": 0.55,
+      "y": 0.2
+    },
+    {
+      "num": 4,
+      "text": "Infratrochlear nerve — ramo V1; inervação medial pálpebra inferior e dorso nasal.",
+      "x": 0.7,
+      "y": 0.4
+    },
+    {
+      "num": 5,
+      "text": "Zygomaticofacial nerve — ramo V2; inervação lateral sobrancelha e zigoma.",
+      "x": 0.25,
+      "y": 0.55
+    },
+    {
+      "num": 6,
+      "text": "Infraorbital nerve — ramo V2; sai forame infraórbital; inervação pálpebra inferior e bochecha.",
+      "x": 0.7,
+      "y": 0.65
+    }
   ],
-  "applicable_topics": ["blefaroplastia"],
+  "applicable_topics": [
+    "blefaroplastia"
+  ],
   "status": "available"
 }

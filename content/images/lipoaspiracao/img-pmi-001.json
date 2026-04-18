@@ -7,10 +7,25 @@
   "credit": "Adaptado de Hoyos & Millard, HDBS, 2014, cap. 2",
   "default_caption": "PMI — ponto mais côncavo da silhueta lateral. Feminino: cintura. Masculino: linha paralumbar. Âncora das demais marcações.",
   "labels": [
-    { "num": 1, "text": "PMI feminino — ponto mais côncavo da cintura lateral." },
-    { "num": 2, "text": "PMI masculino — linha paralumbar, mais baixa e vertical." },
-    { "num": 3, "text": "A partir do PMI desenham-se as linhas paralumbares e o grid das marcações." }
+    {
+      "num": 1,
+      "text": "PMI feminino — ponto mais côncavo da cintura lateral.",
+      "x": 0.275,
+      "y": 0.34
+    },
+    {
+      "num": 2,
+      "text": "PMI masculino — linha paralumbar, mais baixa e vertical.",
+      "x": 0.75,
+      "y": 0.18
+    },
+    {
+      "num": 3,
+      "text": "A partir do PMI desenham-se as linhas paralumbares e o grid das marcações."
+    }
   ],
-  "applicable_topics": ["lipoaspiracao"],
+  "applicable_topics": [
+    "lipoaspiracao"
+  ],
   "status": "available"
 }

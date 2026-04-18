@@ -7,12 +7,39 @@
   "credit": "Adaptado de Neligan 2023, vol. 3, Fig. 4.4",
   "default_caption": "Cartilagem elástica em peça única moldada em hélice, anti-hélice, concha, trago e anti-trago; o lóbulo é fibroadiposo, sem suporte cartilaginoso.",
   "labels": [
-    { "num": 1, "text": "Hélice — borda externa enrolada do pavilhão, definida pela cartilagem." },
-    { "num": 2, "text": "Anti-hélice com crura superior e inferior — dobra principal; hipoplasia causa orelha em abano." },
-    { "num": 3, "text": "Concha (cymba e cavum) — depressão central profunda; profundidade >20 mm indica excesso conchal." },
-    { "num": 4, "text": "Trago e anti-trago — proeminências cartilaginosas anteriores delimitando a entrada do meato acústico." },
-    { "num": 5, "text": "Lóbulo — tecido fibroadiposo sem cartilagem; protrusão é tratada separadamente das técnicas cartilaginosas." }
+    {
+      "num": 1,
+      "text": "Hélice — borda externa enrolada do pavilhão, definida pela cartilagem.",
+      "x": 0.82,
+      "y": 0.25
+    },
+    {
+      "num": 2,
+      "text": "Anti-hélice com crura superior e inferior — dobra principal; hipoplasia causa orelha em abano.",
+      "x": 0.65,
+      "y": 0.35
+    },
+    {
+      "num": 3,
+      "text": "Concha (cymba e cavum) — depressão central profunda; profundidade >20 mm indica excesso conchal.",
+      "x": 0.55,
+      "y": 0.5
+    },
+    {
+      "num": 4,
+      "text": "Trago e anti-trago — proeminências cartilaginosas anteriores delimitando a entrada do meato acústico.",
+      "x": 0.35,
+      "y": 0.65
+    },
+    {
+      "num": 5,
+      "text": "Lóbulo — tecido fibroadiposo sem cartilagem; protrusão é tratada separadamente das técnicas cartilaginosas.",
+      "x": 0.35,
+      "y": 0.88
+    }
   ],
-  "applicable_topics": ["otoplastia"],
+  "applicable_topics": [
+    "otoplastia"
+  ],
   "status": "available"
 }

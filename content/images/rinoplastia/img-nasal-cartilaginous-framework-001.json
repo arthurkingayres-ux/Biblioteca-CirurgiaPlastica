@@ -7,12 +7,39 @@
   "credit": "Adaptado de Neligan 2023, vol. 2, cap. 18",
   "default_caption": "Arcabouço cartilaginoso nasal em visão frontal (esquerda) e lateral (direita): cartilagens interligadas por tecido fibroso e ligamentos — ligamento inter-alar (Pitanguy), fibras elásticas e abutment piriforme — base do suporte estático da ponta.",
   "labels": [
-    {"num": 1, "text": "Ligamento inter-alar (Pitanguy) — faixa fibrosa entre os domos alares; estabiliza os tip-defining points."},
-    {"num": 2, "text": "Cartilagem lateral inferior (CLA) — crura lateral; conecta-se à cartilagem lateral superior (CLS) na scroll area via fibras elásticas."},
-    {"num": 3, "text": "Fibras elásticas — conexão entre CLA e CLS na transição terço médio-inferior; permitem movimento relativo sem perda de suporte."},
-    {"num": 4, "text": "Abutment piriforme — inserção lateral da CLA no periósteo do osso maxilar; ponto de ancoragem da valva externa."},
-    {"num": 5, "text": "Área do keystone — zona de sobreposição entre osso nasal e CLS (4–5 mm); ponto mais largo do dorso nasal (visível em corte)."}
+    {
+      "num": 1,
+      "text": "Ligamento inter-alar (Pitanguy) — faixa fibrosa entre os domos alares; estabiliza os tip-defining points.",
+      "x": 0.35,
+      "y": 0.42
+    },
+    {
+      "num": 2,
+      "text": "Cartilagem lateral inferior (CLA) — crura lateral; conecta-se à cartilagem lateral superior (CLS) na scroll area via fibras elásticas.",
+      "x": 0.52,
+      "y": 0.45
+    },
+    {
+      "num": 3,
+      "text": "Fibras elásticas — conexão entre CLA e CLS na transição terço médio-inferior; permitem movimento relativo sem perda de suporte.",
+      "x": 0.65,
+      "y": 0.5
+    },
+    {
+      "num": 4,
+      "text": "Abutment piriforme — inserção lateral da CLA no periósteo do osso maxilar; ponto de ancoragem da valva externa.",
+      "x": 0.72,
+      "y": 0.58
+    },
+    {
+      "num": 5,
+      "text": "Área do keystone — zona de sobreposição entre osso nasal e CLS (4–5 mm); ponto mais largo do dorso nasal (visível em corte).",
+      "x": 0.45,
+      "y": 0.38
+    }
   ],
-  "applicable_topics": ["rinoplastia"],
+  "applicable_topics": [
+    "rinoplastia"
+  ],
   "status": "available"
 }

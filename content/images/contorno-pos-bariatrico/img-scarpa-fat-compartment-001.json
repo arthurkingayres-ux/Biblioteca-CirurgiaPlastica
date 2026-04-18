@@ -7,12 +7,40 @@
   "credit": "Adaptado de Neligan 2023, vol. 2, cap. 32",
   "default_caption": "Fáscia de Scarpa separa a gordura superficial lobular da profunda; plano supraneural das perfurantes epigástricas preserva vasculatura e drenagem linfática.",
   "labels": [
-    { "num": 1, "text": "Gordura superficial — lobular, septos verticais densos." },
-    { "num": 2, "text": "Fáscia de Scarpa — membranosa; preservar reduz seroma e ptose." },
-    { "num": 3, "text": "Gordura profunda (subscarpal) — lóbulos maiores." },
-    { "num": 4, "text": "Perfurantes epigástricas inferiores — plano supraneural." },
-    { "num": 5, "text": "Fáscia muscular (reto abdominal) — limite profundo da dissecção." }
+    {
+      "num": 1,
+      "text": "Gordura superficial — lobular, septos verticais densos.",
+      "x": 0.25,
+      "y": 0.32
+    },
+    {
+      "num": 2,
+      "text": "Fáscia de Scarpa — membranosa; preservar reduz seroma e ptose.",
+      "x": 0.42,
+      "y": 0.45
+    },
+    {
+      "num": 3,
+      "text": "Gordura profunda (subscarpal) — lóbulos maiores.",
+      "x": 0.25,
+      "y": 0.62
+    },
+    {
+      "num": 4,
+      "text": "Perfurantes epigástricas inferiores — plano supraneural.",
+      "x": 0.65,
+      "y": 0.72
+    },
+    {
+      "num": 5,
+      "text": "Fáscia muscular (reto abdominal) — limite profundo da dissecção.",
+      "x": 0.15,
+      "y": 0.85
+    }
   ],
-  "applicable_topics": ["contorno-pos-bariatrico", "abdominoplastia"],
+  "applicable_topics": [
+    "contorno-pos-bariatrico",
+    "abdominoplastia"
+  ],
   "status": "available"
 }
