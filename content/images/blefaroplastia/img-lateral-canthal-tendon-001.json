@@ -1,0 +1,18 @@
+{
+  "id": "img-lateral-canthal-tendon-001",
+  "file": "blefaroplastia/blef-13-3-tendao-cantal-lateral.png",
+  "subject": "tendão cantal lateral — inserção no tubérculo de Whitnall; componentes superficial e profundo",
+  "role": "detail",
+  "source": "Neligan 2023, vol. 2, cap. 13 — Blepharoplasty",
+  "credit": "Adaptado de Neligan 2023, vol. 2, cap. 13",
+  "default_caption": "Tendão cantal lateral em vista lateral mostrando inserção no tubérculo de Whitnall (2-3 mm posterior ao rebordo) e relação com ossos orbitários.",
+  "labels": [
+    { "num": 1, "text": "Temporalis zygomatic bone — referência óssea superior e lateral." },
+    { "num": 2, "text": "Orbicularis fascia — revestimento ao redor da estrutura cantal." },
+    { "num": 3, "text": "Lateral orbital thickening — condensação lateral que reforça tendão." },
+    { "num": 4, "text": "Lateral canthal tendon — insere-se tubérculo de Whitnall, 2-3 mm posterior ao rebordo." },
+    { "num": 5, "text": "Frontal bone — parede anterior; ponto de referência para dissecção." }
+  ],
+  "applicable_topics": ["blefaroplastia"],
+  "status": "available"
+}

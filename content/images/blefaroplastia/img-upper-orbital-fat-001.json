@@ -1,0 +1,18 @@
+{
+  "id": "img-upper-orbital-fat-001",
+  "file": "blefaroplastia/blef-13-28-gordura-medial-fechamento.png",
+  "subject": "compartimentos de gordura pré-aponeurótica superior (medial e central) e técnica de ressecção",
+  "role": "surgical",
+  "source": "Neligan 2023, vol. 2, cap. 13 — Blepharoplasty",
+  "credit": "Adaptado de Neligan 2023, vol. 2, cap. 13",
+  "default_caption": "Compartimentos de gordura pré-aponeurótica superior: medial (pálida, firme) e central (amarela, lobulada); técnica de ressecção intraoperatória.",
+  "labels": [
+    { "num": 1, "text": "Inferior lacrimal — estrutura amilacear acima; nunca ressecar." },
+    { "num": 2, "text": "Medial compartment — gordura pálida e firme; primeira a ser ressecada." },
+    { "num": 3, "text": "Central compartment — gordura amarela e lobulada; maior compartimento." },
+    { "num": 4, "text": "Retractor — instrumento para elevação de estruturas adjacentes durante dissecção." },
+    { "num": 5, "text": "Incisão de fechamento — sutura com preservação de plano." }
+  ],
+  "applicable_topics": ["blefaroplastia"],
+  "status": "available"
+}

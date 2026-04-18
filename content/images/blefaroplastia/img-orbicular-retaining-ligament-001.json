@@ -1,0 +1,19 @@
+{
+  "id": "img-orbicular-retaining-ligament-001",
+  "file": "blefaroplastia/blef-13-12-ligamento-retencao-orbicular.png",
+  "subject": "ligamento de retenção orbicular (ORL) — origem periósteo rebordo/zigoma; inserção orbicular",
+  "role": "detail",
+  "source": "Neligan 2023, vol. 2, cap. 13 — Blepharoplasty",
+  "credit": "Adaptado de Neligan 2023, vol. 2, cap. 13",
+  "default_caption": "Vista inferior mostrando o ligamento de retenção orbicular que une o orbicular ao periósteo do rebordo inferior, delimitando a junção pálpebra-bochecha.",
+  "labels": [
+    { "num": 1, "text": "Orbicularis oculi — músculo que se insere na órbita inferiormente." },
+    { "num": 2, "text": "Orbicularis retaining ligament (ORL) — banda fibrosa do periósteo ao orbicular." },
+    { "num": 3, "text": "Nasal bone — referência óssea medial; origem ORL medial." },
+    { "num": 4, "text": "Frontal bone — parede anterior do rebordo." },
+    { "num": 5, "text": "Lateral orbital thickening — ORL lateral ao arco zigomático; mais robusta." },
+    { "num": 6, "text": "Zygomatic bone — referência óssea lateral; origem ORL lateral." }
+  ],
+  "applicable_topics": ["blefaroplastia"],
+  "status": "available"
+}

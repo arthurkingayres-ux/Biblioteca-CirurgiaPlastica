@@ -1,0 +1,18 @@
+{
+  "id": "img-asian-eyelid-001",
+  "file": "blefaroplastia/fig13-10-variacoes-palpebra-superior.jpeg",
+  "subject": "variações anatômicas pálpebra superior — Occidental, Deep set, Baggy, Asian",
+  "role": "overview",
+  "source": "Neligan 2023, vol. 2, cap. 13 — Blepharoplasty",
+  "credit": "Adaptado de Neligan 2023, vol. 2, cap. 13",
+  "default_caption": "Comparação de quatro padrões anatômicos de pálpebra superior: inserção aponeurose em relação ao tarso, distribuição gordura pré-aponeurótica e presença/ausência de prega.",
+  "labels": [
+    { "num": 1, "text": "Occidental — aponeurose insere 3-4 mm acima tarso; prega clara; ausência gordura anterior." },
+    { "num": 2, "text": "Deep set — inserção aponeurose normal (3-4 mm); orbicular e gordura anteriorizadas criando aparência deprimida; supra-orbital hollowing." },
+    { "num": 3, "text": "Baggy eyelid — inserção aponeurose normal mas com herniação gordura pré-aponeurótica anteriorizada; prega presente." },
+    { "num": 4, "text": "Asian eyelid — inserção aponeurose inferior (~1-2 mm acima tarso) ou fusion com septo próximo à margem tarsal; ausência prega; fullness pré-tarsal." },
+    { "num": 5, "text": "Epicanto (medial) — prega semilunar que cobre canto medial em pálpebras asiáticas; grau variável." }
+  ],
+  "applicable_topics": ["blefaroplastia"],
+  "status": "available"
+}
