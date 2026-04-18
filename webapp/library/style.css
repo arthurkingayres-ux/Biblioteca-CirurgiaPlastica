@@ -415,6 +415,49 @@ body {
   gap: 10px;
 }
 
+/* === Chapter-opener: Anatomia (Phase 7.1) === */
+.briefing-section--anatomy {
+  position: relative;
+}
+.briefing-section--anatomy > .briefing-section-title {
+  position: relative;
+  padding-top: 36px;
+  padding-left: 18px;
+  padding-bottom: 18px;
+  font-family: var(--font-serif);
+  font-style: italic;
+  font-size: 24px;
+  font-variation-settings: 'opsz' 80;
+  letter-spacing: -0.01em;
+}
+.briefing-section--anatomy > .briefing-section-title::before {
+  content: 'ANATOMIA';
+  position: absolute;
+  top: 14px;
+  left: 18px;
+  font-family: var(--font-sans);
+  font-style: normal;
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.20em;
+  color: var(--dissection-green);
+}
+.briefing-section--anatomy > .briefing-section-title::after {
+  border-color: var(--dissection-green);
+}
+.briefing-section--anatomy::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 40px;
+  width: 2px;
+  height: 24px;
+  background: var(--dissection-green);
+}
+.briefing-section--anatomy .briefing-item[open] {
+  border-color: var(--dissection-green);
+}
+
 .briefing-item {
   background: var(--elevated);
   border: 1px solid var(--rule);

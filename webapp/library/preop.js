@@ -3,8 +3,9 @@ const PreOp = (() => {
 
   function _pad(n) { return String(n).padStart(2, '0'); }
 
-  function _section(titleText, count, bodyHtml) {
-    return `<details class="briefing-section">
+  function _section(titleText, count, bodyHtml, modifier) {
+    const cls = modifier ? `briefing-section ${modifier}` : 'briefing-section';
+    return `<details class="${cls}">
       <summary class="briefing-section-title">
         <span>${titleText}</span>
         <span class="section-count">${_pad(count)}</span>
@@ -59,7 +60,7 @@ const PreOp = (() => {
           <summary class="briefing-item-title">${c.title}</summary>
           <div class="briefing-item-body">${Renderer.anatomy(c)}</div>
         </details>`).join('');
-      html += _section('Anatomia Relevante', anatomyCards.length, body);
+      html += _section('Anatomia Relevante', anatomyCards.length, body, 'briefing-section--anatomy');
     }
 
     if (decisionCards.length > 0) {
