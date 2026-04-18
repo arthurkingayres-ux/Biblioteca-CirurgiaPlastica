@@ -1,0 +1,19 @@
+{
+  "id": "img-nasal-muscles-001",
+  "file": "rinoplastia/fig18-20-musculos-nasais.jpeg",
+  "subject": "musculatura nasal — nasalis (porções transversa e vertical), levator alae e relação com CLS (cartilagens laterais superiores)",
+  "role": "detail",
+  "source": "Neligan 2023, vol. 2, cap. 18 — Rhinoplasty",
+  "credit": "Adaptado de Neligan 2023, vol. 2, cap. 18",
+  "default_caption": "Dissecção da musculatura nasal intrínseca e extrínseca: nasalis (pars transversa e vertical), levator alae, orbicularis oculi e ramo bucal do nervo facial — músculos que modulam o fluxo aéreo nasal e a dinâmica da ponta.",
+  "labels": [
+    {"num": 1, "text": "Nasalis m., pars transversa — insere-se na borda das CLS (cartilagens laterais superiores); contração lateral aumenta fluxo aéreo no terço médio."},
+    {"num": 2, "text": "Nasalis m., pars verticalis (alar) — porção alar do músculo; dilata a narina na inspiração."},
+    {"num": 3, "text": "Cartilagem lateral superior (CLS) — visível profunda ao nasalis; sua estabilidade depende da integridade muscular."},
+    {"num": 4, "text": "Levator alae m. (dilatador das narinas) — dilata a ala e aumenta área da valva externa; inervado pelo ramo bucal do nervo facial (VII)."},
+    {"num": 5, "text": "Ramo bucal do nervo facial — inervação motora de todos os músculos nasais; paralisia causa colapso valvar."},
+    {"num": 6, "text": "Orbicularis oculi m. — músculo extrínseco adjacente; importante na correlação com o SMAS (Sistema Musculoaponeurótico Superficial) facial."}
+  ],
+  "applicable_topics": ["rinoplastia"],
+  "status": "available"
+}
