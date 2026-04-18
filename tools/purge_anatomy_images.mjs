@@ -202,6 +202,52 @@ if (!EXECUTE) {
 
 // ---------- Phase C: execute ----------
 
-// (implementado na Task 5)
-console.error('--execute not yet implemented. Aborting.');
-process.exit(2);
+// C1. Strip `images` field from each anatomy card
+for (const { path: p, cards } of plan.cardFilesModified) {
+  const data = readJSON(p);
+  const targetIds = new Set(cards.map(c => c.id));
+  for (const c of data) {
+    if (targetIds.has(c.id)) delete c.images;
+  }
+  writeJSON(p, data);
+  console.log(`  stripped images from ${cards.length} cards in ${rel(p)}`);
+}
+
+// C2. Move registry JSONs to _archived/
+for (const { src, dest } of plan.registriesToArchive) {
+  mvFile(src, dest);
+}
+console.log(`  archived ${plan.registriesToArchive.length} registry JSONs`);
+
+// C3. Move PNGs to _archived/
+for (const { src, dest } of plan.pngsToArchive) {
+  mvFile(src, dest);
+}
+console.log(`  archived ${plan.pngsToArchive.length} PNGs`);
+
+// C4. Manifest — filter entries array (NOT delete keys)
+if (plan.manifestEntriesToRemove.length > 0) {
+  const m = readJSON(manifestPath);
+  const removeSet = new Set(plan.manifestEntriesToRemove);
+  m.entries = m.entries.filter(e => !removeSet.has(e.id));
+  writeJSON(manifestPath, m);
+  console.log(`  removed ${plan.manifestEntriesToRemove.length} manifest entries`);
+}
+
+// C5. Coords — filter array by image_id (NOT delete keys)
+for (const entry of plan.coordsEntriesToRemove) {
+  if (entry.willBeEmpty) {
+    const archivedDir = path.join(ROOT, 'tools/_coords/_archived');
+    fs.mkdirSync(archivedDir, { recursive: true });
+    mvFile(entry.file, path.join(archivedDir, path.basename(entry.file)));
+    console.log(`  archived empty coords file ${rel(entry.file)}`);
+  } else {
+    const coords = readJSON(entry.file);
+    const removeSet = new Set(entry.imgIds);
+    const filtered = coords.filter(c => !removeSet.has(c.image_id));
+    writeJSON(entry.file, filtered);
+    console.log(`  removed ${entry.imgIds.length} image IDs (${coords.length - filtered.length} rows) from ${rel(entry.file)}`);
+  }
+}
+
+console.log('\nDone.');
