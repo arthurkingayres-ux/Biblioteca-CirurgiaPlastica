@@ -484,32 +484,26 @@
         {
           "num": 1,
           "text": "Fáscia capsulopálpebral — origina-se do músculo reto inferior; insere-se na face anterior do tarso inferior.",
-          "x": 0.25,
-          "y": 0.3
+          "x": 0.15,
+          "y": 0.2
         },
         {
           "num": 2,
-          "text": "Ligamento de Lockwood — condensação fascial suspensora do bulbo ocular.",
-          "x": 0.35,
-          "y": 0.5
+          "text": "Ligamento de Lockwood — condensação fascial suspensora do bulbo ocular; visível como banda horizontal entre tarso e capsulopálpebral.",
+          "x": 0.22,
+          "y": 0.38
         },
         {
           "num": 3,
-          "text": "Tarso inferior — 4-5 mm de altura.",
-          "x": 0.55,
-          "y": 0.5
+          "text": "Septo orbitário inferior — funde-se com a capsulopálpebral ~5 mm abaixo do tarso.",
+          "x": 0.18,
+          "y": 0.52
         },
         {
           "num": 4,
-          "text": "Septo orbitário inferior — funde-se com a capsulopálpebral ~5 mm abaixo do tarso.",
-          "x": 0.4,
-          "y": 0.65
-        },
-        {
-          "num": 5,
-          "text": "Acesso transconjuntival — plano pré-septal ou retrosseptal dependendo da técnica.",
-          "x": 0.45,
-          "y": 0.75
+          "text": "Rebordo orbitário inferior — limite ósseo inferior da órbita.",
+          "x": 0.2,
+          "y": 0.68
         }
       ],
       "applicable_topics": [
@@ -859,33 +853,21 @@
       "labels": [
         {
           "num": 1,
-          "text": "Canto lateral jovem — posicionamento normal; tarsal strap e tendão cantal robusto.",
-          "x": 0.35,
-          "y": 0.3
+          "text": "Canto lateral jovem (A) — ângulo lateral elevado; linha intercantal horizontal ou com leve inclinação superior.",
+          "x": 0.25,
+          "y": 0.35
         },
         {
           "num": 2,
-          "text": "Canto lateral envelhecido — laxidez do retináculo; descenso lateral da pálpebra inferior.",
-          "x": 0.65,
-          "y": 0.5
+          "text": "Canto lateral envelhecido (B) — descenso lateral com arredondamento do ângulo; fissura palpebral mais oblíqua.",
+          "x": 0.75,
+          "y": 0.42
         },
         {
           "num": 3,
-          "text": "Tendão cantal lateral — inserção tubérculo de Whitnall; perde tensão com envelhecimento.",
-          "x": 0.55,
-          "y": 0.45
-        },
-        {
-          "num": 4,
-          "text": "Tarsal strap — suspensório tarsal; frouxe com perda de sustentação.",
-          "x": 0.6,
+          "text": "Descenso lateral com a idade — perda de tensão do retináculo lateral produz ptose e alargamento da fissura.",
+          "x": 0.75,
           "y": 0.65
-        },
-        {
-          "num": 5,
-          "text": "Ligamento de Lockwood — componente de suspensão inferior; degeneração é gatilho para ectrópio.",
-          "x": 0.5,
-          "y": 0.7
         }
       ],
       "applicable_topics": [
@@ -2146,33 +2128,21 @@
       "labels": [
         {
           "num": 1,
-          "text": "Tear trough (sulco lacrimojugal) — depressão medial inferior à pálpebra.",
-          "x": 0.45,
-          "y": 0.5
+          "text": "Orbicularis oculi — músculo periorbital cuja inserção periostal medial gera o sulco lacrimojugal.",
+          "x": 0.78,
+          "y": 0.28
         },
         {
           "num": 2,
-          "text": "Origem do orbicular no periósteo maxilar — gera o sulco em ponto de fixação cutâneo.",
-          "x": 0.5,
-          "y": 0.65
+          "text": "Tear trough (sulco lacrimojugal) — depressão medial inferior à pálpebra inferior, ponto de fixação cutâneo-periostal.",
+          "x": 0.78,
+          "y": 0.42
         },
         {
           "num": 3,
-          "text": "Ligamento palpebro-malar — extensão lateral do tear trough; separa compartimentos.",
-          "x": 0.6,
-          "y": 0.55
-        },
-        {
-          "num": 4,
-          "text": "Bolsa de gordura medial — protrusão acentua o sulco por contraste.",
-          "x": 0.4,
-          "y": 0.7
-        },
-        {
-          "num": 5,
-          "text": "Compartimento graxo malar (SOOF) — deflação envelhece a transição.",
-          "x": 0.35,
-          "y": 0.8
+          "text": "Levator labii superioris alaeque nasi — músculo imediatamente abaixo; limite inferior do triângulo muscular do tear trough.",
+          "x": 0.78,
+          "y": 0.62
         }
       ],
       "applicable_topics": [
@@ -2393,6 +2363,315 @@
           "text": "Osso orbital — rebordo ósseo periférico que delimita a cavidade.",
           "x": 0.5,
           "y": 0.7
+        }
+      ],
+      "applicable_topics": [
+        "blefaroplastia"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-gordura-orbital-superior-001",
+      "file": "blefaroplastia/blef-p0592-anatomia-da-orbita-e-compartimentos-de-gordura-per.jpeg",
+      "subject": "compartimentos gordurosos orbitários e estruturas periorbitárias — corte sagital",
+      "role": "detail",
+      "source": "Neligan Plastic Surgery, 5th Ed. Elsevier 2023, Vol 2 p.592",
+      "credit": "Neligan Plastic Surgery, 5th Ed. Elsevier 2023, Vol 2 p.592",
+      "default_caption": "Compartimentos gordurosos — pálpebra superior",
+      "labels": [
+        {
+          "num": 1,
+          "text": "Gordura orbitária superior (pré-aponeurótica) — compartimento medial e central da pálpebra superior, acima do septo.",
+          "x": 0.75,
+          "y": 0.12
+        },
+        {
+          "num": 2,
+          "text": "Glândula lacrimal — posição lateral superior; tecido róseo-avermelhado distinto da gordura orbital amarela.",
+          "x": 0.18,
+          "y": 0.22
+        },
+        {
+          "num": 3,
+          "text": "Septo orbital — fáscia que separa gordura pré-septal da intraconal; visível como linha fibrosa.",
+          "x": 0.72,
+          "y": 0.3
+        },
+        {
+          "num": 4,
+          "text": "Gordura orbitária inferior — compartimentos medial, central e lateral abaixo do globo ocular.",
+          "x": 0.62,
+          "y": 0.75
+        },
+        {
+          "num": 5,
+          "text": "Rebordo orbital — limite ósseo perimetral que contém as estruturas orbitárias.",
+          "x": 0.12,
+          "y": 0.5
+        }
+      ],
+      "applicable_topics": [
+        "blefaroplastia"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-musculo-muller-001",
+      "file": "blefaroplastia/blef-anat-muller-musculo-tarsal.png",
+      "subject": "músculo de Müller, aponeurose do levantador e estruturas da pálpebra superior — corte sagital",
+      "role": "detail",
+      "source": "Grabb and Smith's Plastic Surgery, 9th Ed. 2024, Cap 38 Fig 38.1A",
+      "credit": "Grabb and Smith's Plastic Surgery, 9th Ed. 2024, Cap 38 Fig 38.1A",
+      "default_caption": "Músculo de Müller — tarsal superior simpático",
+      "labels": [
+        {
+          "num": 1,
+          "text": "LPS (músculo levantador da pálpebra superior) — origem no ápice orbitário; principal elevador da pálpebra superior.",
+          "x": 0.42,
+          "y": 0.25
+        },
+        {
+          "num": 2,
+          "text": "Aponeurose do levantador — expansão tendínea que se insere no tarso superior e na pele pré-tarsal.",
+          "x": 0.72,
+          "y": 0.38
+        },
+        {
+          "num": 3,
+          "text": "Músculo de Müller (tarsal superior) — músculo liso simpático; responsável por 2 mm de elevação; entre aponeurose e conjuntiva.",
+          "x": 0.38,
+          "y": 0.52
+        },
+        {
+          "num": 4,
+          "text": "Placa tarsal — estrutura fibrocartilaginosa de suporte; 10 mm de altura na pálpebra superior.",
+          "x": 0.78,
+          "y": 0.62
+        },
+        {
+          "num": 5,
+          "text": "Gordura pré-aponeurótica — compartimento entre septo e aponeurose; marcador cirúrgico durante blefaroplastia.",
+          "x": 0.72,
+          "y": 0.25
+        }
+      ],
+      "applicable_topics": [
+        "blefaroplastia"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-ossos-orbita-001",
+      "file": "blefaroplastia/blef-p0592-ossos-da-orbita-vista-lateral-com-cavidade-orbitar.jpeg",
+      "subject": "órbita óssea — vista lateral com cavidade orbitária",
+      "role": "overview",
+      "source": "Neligan Plastic Surgery, 5th Ed. Elsevier 2023, Vol 2 p.592",
+      "credit": "Neligan Plastic Surgery, 5th Ed. Elsevier 2023, Vol 2 p.592",
+      "default_caption": "Órbita óssea — vista lateral",
+      "labels": [
+        {
+          "num": 1,
+          "text": "Osso frontal — parede superior (teto) da órbita; robusto.",
+          "x": 0.5,
+          "y": 0.08
+        },
+        {
+          "num": 2,
+          "text": "Osso zigomático — rebordo lateral e assoalho lateral da órbita; suturado ao frontal e maxila.",
+          "x": 0.22,
+          "y": 0.55
+        },
+        {
+          "num": 3,
+          "text": "Maxila (processo frontal) — rebordo medial inferior e assoalho medial da órbita.",
+          "x": 0.35,
+          "y": 0.72
+        },
+        {
+          "num": 4,
+          "text": "Esfenoide (asa maior) — parede lateral profunda da órbita; forma a fissura orbitária superior.",
+          "x": 0.62,
+          "y": 0.4
+        },
+        {
+          "num": 5,
+          "text": "Cavidade orbitária — espaço cônico que contém globo, músculos extraoculares e gordura orbitária.",
+          "x": 0.48,
+          "y": 0.38
+        }
+      ],
+      "applicable_topics": [
+        "blefaroplastia"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-pele-palpebral-001",
+      "file": "blefaroplastia/diagrama-camadas-palpebrais.png",
+      "subject": "camadas palpebrais — conceito de lamelas anterior e posterior",
+      "role": "overview",
+      "source": "Diagrama adaptado de Neligan, 5ª Ed., 2023",
+      "credit": "Diagrama adaptado de Neligan, 5ª Ed., 2023",
+      "default_caption": "Pele palpebral — camadas e transições",
+      "labels": [
+        {
+          "num": 1,
+          "text": "Pele pré-tarsal fina (< 1 mm) — pele mais fina do corpo; sem gordura subcutânea; componente superficial da lamela anterior.",
+          "x": 0.18,
+          "y": 0.23
+        },
+        {
+          "num": 2,
+          "text": "M. Orbicular — músculo esfincteriano; parte pré-tarsal e pré-septal integram a lamela anterior.",
+          "x": 0.18,
+          "y": 0.3
+        },
+        {
+          "num": 3,
+          "text": "Lamela anterior — pele + orbicular; abordagem pela face cutânea.",
+          "x": 0.5,
+          "y": 0.17
+        },
+        {
+          "num": 4,
+          "text": "Lamela posterior — tarso + conjuntiva (inferior: capsulopálpebral + conjuntiva); abordagem transconjuntival.",
+          "x": 0.5,
+          "y": 0.42
+        },
+        {
+          "num": 5,
+          "text": "Septo orbital — barreira anatômica entre gordura pré-septal e intraorbitária; divide as lamelas no plano profundo.",
+          "x": 0.18,
+          "y": 0.5
+        }
+      ],
+      "applicable_topics": [
+        "blefaroplastia"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-roof-001",
+      "file": "blefaroplastia/blef-anat-roof-gordura-retroorbicular.png",
+      "subject": "ROOF — gordura pré-septal retro-orbicular e planos periorbitários superiores",
+      "role": "detail",
+      "source": "Neligan Plastic Surgery, 5th Ed. Elsevier 2023, Vol 2 Cap 11 Fig 11.5",
+      "credit": "Neligan Plastic Surgery, 5th Ed. Elsevier 2023, Vol 2 Cap 11 Fig 11.5",
+      "default_caption": "ROOF — gordura retro-orbicular",
+      "labels": [
+        {
+          "num": 1,
+          "text": "ROOF (gordura pré-septal retro-orbicular, Retro-Orbicularis Oculi Fat) — compartimento entre orbicular e septo orbital; ptose contribui para pesadez do terço superior.",
+          "x": 0.3,
+          "y": 0.72
+        },
+        {
+          "num": 2,
+          "text": "Músculo orbicular do olho — delimitação inferior do ROOF; sua manipulação afeta a transição suprasseptal.",
+          "x": 0.3,
+          "y": 0.83
+        },
+        {
+          "num": 3,
+          "text": "Rebordo orbital — limite ósseo superior; referência para injeções de gordura e resuspensão do ROOF.",
+          "x": 0.2,
+          "y": 0.65
+        },
+        {
+          "num": 4,
+          "text": "Septo orbital — fáscia abaixo do rebordo que contém a gordura orbitária; limite profundo da região pré-septal.",
+          "x": 0.22,
+          "y": 0.88
+        },
+        {
+          "num": 5,
+          "text": "Frontalis — músculo elevador da sobrancelha; sua atividade compensa ptose do terço superior pela elevação da sobrancelha.",
+          "x": 0.75,
+          "y": 0.28
+        }
+      ],
+      "applicable_topics": [
+        "blefaroplastia"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-tarso-001",
+      "file": "blefaroplastia/blef-anat-tarso-placa-tarsal.png",
+      "subject": "placa tarsal, glândulas de Meibomius e estruturas da pálpebra inferior — corte sagital",
+      "role": "detail",
+      "source": "Grabb and Smith's Plastic Surgery, 9th Ed. 2024, Cap 38 Fig 38.1B",
+      "credit": "Grabb and Smith's Plastic Surgery, 9th Ed. 2024, Cap 38 Fig 38.1B",
+      "default_caption": "Placa tarsal e glândulas de Meibomius",
+      "labels": [
+        {
+          "num": 1,
+          "text": "Placa tarsal — estrutura fibrocartilaginosa de suporte; 4–5 mm de altura na pálpebra inferior.",
+          "x": 0.72,
+          "y": 0.18
+        },
+        {
+          "num": 2,
+          "text": "Glândulas de Meibomius — glândulas sebáceas modificadas embutidas no tarso; secretam a camada lipídica do filme lacrimal.",
+          "x": 0.72,
+          "y": 0.3
+        },
+        {
+          "num": 3,
+          "text": "Fáscia capsulopálpebral — análogo inferior da aponeurose do LPS; origina-se do músculo reto inferior e insere-se no tarso inferior.",
+          "x": 0.72,
+          "y": 0.42
+        },
+        {
+          "num": 4,
+          "text": "Septo orbital — divide gordura pré-septal da retrosseptal; funde-se com a capsulopálpebral ~5 mm abaixo do tarso.",
+          "x": 0.72,
+          "y": 0.55
+        },
+        {
+          "num": 5,
+          "text": "Músculo orbicular — componente da lamela anterior; posição imediatamente superficial ao septo.",
+          "x": 0.72,
+          "y": 0.67
+        }
+      ],
+      "applicable_topics": [
+        "blefaroplastia"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-whitnall-001",
+      "file": "blefaroplastia/blef-anat-whitnall-ligamento.png",
+      "subject": "ligamento de Whitnall — fulcro do levantador da pálpebra superior",
+      "role": "detail",
+      "source": "Neligan Plastic Surgery, 5th Ed. Elsevier 2023, Vol 2 Cap 13 Fig 13.28A",
+      "credit": "Neligan Plastic Surgery, 5th Ed. Elsevier 2023, Vol 2 Cap 13 Fig 13.28A",
+      "default_caption": "Ligamento de Whitnall — fulcro do levantador",
+      "labels": [
+        {
+          "num": 1,
+          "text": "Ligamento de Whitnall — banda fibrosa transversal que atua como fulcro do levantador; converte força vertical em vetor horizontal de elevação palpebral.",
+          "x": 0.32,
+          "y": 0.2
+        },
+        {
+          "num": 2,
+          "text": "Aponeurose do levantador — continua abaixo do ligamento de Whitnall em direção à inserção no tarso superior.",
+          "x": 0.72,
+          "y": 0.22
+        },
+        {
+          "num": 3,
+          "text": "Gordura pré-aponeurótica — tecido adiposo amarelo visível no campo cirúrgico; marcador da posição da aponeurose.",
+          "x": 0.78,
+          "y": 0.42
+        },
+        {
+          "num": 4,
+          "text": "Plano cirúrgico aberto — incisão sobre a pele pré-tarsal expõe o complexo levantador; afastadores delimitam o campo.",
+          "x": 0.5,
+          "y": 0.62
         }
       ],
       "applicable_topics": [
