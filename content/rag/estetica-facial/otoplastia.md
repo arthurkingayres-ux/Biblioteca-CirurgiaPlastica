@@ -75,7 +75,7 @@ A deformidade mais comum é a orelha em abano, caracterizada por ângulo cefaloa
   3. A nutrição por difusão via pericôndrio torna a drenagem de hematomas urgente para prevenir necrose. O pericôndrio deve ser preservado sempre que possível. [Neligan, 2023, vol. 3, cap. 28]
 - **Como identificar:** Palpação firme mas flexível do pavilhão auricular. Transluminação com lanterna mostra a cartilagem como sombra. Ausência de cartilagem no lóbulo (macio, depressível).
 - **Morfologia dos terços da cartilagem:** a cartilagem auricular forma uma peça única contínua com subdivisões funcionais. O crus superior e inferior da anti-hélice bifurcam-se a partir do corpo principal, formando a fossa triangular. O crus da hélice, situado superiormente, é chave para a ancoragem anterior — seu comprimento e rigidez determinam se a hélice pode envolver-se naturalmente ou fica achatada. A concha é subdividida em cymba (superior, menos profunda) e cavum (inferior, mais profunda). A profundidade ideal da concha é aproximadamente 15 mm, medida do ápice do crus à parede posterior; quando excede 20 mm (excesso conchal), Furnas ou ressecção conchal tornam-se necessários. O lóbulo é desprovido de cartilagem (tecido fibroadiposo), com espessura variável, e sua projeção é avaliada separadamente. [Grabb & Smith, 2024, cap. 57; Neligan Core Procedures, 2020, cap. 5]
-- [Imagem: oto-anat-cartilagem-deformidades.jpg]
+- [Imagem: oto-anat-cartilagem-framework.jpg]
 - [Imagem: oto-anat-cartilagem-scoring.jpg]
 
 ### Physiology / Pathophysiology
