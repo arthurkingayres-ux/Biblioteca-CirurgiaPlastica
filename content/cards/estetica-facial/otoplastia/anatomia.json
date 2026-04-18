@@ -8,15 +8,29 @@
     "area": "estetica-facial",
     "one_liner": "Pavilhão auricular atinge ~85% do tamanho adulto aos 5-6 anos; altura ~6 cm, largura ~3,5 cm, ângulo cefaloauricular 25-35 graus.",
     "structures": [
-      { "label": "Hélice e anti-hélice", "description": "Borda superior enrolada (hélice) e crista paralela interna (anti-hélice) que dá projeção lateral controlada ao pavilhão." },
-      { "label": "Concha (cymba e cavum)", "description": "Depressão central dividida pelo crus helicis; profundidade ideal ~15 mm." },
-      { "label": "Tragus e antitragus", "description": "Protuberâncias cartilaginosas anterior e posterior ao meato acústico externo." },
-      { "label": "Lóbulo", "description": "Porção inferior fibroadiposa, sem cartilagem; avaliar protrusão separadamente." },
-      { "label": "Inervação sensitiva", "description": "Nervo auricular maior (C2-C3) inerva a maior parte; nervo auriculotemporal (V3) cobre porção anterossuperior." }
+      {
+        "label": "Hélice e anti-hélice",
+        "description": "Borda superior enrolada (hélice) e crista paralela interna (anti-hélice) que dá projeção lateral controlada ao pavilhão."
+      },
+      {
+        "label": "Concha (cymba e cavum)",
+        "description": "Depressão central dividida pelo crus helicis; profundidade ideal ~15 mm."
+      },
+      {
+        "label": "Tragus e antitragus",
+        "description": "Protuberâncias cartilaginosas anterior e posterior ao meato acústico externo."
+      },
+      {
+        "label": "Lóbulo",
+        "description": "Porção inferior fibroadiposa, sem cartilagem; avaliar protrusão separadamente."
+      },
+      {
+        "label": "Inervação sensitiva",
+        "description": "Nervo auricular maior (C2-C3) inerva a maior parte; nervo auriculotemporal (V3) cobre porção anterossuperior."
+      }
     ],
     "clinical_hook": "Projeção hélice-mastoide normal: 10-12 mm superior, 16-18 mm médio, 20-22 mm inferior. Valores acima indicam orelha em abano; ângulo CS (concha-escafoide) >90 graus sinaliza anti-hélice hipoplásica. Idade mínima para otoplastia (5-6 anos) corresponde ao desenvolvimento maduro do arcabouço.",
     "how_to_identify": "Inspeção e mensuração — hélice, anti-hélice, tragus, antitragus, concha (cymba + cavum) e lóbulo; régua para ângulo cefaloauricular e projeção hélice-mastoide nos três terços.",
-    "images": [{ "ref": "img-auricular-landmarks-001" }],
     "citations": [
       "Neligan, 2023, vol. 3, cap. 28",
       "Grabb & Smith, 2024, cap. 57",
@@ -42,14 +56,25 @@
     "area": "estetica-facial",
     "one_liner": "Cartilagem elástica em peça única, nutrida só por difusão pericondrial — hematoma não drenado evolui para orelha em couve-flor.",
     "structures": [
-      { "label": "Cartilagem elástica", "description": "Forma o arcabouço de todo o pavilhão (exceto lóbulo) em uma peça contínua com dobras." },
-      { "label": "Pericôndrio", "description": "Membrana vascularizada — única fonte de nutrição da cartilagem; preservar ao máximo." },
-      { "label": "Pele anterior", "description": "Fina e aderente ao pericôndrio; pouca margem para dissecção." },
-      { "label": "Pele posterior", "description": "Mais espessa e móvel; via preferencial para suturas de Mustarde e Furnas." }
+      {
+        "label": "Cartilagem elástica",
+        "description": "Forma o arcabouço de todo o pavilhão (exceto lóbulo) em uma peça contínua com dobras."
+      },
+      {
+        "label": "Pericôndrio",
+        "description": "Membrana vascularizada — única fonte de nutrição da cartilagem; preservar ao máximo."
+      },
+      {
+        "label": "Pele anterior",
+        "description": "Fina e aderente ao pericôndrio; pouca margem para dissecção."
+      },
+      {
+        "label": "Pele posterior",
+        "description": "Mais espessa e móvel; via preferencial para suturas de Mustarde e Furnas."
+      }
     ],
     "clinical_hook": "Suturas (Mustarde) moldam sem cortar; escarificação (Stenstrom) usa o princípio de Gibson — o lado escarificado curva-se para o oposto. Drenagem de hematoma é urgente para prevenir pericondrite e fibrose cicatricial.",
     "how_to_identify": "Palpação firme mas flexível do pavilhão; transluminação com lanterna revela a cartilagem como sombra; lóbulo macio e depressível confirma ausência de arcabouço cartilaginoso.",
-    "images": [{ "ref": "img-auricular-cartilage-001" }],
     "citations": [
       "Neligan, 2023, vol. 3, cap. 28",
       "Grabb & Smith, 2024, cap. 57",

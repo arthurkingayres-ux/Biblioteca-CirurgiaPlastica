@@ -22,11 +22,6 @@
     ],
     "clinical_hook": "Marcação cirúrgica deve preservar ≥20 mm de pele entre borda ciliar e sobrancelha (margem contra lagoftalmo). Pele pré-septal redundante é alvo primário da blefaroplastia.",
     "how_to_identify": "Extremamente fina e translúcida; região pré-tarsal aderida, região pré-septal frouxa e pinçável facilmente.",
-    "images": [
-      {
-        "ref": "img-pele-palpebral-001"
-      }
-    ],
     "citations": [
       "Neligan, 2023, vol. 2, cap. 13",
       "Grabb & Smith, 2024, cap. 51"
@@ -68,11 +63,6 @@
     ],
     "clinical_hook": "Ressecção de orbicular pré-septal melhora definição de prega mas aumenta edema. Ramo zigomático do VII (nervo facial) controla fechamento inferior — lesão causa incapacidade de piscar.",
     "how_to_identify": "Músculo rosa-pálido imediatamente profundo à pele; pré-tarsal aderido, pré-septal mais frouxo.",
-    "images": [
-      {
-        "ref": "img-periorbital-muscles-001"
-      }
-    ],
     "citations": [
       "Neligan, 2023, vol. 2, cap. 13",
       "Core Procedures, 2020, cap. 3"
@@ -109,11 +99,6 @@
     ],
     "clinical_hook": "Dissecar além da fusão septo-aponeurose pode lesar aponeurose e causar ptose iatrogênica. Abertura do septo expõe gordura pré-aponeurótica amarela.",
     "how_to_identify": "Membrana fibrosa branco-perolada profunda ao orbicular; ao abrir, expõe gordura pré-aponeurótica amarela.",
-    "images": [
-      {
-        "ref": "img-orbital-septum-001"
-      }
-    ],
     "citations": [
       "Neligan, 2023, vol. 2, cap. 13",
       "Grabb & Smith, 2024, cap. 51"
@@ -155,11 +140,6 @@
     ],
     "clinical_hook": "Nunca ressecar estrutura lateral com aspecto glândular — risco de síndrome de olho seco permanente. Nunca tracionar gordura — risco de hemorragia retrobulbar por avulsão de vasos.",
     "how_to_identify": "Medial: pálida, firme. Central: amarela, lobulada, flui ao pressionar globo. Lateral: rosa-acinzentada, textura glândular.",
-    "images": [
-      {
-        "ref": "img-gordura-orbital-superior-001"
-      }
-    ],
     "citations": [
       "Neligan, 2023, vol. 2, cap. 13",
       "Core Procedures, 2020, cap. 3"
@@ -213,11 +193,6 @@
     ],
     "clinical_hook": "Lesão do oblíquo inferior causa diplopia em elevação/adução. Oblíquo origina-se na fossa lacrimal, cruza inferiormente ao globo em sentido póstero-lateral.",
     "how_to_identify": "Usar oblíquo inferior como referência para separar compartimentos. Medial: mais proeminente, pálida, firme.",
-    "images": [
-      {
-        "ref": "img-lower-orbital-fat-001"
-      }
-    ],
     "citations": [
       "Neligan, 2023, vol. 2, cap. 14",
       "Grabb & Smith, 2024, cap. 51"
@@ -255,11 +230,6 @@
     ],
     "clinical_hook": "Deiscência/alongamento aponeurótico = ptose involutiva (causa mais comum). Avanço/plicatura = técnica-padrão de correção. Fusão septo-aponeurose é marco crítico.",
     "how_to_identify": "Aponeurose branca brilhante profunda ao septo; ao abrir septo, gordura pré-aponeurótica a recobre.",
-    "images": [
-      {
-        "ref": "img-upper-lid-sagittal-001"
-      }
-    ],
     "citations": [
       "Neligan, 2023, vol. 2, cap. 13"
     ],
@@ -293,11 +263,6 @@
     ],
     "clinical_hook": "Desnervação na síndrome de Horner causa ptose leve (1–2 mm). Müllerectomy corrige ptose leve (MRD1 3–4 mm) se fenilefrina 2,5% eleva ≥1,5 mm.",
     "how_to_identify": "Músculo liso vermelho-escuro profundo à aponeurose; teste fenilefrina 2,5%: elevação ≥1,5 mm confirma função simpática.",
-    "images": [
-      {
-        "ref": "img-musculo-muller-001"
-      }
-    ],
     "citations": [
       "Neligan, 2023, vol. 2, cap. 13",
       "Grabb & Smith, 2024, cap. 51"
@@ -336,11 +301,6 @@
     ],
     "clinical_hook": "Lesão causa ectrópio por retração lamela posterior. Incisão subtarsal na fáscia capsulopálpebral (Nomoto & Ogawa, 2025) é novo paradigma para blefaroplastia inferior livre de ectrópio.",
     "how_to_identify": "Membrana fibrosa profunda ao septo inferior; mais posterior e aderida à borda inferior do tarso.",
-    "images": [
-      {
-        "ref": "img-capsulopalpebral-fascia-001"
-      }
-    ],
     "citations": [
       "Neligan, 2023, vol. 2, cap. 14"
     ],
@@ -377,11 +337,6 @@
     ],
     "clinical_hook": "Disfunção de Meibomius (meibomite) causa evaporação excessiva e olho seco. Tarso é referência para prega pálpebral e marcação de incisões.",
     "how_to_identify": "Placa fibrosa densa palpável; face posterior revestida por conjuntiva; glândulas de Meibomius como estrias amareladas ao everter.",
-    "images": [
-      {
-        "ref": "img-tarso-001"
-      }
-    ],
     "citations": [
       "Neligan, 2023, vol. 2, cap. 13",
       "Grabb & Smith, 2024, cap. 51"
@@ -419,11 +374,6 @@
     ],
     "clinical_hook": "Porção posterior é âncora medial. Lesão causa telecanto e obstrução lacrimal; reconstrução demanda fixação transnasal.",
     "how_to_identify": "Banda fibrosa firme palpável no canto medial; tracionar lateralmente revela tensão.",
-    "images": [
-      {
-        "ref": "img-medial-canthal-tendon-001"
-      }
-    ],
     "citations": [
       "Neligan, 2023, vol. 2, cap. 13"
     ],
@@ -456,11 +406,6 @@
     ],
     "clinical_hook": "Laxidez (distração >6 mm ou snap-back lento) = principal causa de ectrópio pós-blefaroplastia. Deve ser corrigida com cantopexia/cantoplastia no mesmo tempo. Sutura 2 mm acima para compensar relaxamento.",
     "how_to_identify": "Distraction test: >6 mm = laxidez significativa. Snap-back test: retorno lento >1 s indica laxidez.",
-    "images": [
-      {
-        "ref": "img-lateral-canthal-tendon-001"
-      }
-    ],
     "citations": [
       "Neligan, 2023, vol. 2, cap. 14",
       "Core Procedures, 2020, cap. 3",
@@ -495,11 +440,6 @@
     ],
     "clinical_hook": "Marco anatômico crítico para transição do levantador de músculo para aponeurose. Referência importante em cirurgia de ptose e blefaroplastia superior.",
     "how_to_identify": "Banda fibrosa transversal esbranquiçada visível profundamente na órbita superior ao dissecar acima da aponeurose.",
-    "images": [
-      {
-        "ref": "img-whitnall-001"
-      }
-    ],
     "citations": [
       "Neligan, 2023, vol. 2, cap. 13"
     ],
@@ -540,11 +480,6 @@
     ],
     "clinical_hook": "Anastomose angular-oftálmica é via de comunicação carotídea. Infecções perioculares risco de trombose seio cavernoso. Hemostasia meticulosa essencial — sangramento de etmoidais causa hematoma retrobulbar.",
     "how_to_identify": "Arco marginal como vasos finos 2 mm da margem; artéria angular palpável lateralmente ao dorso nasal.",
-    "images": [
-      {
-        "ref": "img-periorbital-vasculature-001"
-      }
-    ],
     "citations": [
       "Neligan, 2023, vol. 2, cap. 13"
     ],
@@ -588,11 +523,6 @@
     ],
     "clinical_hook": "Bloqueio supraórbital para anestesia superior. Lesão ramo temporal do VII (nervo facial) em lifting temporal causa ptose sobrancelha. Ramo temporal cruza 1 cm anterior ao tragus — zona perigosa.",
     "how_to_identify": "Forame supraórbital na junção 1/3 medial e 2/3 laterais do rebordo. Ramo temporal em zona 1 cm anterior ao tragus sobre arco zigomático.",
-    "images": [
-      {
-        "ref": "img-periorbital-innervation-001"
-      }
-    ],
     "citations": [
       "Neligan, 2023, vol. 2, cap. 13",
       "Core Procedures, 2020, cap. 3"
@@ -633,11 +563,6 @@
     ],
     "clinical_hook": "Correção: reposicionamento gordura, preenchimento hialurônico ou lipoenxertia. Reposicionamento é técnica atual (evita hollowing tardio de ressecção). Teste: inserção digital no sulco — abertura indica benefício.",
     "how_to_identify": "Depressão visível canto medial ao rebordo infraorbitário; pronuncia-se com olhar para cima. Teste digital: inserir dedo lateralmente — abertura indica herniação.",
-    "images": [
-      {
-        "ref": "img-tear-trough-001"
-      }
-    ],
     "citations": [
       "Neligan, 2023, vol. 2, cap. 14",
       "Grabb & Smith, 2024, cap. 51"
@@ -671,11 +596,6 @@
     ],
     "clinical_hook": "Liberação necessária para midfacelift e reposicionamento gordura transconjuntival amplo. Preservação em blefaroplastias conservadoras mantém junção pálpebra-bochecha.",
     "how_to_identify": "Banda fibrosa palpável ao rebordo inferior; resistência ao tentar avançar tecidos inferiormente.",
-    "images": [
-      {
-        "ref": "img-orbicular-retaining-ligament-001"
-      }
-    ],
     "citations": [
       "Neligan, 2023, vol. 2, cap. 14"
     ],
@@ -714,11 +634,6 @@
     ],
     "clinical_hook": "Double eyelid surgery = cirurgia estética mais realizada mundialmente. Método sutura: reversível, 15–30% recorrência. Método incisional: permanente, permite ressecção gordura. Altura prega: 6–8 mm (vs. 8–10 mm caucasianos).",
     "how_to_identify": "Ausência de prega pálpebral superior (single eyelid); fullness pré-tarsal; epicanto em graus variáveis.",
-    "images": [
-      {
-        "ref": "img-asian-eyelid-001"
-      }
-    ],
     "citations": [
       "Neligan, 2023, vol. 2, cap. 13",
       "Grabb & Smith, 2024, cap. 51"
@@ -760,11 +675,6 @@
     ],
     "clinical_hook": "Rebordo = referência para todas as medidas em blefaroplastia. Vetor orbitário (relação córnea-rebordo) determina risco de complicações. Forames = marcos para bloqueios e dissecção.",
     "how_to_identify": "Rebordo palpável em toda circunferência; forame supraórbital na junção 1/3 medial-2/3 laterais; forame infraórbital ~7 mm abaixo.",
-    "images": [
-      {
-        "ref": "img-ossos-orbita-001"
-      }
-    ],
     "citations": [
       "Neligan, 2023, vol. 2, cap. 13"
     ],
@@ -798,11 +708,6 @@
     ],
     "clinical_hook": "Excisão/redução melhora definição prega lateral e reduz fullness rebordo. Preservação preferida em pacientes com hollowing. Não confundir com gordura pré-aponeurótica (posterior ao septo).",
     "how_to_identify": "Entre orbicular e periósteo sobrancelha lateral. NÃO acessível via abertura septo — acima e superficialmente ao septo órbital.",
-    "images": [
-      {
-        "ref": "img-roof-001"
-      }
-    ],
     "citations": [
       "Neligan, 2023, vol. 2, cap. 13",
       "Grabb & Smith, 2024, cap. 51"
@@ -845,11 +750,6 @@
     ],
     "clinical_hook": "Entendimento/restauração é chave para cantopexia efetiva. Liberação adequada tarsal strap permite re-suspensão sem tensão, minimiza força tração inferior.",
     "how_to_identify": "Conjunto estruturas fibrosas canto lateral convergindo ao tubérculo. Tarsal strap = banda fibrosa ~4–5 mm rebordo, distinta/inferior ao tendão cantal.",
-    "images": [
-      {
-        "ref": "img-lateral-retinaculum-001"
-      }
-    ],
     "citations": [
       "Neligan, 2023, vol. 2, cap. 13"
     ],
