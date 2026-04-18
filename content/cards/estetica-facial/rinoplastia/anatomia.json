@@ -69,12 +69,16 @@
       },
       {
         "label": "Septo nasal (porção óssea)",
-        "description": "Divide internamente a cavidade nasal; articula-se com os ossos nasais cranialmente."
+        "description": "Divide internamente a cavidade nasal; articula-se com os ossos nasais craniais."
       }
     ],
     "clinical_hook": "Zona de espessura diminuída do processo frontal permite osteotomias consistentes e padrões de fratura previsíveis. Ossos mais espessos na raiz; raspa cranial menos eficaz.",
     "how_to_identify": "Palpação da estrutura rígida do terço superior; ossos nasais firmes na linha média, processo frontal da maxila lateralmente. Transição para cartilagem identificável por mobilidade e flexibilidade.",
-    "images": [],
+    "images": [
+      {
+        "ref": "img-bony-pyramid-001"
+      }
+    ],
     "citations": [
       "Neligan, 2023, vol. 2, cap. 18",
       "Grabb & Smith, 2024, cap. 55"
@@ -121,7 +125,11 @@
     ],
     "clinical_hook": "Ressecção excessiva ou precariedade das CLS (cartilagens laterais superiores) causa colapso valvar e deformidade em V invertido. Spreader grafts reconstituem I-beam. Preservação durante redução dorsal é fundamental.",
     "how_to_identify": "Porção triangular flexível do terço médio, entre a rigidez do osso nasal acima e a mobilidade das CLA (cartilagens laterais inferiores) abaixo. Palpação sobre o dorso identifica a transição do keystone.",
-    "images": [],
+    "images": [
+      {
+        "ref": "img-upper-lateral-cartilages-001"
+      }
+    ],
     "citations": [
       "Neligan, 2023, vol. 2, cap. 18"
     ],
@@ -163,7 +171,11 @@
     ],
     "clinical_hook": "Preservação do keystone é o princípio central da rinoplastia de preservação dorsal. Evita deformidade em teto aberto e elimina necessidade de osteotomias tradicionais.",
     "how_to_identify": "Palpação do ponto mais largo do dorso, onde a rigidez óssea transiciona para a flexibilidade cartilaginosa. Na via aberta, é visualizada como a zona de sobreposição onde os ossos nasais cobrem as CLS (cartilagens laterais superiores).",
-    "images": [],
+    "images": [
+      {
+        "ref": "img-nasal-cartilaginous-framework-001"
+      }
+    ],
     "citations": [
       "Neligan, 2023, vol. 2, caps. 18–19"
     ],
@@ -256,7 +268,11 @@
     ],
     "clinical_hook": "Cicatriz pós-rinoplastia na scroll area causa estreitamento ou colapso da valva interna. Integridade do scroll é crítica para suporte estrutural.",
     "how_to_identify": "Na via aberta, visualização direta da zona onde a cartilagem lateral superior se sobrepõe à borda cefálica da crura lateral.",
-    "images": [],
+    "images": [
+      {
+        "ref": "img-internal-valve-001"
+      }
+    ],
     "citations": [
       "Neligan, 2023, vol. 2, cap. 18"
     ],
@@ -357,7 +373,11 @@
     ],
     "clinical_hook": "Ruptura do ligamento inter-alar causa alargamento e distorção da ponta — motivo para suturas interdomais rotineiras após rinoplastia aberta.",
     "how_to_identify": "Na via aberta, após elevação do envelope de partes moles, os ligamentos são visualizados como faixas fibrosas conectando os domos e as cartilagens.",
-    "images": [],
+    "images": [
+      {
+        "ref": "img-nasal-cartilaginous-framework-001"
+      }
+    ],
     "citations": [
       "Neligan, 2023, vol. 2, cap. 18"
     ],
@@ -496,7 +516,11 @@
     ],
     "clinical_hook": "Lesão do nasalis desestabiliza CLS (cartilagens laterais superiores) e compromete fluxo aéreo. Paralisia do nervo facial causa colapso valvar por perda do levator alae. Depressor septi tipos 1–2 requer liberação se houver descida dinâmica.",
     "how_to_identify": "Nasalis: contração visível na ponte nasal durante inspiração forçada. Depressor septi: descida da ponta ao sorrir.",
-    "images": [],
+    "images": [
+      {
+        "ref": "img-nasal-muscles-001"
+      }
+    ],
     "citations": [
       "Neligan, 2023, vol. 2, caps. 18 e 21"
     ],
@@ -543,7 +567,11 @@
     ],
     "clinical_hook": "Vasos cornetos posteriores têm maior calibre — ressecção posterior arriscada para sangramento. Ciclo nasal (Minz) de 30 min–5 h mantém resistência total constante. Hipertrofia inferior típica é contralateral a desvio septal.",
     "how_to_identify": "Inspeção via rinoscopia anterior com espéculo nasal: estruturas rosadas curvas na parede lateral. Corneto inferior é o maior e mais visível; corneto médio logo acima.",
-    "images": [],
+    "images": [
+      {
+        "ref": "img-nasal-turbinates-001"
+      }
+    ],
     "citations": [
       "Neligan, 2023, vol. 2, caps. 18 e 21",
       "Grabb & Smith, 2024, cap. 54"
@@ -644,7 +672,11 @@
     ],
     "clinical_hook": "Colapso externo ocorre por CLA (cartilagens laterais inferiores) fraca/fina, malposição cefálica ou paralisia facial (até 20% ↑ resistência). Lateral crural strut e alar batten grafts restauram competência.",
     "how_to_identify": "Inspeção durante inspiração profunda: colapso visível da asa nasal indica incompetência da valva externa. Inserção de espátula no vestíbulo e tração lateral melhora o fluxo.",
-    "images": [],
+    "images": [
+      {
+        "ref": "img-alar-cartilages-001"
+      }
+    ],
     "citations": [
       "Neligan, 2023, vol. 2, cap. 21",
       "Grabb & Smith, 2024, cap. 54"
@@ -690,7 +722,11 @@
     ],
     "clinical_hook": "Via aberta causa leve perda de projeção por ruptura ligamentar e descolamento extenso — necessário columellar strut e suturas. Sutura antes da ressecção.",
     "how_to_identify": "Projeção da ponta testada com pressão digital: quanto a ponta resiste à retroprojeção indica a integridade dos mecanismos de suporte.",
-    "images": [],
+    "images": [
+      {
+        "ref": "img-nasal-cartilaginous-framework-001"
+      }
+    ],
     "citations": [
       "Neligan, 2023, vol. 2, cap. 18",
       "Grabb & Smith, 2024, cap. 55"

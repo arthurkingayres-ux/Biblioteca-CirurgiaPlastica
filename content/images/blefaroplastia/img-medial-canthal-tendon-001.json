@@ -1,0 +1,18 @@
+{
+  "id": "img-medial-canthal-tendon-001",
+  "file": "blefaroplastia/blef-13-5-tendao-cantal-medial.png",
+  "subject": "tendão cantal medial — estrutura tripartida (porções anterior, superior e posterior) e relação com saco lacrimal",
+  "role": "detail",
+  "source": "Neligan 2023, vol. 2, cap. 13 — Blepharoplasty",
+  "credit": "Adaptado de Neligan 2023, vol. 2, cap. 13",
+  "default_caption": "Tendão cantal medial em vista frontal mostrando as três porções (anterior: menos robusta; superior e posterior: mais fortes) que envolvem o saco lacrimal.",
+  "labels": [
+    { "num": 1, "text": "Posterior limb, medial canthal tendon — porção mais forte; insere-se crista lacrimal posterior." },
+    { "num": 2, "text": "Superior limb, medial canthal tendon — ramo superior; contribui à suspensão." },
+    { "num": 3, "text": "Anterior limb, medial canthal tendon — menos robusta; insere-se crista lacrimal anterior." },
+    { "num": 4, "text": "Lacrimal fossa — aloja o saco lacrimal; protegido pelas porções posteriores." },
+    { "num": 5, "text": "Anterior and posterior lacrimal crests — inserção óssea das porções anterior e posterior." }
+  ],
+  "applicable_topics": ["blefaroplastia"],
+  "status": "available"
+}

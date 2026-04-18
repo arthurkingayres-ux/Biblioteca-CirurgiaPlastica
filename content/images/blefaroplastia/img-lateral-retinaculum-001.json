@@ -1,0 +1,18 @@
+{
+  "id": "img-lateral-retinaculum-001",
+  "file": "blefaroplastia/blef-13-35-canto-lateral-envelhecimento.png",
+  "subject": "retináculo lateral — envelhecimento e laxidez cantal lateral",
+  "role": "detail",
+  "source": "Neligan 2023, vol. 2, cap. 13 — Blepharoplasty",
+  "credit": "Adaptado de Neligan 2023, vol. 2, cap. 13",
+  "default_caption": "Comparação canto lateral jovem versus envelhecido mostrando perda da suspensão do retináculo lateral e descenso da pálpebra inferior.",
+  "labels": [
+    { "num": 1, "text": "Canto lateral jovem — posicionamento normal; tarsal strap e tendão cantal robusto." },
+    { "num": 2, "text": "Canto lateral envelhecido — laxidez do retináculo; descenso lateral da pálpebra inferior." },
+    { "num": 3, "text": "Tendão cantal lateral — inserção tubérculo de Whitnall; perde tensão com envelhecimento." },
+    { "num": 4, "text": "Tarsal strap — suspensório tarsal; frouxe com perda de sustentação." },
+    { "num": 5, "text": "Ligamento de Lockwood — componente de suspensão inferior; degeneração é gatilho para ectrópio." }
+  ],
+  "applicable_topics": ["blefaroplastia"],
+  "status": "available"
+}

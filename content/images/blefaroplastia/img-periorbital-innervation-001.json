@@ -1,0 +1,19 @@
+{
+  "id": "img-periorbital-innervation-001",
+  "file": "blefaroplastia/fig13-15-nervos-sensoriais.jpeg",
+  "subject": "inervação sensitiva periórbital — ramos trigêmeo (V1, V2) e motora (nervo facial VII)",
+  "role": "detail",
+  "source": "Neligan 2023, vol. 2, cap. 13 — Blepharoplasty",
+  "credit": "Adaptado de Neligan 2023, vol. 2, cap. 13",
+  "default_caption": "Distribuição de nervos sensitivos periórbital em vista frontal: V1 (supraórbital, supratroclear, lacrimal) superior; V2 (infraórbital) inferior; nervos motores (facial) não mostrados.",
+  "labels": [
+    { "num": 1, "text": "Lacrimal nerve — ramo V1; inervação lateral superior e sobrancelha." },
+    { "num": 2, "text": "Supraorbital nerve — ramo V1; sai forame supraórbital; inervação superior medial." },
+    { "num": 3, "text": "Supratrochlear nerve — ramo V1; inervação medial sobrancelha e pálpebra superior." },
+    { "num": 4, "text": "Infratrochlear nerve — ramo V1; inervação medial pálpebra inferior e dorso nasal." },
+    { "num": 5, "text": "Zygomaticofacial nerve — ramo V2; inervação lateral sobrancelha e zigoma." },
+    { "num": 6, "text": "Infraorbital nerve — ramo V2; sai forame infraórbital; inervação pálpebra inferior e bochecha." }
+  ],
+  "applicable_topics": ["blefaroplastia"],
+  "status": "available"
+}

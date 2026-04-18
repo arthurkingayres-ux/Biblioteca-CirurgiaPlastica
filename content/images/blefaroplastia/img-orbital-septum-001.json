@@ -1,0 +1,19 @@
+{
+  "id": "img-orbital-septum-001",
+  "file": "blefaroplastia/fig13-11-septo-orbital.jpeg",
+  "subject": "seção transversal — septo órbital e estruturas adjacentes (orbicular, Müller, aponeurose do levantador, tarso)",
+  "role": "detail",
+  "source": "Neligan 2023, vol. 2, cap. 13 — Blepharoplasty",
+  "credit": "Adaptado de Neligan 2023, vol. 2, cap. 13",
+  "default_caption": "Seção transversal mostrando o septo órbital como barreira entre pré-septal e intraorbitário, sua fusão com a aponeurose do levantador e relação com Müller e tarso.",
+  "labels": [
+    { "num": 1, "text": "Orbicularis oculi — músculo ao redor, pré-septal e pré-tarsal." },
+    { "num": 2, "text": "Septo órbital — membrana fibrosa que define a barreira pré-septal versus intraorbitária." },
+    { "num": 3, "text": "Müller's muscle — inervação simpática; profundo à aponeurose." },
+    { "num": 4, "text": "Levator aponeurosis — transição de músculo para aponeurose; fusão septo-aponeurose." },
+    { "num": 5, "text": "Septal extension — extensão anterior do septo ao redor do globo." },
+    { "num": 6, "text": "Tarso — estrutura fibrosa densa; define margem inferior da pálpebra." }
+  ],
+  "applicable_topics": ["blefaroplastia"],
+  "status": "available"
+}

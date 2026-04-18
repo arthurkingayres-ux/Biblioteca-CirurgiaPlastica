@@ -1,0 +1,18 @@
+{
+  "id": "img-nasal-turbinates-001",
+  "file": "rinoplastia/fig18-35-cornetos-nasais.jpeg",
+  "subject": "cornetos (turbinatos) nasais — corte sagital com corneto inferior, médio e superior em código de cores",
+  "role": "detail",
+  "source": "Neligan 2023, vol. 2, cap. 18 — Rhinoplasty",
+  "credit": "Adaptado de Neligan 2023, vol. 2, cap. 18",
+  "default_caption": "Corte sagital da cavidade nasal com os três cornetos em código de cores: corneto superior (verde), corneto médio (roxo) e corneto inferior (rosa) — o maior, responsável por até 2/3 da resistência aérea total.",
+  "labels": [
+    {"num": 1, "text": "Corneto superior — menor dos três; marcado em verde; contribuição mínima à resistência aérea; raramente tratado cirurgicamente."},
+    {"num": 2, "text": "Corneto médio — marcado em roxo; posição intermediária; marca o limite de drenagem dos seios paranasais."},
+    {"num": 3, "text": "Corneto inferior — maior e mais anterior; marcado em rosa; responde por até 2/3 da resistência aérea total; alvo frequente em cirurgia de obstrução."},
+    {"num": 4, "text": "Septo nasal — parede medial da cavidade; desvio causa hipertrofia compensatória contralateral do corneto inferior."},
+    {"num": 5, "text": "Meato nasal inferior — espaço entre corneto inferior e assoalho nasal; drenagem do ducto nasolacrimal."}
+  ],
+  "applicable_topics": ["rinoplastia"],
+  "status": "available"
+}

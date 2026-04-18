@@ -1,0 +1,18 @@
+{
+  "id": "img-whitnall-ligament-001",
+  "file": "blefaroplastia/fig13-2-secao-horizontal-orbita.jpeg",
+  "subject": "seção horizontal da órbita — estruturas musculares e ligamento de Whitnall",
+  "role": "overview",
+  "source": "Neligan 2023, vol. 2, cap. 13 — Blepharoplasty",
+  "credit": "Adaptado de Neligan 2023, vol. 2, cap. 13",
+  "default_caption": "Seção horizontal no nível do ligamento de Whitnall mostrando o globo, músculos retos e oblíquos, e condensações fasciais.",
+  "labels": [
+    { "num": 1, "text": "Globo ocular — esfera central em corte." },
+    { "num": 2, "text": "Ligamento de Whitnall — condensação transversal superior; fulcro do levantador." },
+    { "num": 3, "text": "Músculos retos — quatro componentes periféricos (medial, lateral, superior, inferior)." },
+    { "num": 4, "text": "Gordura orbitária — circunda estruturas neurovasculares." },
+    { "num": 5, "text": "Osso orbital — rebordo ósseo periférico que delimita a cavidade." }
+  ],
+  "applicable_topics": ["blefaroplastia"],
+  "status": "available"
+}
