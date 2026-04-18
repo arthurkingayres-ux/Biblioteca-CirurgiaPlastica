@@ -104,7 +104,7 @@ function discoverRAGDocs() {
     const areaPath = path.join(RAG_DIR, area);
     if (!fs.statSync(areaPath).isDirectory()) continue;
     for (const file of fs.readdirSync(areaPath)) {
-      if (file.startsWith('_') || !file.endsWith('.md')) continue;
+      if (!file.endsWith('.md')) continue;
       docs.push({ area, topic: file.replace('.md', ''), path: path.join(areaPath, file) });
     }
   }
