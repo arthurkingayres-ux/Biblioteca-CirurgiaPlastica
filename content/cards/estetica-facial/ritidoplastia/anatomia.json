@@ -12,14 +12,25 @@
     "area": "estetica-facial",
     "one_liner": "SMAS (Sistema Musculoaponeurótico Superficial): camada fibromuscular contínua entre platisma cervical e orbicular do olho — veículo da tração no facelift moderno.",
     "structures": [
-      { "label": "Camada SMAS", "description": "Fibromuscular contínua entre gordura subcutânea e fáscia parotidomasseteria; cobre a região lateral da face." },
-      { "label": "Continuações", "description": "Caudal: platisma; cranial: fáscia temporoparietal e orbicular do olho; anterior: músculo zigomático menor." },
-      { "label": "Fáscia parotidomasseteria", "description": "Plano profundo ao SMAS (Sistema Musculoaponeurótico Superficial); contém os ramos do nervo facial em sua face inferior." },
-      { "label": "Zona de adesão massetérica", "description": "Sobre o masseter o SMAS (Sistema Musculoaponeurótico Superficial) é fino e aponeurótico; área de segurança com risco neural mínimo." }
+      {
+        "label": "Camada SMAS",
+        "description": "Fibromuscular contínua entre gordura subcutânea e fáscia parotidomasseteria; cobre a região lateral da face."
+      },
+      {
+        "label": "Continuações",
+        "description": "Caudal: platisma; cranial: fáscia temporoparietal e orbicular do olho; anterior: músculo zigomático menor."
+      },
+      {
+        "label": "Fáscia parotidomasseteria",
+        "description": "Plano profundo ao SMAS (Sistema Musculoaponeurótico Superficial); contém os ramos do nervo facial em sua face inferior."
+      },
+      {
+        "label": "Zona de adesão massetérica",
+        "description": "Sobre o masseter o SMAS (Sistema Musculoaponeurótico Superficial) é fino e aponeurótico; área de segurança com risco neural mínimo."
+      }
     ],
     "clinical_hook": "Suspensão do SMAS (Sistema Musculoaponeurótico Superficial) em vetor posterior-superior dá resultados mais naturais e duradouros que a tração cutânea isolada. Deep plane, plication, imbrication e U-SMAS variam apenas na forma de manipular a mesma camada.",
     "how_to_identify": "Camada fibromuscular esbranquiçada logo abaixo da gordura subcutânea após elevação do retalho cutâneo; fino e aponeurótico sobre o masseter, mais espesso e muscular sobre a parótida.",
-    "images": [{ "ref": "img-smas-layers-001" }],
     "citations": [
       "Neligan, 2023, vol. 2, cap. 11",
       "Grabb & Smith, 2020, cap. 32"
@@ -46,15 +57,29 @@
     "area": "estetica-facial",
     "one_liner": "Condensações fibrosas osso-derme (zigomático, massetérico e mandibular) — sua liberação é o passo que permite a mobilização completa do retalho no deep plane.",
     "structures": [
-      { "label": "Ligamento zigomático-cutâneo (McGregor)", "description": "Do arco zigomático à pele malar; sua liberação corrige ptose malar e sulco nasojugal." },
-      { "label": "Ligamento massetérico-cutâneo", "description": "Do masseter à pele do jowl; liberação define a linha mandibular." },
-      { "label": "Ligamento mandibular", "description": "Da borda mandibular ao sulco labiomandibular; liberação corrige o marionete." },
-      { "label": "Ligamento orbicular-retentor (ORL)", "description": "Ancora o orbicular inferior ao rebordo orbitário; participa do sulco palpebromalar." },
-      { "label": "Relação com SMAS", "description": "Os ligamentos perfuram o SMAS (Sistema Musculoaponeurótico Superficial) em direção à derme." }
+      {
+        "label": "Ligamento zigomático-cutâneo (McGregor)",
+        "description": "Do arco zigomático à pele malar; sua liberação corrige ptose malar e sulco nasojugal."
+      },
+      {
+        "label": "Ligamento massetérico-cutâneo",
+        "description": "Do masseter à pele do jowl; liberação define a linha mandibular."
+      },
+      {
+        "label": "Ligamento mandibular",
+        "description": "Da borda mandibular ao sulco labiomandibular; liberação corrige o marionete."
+      },
+      {
+        "label": "Ligamento orbicular-retentor (ORL)",
+        "description": "Ancora o orbicular inferior ao rebordo orbitário; participa do sulco palpebromalar."
+      },
+      {
+        "label": "Relação com SMAS",
+        "description": "Os ligamentos perfuram o SMAS (Sistema Musculoaponeurótico Superficial) em direção à derme."
+      }
     ],
     "clinical_hook": "Na técnica deep plane, a divisão dos ligamentos é o passo que transforma um retalho tracionado em um retalho verdadeiramente mobilizado (composto SMAS (Sistema Musculoaponeurótico Superficial)-gordura malar).",
     "how_to_identify": "Traves fibrosas firmes que resistem à elevação do retalho; sensação de cordas sob a tesoura; zigomático-cutâneo sobre o arco, massetérico na borda anterior do masseter.",
-    "images": [{ "ref": "img-retaining-ligaments-001" }],
     "citations": [
       "Neligan, 2023, vol. 2, cap. 11",
       "Grabb & Smith, 2020, cap. 32"
@@ -83,15 +108,29 @@
     "area": "estetica-facial",
     "one_liner": "Três ramos do VII (temporal, zigomático e marginal mandibular) concentram o risco de lesão no facelift; paralisia permanente em <1% quando plano cirúrgico é respeitado.",
     "structures": [
-      { "label": "Ramo temporal (frontal / Pitanguy)", "description": "Cruza o arco zigomático superficialmente, na fáscia temporoparietal." },
-      { "label": "Ramo zigomático", "description": "Região pré-zigomática profunda, vizinho aos ligamentos de retenção; inerva o orbicular do olho." },
-      { "label": "Ramo marginal mandibular", "description": "1-2 cm abaixo da borda inferior da mandíbula, profundo ao platisma; próximo à artéria facial." },
-      { "label": "Ramo cervical", "description": "Inerva o platisma; lesão pode mimetizar paralisia do marginal (pseudo-marginal)." },
-      { "label": "Plano do SMAS", "description": "Ramos tipicamente profundos ao SMAS (Sistema Musculoaponeurótico Superficial) — dissecção supra-SMAS protege o nervo." }
+      {
+        "label": "Ramo temporal (frontal / Pitanguy)",
+        "description": "Cruza o arco zigomático superficialmente, na fáscia temporoparietal."
+      },
+      {
+        "label": "Ramo zigomático",
+        "description": "Região pré-zigomática profunda, vizinho aos ligamentos de retenção; inerva o orbicular do olho."
+      },
+      {
+        "label": "Ramo marginal mandibular",
+        "description": "1-2 cm abaixo da borda inferior da mandíbula, profundo ao platisma; próximo à artéria facial."
+      },
+      {
+        "label": "Ramo cervical",
+        "description": "Inerva o platisma; lesão pode mimetizar paralisia do marginal (pseudo-marginal)."
+      },
+      {
+        "label": "Plano do SMAS",
+        "description": "Ramos tipicamente profundos ao SMAS (Sistema Musculoaponeurótico Superficial) — dissecção supra-SMAS protege o nervo."
+      }
     ],
     "clinical_hook": "Ramo temporal: dissecção profunda ao SMAS (Sistema Musculoaponeurótico Superficial) na região temporal. Zigomático: identificação antes de dividir os ligamentos. Marginal: dissecção superficial na borda mandibular e cautela na lipoaspiração cervical — lesão gera assimetria do sorriso por paralisia do depressor do lábio inferior.",
     "how_to_identify": "Estruturas finas (1-2 mm) brancas e brilhantes; ramo temporal na fáscia temporoparietal acima do arco; marginal 1-2 cm abaixo da borda da mandíbula; estimulador nervoso auxilia em cirurgia de revisão.",
-    "images": [{ "ref": "img-facial-nerve-branches-001" }],
     "citations": [
       "Neligan, 2023, vol. 2, cap. 11",
       "Grabb & Smith, 2020, cap. 32"
@@ -119,15 +158,29 @@
     "area": "estetica-facial",
     "one_liner": "Platisma: continuação cervical do SMAS (Sistema Musculoaponeurótico Superficial); sua ptose e diástase medial formam as bandas platismais que definem o pescoço envelhecido.",
     "structures": [
-      { "label": "Trajeto", "description": "Fáscia peitoral e deltoide inferiormente à borda mandibular e à comissura labial superiormente; músculo fino e largo." },
-      { "label": "Bordas mediais", "description": "Encontram-se na linha média em jovens; separam-se com envelhecimento criando diástase." },
-      { "label": "Gordura subcutânea", "description": "Plano superficial ao platisma; acessível sem abrir o músculo." },
-      { "label": "Gordura subplatismal", "description": "Profunda ao músculo; só acessível após abertura do platisma." },
-      { "label": "Glândula submandibular", "description": "Profunda ao platisma; ptose contribui para perda do ângulo cervicomental." }
+      {
+        "label": "Trajeto",
+        "description": "Fáscia peitoral e deltoide inferiormente à borda mandibular e à comissura labial superiormente; músculo fino e largo."
+      },
+      {
+        "label": "Bordas mediais",
+        "description": "Encontram-se na linha média em jovens; separam-se com envelhecimento criando diástase."
+      },
+      {
+        "label": "Gordura subcutânea",
+        "description": "Plano superficial ao platisma; acessível sem abrir o músculo."
+      },
+      {
+        "label": "Gordura subplatismal",
+        "description": "Profunda ao músculo; só acessível após abertura do platisma."
+      },
+      {
+        "label": "Glândula submandibular",
+        "description": "Profunda ao platisma; ptose contribui para perda do ângulo cervicomental."
+      }
     ],
     "clinical_hook": "Opções de manejo escalonam por gravidade: plicatura medial para diástase leve, transecção completa para melhora significativa do ângulo cervicomental, suspensão contínua como extensão do deep plane em casos avançados.",
     "how_to_identify": "Músculo fino, largo e rosa-pálido logo abaixo da gordura subcutânea cervical; bandas visíveis clinicamente como cordões verticais na contração; intraoperatoriamente aparece após elevação do retalho.",
-    "images": [{ "ref": "img-platysma-anatomy-001" }],
     "citations": [
       "Neligan, 2023, vol. 2, cap. 11",
       "Grabb & Smith, 2020, cap. 32"

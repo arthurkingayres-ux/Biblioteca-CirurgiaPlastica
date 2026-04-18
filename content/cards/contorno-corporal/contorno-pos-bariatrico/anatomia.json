@@ -8,22 +8,41 @@
     "area": "contorno-corporal",
     "one_liner": "Estrutura musculoaponeurótica com diástase severa dos retos, pele de qualidade comprometida e rede vascular superficial ampliada após perda maciça de peso.",
     "structures": [
-      { "label": "Retos abdominais", "description": "Afastados da linha alba; diástase frequentemente > 2 cm." },
-      { "label": "Oblíquos e transverso", "description": "Aponeurose lateral; fecham a bainha do reto." },
-      { "label": "Fáscia de Scarpa", "description": "Membranosa; substrato linfático subdérmico." },
-      { "label": "Perfurantes epigástricas inferiores", "description": "Plano supraneural; preservar na dissecção." },
-      { "label": "Umbigo", "description": "Reimplantado em neo-óstio pós-dermolipectomia." },
-      { "label": "Circunflexa ilíaca superficial", "description": "Ramo superficial; ligar rotineiramente na dissecção inguinal." },
-      { "label": "Pudenda externa", "description": "Ramo superficial; ligar no acesso inguinal." },
-      { "label": "Artérias do monte púbico", "description": "Ramos terminais; hemostasia cuidadosa." }
+      {
+        "label": "Retos abdominais",
+        "description": "Afastados da linha alba; diástase frequentemente > 2 cm."
+      },
+      {
+        "label": "Oblíquos e transverso",
+        "description": "Aponeurose lateral; fecham a bainha do reto."
+      },
+      {
+        "label": "Fáscia de Scarpa",
+        "description": "Membranosa; substrato linfático subdérmico."
+      },
+      {
+        "label": "Perfurantes epigástricas inferiores",
+        "description": "Plano supraneural; preservar na dissecção."
+      },
+      {
+        "label": "Umbigo",
+        "description": "Reimplantado em neo-óstio pós-dermolipectomia."
+      },
+      {
+        "label": "Circunflexa ilíaca superficial",
+        "description": "Ramo superficial; ligar rotineiramente na dissecção inguinal."
+      },
+      {
+        "label": "Pudenda externa",
+        "description": "Ramo superficial; ligar no acesso inguinal."
+      },
+      {
+        "label": "Artérias do monte púbico",
+        "description": "Ramos terminais; hemostasia cuidadosa."
+      }
     ],
     "clinical_hook": "Plicatura em duplo plano com sutura absorvível 2-0 e dissecção supramuscular até arco costal evitando lesão dos nervos intercostais. Ligar rotineiramente circunflexa ilíaca superficial, pudenda externa e artérias do monte púbico evita hematoma pós-operatório.",
     "how_to_identify": "Diástase palpável em supino com flexão cervical; landmarks: EIAS (espinha ilíaca anterossuperior) bilaterais, sínfise púbica, arco costal, umbigo. Ramos vasculares superficiais identificados intraoperatoriamente na dissecção supramuscular em direção à sínfise púbica.",
-    "images": [
-      { "ref": "img-trunk-adherence-zones-001" },
-      { "ref": "img-scarpa-fat-compartment-001" },
-      { "ref": "img-rectus-diastasis-001" }
-    ],
     "citations": [
       "Nahas, Neligan 2023, vol. 2",
       "Lockwood et al., PRS, 1994"
@@ -46,16 +65,25 @@
     "area": "contorno-corporal",
     "one_liner": "Eminência adipocutânea sobre a sínfise púbica; ptose importante é frequente no pós-bariátrico e exige ancoragem da fáscia de Scarpa.",
     "structures": [
-      { "label": "Monte púbico", "description": "Eminência adipocutânea suprapúbica." },
-      { "label": "Inervação", "description": "Ramos sensitivos de T12 e L1." },
-      { "label": "Fáscia de Scarpa suprapúbica", "description": "Ancorada ao periósteo da sínfise para corrigir ptose." },
-      { "label": "Ligamento de Cooper", "description": "Ancoragem retropúbica para sutura suspensora; reservado para ptose grave refratária." }
+      {
+        "label": "Monte púbico",
+        "description": "Eminência adipocutânea suprapúbica."
+      },
+      {
+        "label": "Inervação",
+        "description": "Ramos sensitivos de T12 e L1."
+      },
+      {
+        "label": "Fáscia de Scarpa suprapúbica",
+        "description": "Ancorada ao periósteo da sínfise para corrigir ptose."
+      },
+      {
+        "label": "Ligamento de Cooper",
+        "description": "Ancoragem retropúbica para sutura suspensora; reservado para ptose grave refratária."
+      }
     ],
     "clinical_hook": "Ressecção conservadora com plicatura de Scarpa ancorada à sínfise corrige ptose; evitar plicatura excessiva que cause dispareunia ou disúria. Suspensão ao Cooper é reservada para ptose grave refratária.",
     "how_to_identify": "Inspeção em ortostase; grau de ptose medido em relação à sínfise púbica; palpação da sínfise pubiana durante o planejamento da suspensão.",
-    "images": [
-      { "ref": "img-pubic-mound-001" }
-    ],
     "citations": [
       "Lockwood et al., PRS, 1994",
       "Aly et al., PRS, 2003"
@@ -80,17 +108,29 @@
     "area": "contorno-corporal",
     "one_liner": "Face medial da coxa com fáscia adutora e rede linfática inguinal; plano supramuscular preserva drenagem e reduz incidência de linfedema.",
     "structures": [
-      { "label": "Fáscia do adutor", "description": "Limite profundo da dissecção supramuscular." },
-      { "label": "Linfáticos inguinais superficiais", "description": "Drenam para linfonodos inguinais; risco de linfedema 5–15%." },
-      { "label": "Ligamento de Scarpa", "description": "Ancoragem da ponta superior do retalho." },
-      { "label": "Periósteo da sínfise púbica", "description": "Ponto de fixação para evitar recorrência da ptose." },
-      { "label": "Linhas de Langer", "description": "Orientação da incisão vertical." }
+      {
+        "label": "Fáscia do adutor",
+        "description": "Limite profundo da dissecção supramuscular."
+      },
+      {
+        "label": "Linfáticos inguinais superficiais",
+        "description": "Drenam para linfonodos inguinais; risco de linfedema 5–15%."
+      },
+      {
+        "label": "Ligamento de Scarpa",
+        "description": "Ancoragem da ponta superior do retalho."
+      },
+      {
+        "label": "Periósteo da sínfise púbica",
+        "description": "Ponto de fixação para evitar recorrência da ptose."
+      },
+      {
+        "label": "Linhas de Langer",
+        "description": "Orientação da incisão vertical."
+      }
     ],
     "clinical_hook": "Dissecção supramuscular até a fáscia do adutor preserva linfáticos; fixar retalho ao periósteo/Cooper evita recidiva da ptose. Evitar dissecção lateral além da linha média reduz incidência de linfedema pós-cruroplastia.",
     "how_to_identify": "Prega cutânea redundante em ortostase; palpação da fossa inguinal e do trocânter maior; palpação dos linfonodos inguinais pré-operatoriamente como parâmetro baseline.",
-    "images": [
-      { "ref": "img-medial-thigh-001" }
-    ],
     "citations": [
       "Aly et al., PRS, 2003",
       "Lockwood et al., PRS, 1994"
@@ -114,17 +154,29 @@
     "area": "contorno-corporal",
     "one_liner": "Face medial do braço com fáscia muscular sobre bíceps e tríceps; plano supramuscular protege o nervo cutâneo medial e marcação em abdução 90° evita subressecção.",
     "structures": [
-      { "label": "Fáscia muscular", "description": "Limite profundo; não ultrapassar." },
-      { "label": "Nervo cutâneo medial do antebraço", "description": "Risco de parestesia: transitória 10–30%, permanente 2–5%." },
-      { "label": "Veia basílica", "description": "Referência vascular superficial medial." },
-      { "label": "Bíceps e tríceps", "description": "Delimitam o sulco bicipital medial — referência palpatória para localizar o nervo cutâneo medial." },
-      { "label": "Linha de maior redundância", "description": "Ponto médio entre cotovelo e axila com braço em abdução 90°." }
+      {
+        "label": "Fáscia muscular",
+        "description": "Limite profundo; não ultrapassar."
+      },
+      {
+        "label": "Nervo cutâneo medial do antebraço",
+        "description": "Risco de parestesia: transitória 10–30%, permanente 2–5%."
+      },
+      {
+        "label": "Veia basílica",
+        "description": "Referência vascular superficial medial."
+      },
+      {
+        "label": "Bíceps e tríceps",
+        "description": "Delimitam o sulco bicipital medial — referência palpatória para localizar o nervo cutâneo medial."
+      },
+      {
+        "label": "Linha de maior redundância",
+        "description": "Ponto médio entre cotovelo e axila com braço em abdução 90°."
+      }
     ],
     "clinical_hook": "Dissecção supramuscular obrigatória; marcação com braço em abdução 90°, linha de maior redundância entre cotovelo e axila. Ressecção excessiva na região axilar gera cicatriz hipertrófica visível.",
     "how_to_identify": "Pinch test com braço abduzido; palpação do sulco bicipital medial; paciente sentado com braço em abdução 90°, pinch test ao longo da linha medial.",
-    "images": [
-      { "ref": "img-arm-sagittal-001" }
-    ],
     "citations": [
       "Grabb & Smith, 8ª Ed., 2020",
       "Hasanbegovic & Sorensen, Obes Surg, 2012"
@@ -148,18 +200,33 @@
     "area": "contorno-corporal",
     "one_liner": "Glândula mamária com deflação, ptose severa (Regnault grau 3 a 4), pseudoptose por esvaziamento do polo superior e qualidade cutânea comprometida pós-perda ponderal.",
     "structures": [
-      { "label": "Pedículo superior", "description": "Ramos da artéria torácica interna." },
-      { "label": "Pedículo inferior", "description": "Perfurantes intercostais (2º ao 6º espaços)." },
-      { "label": "IMF (sulco inframamário)", "description": "Referência de medida da ptose." },
-      { "label": "CAP (complexo areolo-papilar)", "description": "Posição relativa ao sulco define o grau Regnault." },
-      { "label": "Polo superior esvaziado", "description": "Deflação glandular com pseudoptose." },
-      { "label": "Estrias cutâneas", "description": "Sinal de laxidão e perda de elasticidade." }
+      {
+        "label": "Pedículo superior",
+        "description": "Ramos da artéria torácica interna."
+      },
+      {
+        "label": "Pedículo inferior",
+        "description": "Perfurantes intercostais (2º ao 6º espaços)."
+      },
+      {
+        "label": "IMF (sulco inframamário)",
+        "description": "Referência de medida da ptose."
+      },
+      {
+        "label": "CAP (complexo areolo-papilar)",
+        "description": "Posição relativa ao sulco define o grau Regnault."
+      },
+      {
+        "label": "Polo superior esvaziado",
+        "description": "Deflação glandular com pseudoptose."
+      },
+      {
+        "label": "Estrias cutâneas",
+        "description": "Sinal de laxidão e perda de elasticidade."
+      }
     ],
     "clinical_hook": "Ptose grau 3 ou 4 com deflação glandular exige mastopexia associada a implante ou autoaumento dermoglandular. A pseudoptose por esvaziamento do polo superior reforça essa indicação para restaurar plenitude.",
     "how_to_identify": "Classificação de Regnault: avaliar relação mamilo-sulco em ortostase; inspeção do polo superior — ausência de projeção mesmo após mastopexia isolada indica pseudoptose.",
-    "images": [
-      { "ref": "img-breast-ptosis-001" }
-    ],
     "citations": [
       "Neligan 2023, vol. 5",
       "Shermak et al., PRS, 2006"
@@ -183,18 +250,33 @@
     "area": "contorno-corporal",
     "one_liner": "Envelhecimento craniofacial acelerado por deflação de compartimentos graxos e flacidez do SMAS (Sistema Musculoaponeurótico Superficial), platisma e submandibulares.",
     "structures": [
-      { "label": "SMAS", "description": "Sistema musculoaponeurótico superficial; alvo do lifting facial." },
-      { "label": "Platisma", "description": "Diástase anterior gera bandas cervicais visíveis." },
-      { "label": "Ligamentos faciais de retenção", "description": "Flacidez acelera ptose jugal e do submento." },
-      { "label": "Compartimentos graxos faciais", "description": "Atrofia cria sulco nasolabial profundo e jowls." },
-      { "label": "Glândulas submandibulares", "description": "Ptose visível; considerar suspensão em lifting cervical." },
-      { "label": "Excesso cervical", "description": "Pele redundante da região cervical anterior e lateral." }
+      {
+        "label": "SMAS",
+        "description": "Sistema musculoaponeurótico superficial; alvo do lifting facial."
+      },
+      {
+        "label": "Platisma",
+        "description": "Diástase anterior gera bandas cervicais visíveis."
+      },
+      {
+        "label": "Ligamentos faciais de retenção",
+        "description": "Flacidez acelera ptose jugal e do submento."
+      },
+      {
+        "label": "Compartimentos graxos faciais",
+        "description": "Atrofia cria sulco nasolabial profundo e jowls."
+      },
+      {
+        "label": "Glândulas submandibulares",
+        "description": "Ptose visível; considerar suspensão em lifting cervical."
+      },
+      {
+        "label": "Excesso cervical",
+        "description": "Pele redundante da região cervical anterior e lateral."
+      }
     ],
     "clinical_hook": "Face parece 10–15 anos mais velha que o corpo; reabilitação combina lifting facial + cervicoplastia + restauração volumétrica. Ptose de glândulas submandibulares e excesso cervical frequentemente exigem suspensão profunda além do lifting cutâneo superficial.",
     "how_to_identify": "Inspeção: ptose jugal, sulco nasogeniano profundo, bandas platismais, ângulo cervicomental obtuso; palpação da borda da glândula submandibular.",
-    "images": [
-      { "ref": "img-face-neck-ptosis-001" }
-    ],
     "citations": [
       "Neligan 2023, vol. 2",
       "Grabb & Smith, 8ª Ed., 2020"
