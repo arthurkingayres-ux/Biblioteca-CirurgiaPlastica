@@ -1,0 +1,774 @@
+{
+  "entries": [
+    {
+      "id": "img-asian-eyelid-001",
+      "file": "blefaroplastia/fig13-10-variacoes-palpebra-superior.jpeg",
+      "subject": "variações anatômicas pálpebra superior — Occidental, Deep set, Baggy, Asian",
+      "role": "overview",
+      "source": "Neligan 2023, vol. 2, cap. 13 — Blepharoplasty",
+      "credit": "Adaptado de Neligan 2023, vol. 2, cap. 13",
+      "default_caption": "Comparação de quatro padrões anatômicos de pálpebra superior: inserção aponeurose em relação ao tarso, distribuição gordura pré-aponeurótica e presença/ausência de prega.",
+      "labels": [
+        {
+          "num": 1,
+          "text": "Occidental — aponeurose insere 3-4 mm acima tarso; prega clara; ausência gordura anterior.",
+          "x": 0.25,
+          "y": 0.35
+        },
+        {
+          "num": 2,
+          "text": "Deep set — inserção aponeurose normal (3-4 mm); orbicular e gordura anteriorizadas criando aparência deprimida; supra-orbital hollowing.",
+          "x": 0.25,
+          "y": 0.55
+        },
+        {
+          "num": 3,
+          "text": "Baggy eyelid — inserção aponeurose normal mas com herniação gordura pré-aponeurótica anteriorizada; prega presente.",
+          "x": 0.25,
+          "y": 0.75
+        },
+        {
+          "num": 4,
+          "text": "Asian eyelid — inserção aponeurose inferior (~1-2 mm acima tarso) ou fusion com septo próximo à margem tarsal; ausência prega; fullness pré-tarsal.",
+          "x": 0.25,
+          "y": 0.95
+        },
+        {
+          "num": 5,
+          "text": "Epicanto (medial) — prega semilunar que cobre canto medial em pálpebras asiáticas; grau variável.",
+          "x": 0.65,
+          "y": 0.5
+        }
+      ],
+      "applicable_topics": [
+        "blefaroplastia"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-capsulopalpebral-fascia-001",
+      "file": "blefaroplastia/blef-13-33-fascia-capsulopalpebral.png",
+      "subject": "fáscia capsulopálpebral e ligamento de Lockwood — retratores da pálpebra inferior",
+      "role": "detail",
+      "source": "Neligan 2023, vol. 2, cap. 13 — Blepharoplasty",
+      "credit": "Adaptado de Neligan 2023, vol. 2, cap. 13",
+      "default_caption": "Fáscia capsulopálpebral (análogo inferior da aponeurose do LPS) e ligamento suspensor de Lockwood — chave do acesso transconjuntival.",
+      "labels": [
+        {
+          "num": 1,
+          "text": "Fáscia capsulopálpebral — origina-se do músculo reto inferior; insere-se na face anterior do tarso inferior.",
+          "x": 0.25,
+          "y": 0.3
+        },
+        {
+          "num": 2,
+          "text": "Ligamento de Lockwood — condensação fascial suspensora do bulbo ocular.",
+          "x": 0.35,
+          "y": 0.5
+        },
+        {
+          "num": 3,
+          "text": "Tarso inferior — 4-5 mm de altura.",
+          "x": 0.55,
+          "y": 0.5
+        },
+        {
+          "num": 4,
+          "text": "Septo orbitário inferior — funde-se com a capsulopálpebral ~5 mm abaixo do tarso.",
+          "x": 0.4,
+          "y": 0.65
+        },
+        {
+          "num": 5,
+          "text": "Acesso transconjuntival — plano pré-septal ou retrosseptal dependendo da técnica.",
+          "x": 0.45,
+          "y": 0.75
+        }
+      ],
+      "applicable_topics": [
+        "blefaroplastia"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-lateral-canthal-tendon-001",
+      "file": "blefaroplastia/blef-13-3-tendao-cantal-lateral.png",
+      "subject": "tendão cantal lateral — inserção no tubérculo de Whitnall; componentes superficial e profundo",
+      "role": "detail",
+      "source": "Neligan 2023, vol. 2, cap. 13 — Blepharoplasty",
+      "credit": "Adaptado de Neligan 2023, vol. 2, cap. 13",
+      "default_caption": "Tendão cantal lateral em vista lateral mostrando inserção no tubérculo de Whitnall (2-3 mm posterior ao rebordo) e relação com ossos orbitários.",
+      "labels": [
+        {
+          "num": 1,
+          "text": "Temporalis zygomatic bone — referência óssea superior e lateral.",
+          "x": 0.15,
+          "y": 0.3
+        },
+        {
+          "num": 2,
+          "text": "Orbicularis fascia — revestimento ao redor da estrutura cantal.",
+          "x": 0.35,
+          "y": 0.4
+        },
+        {
+          "num": 3,
+          "text": "Lateral orbital thickening — condensação lateral que reforça tendão.",
+          "x": 0.55,
+          "y": 0.35
+        },
+        {
+          "num": 4,
+          "text": "Lateral canthal tendon — insere-se tubérculo de Whitnall, 2-3 mm posterior ao rebordo.",
+          "x": 0.65,
+          "y": 0.55
+        },
+        {
+          "num": 5,
+          "text": "Frontal bone — parede anterior; ponto de referência para dissecção.",
+          "x": 0.45,
+          "y": 0.25
+        }
+      ],
+      "applicable_topics": [
+        "blefaroplastia"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-lateral-retinaculum-001",
+      "file": "blefaroplastia/blef-13-35-canto-lateral-envelhecimento.png",
+      "subject": "retináculo lateral — envelhecimento e laxidez cantal lateral",
+      "role": "detail",
+      "source": "Neligan 2023, vol. 2, cap. 13 — Blepharoplasty",
+      "credit": "Adaptado de Neligan 2023, vol. 2, cap. 13",
+      "default_caption": "Comparação canto lateral jovem versus envelhecido mostrando perda da suspensão do retináculo lateral e descenso da pálpebra inferior.",
+      "labels": [
+        {
+          "num": 1,
+          "text": "Canto lateral jovem — posicionamento normal; tarsal strap e tendão cantal robusto.",
+          "x": 0.35,
+          "y": 0.3
+        },
+        {
+          "num": 2,
+          "text": "Canto lateral envelhecido — laxidez do retináculo; descenso lateral da pálpebra inferior.",
+          "x": 0.65,
+          "y": 0.5
+        },
+        {
+          "num": 3,
+          "text": "Tendão cantal lateral — inserção tubérculo de Whitnall; perde tensão com envelhecimento.",
+          "x": 0.55,
+          "y": 0.45
+        },
+        {
+          "num": 4,
+          "text": "Tarsal strap — suspensório tarsal; frouxe com perda de sustentação.",
+          "x": 0.6,
+          "y": 0.65
+        },
+        {
+          "num": 5,
+          "text": "Ligamento de Lockwood — componente de suspensão inferior; degeneração é gatilho para ectrópio.",
+          "x": 0.5,
+          "y": 0.7
+        }
+      ],
+      "applicable_topics": [
+        "blefaroplastia"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-lower-orbital-fat-001",
+      "file": "blefaroplastia/blef-13-31-gordura-compartimentos-inferiores.png",
+      "subject": "compartimentos de gordura inferior (medial, central, lateral) separados pelo oblíquo inferior",
+      "role": "detail",
+      "source": "Neligan 2023, vol. 2, cap. 13 — Blepharoplasty",
+      "credit": "Adaptado de Neligan 2023, vol. 2, cap. 13",
+      "default_caption": "Três compartimentos gordurosos inferiores delimitados pelo músculo oblíquo inferior: medial (mais volumoso, herniado), central e lateral. Técnica transconjuntival de acesso.",
+      "labels": [
+        {
+          "num": 1,
+          "text": "Inferior oblique muscle — delimitador principal entre compartimentos.",
+          "x": 0.3,
+          "y": 0.35
+        },
+        {
+          "num": 2,
+          "text": "Medial compartment — gordura pálida e firme; maior contribuidor da herniação.",
+          "x": 0.3,
+          "y": 0.5
+        },
+        {
+          "num": 3,
+          "text": "Central compartment — gordura lobulada entre oblíquo e lateral.",
+          "x": 0.5,
+          "y": 0.5
+        },
+        {
+          "num": 4,
+          "text": "Lateral compartment — pode conter glândula lacrimal; cuidado ao ressecar.",
+          "x": 0.7,
+          "y": 0.5
+        },
+        {
+          "num": 5,
+          "text": "Capsulopalpebral fascia — estrutura posterior delimitadora inferior.",
+          "x": 0.5,
+          "y": 0.7
+        }
+      ],
+      "applicable_topics": [
+        "blefaroplastia"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-medial-canthal-tendon-001",
+      "file": "blefaroplastia/blef-13-5-tendao-cantal-medial.png",
+      "subject": "tendão cantal medial — estrutura tripartida (porções anterior, superior e posterior) e relação com saco lacrimal",
+      "role": "detail",
+      "source": "Neligan 2023, vol. 2, cap. 13 — Blepharoplasty",
+      "credit": "Adaptado de Neligan 2023, vol. 2, cap. 13",
+      "default_caption": "Tendão cantal medial em vista frontal mostrando as três porções (anterior: menos robusta; superior e posterior: mais fortes) que envolvem o saco lacrimal.",
+      "labels": [
+        {
+          "num": 1,
+          "text": "Posterior limb, medial canthal tendon — porção mais forte; insere-se crista lacrimal posterior.",
+          "x": 0.45,
+          "y": 0.35
+        },
+        {
+          "num": 2,
+          "text": "Superior limb, medial canthal tendon — ramo superior; contribui à suspensão.",
+          "x": 0.5,
+          "y": 0.2
+        },
+        {
+          "num": 3,
+          "text": "Anterior limb, medial canthal tendon — menos robusta; insere-se crista lacrimal anterior.",
+          "x": 0.4,
+          "y": 0.5
+        },
+        {
+          "num": 4,
+          "text": "Lacrimal fossa — aloja o saco lacrimal; protegido pelas porções posteriores.",
+          "x": 0.55,
+          "y": 0.5
+        },
+        {
+          "num": 5,
+          "text": "Anterior and posterior lacrimal crests — inserção óssea das porções anterior e posterior.",
+          "x": 0.35,
+          "y": 0.65
+        }
+      ],
+      "applicable_topics": [
+        "blefaroplastia"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-orbicular-retaining-ligament-001",
+      "file": "blefaroplastia/blef-13-12-ligamento-retencao-orbicular.png",
+      "subject": "ligamento de retenção orbicular (ORL) — origem periósteo rebordo/zigoma; inserção orbicular",
+      "role": "detail",
+      "source": "Neligan 2023, vol. 2, cap. 13 — Blepharoplasty",
+      "credit": "Adaptado de Neligan 2023, vol. 2, cap. 13",
+      "default_caption": "Vista inferior mostrando o ligamento de retenção orbicular que une o orbicular ao periósteo do rebordo inferior, delimitando a junção pálpebra-bochecha.",
+      "labels": [
+        {
+          "num": 1,
+          "text": "Orbicularis oculi — músculo que se insere na órbita inferiormente.",
+          "x": 0.4,
+          "y": 0.35
+        },
+        {
+          "num": 2,
+          "text": "Orbicularis retaining ligament (ORL) — banda fibrosa do periósteo ao orbicular.",
+          "x": 0.5,
+          "y": 0.5
+        },
+        {
+          "num": 3,
+          "text": "Nasal bone — referência óssea medial; origem ORL medial.",
+          "x": 0.35,
+          "y": 0.6
+        },
+        {
+          "num": 4,
+          "text": "Frontal bone — parede anterior do rebordo.",
+          "x": 0.5,
+          "y": 0.3
+        },
+        {
+          "num": 5,
+          "text": "Lateral orbital thickening — ORL lateral ao arco zigomático; mais robusta.",
+          "x": 0.7,
+          "y": 0.45
+        },
+        {
+          "num": 6,
+          "text": "Zygomatic bone — referência óssea lateral; origem ORL lateral.",
+          "x": 0.65,
+          "y": 0.65
+        }
+      ],
+      "applicable_topics": [
+        "blefaroplastia"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-orbital-bones-001",
+      "file": "blefaroplastia/fig13-1-ossos-orbitarios.jpeg",
+      "subject": "ossos da órbita — vista frontal e landmarks cirúrgicos",
+      "role": "overview",
+      "source": "Neligan 2023, vol. 2, cap. 13 — Blepharoplasty",
+      "credit": "Adaptado de Neligan 2023, vol. 2, cap. 13",
+      "default_caption": "Sete ossos formam a órbita: frontal, esfenoide, zigomático, maxila, lacrimal, etmoide e palatino.",
+      "labels": [
+        {
+          "num": 1,
+          "text": "Osso frontal — teto da órbita e rebordo superior.",
+          "x": 0.5,
+          "y": 0.25
+        },
+        {
+          "num": 2,
+          "text": "Maxila — assoalho; medialmente contém o canal lacrimal.",
+          "x": 0.5,
+          "y": 0.55
+        },
+        {
+          "num": 3,
+          "text": "Zigomático — parede lateral inferior e rebordo lateral.",
+          "x": 0.7,
+          "y": 0.5
+        },
+        {
+          "num": 4,
+          "text": "Esfenoide — asa maior (parede lateral) e menor (teto posterior).",
+          "x": 0.65,
+          "y": 0.35
+        },
+        {
+          "num": 5,
+          "text": "Lacrimal — parede medial anterior; abriga a fossa lacrimal.",
+          "x": 0.55,
+          "y": 0.4
+        },
+        {
+          "num": 6,
+          "text": "Etmoide — lâmina papirácea; parede medial fina (risco em fraturas).",
+          "x": 0.6,
+          "y": 0.45
+        },
+        {
+          "num": 7,
+          "text": "Palatino — pequeno componente posteroinferior.",
+          "x": 0.5,
+          "y": 0.7
+        }
+      ],
+      "applicable_topics": [
+        "blefaroplastia"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-orbital-septum-001",
+      "file": "blefaroplastia/fig13-11-septo-orbital.jpeg",
+      "subject": "seção transversal — septo órbital e estruturas adjacentes (orbicular, Müller, aponeurose do levantador, tarso)",
+      "role": "detail",
+      "source": "Neligan 2023, vol. 2, cap. 13 — Blepharoplasty",
+      "credit": "Adaptado de Neligan 2023, vol. 2, cap. 13",
+      "default_caption": "Seção transversal mostrando o septo órbital como barreira entre pré-septal e intraorbitário, sua fusão com a aponeurose do levantador e relação com Müller e tarso.",
+      "labels": [
+        {
+          "num": 1,
+          "text": "Orbicularis oculi — músculo ao redor, pré-septal e pré-tarsal.",
+          "x": 0.25,
+          "y": 0.35
+        },
+        {
+          "num": 2,
+          "text": "Septo órbital — membrana fibrosa que define a barreira pré-septal versus intraorbitária.",
+          "x": 0.65,
+          "y": 0.4
+        },
+        {
+          "num": 3,
+          "text": "Müller's muscle — inervação simpática; profundo à aponeurose.",
+          "x": 0.7,
+          "y": 0.55
+        },
+        {
+          "num": 4,
+          "text": "Levator aponeurosis — transição de músculo para aponeurose; fusão septo-aponeurose.",
+          "x": 0.65,
+          "y": 0.65
+        },
+        {
+          "num": 5,
+          "text": "Septal extension — extensão anterior do septo ao redor do globo.",
+          "x": 0.6,
+          "y": 0.3
+        },
+        {
+          "num": 6,
+          "text": "Tarso — estrutura fibrosa densa; define margem inferior da pálpebra.",
+          "x": 0.5,
+          "y": 0.75
+        }
+      ],
+      "applicable_topics": [
+        "blefaroplastia"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-periorbital-innervation-001",
+      "file": "blefaroplastia/fig13-15-nervos-sensoriais.jpeg",
+      "subject": "inervação sensitiva periórbital — ramos trigêmeo (V1, V2) e motora (nervo facial VII)",
+      "role": "detail",
+      "source": "Neligan 2023, vol. 2, cap. 13 — Blepharoplasty",
+      "credit": "Adaptado de Neligan 2023, vol. 2, cap. 13",
+      "default_caption": "Distribuição de nervos sensitivos periórbital em vista frontal: V1 (supraórbital, supratroclear, lacrimal) superior; V2 (infraórbital) inferior; nervos motores (facial) não mostrados.",
+      "labels": [
+        {
+          "num": 1,
+          "text": "Lacrimal nerve — ramo V1; inervação lateral superior e sobrancelha.",
+          "x": 0.25,
+          "y": 0.35
+        },
+        {
+          "num": 2,
+          "text": "Supraorbital nerve — ramo V1; sai forame supraórbital; inervação superior medial.",
+          "x": 0.45,
+          "y": 0.25
+        },
+        {
+          "num": 3,
+          "text": "Supratrochlear nerve — ramo V1; inervação medial sobrancelha e pálpebra superior.",
+          "x": 0.55,
+          "y": 0.2
+        },
+        {
+          "num": 4,
+          "text": "Infratrochlear nerve — ramo V1; inervação medial pálpebra inferior e dorso nasal.",
+          "x": 0.7,
+          "y": 0.4
+        },
+        {
+          "num": 5,
+          "text": "Zygomaticofacial nerve — ramo V2; inervação lateral sobrancelha e zigoma.",
+          "x": 0.25,
+          "y": 0.55
+        },
+        {
+          "num": 6,
+          "text": "Infraorbital nerve — ramo V2; sai forame infraórbital; inervação pálpebra inferior e bochecha.",
+          "x": 0.7,
+          "y": 0.65
+        }
+      ],
+      "applicable_topics": [
+        "blefaroplastia"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-periorbital-muscles-001",
+      "file": "blefaroplastia/fig13-6-musculos-periorbitarios.jpeg",
+      "subject": "musculatura periorbitária — orbicular, frontal, corrugador e prócero",
+      "role": "overview",
+      "source": "Neligan 2023, vol. 2, cap. 13 — Blepharoplasty",
+      "credit": "Adaptado de Neligan 2023, vol. 2, cap. 13",
+      "default_caption": "Vista frontal da musculatura periorbitária: orbicular (3 porções), frontal, corrugador do supercílio e prócero — dinâmica do terço superior da face.",
+      "labels": [
+        {
+          "num": 1,
+          "text": "Orbicular pré-tarsal — piscar involuntário; aderido ao tarso.",
+          "x": 0.3,
+          "y": 0.5
+        },
+        {
+          "num": 2,
+          "text": "Orbicular pré-septal — fechamento reflexo e voluntário; sobre o septo orbitário.",
+          "x": 0.45,
+          "y": 0.5
+        },
+        {
+          "num": 3,
+          "text": "Orbicular orbitário — fechamento forçado; estende-se sobre o rebordo orbitário.",
+          "x": 0.5,
+          "y": 0.65
+        },
+        {
+          "num": 4,
+          "text": "Músculo frontal — elevador da sobrancelha; compensa ptose palpebral.",
+          "x": 0.4,
+          "y": 0.2
+        },
+        {
+          "num": 5,
+          "text": "Corrugador do supercílio — traciona medial e inferiormente; gera rugas verticais.",
+          "x": 0.55,
+          "y": 0.3
+        },
+        {
+          "num": 6,
+          "text": "Prócero — traciona a glabela inferiormente; gera ruga horizontal nasal.",
+          "x": 0.6,
+          "y": 0.35
+        }
+      ],
+      "applicable_topics": [
+        "blefaroplastia",
+        "ritidoplastia"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-periorbital-vasculature-001",
+      "file": "blefaroplastia/fig13-14-suprimento-arterial.jpeg",
+      "subject": "suprimento arterial periórbital — arcos pálpebrais marginal e periférico; anastomoses externas-internas",
+      "role": "overview",
+      "source": "Neligan 2023, vol. 2, cap. 13 — Blepharoplasty",
+      "credit": "Adaptado de Neligan 2023, vol. 2, cap. 13",
+      "default_caption": "Vascularização periórbital em vista frontal mostrando arcos pálpebrais, artérias oftálmica e facial, e anastomose angular.",
+      "labels": [
+        {
+          "num": 1,
+          "text": "Superficial temporal artery — ramo superior da carótida externa; vasculariza lateralmente.",
+          "x": 0.2,
+          "y": 0.25
+        },
+        {
+          "num": 2,
+          "text": "Supratrochlear artery — ramo oftálmico; irrigação superior medial.",
+          "x": 0.4,
+          "y": 0.2
+        },
+        {
+          "num": 3,
+          "text": "Lacrimal artery — ramo oftálmico; vasculariza lateralmente sobrancelha.",
+          "x": 0.25,
+          "y": 0.35
+        },
+        {
+          "num": 4,
+          "text": "Angular artery — terminal da facial; anastomose carotídea crucial.",
+          "x": 0.7,
+          "y": 0.4
+        },
+        {
+          "num": 5,
+          "text": "Medial and inferior palpebral arteries — formam arcos marginal e periférico; distribuição pálpebras superior e inferior.",
+          "x": 0.5,
+          "y": 0.5
+        },
+        {
+          "num": 6,
+          "text": "Infrarorbital artery — ramo maxilar; vasculariza rebordo inferior.",
+          "x": 0.55,
+          "y": 0.65
+        }
+      ],
+      "applicable_topics": [
+        "blefaroplastia"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-tear-trough-001",
+      "file": "blefaroplastia/blef-13-21-anatomia-tear-trough.png",
+      "subject": "sulco lacrimojugal (tear trough) e ligamento palpebro-malar",
+      "role": "detail",
+      "source": "Neligan 2023, vol. 2, cap. 13 — Blepharoplasty",
+      "credit": "Adaptado de Neligan 2023, vol. 2, cap. 13",
+      "default_caption": "Depressão medial inferior à pálpebra inferior: origem do orbicular no periósteo maxilar cria o sulco; acentuada por deflação da bochecha.",
+      "labels": [
+        {
+          "num": 1,
+          "text": "Tear trough (sulco lacrimojugal) — depressão medial inferior à pálpebra.",
+          "x": 0.45,
+          "y": 0.5
+        },
+        {
+          "num": 2,
+          "text": "Origem do orbicular no periósteo maxilar — gera o sulco em ponto de fixação cutâneo.",
+          "x": 0.5,
+          "y": 0.65
+        },
+        {
+          "num": 3,
+          "text": "Ligamento palpebro-malar — extensão lateral do tear trough; separa compartimentos.",
+          "x": 0.6,
+          "y": 0.55
+        },
+        {
+          "num": 4,
+          "text": "Bolsa de gordura medial — protrusão acentua o sulco por contraste.",
+          "x": 0.4,
+          "y": 0.7
+        },
+        {
+          "num": 5,
+          "text": "Compartimento graxo malar (SOOF) — deflação envelhece a transição.",
+          "x": 0.35,
+          "y": 0.8
+        }
+      ],
+      "applicable_topics": [
+        "blefaroplastia",
+        "ritidoplastia"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-upper-lid-sagittal-001",
+      "file": "blefaroplastia/fig13-9-anatomia-palpebral-sagital.jpeg",
+      "subject": "corte sagital da pálpebra superior — LPS, aponeurose, Müller, tarso e septo",
+      "role": "detail",
+      "source": "Neligan 2023, vol. 2, cap. 13 — Blepharoplasty",
+      "credit": "Adaptado de Neligan 2023, vol. 2, cap. 13",
+      "default_caption": "Corte sagital da pálpebra superior: LPS e sua aponeurose, músculo de Müller, tarso, septo orbitário e coxins adiposos.",
+      "labels": [
+        {
+          "num": 1,
+          "text": "LPS (levantador da pálpebra superior) — ventre muscular e aponeurose.",
+          "x": 0.3,
+          "y": 0.25
+        },
+        {
+          "num": 2,
+          "text": "Aponeurose do LPS — insere-se na face anterior do tarso e na derme (prega).",
+          "x": 0.65,
+          "y": 0.3
+        },
+        {
+          "num": 3,
+          "text": "Músculo de Müller — tarsal superior; simpático; 1-2 mm de elevação.",
+          "x": 0.7,
+          "y": 0.5
+        },
+        {
+          "num": 4,
+          "text": "Septo orbitário — funde-se com a aponeurose 2-5 mm acima do tarso.",
+          "x": 0.65,
+          "y": 0.45
+        },
+        {
+          "num": 5,
+          "text": "Tarso superior — 10-12 mm de altura; dá estrutura à pálpebra.",
+          "x": 0.5,
+          "y": 0.7
+        },
+        {
+          "num": 6,
+          "text": "Coxim adiposo pré-aponeurótico — superficial à aponeurose do LPS.",
+          "x": 0.45,
+          "y": 0.35
+        }
+      ],
+      "applicable_topics": [
+        "blefaroplastia"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-upper-orbital-fat-001",
+      "file": "blefaroplastia/blef-13-28-gordura-medial-fechamento.png",
+      "subject": "compartimentos de gordura pré-aponeurótica superior (medial e central) e técnica de ressecção",
+      "role": "surgical",
+      "source": "Neligan 2023, vol. 2, cap. 13 — Blepharoplasty",
+      "credit": "Adaptado de Neligan 2023, vol. 2, cap. 13",
+      "default_caption": "Compartimentos de gordura pré-aponeurótica superior: medial (pálida, firme) e central (amarela, lobulada); técnica de ressecção intraoperatória.",
+      "labels": [
+        {
+          "num": 1,
+          "text": "Inferior lacrimal — estrutura amilacear acima; nunca ressecar.",
+          "x": 0.3,
+          "y": 0.35
+        },
+        {
+          "num": 2,
+          "text": "Medial compartment — gordura pálida e firme; primeira a ser ressecada.",
+          "x": 0.35,
+          "y": 0.5
+        },
+        {
+          "num": 3,
+          "text": "Central compartment — gordura amarela e lobulada; maior compartimento.",
+          "x": 0.5,
+          "y": 0.5
+        },
+        {
+          "num": 4,
+          "text": "Retractor — instrumento para elevação de estruturas adjacentes durante dissecção.",
+          "x": 0.65,
+          "y": 0.6
+        },
+        {
+          "num": 5,
+          "text": "Incisão de fechamento — sutura com preservação de plano.",
+          "x": 0.55,
+          "y": 0.75
+        }
+      ],
+      "applicable_topics": [
+        "blefaroplastia"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-whitnall-ligament-001",
+      "file": "blefaroplastia/fig13-2-secao-horizontal-orbita.jpeg",
+      "subject": "seção horizontal da órbita — estruturas musculares e ligamento de Whitnall",
+      "role": "overview",
+      "source": "Neligan 2023, vol. 2, cap. 13 — Blepharoplasty",
+      "credit": "Adaptado de Neligan 2023, vol. 2, cap. 13",
+      "default_caption": "Seção horizontal no nível do ligamento de Whitnall mostrando o globo, músculos retos e oblíquos, e condensações fasciais.",
+      "labels": [
+        {
+          "num": 1,
+          "text": "Globo ocular — esfera central em corte.",
+          "x": 0.5,
+          "y": 0.5
+        },
+        {
+          "num": 2,
+          "text": "Ligamento de Whitnall — condensação transversal superior; fulcro do levantador.",
+          "x": 0.5,
+          "y": 0.35
+        },
+        {
+          "num": 3,
+          "text": "Músculos retos — quatro componentes periféricos (medial, lateral, superior, inferior).",
+          "x": 0.35,
+          "y": 0.4
+        },
+        {
+          "num": 4,
+          "text": "Gordura orbitária — circunda estruturas neurovasculares.",
+          "x": 0.55,
+          "y": 0.55
+        },
+        {
+          "num": 5,
+          "text": "Osso orbital — rebordo ósseo periférico que delimita a cavidade.",
+          "x": 0.5,
+          "y": 0.7
+        }
+      ],
+      "applicable_topics": [
+        "blefaroplastia"
+      ],
+      "status": "available"
+    }
+  ]
+}
