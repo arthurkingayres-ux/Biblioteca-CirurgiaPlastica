@@ -6,7 +6,7 @@ Gerado automaticamente por `tools/report_pending_images.mjs`. Rode o script e co
 |---|---|---|---|
 | Abdominoplastia | 5 | 4 | 1 |
 | Blefaroplastia | 20 | 20 | 0 |
-| Contorno Pós-Bariátrico | 12 | 12 | 0 |
+| Contorno Pós-Bariátrico | 6 | 6 | 0 |
 | Gluteoplastia | 8 | 8 | 0 |
 | Lipoaspiração | 4 | 4 | 0 |
 | Otoplastia | 2 | 2 | 0 |
