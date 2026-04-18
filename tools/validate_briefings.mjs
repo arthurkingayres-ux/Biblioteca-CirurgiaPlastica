@@ -14,7 +14,7 @@ const EXPECTED_IMAGE_COUNTS = {
   gluteoplastia: null,
   'contorno-pos-bariatrico': null,
   otoplastia: null,
-  abdominoplastia: 14,
+  abdominoplastia: 9,
 };
 const OUT_DIR = join(ROOT, 'tools', '_validation');
 const CARDS_ROOT = join(ROOT, 'content', 'cards');
