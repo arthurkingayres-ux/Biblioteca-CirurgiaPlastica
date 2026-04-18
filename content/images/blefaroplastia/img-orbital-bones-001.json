@@ -7,14 +7,51 @@
   "credit": "Adaptado de Neligan 2023, vol. 2, cap. 13",
   "default_caption": "Sete ossos formam a órbita: frontal, esfenoide, zigomático, maxila, lacrimal, etmoide e palatino.",
   "labels": [
-    { "num": 1, "text": "Osso frontal — teto da órbita e rebordo superior." },
-    { "num": 2, "text": "Maxila — assoalho; medialmente contém o canal lacrimal." },
-    { "num": 3, "text": "Zigomático — parede lateral inferior e rebordo lateral." },
-    { "num": 4, "text": "Esfenoide — asa maior (parede lateral) e menor (teto posterior)." },
-    { "num": 5, "text": "Lacrimal — parede medial anterior; abriga a fossa lacrimal." },
-    { "num": 6, "text": "Etmoide — lâmina papirácea; parede medial fina (risco em fraturas)." },
-    { "num": 7, "text": "Palatino — pequeno componente posteroinferior." }
+    {
+      "num": 1,
+      "text": "Osso frontal — teto da órbita e rebordo superior.",
+      "x": 0.5,
+      "y": 0.25
+    },
+    {
+      "num": 2,
+      "text": "Maxila — assoalho; medialmente contém o canal lacrimal.",
+      "x": 0.5,
+      "y": 0.55
+    },
+    {
+      "num": 3,
+      "text": "Zigomático — parede lateral inferior e rebordo lateral.",
+      "x": 0.7,
+      "y": 0.5
+    },
+    {
+      "num": 4,
+      "text": "Esfenoide — asa maior (parede lateral) e menor (teto posterior).",
+      "x": 0.65,
+      "y": 0.35
+    },
+    {
+      "num": 5,
+      "text": "Lacrimal — parede medial anterior; abriga a fossa lacrimal.",
+      "x": 0.55,
+      "y": 0.4
+    },
+    {
+      "num": 6,
+      "text": "Etmoide — lâmina papirácea; parede medial fina (risco em fraturas).",
+      "x": 0.6,
+      "y": 0.45
+    },
+    {
+      "num": 7,
+      "text": "Palatino — pequeno componente posteroinferior.",
+      "x": 0.5,
+      "y": 0.7
+    }
   ],
-  "applicable_topics": ["blefaroplastia"],
+  "applicable_topics": [
+    "blefaroplastia"
+  ],
   "status": "available"
 }

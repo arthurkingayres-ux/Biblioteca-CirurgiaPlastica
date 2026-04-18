@@ -7,10 +7,27 @@
   "credit": "Adaptado de Neligan 2023, vol. 2, cap. 28",
   "default_caption": "Camadas musculares em corte coronal: máximo (superficial), médio (intermediário) e mínimo (profundo, sobre a asa do íleo).",
   "labels": [
-    { "num": 1, "text": "Glúteo máximo — camada superficial; inervação pelo nervo glúteo inferior; extensor e rotador lateral do quadril." },
-    { "num": 2, "text": "Glúteo médio — camada intermediária; abdutor principal do quadril; inervação pelo nervo glúteo superior." },
-    { "num": 3, "text": "Glúteo mínimo — camada profunda, sobre a asa do íleo; abdutor e rotador interno; inervação pelo nervo glúteo superior." }
+    {
+      "num": 1,
+      "text": "Glúteo máximo — camada superficial; inervação pelo nervo glúteo inferior; extensor e rotador lateral do quadril.",
+      "x": 0.6,
+      "y": 0.24
+    },
+    {
+      "num": 2,
+      "text": "Glúteo médio — camada intermediária; abdutor principal do quadril; inervação pelo nervo glúteo superior.",
+      "x": 0.6,
+      "y": 0.42
+    },
+    {
+      "num": 3,
+      "text": "Glúteo mínimo — camada profunda, sobre a asa do íleo; abdutor e rotador interno; inervação pelo nervo glúteo superior.",
+      "x": 0.6,
+      "y": 0.6
+    }
   ],
-  "applicable_topics": ["gluteoplastia"],
+  "applicable_topics": [
+    "gluteoplastia"
+  ],
   "status": "available"
 }

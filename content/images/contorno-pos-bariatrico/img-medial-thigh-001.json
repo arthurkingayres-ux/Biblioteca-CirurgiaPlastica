@@ -7,11 +7,33 @@
   "credit": "Adaptado de Neligan 2023, vol. 2, cap. 38",
   "default_caption": "Linha superior na prega inguinal 4 cm lateral à linha média do monte púbico; extensão vertical estimada por pinch test; fuso de ressecção desenhado até o joelho.",
   "labels": [
-    { "num": 1, "text": "Linha superior — prega inguinal, 4 cm lateral à linha média do monte púbico." },
-    { "num": 2, "text": "Extensão vertical — estimada por pinch test bilateral." },
-    { "num": 3, "text": "Fuso de ressecção — face medial da coxa até o joelho." },
-    { "num": 4, "text": "Fixação à fáscia de Colles/periósteo da sínfise — evita recorrência da ptose." }
+    {
+      "num": 1,
+      "text": "Linha superior — prega inguinal, 4 cm lateral à linha média do monte púbico.",
+      "x": 0.35,
+      "y": 0.18
+    },
+    {
+      "num": 2,
+      "text": "Extensão vertical — estimada por pinch test bilateral.",
+      "x": 0.65,
+      "y": 0.32
+    },
+    {
+      "num": 3,
+      "text": "Fuso de ressecção — face medial da coxa até o joelho.",
+      "x": 0.58,
+      "y": 0.55
+    },
+    {
+      "num": 4,
+      "text": "Fixação à fáscia de Colles/periósteo da sínfise — evita recorrência da ptose.",
+      "x": 0.42,
+      "y": 0.88
+    }
   ],
-  "applicable_topics": ["contorno-pos-bariatrico"],
+  "applicable_topics": [
+    "contorno-pos-bariatrico"
+  ],
   "status": "available"
 }

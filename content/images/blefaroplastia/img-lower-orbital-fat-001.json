@@ -7,12 +7,39 @@
   "credit": "Adaptado de Neligan 2023, vol. 2, cap. 13",
   "default_caption": "Três compartimentos gordurosos inferiores delimitados pelo músculo oblíquo inferior: medial (mais volumoso, herniado), central e lateral. Técnica transconjuntival de acesso.",
   "labels": [
-    { "num": 1, "text": "Inferior oblique muscle — delimitador principal entre compartimentos." },
-    { "num": 2, "text": "Medial compartment — gordura pálida e firme; maior contribuidor da herniação." },
-    { "num": 3, "text": "Central compartment — gordura lobulada entre oblíquo e lateral." },
-    { "num": 4, "text": "Lateral compartment — pode conter glândula lacrimal; cuidado ao ressecar." },
-    { "num": 5, "text": "Capsulopalpebral fascia — estrutura posterior delimitadora inferior." }
+    {
+      "num": 1,
+      "text": "Inferior oblique muscle — delimitador principal entre compartimentos.",
+      "x": 0.3,
+      "y": 0.35
+    },
+    {
+      "num": 2,
+      "text": "Medial compartment — gordura pálida e firme; maior contribuidor da herniação.",
+      "x": 0.3,
+      "y": 0.5
+    },
+    {
+      "num": 3,
+      "text": "Central compartment — gordura lobulada entre oblíquo e lateral.",
+      "x": 0.5,
+      "y": 0.5
+    },
+    {
+      "num": 4,
+      "text": "Lateral compartment — pode conter glândula lacrimal; cuidado ao ressecar.",
+      "x": 0.7,
+      "y": 0.5
+    },
+    {
+      "num": 5,
+      "text": "Capsulopalpebral fascia — estrutura posterior delimitadora inferior.",
+      "x": 0.5,
+      "y": 0.7
+    }
   ],
-  "applicable_topics": ["blefaroplastia"],
+  "applicable_topics": [
+    "blefaroplastia"
+  ],
   "status": "available"
 }

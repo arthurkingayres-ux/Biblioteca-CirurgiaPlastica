@@ -7,12 +7,39 @@
   "credit": "Adaptado de Neligan 2023, vol. 2, cap. 28",
   "default_caption": "Emergência das estruturas neurovasculares pelos forames supra e infrapiriforme; zona de perigo intramuscular no BBL.",
   "labels": [
-    { "num": 1, "text": "Forame suprapiriforme — passagem da artéria glútea superior e do nervo glúteo superior." },
-    { "num": 2, "text": "Forame infrapiriforme — passagem da artéria glútea inferior, nervo glúteo inferior e nervo ciático." },
-    { "num": 3, "text": "Artéria glútea superior — irriga porção superior; lesão cria sangramento em dissecção submuscular." },
-    { "num": 4, "text": "Artéria glútea inferior — veia homônima é o principal sítio de embolia gordurosa no BBL intramuscular." },
-    { "num": 5, "text": "Nervo ciático — desce entre trocânter maior e tuberosidade isquiática; risco de neuropraxia em implante submuscular." }
+    {
+      "num": 1,
+      "text": "Forame suprapiriforme — passagem da artéria glútea superior e do nervo glúteo superior.",
+      "x": 0.35,
+      "y": 0.14
+    },
+    {
+      "num": 2,
+      "text": "Forame infrapiriforme — passagem da artéria glútea inferior, nervo glúteo inferior e nervo ciático.",
+      "x": 0.35,
+      "y": 0.28
+    },
+    {
+      "num": 3,
+      "text": "Artéria glútea superior — irriga porção superior; lesão cria sangramento em dissecção submuscular.",
+      "x": 0.45,
+      "y": 0.16
+    },
+    {
+      "num": 4,
+      "text": "Artéria glútea inferior — veia homônima é o principal sítio de embolia gordurosa no BBL intramuscular.",
+      "x": 0.45,
+      "y": 0.32
+    },
+    {
+      "num": 5,
+      "text": "Nervo ciático — desce entre trocânter maior e tuberosidade isquiática; risco de neuropraxia em implante submuscular.",
+      "x": 0.5,
+      "y": 0.42
+    }
   ],
-  "applicable_topics": ["gluteoplastia"],
+  "applicable_topics": [
+    "gluteoplastia"
+  ],
   "status": "available"
 }

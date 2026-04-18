@@ -7,11 +7,33 @@
   "credit": "Adaptado de Neligan 2023, vol. 5",
   "default_caption": "Ptose Regnault III: CAP (complexo areolo-papilar) abaixo do IMF (sulco inframamário), esvaziamento do polo superior e pele redundante.",
   "labels": [
-    { "num": 1, "text": "CAP (complexo areolo-papilar) — posicionado abaixo do IMF na ptose grau III." },
-    { "num": 2, "text": "IMF (sulco inframamário) — referência de medida da ptose." },
-    { "num": 3, "text": "Polo superior esvaziado — perda de plenitude; pseudoptose." },
-    { "num": 4, "text": "Pele redundante — qualidade comprometida, pouca elasticidade." }
+    {
+      "num": 1,
+      "text": "CAP (complexo areolo-papilar) — posicionado abaixo do IMF na ptose grau III.",
+      "x": 0.78,
+      "y": 0.38
+    },
+    {
+      "num": 2,
+      "text": "IMF (sulco inframamário) — referência de medida da ptose.",
+      "x": 0.78,
+      "y": 0.52
+    },
+    {
+      "num": 3,
+      "text": "Polo superior esvaziado — perda de plenitude; pseudoptose.",
+      "x": 0.65,
+      "y": 0.32
+    },
+    {
+      "num": 4,
+      "text": "Pele redundante — qualidade comprometida, pouca elasticidade.",
+      "x": 0.88,
+      "y": 0.48
+    }
   ],
-  "applicable_topics": ["contorno-pos-bariatrico"],
+  "applicable_topics": [
+    "contorno-pos-bariatrico"
+  ],
   "status": "available"
 }

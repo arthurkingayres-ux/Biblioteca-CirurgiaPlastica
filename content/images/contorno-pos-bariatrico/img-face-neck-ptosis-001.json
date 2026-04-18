@@ -7,12 +7,39 @@
   "credit": "Adaptado de Neligan 2023, vol. 2",
   "default_caption": "Jowls, sulco nasolabial profundo, submento ptótico, ângulo cervicomental obtuso (> 120°) e deflação de compartimentos graxos profundos.",
   "labels": [
-    { "num": 1, "text": "Jowls — ptose da gordura jugal abaixo da mandíbula." },
-    { "num": 2, "text": "Sulco nasolabial profundo — deflação do compartimento graxo malar." },
-    { "num": 3, "text": "Submento ptótico — flacidez do platisma e pele cervical." },
-    { "num": 4, "text": "Ângulo cervicomental obtuso (> 120°) — perda da definição da linha mandibular." },
-    { "num": 5, "text": "Bandas platismais visíveis — diástase anterior do platisma." }
+    {
+      "num": 1,
+      "text": "Jowls — ptose da gordura jugal abaixo da mandíbula.",
+      "x": 0.65,
+      "y": 0.58
+    },
+    {
+      "num": 2,
+      "text": "Sulco nasolabial profundo — deflação do compartimento graxo malar.",
+      "x": 0.55,
+      "y": 0.38
+    },
+    {
+      "num": 3,
+      "text": "Submento ptótico — flacidez do platisma e pele cervical.",
+      "x": 0.38,
+      "y": 0.68
+    },
+    {
+      "num": 4,
+      "text": "Ângulo cervicomental obtuso (> 120°) — perda da definição da linha mandibular.",
+      "x": 0.25,
+      "y": 0.75
+    },
+    {
+      "num": 5,
+      "text": "Bandas platismais visíveis — diástase anterior do platisma.",
+      "x": 0.42,
+      "y": 0.65
+    }
   ],
-  "applicable_topics": ["contorno-pos-bariatrico"],
+  "applicable_topics": [
+    "contorno-pos-bariatrico"
+  ],
   "status": "available"
 }

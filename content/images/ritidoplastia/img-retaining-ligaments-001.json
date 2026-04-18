@@ -7,12 +7,39 @@
   "credit": "Adaptado de Neligan 2023, vol. 2, cap. 11",
   "default_caption": "Condensações fibrosas que conectam esqueleto e fáscia profunda à derme — sua liberação é o passo-chave do deep plane.",
   "labels": [
-    { "num": 1, "text": "Ligamento zigomático-cutâneo (McGregor) — do arco zigomático à pele malar." },
-    { "num": 2, "text": "Ligamento massetérico-cutâneo — do masseter à pele do jowl." },
-    { "num": 3, "text": "Ligamento mandibular — da borda mandibular ao sulco labiomandibular." },
-    { "num": 4, "text": "Ligamento orbicular-retentor — ancora o orbicular inferior ao rebordo orbitário." },
-    { "num": 5, "text": "SMAS — perfurado pelos ligamentos em seu trajeto até a derme." }
+    {
+      "num": 1,
+      "text": "Ligamento zigomático-cutâneo (McGregor) — do arco zigomático à pele malar.",
+      "x": 0.68,
+      "y": 0.3
+    },
+    {
+      "num": 2,
+      "text": "Ligamento massetérico-cutâneo — do masseter à pele do jowl.",
+      "x": 0.62,
+      "y": 0.45
+    },
+    {
+      "num": 3,
+      "text": "Ligamento mandibular — da borda mandibular ao sulco labiomandibular.",
+      "x": 0.55,
+      "y": 0.62
+    },
+    {
+      "num": 4,
+      "text": "Ligamento orbicular-retentor — ancora o orbicular inferior ao rebordo orbitário.",
+      "x": 0.7,
+      "y": 0.28
+    },
+    {
+      "num": 5,
+      "text": "SMAS — perfurado pelos ligamentos em seu trajeto até a derme.",
+      "x": 0.5,
+      "y": 0.4
+    }
   ],
-  "applicable_topics": ["ritidoplastia"],
+  "applicable_topics": [
+    "ritidoplastia"
+  ],
   "status": "available"
 }

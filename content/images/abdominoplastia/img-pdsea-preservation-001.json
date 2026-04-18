@@ -7,12 +7,39 @@
   "credit": "Adaptado de Neligan 2023, vol. 2, cap. 27 - Matarasso",
   "default_caption": "Impacto da preservação (verde) vs sacrifício (amarelo) da PDSEA sobre a perfusão residual do retalho em abdominoplastia.",
   "labels": [
-    { "num": 1, "text": "PDSEA (paramedian deep septocutaneous epigastric artery) - perfurante subcostal paramediana emergente cerca de 6 cm acima e 4 cm lateral ao umbigo." },
-    { "num": 2, "text": "Margem subcostal - referência superior para localizar a PDSEA." },
-    { "num": 3, "text": "Zona verde - irrigação preservada ao abdome se a PDSEA for poupada durante a dissecção." },
-    { "num": 4, "text": "Zona amarela - irrigação remanescente após abdominoplastia tradicional (PDSEA sacrificada)." },
-    { "num": 5, "text": "Oval tracejada - área de ressecção dermocutânea planejada." }
+    {
+      "num": 1,
+      "text": "PDSEA (paramedian deep septocutaneous epigastric artery) - perfurante subcostal paramediana emergente cerca de 6 cm acima e 4 cm lateral ao umbigo.",
+      "x": 0.38,
+      "y": 0.32
+    },
+    {
+      "num": 2,
+      "text": "Margem subcostal - referência superior para localizar a PDSEA.",
+      "x": 0.45,
+      "y": 0.15
+    },
+    {
+      "num": 3,
+      "text": "Zona verde - irrigação preservada ao abdome se a PDSEA for poupada durante a dissecção.",
+      "x": 0.25,
+      "y": 0.45
+    },
+    {
+      "num": 4,
+      "text": "Zona amarela - irrigação remanescente após abdominoplastia tradicional (PDSEA sacrificada).",
+      "x": 0.7,
+      "y": 0.5
+    },
+    {
+      "num": 5,
+      "text": "Oval tracejada - área de ressecção dermocutânea planejada.",
+      "x": 0.5,
+      "y": 0.62
+    }
   ],
-  "applicable_topics": ["abdominoplastia"],
+  "applicable_topics": [
+    "abdominoplastia"
+  ],
   "status": "available"
 }

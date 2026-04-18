@@ -1,0 +1,19 @@
+[
+  { "image_id": "img-adherence-zones-001", "label_num": 1, "x": 0.175, "y": 0.36 },
+  { "image_id": "img-adherence-zones-001", "label_num": 2, "x": 0.5, "y": 0.45 },
+  { "image_id": "img-adherence-zones-001", "label_num": 3, "x": 0.35, "y": 0.75 },
+  { "image_id": "img-adherence-zones-001", "label_num": 4, "x": 0.35, "y": 0.57 },
+  { "image_id": "img-adherence-zones-001", "label_num": 5, "x": 0.175, "y": 0.47 },
+  { "image_id": "img-pmi-001", "label_num": 1, "x": 0.275, "y": 0.34 },
+  { "image_id": "img-pmi-001", "label_num": 2, "x": 0.75, "y": 0.18 },
+  { "image_id": "img-safety-zones-001", "label_num": 1, "x": 0.5, "y": 0.155 },
+  { "image_id": "img-safety-zones-001", "label_num": 2, "x": 0.25, "y": 0.68 },
+  { "image_id": "img-safety-zones-001", "label_num": 3, "x": 0.25, "y": 0.58 },
+  { "image_id": "img-safety-zones-001", "label_num": 4, "x": 0.5, "y": 0.41 },
+  { "image_id": "img-safety-zones-001", "label_num": 5, "x": 0.5, "y": 0.48 },
+  { "image_id": "img-sfs-layers-001", "label_num": 1, "x": 0.5, "y": 0.08 },
+  { "image_id": "img-sfs-layers-001", "label_num": 2, "x": 0.78, "y": 0.21 },
+  { "image_id": "img-sfs-layers-001", "label_num": 3, "x": 0.78, "y": 0.37 },
+  { "image_id": "img-sfs-layers-001", "label_num": 4, "x": 0.78, "y": 0.52 },
+  { "image_id": "img-sfs-layers-001", "label_num": 5, "x": 0.5, "y": 0.78 }
+]

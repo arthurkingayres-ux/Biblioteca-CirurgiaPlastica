@@ -1,0 +1,22 @@
+[
+  { "image_id": "img-facial-nerve-branches-001", "label_num": 1, "x": 0.490, "y": 0.320 },
+  { "image_id": "img-facial-nerve-branches-001", "label_num": 2, "x": 0.560, "y": 0.380 },
+  { "image_id": "img-facial-nerve-branches-001", "label_num": 3, "x": 0.525, "y": 0.450 },
+  { "image_id": "img-facial-nerve-branches-001", "label_num": 4, "x": 0.620, "y": 0.580 },
+  { "image_id": "img-facial-nerve-branches-001", "label_num": 5, "x": 0.550, "y": 0.720 },
+  { "image_id": "img-platysma-anatomy-001", "label_num": 1, "x": 0.480, "y": 0.520 },
+  { "image_id": "img-platysma-anatomy-001", "label_num": 2, "x": 0.380, "y": 0.580 },
+  { "image_id": "img-platysma-anatomy-001", "label_num": 3, "x": 0.350, "y": 0.620 },
+  { "image_id": "img-platysma-anatomy-001", "label_num": 4, "x": 0.420, "y": 0.680 },
+  { "image_id": "img-platysma-anatomy-001", "label_num": 5, "x": 0.500, "y": 0.720 },
+  { "image_id": "img-retaining-ligaments-001", "label_num": 1, "x": 0.680, "y": 0.300 },
+  { "image_id": "img-retaining-ligaments-001", "label_num": 2, "x": 0.620, "y": 0.450 },
+  { "image_id": "img-retaining-ligaments-001", "label_num": 3, "x": 0.550, "y": 0.620 },
+  { "image_id": "img-retaining-ligaments-001", "label_num": 4, "x": 0.700, "y": 0.280 },
+  { "image_id": "img-retaining-ligaments-001", "label_num": 5, "x": 0.500, "y": 0.400 },
+  { "image_id": "img-smas-layers-001", "label_num": 1, "x": 0.420, "y": 0.280 },
+  { "image_id": "img-smas-layers-001", "label_num": 2, "x": 0.380, "y": 0.380 },
+  { "image_id": "img-smas-layers-001", "label_num": 3, "x": 0.450, "y": 0.420 },
+  { "image_id": "img-smas-layers-001", "label_num": 4, "x": 0.520, "y": 0.480 },
+  { "image_id": "img-smas-layers-001", "label_num": 5, "x": 0.380, "y": 0.620 }
+]

@@ -7,13 +7,46 @@
   "credit": "Adaptado de Neligan 2023, vol. 2, cap. 13",
   "default_caption": "Vista frontal da musculatura periorbitária: orbicular (3 porções), frontal, corrugador do supercílio e prócero — dinâmica do terço superior da face.",
   "labels": [
-    { "num": 1, "text": "Orbicular pré-tarsal — piscar involuntário; aderido ao tarso." },
-    { "num": 2, "text": "Orbicular pré-septal — fechamento reflexo e voluntário; sobre o septo orbitário." },
-    { "num": 3, "text": "Orbicular orbitário — fechamento forçado; estende-se sobre o rebordo orbitário." },
-    { "num": 4, "text": "Músculo frontal — elevador da sobrancelha; compensa ptose palpebral." },
-    { "num": 5, "text": "Corrugador do supercílio — traciona medial e inferiormente; gera rugas verticais." },
-    { "num": 6, "text": "Prócero — traciona a glabela inferiormente; gera ruga horizontal nasal." }
+    {
+      "num": 1,
+      "text": "Orbicular pré-tarsal — piscar involuntário; aderido ao tarso.",
+      "x": 0.3,
+      "y": 0.5
+    },
+    {
+      "num": 2,
+      "text": "Orbicular pré-septal — fechamento reflexo e voluntário; sobre o septo orbitário.",
+      "x": 0.45,
+      "y": 0.5
+    },
+    {
+      "num": 3,
+      "text": "Orbicular orbitário — fechamento forçado; estende-se sobre o rebordo orbitário.",
+      "x": 0.5,
+      "y": 0.65
+    },
+    {
+      "num": 4,
+      "text": "Músculo frontal — elevador da sobrancelha; compensa ptose palpebral.",
+      "x": 0.4,
+      "y": 0.2
+    },
+    {
+      "num": 5,
+      "text": "Corrugador do supercílio — traciona medial e inferiormente; gera rugas verticais.",
+      "x": 0.55,
+      "y": 0.3
+    },
+    {
+      "num": 6,
+      "text": "Prócero — traciona a glabela inferiormente; gera ruga horizontal nasal.",
+      "x": 0.6,
+      "y": 0.35
+    }
   ],
-  "applicable_topics": ["blefaroplastia", "ritidoplastia"],
+  "applicable_topics": [
+    "blefaroplastia",
+    "ritidoplastia"
+  ],
   "status": "available"
 }

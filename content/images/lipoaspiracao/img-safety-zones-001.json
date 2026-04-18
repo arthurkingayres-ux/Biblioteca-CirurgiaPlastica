@@ -7,12 +7,39 @@
   "credit": "Adaptado de Rohrich & Beran, Grabb & Smith, 8ª Ed., 2020",
   "default_caption": "Mapa de zonas de perigo: submentoniano (n. marginal), virilha (vasos femorais), face medial da coxa (v. safena magna) e abdome profundo (perfuração visceral).",
   "labels": [
-    { "num": 1, "text": "Triângulo submentoniano — nervo marginal da mandíbula; manter cânula > 2 cm abaixo da borda mandibular." },
-    { "num": 2, "text": "Região inguinal — artéria e veia femorais; pulsação palpável guia a distância segura." },
-    { "num": 3, "text": "Face medial da coxa — v. safena magna e ramos do nervo safeno." },
-    { "num": 4, "text": "Região glútea profunda — nervo ciático; cânula não deve ultrapassar a fáscia muscular." },
-    { "num": 5, "text": "Abdome profundo — peritônio; perfuração visceral em pacientes com diástase ou hérnia." }
+    {
+      "num": 1,
+      "text": "Triângulo submentoniano — nervo marginal da mandíbula; manter cânula > 2 cm abaixo da borda mandibular.",
+      "x": 0.5,
+      "y": 0.155
+    },
+    {
+      "num": 2,
+      "text": "Região inguinal — artéria e veia femorais; pulsação palpável guia a distância segura.",
+      "x": 0.25,
+      "y": 0.68
+    },
+    {
+      "num": 3,
+      "text": "Face medial da coxa — v. safena magna e ramos do nervo safeno.",
+      "x": 0.25,
+      "y": 0.58
+    },
+    {
+      "num": 4,
+      "text": "Região glútea profunda — nervo ciático; cânula não deve ultrapassar a fáscia muscular.",
+      "x": 0.5,
+      "y": 0.41
+    },
+    {
+      "num": 5,
+      "text": "Abdome profundo — peritônio; perfuração visceral em pacientes com diástase ou hérnia.",
+      "x": 0.5,
+      "y": 0.48
+    }
   ],
-  "applicable_topics": ["lipoaspiracao"],
+  "applicable_topics": [
+    "lipoaspiracao"
+  ],
   "status": "available"
 }

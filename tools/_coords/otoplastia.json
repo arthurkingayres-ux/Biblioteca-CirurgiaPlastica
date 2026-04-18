@@ -1,0 +1,13 @@
+[
+  { "image_id": "img-auricular-cartilage-001", "label_num": 1, "x": 0.82, "y": 0.25 },
+  { "image_id": "img-auricular-cartilage-001", "label_num": 2, "x": 0.65, "y": 0.35 },
+  { "image_id": "img-auricular-cartilage-001", "label_num": 3, "x": 0.55, "y": 0.50 },
+  { "image_id": "img-auricular-cartilage-001", "label_num": 4, "x": 0.35, "y": 0.65 },
+  { "image_id": "img-auricular-cartilage-001", "label_num": 5, "x": 0.35, "y": 0.88 },
+  { "image_id": "img-auricular-landmarks-001", "label_num": 1, "x": 0.65, "y": 0.18 },
+  { "image_id": "img-auricular-landmarks-001", "label_num": 2, "x": 0.58, "y": 0.32 },
+  { "image_id": "img-auricular-landmarks-001", "label_num": 3, "x": 0.72, "y": 0.65 },
+  { "image_id": "img-auricular-landmarks-001", "label_num": 4, "x": 0.58, "y": 0.52 },
+  { "image_id": "img-auricular-landmarks-001", "label_num": 5, "x": 0.72, "y": 0.82 },
+  { "image_id": "img-auricular-landmarks-001", "label_num": 6, "x": 0.62, "y": 0.48 }
+]

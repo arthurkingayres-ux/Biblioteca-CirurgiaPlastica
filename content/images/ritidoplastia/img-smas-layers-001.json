@@ -7,12 +7,39 @@
   "credit": "Adaptado de Neligan 2023, vol. 2, cap. 11",
   "default_caption": "Camada fibromuscular contínua entre a gordura subcutânea e a fáscia parotidomasseteria — alvo da tração no facelift.",
   "labels": [
-    { "num": 1, "text": "Pele e derme — plano superficial; retalho cutâneo elevado primeiro." },
-    { "num": 2, "text": "Gordura subcutânea — entre pele e SMAS; preservar vascularização." },
-    { "num": 3, "text": "SMAS — camada fibromuscular; vetor de tração posterior-superior." },
-    { "num": 4, "text": "Fáscia parotidomasseteria — plano profundo; contém ramos do nervo facial." },
-    { "num": 5, "text": "Platisma — continuação cervical do SMAS; manejo associado." }
+    {
+      "num": 1,
+      "text": "Pele e derme — plano superficial; retalho cutâneo elevado primeiro.",
+      "x": 0.42,
+      "y": 0.28
+    },
+    {
+      "num": 2,
+      "text": "Gordura subcutânea — entre pele e SMAS; preservar vascularização.",
+      "x": 0.38,
+      "y": 0.38
+    },
+    {
+      "num": 3,
+      "text": "SMAS — camada fibromuscular; vetor de tração posterior-superior.",
+      "x": 0.45,
+      "y": 0.42
+    },
+    {
+      "num": 4,
+      "text": "Fáscia parotidomasseteria — plano profundo; contém ramos do nervo facial.",
+      "x": 0.52,
+      "y": 0.48
+    },
+    {
+      "num": 5,
+      "text": "Platisma — continuação cervical do SMAS; manejo associado.",
+      "x": 0.38,
+      "y": 0.62
+    }
   ],
-  "applicable_topics": ["ritidoplastia"],
+  "applicable_topics": [
+    "ritidoplastia"
+  ],
   "status": "available"
 }

@@ -7,12 +7,39 @@
   "credit": "Adaptado de Neligan 2023, vol. 2, cap. 18",
   "default_caption": "Dissecção cadavérica das três abóbadas nasais: abóbada óssea (osso nasal), abóbada cartilaginosa média (CLS) e abóbada cartilaginosa inferior (CLA — cartilagens laterais inferiores). A CLS jaz profunda ao osso nasal e à CLA.",
   "labels": [
-    {"num": 1, "text": "Osso nasal — abóbada superior; rígido, forma o terço cefálico do dorso."},
-    {"num": 2, "text": "Cartilagem lateral superior (CLS) — abóbada média; triangular, jaz profunda ao osso nasal na área do keystone."},
-    {"num": 3, "text": "Cartilagem lateral inferior / alar (CLA) — abóbada inferior; determina forma da ponta e do rim alar."},
-    {"num": 4, "text": "Septo nasal — pilar central; conecta-se dorsalmente às CLS formando estrutura em I-beam."},
-    {"num": 5, "text": "Tip-defining point — ápice da crura média da CLA; ponto de maior projeção da ponta nasal."}
+    {
+      "num": 1,
+      "text": "Osso nasal — abóbada superior; rígido, forma o terço cefálico do dorso.",
+      "x": 0.52,
+      "y": 0.3
+    },
+    {
+      "num": 2,
+      "text": "Cartilagem lateral superior (CLS) — abóbada média; triangular, jaz profunda ao osso nasal na área do keystone.",
+      "x": 0.48,
+      "y": 0.38
+    },
+    {
+      "num": 3,
+      "text": "Cartilagem lateral inferior / alar (CLA) — abóbada inferior; determina forma da ponta e do rim alar.",
+      "x": 0.52,
+      "y": 0.52
+    },
+    {
+      "num": 4,
+      "text": "Septo nasal — pilar central; conecta-se dorsalmente às CLS formando estrutura em I-beam.",
+      "x": 0.45,
+      "y": 0.4
+    },
+    {
+      "num": 5,
+      "text": "Tip-defining point — ápice da crura média da CLA; ponto de maior projeção da ponta nasal.",
+      "x": 0.54,
+      "y": 0.58
+    }
   ],
-  "applicable_topics": ["rinoplastia"],
+  "applicable_topics": [
+    "rinoplastia"
+  ],
   "status": "available"
 }

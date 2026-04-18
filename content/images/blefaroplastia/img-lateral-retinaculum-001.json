@@ -7,12 +7,39 @@
   "credit": "Adaptado de Neligan 2023, vol. 2, cap. 13",
   "default_caption": "Comparação canto lateral jovem versus envelhecido mostrando perda da suspensão do retináculo lateral e descenso da pálpebra inferior.",
   "labels": [
-    { "num": 1, "text": "Canto lateral jovem — posicionamento normal; tarsal strap e tendão cantal robusto." },
-    { "num": 2, "text": "Canto lateral envelhecido — laxidez do retináculo; descenso lateral da pálpebra inferior." },
-    { "num": 3, "text": "Tendão cantal lateral — inserção tubérculo de Whitnall; perde tensão com envelhecimento." },
-    { "num": 4, "text": "Tarsal strap — suspensório tarsal; frouxe com perda de sustentação." },
-    { "num": 5, "text": "Ligamento de Lockwood — componente de suspensão inferior; degeneração é gatilho para ectrópio." }
+    {
+      "num": 1,
+      "text": "Canto lateral jovem — posicionamento normal; tarsal strap e tendão cantal robusto.",
+      "x": 0.35,
+      "y": 0.3
+    },
+    {
+      "num": 2,
+      "text": "Canto lateral envelhecido — laxidez do retináculo; descenso lateral da pálpebra inferior.",
+      "x": 0.65,
+      "y": 0.5
+    },
+    {
+      "num": 3,
+      "text": "Tendão cantal lateral — inserção tubérculo de Whitnall; perde tensão com envelhecimento.",
+      "x": 0.55,
+      "y": 0.45
+    },
+    {
+      "num": 4,
+      "text": "Tarsal strap — suspensório tarsal; frouxe com perda de sustentação.",
+      "x": 0.6,
+      "y": 0.65
+    },
+    {
+      "num": 5,
+      "text": "Ligamento de Lockwood — componente de suspensão inferior; degeneração é gatilho para ectrópio.",
+      "x": 0.5,
+      "y": 0.7
+    }
   ],
-  "applicable_topics": ["blefaroplastia"],
+  "applicable_topics": [
+    "blefaroplastia"
+  ],
   "status": "available"
 }

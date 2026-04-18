@@ -7,12 +7,40 @@
   "credit": "Adaptado de Neligan 2023, vol. 2, cap. 13",
   "default_caption": "Depressão medial inferior à pálpebra inferior: origem do orbicular no periósteo maxilar cria o sulco; acentuada por deflação da bochecha.",
   "labels": [
-    { "num": 1, "text": "Tear trough (sulco lacrimojugal) — depressão medial inferior à pálpebra." },
-    { "num": 2, "text": "Origem do orbicular no periósteo maxilar — gera o sulco em ponto de fixação cutâneo." },
-    { "num": 3, "text": "Ligamento palpebro-malar — extensão lateral do tear trough; separa compartimentos." },
-    { "num": 4, "text": "Bolsa de gordura medial — protrusão acentua o sulco por contraste." },
-    { "num": 5, "text": "Compartimento graxo malar (SOOF) — deflação envelhece a transição." }
+    {
+      "num": 1,
+      "text": "Tear trough (sulco lacrimojugal) — depressão medial inferior à pálpebra.",
+      "x": 0.45,
+      "y": 0.5
+    },
+    {
+      "num": 2,
+      "text": "Origem do orbicular no periósteo maxilar — gera o sulco em ponto de fixação cutâneo.",
+      "x": 0.5,
+      "y": 0.65
+    },
+    {
+      "num": 3,
+      "text": "Ligamento palpebro-malar — extensão lateral do tear trough; separa compartimentos.",
+      "x": 0.6,
+      "y": 0.55
+    },
+    {
+      "num": 4,
+      "text": "Bolsa de gordura medial — protrusão acentua o sulco por contraste.",
+      "x": 0.4,
+      "y": 0.7
+    },
+    {
+      "num": 5,
+      "text": "Compartimento graxo malar (SOOF) — deflação envelhece a transição.",
+      "x": 0.35,
+      "y": 0.8
+    }
   ],
-  "applicable_topics": ["blefaroplastia", "ritidoplastia"],
+  "applicable_topics": [
+    "blefaroplastia",
+    "ritidoplastia"
+  ],
   "status": "available"
 }
