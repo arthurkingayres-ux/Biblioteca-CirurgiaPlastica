@@ -1,0 +1,245 @@
+[
+  {
+    "id": "narreconr-nota-001",
+    "type": "note",
+    "title": "Princípio das Sub-unidades e Like-for-Like",
+    "topic": "reconstrucao-de-nariz",
+    "area": "reconstrucao-facial",
+    "section": "principios",
+    "content": [
+      "O princípio das sub-unidades de Burget-Menick é o fundamento estético da reconstrução nasal: o nariz é dividido em nove zonas topográficas com cor, textura, espessura, pilosidade sebácea e relevo homogêneos. A cicatriz ideal cai nas junções entre sub-unidades — sulcos ou arestas naturais que a ocultam.",
+      "O corolário clínico imediato é o princípio like-for-like (semelhante por semelhante): a melhor cobertura para uma sub-unidade é um tecido com as mesmas propriedades — cor, espessura, textura, sebacidade. Isso justifica a preferência pelo retalho frontal paramediano para defeitos grandes da ponta e do dorso distal: a pele da fronte é a mais semelhante disponível.",
+      "A regra dos 50% é a extensão operacional do subunit principle: quando o defeito ocupa ≥ 50% de uma sub-unidade convexa (ponta, asa, dorso distal), ampliar a excisão para remover toda a sub-unidade antes de reconstruir — o resultado final com cicatriz em junção e reconstrução homogênea supera amplamente o resultado de tentar cobrir um defeito parcial dentro da sub-unidade.",
+      "Em sub-unidades côncavas (parede lateral, canto medial, sulco alar), a regra dos 50% é menos rígida — a concavidade absorve a cicatriz linear e a contração controlada, tornando segunda intenção e FTSG opções viáveis que seriam inadequadas em convexidade."
+    ],
+    "citations": [
+      "Neligan, 2023, vol. 3, cap. 3 (The subunit principle; The subunit principle applied)",
+      "Kaufman, 2018, cap. 5, intro"
+    ],
+    "updates": [],
+    "tags": [
+      "principio",
+      "sub-unidades",
+      "like-for-like",
+      "regra-50-porcento",
+      "burget-menick"
+    ]
+  },
+  {
+    "id": "narreconr-nota-002",
+    "type": "note",
+    "title": "Avaliação do Defeito Nasal — Checklist de Seis Perguntas",
+    "topic": "reconstrucao-de-nariz",
+    "area": "reconstrucao-facial",
+    "section": "avaliacao-preoperatoria",
+    "content": [
+      "O planejamento começa no defeito, não na técnica. Seis perguntas estruturam o raciocínio antes de qualquer decisão técnica (adaptadas do framework de Kaufman ao nariz):",
+      "1. Quais camadas estão faltando? Só pele? Pele + arcabouço? Full-thickness com lining exposto? Cada camada ausente exige reposição com seu próprio tecido.",
+      "2. Qual sub-unidade está envolvida? Dorso, ponta, asa, parede lateral, columela, triângulo mole? O defeito está restrito a uma sub-unidade ou cruza junções?",
+      "3. Qual a dimensão? Medir maior eixo × menor eixo em centímetros com fotografia com régua. Limiar pragmático de Kaufman: < 1,5 cm (repertório local) vs. ≥ 1,5 cm (interpolação).",
+      "4. Qual a profundidade? Superficial (epiderme + derme), sub-dérmico, com cartilagem exposta (leito avascular — retalho obrigatório), full-thickness (lining exposto ou ausente).",
+      "5. Qual a qualidade da pele nativa e do tecido doador potencial? Sebácea espessa (sub-unidade distal) vs. fina-móvel (sub-unidade proximal); laxidez do dorso, bochecha medial, sulco melolabial, fronte.",
+      "6. Proximidade de free margin? Margem alar, sill, ponta, columela, margem palpebral inferior — há free margin em risco de tração perpendicular pelo fechamento?"
+    ],
+    "citations": [
+      "Kaufman, 2018, cap. 5, intro e p. 95",
+      "Neligan, 2023, vol. 3, cap. 3, algoritmo 3.1"
+    ],
+    "updates": [],
+    "tags": [
+      "avaliacao",
+      "checklist",
+      "preoperatorio",
+      "framework-kaufman",
+      "defeito-nasal"
+    ]
+  },
+  {
+    "id": "narreconr-nota-003",
+    "type": "note",
+    "title": "Classificação de Menick por Tamanho e Profundidade",
+    "topic": "reconstrucao-de-nariz",
+    "area": "reconstrucao-facial",
+    "section": "classificacao",
+    "content": [
+      "Menick (Neligan 2023, vol. 3, cap. 3) resume os defeitos nasais em três categorias operacionais que orientam a escolha do repertório:",
+      "Categoria 1 — Pequeno superficial (small, superficial): < 1,5 cm, pele apenas, borda sem tração excessiva. Repertório: segunda intenção em côncavo, FTSG em concavidade plana, retalho local pequeno (bilobado Zitelli em distal, V-Y em sulco alar, rombóide em parede lateral).",
+      "Categoria 2 — Profundo adversamente localizado (deep, adversely located): defeito que cruza sub-unidade convexa, atinge cartilagem, ou se aproxima de margem alar. Repertório: retalho local com respeito à camada estrutural + batten graft se margem alar em risco.",
+      "Categoria 3 — Grande ou full-thickness (large and/or full-thickness): ≥ 1,5 cm, múltiplas sub-unidades, ou perda das três camadas. Repertório: paramediano frontal + lining flap septal/intranasal + batten graft + suporte em dois ou três estágios.",
+      "Essa classificação se sobrepõe ao algoritmo de Kaufman (secs. 5.1–5.12) em ordem crescente de complexidade. A chave diagnóstica é identificar corretamente a profundidade antes de comprometer-se com a técnica."
+    ],
+    "citations": [
+      "Neligan, 2023, vol. 3, cap. 3 (Classification of defects)"
+    ],
+    "updates": [],
+    "tags": [
+      "classificacao",
+      "menick",
+      "profundidade",
+      "tamanho",
+      "categoria-defeito"
+    ]
+  },
+  {
+    "id": "narreconr-nota-004",
+    "type": "note",
+    "title": "Fisiopatologia do Trapdoor / Pincushioning em Pele Sebácea",
+    "topic": "reconstrucao-de-nariz",
+    "area": "reconstrucao-facial",
+    "section": "fisiopatologia",
+    "content": [
+      "O trapdoor (também chamado pincushioning) é a complicação estética mais frequente nos retalhos nasais — especialmente bilobado de Zitelli, melolabial, ilha V-Y e cheek-to-nose em pele sebácea do terço distal.",
+      "O mecanismo é a contração concêntrica da cicatriz periférica sobre o pedículo subcutâneo espesso que está por baixo do retalho: a pele sebácea aderida contrai circunferencialmente, e o volume do tecido celular subcutâneo do pedículo cria um abaulamento central — a apparência de armadilha (trap-door) ou almofada (pincushion).",
+      "Prevenção: (1) undermining generoso ao redor do retalho (~1 cm além da borda); (2) tacking sutures absorvíveis do fundo do retalho ao leito profundo (eliminar espaço morto); (3) pressure bandage nas primeiras 24 h; (4) evitar bordas perfeitamente circulares — pequenos tapers ajudam.",
+      "Manejo: injeção intralesional de triancinolona 10–40 mg/mL em 6 semanas, repetida em 4–6 semanas. Scarabrasion / afinamento cirúrgico em 3–6 meses para casos persistentes. Reabertura e refinamento raramente necessário."
+    ],
+    "citations": [
+      "Kaufman, 2018, cap. 5, secs. 5.7–5.9 keypoints",
+      "Neligan, 2023, vol. 3, cap. 3"
+    ],
+    "updates": [],
+    "tags": [
+      "fisiopatologia",
+      "trapdoor",
+      "pincushioning",
+      "pele-sebacea",
+      "complicacao"
+    ]
+  },
+  {
+    "id": "narreconr-nota-005",
+    "type": "note",
+    "title": "Alar Notching — Prevenção e Manejo",
+    "topic": "reconstrucao-de-nariz",
+    "area": "reconstrucao-facial",
+    "section": "complicacoes",
+    "content": [
+      "O alar notching (entalhe cefálico da margem alar) é uma das complicações mais frequentes em reconstrução da asa e triângulo mole — e a mais visível, pois assimetria narinária é perceptível mesmo a distâncias conversacionais.",
+      "Mecanismo: tração perpendicular sobre a margem alar (vetor errado de fechamento, contração cicatricial sem suporte cartilaginoso, segunda intenção em convexidade adjacente à margem).",
+      "Prevenção: (a) vetor de tensão sempre paralelo à margem alar, nunca perpendicular — simular com pinça antes de incidir; (b) batten graft (conchal ou septal) em qualquer reconstrução full-thickness da asa ou triângulo mole; (c) em segunda intenção próximo à margem, sutura-guia parcial para direcionar contração.",
+      "Diagnóstico: inspeção frontal e worm's eye view — assimetria das narinas, entalhe visível na margem alar operada. Comparar com fotografia pré-operatória.",
+      "Manejo: revisão com Z-plastia ou inclusão tardia de batten graft. Conversão para paramediano frontal se notching severo com pele insuficiente para reparo local."
+    ],
+    "citations": [
+      "Kaufman, 2018, cap. 5 keypoints",
+      "Neligan, 2023, vol. 3, cap. 3"
+    ],
+    "updates": [],
+    "tags": [
+      "complicacao",
+      "alar-notching",
+      "margem-alar",
+      "prevencao",
+      "batten-graft"
+    ]
+  },
+  {
+    "id": "narreconr-nota-006",
+    "type": "note",
+    "title": "Colapso da Válvula Nasal Interna (VNI)",
+    "topic": "reconstrucao-de-nariz",
+    "area": "reconstrucao-facial",
+    "section": "complicacoes",
+    "content": [
+      "O colapso da válvula nasal interna (VNI) é uma complicação funcional que pode resultar em obstrução nasal crônica após reconstrução do terço médio do nariz.",
+      "Mecanismo: perda de suporte lateral (cartilagem lateral superior — ULC — removida sem batten graft de reposição), ou retalho impingindo sobre o istmo no sulco alar (melolabial ou cheek-to-nose mal ancorado ao periósteo maxilar).",
+      "Prevenção: batten graft de suporte da parede lateral quando há perda ou enfraquecimento das ULC; pexia periosteal em melolabial para não obliterar istmo.",
+      "Diagnóstico: sintoma funcional (queixa de obstrução em inspiração, especialmente ao decúbito) + teste de Cottle positivo (alívio da obstrução ao deslocar o sulco alar lateralmente com um dedo) + inspeção intranasal (colapso da parede lateral em inspiração).",
+      "Manejo: inclusão tardia de spreader graft ou alar batten graft autocartilaginoso (septal ou conchal), após 6 meses de maturação cicatricial."
+    ],
+    "citations": [
+      "Kaufman, 2018, cap. 5, sec. 5.10 discussão",
+      "Neligan, 2023, vol. 3, cap. 3 (Hard-tissue support replacement)"
+    ],
+    "updates": [],
+    "tags": [
+      "complicacao",
+      "valvula-nasal",
+      "VNI",
+      "obstrucao-nasal",
+      "cottle"
+    ]
+  },
+  {
+    "id": "narreconr-nota-007",
+    "type": "note",
+    "title": "Staging e Intermediate Operation de Menick",
+    "topic": "reconstrucao-de-nariz",
+    "area": "reconstrucao-facial",
+    "section": "staging",
+    "content": [
+      "O conceito de staging (cirurgia em estágios) é fundamental para defeitos nasais complexos — especialmente no retalho frontal paramediano e no cheek-to-nose. O princípio é que estágios bem planejados produzem resultado estético superior a um tempo cirúrgico único forçado.",
+      "No paramediano frontal clássico (Kaufman 2 estágios): Estágio I (dia 0) — transferência do retalho + inset; Estágio II (3–4 semanas) — divisão do pedículo + inset final com afinamento.",
+      "Na estratégia de Menick (3 estágios): entre o Estágio I e o Estágio II, insere-se uma intermediate operation (7–14 dias após a transferência). Nela, o retalho é elevado em fino esqueleto cutâneo (~2–3 mm), gordura excessiva e músculo frontal são removidos, contorno esculpido com bisturi — tudo antes que o pedículo seja dividido. Preferido em full-thickness grandes com cartilagem e lining simultaneamente reconstruídos.",
+      "O benefício da intermediate operation é que ela permite avaliar e refinar o contorno nasal enquanto o pedículo ainda nutre o retalho — qualquer excesso de volume ou assimetria pode ser corrigido antes do estágio final. Após a divisão do pedículo, a vascularização distal passa a depender do neovascular do leito nasal, tornando revisões mais delicadas.",
+      "Em fumantes: se urgência obrigar a operar, converter 2-stage em 3-stage com afinamento mínimo no Estágio I para preservar pedículo mais robusto, reduzindo risco de necrose parcial."
+    ],
+    "citations": [
+      "Neligan, 2023, vol. 3, cap. 3 (Stage II: the intermediate operation, Box 3.3)",
+      "Kaufman, 2018, cap. 5, sec. 5.12"
+    ],
+    "updates": [],
+    "tags": [
+      "staging",
+      "intermediate-operation",
+      "menick",
+      "paramediano",
+      "tres-estagios"
+    ]
+  },
+  {
+    "id": "narreconr-nota-008",
+    "type": "note",
+    "title": "Tabagismo e Reconstrução Nasal — Impacto e Protocolo",
+    "topic": "reconstrucao-de-nariz",
+    "area": "reconstrucao-facial",
+    "section": "fisiopatologia",
+    "content": [
+      "O tabagismo é o principal fator de risco modificável para complicações em reconstrução nasal, especialmente em retalhos interpolados (paramediano frontal, cheek-to-nose) e em enxertos compostos auriculares.",
+      "Mecanismo: nicotina e monóxido de carbono causam vasoconstricção microvascular, redução da oxigenação tecidual e comprometimento da neovascularização. Retalhos com pedículos estreitos (paramediano com < 1,5 cm) ou enxertos compostos (que dependem de neovascular das bordas para sobreviver) são os mais vulneráveis.",
+      "Impacto quantificado: tabagismo ativo aumenta necrose parcial em retalhos nasais em ~2–3× (Kaufman 2018, secs. 5.7, 5.12). Em enxerto composto auricular, um único cigarro no pós-operatório pode necrosar o enxerto inteiramente.",
+      "Protocolo obrigatório: cessação documentada ≥ 4 semanas antes da cirurgia e ≥ 2 semanas depois. Cessação é condição para operar, não recomendação.",
+      "Adaptações técnicas em fumantes que precisam ser operados: (1) não afinar o distal flap do paramediano no Estágio I; (2) considerar delay de 7–10 dias antes do inset definitivo; (3) converter 2-stage em 3-stage; (4) evitar enxerto composto auricular."
+    ],
+    "citations": [
+      "Kaufman, 2018, cap. 5, secs. 5.7, 5.12 keypoints",
+      "Neligan, 2023, vol. 3, cap. 3 (Consider a preliminary operation, box 3.4)"
+    ],
+    "updates": [],
+    "tags": [
+      "tabagismo",
+      "necrose",
+      "fator-risco",
+      "cessacao",
+      "paramediano"
+    ]
+  },
+  {
+    "id": "narreconr-nota-009",
+    "type": "note",
+    "title": "Procedimentos Secundários e Cronograma de Revisão",
+    "topic": "reconstrucao-de-nariz",
+    "area": "reconstrucao-facial",
+    "section": "pos-operatorio",
+    "content": [
+      "A reconstrução nasal raramente termina com o fechamento da pele no último estágio. Procedimentos secundários são esperados e devem ser planejados desde o início para gerenciar expectativas.",
+      "Scarabrasion (dermabrasion superficial) em 3 meses: indicada em cicatrizes de FTSG, enxerto pré-auricular e paramediano frontal para melhora de textura, cor e disfarce de junções. Gesto ambulatorial que melhora significativamente os resultados de pele sebácea.",
+      "Injeção intralesional de triancinolona 10–40 mg/mL em 6 semanas e 3 meses: para trapdoor/pincushioning persistente após bilobado, melolabial, ilha V-Y. Repetida em 4–6 semanas se necessário.",
+      "Z-plastia ou W-plastia para cicatrizes verticais que cruzaram RSTL em paredes laterais ou dorso: geralmente após 6–12 meses de maturação completa.",
+      "Revisão de contorno tardio do paramediano: afinamento adicional, correção de abaulamento residual ou reajuste da transição retalho-nariz — usualmente 6 meses após divisão do pedículo.",
+      "Batten graft secundário (septal ou conchal) para alar notching ou colapso de VNI diagnosticados tardiamente: incluir em tempo de revisão após 6 meses de maturação. Não esperar — colapsode valvula causa sintoma funcional progressivo."
+    ],
+    "citations": [
+      "Kaufman, 2018, cap. 5, secs. 5.5–5.12 discussões",
+      "Neligan, 2023, vol. 3, cap. 3"
+    ],
+    "updates": [],
+    "tags": [
+      "pos-operatorio",
+      "revisao-cicatriz",
+      "scarabrasion",
+      "triancinolona",
+      "procedimentos-secundarios"
+    ]
+  }
+]

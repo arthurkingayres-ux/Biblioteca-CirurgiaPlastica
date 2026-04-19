@@ -1,0 +1,509 @@
+[
+  {
+    "id": "narreconr-anat-001",
+    "type": "anatomy",
+    "title": "Sub-unidades Estéticas de Burget-Menick",
+    "aliases": [
+      "subunit principle",
+      "nove sub-unidades nasais",
+      "Burget-Menick subunits"
+    ],
+    "topic": "reconstrucao-de-nariz",
+    "area": "reconstrucao-facial",
+    "one_liner": "O nariz é dividido em 9 sub-unidades com cor, textura, espessura e relevo homogêneos; cicatriz ideal cai nas junções entre elas.",
+    "structures": [
+      {
+        "label": "Dorso",
+        "description": "Ímpar, central; convexo longitudinal; pele intermediária a distal."
+      },
+      {
+        "label": "Ponta",
+        "description": "Ímpar, central; convexa globular; pele espessa e sebácea."
+      },
+      {
+        "label": "Columela",
+        "description": "Ímpar, central; estreita; pele fina; convexa anterior-inferior."
+      },
+      {
+        "label": "Parede lateral D/E",
+        "description": "Par; plana a levemente côncava; pele intermediária."
+      },
+      {
+        "label": "Asa alar D/E",
+        "description": "Par; convexa; sebácea; aderida à cartilagem alar inferior."
+      },
+      {
+        "label": "Triângulo mole D/E",
+        "description": "Par; junção ponta-borda alar; sem cartilagem; free margin frágil."
+      }
+    ],
+    "numbers": [
+      {
+        "label": "Total de sub-unidades",
+        "value": "9",
+        "note": "3 ímpares (dorso, ponta, columela) + 3 pares (paredes laterais, asas, triângulos moles)"
+      },
+      {
+        "label": "Regra dos 50%",
+        "value": "≥ 50%",
+        "note": "Se defeito ocupa ≥50% de sub-unidade convexa, ampliar para a sub-unidade inteira antes de reconstruir"
+      }
+    ],
+    "relations": [
+      "Junções entre sub-unidades são sulcos ou arestas naturais que ocultam cicatrizes lineares",
+      "Sub-unidades côncavas (parede lateral, canto medial, sulco alar) toleram segunda intenção e FTSG",
+      "Sub-unidades convexas (ponta, asa, dorso) exigem retalho com reposição de volume"
+    ],
+    "clinical_hook": "Retalho ou enxerto colocado dentro de sub-unidade convexa aparece como patch — remendo visível pela iluminação tangencial. Respeitar a doutrina das sub-unidades é o fundamento estético de toda reconstrução nasal.",
+    "how_to_identify": "Iluminação tangencial lateral (lanterna em ângulo raso) com paciente sentado; fotografia frontal, 3/4, perfil e worm's eye view para registrar columela e sill narinário.",
+    "citations": [
+      "Neligan, 2023, vol. 3, cap. 3, p. 55 (subunit principle de Burget-Menick)",
+      "Kaufman, 2018, cap. 5, intro"
+    ],
+    "updates": [],
+    "tags": [
+      "anatomia",
+      "sub-unidades",
+      "burget-menick",
+      "regra-50-porcento",
+      "principio-estetico"
+    ]
+  },
+  {
+    "id": "narreconr-anat-002",
+    "type": "anatomy",
+    "title": "Camadas Anatômicas do Nariz (Três Lâminas)",
+    "aliases": [
+      "three layers of the nose",
+      "três camadas nasais",
+      "cobertura-arcabouco-lining"
+    ],
+    "topic": "reconstrucao-de-nariz",
+    "area": "reconstrucao-facial",
+    "one_liner": "O nariz é um órgão em 3 camadas funcionalmente distintas: cobertura cutânea, arcabouço osteocartilaginoso e lining mucoso — cada uma reposta com seu próprio tecido.",
+    "structures": [
+      {
+        "label": "Camada 1 — Cobertura cutânea",
+        "description": "Pele fina e móvel no terço superior; espessa, sebácea e aderente no terço distal."
+      },
+      {
+        "label": "Camada 2 — Arcabouço osteocartilaginoso",
+        "description": "Ossos nasais (terço superior), cartilagens laterais superiores (terço médio), cartilagens alares inferiores e septo (terço distal)."
+      },
+      {
+        "label": "Camada 3 — Lining mucoso",
+        "description": "Epitélio respiratório; perda causa contração secundária e fechamento de narina; não pode ser deixada para fechar sozinha em defeitos > ~5 mm."
+      }
+    ],
+    "numbers": [
+      {
+        "label": "Limite lining",
+        "value": "> ~5 mm",
+        "note": "Defeito de lining maior que 5 mm precisa de reconstrução ativa; não pode contrair sozinho"
+      }
+    ],
+    "relations": [
+      "Triângulo mole não tem cartilagem — batten graft de suporte indicado quando defeito envolve margem alar adjacente",
+      "Cartilagem septal é fonte primária de enxerto para batten grafts em reconstrução nasal"
+    ],
+    "clinical_hook": "Defeito full-thickness (pele + arcabouço + lining) exige reposição de cada camada com seu próprio tecido; improvisar uma camada a partir da outra compromete estrutura ou função.",
+    "how_to_identify": "Inspeção visual + palpação com pinça de Adson para aferir integridade de cartilagem; rinoscopia anterior para avaliar lining.",
+    "citations": [
+      "Neligan, 2023, vol. 3, cap. 3 (Principles of regional unit repair)",
+      "Kaufman, 2018, cap. 5, intro"
+    ],
+    "updates": [],
+    "tags": [
+      "anatomia",
+      "camadas-nasais",
+      "lining",
+      "arcabouco",
+      "full-thickness"
+    ]
+  },
+  {
+    "id": "narreconr-anat-003",
+    "type": "anatomy",
+    "title": "Gradação da Pele Nasal (Terços)",
+    "aliases": [
+      "nasal skin quality",
+      "espessura da pele nasal",
+      "sebacidade nasal"
+    ],
+    "topic": "reconstrucao-de-nariz",
+    "area": "reconstrucao-facial",
+    "one_liner": "A pele nasal muda de fina e móvel na raiz para espessa, sebácea e aderente no terço distal — essa gradação condiciona a escolha do método cirúrgico.",
+    "structures": [
+      {
+        "label": "Terço superior (rádix, dorso proximal)",
+        "description": "Pele fina, móvel, pobre em glândulas sebáceas; aceita retalhos de avanço e rotação pequenos."
+      },
+      {
+        "label": "Terço médio (dorso distal, paredes laterais)",
+        "description": "Espessura e sebacidade intermediárias; aceita maioria das técnicas locais."
+      },
+      {
+        "label": "Terço distal (ponta, supra-tip, asas, columela)",
+        "description": "Pele espessa, sebácea, aderente ao pericôndrio, pouco distensível; alto risco de trapdoor em retalhos curvos."
+      }
+    ],
+    "relations": [
+      "Terço distal: baixa aderência de enxertos sobre convexidade, mas excelente like-for-like dentro da própria sub-unidade",
+      "Retalhos de avanço/rotação pequenos funcionam bem no terço superior/médio, mas não recrutam tecido suficiente no terço distal"
+    ],
+    "clinical_hook": "Pele sebácea do terço distal impõe preferência por bilobado de Zitelli, ilha V-Y, melolabial interpolada ou paramediano frontal — não insistir em fechamento primário ou FTSG em convexidade.",
+    "how_to_identify": "Palpação: terço distal é firme e não desliza; terço superior é pinçável e deslizante. Sebacidade visível à inspeção.",
+    "citations": [
+      "Neligan, 2023, vol. 3, cap. 3 (Understanding nasal skin quality)",
+      "Kaufman, 2018, cap. 5"
+    ],
+    "updates": [],
+    "tags": [
+      "anatomia",
+      "pele-nasal",
+      "sebacidade",
+      "terca-distal",
+      "trapdoor"
+    ]
+  },
+  {
+    "id": "narreconr-anat-004",
+    "type": "anatomy",
+    "title": "Arcabouço Osteocartilaginoso Nasal",
+    "aliases": [
+      "structural framework",
+      "cartilagens nasais",
+      "suporte nasal"
+    ],
+    "topic": "reconstrucao-de-nariz",
+    "area": "reconstrucao-facial",
+    "one_liner": "Quatro componentes estruturais nasais: ossos nasais (terço superior), cartilagens laterais superiores (terço médio), cartilagens alares inferiores e septo (terço distal).",
+    "structures": [
+      {
+        "label": "Ossos nasais",
+        "description": "Próprio e processo frontal da maxila; formam o terço superior rígido."
+      },
+      {
+        "label": "Cartilagens laterais superiores (ULC)",
+        "description": "Upper lateral cartilages; terço médio; formam a válvula nasal interna com o septo."
+      },
+      {
+        "label": "Cartilagens alares inferiores (LLC)",
+        "description": "Lower lateral cartilages, em domo; terço distal; definem projeção, rotação da ponta e suporte da asa."
+      },
+      {
+        "label": "Septo cartilaginoso",
+        "description": "Suporte central; fonte habitual de batten grafts em reconstrução nasal."
+      }
+    ],
+    "relations": [
+      "Triângulo mole é zona sem cartilagem — batten graft de suporte indicado sempre que o defeito envolve margem alar adjacente",
+      "Perda das cartilagens laterais superiores sem batten graft resulta em colapso da válvula nasal interna"
+    ],
+    "clinical_hook": "Batten graft de cartilagem septal ou conchal deve ser posicionado acima do lining e abaixo do retalho de cobertura; dimensionado 6–8 mm maior que o defeito para ancoragem em pockets nas bordas.",
+    "how_to_identify": "Palpação bimanual gentil; rinoscopia anterior para avaliar colapso de válvula; alar notching indica perda de suporte alar.",
+    "citations": [
+      "Neligan, 2023, vol. 3, cap. 3 (Hard-tissue support replacement)",
+      "Kaufman, 2018, cap. 5, sec. 5.11 discussão"
+    ],
+    "updates": [],
+    "tags": [
+      "anatomia",
+      "arcabouco",
+      "cartilagens",
+      "valvula-nasal",
+      "batten-graft"
+    ]
+  },
+  {
+    "id": "narreconr-anat-005",
+    "type": "anatomy",
+    "title": "Vascularização Nasal Cirúrgica",
+    "aliases": [
+      "vascular supply of the nose",
+      "artérias nasais",
+      "pedículos nasais"
+    ],
+    "topic": "reconstrucao-de-nariz",
+    "area": "reconstrucao-facial",
+    "one_liner": "Confluência das carótidas externa (via facial) e interna (via oftálmica), com rede anastomótica densa que sustenta retalhos randômicos e o retalho axial frontal paramediano.",
+    "structures": [
+      {
+        "label": "A. angular",
+        "description": "Ramo terminal da facial; percorre sulco nasogeniano; base do melolabial e cheek-to-nose."
+      },
+      {
+        "label": "A. dorsal nasal",
+        "description": "Ramo terminal da oftálmica; emerge medialmente à tróclea; anastomosa-se com angular contralateral no dorso."
+      },
+      {
+        "label": "A. lateral nasal",
+        "description": "Ramo da angular/facial; corre pelo sulco alar; pedículo implícito no V-Y e melolabial."
+      },
+      {
+        "label": "A. columelar",
+        "description": "Ramo septal da labial superior; perfunde columela; anastomosa-se com ramos da dorsal nasal na ponta."
+      },
+      {
+        "label": "A. supratroclear",
+        "description": "Ramo da oftálmica; 1,2–1,7 cm lateral à linha média; pedículo axial do retalho frontal paramediano."
+      }
+    ],
+    "numbers": [
+      {
+        "label": "Posição a. supratroclear",
+        "value": "1,2–1,7 cm",
+        "note": "Lateral à linha média na borda orbitária superior"
+      },
+      {
+        "label": "Largura do pedículo frontal",
+        "value": "1,2–1,5 cm",
+        "note": "Pedículos mais estreitos comprometem perfusão em fumantes"
+      }
+    ],
+    "relations": [
+      "Plexo subdérmico sustenta todos os retalhos randômicos nasais com razão C/L de até ~3:1",
+      "Tabagismo ativo aumenta necrose em ~2–3× — cessação ≥ 4 semanas pré-operatórias obrigatória"
+    ],
+    "clinical_hook": "Para o paramediano frontal, o pedículo deve ter 1,2–1,5 cm sobre a supratroclear; Doppler pré-operatório confirma o trajeto quando há dúvida, especialmente em fronte com cicatrizes.",
+    "how_to_identify": "Doppler ultrassônico na borda orbitária superior (supratroclear) e no sulco alar (lateral nasal) quando o planejamento exige precisão de pedículo.",
+    "citations": [
+      "Neligan, 2023, vol. 3, cap. 3",
+      "Kaufman, 2018, cap. 5, sec. 5.12"
+    ],
+    "updates": [],
+    "tags": [
+      "anatomia",
+      "vascularizacao",
+      "supratroclear",
+      "angular",
+      "paramediano-frontal"
+    ]
+  },
+  {
+    "id": "narreconr-anat-006",
+    "type": "anatomy",
+    "title": "Triângulo Mole (Soft Triangle)",
+    "aliases": [
+      "soft triangle",
+      "triângulo avascular",
+      "facette"
+    ],
+    "topic": "reconstrucao-de-nariz",
+    "area": "reconstrucao-facial",
+    "one_liner": "Triângulo avascular na junção da ponta com a borda alar, sem cartilagem subjacente; free margin particularmente frágil a alar notching.",
+    "structures": [
+      {
+        "label": "Triângulo mole",
+        "description": "Par D/E; localizado na junção ponta-borda alar; sem cartilagem; apenas pele + mucosa em sandwiche."
+      }
+    ],
+    "numbers": [
+      {
+        "label": "Largura típica de batten graft para suporte",
+        "value": "5–8 mm",
+        "note": "Conchal; 6–8 mm mais longo que o defeito para ancoragem em pockets"
+      }
+    ],
+    "relations": [
+      "Qualquer defeito full-thickness do triângulo mole ou ala lateral exige batten graft de cartilagem conchal para prevenir alar notching tardio",
+      "Cheek-to-nose é o retalho de escolha para defeitos do triângulo mole + ala lateral"
+    ],
+    "clinical_hook": "Ausência de cartilagem no triângulo mole torna-o o ponto mais vulnerável a notching por contração cicatricial. Batten graft é seguro obrigatório em qualquer reconstrução full-thickness desta zona.",
+    "how_to_identify": "Inspeção worm's eye view (visão inferior do nariz): triângulo mole é a dobra de pele entre a cúpula da ponta e o rim alar, sem rigidez palpável.",
+    "citations": [
+      "Neligan, 2023, vol. 3, cap. 3 (Hard-tissue support replacement)",
+      "Kaufman, 2018, cap. 5, sec. 5.11"
+    ],
+    "updates": [],
+    "tags": [
+      "anatomia",
+      "triangulo-mole",
+      "soft-triangle",
+      "free-margin",
+      "alar-notching"
+    ]
+  },
+  {
+    "id": "narreconr-anat-007",
+    "type": "anatomy",
+    "title": "Inervação Sensitiva do Nariz Externo",
+    "aliases": [
+      "sensory innervation nose",
+      "nervo nasal externo",
+      "trigêmeo nasal"
+    ],
+    "topic": "reconstrucao-de-nariz",
+    "area": "reconstrucao-facial",
+    "one_liner": "Nariz externo inervado pelo trigêmeo V1 (oftálmico) em dorso e ponta, e V2 (maxilar) em asas, paredes laterais e columela.",
+    "structures": [
+      {
+        "label": "V1 — ramos nasociliar/nasal externo e supratroclear",
+        "description": "Inervam raiz nasal, dorso e ponta."
+      },
+      {
+        "label": "V2 — ramo infraorbitário",
+        "description": "Inerva asas, paredes laterais, columela e sill narinário."
+      }
+    ],
+    "relations": [
+      "Bloqueio infraorbitário + supratroclear oferece anestesia regional completa para reparos ambulatoriais",
+      "Lesão do ramo nasal externo (entre osso nasal e cartilagem lateral superior) gera hipoestesia da ponta"
+    ],
+    "clinical_hook": "O bloqueio infraorbitário bilateral + supratroclear bilateral reduz dose total de anestésico local e melhora conforto em casos longos — importante ao planejar reparos com bilobado, melolabial ou paramediano.",
+    "how_to_identify": "Testar sensibilidade com toque suave de algodão em dorso (V1) e asa (V2) separadamente para mapear área de bloqueio.",
+    "citations": [
+      "Neligan, 2023, vol. 3, cap. 3",
+      "Kaufman, 2018, cap. 5"
+    ],
+    "updates": [],
+    "tags": [
+      "anatomia",
+      "inervacao",
+      "trigêmeo",
+      "bloqueio-regional",
+      "anestesia-nasal"
+    ]
+  },
+  {
+    "id": "narreconr-anat-008",
+    "type": "anatomy",
+    "title": "Free Margins Nasais",
+    "aliases": [
+      "margens livres nasais",
+      "margem alar",
+      "sill narinário",
+      "columela livre"
+    ],
+    "topic": "reconstrucao-de-nariz",
+    "area": "reconstrucao-facial",
+    "one_liner": "Quatro free margins nasais — margem alar, ponta, columela e sill narinário — não admitem tração perpendicular sem distorção visível e comprometimento do fluxo aéreo.",
+    "structures": [
+      {
+        "label": "Margem alar livre",
+        "description": "Borda caudal da asa; primeira a distorcer com qualquer vetor perpendicular — sinal sentinela de planejamento inadequado."
+      },
+      {
+        "label": "Ponta",
+        "description": "Extremidade distal do nariz; distorção converte projeção harmônica em aparência bulbosa ou retraída."
+      },
+      {
+        "label": "Columela",
+        "description": "Coluna de pele entre as narinas; tração medial ou lateral produz assimetria narinária visível."
+      },
+      {
+        "label": "Sill narinário",
+        "description": "Base da narina; tração vertical produz elevação assimétrica da narina."
+      }
+    ],
+    "relations": [
+      "Vetor de fechamento deve ser sempre paralelo à margem alar, nunca perpendicular",
+      "Elipses de fechamento primário perto da margem alar devem ser reorientadas mesmo fora de RSTL"
+    ],
+    "clinical_hook": "Antes de qualquer fechamento no terço distal, simular o vetor de tensão com pinça e observar se margem alar ou columela se move — qualquer deslocamento exige redesenho ou batten graft.",
+    "how_to_identify": "Inspeção frontal + worm's eye view com fotografias pré e pós-operatórias. Avaliação de simetria narinária é critério primário de resultado.",
+    "citations": [
+      "Kaufman, 2018, cap. 5, intro",
+      "Neligan, 2023, vol. 3, cap. 3, p. 52"
+    ],
+    "updates": [],
+    "tags": [
+      "anatomia",
+      "free-margin",
+      "margem-alar",
+      "columela",
+      "alar-notching"
+    ]
+  },
+  {
+    "id": "narreconr-anat-009",
+    "type": "anatomy",
+    "title": "Plexo Subdérmico e Plano de Descolamento Nasal",
+    "aliases": [
+      "subdermal plexus",
+      "plano submuscular",
+      "undermining nasal"
+    ],
+    "topic": "reconstrucao-de-nariz",
+    "area": "reconstrucao-facial",
+    "one_liner": "Rede subdérmica densa sustenta retalhos randômicos nasais com razão C/L de até ~3:1; descolamento submuscular preserva o plexo e é o plano-padrão para retalhos nasais.",
+    "structures": [
+      {
+        "label": "Plexo subdérmico",
+        "description": "Rede vascular densa imediatamente profunda à derme; sustenta todos os retalhos randômicos (bilobado, ilha, rombóide, avanço, rotação)."
+      },
+      {
+        "label": "Plano submuscular (sub-SMAS nasal)",
+        "description": "Abaixo dos músculos nasais; preserva o plexo e permite mobilidade segura dos retalhos."
+      }
+    ],
+    "relations": [
+      "Descolamento em plano sub-cutâneo superficial compromete o plexo — evitar",
+      "Em retalho de Rieger e rotação bilateral, o descolamento submuscular amplo do dorso inteiro é essencial para mobilidade"
+    ],
+    "clinical_hook": "Undermining generoso (~1 cm além da borda do retalho) no plano submuscular é o principal fator preventivo de trapdoor/pincushioning — o espaço morto elimina-se com tacking sutures, não com tensão na sutura da pele.",
+    "how_to_identify": "Plano submuscular é identificado pela presença dos músculos nasais sobre o pericôndrio; descolamento rombocortante neste plano tem resistência uniforme e não sangra excessivamente.",
+    "citations": [
+      "Neligan, 2023, vol. 3, cap. 3",
+      "Kaufman, 2018, cap. 5, secs. 5.8–5.9"
+    ],
+    "updates": [],
+    "tags": [
+      "anatomia",
+      "plexo-subdermico",
+      "undermining",
+      "plano-submuscular",
+      "trapdoor"
+    ]
+  },
+  {
+    "id": "narreconr-anat-010",
+    "type": "anatomy",
+    "title": "Landmarks Cirúrgicos do Nariz",
+    "aliases": [
+      "sulco alar",
+      "supra-tip break",
+      "rim alar",
+      "sulco nasofacial"
+    ],
+    "topic": "reconstrucao-de-nariz",
+    "area": "reconstrucao-facial",
+    "one_liner": "Quatro landmarks guiam planejamento cirúrgico nasal: sulco alar, rim alar, supra-tip break e sulco nasofacial — todos usados para posicionar cicatrizes em junções naturais.",
+    "structures": [
+      {
+        "label": "Sulco alar",
+        "description": "Concavidade na junção asa-bochecha; oculta cicatrizes de melolabial, V-Y e rombóide; borda anatômica mais utilizada."
+      },
+      {
+        "label": "Rim alar",
+        "description": "Margem livre caudal da asa; zona de inserção do batten graft e do enxerto composto auricular."
+      },
+      {
+        "label": "Supra-tip break",
+        "description": "Junção dorso-ponta; delimitação superior da sub-unidade da ponta; ideal para cicatriz de retalho bilateral de rotação."
+      },
+      {
+        "label": "Sulco nasofacial",
+        "description": "Junção nariz-bochecha; trajetória de incisão do retalho de Rieger; oculta cicatriz do pedículo de rotação dorsal."
+      }
+    ],
+    "relations": [
+      "Tricones de Burow são excisados no sulco alar ou sulco nasofacial — nunca em pele lisa sem landmark natural",
+      "Marcação pré-operatória com paciente sentado é obrigatória para identificar landmarks corretos"
+    ],
+    "clinical_hook": "Paciente em decúbito supino achata o dorso e esconde o supra-tip break — a marcação deve ser sempre feita com o paciente sentado para que a iluminação tangencial revele os landmarks reais.",
+    "how_to_identify": "Iluminação lateral rasante com lanterna do celular; sulco alar é a depressão mais evidente. Supra-tip break é identificado pelo reflexo de luz no dorso distal.",
+    "citations": [
+      "Kaufman, 2018, cap. 5",
+      "Neligan, 2023, vol. 3, cap. 3"
+    ],
+    "updates": [],
+    "tags": [
+      "anatomia",
+      "landmarks",
+      "sulco-alar",
+      "rim-alar",
+      "supra-tip-break"
+    ]
+  }
+]

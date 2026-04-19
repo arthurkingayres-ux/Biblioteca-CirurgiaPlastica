@@ -1,0 +1,348 @@
+{
+  "id": "narreconr-fc-001",
+  "type": "flashcard",
+  "topic": "reconstrucao-de-nariz",
+  "area": "reconstrucao-facial",
+  "cards": [
+    {
+      "front": "Quantas sub-unidades estéticas tem o nariz segundo Burget-Menick?",
+      "back": "9 sub-unidades: dorso, ponta, columela (ímpares) + paredes laterais D/E, asas alares D/E, triângulos moles D/E (pares).",
+      "citation": "Neligan, 2023, vol. 3, cap. 3, p. 55",
+      "domain": "anatomia"
+    },
+    {
+      "front": "Qual é a regra dos 50% na reconstrução nasal?",
+      "back": "Se o defeito ocupa ≥ 50% de uma sub-unidade convexa, ampliar a excisão para remover a sub-unidade inteira antes de reconstruir — cicatriz final cai em junção entre sub-unidades.",
+      "citation": "Neligan, 2023, vol. 3, cap. 3 (The subunit principle)",
+      "domain": "decisao"
+    },
+    {
+      "front": "Em quais sub-unidades a regra dos 50% tem menor rigor e por quê?",
+      "back": "Sub-unidades côncavas (parede lateral, canto medial, sulco alar) — a concavidade absorve a cicatriz linear e a contração, tornando segunda intenção e FTSG viáveis.",
+      "citation": "Neligan, 2023, vol. 3, cap. 3",
+      "domain": "decisao"
+    },
+    {
+      "front": "Quais são as três camadas que podem estar ausentes em um defeito nasal?",
+      "back": "1. Cobertura cutânea; 2. Arcabouço osteocartilaginoso; 3. Lining mucoso. Cada uma reposta com seu próprio tecido.",
+      "citation": "Neligan, 2023, vol. 3, cap. 3; Kaufman, 2018, cap. 5",
+      "domain": "anatomia"
+    },
+    {
+      "front": "A que tamanho de perda de lining mucoso é necessária reconstrução ativa (não pode contrair sozinho)?",
+      "back": "> ~5 mm de defeito de lining.",
+      "citation": "Neligan, 2023, vol. 3, cap. 3 (Nasal lining restoration options)",
+      "domain": "anatomia"
+    },
+    {
+      "front": "Qual é o pedículo axial do retalho frontal paramediano?",
+      "back": "Artéria supratroclear — ramo da oftálmica, localizada ~1,2–1,7 cm lateral à linha média na borda orbitária superior.",
+      "citation": "Kaufman, 2018, cap. 5, sec. 5.12; Neligan, 2023, vol. 3, cap. 3",
+      "domain": "anatomia"
+    },
+    {
+      "front": "Qual a largura mínima segura do pedículo do paramediano frontal?",
+      "back": "1,2–1,5 cm centrado sobre a artéria supratroclear. Pedículos mais estreitos comprometem perfusão, especialmente em fumantes.",
+      "citation": "Kaufman, 2018, cap. 5, sec. 5.12, step 3",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Qual artéria é a base vascular dos retalhos melolabial e cheek-to-nose?",
+      "back": "Artéria angular — ramo terminal da artéria facial, percorre o sulco nasogeniano.",
+      "citation": "Neligan, 2023, vol. 3, cap. 3",
+      "domain": "anatomia"
+    },
+    {
+      "front": "Qual é o pedículo implícito no retalho de ilha V-Y do sulco alar?",
+      "back": "Artéria lateral nasal — ramo da angular/facial que corre pelo sulco alar.",
+      "citation": "Neligan, 2023, vol. 3, cap. 3",
+      "domain": "anatomia"
+    },
+    {
+      "front": "O que é o triângulo mole (soft triangle) e por que é cirurgicamente importante?",
+      "back": "Triângulo avascular D/E na junção ponta-borda alar, sem cartilagem subjacente. É um free margin especialmente frágil a alar notching por contração cicatricial.",
+      "citation": "Neligan, 2023, vol. 3, cap. 3",
+      "domain": "anatomia"
+    },
+    {
+      "front": "Quais são as 4 free margins do nariz que não admitem tração perpendicular?",
+      "back": "Margem alar, ponta, columela e sill narinário.",
+      "citation": "Kaufman, 2018, cap. 5, intro; Neligan, 2023, vol. 3, cap. 3, p. 52",
+      "domain": "anatomia"
+    },
+    {
+      "front": "Qual nervo inerva as asas, paredes laterais e columela do nariz externo?",
+      "back": "Ramo infraorbitário do V2 (nervo maxilar — trigêmeo).",
+      "citation": "Neligan, 2023, vol. 3, cap. 3",
+      "domain": "anatomia"
+    },
+    {
+      "front": "Em qual terço a pele nasal é mais sebácea, espessa e aderente ao pericôndrio?",
+      "back": "Terço distal (ponta, supra-tip, asas, columela) — pouco distensível, alto risco de trapdoor.",
+      "citation": "Neligan, 2023, vol. 3, cap. 3 (Understanding nasal skin quality)",
+      "domain": "anatomia"
+    },
+    {
+      "front": "Segunda intenção: quando está indicada no nariz?",
+      "back": "Defeitos superficiais em concavidade (canto medial, parede lateral proximal, sulco alar côncavo, concavidade rasa do dorso). Contraindicada em convexidade e próximo à margem alar.",
+      "citation": "Neligan, 2023, vol. 3, cap. 3; Kaufman, 2018, cap. 5, discussão sec. 5.6",
+      "domain": "decisao"
+    },
+    {
+      "front": "Qual o sítio doador preferido para FTSG no nariz e por quê?",
+      "back": "Região pré-auricular ou supraclavicular — textura e cor mais próximas do nariz que o retroauricular.",
+      "citation": "Neligan, 2023, vol. 3, cap. 3 (Pre-auricular and post-auricular skin grafts)",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Qual é o curativo de imobilização obrigatório no FTSG nasal?",
+      "back": "Bolster de amarração (tie-down dressing) com polipropileno 5-0 sobre gaze com vaselina por 5–7 dias, para imobilizar e maximizar contato enxerto-leito.",
+      "citation": "Kaufman, 2018, cap. 5, sec. 5.6",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Qual o tamanho máximo para enxerto composto auricular no nariz?",
+      "back": "< 1,0 cm (tamanho crítico de isquemia — neovascularização não alcança o centro do enxerto além de 1 cm).",
+      "citation": "Kaufman, 2018, cap. 5; Neligan, 2023, vol. 3, cap. 3 (Composite grafts)",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Qual é a doadora preferida para enxerto composto auricular no nariz e por quê?",
+      "back": "Helix da orelha — curvatura natural do helix reproduz o rim alar; cartilagem auricular fornece suporte; defeito doador fecha primariamente em cunha (wedge).",
+      "citation": "Neligan, 2023, vol. 3, cap. 3 (Composite grafts)",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Qual o protocolo de resfriamento após enxerto composto auricular?",
+      "back": "Gelo local intermitente nas primeiras 24–48 h para reduzir demanda metabólica durante o período de isquemia (protocolo clássico de Menick).",
+      "citation": "Neligan, 2023, vol. 3, cap. 3",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Para qual localização é indicado o retalho bilateral de rotação da ponta (Kaufman 5.5)?",
+      "back": "Defeito central na linha média do nariz (ponta, supra-tip, junção supra-tip/dorso distal) até ~1,2 × 1,0 cm, com laxidez dorsal e lateral adequada.",
+      "citation": "Kaufman, 2018, cap. 5, sec. 5.5",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Qual é a principal regra de planejamento no retalho de rotação bilateral da ponta?",
+      "back": "Tricones de Burow bilaterais no sulco alar + descolamento submuscular amplo bilateral; incisões curvilíneas seguem a junção nasal-alar.",
+      "citation": "Kaufman, 2018, cap. 5, sec. 5.5",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Para qual localização é indicado o avanço em ilha V-Y (Kaufman 5.7)?",
+      "back": "Defeito pequeno (~0,7 × 0,6 cm) no sulco alar anterior ou parede lateral inferior.",
+      "citation": "Kaufman, 2018, cap. 5, sec. 5.7",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Qual é o elemento-chave que torna o retalho de ilha V-Y viável?",
+      "back": "Pedículo subcutâneo central preservado — a dissecção das bordas deve ser cuidadosa para não comprometê-lo.",
+      "citation": "Kaufman, 2018, cap. 5, sec. 5.7 keypoint",
+      "domain": "tecnica"
+    },
+    {
+      "front": "No retalho rombóide para o sulco alar, por que o pedículo deve ser MEDIAL (bochecha)?",
+      "back": "Pedículo medial direciona o vetor de tensão para a bochecha, longe da margem alar. Pedículo lateral impingiria sobre a margem alar e a válvula nasal interna.",
+      "citation": "Kaufman, 2018, cap. 5, sec. 5.8 discussão",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Em transposição (rombóide, melolabial): qual defeito fechar primeiro?",
+      "back": "O defeito secundário primeiro — princípio de Kaufman para retalhos de transposição.",
+      "citation": "Kaufman, 2018, cap. 5",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Qual é o retalho padrão-ouro para defeitos < 1,5 cm da ponta, supra-tip e asa anterior?",
+      "back": "Retalho bilobado de Zitelli (geometric bilobed flap).",
+      "citation": "Kaufman, 2018, cap. 5, sec. 5.9; Neligan, 2023, vol. 3, cap. 3",
+      "domain": "decisao"
+    },
+    {
+      "front": "Qual a rotação total no bilobado de Zitelli e como é dividida?",
+      "back": "~90–100° total, dividida em dois lobos de ~45–50° cada.",
+      "citation": "Kaufman, 2018, cap. 5, sec. 5.9",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Qual o formato do segundo lobo no bilobado de Zitelli?",
+      "back": "Formato cordiforme (heart-shape), com base igual ao primeiro lobo, afunilando 30° no ápice para facilitar fechamento do defeito terciário em linha reta.",
+      "citation": "Kaufman, 2018, cap. 5, sec. 5.9; Neligan, 2023, vol. 3, cap. 3",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Qual a ordem de fechamento no bilobado de Zitelli?",
+      "back": "Defeito terciário → defeito do segundo lobo → defeito primário (inverter compromete geometria).",
+      "citation": "Kaufman, 2018, cap. 5, sec. 5.9",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Para defeito anterior da ponta/asa no bilobado: pedículo medial ou lateral?",
+      "back": "Pedículo medial (baseado no dorso/parede lateral). Pedículo lateral para defeitos mais posteriores. Regra Kaufman: defeitos anteriores = base medial; defeitos posteriores = base lateral.",
+      "citation": "Kaufman, 2018, cap. 5, sec. 5.9 discussão",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Qual é o gesto que MAIS reduz trapdoor no bilobado e retalhos em pele sebácea?",
+      "back": "Tacking sutures absorvíveis do fundo do retalho ao leito profundo, eliminando espaço morto, associado a undermining generoso (~1 cm além da borda).",
+      "citation": "Kaufman, 2018, cap. 5, secs. 5.8–5.9 keypoints",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Para qual localização o melolabial é melhor indicado em vez do bilobado?",
+      "back": "Parede lateral inferior, asa posterior ou sulco alar posterior, defeito ~2 cm — quando o bilobado já não tem mobilidade suficiente (> 1,5 cm).",
+      "citation": "Kaufman, 2018, cap. 5, sec. 5.10; Neligan, 2023, vol. 3, cap. 3",
+      "domain": "decisao"
+    },
+    {
+      "front": "Para defeito anterior (ponta/asa anterior), bilobado ou melolabial?",
+      "back": "Bilobado — melolabial arqueia desconfortavelmente sobre o sulco alar anterior, criando ponte visual.",
+      "citation": "Kaufman, 2018, cap. 5, sec. 5.10 keypoints",
+      "domain": "decisao"
+    },
+    {
+      "front": "O que é pexia ao periósteo maxilar no melolabial e por que é obrigatória?",
+      "back": "Sutura absorvível ancorando o pedículo ao periósteo maxilar sobre o sulco alar para recriar a concavidade nasomelolabial — previne trapdoor alar e obliteração do sulco.",
+      "citation": "Kaufman, 2018, cap. 5, sec. 5.10",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Quando dividir o pedículo no melolabial interpolado?",
+      "back": "3 semanas (Kaufman) ou 4 semanas (Menick) após a transferência.",
+      "citation": "Kaufman, 2018, cap. 5, sec. 5.10; Neligan, 2023, vol. 3, cap. 3",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Qual é a indicação do cheek-to-nose (Kaufman 5.11)?",
+      "back": "Defeito full-thickness de ponta lateral + triângulo mole ou ala lateral (~2,2 × 1,4 cm), onde melolabial não cabe e paramediano seria desproporcional.",
+      "citation": "Kaufman, 2018, cap. 5, sec. 5.11",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Por que o batten graft é quase sempre obrigatório no cheek-to-nose?",
+      "back": "O retalho reconstrói apenas a cobertura cutânea; sem batten graft de cartilagem conchal (5–8 mm), o alar notching na margem alar reconstruída é inevitável.",
+      "citation": "Kaufman, 2018, cap. 5, sec. 5.11",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Qual é a indicação do retalho frontal paramediano (Kaufman 5.12)?",
+      "back": "Defeito ≥ 1,5 cm em ponta, dorso distal, asa ou múltiplas sub-unidades convexas; ou qualquer defeito full-thickness com perda das três camadas.",
+      "citation": "Kaufman, 2018, cap. 5, sec. 5.12; Neligan, 2023, vol. 3, cap. 3",
+      "domain": "decisao"
+    },
+    {
+      "front": "Base ipsilateral ou contralateral no paramediano frontal?",
+      "back": "Ipsilateral ao defeito — pedículo contralateral torce demais; ipsilateral encurta rotação, tem alcance mais natural.",
+      "citation": "Kaufman, 2018, cap. 5, sec. 5.12, step 1",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Em que plano é feita a dissecção do pedículo do paramediano frontal?",
+      "back": "Inferiormente (sulco glabelar / borda orbitária): subperiosteal. Superiormente: subgaleal / subcutâneo. No nível do rim orbitário: dissecção fina para alongar e facilitar rotação.",
+      "citation": "Kaufman, 2018, cap. 5, sec. 5.12, steps 4–5",
+      "domain": "tecnica"
+    },
+    {
+      "front": "O que é a intermediate operation de Menick e quando é realizada?",
+      "back": "Entre Estágio I e II do paramediano (7–14 dias após transferência): elevação do retalho em fina espessura (~2–3 mm), remoção de gordura + músculo frontal, sculpt. Preferida em full-thickness grandes.",
+      "citation": "Neligan, 2023, vol. 3, cap. 3 (Stage II: the intermediate operation, Box 3.3)",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Quais as 3 fontes de lining para defeitos full-thickness nasais em ordem de tamanho?",
+      "back": "< 1,5 cm: hinge-flap mucoperiocondral septal. 1–3 cm: avanço bipedicular septal. > 3 cm / septo comprometido: forehead flap dobrado para lining.",
+      "citation": "Neligan, 2023, vol. 3, cap. 3 (Nasal lining restoration options)",
+      "domain": "decisao"
+    },
+    {
+      "front": "Quando usar cartilagem conchal vs. septal vs. costal para batten graft?",
+      "back": "Conchal: asa/triângulo mole < 2 cm. Septal (primeira escolha): parede lateral ou múltiplos defeitos. Costal (7ª–8ª costela): déficits extensos (nariz quase total).",
+      "citation": "Neligan, 2023, vol. 3, cap. 3 (Hard-tissue support replacement); Kaufman, 2018, cap. 5",
+      "domain": "decisao"
+    },
+    {
+      "front": "Quanto maior que o defeito deve ser o batten graft e por quê?",
+      "back": "6–8 mm maior que o defeito, para ancoragem em pockets nas bordas — garante estabilidade e suporte sem descolar.",
+      "citation": "Kaufman, 2018, cap. 5, sec. 5.11; Neligan, 2023, vol. 3, cap. 3",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Qual é o limiar de tamanho entre repertório local e interpolação (Kaufman)?",
+      "back": "< 1,5 cm → repertório local. ≥ 1,5 cm em sub-unidade convexa → interpolação (melolabial ou paramediano).",
+      "citation": "Kaufman, 2018, cap. 5, secs. 5.9 e 5.11",
+      "domain": "decisao"
+    },
+    {
+      "front": "Qual é a principal diferença entre o retalho de Rieger e a rotação bilateral para ponta?",
+      "back": "Rieger é rotação dorsal UNILATERAL, baseada na artéria dorsal nasal ipsilateral, indicada para defeitos lateralizados (parassagital). Rotação bilateral é para defeitos centrais na linha média.",
+      "citation": "Neligan, 2023, vol. 3, cap. 3 (Dorsal nasal flap); Kaufman, 2018, cap. 5",
+      "domain": "decisao"
+    },
+    {
+      "front": "Qual é a complicação mais frequente no bilobado de Zitelli em pele sebácea?",
+      "back": "Trapdoor / pincushioning — contração concêntrica da cicatriz periférica sobre pedículo subcutâneo espesso.",
+      "citation": "Kaufman, 2018, cap. 5, sec. 5.9 keypoints",
+      "domain": "complicacao"
+    },
+    {
+      "front": "Como tratar trapdoor / pincushioning estabelecido?",
+      "back": "Injeção intralesional de triancinolona 10–40 mg/mL em 6 semanas, repetida em 4–6 semanas. Scarabrasion em 3–6 meses para casos persistentes.",
+      "citation": "Kaufman, 2018, cap. 5, secs. 5.7–5.9; Neligan, 2023, vol. 3, cap. 3",
+      "domain": "complicacao"
+    },
+    {
+      "front": "Qual sinal de exame diagnostica colapso de válvula nasal interna?",
+      "back": "Teste de Cottle positivo: alívio da obstrução nasal ao deslocar o sulco alar lateralmente com um dedo.",
+      "citation": "Neligan, 2023, vol. 3, cap. 3",
+      "domain": "complicacao"
+    },
+    {
+      "front": "Como prevenir alar notching em qualquer reconstrução nasal?",
+      "back": "(1) Vetor de tensão paralelo à margem alar — nunca perpendicular. (2) Batten graft em qualquer defeito full-thickness de asa ou triângulo mole. (3) Evitar segunda intenção próximo à margem livre.",
+      "citation": "Kaufman, 2018, cap. 5 keypoints; Neligan, 2023, vol. 3, cap. 3",
+      "domain": "complicacao"
+    },
+    {
+      "front": "Qual o prazo de cessação de tabagismo obrigatório antes de paramediano ou enxerto composto?",
+      "back": "≥ 4 semanas antes da cirurgia e ≥ 2 semanas depois. Cessação é condição para operar.",
+      "citation": "Kaufman, 2018, cap. 5, secs. 5.7, 5.12; Neligan, 2023, vol. 3, cap. 3",
+      "domain": "complicacao"
+    },
+    {
+      "front": "Por que a marcação nasal deve ser feita com o paciente SENTADO?",
+      "back": "Em decúbito supino o nariz muda geometria sob gravidade: o dorso achata, o supra-tip break desaparece, e dog-ears se ocultam — marcação supina leva a planejamento incorreto.",
+      "citation": "Kaufman, 2018, cap. 5; Neligan, 2023, vol. 3, cap. 3",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Quando está indicada a scarabrasion após reconstrução nasal?",
+      "back": "Em 3 meses após FTSG, enxerto pré-auricular e paramediano frontal, para melhora de textura, cor e disfarce de junções. Gesto ambulatorial.",
+      "citation": "Kaufman, 2018, cap. 5, secs. 5.6, 5.12",
+      "domain": "pos-operatorio"
+    },
+    {
+      "front": "O que significa 'plataforma estável primeiro' na reconstrução multi-camada (Menick)?",
+      "back": "Bochecha, lábio e mento adjacentes devem estar restaurados antes do retalho nasal — o nariz não pode ser reconstruído sobre fundação em movimento (cicatriz ativa ou deformidade residual vizinha).",
+      "citation": "Neligan, 2023, vol. 3, cap. 3 (Restore the subcutaneous framework)",
+      "domain": "principio"
+    },
+    {
+      "front": "O que significa 'desconsiderar cicatrizes antigas' na reconstrução multi-camada?",
+      "back": "Cicatrizes velhas não são pele boa — tecido aderido e fibrótico não aceita retalho nem enxerto adequadamente. Debridar e reconsiderar a fonte doadora antes de comprometer-se com o retalho.",
+      "citation": "Neligan, 2023, vol. 3, cap. 3 (Disregard old scars)",
+      "domain": "principio"
+    }
+  ],
+  "tags": [
+    "flashcard",
+    "anatomia",
+    "tecnica",
+    "decisao",
+    "complicacao",
+    "pos-operatorio",
+    "principio",
+    "reconstrucao-nasal"
+  ]
+}

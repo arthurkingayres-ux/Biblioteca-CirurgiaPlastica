@@ -1,0 +1,22 @@
+{
+  "topic": "reconstrucao-de-nariz",
+  "area": "reconstrucao-facial",
+  "displayName": "Reconstrução de Nariz",
+  "version": "v1.0",
+  "date": "2026-04-19",
+  "status": "complete",
+  "references": [
+    "Kaufman AJ. Practical Facial Reconstruction: Theory and Practice. Springer, 2018. Cap. 5: Nose Reconstruction (pp. 95–163)",
+    "Neligan PC (Ed.). Plastic Surgery, 5ª Ed. Elsevier, 2023. Vol. 3, Cap. 3: Aesthetic nasal reconstruction (Frederick J. Menick, pp. 52–92)",
+    "content/rag/reconstrucao-facial/_principios-reconstrucao.md — doutrina horizontal: framework 3 perguntas, RSTL, margens livres, biologia de retalho",
+    "content/rag/reconstrucao-facial/_atlas-retalhos.md — geometria genérica de retalhos locais e interpolados"
+  ],
+  "articles": [],
+  "cardCounts": {
+    "anatomia": 10,
+    "tecnicas": 13,
+    "decisoes": 5,
+    "notas": 9,
+    "flashcards": 55
+  }
+}
