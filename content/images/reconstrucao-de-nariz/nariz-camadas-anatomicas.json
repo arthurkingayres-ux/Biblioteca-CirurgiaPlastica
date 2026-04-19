@@ -1,0 +1,12 @@
+{
+  "id": "img-nariz-camadas-anatomicas",
+  "file": "reconstrucao-de-nariz/nariz-camadas-anatomicas.png",
+  "subject": "Topografia nasal e landmarks anatômicos (dorso, parede lateral, ala, ponta, triângulo mole, columela)",
+  "role": "anatomy",
+  "source": "Kaufman 2018, Cap. 5 — Reconstruction of the nasal unit",
+  "credit": "Adaptado de Kaufman 2018",
+  "default_caption": "Landmarks anatômicos do nariz: dorso, parede lateral (sidewall), sulco alar, ala, triângulo mole e columela (Kaufman 2018, Cap. 5).",
+  "labels": [],
+  "applicable_topics": ["reconstrucao-de-nariz"],
+  "status": "available"
+}

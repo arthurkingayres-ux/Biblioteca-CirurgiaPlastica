@@ -1,0 +1,230 @@
+[
+  {
+    "id": "narreconr-dec-001",
+    "type": "decision",
+    "title": "Algoritmo Geral — Seleção de Técnica por Tamanho e Sub-unidade",
+    "topic": "reconstrucao-de-nariz",
+    "area": "reconstrucao-facial",
+    "trigger": "Defeito nasal pós-ressecção: qual técnica de reconstrução usar?",
+    "steps": [
+      {
+        "question": "Qual é a profundidade do defeito?",
+        "options": [
+          { "answer": "Só pele (± subcutâneo)", "next": "Avaliar tamanho e sub-unidade (Bloco A)" },
+          { "answer": "Pele + arcabouço (cartilagem exposta)", "next": "Bloco A + batten graft se margem alar em risco" },
+          { "answer": "Full-thickness (pele + arcabouço + lining exposto)", "next": "Bloco B — reconstrução multi-camada" }
+        ]
+      },
+      {
+        "question": "[Bloco A] Qual é o tamanho do defeito?",
+        "options": [
+          { "answer": "< 1,5 cm", "next": "Avaliar sub-unidade para repertório local" },
+          { "answer": "≥ 1,5 cm em sub-unidade convexa", "next": "Melolabial (asa/parede lateral) ou paramediano frontal (ponta/dorso/múltiplas)" }
+        ]
+      },
+      {
+        "question": "[Bloco A < 1,5 cm] Qual é a sub-unidade e a geometria?",
+        "options": [
+          { "answer": "Concavidade superficial, longe de margem alar", "next": "Segunda intenção" },
+          { "answer": "Dorso/parede lateral proximal, ≤ 1 cm, laxidez + RSTL favorável", "next": "Fechamento primário (elipse 3:1)" },
+          { "answer": "Sulco alar côncavo, pele apenas", "next": "FTSG pré-auricular (Kaufman 5.6)" },
+          { "answer": "Ponta/supra-tip central, ≤ 1,2 cm, laxidez dorsal adequada", "next": "Rotação bilateral de ponta (Kaufman 5.5)" },
+          { "answer": "Sulco alar anterior / parede lateral inferior, ~0,7 cm", "next": "Avanço em ilha V-Y (Kaufman 5.7)" },
+          { "answer": "Midportion sulco alar / asa posterior, ~0,9 cm", "next": "Rombóide com pedículo medial (Kaufman 5.8)" },
+          { "answer": "Ponta / asa anterior / supra-tip, < 1,5 cm, sem laxidez local", "next": "Bilobado de Zitelli (Kaufman 5.9)" }
+        ]
+      },
+      {
+        "question": "[Bloco B — Full-thickness] Qual é o tamanho e a localização?",
+        "options": [
+          { "answer": "< 1,0 cm em rim alar (pele + cartilagem + lining)", "next": "Enxerto composto auricular helix" },
+          { "answer": "Triângulo mole + ala lateral, ~2 × 1,4 cm", "next": "Cheek-to-nose interpolado + batten graft conchal (Kaufman 5.11)" },
+          { "answer": "Ponta / dorso / múltiplas sub-unidades, ≥ 1,5 cm", "next": "Paramediano frontal 2 estágios (Kaufman 5.12) ou 3 estágios — Menick" },
+          { "answer": "Full-thickness com lining ausente em ≥ 1,5 cm", "next": "Paramediano frontal + batten graft + lining flap septal/intranasal (Neligan algoritmo 3.1)" }
+        ]
+      }
+    ],
+    "citations": [
+      "Kaufman, 2018, cap. 5, secs. 5.1–5.12",
+      "Neligan, 2023, vol. 3, cap. 3, algoritmo 3.1"
+    ],
+    "updates": [],
+    "tags": [
+      "decisao",
+      "algoritmo-geral",
+      "selecao-tecnica",
+      "repertorio-nasal"
+    ]
+  },
+  {
+    "id": "narreconr-dec-002",
+    "type": "decision",
+    "title": "Regra dos 50% — Ampliar ou Não a Sub-unidade",
+    "topic": "reconstrucao-de-nariz",
+    "area": "reconstrucao-facial",
+    "trigger": "Defeito ocupa parte de uma sub-unidade nasal: reconstruir apenas o defeito ou ampliar para a sub-unidade inteira?",
+    "steps": [
+      {
+        "question": "O defeito está em sub-unidade convexa (ponta, asa, dorso distal, supra-tip)?",
+        "options": [
+          { "answer": "Sim", "next": "Medir: o defeito ocupa ≥ 50% da sub-unidade?" },
+          { "answer": "Não (côncava: parede lateral, canto medial, sulco alar)", "next": "Regra dos 50% tem menor rigor aqui — reconstruir apenas o defeito é aceitável se cicatriz cair em junção" }
+        ]
+      },
+      {
+        "question": "O defeito ocupa ≥ 50% da sub-unidade convexa?",
+        "options": [
+          { "answer": "Sim", "next": "AMPLIAR excisão para a sub-unidade inteira antes de reconstruir — cicatriz cai em junção entre sub-unidades, resultado homogêneo" },
+          { "answer": "Não (< 50%)", "next": "Reconstruir apenas o defeito com técnica adequada ao tamanho; cicatriz inside da sub-unidade ainda pode ser aceitável se retalho for like-for-like" }
+        ]
+      },
+      {
+        "question": "Após ampliar para sub-unidade inteira, qual é o novo tamanho do defeito?",
+        "options": [
+          { "answer": "< 1,5 cm (ex: ponta pequena ou asa pequena inteira)", "next": "Bilobado, V-Y ou rotação bilateral — repertório local" },
+          { "answer": "≥ 1,5 cm (ex: ponta grande ou asa inteira)", "next": "Melolabial ou paramediano frontal conforme disponibilidade doadora" }
+        ]
+      }
+    ],
+    "citations": [
+      "Neligan, 2023, vol. 3, cap. 3 (The subunit principle)"
+    ],
+    "updates": [],
+    "tags": [
+      "decisao",
+      "regra-50-porcento",
+      "sub-unidade",
+      "principio-estetico"
+    ]
+  },
+  {
+    "id": "narreconr-dec-003",
+    "type": "decision",
+    "title": "Defeito Full-Thickness — Escolha de Lining",
+    "topic": "reconstrucao-de-nariz",
+    "area": "reconstrucao-facial",
+    "trigger": "Defeito full-thickness nasal com lining ausente: como reconstituir o revestimento interno?",
+    "steps": [
+      {
+        "question": "Qual é o tamanho da perda de lining?",
+        "options": [
+          { "answer": "< 1,5 cm", "next": "Retalho mucoperiocondral septal em hinge-flap (porta-abrindo) pelo septo contralateral — um tempo" },
+          { "answer": "1–3 cm", "next": "Retalho de avanço bipedicular septal ou hinge-flap com extensão" },
+          { "answer": "> 3 cm ou septo comprometido", "next": "Forehead flap dobrado para lining; ou retalho radial livre de antebraço nos casos extremos" }
+        ]
+      },
+      {
+        "question": "O septo está disponível e íntegro?",
+        "options": [
+          { "answer": "Sim", "next": "Preferir lining septal — tecido fino, vascularizado, dentro do campo cirúrgico" },
+          { "answer": "Não (septo operado, perfuração, ausência)", "next": "Forehead flap dobrado; considerar consulta com equipe avançada" }
+        ]
+      },
+      {
+        "question": "Qual é o cobertor externo planejado?",
+        "options": [
+          { "answer": "Paramediano frontal", "next": "Lining septal + batten graft + paramediano em 2 ou 3 estágios (Neligan algoritmo 3.1)" },
+          { "answer": "Cheek-to-nose ou outro retalho regional < 2 cm", "next": "Hinge-flap septal local + batten graft conchal — um tempo" }
+        ]
+      }
+    ],
+    "citations": [
+      "Neligan, 2023, vol. 3, cap. 3 (Nasal lining restoration options; boxes 3.4–3.6; algoritmo 3.1)"
+    ],
+    "updates": [],
+    "tags": [
+      "decisao",
+      "lining",
+      "full-thickness",
+      "retalho-septal",
+      "hinge-flap"
+    ]
+  },
+  {
+    "id": "narreconr-dec-004",
+    "type": "decision",
+    "title": "Paramediano Frontal — 2 Estágios vs. 3 Estágios (Intermediate Operation)",
+    "topic": "reconstrucao-de-nariz",
+    "area": "reconstrucao-facial",
+    "trigger": "Indicado retalho frontal paramediano: usar protocolo de 2 ou 3 estágios?",
+    "steps": [
+      {
+        "question": "O defeito é full-thickness com necessidade de cartilagem + lining + cobertura simultâneos?",
+        "options": [
+          { "answer": "Sim", "next": "3 estágios com intermediate operation — preferido por Menick para refinar contorno antes da divisão do pedículo" },
+          { "answer": "Não (só cobertura cutânea sem perda de arcabouço)", "next": "2 estágios clássicos podem ser suficientes" }
+        ]
+      },
+      {
+        "question": "O paciente é fumante ativo ou teve pausa < 4 semanas?",
+        "options": [
+          { "answer": "Sim", "next": "Postergar até cessação ≥ 4 semanas. Se urgência, 3 estágios com afinamento mínimo no estágio I para preservar pedículo mais robusto" },
+          { "answer": "Não", "next": "2 ou 3 estágios conforme complexidade do defeito" }
+        ]
+      },
+      {
+        "question": "Qual é a expectativa estética do paciente e o grau de defeito distal?",
+        "options": [
+          { "answer": "Defeito grande (ponta inteira, asa + dorso, múltiplas sub-unidades)", "next": "3 estágios — intermediate operation em 7–14 dias permite escultura de contorno antes da divisão" },
+          { "answer": "Defeito médio isolado (uma sub-unidade, pele apenas)", "next": "2 estágios geralmente suficientes" }
+        ]
+      }
+    ],
+    "citations": [
+      "Kaufman, 2018, cap. 5, sec. 5.12",
+      "Neligan, 2023, vol. 3, cap. 3 (Stage II: the intermediate operation, Box 3.3)"
+    ],
+    "updates": [],
+    "tags": [
+      "decisao",
+      "paramediano",
+      "estagios",
+      "intermediate-operation",
+      "menick"
+    ]
+  },
+  {
+    "id": "narreconr-dec-005",
+    "type": "decision",
+    "title": "Quando Indicar Batten Graft de Cartilagem",
+    "topic": "reconstrucao-de-nariz",
+    "area": "reconstrucao-facial",
+    "trigger": "Planejamento de reconstrução nasal: o batten graft de cartilagem é necessário?",
+    "steps": [
+      {
+        "question": "O defeito envolve ou ameaça a margem alar ou o triângulo mole?",
+        "options": [
+          { "answer": "Sim — qualquer defeito full-thickness de ala ou triângulo mole", "next": "Batten graft OBRIGATÓRIO (cartilagem conchal do helix ou septo)" },
+          { "answer": "Não — defeito restrito ao dorso, ponta central ou parede lateral alta", "next": "Batten graft pode não ser necessário; avaliar perda de ULC (Upper Lateral Cartilage)" }
+        ]
+      },
+      {
+        "question": "Houve perda das cartilagens laterais superiores (ULC) ou septo na reconstrução?",
+        "options": [
+          { "answer": "Sim", "next": "Batten graft de spreader graft ou alar batten necessário para prevenir colapso de válvula nasal interna (VNI)" },
+          { "answer": "Não", "next": "Checar funcionalidade com teste de Cottle; se positivo, indicar batten tardio" }
+        ]
+      },
+      {
+        "question": "Qual fonte de cartilagem usar?",
+        "options": [
+          { "answer": "Defeito de asa/triângulo mole < 2 cm", "next": "Cartilagem conchal auricular (helix ou concha) — dimensionar 6–8 mm maior que o defeito" },
+          { "answer": "Defeito de parede lateral ou múltiplo", "next": "Cartilagem septal (primeira escolha) — maior volume, mais rígida" },
+          { "answer": "Defeito extenso (nariz quase total)", "next": "Cartilagem costal (7ª–8ª costela) — maior volume disponível" }
+        ]
+      }
+    ],
+    "citations": [
+      "Kaufman, 2018, cap. 5, secs. 5.11–5.12 keypoints",
+      "Neligan, 2023, vol. 3, cap. 3 (Hard-tissue support replacement)"
+    ],
+    "updates": [],
+    "tags": [
+      "decisao",
+      "batten-graft",
+      "cartilagem",
+      "alar-notching",
+      "valvula-nasal"
+    ]
+  }
+]

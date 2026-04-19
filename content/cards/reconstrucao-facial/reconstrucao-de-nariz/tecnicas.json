@@ -1,0 +1,568 @@
+[
+  {
+    "id": "narreconr-tec-001",
+    "type": "technique",
+    "title": "Cicatrização por Segunda Intenção",
+    "aliases": [
+      "healing by secondary intention",
+      "granulação espontânea"
+    ],
+    "topic": "reconstrucao-de-nariz",
+    "area": "reconstrucao-facial",
+    "indication": "Defeitos superficiais (pele apenas) em concavidade nasal: canto medial, parede lateral proximal, sulco alar (porção côncava), concavidade pós-ressecção rasa do dorso. Excelente resultado estético quando corretamente selecionado.",
+    "contraindication": "Defeito em convexidade nasal (ponta, asa, dorso distal) — contração achata o relevo. Defeito próximo à margem alar — contração causa alar notching ou retração cefálica. Cartilagem exposta sem pericôndrio — não granula.",
+    "steps": [
+      "1. Hemostasia meticulosa do leito cruento.",
+      "2. Curativo com vaselina + gaze não aderente sobre o defeito.",
+      "3. Instruir paciente para troca diária do curativo em casa (gaze + vaselina).",
+      "4. Avaliação clínica em 2–4 semanas para avaliar progressão de granulação e ausência de tração.",
+      "5. Se sinais precoces de tração sobre sub-unidade convexa adjacente ou sobre margem alar, converter imediatamente para sutura-guia parcial ou pequeno retalho de liberação antes da maturação cicatricial."
+    ],
+    "complications": [
+      "Alar notching por contração quando indicação incorreta (defeito em convexidade ou próximo à margem alar)",
+      "Achatamento da convexidade da ponta ou asa",
+      "Cicatriz hipopigmentada visível em pele fotodanificada"
+    ],
+    "pearls": [
+      "Em concavidade nasal, a contração por segunda intenção é absorvida pelo relevo — resultado estético frequentemente superior a FTSG ou retalho pequeno",
+      "Manter vaselina abundante para granulação úmida e acelerada"
+    ],
+    "citations": [
+      "Kaufman, 2018, cap. 5, discussão sec. 5.6",
+      "Neligan, 2023, vol. 3, cap. 3 (Healing by secondary intention)"
+    ],
+    "updates": [],
+    "tags": [
+      "tecnica",
+      "segunda-intencao",
+      "concavidade",
+      "wound-care"
+    ]
+  },
+  {
+    "id": "narreconr-tec-002",
+    "type": "technique",
+    "title": "Fechamento Primário Nasal (Side-to-Side)",
+    "aliases": [
+      "primary closure nasal",
+      "fechamento direto",
+      "sutura direta nasal"
+    ],
+    "topic": "reconstrucao-de-nariz",
+    "area": "reconstrucao-facial",
+    "indication": "Defeitos pequenos (≤ 1 cm) em parede lateral proximal ou dorso proximal com laxidez suficiente para coaptar bordas sem tensão, onde elipse 3:1 pode correr em RSTL (Relaxed Skin Tension Lines — linhas de tensão relaxada da pele) oblíqua (parede lateral) ou horizontal (raiz nasal).",
+    "contraindication": "Terço distal (ponta, asa, supra-tip) — pele sebácea e aderente quase nunca admite fechamento linear sem tração. Proximidade de sill ou margem alar — qualquer vetor perpendicular produz notching imediato.",
+    "steps": [
+      "1. Demarcar elipse com paciente sentado, alinhada às RSTL locais (horizontal na raiz, oblíqua na parede lateral).",
+      "2. Se elipse natural levar para margem alar, reorientar — mesmo fora de RSTL — para correr paralela à margem livre.",
+      "3. Infiltração com lidocaína 1% + epinefrina 1:100.000 após marcação.",
+      "4. Incisão em elipse 3:1 com bisturi 15; descolamento sub-dérmico simétrico (face) e sub-SMAS nasal para mobilidade adequada sem perder plexo.",
+      "5. Hemostasia meticulosa.",
+      "6. Sutura em camadas: subcutâneo 5-0 absorvível + pele 6-0 polipropileno.",
+      "7. Retirada de sutura em 7 dias."
+    ],
+    "complications": [
+      "Alar notching por vetor perpendicular mal planejado",
+      "Dog-ear projetando-se sobre convexidade adjacente — compensar com triângulo de Burow em RSTL"
+    ],
+    "pearls": [
+      "Simular o vetor de tensão com pinça antes de incidir — observar se margem alar se move",
+      "Em dúvida sobre tensão, migrar para retalho local em vez de forçar fechamento primário"
+    ],
+    "citations": [
+      "Kaufman, 2018, cap. 5, discussão",
+      "Kaufman, 2018, cap. 5 (atlas-retalhos.md — Fechamento primário)"
+    ],
+    "updates": [],
+    "tags": [
+      "tecnica",
+      "fechamento-primario",
+      "RSTL",
+      "dorso-nasal",
+      "parede-lateral"
+    ]
+  },
+  {
+    "id": "narreconr-tec-003",
+    "type": "technique",
+    "title": "FTSG no Sulco Alar / Ponta Anterior (Kaufman 5.6)",
+    "aliases": [
+      "enxerto de pele total",
+      "full-thickness skin graft nasal",
+      "FTSG nasal"
+    ],
+    "topic": "reconstrucao-de-nariz",
+    "area": "reconstrucao-facial",
+    "indication": "FTSG (Full-Thickness Skin Graft — enxerto de pele total) indicado em defeito superficial côncavo próximo à margem alar ou na junção asa/ponta, em que segunda intenção causaria alar notching ou retração cefálica e onde retalho local recrutaria pele de outra sub-unidade.",
+    "contraindication": "Defeito em convexidade (ponta globular, asa central) — enxerto não reproduz volume e aparece como patch deprimido. Defeito com cartilagem exposta sem pericôndrio (leito avascular).",
+    "steps": [
+      "1. Defeito preparado: desengordurar até plano vascularizado (subcutâneo ou pericôndrio).",
+      "2. Colher FTSG da região pré-auricular ou supraclavicular (cor e textura mais próximas do nariz); tamanho levemente maior que o defeito.",
+      "3. Desengordurar completamente o enxerto.",
+      "4. Fenestrar o enxerto com slits para drenagem de serosanguíneo e prevenção de hematoma.",
+      "5. Suturar ao leito com pontos simples de 5-0 fast-absorbing periféricos.",
+      "6. Bolster de amarração (tie-down dressing) com fio polipropileno 5-0 atado sobre curativo de gaze com vaselina por 5–7 dias para imobilizar e maximizar contato enxerto-leito.",
+      "7. Avaliar integração em 5–7 dias; orientar scarabrasion (escarificação superficial cicatricial) a partir dos 3 meses para melhora de cor/textura."
+    ],
+    "complications": [
+      "Necrose parcial do enxerto por espaço morto ou hematoma — prevenir com bolster e fenestras",
+      "Patch visual deprimido se colocado em convexidade",
+      "Hipopigmentação relativa com o tempo em pele fotodanificada"
+    ],
+    "pearls": [
+      "Sítio doador pré-auricular é preferido ao retroauricular pela similaridade de cor e textura com o nariz",
+      "Em fumantes, scarabrasion aos 3 meses melhora significativamente cor e textura do enxerto"
+    ],
+    "citations": [
+      "Kaufman, 2018, cap. 5, sec. 5.6",
+      "Neligan, 2023, vol. 3, cap. 3 (Skin grafting)"
+    ],
+    "updates": [],
+    "tags": [
+      "tecnica",
+      "FTSG",
+      "enxerto-pele-total",
+      "sulco-alar",
+      "bolster"
+    ]
+  },
+  {
+    "id": "narreconr-tec-004",
+    "type": "technique",
+    "title": "Enxerto Composto Auricular para Rim Alar (Full-Thickness Pequeno)",
+    "aliases": [
+      "composite graft ear",
+      "enxerto composto helix",
+      "composite auricular graft"
+    ],
+    "topic": "reconstrucao-de-nariz",
+    "area": "reconstrucao-facial",
+    "indication": "Defeito pequeno (< 1,0 cm) full-thickness envolvendo margem alar livre: perda simultânea de pele + cartilagem alar + mucosa vestibular em bloco. Repõe as três camadas em um único tempo cirúrgico preservando a fina curvatura do rim alar.",
+    "contraindication": "Defeito ≥ 1,0 cm (tamanho crítico de isquemia — centro do enxerto necrosa além de 1 cm). Tabagismo ativo (mesmo sem cessação). Leito com cicatriz prévia extensa ou radioterapia (vascularização insuficiente).",
+    "steps": [
+      "1. Template do defeito em alumínio; transferir ao helix da orelha com o enxerto levemente maior (0,5–1 mm de sobra para compensar contração).",
+      "2. Ressecção em cunha (wedge) do helix — pele anterior + cartilagem + pele posterior em bloco.",
+      "3. Fechamento do defeito doador auricular em três camadas (pele anterior / cartilagem / pele posterior).",
+      "4. Adaptar enxerto ao leito nasal em três camadas: mucosa vestibular primeiro com sutura 5-0 absorvível (nós intranasais); cartilagem coaptada à cartilagem nativa sem sutura (contato pericôndrico); pele com 6-0 polipropileno.",
+      "5. Resfriamento do enxerto nas primeiras 24–48 h com gelo local intermitente (reduz demanda metabólica durante período de isquemia — protocolo clássico de Menick).",
+      "6. Enfaixamento / tala externa protetora por 5–7 dias; retirada de pontos cutâneos aos 7 dias."
+    ],
+    "complications": [
+      "Necrose parcial ou total se defeito ≥ 1,0 cm ou em fumante ativo",
+      "Contração e retração alar se enxerto submedido",
+      "Desproporção entre cartilagem doadora (helical) e curvatura nativa — esculpir com bisturi 15 antes do inset"
+    ],
+    "pearls": [
+      "A curvatura natural do helix reproduz o rim alar — escolha ideal de doador",
+      "Cessação de tabagismo ≥ 4 semanas pré-op é condição, não recomendação: um cigarro no pós-op pode necrosar o enxerto"
+    ],
+    "citations": [
+      "Kaufman, 2018, cap. 5, discussão de defeitos full-thickness pequenos",
+      "Neligan, 2023, vol. 3, cap. 3 (Composite grafts)"
+    ],
+    "updates": [],
+    "tags": [
+      "tecnica",
+      "enxerto-composto",
+      "helix",
+      "rim-alar",
+      "full-thickness"
+    ]
+  },
+  {
+    "id": "narreconr-tec-005",
+    "type": "technique",
+    "title": "Retalho Bilateral de Rotação da Ponta / Supra-tip (Kaufman 5.5)",
+    "aliases": [
+      "bilateral rotation flap nose",
+      "rotação bilateral nasal",
+      "twin rotation flap"
+    ],
+    "topic": "reconstrucao-de-nariz",
+    "area": "reconstrucao-facial",
+    "indication": "Defeito central na linha média do nariz — ponta, supra-tip, junção supra-tip/dorso distal — até cerca de 1,2 × 1,0 cm, em pele com laxidez adjacente suficiente no dorso e nas paredes laterais.",
+    "contraindication": "Defeitos paracentrais ou sobre a asa (os retalhos rotariam pele sebácea para fora da sub-unidade gerando patching). Laxidez insuficiente (pele jovem tensa) — força tração sobre margem alar.",
+    "steps": [
+      "1. Demarcação com paciente sentado; linhas curvilíneas bilaterais na junção nasal-alar D e E.",
+      "2. Anestesia local após marcação (bloqueio + infiltração).",
+      "3. Incisão cutânea com bisturi 15 seguindo as linhas; descolamento submuscular amplo bilateral.",
+      "4. Triângulos de Burow (tricones) excisados bilateralmente no sulco alar para evitar dog-ear e permitir rotação simétrica.",
+      "5. Retalhos rotacionados centralmente; fixação primeiro no centro (sobre o defeito).",
+      "6. Defeitos secundários laterais fechados por sutura em camadas.",
+      "7. Pequeno tricone superior (na linha média, acima do defeito) excisado para evitar dog-ear central.",
+      "8. Sutura em camadas: subcutâneo absorvível 5-0 + pele polipropileno 6-0; retirada em 7 dias."
+    ],
+    "complications": [
+      "Leve elevação da ponta e asa por tensão secundária nos vetores — resolve em 48 h com edema pós-operatório na maioria dos casos",
+      "Dog-ear central se tricone superior não for excisado adequadamente",
+      "Alar notching se incisões não seguirem a junção nasal-alar com precisão"
+    ],
+    "pearls": [
+      "Descolamento submuscular — não subcutâneo — é o que permite mobilidade sem comprometer o plexo",
+      "Simetria bilateral dos tricones é obrigatória para rotação uniforme"
+    ],
+    "citations": [
+      "Kaufman, 2018, cap. 5, sec. 5.5"
+    ],
+    "updates": [],
+    "tags": [
+      "tecnica",
+      "rotacao-bilateral",
+      "ponta-nasal",
+      "supra-tip",
+      "burow"
+    ]
+  },
+  {
+    "id": "narreconr-tec-006",
+    "type": "technique",
+    "title": "Retalho de Avanço em Ilha V-Y no Sulco Alar (Kaufman 5.7)",
+    "aliases": [
+      "V-Y island advancement",
+      "island flap sulco alar",
+      "ilha V-Y nasal"
+    ],
+    "topic": "reconstrucao-de-nariz",
+    "area": "reconstrucao-facial",
+    "indication": "Defeito pequeno (~0,7 × 0,6 cm) no sulco alar anterior ou na parede lateral inferior, onde há pele adjacente lateral suficiente para ser mobilizada sobre pedículo subcutâneo central e avançada sobre o defeito sem distorcer margem alar.",
+    "contraindication": "Defeito em convexidade alar central (pedículo sub-cutâneo não suporta rotação sobre relevo). Defeito próximo à margem alar sem sulco disponível para esconder cicatriz triangular. Fumantes pesados (risco de necrose parcial do retalho em ilha).",
+    "steps": [
+      "1. Demarcação do triângulo com ápice distal à margem alar e base na pele lateral disponível.",
+      "2. Incisão perimetral com bisturi 15.",
+      "3. Dissecção rombo-cortante cuidadosa nas bordas, preservando o pedículo subcutâneo central sem comprometê-lo.",
+      "4. Mobilização do retalho sobre o defeito.",
+      "5. Tacking suture absorvível 4-0 para eliminar espaço morto entre retalho e leito.",
+      "6. Sutura em V-Y (fechamento em Y na cauda triangular); pele 6-0 polipropileno.",
+      "7. Curativo compressivo leve nas primeiras 24 h."
+    ],
+    "complications": [
+      "Trapdoor/pincushioning — principal complicação em pele sebácea com pedículo central espesso; prevenir com tacking e curativo compressivo",
+      "Necrose parcial em fumante",
+      "Manejo de trapdoor persistente: injeção intralesional de triancinolona 10–40 mg/mL em 6 semanas"
+    ],
+    "pearls": [
+      "Pedículo subcutâneo central é o segredo — deve permanecer intacto durante toda a dissecção das bordas",
+      "Em fumante com planejamento inevitável, considerar delay de 7–10 dias antes do inset definitivo"
+    ],
+    "citations": [
+      "Kaufman, 2018, cap. 5, sec. 5.7"
+    ],
+    "updates": [],
+    "tags": [
+      "tecnica",
+      "ilha-VY",
+      "sulco-alar",
+      "avanço-em-ilha",
+      "trapdoor"
+    ]
+  },
+  {
+    "id": "narreconr-tec-007",
+    "type": "technique",
+    "title": "Retalho Rombóide de Transposição no Sulco Alar / Asa Posterior (Kaufman 5.8)",
+    "aliases": [
+      "rhomboid transposition flap nose",
+      "Limberg flap nasal",
+      "rombóide nasal"
+    ],
+    "topic": "reconstrucao-de-nariz",
+    "area": "reconstrucao-facial",
+    "indication": "Defeito médio (~0,9 × 0,8 cm) sobre o midportion do sulco alar ou na asa posterior, onde se deseja recrutar pele da bochecha medial / sulco nasogeniano via transposição sem cruzar o sulco alar anterior.",
+    "contraindication": "Defeito anterior ao sulco alar — pedículo medial impingiria sobre margem alar com alto risco de notching. Pele insuficiente na bochecha medial (paciente jovem tenso).",
+    "steps": [
+      "1. Demarcação do losango com ângulo agudo apontando para a bochecha medial (pedículo MEDIAL — baseado na bochecha, não lateral).",
+      "2. Incisão em losango 60°/120° (geometria Limberg — ver atlas-retalhos.md para ângulos).",
+      "3. Fechamento do defeito secundário PRIMEIRO (princípio de Kaufman em transposição).",
+      "4. Transposição do retalho sobre o defeito primário.",
+      "5. Tacking suture absorvível em ponto central ao periósteo maxilar ou ao pericôndrio — eliminar espaço morto e recriar concavidade nasomelolabial.",
+      "6. Excisão de tricone angulado para BAIXO (seguindo o sulco alar, nunca para cima em direção ao canto medial).",
+      "7. Sutura de pele com 6-0 polipropileno."
+    ],
+    "complications": [
+      "Trapdoor/pincushioning — alta incidência em pele sebácea distal; prevenir com tacking",
+      "Alar creasing (perda do sulco natural) — curativo compressivo + injeção intralesional em 3 meses se necessário",
+      "Distorção do canto medial se tricone angulado erroneamente para cima"
+    ],
+    "pearls": [
+      "Pedículo medial é imperativo — garante que o vetor de tensão aponte para a bochecha, longe da margem alar",
+      "Em transposição: sempre fechar o defeito secundário antes de acomodar o retalho"
+    ],
+    "citations": [
+      "Kaufman, 2018, cap. 5, sec. 5.8"
+    ],
+    "updates": [],
+    "tags": [
+      "tecnica",
+      "romboide",
+      "transposicao",
+      "sulco-alar",
+      "bochecha-medial"
+    ]
+  },
+  {
+    "id": "narreconr-tec-008",
+    "type": "technique",
+    "title": "Retalho de Rieger (Rotação Dorsal Nasal Unilateral)",
+    "aliases": [
+      "Rieger flap",
+      "dorsal nasal flap",
+      "retalho dorsal nasal"
+    ],
+    "topic": "reconstrucao-de-nariz",
+    "area": "reconstrucao-facial",
+    "indication": "Defeito médio (~1,0–2,0 cm) do dorso distal, supra-tip ou parede lateral alta, lateralizado ou paramediano, onde a rotação bilateral seria excessiva e onde laxidez do dorso nasal proximal é suficiente para ser recrutada em rotação única.",
+    "contraindication": "Defeito > 2 cm (mobilidade insuficiente em rotação única — considerar paramediano frontal). Defeito sobre margem alar (rotação dorsal encurta nariz e pode pinçar margem alar). Pele jovem sem laxidez dorsal.",
+    "steps": [
+      "1. Marcação com paciente sentado; linha curva segue sulco nasofacial ipsilateral.",
+      "2. Incisão cutânea; descolamento submuscular amplo do dorso contralateral inteiro (o retalho é quase todo o dorso mobilizado).",
+      "3. Back-cut glabelar (incisão perpendicular curta) se necessário alcance adicional — não ultrapassar rim orbitário.",
+      "4. Rotação do retalho sobre o defeito; fixação central primeiro.",
+      "5. Fechamento por camadas; tricone no sulco nasofacial se dog-ear visível."
+    ],
+    "complications": [
+      "Cicatriz curva fora da RSTL local se não seguir o sulco nasofacial",
+      "Necrose de ponta do retalho se descolamento em plano superficial comprometer pedículo dorsal",
+      "Encurtamento do nariz após rotação em nariz já curto — contraindicação relativa",
+      "Alar notching tardio por tensão excessiva ipsilateral na rotação"
+    ],
+    "pearls": [
+      "Pedículo ipsilateral baseado na artéria dorsal nasal — ramo terminal da oftálmica que transita em plano submuscular",
+      "Cicatriz fica no sulco nasofacial — junção cosmética natural; seguir o sulco é inegociável"
+    ],
+    "citations": [
+      "Kaufman, 2018, cap. 5, sec. 5.5 discussão de variantes unilaterais",
+      "Neligan, 2023, vol. 3, cap. 3 (Dorsal nasal flap)"
+    ],
+    "updates": [],
+    "tags": [
+      "tecnica",
+      "rieger",
+      "rotacao-dorsal",
+      "dorso-nasal",
+      "sulco-nasofacial"
+    ]
+  },
+  {
+    "id": "narreconr-tec-009",
+    "type": "technique",
+    "title": "Retalho Bilobado de Zitelli na Ponta / Asa Anterior (Kaufman 5.9)",
+    "aliases": [
+      "bilobed flap Zitelli",
+      "bilobado nasal",
+      "geometric bilobed flap"
+    ],
+    "topic": "reconstrucao-de-nariz",
+    "area": "reconstrucao-facial",
+    "indication": "Defeito < 1,5 cm na ponta nasal, supra-tip ou asa anterior / sulco alar anterior, onde não há laxidez local para retalhos de avanço ou rotação e onde interpolação seria desproporcional. Padrão-ouro para essa faixa de tamanho e localização.",
+    "contraindication": "Defeito > 1,5 cm (mobilidade insuficiente do segundo lobo e dog-ear incontrolável). Defeito muito próximo à margem alar anterior sem sulco disponível para esconder cicatriz do terceiro vértice.",
+    "steps": [
+      "1. Marcação com paciente sentado; definir pedículo (medial para defeitos anteriores da ponta/asa; lateral para defeitos mais posteriores).",
+      "2. Desenho dos dois lobos com rotação total ~90–100°, dividida em ~45–50° por lobo.",
+      "3. Primeiro lobo: diâmetro igual ao defeito, formato arredondado com pequeno taper.",
+      "4. Segundo lobo: formato cordiforme, base igual ao primeiro lobo, afunilando 30° no ápice.",
+      "5. Tricone do defeito terciário posicionado em junção cosmética (parede lateral-dorso).",
+      "6. Ampla undermining submuscular em todo o nariz adjacente para mobilizar pele sebácea.",
+      "7. Hemostasia.",
+      "8. Fechamento do DEFEITO TERCIÁRIO primeiro; depois segundo lobo sobre defeito do primeiro lobo; depois primeiro lobo sobre defeito primário.",
+      "9. Tacking sutures absorvível 4-0 para eliminar espaço morto sob o retalho.",
+      "10. Pressure bandage + tampão nasal leve nas primeiras 24 h."
+    ],
+    "complications": [
+      "Trapdoor/pincushioning — a complicação clássica do bilobado em pele sebácea; prevenir com undermining generoso, tacking, curativo compressivo 24 h",
+      "Distorção da margem alar se ângulos discordantes ou lobos de tamanhos incorretos",
+      "Impacto sobre válvula nasal interna se pedículo lateral com alcance excessivo sobre istmo"
+    ],
+    "pearls": [
+      "Ordem de fechamento é crítica: terciário → secundário → primário. Inverter compromete geometria",
+      "Disciplina geométrica (45°/45° Zitelli) previne distorção alar — não tentar criar lobos de intuição"
+    ],
+    "citations": [
+      "Kaufman, 2018, cap. 5, sec. 5.9",
+      "Neligan, 2023, vol. 3, cap. 3 (The geometric bilobed flap)"
+    ],
+    "updates": [],
+    "tags": [
+      "tecnica",
+      "bilobado-zitelli",
+      "ponta-nasal",
+      "asa-anterior",
+      "trapdoor"
+    ]
+  },
+  {
+    "id": "narreconr-tec-010",
+    "type": "technique",
+    "title": "Retalho Melolabial de Transposição / Interpolação (Kaufman 5.10)",
+    "aliases": [
+      "melolabial flap",
+      "nasolabial flap",
+      "retalho nasogeniano"
+    ],
+    "topic": "reconstrucao-de-nariz",
+    "area": "reconstrucao-facial",
+    "indication": "Defeito ~2 cm na parede lateral inferior, asa ou sulco alar posterior quando: (a) há laxidez de bochecha suficiente; (b) defeito grande demais para bilobado (> 1,5 cm); (c) deseja-se recrutar pele sebácea similar à do nariz; (d) quer-se evitar o paramediano frontal.",
+    "contraindication": "Ausência de laxidez de bochecha (paciente jovem tenso). Defeito sobre ponta central (o melolabial arquearia sobre sulco alar, criando ponte visual). Defeito full-thickness sem lining viável.",
+    "steps": [
+      "1. Desenho: linha medial segue o sulco melolabial (cicatriz doadora oculta); linha lateral segue pela bochecha no sulco melolabial, gradual, sem transição abrupta; largura igual ao diâmetro do defeito.",
+      "2. Excisão do tricone (a) apontando para canto medial — nunca para cima (evita tração sobre pálpebra inferior).",
+      "3. Infiltração com lidocaína + epinefrina; incisão.",
+      "4. Fechamento do defeito doador (sulco melolabial) PRIMEIRO.",
+      "5. Transposição do retalho; sutura absorvível 4-0 ancorando pedículo ao periósteo maxilar sobre o sulco alar (pexia) para recriar concavidade nasomelolabial.",
+      "6. Sutura de pele com 6-0 polipropileno; pressure bandage leve por 24 h.",
+      "7. [Interpolado em dois estágios] — Divisão do pedículo 3 semanas depois, com inset e afinamento do retalho."
+    ],
+    "complications": [
+      "Trapdoor-alar pelo arco sobre sulco alar com pedículo subcutâneo espesso — prevenir com pexia periosteal + tacking",
+      "Ectrópio temporário da pálpebra inferior se incisão lateral sobe demais",
+      "Obliteração do sulco alar natural se pexia não recriar concavidade"
+    ],
+    "pearls": [
+      "Pexia ao periósteo maxilar é o gesto que separa um resultado natural de um resultado artificial",
+      "Para defeito anterior (ponta/asa anterior), bilobado é mais apropriado — melolabial arqueia desconfortavelmente sobre sulco alar anterior"
+    ],
+    "citations": [
+      "Kaufman, 2018, cap. 5, sec. 5.10",
+      "Neligan, 2023, vol. 3, cap. 3 (Nasolabial flap)"
+    ],
+    "updates": [],
+    "tags": [
+      "tecnica",
+      "melolabial",
+      "nasolabial",
+      "asa-nasal",
+      "interpolacao"
+    ]
+  },
+  {
+    "id": "narreconr-tec-011",
+    "type": "technique",
+    "title": "Retalho Cheek-to-Nose Interpolado — Triângulo Mole / Ala Lateral (Kaufman 5.11)",
+    "aliases": [
+      "cheek-to-nose flap",
+      "retalho bochecha-nariz",
+      "cheek interpolation flap"
+    ],
+    "topic": "reconstrucao-de-nariz",
+    "area": "reconstrucao-facial",
+    "indication": "Defeito full-thickness de ponta lateral + triângulo mole ou de ala lateral (~2,2 × 1,4 cm), onde melolabial-transposição não cabe (defeito cruza junção ponta/asa e envolve triângulo mole) e paramediano seria desproporcional.",
+    "contraindication": "Defeito sobre ponta central ou columela (cheek-to-nose não alcança). Defeito full-thickness sem lining planejado (o retalho fornece apenas cobertura cutânea).",
+    "steps": [
+      "1. ESTÁGIO I (Dia 0): excisão da sub-unidade conforme regra dos 50%.",
+      "2. Colocação de batten graft conchal (5–8 mm de largura, 6–8 mm maior que o comprimento do rim alar para ancoragem em pockets) para suportar a margem alar.",
+      "3. Elevação do cheek-to-nose com pedículo aberto (base estreita vascularizada por ramos da angular/facial); rotação ~90° ou mais envolvendo a borda alar.",
+      "4. Sutura do retalho ao defeito com mínima tensão; petrolatum/bismuth gauze sobre pedículo aberto.",
+      "5. Retirada de pontos cutâneos em 7 dias.",
+      "6. ESTÁGIO II (3–4 semanas): divisão e inset do pedículo; afinamento do retalho; defeito de origem fechado em elipse vertical ao longo do sulco melolabial."
+    ],
+    "complications": [
+      "Necrose distal se pedículo muito estreito em fumante",
+      "Alar notching inevitável se batten graft de cartilagem omitido",
+      "Tensão no fechamento do estágio I — o retalho PRECISA caber sem pressão sobre o leito"
+    ],
+    "pearls": [
+      "Batten graft conchal é quase sempre obrigatório — não omitir",
+      "Pedículo aberto por 3–4 semanas: óculos proibidos até divisão do pedículo"
+    ],
+    "citations": [
+      "Kaufman, 2018, cap. 5, sec. 5.11",
+      "Neligan, 2023, vol. 3, cap. 3"
+    ],
+    "updates": [],
+    "tags": [
+      "tecnica",
+      "cheek-to-nose",
+      "triangulo-mole",
+      "ala-lateral",
+      "interpolacao-dois-estagios"
+    ]
+  },
+  {
+    "id": "narreconr-tec-012",
+    "type": "technique",
+    "title": "Retalho Frontal Paramediano — Defeitos Grandes / Full-Thickness (Kaufman 5.12)",
+    "aliases": [
+      "paramedian forehead flap",
+      "retalho frontal paramediano",
+      "Indian flap"
+    ],
+    "topic": "reconstrucao-de-nariz",
+    "area": "reconstrucao-facial",
+    "indication": "Defeito ≥ 1,5 cm envolvendo ponta, dorso distal, asa ou múltiplas sub-unidades convexas; defeito full-thickness com perda de todas as três camadas; qualquer defeito onde like-for-like de pele glabra da fronte é necessário para cobertura.",
+    "contraindication": "Contraindicação relativa: fumante ativo não cessado (cessação ≥ 4 semanas pré-op). Cicatriz prévia extensa na fronte limitando o desenho. Falta de aderência do paciente para seguimento dos estágios.",
+    "steps": [
+      "1. Base ipsilateral ao defeito; pedículo de 1,2–1,5 cm centrado sobre a a. supratroclear (~1,7 cm lateral à linha média no nível do sulco glabelar).",
+      "2. ESTÁGIO I — flap transfer: template do defeito em papel/alumínio transferido à fronte ipsilateral; desenho do retalho incluindo pedículo estreito.",
+      "3. Incisão até subgaleal superior / subperiosteal inferior.",
+      "4. Afinamento do distal flap (exceto em fumantes: deixar mais espesso).",
+      "5. Inset no defeito com sutura em camadas; petrolatum/bismuth sobre pedículo aberto.",
+      "6. Defeito doador frontal fechado em linha reta (porção superior pode granular se tensão excessiva).",
+      "7. ESTÁGIO II — pedicle division and inset (3–4 semanas depois): incisão elíptica na base do pedículo; divisão; inset final com afinamento adicional; retorno do excesso de pedículo à fronte.",
+      "8. [OPTIONAL — Menick 3-stage] Intermediate operation (7–14 dias após estágio I): elevação do retalho em fino esqueleto cutâneo (~2–3 mm), remoção de gordura excessiva e músculo frontal, sculpt; reposicionamento. Preferido em full-thickness grandes com cartilagem/lining simultaneamente reconstruídos."
+    ],
+    "complications": [
+      "Necrose distal da ponta do retalho se pedículo < 1,2 cm em fumante",
+      "Necrose parcial por afinamento agressivo no estágio I em fumante",
+      "Alargamento de cicatriz vertical na fronte se defeito doador forçado sob tensão",
+      "Alar notching em contração tardia se batten graft omitido na asa reconstruída"
+    ],
+    "pearls": [
+      "Intermediate operation (3-stage de Menick) é a diferença entre paramediano estético e paramediano funcional em defeitos full-thickness grandes",
+      "Deixar granular porção superior do defeito doador frontal se tensão excessiva — melhor que cicatriz alargada",
+      "Doppler pré-op da supratroclear é obrigatório quando fronte tem cicatrizes prévias"
+    ],
+    "citations": [
+      "Kaufman, 2018, cap. 5, sec. 5.12 e 5.12.1 step-by-step",
+      "Neligan, 2023, vol. 3, cap. 3 (The forehead flap)"
+    ],
+    "updates": [],
+    "tags": [
+      "tecnica",
+      "paramediano-frontal",
+      "retalho-frontal",
+      "full-thickness",
+      "tres-estagios"
+    ]
+  },
+  {
+    "id": "narreconr-tec-013",
+    "type": "technique",
+    "title": "Reconstrução Multi-camada (Cartilage Graft + Lining Flap + Cover Flap)",
+    "aliases": [
+      "multi-layer reconstruction",
+      "three-layer nasal reconstruction",
+      "reconstrução total nasal"
+    ],
+    "topic": "reconstrucao-de-nariz",
+    "area": "reconstrucao-facial",
+    "indication": "Defeitos full-thickness em que cobertura + arcabouço + lining precisam ser repostos simultaneamente para preservar forma e fluxo aéreo. Padrão: asa ou ponta com perda completa até o vestíbulo nasal.",
+    "contraindication": "Tecido receptor comprometido (cicatriz velha, radioterapia prévia) sem debridamento e planejamento prévio — cicatrizes antigas não são pele boa.",
+    "steps": [
+      "1. PLATAFORMA ESTÁVEL PRIMEIRO — garantir que bochecha, lábio e mento adjacentes estejam restaurados antes do retalho nasal.",
+      "2. LINING: retalho mucoperiocondral septal em hinge-flap (porta-abrindo) para < 1,5 cm; retalho de avanço bipedicular septal para 1–3 cm; forehead flap dobrado para lining em defeitos grandes quando septal não basta.",
+      "3. SUPORTE ESTRUTURAL: batten grafts de cartilagem septal (primeira escolha) ou conchal, posicionados acima do lining reconstituído e abaixo do retalho de cobertura; dimensionados 6–8 mm maiores que o defeito para ancoragem em pockets; suturados com polyglactin 4-0.",
+      "4. COBERTURA: retalho frontal paramediano ipsilateral (em 2 ou 3 estágios).",
+      "5. Staging beneficia defeitos complexos — intermediate operation de Menick entre os estágios para refinar contorno antes da divisão do pedículo.",
+      "6. Desconsiderar cicatrizes antigas: debridar e reconsiderar a fonte doadora antes de comprometer-se com o retalho."
+    ],
+    "complications": [
+      "Pular a camada de suporte: alar notching, colapso de válvula nasal, achatamento de ponta",
+      "Lining com pele enxertada (não vascularizada) em defeitos grandes: contração secundária fecha narina",
+      "Excesso de volume sob retalho frontal: convexidade artificial — refinar em estágio intermediário"
+    ],
+    "pearls": [
+      "Ordem das camadas: lining primeiro, depois suporte cartilaginoso, depois cobertura — não inverter",
+      "Stagear adequadamente: um retalho frontal em 3 estágios resulta em nariz mais natural que um tempo forçado"
+    ],
+    "citations": [
+      "Neligan, 2023, vol. 3, cap. 3 (Restore the subcutaneous framework; Nasal lining restoration options; algoritmos 3.1–3.2)"
+    ],
+    "updates": [],
+    "tags": [
+      "tecnica",
+      "multi-camada",
+      "lining",
+      "batten-graft",
+      "paramediano-frontal"
+    ]
+  }
+]

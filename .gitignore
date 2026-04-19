@@ -19,6 +19,9 @@ node_modules/
 __pycache__/
 tools/__pycache__/
 
+# Cache scratch de render de PDF (Phase 7.3+)
+tools/_cache/
+
 # Temporários
 .tmp/
 

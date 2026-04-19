@@ -1,0 +1,12 @@
+{
+  "id": "img-nariz-cheek-to-nose-interpolacao",
+  "file": "reconstrucao-de-nariz/nariz-cheek-to-nose-interpolacao.png",
+  "subject": "Retalho de interpolação cheek-to-nose para defeito espessura total da ponta lateral e triângulo mole",
+  "role": "technique",
+  "source": "Kaufman 2018, Cap. 5 — Reconstruction of the nasal unit",
+  "credit": "Adaptado de Kaufman 2018",
+  "default_caption": "Design do cheek-to-nose interpolado: incisão segue o sulco melolabial, pedículo transposto e enrolado para reconstruir a ala (Kaufman 2018, Cap. 5, Fig. 5.11B-D).",
+  "labels": [],
+  "applicable_topics": ["reconstrucao-de-nariz"],
+  "status": "available"
+}

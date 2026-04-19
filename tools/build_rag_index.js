@@ -44,7 +44,7 @@ function extractTerms(text) {
 }
 
 function parseRAGIntoChunks(markdown, topic, area) {
-  const lines = markdown.split('\n');
+  const lines = markdown.split(/\r?\n/);
   const chunks = [];
   let currentSection = '';
   let currentSubsection = '';

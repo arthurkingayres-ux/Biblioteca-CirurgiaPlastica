@@ -1,0 +1,12 @@
+{
+  "id": "img-nariz-bilobed-zitelli-geometria",
+  "file": "reconstrucao-de-nariz/nariz-bilobed-zitelli-geometria.png",
+  "subject": "Geometria do retalho bilobado de Zitelli: ângulos de 45-50° entre lobos e 90-100° do arco total",
+  "role": "technique",
+  "source": "Kaufman 2018, Cap. 5 — Reconstruction of the nasal unit",
+  "credit": "Adaptado de Kaufman 2018",
+  "default_caption": "Geometria do bilobado de Zitelli — ângulos de 45-50° entre os lobos e 90-100° do arco total, com tricone e design dos lobos em forma de coração (Kaufman 2018, Cap. 5).",
+  "labels": [],
+  "applicable_topics": ["reconstrucao-de-nariz"],
+  "status": "available"
+}
