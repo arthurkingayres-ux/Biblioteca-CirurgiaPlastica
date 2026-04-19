@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-18T04:40:25Z",
-  "count": 53,
+  "generatedAt": "2026-04-19T15:03:07Z",
+  "count": 25,
   "entries": [
     {
       "id": "img-orbital-bones-001",
@@ -455,6 +455,216 @@
       ],
       "applicable_topics": [
         "blefaroplastia"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-nariz-bilobed-ponta-aplicacao",
+      "file": "reconstrucao-de-nariz/nariz-bilobed-ponta-aplicacao.png",
+      "subject": "Retalho bilobado de Zitelli aplicado a defeito de ponta/supratip com pedículo lateral",
+      "role": "technique",
+      "source": "Kaufman 2018, Cap. 5 — Reconstruction of the nasal unit",
+      "credit": "Adaptado de Kaufman 2018",
+      "default_caption": "Bilobado aplicado em defeito da ponta/supratip direito (1,1 × 1,1 cm), com pedículo lateral e tricone superior ao sulco alar (Kaufman 2018, Cap. 5, Fig. 5.4I-J).",
+      "labels": [],
+      "applicable_topics": [
+        "reconstrucao-de-nariz"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-nariz-bilobed-zitelli-geometria",
+      "file": "reconstrucao-de-nariz/nariz-bilobed-zitelli-geometria.png",
+      "subject": "Geometria do retalho bilobado de Zitelli: ângulos de 45-50° entre lobos e 90-100° do arco total",
+      "role": "technique",
+      "source": "Kaufman 2018, Cap. 5 — Reconstruction of the nasal unit",
+      "credit": "Adaptado de Kaufman 2018",
+      "default_caption": "Geometria do bilobado de Zitelli — ângulos de 45-50° entre os lobos e 90-100° do arco total, com tricone e design dos lobos em forma de coração (Kaufman 2018, Cap. 5).",
+      "labels": [],
+      "applicable_topics": [
+        "reconstrucao-de-nariz"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-nariz-camadas-anatomicas",
+      "file": "reconstrucao-de-nariz/nariz-camadas-anatomicas.png",
+      "subject": "Topografia nasal e landmarks anatômicos (dorso, parede lateral, ala, ponta, triângulo mole, columela)",
+      "role": "anatomy",
+      "source": "Kaufman 2018, Cap. 5 — Reconstruction of the nasal unit",
+      "credit": "Adaptado de Kaufman 2018",
+      "default_caption": "Landmarks anatômicos do nariz: dorso, parede lateral (sidewall), sulco alar, ala, triângulo mole e columela (Kaufman 2018, Cap. 5).",
+      "labels": [],
+      "applicable_topics": [
+        "reconstrucao-de-nariz"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-nariz-cheek-to-nose-interpolacao",
+      "file": "reconstrucao-de-nariz/nariz-cheek-to-nose-interpolacao.png",
+      "subject": "Retalho de interpolação cheek-to-nose para defeito espessura total da ponta lateral e triângulo mole",
+      "role": "technique",
+      "source": "Kaufman 2018, Cap. 5 — Reconstruction of the nasal unit",
+      "credit": "Adaptado de Kaufman 2018",
+      "default_caption": "Design do cheek-to-nose interpolado: incisão segue o sulco melolabial, pedículo transposto e enrolado para reconstruir a ala (Kaufman 2018, Cap. 5, Fig. 5.11B-D).",
+      "labels": [],
+      "applicable_topics": [
+        "reconstrucao-de-nariz"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-nariz-composite-graft-rim-alar",
+      "file": "reconstrucao-de-nariz/nariz-composite-graft-rim-alar.png",
+      "subject": "Algoritmo de cobertura cutânea nasal — indicações de enxerto composto em rim alar, triângulo mole e columela",
+      "role": "technique",
+      "source": "Neligan 2023, vol. 3, cap. 3 — Aesthetic nasal reconstruction",
+      "credit": "Adaptado de Neligan 2023",
+      "default_caption": "Algoritmo 3.1 — enxerto composto auricular é opção para defeitos pequenos que envolvem rim/triângulo mole e columela (Neligan 2023, vol. 3, cap. 3).",
+      "labels": [],
+      "applicable_topics": [
+        "reconstrucao-de-nariz"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-nariz-ftsg-sulco-alar",
+      "file": "reconstrucao-de-nariz/nariz-ftsg-sulco-alar.png",
+      "subject": "Enxerto cutâneo de espessura total (FTSG) em defeito superficial de sulco/crease alar anterior",
+      "role": "technique",
+      "source": "Kaufman 2018, Cap. 5 — Reconstruction of the nasal unit",
+      "credit": "Adaptado de Kaufman 2018",
+      "default_caption": "FTSG suturado em defeito superficial do sulco alar anterior (1,8 × 1,2 cm), com curativo tie-down para garantir pega do enxerto (Kaufman 2018, Cap. 5, Fig. 5.6D-F).",
+      "labels": [],
+      "applicable_topics": [
+        "reconstrucao-de-nariz"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-nariz-ilha-vy-sulco-alar",
+      "file": "reconstrucao-de-nariz/nariz-ilha-vy-sulco-alar.png",
+      "subject": "Retalho de avanço em ilha (V-Y) no sulco nasomelal/alar recrutando tecido da bochecha convexa",
+      "role": "technique",
+      "source": "Kaufman 2018, Cap. 5 — Reconstruction of the nasal unit",
+      "credit": "Adaptado de Kaufman 2018",
+      "default_caption": "Retalho em ilha V-Y para defeito no sulco alar/nasomelal — um dos lados do triângulo segue a borda da bochecha convexa para ocultar a incisão (Kaufman 2018, Cap. 5).",
+      "labels": [],
+      "applicable_topics": [
+        "reconstrucao-de-nariz"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-nariz-melolabial-aplicacao",
+      "file": "reconstrucao-de-nariz/nariz-melolabial-aplicacao.png",
+      "subject": "Retalho de transposição melolabial para parede lateral/sulco alar com incisão seguindo o sulco nasolabial",
+      "role": "technique",
+      "source": "Kaufman 2018, Cap. 5 — Reconstruction of the nasal unit",
+      "credit": "Adaptado de Kaufman 2018",
+      "default_caption": "Design do retalho melolabial: incisão segue o sulco melolabial para esconder cicatrizes, com ponto 'a' no canto medial e transposição para o defeito (Kaufman 2018, Cap. 5, Fig. 5.10A-B).",
+      "labels": [],
+      "applicable_topics": [
+        "reconstrucao-de-nariz"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-nariz-paramediano-aplicacao",
+      "file": "reconstrucao-de-nariz/nariz-paramediano-aplicacao.png",
+      "subject": "Retalho frontal paramediano aplicado a defeito de ponta/asa com marcação do pedículo supratroclear",
+      "role": "technique",
+      "source": "Kaufman 2018, Cap. 5 — Reconstruction of the nasal unit",
+      "credit": "Adaptado de Kaufman 2018",
+      "default_caption": "Paramediano frontal: pedículo de 1,2-1,5 cm centrado sobre o sulco glabelar, onde a artéria supratroclear cruza o rebordo orbitário (Kaufman 2018, Cap. 5, Fig. 5.12A-B).",
+      "labels": [],
+      "applicable_topics": [
+        "reconstrucao-de-nariz"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-nariz-paramediano-passos",
+      "file": "reconstrucao-de-nariz/nariz-paramediano-passos.png",
+      "subject": "Passos do retalho frontal paramediano em duas etapas: design do pedículo supratroclear, excisão subunitária e corte axial das camadas",
+      "role": "technique",
+      "source": "Neligan 2023, vol. 3, cap. 3 — Aesthetic nasal reconstruction",
+      "credit": "Adaptado de Neligan 2023",
+      "default_caption": "Retalho frontal paramediano em duas etapas (Menick): pedículo axial ipsilateral sobre a artéria supratroclear, excisão subunitária do defeito e corte mostrando scalp, frontalis, periósteo e vaso doador (Neligan 2023, vol. 3, cap. 3, Fig. 3.12).",
+      "labels": [],
+      "applicable_topics": [
+        "reconstrucao-de-nariz"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-nariz-rieger-dorsal-rotation",
+      "file": "reconstrucao-de-nariz/nariz-rieger-dorsal-rotation.png",
+      "subject": "Retalho de rotação dorsal nasal (Rieger) comparado a retalho nasal simples e bilobado",
+      "role": "technique",
+      "source": "Neligan 2023, vol. 3, cap. 3 — Aesthetic nasal reconstruction",
+      "credit": "Adaptado de Neligan 2023",
+      "default_caption": "Painel comparativo de retalhos locais: nasal simples, bilobado e retalho de rotação dorsal (Rieger) — este último recruta pele do dorso e glabela para defeitos de ponta (Neligan 2023, vol. 3, cap. 3, Fig. 3.4).",
+      "labels": [],
+      "applicable_topics": [
+        "reconstrucao-de-nariz"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-nariz-romboide-sulco-alar",
+      "file": "reconstrucao-de-nariz/nariz-romboide-sulco-alar.png",
+      "subject": "Retalho de transposição romboide (Limberg) em supratip/dorso nasal com excisão de tricone no pivô",
+      "role": "technique",
+      "source": "Kaufman 2018, Cap. 5 — Reconstruction of the nasal unit",
+      "credit": "Adaptado de Kaufman 2018",
+      "default_caption": "Design do retalho romboide para defeito do dorso/supratip: o 'defeito secundário' cai primeiro, redirecionando os vetores de tensão (Kaufman 2018, Cap. 5, Fig. 5.1B-D).",
+      "labels": [],
+      "applicable_topics": [
+        "reconstrucao-de-nariz"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-nariz-rotacao-bilateral-ponta",
+      "file": "reconstrucao-de-nariz/nariz-rotacao-bilateral-ponta.png",
+      "subject": "Retalho de rotação bilateral da ponta nasal com tricones no sulco alar",
+      "role": "technique",
+      "source": "Kaufman 2018, Cap. 5 — Reconstruction of the nasal unit",
+      "credit": "Adaptado de Kaufman 2018",
+      "default_caption": "Design do retalho de rotação bilateral para defeito mediano da ponta: incisões curvilíneas na junção dorso-parede, tricones excisados no sulco alar (Kaufman 2018, Cap. 5, Fig. 5.5B).",
+      "labels": [],
+      "applicable_topics": [
+        "reconstrucao-de-nariz"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-nariz-subunidades-burget-menick",
+      "file": "reconstrucao-de-nariz/nariz-subunidades-burget-menick.png",
+      "subject": "Sub-unidades estéticas do nariz (Burget-Menick): dorso, paredes laterais, ponta, asas, columela, triângulos moles",
+      "role": "overview",
+      "source": "Neligan 2023, vol. 3, cap. 3 — Aesthetic nasal reconstruction",
+      "credit": "Adaptado de Neligan 2023",
+      "default_caption": "Anatomia de superfície, contorno e sub-unidades estéticas do nariz segundo Burget e Menick (Neligan 2023, vol. 3, cap. 3).",
+      "labels": [],
+      "applicable_topics": [
+        "reconstrucao-de-nariz"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-nariz-vascularizacao",
+      "file": "reconstrucao-de-nariz/nariz-vascularizacao.png",
+      "subject": "Eixo vascular supratroclear e marcação do pedículo do retalho frontal paramediano",
+      "role": "anatomy",
+      "source": "Neligan 2023, vol. 3, cap. 3 — Aesthetic nasal reconstruction",
+      "credit": "Adaptado de Neligan 2023",
+      "default_caption": "Marcação das sub-unidades e do pedículo supratroclear que nutre o retalho frontal paramediano (Neligan 2023, vol. 3, cap. 3).",
+      "labels": [],
+      "applicable_topics": [
+        "reconstrucao-de-nariz"
       ],
       "status": "available"
     }
