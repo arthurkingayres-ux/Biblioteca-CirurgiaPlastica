@@ -1,0 +1,12 @@
+{
+  "id": "img-nariz-rotacao-bilateral-ponta",
+  "file": "reconstrucao-de-nariz/nariz-rotacao-bilateral-ponta.png",
+  "subject": "Retalho de rotação bilateral da ponta nasal com tricones no sulco alar",
+  "role": "technique",
+  "source": "Kaufman 2018, Cap. 5 — Reconstruction of the nasal unit",
+  "credit": "Adaptado de Kaufman 2018",
+  "default_caption": "Design do retalho de rotação bilateral para defeito mediano da ponta: incisões curvilíneas na junção dorso-parede, tricones excisados no sulco alar (Kaufman 2018, Cap. 5, Fig. 5.5B).",
+  "labels": [],
+  "applicable_topics": ["reconstrucao-de-nariz"],
+  "status": "available"
+}
