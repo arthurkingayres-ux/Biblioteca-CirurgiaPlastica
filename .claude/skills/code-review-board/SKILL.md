@@ -16,7 +16,7 @@ Sole obligatory review gate for this repo. Dispatches 6 specialist reviewers in 
 |---|---|
 | rag-integrity-reviewer | `content/rag/**/*.md` |
 | cards-schema-reviewer | `content/cards/**/*.json`, `content/cards/schema.json`, `content/cards/manifest.json`, `tools/rag_to_cards.js`, `tools/build_rag_index.js` |
-| pwa-frontend-reviewer | `webapp/library/**/*.{js,html,css,json}`, `webapp/library/service-worker.js` |
+| pwa-frontend-reviewer | `webapp/library/**/*.{js,html,css,json}`, `webapp/library/sw.js` |
 | image-assets-reviewer | `assets/images/**`, `images[]` fields in any JSON under `content/cards/**` |
 | docs-memory-reviewer | `CLAUDE.md`, `docs/superpowers/specs/**`, `docs/superpowers/plans/**`, `content/cards/manifest.json`, `content/rag/_structure.json`, `content/rag/_template.md` |
 | general-swe-reviewer | Everything not covered above (tools/, node/python scripts, CI configs) — WITH anti-duplication rule |
