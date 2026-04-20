@@ -1,0 +1,27 @@
+# Pin line endings to LF for text files that flow through Node/Python pipelines.
+# Prevents CRLF-on-Windows drift that historically broke BM25 indexing
+# (69->734 chunks bug). Binary assets declared explicit to prevent detection churn.
+
+* text=auto eol=lf
+
+*.js    text eol=lf
+*.mjs   text eol=lf
+*.cjs   text eol=lf
+*.json  text eol=lf
+*.md    text eol=lf
+*.html  text eol=lf
+*.css   text eol=lf
+*.py    text eol=lf
+*.sh    text eol=lf
+*.yml   text eol=lf
+*.yaml  text eol=lf
+.gitignore text eol=lf
+.gitattributes text eol=lf
+
+*.png   binary
+*.jpg   binary
+*.jpeg  binary
+*.gif   binary
+*.webp  binary
+*.pdf   binary
+*.ico   binary
