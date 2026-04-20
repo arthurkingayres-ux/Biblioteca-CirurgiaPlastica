@@ -47,7 +47,8 @@ def main() -> int:
 
     out = args.out or (args.root / "manifest.json")
     manifest = build(args.root)
-    out.write_text(json.dumps(manifest, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    payload = json.dumps(manifest, ensure_ascii=False, indent=2) + "\n"
+    out.write_bytes(payload.encode("utf-8"))
     print(f"wrote {out} ({manifest['count']} entries)")
     return 0
 
