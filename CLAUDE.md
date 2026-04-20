@@ -204,7 +204,8 @@ Se é planejamento (decidir o que/como fazer antes de executar), é plan mode + 
 
 - `superpowers:finishing-a-development-branch` — **OBRIGATÓRIO** quando a implementação termina e o branch está pronto para virar PR
 - `superpowers:requesting-code-review` — **OBRIGATÓRIO** após completar feature significativa, antes de pedir review humano
-- `/code-review:code-review` — **OBRIGATÓRIO** antes de criar ou mergear qualquer pull request
+- `/code-review-board` (skill do projeto) — **OBRIGATÓRIO** antes de abrir PR e antes de mergear. Roda 6 reviewers especializados (rag-integrity, cards-schema, pwa-frontend, image-assets, docs-memory, general-swe) em paralelo e grava relatório em `docs/reviews/PR-<N>-YYYY-MM-DD.md`. É o **único** gate de review obrigatório do projeto; o humano revisa o relatório antes de commitar.
+- `/code-review:code-review` — opcional. Usar quando quiser segunda opinião externa (feature grande, mudança arquitetural). O gate obrigatório é `/code-review-board`.
 - `superpowers:receiving-code-review` — **OBRIGATÓRIO** ao processar apontamentos devolvidos por um review (humano ou automatizado)
 
 ### 6. Loop de auto-aperfeiçoamento
