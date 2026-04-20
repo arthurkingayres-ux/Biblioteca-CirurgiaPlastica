@@ -25,6 +25,9 @@ tools/_cache/
 # Temporários
 .tmp/
 
+# Scratch da skill code-review-board (payloads, patches)
+.crb-tmp/
+
 # IDE
 .vscode/
 
