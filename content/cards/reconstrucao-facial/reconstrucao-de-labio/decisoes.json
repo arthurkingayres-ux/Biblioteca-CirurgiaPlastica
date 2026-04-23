@@ -1,0 +1,179 @@
+[
+  {
+    "id": "labio-dec-001",
+    "type": "decision",
+    "title": "Algoritmo Geral — Seleção de Técnica por Tamanho e Lábio",
+    "topic": "reconstrucao-de-labio",
+    "area": "reconstrucao-facial",
+    "trigger": "Defeito labial pós-ressecção: qual técnica de reconstrução usar?",
+    "steps": [
+      {
+        "question": "Qual é a profundidade do defeito?",
+        "options": [
+          { "answer": "Só vermelhão (sem orbicular)", "next": "Bloco A — Vermelhão isolado" },
+          { "answer": "Cutâneo superficial (pele + subcutâneo; orbicular preservado)", "next": "Bloco B — Defeito cutâneo superficial" },
+          { "answer": "Full-thickness (pele + orbicular + mucosa)", "next": "Bloco C — Defeito full-thickness" }
+        ]
+      },
+      {
+        "question": "[Bloco A — Vermelhão isolado] Qual é o padrão?",
+        "options": [
+          { "answer": "Cheilite actínica difusa em todo o vermelhão", "next": "Vermilionectomia + avanço mucoso (Kaufman 6.5)" },
+          { "answer": "Defeito isolado < 33% do vermelhão inferior", "next": "Rotação bilateral do vermelhão (Kaufman 6.6)" },
+          { "answer": "Defeito mucoso onde FAMM viável", "next": "FAMM flap (Neligan, fig. 11.5)" }
+        ]
+      },
+      {
+        "question": "[Bloco B — Cutâneo superficial] Qual é a sub-unidade e o tamanho?",
+        "options": [
+          { "answer": "Lábio superior lateral (5C), pequeno-médio", "next": "Cunha side-to-side (6.1) ou avanço do lábio superior (6.2)" },
+          { "answer": "Lábio superior próximo ao alar sill", "next": "Rotação do lábio superior (6.3) ou avanço em ilha no alar sill (6.4)" },
+          { "answer": "Lábio superior amplo cutâneo (> 1,5 × 1 cm)", "next": "Avanço bilateral com ampliação para sub-unidade (6.9)" },
+          { "answer": "Filtro (5A) + vermelhão combinado", "next": "Ilha filtral V-Y + rotação bilateral do vermelhão (6.7) ou variante pincer + avanço mucoso (6.8)" },
+          { "answer": "Lábio inferior cutâneo lateral", "next": "Transposição melolabial de pedículo inferior (6.10)" }
+        ]
+      },
+      {
+        "question": "[Bloco C — Full-thickness] Qual é o tamanho relativo?",
+        "options": [
+          { "answer": "≤ 25% lábio superior / ≤ 33% lábio inferior, central", "next": "Cunha com M-plastia (6.11)" },
+          { "answer": "25–50% lábio superior central (filtro/columna)", "next": "Abbe flap — preserva cúpido e transfere esfíncter (6.12)" },
+          { "answer": "33–67% envolvendo comissura", "next": "Estlander — rotação única com comissura inclusa (6.12 variante)" },
+          { "answer": "1/3–2/3 lábio inferior, prioridade competência oral", "next": "Karapandzic — preserva inervação motora + sensitiva (Neligan, fig. 11.11)" },
+          { "answer": "1/3–2/3 lábio inferior lateralizado com geometria incompatível com Karapandzic", "next": "Gillies fan flap / McGregor modification" },
+          { "answer": "Subtotal > 2/3", "next": "Bernard-Burow / Webster crescentic ± Abbe central (Neligan, fig. 11.9)" },
+          { "answer": "Total > 75% ou com perda de módiolo/comissura", "next": "Transferência livre microcirúrgica (radial + palmaris sling; gracilis neurotizado)" }
+        ]
+      }
+    ],
+    "citations": [
+      "Kaufman, 2018, cap. 6, secs. 6.1–6.12",
+      "Neligan, 2023, vol. 3, cap. 11, algoritmos 11.1 e 11.2 (Pribaz & Buller)"
+    ],
+    "updates": [],
+    "tags": [
+      "decisao",
+      "algoritmo-geral",
+      "selecao-tecnica",
+      "repertorio-labial"
+    ]
+  },
+  {
+    "id": "labio-dec-002",
+    "type": "decision",
+    "title": "Prioridade Funcional vs Estética — Quando Karapandzic vs Abbe vs Bernard",
+    "topic": "reconstrucao-de-labio",
+    "area": "reconstrucao-facial",
+    "trigger": "Defeito full-thickness de 1/3–2/3 do lábio inferior: competência oral ou estética tem prioridade?",
+    "steps": [
+      {
+        "question": "Qual é a prioridade declarada do paciente?",
+        "options": [
+          { "answer": "Competência oral (continência de saliva, fala)", "next": "Karapandzic (preserva inervação motora + artéria labial) — aceitar microstomia temporária" },
+          { "answer": "Estética (cúpido, simetria, sem microstomia)", "next": "Abbe (central, filtro) ou Webster crescentic + Abbe central (lateral, > 50%)" }
+        ]
+      },
+      {
+        "question": "As duas prioridades colidem (ex: defeito lateral de 1/2 do lábio inferior em paciente jovem)?",
+        "options": [
+          { "answer": "Sim — conflito real", "next": "Karapandzic é quase sempre o vencedor: aceita-se microstomia temporária em troca de competência oral preservada" },
+          { "answer": "Não — uma prioridade claramente domina", "next": "Seguir o eixo da prioridade dominante no algoritmo 11.2 de Neligan" }
+        ]
+      },
+      {
+        "question": "Qual é a hierarquia de técnicas por prioridade funcional?",
+        "options": [
+          { "answer": "Máxima preservação de competência oral", "next": "Karapandzic > Gillies fan > Bernard-Burow > transferência livre com palmaris sling > gracilis neurotizado (dinâmico)" },
+          { "answer": "Máxima preservação estética (cúpido + columnas + simetria)", "next": "Abbe > lip-switch variantes > avanço em ilha + rotação bilateral vermelhão (6.7/6.8) > avanço bilateral (6.9) > Webster crescentic > Bernard-Burow clássico" }
+        ]
+      }
+    ],
+    "citations": [
+      "Neligan, 2023, vol. 3, cap. 11, Decision Algorithm Eixo 2",
+      "Kaufman, 2018, cap. 6"
+    ],
+    "updates": [],
+    "tags": [
+      "decisao",
+      "competencia-oral",
+      "estetica",
+      "karapandzic",
+      "abbe"
+    ]
+  },
+  {
+    "id": "labio-dec-003",
+    "type": "decision",
+    "title": "Vermelhão Isolado vs Full-Thickness — Camadas e Implicação Técnica",
+    "topic": "reconstrucao-de-labio",
+    "area": "reconstrucao-facial",
+    "trigger": "Defeito labial: quantas camadas estão ausentes e o que isso muda na técnica?",
+    "steps": [
+      {
+        "question": "Qual é a camada mais profunda perdida?",
+        "options": [
+          { "answer": "Só vermelhão (pars cutanea ± pars mucosa; orbicular intacto)", "next": "Reparo de uma camada: vermelionectomia + avanço mucoso (6.5) ou rotação bilateral vermelhão (6.6) ou FAMM para mucosa" },
+          { "answer": "Pele + subcutâneo (orbicular preservado)", "next": "Reparo de cobertura: retalho de avanço, ilha V-Y, transposição melolabial — sem necessidade de reconstrução muscular" },
+          { "answer": "Pele + orbicular (mucosa preservada)", "next": "Reparo em duas camadas: orbicular primeiro (4-0/5-0 enterrado), depois pele; orbicular em pars marginalis + pars peripheralis" },
+          { "answer": "Full-thickness (pele + orbicular + mucosa)", "next": "Reparo em três camadas: mucosa → orbicular (duas camadas) → pele; white roll no primeiro ponto cutâneo" }
+        ]
+      },
+      {
+        "question": "No defeito full-thickness, o orbicular residual é suficiente para competência?",
+        "options": [
+          { "answer": "Sim (< 30–40% do lábio perdido)", "next": "Cunha com M-plastia (6.11) ou Abbe/Estlander suficientes para restaurar continuidade" },
+          { "answer": "Não (> 30–40% do lábio perdido sem continuidade muscular)", "next": "Técnica que transfere esfíncter (Abbe/Karapandzic) ou técnica de esfíncter novo (gracilis neurotizado)" }
+        ]
+      }
+    ],
+    "citations": [
+      "Neligan, 2023, vol. 3, cap. 11, Goals of reconstruction; Classificação por espessura",
+      "Kaufman, 2018, cap. 6"
+    ],
+    "updates": [],
+    "tags": [
+      "decisao",
+      "camadas",
+      "full-thickness",
+      "orbicular",
+      "vermelhao-isolado"
+    ]
+  },
+  {
+    "id": "labio-dec-004",
+    "type": "decision",
+    "title": "Comissura — Estlander vs Bernard vs Livre",
+    "topic": "reconstrucao-de-labio",
+    "area": "reconstrucao-facial",
+    "trigger": "Defeito full-thickness comprometendo a comissura oral: qual abordagem?",
+    "steps": [
+      {
+        "question": "Qual é o tamanho do defeito envolvendo a comissura?",
+        "options": [
+          { "answer": "33–75% com comissura comprometida, lábio oposto normal", "next": "Estlander: retalho do lábio oposto incorporando comissura; rotação única; comissuroplastia a 4–8 semanas" },
+          { "answer": "> 2/3 subtotal com comissura comprometida", "next": "Bernard-Burow / Webster crescentic bilateral — técnica que avança bochechas para reconstruir lábio + comissura" },
+          { "answer": "Total com perda bilateral de comissura/módiolo", "next": "Transferência livre microcirúrgica com reconstituição de módiolos por palmaris sling ou gracilis neurotizado" }
+        ]
+      },
+      {
+        "question": "Após Estlander/Gillies: a comissura está rounded (arredondada)?",
+        "options": [
+          { "answer": "Sim (esperado)", "next": "Comissuroplastia de Converse: 4–8 semanas após Estlander; 6 meses após Gillies fan / Bernard-Burow" },
+          { "answer": "Não — resultado estético aceitável", "next": "Observar; reavaliar com 6 meses. Intervir se assimetria > 2 mm" }
+        ]
+      }
+    ],
+    "citations": [
+      "Neligan, 2023, vol. 3, cap. 11, figs. 11.8–11.9",
+      "Kaufman, 2018, cap. 6, sec. 6.12"
+    ],
+    "updates": [],
+    "tags": [
+      "decisao",
+      "comissura",
+      "estlander",
+      "bernard-burow",
+      "comissuroplastia"
+    ]
+  }
+]

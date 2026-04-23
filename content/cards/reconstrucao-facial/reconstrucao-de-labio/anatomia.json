@@ -1,0 +1,453 @@
+[
+  {
+    "id": "labio-anat-001",
+    "type": "anatomy",
+    "title": "Sub-unidades Estéticas do Lábio",
+    "aliases": [
+      "subunit principle labial",
+      "filtro columnas lateral superior",
+      "unidades 5A 5B 5C 6A 6B"
+    ],
+    "topic": "reconstrucao-de-labio",
+    "area": "reconstrucao-facial",
+    "one_liner": "Lábio superior tem 3 sub-unidades (filtro 5A, columnas filtrais 5B, lateral superior 5C); lábio inferior tem unidade cutânea única 6A e unidade mucosa 6B.",
+    "structures": [
+      {
+        "label": "Filtro (5A)",
+        "description": "Sub-unidade central entre columnas; pele fina, côncava; arco de cúpido na borda inferior."
+      },
+      {
+        "label": "Columnas filtrais (5B)",
+        "description": "Pregas verticais bilaterais que margeiam o filtro; culminam nos picos de cúpido."
+      },
+      {
+        "label": "Lateral superior (5C)",
+        "description": "Par; entre columna filtral e sulco melolabial; cutâneo-muscular, piloso em homens."
+      },
+      {
+        "label": "Unidade cutânea inferior (6A)",
+        "description": "Lábio inferior sem subdivisão lateral; cicatriz horizontal no sulco mento-labial bem tolerada."
+      },
+      {
+        "label": "Unidade mucosa (6B)",
+        "description": "Vermelhão inferior separado da pele pelo white roll."
+      },
+      {
+        "label": "Comissura",
+        "description": "Ancorada no módiolo (confluência fibromuscular); desvio ≥ 2 mm gera sorriso assimétrico."
+      }
+    ],
+    "numbers": [
+      {
+        "label": "Assimetria visível de columnas",
+        "value": "1 mm",
+        "note": "Degrau de 1 mm nos picos de cúpido é visível à distância conversacional"
+      },
+      {
+        "label": "Regra dos 50%",
+        "value": "≥ 50%",
+        "note": "Defeito ≥ 50% de sub-unidade pede ampliação para a sub-unidade inteira antes de reconstruir"
+      }
+    ],
+    "relations": [
+      "Cicatrizes em rítides radiais à rima (lateral superior) e no sulco mento-labial (inferior) são bem camufladas",
+      "Sulco melolabial e sulco mento-labial são junções de sub-unidade que abrigam cicatrizes com ótima camuflagem",
+      "Retalho cruzando o cúpido exige Z-plastia no white roll para não linearizar o arco"
+    ],
+    "clinical_hook": "Marcação das sub-unidades com paciente sentado, boca em repouso, antes da infiltração anestésica é obrigatória — infiltração distorce white roll e cúpido.",
+    "how_to_identify": "Fotografia frontal, ¾ e perfil; demarcação explícita do white roll e dos picos de cúpido com caneta cirúrgica antes da infiltração.",
+    "citations": [
+      "Kaufman, 2018, cap. 6; Neligan, 2023, vol. 3, cap. 11, figs. 11.1–11.2",
+      "ver _principios-reconstrucao.md § Unidades Estéticas da Face, unidades 5A/5B/5C e 6A/6B"
+    ],
+    "updates": [],
+    "tags": [
+      "anatomia",
+      "sub-unidades",
+      "filtro",
+      "cupido",
+      "columnas-filtrais"
+    ]
+  },
+  {
+    "id": "labio-anat-002",
+    "type": "anatomy",
+    "title": "Camadas Anatômicas do Lábio (Três Lâminas)",
+    "aliases": [
+      "three layers lip",
+      "orbicular lábio",
+      "cobertura-muscular-mucosa"
+    ],
+    "topic": "reconstrucao-de-labio",
+    "area": "reconstrucao-facial",
+    "one_liner": "Lábio em 3 camadas funcionalmente distintas: pele queratinizada, orbicular dos lábios (esfíncter), mucosa labial com glândulas salivares menores — cada camada reposta com seu próprio tecido.",
+    "structures": [
+      {
+        "label": "Camada 1 — Pele queratinizada",
+        "description": "Peri-oral, pilosa no homem; rítides radiais à rima em idosos; transiciona para vermelhão pelo white roll."
+      },
+      {
+        "label": "Camada 2 — Orbicular dos lábios",
+        "description": "Pars marginalis (subjacente ao white roll, eleva a pele) + pars peripheralis (esfíncter oral); convergem no módiolo."
+      },
+      {
+        "label": "Camada 3 — Mucosa labial",
+        "description": "Epitélio escamoso não queratinizado + tecido conjuntivo frouxo + glândulas salivares menores; transiciona para vermelhão pela linha seca-úmida."
+      }
+    ],
+    "numbers": [
+      {
+        "label": "Orbicular — limiar de incompetência",
+        "value": "> 30–40%",
+        "note": "Remoção de > 30–40% de um lábio sem restabelecer continuidade muscular produz incompetência oral"
+      }
+    ],
+    "relations": [
+      "Não há suporte ósseo/cartilaginoso no lábio — o esfíncter muscular é a estrutura funcional",
+      "Defeito full-thickness: três camadas repostas (mucosa com mucosa, orbicular com orbicular, pele com pele)",
+      "Sutura do orbicular em duas camadas (pars marginalis + pars peripheralis) previne whistle deformity"
+    ],
+    "clinical_hook": "Teste bedside de competência oral: água na boca sem deglutir — paciente com orbicular íntegro consegue. Incompetência após reparo indica perda muscular não compensada.",
+    "how_to_identify": "Palpação bidigital para avaliar continuidade do orbicular; palpação do módiolo bilateral para ancoragem funcional.",
+    "citations": [
+      "Neligan, 2023, vol. 3, cap. 11, fig. 11.2; Kaufman, 2018, cap. 6"
+    ],
+    "updates": [],
+    "tags": [
+      "anatomia",
+      "orbicular",
+      "camadas-labiais",
+      "modiolo",
+      "full-thickness"
+    ]
+  },
+  {
+    "id": "labio-anat-003",
+    "type": "anatomy",
+    "title": "White Roll, Vermelhão e Junção Seca-Úmida",
+    "aliases": [
+      "white roll",
+      "vermilion border",
+      "dry wet junction",
+      "junção seco-úmido"
+    ],
+    "topic": "reconstrucao-de-labio",
+    "area": "reconstrucao-facial",
+    "one_liner": "O white roll é crista esbranquiçada de ~1 mm na fronteira pele-vermelhão; o vermelhão tem pars cutanea (dry) externo e pars mucosa (wet) interno, separados por linha precisa.",
+    "structures": [
+      {
+        "label": "White roll",
+        "description": "Crista de ~1 mm na fronteira pele-vermelhão; terminação distal do orbicular; âncora do primeiro ponto em todo reparo labial."
+      },
+      {
+        "label": "Vermelhão seco (pars cutanea)",
+        "description": "Epitélio escamoso não queratinizado, externo, sem pelo; ricamente vascularizado; sem glândulas."
+      },
+      {
+        "label": "Vermelhão úmido (pars mucosa)",
+        "description": "Mucosa contígua às glândulas salivares menores; contínua com mucosa oral; lado interno."
+      },
+      {
+        "label": "Junção seca-úmida",
+        "description": "Linha precisa entre vermelhão seco e úmido; mismatch é estigma visível em reconstruções."
+      },
+      {
+        "label": "Arco de cúpido",
+        "description": "Duplo arco do white roll superior com picos bilaterais e ponto inferior central sob o filtro."
+      },
+      {
+        "label": "Tubérculo central",
+        "description": "Proeminência média do vermelhão superior; landmark estético difícil de repor quando perdido."
+      }
+    ],
+    "numbers": [
+      {
+        "label": "Largura do white roll",
+        "value": "~1 mm",
+        "note": "Degrau de 1 mm visível à distância conversacional"
+      }
+    ],
+    "relations": [
+      "Marcação do white roll com caneta antes da infiltração é obrigatória — infiltração distorce a crista",
+      "Retalho cruzando o cúpido exige Z-plastia no white roll para não linearizar o arco",
+      "Seda 5-0/6-0 (macia) é preferida no vermelhão — pouco irritante (Kaufman key points)"
+    ],
+    "clinical_hook": "O primeiro ponto cutâneo em qualquer reparo full-thickness ancora o white roll — esse alinhamento submilimétrico guia todos os demais pontos. Degrau ≥ 1 mm exige refazer na primeira semana.",
+    "how_to_identify": "Iluminação direta com lupa 2,5–3,5×; white roll é a crista pálida que capta diferente de pele e vermelhão. Marcar bilateralmente e simétricamente antes de qualquer procedimento.",
+    "citations": [
+      "Kaufman, 2018, cap. 6, sec. 6.1 key points",
+      "Neligan, 2023, vol. 3, cap. 11, Assessment"
+    ],
+    "updates": [],
+    "tags": [
+      "anatomia",
+      "white-roll",
+      "vermelhao",
+      "cupido",
+      "juncao-seca-umida"
+    ]
+  },
+  {
+    "id": "labio-anat-004",
+    "type": "anatomy",
+    "title": "Vascularização Labial — Arcada Peri-oral",
+    "aliases": [
+      "labial arteries",
+      "artéria labial superior",
+      "artéria labial inferior",
+      "arcada peri-oral"
+    ],
+    "topic": "reconstrucao-de-labio",
+    "area": "reconstrucao-facial",
+    "one_liner": "Quatro artérias labiais (superior D/E e inferior D/E) formam arcada anastomótica peri-oral sob o orbicular — base da robustez dos retalhos lip-switch e Karapandzic.",
+    "structures": [
+      {
+        "label": "A. labial superior (bilateral)",
+        "description": "Ramo da facial emergindo na comissura; corre profundamente ao orbicular ~1 cm do vermelhão; anastomose mediana."
+      },
+      {
+        "label": "A. labial inferior (bilateral)",
+        "description": "Análoga à superior na comissura; território robusto, tolera secção unilateral."
+      },
+      {
+        "label": "Arcada peri-oral",
+        "description": "Anel vascular em torno do óstio oral formado pelas quatro labiais; pedículo axial de Abbe, Estlander, Karapandzic, Gillies fan, FAMM."
+      },
+      {
+        "label": "FAMM (Facial Artery Musculomucosal flap)",
+        "description": "Retalho mucoso-muscular na artéria facial ascendendo pela parede lateral oral entre mucosa bucal e bucinador."
+      }
+    ],
+    "numbers": [
+      {
+        "label": "Posição da labial no orbicular",
+        "value": "~1 cm",
+        "note": "Profundamente ao orbicular; vermelionectomia + avanço mucoso em plano superficial ao orbicular para não cortar a labial"
+      },
+      {
+        "label": "Necrose total em axiais labiais",
+        "value": "< 2%",
+        "note": "Quando a artéria labial é preservada no pedículo"
+      }
+    ],
+    "relations": [
+      "Tabagismo eleva necrose 2–3× mesmo em retalhos axiais — cessação ≥ 4 semanas pré-op obrigatória",
+      "Doppler útil em reoperações e irradiados para confirmar trajeto da labial",
+      "Plexo subdérmico peri-oral sustenta retalhos randômicos do sulco melolabial (Kaufman 6.10)"
+    ],
+    "clinical_hook": "Vermelionectomia + avanço mucoso (Kaufman 6.5) deve ser dissecada em plano superficial ao orbicular para não cortar a artéria labial, que corre profundamente a ~1 cm do vermelhão.",
+    "how_to_identify": "Doppler ultrassônico no sulco melolabial e na comissura para mapear a artéria labial em casos de reoperação ou irradiação prévia.",
+    "citations": [
+      "Neligan, 2023, vol. 3, cap. 11; Kaufman, 2018, cap. 6, sec. 6.12",
+      "Pribaz et al., PRS, 2000 (FAMM)"
+    ],
+    "updates": [],
+    "tags": [
+      "anatomia",
+      "vascularizacao",
+      "labial-superior",
+      "labial-inferior",
+      "arcada-peri-oral"
+    ]
+  },
+  {
+    "id": "labio-anat-005",
+    "type": "anatomy",
+    "title": "Inervação Sensitiva e Motora do Lábio",
+    "aliases": [
+      "infraorbital V2",
+      "mentoniano V3",
+      "ramo bucal VII",
+      "marginal mandibular VII"
+    ],
+    "topic": "reconstrucao-de-labio",
+    "area": "reconstrucao-facial",
+    "one_liner": "Sensitiva: infraorbital (V2) para lábio superior, mentoniano (V3) para lábio inferior. Motora: bucal do VII (levantadores + orbicular superior), marginal mandibular do VII (depressores + orbicular inferior).",
+    "structures": [
+      {
+        "label": "N. infraorbital (V2)",
+        "description": "Forame infraorbital ~1 cm abaixo da margem orbitária na linha pupilar; sensitivo para lábio superior."
+      },
+      {
+        "label": "N. mentoniano (V3)",
+        "description": "Forame mentoniano entre 1º e 2º pré-molares; sensitivo para lábio inferior e mento."
+      },
+      {
+        "label": "Ramo bucal do VII",
+        "description": "Motor para levantadores e orbicular do lábio superior; preservado no Karapandzic."
+      },
+      {
+        "label": "Ramo marginal mandibular do VII",
+        "description": "Motor para depressores e orbicular do lábio inferior; único e mais vulnerável em abordagens inferiores."
+      }
+    ],
+    "relations": [
+      "Karapandzic é a única técnica de grande mobilização que preserva ramos bucais/marginais + artéria labial",
+      "Gillies fan sacrifica mais inervação que Karapandzic — incompetência oral parcial descrita",
+      "Bernard-Burow/variantes atravessam ramos bucais → drooling pós-op frequente"
+    ],
+    "clinical_hook": "Bloqueio infraorbital + mentoniano bilateral poupa distorção do white roll pela infiltração local e reduz dose total de anestésico — usar rotineiramente em reparos maiores.",
+    "how_to_identify": "Testar sensibilidade com toque de algodão no lábio superior (V2) e inferior (V3) separadamente para mapear bloqueio. Eletromiografia pós-op para avaliar função motora em reconstruções extensas.",
+    "citations": [
+      "Neligan, 2023, vol. 3, cap. 11, figs. 11.1–11.2; Kaufman, 2018, cap. 6"
+    ],
+    "updates": [],
+    "tags": [
+      "anatomia",
+      "inervacao",
+      "infraorbital",
+      "mentoniano",
+      "marginal-mandibular"
+    ]
+  },
+  {
+    "id": "labio-anat-006",
+    "type": "anatomy",
+    "title": "Módiolo e Comissura Oral",
+    "aliases": [
+      "modiolus",
+      "modiolo",
+      "comissura labial",
+      "commissure"
+    ],
+    "topic": "reconstrucao-de-labio",
+    "area": "reconstrucao-facial",
+    "one_liner": "Módiolo é confluência fibromuscular lateral onde zigomático maior, risório, bucinador, depressor do ângulo e orbicular convergem; ancora a comissura e determina o vetor do sorriso.",
+    "structures": [
+      {
+        "label": "Módiolo",
+        "description": "Confluência fibromuscular 1 cm lateral e ligeiramente inferior à comissura; pedículo anatômico dos retalhos comissurais."
+      },
+      {
+        "label": "Comissura oral",
+        "description": "Junção dos lábios superior e inferior; ancorada no módiolo; vetor de sorriso determinado pela geometria modiolar."
+      },
+      {
+        "label": "Rótula modiolar",
+        "description": "Músculo zigomático maior, risório, bucinador, depressor do ângulo da boca e orbicular convergindo num ponto."
+      }
+    ],
+    "numbers": [
+      {
+        "label": "Desvio de comissura visível",
+        "value": "≥ 2 mm",
+        "note": "Assimetria de comissura ≥ 2 mm gera sorriso assimétrico percebido"
+      }
+    ],
+    "relations": [
+      "Estlander incorpora a comissura no retalho — nova comissura é formada, mas arredondada; comissuroplastia a 4–8 semanas",
+      "Karapandzic preserva a ancoragem modiolar bilateral — competência oral mantida na maioria",
+      "Perda do módiolo exige reconstrução com palmaris longus sling ou gracilis neurotizado para restaurar tônus"
+    ],
+    "clinical_hook": "Desvio da comissura em retalho de Estlander é esperado — planejar comissuroplastia de Converse a 4–8 semanas. Comissura rounded após Gillies fan pede comissuroplastia aos 6 meses.",
+    "how_to_identify": "Palpação firme lateral à comissura; módiolo é palpável como nó fibromuscular. Inspeção da comissura em repouso e em sorriso para avaliar simetria.",
+    "citations": [
+      "Neligan, 2023, vol. 3, cap. 11, fig. 11.2; Kaufman, 2018, cap. 6"
+    ],
+    "updates": [],
+    "tags": [
+      "anatomia",
+      "modiolo",
+      "comissura",
+      "estlander",
+      "karapandzic"
+    ]
+  },
+  {
+    "id": "labio-anat-007",
+    "type": "anatomy",
+    "title": "RSTL Peri-oral e Sulcos de Referência",
+    "aliases": [
+      "RSTL labial",
+      "Relaxed Skin Tension Lines peri-oral",
+      "sulco melolabial",
+      "sulco mento-labial"
+    ],
+    "topic": "reconstrucao-de-labio",
+    "area": "reconstrucao-facial",
+    "one_liner": "RSTL (Relaxed Skin Tension Lines — linhas de tensão relaxada da pele) peri-orais são rítides radiais à rima, sulco melolabial oblíquo e sulco mento-labial horizontal — junções de sub-unidade que abrigam cicatrizes.",
+    "structures": [
+      {
+        "label": "Rítides radiais à rima",
+        "description": "RSTL principais do lábio superior e inferior; cicatrizes em cunha perpendicular à rima camuflam bem."
+      },
+      {
+        "label": "Sulco melolabial",
+        "description": "Junção lateral lábio-bochecha; cicatrizes de retalhos melolabiais, rotação do lábio superior e avanços camuflam nesta junção."
+      },
+      {
+        "label": "Sulco mento-labial",
+        "description": "Junção horizontal inferior do lábio inferior com o mento; M-plastia da cunha para neste sulco antes de cruzá-lo."
+      },
+      {
+        "label": "Linha do marionette",
+        "description": "Sulco vertical lateral da comissura para o mento; tricones de retalhos de avanço do lábio superior podem ser excisados aqui."
+      }
+    ],
+    "relations": [
+      "Cunha full-thickness do lábio inferior em V simples cruza o sulco mento-labial — M-plastia evita isso",
+      "Avanço do lábio superior tem incisão superior seguindo o white roll e continuando pela linha do marionette",
+      "ver _principios-reconstrucao.md § RSTL para princípios gerais de orientação de elipses"
+    ],
+    "clinical_hook": "Tricones (standing cones) nos retalhos do lábio superior devem ser excisados em sulcos ou junções naturais (alar sill, linha do marionette) — nunca em pele lisa peri-oral sem referência anatômica.",
+    "how_to_identify": "Paciente sentado, boca em repouso leve; sulco melolabial aparece em repouso; sulco mento-labial é evidenciado ao pedir ao paciente que projete o queixo levemente.",
+    "citations": [
+      "Kaufman, 2018, cap. 6, secs. 6.1–6.9; ver _principios-reconstrucao.md § RSTL",
+      "ver _atlas-retalhos.md § Retalho de interpolação melolabial"
+    ],
+    "updates": [],
+    "tags": [
+      "anatomia",
+      "RSTL",
+      "sulco-melolabial",
+      "sulco-mento-labial",
+      "marionette"
+    ]
+  },
+  {
+    "id": "labio-anat-008",
+    "type": "anatomy",
+    "title": "Free Margins do Lábio e Vetor de Tensão",
+    "aliases": [
+      "free margin labial",
+      "margem livre",
+      "white roll tension vector"
+    ],
+    "topic": "reconstrucao-de-labio",
+    "area": "reconstrucao-facial",
+    "one_liner": "Toda a circunferência do lábio é free margin — qualquer vetor de tensão perpendicular ao white roll gera notching, deflexão do cúpido ou desvio de comissura.",
+    "structures": [
+      {
+        "label": "White roll como free margin",
+        "description": "Crista contínua do lábio superior e inferior; primeira estrutura a distorcer com vetor perpendicular."
+      },
+      {
+        "label": "Arco de cúpido",
+        "description": "Duplo arco do white roll superior; qualquer tração assimétrica lineariza o arco."
+      },
+      {
+        "label": "Comissura como free margin",
+        "description": "Junção lábio superior-inferior; tração lateral ou medial produz desvio visível."
+      }
+    ],
+    "relations": [
+      "Vetor de fechamento paralelo ao white roll, nunca perpendicular",
+      "Tricones cruzam o white roll decididamente — encurtá-los desvia o vermelhão inferiormente (Kaufman 6.1)",
+      "Simulação do vetor de tensão com pinça antes de incidir — observar se white roll ou cúpido se movem"
+    ],
+    "clinical_hook": "Antes de qualquer incisão próxima ao lábio, simular o vetor de tensão do fechamento com pinça e observar o white roll e a comissura — qualquer deslocamento exige redesenho da geometria.",
+    "how_to_identify": "Inspeção frontal com loupes 2,5–3,5× em boca semiaberta; fotografias pré e pós para comparar simetria do cúpido e das comissuras.",
+    "citations": [
+      "Kaufman, 2018, cap. 6, sec. 6.1 key points; Neligan, 2023, vol. 3, cap. 11",
+      "ver _principios-reconstrucao.md § Margens Livres"
+    ],
+    "updates": [],
+    "tags": [
+      "anatomia",
+      "free-margin",
+      "white-roll",
+      "vetor-tensao",
+      "cupido"
+    ]
+  }
+]
