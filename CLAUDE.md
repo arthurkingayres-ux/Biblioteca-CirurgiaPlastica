@@ -53,9 +53,12 @@ Os cards devem sempre refletir a verdade científica do RAG. Se o RAG atualiza, 
 
 ```text
 content/rag/<area>/<tema>.md
+content/rag/<area>/_<horizontal>.md   # RAGs transversais (princípios, atlas) — área reconstrucao-facial
 ```
 
 Um arquivo por tema cirúrgico. Documento completo — tudo sobre o tema, como um capítulo de referência. Agrega livros-texto + artigos numa narrativa densa. O Dr. Arthur não consome diretamente; o agente é o único consumidor.
+
+Arquivos prefixados `_` são **RAGs horizontais** (não ligados a um tema específico): referência compartilhada por vários temas da área — ex.: `_principios-reconstrucao.md` e `_atlas-retalhos.md` em `reconstrucao-facial/`.
 
 **Camada 2 — Cards atômicos** (derivados para o PWA):
 
@@ -70,6 +73,11 @@ content/cards/<area>/<tema>/
 ```
 
 Cards são gerados a partir dos documentos RAG. Consumidos pelo PWA.
+
+**Pipelines:**
+
+- `tools/rag_to_cards.js` — deriva cards atômicos a partir dos documentos RAG
+- `tools/build_rag_index.js` — gera `webapp/library/rag-index.json` (BM25) que alimenta o Chat IA
 
 ### Estrutura canônica dos documentos RAG
 
@@ -110,6 +118,8 @@ Lista viva em [`content/cards/manifest.json`](content/cards/manifest.json) (stat
 ## PWA Library (`webapp/library/`)
 
 O Dr. Arthur consome a biblioteca exclusivamente pelo iPhone.
+
+**Servir localmente:** `npm run dev` (porta 5173).
 
 **Tela inicial:** 2 ícones — Briefings Pré-Operatórias e Chat IA.
 
@@ -248,5 +258,7 @@ Se é planejamento (decidir o que/como fazer antes de executar), é plan mode + 
 │   └── library/                    # PWA principal (briefing pré-op + chat IA)
 ├── tools/                          # Scripts Python e Node.js
 ├── docs/superpowers/specs/         # Specs de design
+├── docs/superpowers/plans/         # Planos de execução (writing-plans)
+├── docs/evaluations/               # Avaliações de skills / pipelines
 └── CLAUDE.md                       # Este arquivo
 ```
