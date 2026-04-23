@@ -13,7 +13,7 @@ Umbrella plan listando os sub-planos de cada sub-fase. Execução é sequencial 
 | 7.2 | Anatomy image purge (8 temas) | (sem plano dedicado — PR atômico) | #26 | ✅ concluída |
 | 7.3 | RAGs horizontais (princípios + atlas) | [`2026-04-18-phase-7-3-kaufman-horizontais.md`](2026-04-18-phase-7-3-kaufman-horizontais.md) | #27 | ✅ concluída |
 | 7.4 | Onda 1 — Reconstrução de nariz | [`2026-04-18-phase-7-4-reconstrucao-nariz.md`](2026-04-18-phase-7-4-reconstrucao-nariz.md) | #28 | ✅ concluída |
-| 7.5 | Onda 1 — Reconstrução de lábio | (pendente) | — | ⏳ não iniciada |
+| 7.5 | Onda 1 — Reconstrução de lábio | [`2026-04-23-phase-7-5-reconstrucao-labio.md`](2026-04-23-phase-7-5-reconstrucao-labio.md) | — | 🔄 em execução |
 | 7.6 | Onda 2 — bochecha + pálpebra + orelha + fronte/têmpora | (pendente) | — | ⏳ não iniciada |
 | 7.7 | Onda 3 — couro cabeludo + queixo | (pendente) | — | ⏳ não iniciada |
 | 7.8 | Encerramento — remoção de `pele-tumores/` do manifest + arquivo RAG | (pendente) | — | ⏳ não iniciada |
