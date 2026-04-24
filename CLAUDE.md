@@ -240,6 +240,17 @@ Se é planejamento (decidir o que/como fazer antes de executar), é plan mode + 
 
 - `skill-creator:skill-creator` ou `superpowers:writing-skills` — **OBRIGATÓRIO** ao criar skill nova ou editar skill existente (do projeto ou global). Nunca improvisar a estrutura de uma skill.
 
+### 10. Disciplina de sub-fases
+
+- Ao concluir sub-fase via `superpowers:subagent-driven-development`: **PAUSAR** e aguardar autorização explícita do Dr. Arthur antes de iniciar a próxima sub-fase, salvo instrução de encadear.
+- Fechamento de sub-fase segue a ordem: rodar suíte de testes → reportar contagem pass/fail explícita (ex.: "rag-index: 734 chunks OK", "BM25 regression: 6/6 green") → rodar `/code-review-board` → endereçar bloqueadores apontados pelo board → mergear PR → limpar worktree/branch.
+- Ao encerrar fase inteira: atualizar memória persistente (`MEMORY.md` + arquivo `project_phaseX_done.md`) e `content/cards/manifest.json` antes de considerar a fase fechada.
+
+### 11. Verificação operacional
+
+- Antes de rodar qualquer script em `tools/` (`rag_to_cards.js`, `build_rag_index.js`, `audit_images.py`, harvesters de imagem, geradores de diagrama): **confirmar o worktree correto** com `git rev-parse --show-toplevel` + `git branch --show-current`. Fases 7.x usam worktrees isolados e rodar no diretório errado corrompe master.
+- Após sub-fase, reportar contagens concretas e verificáveis — nunca afirmar "funcionou" sem número (chunks indexados, cards migrados, imagens renderizadas, testes passados).
+
 ---
 
 ## Estrutura de Pastas
