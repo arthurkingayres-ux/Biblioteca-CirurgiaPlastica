@@ -1,0 +1,462 @@
+[
+  {
+    "id": "bochecha-anat-001",
+    "type": "anatomy",
+    "title": "Zonas Topográficas da Bochecha (Kaufman + Zide/Menick)",
+    "aliases": [
+      "subunidades bochecha",
+      "zonas 4A 4B 4C 4D",
+      "cheek zones",
+      "bochecha medial infraorbital preauricular zigomática inferior"
+    ],
+    "topic": "reconstrucao-de-bochecha",
+    "area": "reconstrucao-facial",
+    "one_liner": "A bochecha divide-se em seis zonas topográficas — medial/paranasal (4A), nasomelal, infraorbital (4A sup), preauricular (4B), zigomática/malar (4C) e inferior/mandibular (4D) — cuja localização comanda a escolha do retalho mais do que o tamanho puro.",
+    "structures": [
+      {
+        "label": "Zona medial / paranasal (4A)",
+        "description": "Ao redor do nariz; pele fina; margem livre dominante = pálpebra inferior; default: side-to-side (3.1) ou avanço medial (3.2)."
+      },
+      {
+        "label": "Zona nasomelal / sulco melolabial",
+        "description": "Concavidade nariz-bochecha-lábio; reserva inferior-lateral abundante; vetor obrigatório: superior e medial (Kaufman 3.4)."
+      },
+      {
+        "label": "Zona infraorbital (4A sup)",
+        "description": "Abaixo do rebordo orbitário inferior; altíssimo risco de ectrópio; cada mm de tração vertical desloca a pálpebra."
+      },
+      {
+        "label": "Zona preauricular (4B)",
+        "description": "Anterior ao tragus/lóbulo; pele pilosa em homens; incisões escondidas no sulco pretragal e contorno do lóbulo."
+      },
+      {
+        "label": "Zona zigomática / malar (4C)",
+        "description": "Sobre o arco zigomático; pele aderente ao periósteo; recrutamento vem de cima (temple) e posterior (preauricular)."
+      },
+      {
+        "label": "Zona inferior / mandibular / bucal (4D)",
+        "description": "Sobre a mandíbula; ramo marginal mandibular do VII em risco; default: rombóide, bilobado, submental island."
+      }
+    ],
+    "relations": [
+      "A zona comanda mais que o tamanho puro — um defeito de 2 cm no infraorbital difere categoricamente de um de 2 cm no preauricular",
+      "Vetor de tensão secundária tolerável é específico por zona: cefálico no nasomelal, horizontal no infraorbital, posterior no preauricular",
+      "ver _principios-reconstrucao.md § Unidades Estéticas da Face, unidade 4 (bochecha)"
+    ],
+    "clinical_hook": "Demarcar todas as zonas com paciente sentado em luz tangencial — sulcos e rítides guiam onde esconder as cicatrizes; confundir zonas leva ao retalho errado para a margem livre errada.",
+    "how_to_identify": "Fotografia frontal, ¾ e perfil; luz tangencial para sulcos; testes dinâmicos: sorriso (ângulo oral), olhar para cima (pálpebra inferior), franzir (pé de galinha).",
+    "citations": [
+      "Kaufman, 2018, cap. 3, secs. 3.1–3.8",
+      "Neligan, 2023, vol. 3, cap. 10, Fig. 10.1",
+      "ver _principios-reconstrucao.md § Unidades Estéticas da Face"
+    ],
+    "updates": [],
+    "tags": [
+      "anatomia",
+      "zonas-bochecha",
+      "subunidades",
+      "topografia",
+      "margem-livre"
+    ]
+  },
+  {
+    "id": "bochecha-anat-002",
+    "type": "anatomy",
+    "title": "Camadas do Envelope Tecidual da Bochecha",
+    "aliases": [
+      "SMAS bochecha",
+      "Sistema Musculoaponeurótico Superficial",
+      "plano subcutâneo sub-SMAS",
+      "envelope bochecha camadas"
+    ],
+    "topic": "reconstrucao-de-bochecha",
+    "area": "reconstrucao-facial",
+    "one_liner": "Cinco planos: pele espessa, subcutâneo com gordura malar, SMAS (Sistema Musculoaponeurótico Superficial) — lâmina fibroadiposa contínua com o platisma —, parótida + ramos do VII, e mucosa bucal nos defeitos full-thickness.",
+    "structures": [
+      {
+        "label": "Pele",
+        "description": "Espessa, sebácea em homens; rítides radiais à rima, sulco nasojugal e melolabial como sulcos dominantes."
+      },
+      {
+        "label": "Subcutâneo",
+        "description": "Espesso, gordura malar + pré-parotídea; plano de trabalho dos retalhos pequenos a médios (Kaufman 3.1–3.6)."
+      },
+      {
+        "label": "SMAS (Sistema Musculoaponeurótico Superficial)",
+        "description": "Lâmina fibroadiposa contínua com platisma caudalmente e gálea frontalmente; envolve músculos miméticos superficiais."
+      },
+      {
+        "label": "Parótida + fáscia parotidomassetérica",
+        "description": "Zona preauricular-malar posterior; ramos do VII cursam sobre o masseter profundamente ao SMAS; penetrar a fáscia = zona perigosa."
+      },
+      {
+        "label": "Mucosa bucal",
+        "description": "Relevante apenas em defeitos full-thickness (pele + bucinador + mucosa); exige forro interno dedicado."
+      }
+    ],
+    "numbers": [
+      {
+        "label": "Relação comprimento/largura (C/L) segura — randômico",
+        "value": "≤ 3:1",
+        "note": "Plexo subdérmico preservado; retalhos randômicos até 3:1 C/L são seguros na bochecha"
+      }
+    ],
+    "relations": [
+      "Sub-SMAS em cervicofaciais grandes: preserva plexo subdérmico do retalho, entrega mais pele com menos risco de necrose",
+      "Nunca penetrar fáscia parotidomassetérica sem reconhecimento explícito do território do VII",
+      "Ligamentos de retenção (zigomático e mandibular) ancoram pele profunda; liberação cirúrgica deles em cervicofaciais amplos converte retalho tenso em relaxado"
+    ],
+    "clinical_hook": "Plano = subcutâneo em retalhos pequenos-médios (Kaufman 3.1–3.6); sub-SMAS em cervicofaciais (Kaufman 3.7 + Neligan Fig. 10.17). Descolamento profundo lateral à borda anterior da parótida exige visualização dos ramos do VII.",
+    "citations": [
+      "Kaufman, 2018, cap. 3",
+      "Neligan, 2023, vol. 3, cap. 10, Figs. 10.1 e 10.13",
+      "ver _principios-reconstrucao.md § Vascularização Cutânea e Biologia do Retalho"
+    ],
+    "updates": [],
+    "tags": [
+      "anatomia",
+      "SMAS",
+      "camadas-bochecha",
+      "subcutaneo",
+      "parotida"
+    ]
+  },
+  {
+    "id": "bochecha-anat-003",
+    "type": "anatomy",
+    "title": "Vascularização da Bochecha — Três Sistemas Arteriais",
+    "aliases": [
+      "artéria facial bochecha",
+      "artéria transversa da face",
+      "artéria infraorbital",
+      "artéria submental",
+      "suprimento cutâneo bochecha"
+    ],
+    "topic": "reconstrucao-de-bochecha",
+    "area": "reconstrucao-facial",
+    "one_liner": "Três sistemas da carótida externa com anastomoses extensas no plexo subdérmico: facial (bochecha medial/nasomelal), transversa da face (bochecha lateral/zigomática/preauricular) e submental/infraorbital (bochecha inferior e medial superior).",
+    "structures": [
+      {
+        "label": "Artéria facial",
+        "description": "Cruza mandíbula no antegonial notch, sobe obliquamente, continua como angular até o canto medial; domina bochecha medial, nasomelal e labial."
+      },
+      {
+        "label": "Artéria transversa da face",
+        "description": "Ramo da temporal superficial; horizontal entre arco zigomático e ducto parotídeo; eixo axial do cervicofacial de base posterior (Juri & Juri, 1979)."
+      },
+      {
+        "label": "Artéria infraorbital",
+        "description": "Ramo terminal da maxilar interna, emerge do forame infraorbital (~1 cm abaixo do rebordo orbitário, na linha pupilar); perfunde bochecha medial superior e zona periorbital."
+      },
+      {
+        "label": "Artéria submental",
+        "description": "Ramo da facial logo abaixo da mandíbula; base axial do submental island flap (Martin et al., 1993)."
+      }
+    ],
+    "numbers": [
+      {
+        "label": "Cessação de tabagismo — cervicofacial",
+        "value": "≥ 4 sem pré + 4 sem pós",
+        "note": "Ideal 4+4; tabagismo aumenta necrose parcial 2–3× em cervicofaciais"
+      },
+      {
+        "label": "Cessação de tabagismo — retalhos médios",
+        "value": "2 sem pré + 2 sem pós",
+        "note": "Mínimo aceitável para Kaufman 3.1–3.6"
+      }
+    ],
+    "relations": [
+      "Retalhos pequenos (Kaufman 3.1–3.5) — randômicos, plexo subdérmico preservado; C/L ≤ 3:1",
+      "Cervicofacial — eixo axial efetivo na transversa da face + auricular posterior; sub-SMAS após borda posterior da parótida",
+      "Doppler útil em reoperações, irradiados e cervicofaciais extensos para mapear transversa da face + auricular posterior"
+    ],
+    "clinical_hook": "A redundância vascular torna retalhos randômicos seguros na bochecha — mas fumantes e irradiados quebram essa regra. Cessação obrigatória antes de qualquer retalho de médio a grande porte.",
+    "citations": [
+      "Neligan, 2023, vol. 3, cap. 10, Figs. 10.1 e 10.17–10.18",
+      "Kaufman, 2018, cap. 3",
+      "Juri J, Juri C. Plast Reconstr Surg. 1979;64(5):692–696",
+      "Martin D et al. Plast Reconstr Surg. 1993;92(5):867–873"
+    ],
+    "updates": [],
+    "tags": [
+      "anatomia",
+      "vascularizacao",
+      "arteria-facial",
+      "transversa-da-face",
+      "submental"
+    ]
+  },
+  {
+    "id": "bochecha-anat-004",
+    "type": "anatomy",
+    "title": "Inervação Sensitiva da Bochecha (V2 e V3)",
+    "aliases": [
+      "nervo infraorbital V2",
+      "nervo zigomáticofacial",
+      "nervo bucal V3",
+      "nervo auriculotemporal",
+      "nervo mentoniano"
+    ],
+    "topic": "reconstrucao-de-bochecha",
+    "area": "reconstrucao-facial",
+    "one_liner": "V2 (maxilar) via infraorbital inerva bochecha medial e infraorbital; V2 via zigomáticofacial inerva zona malar; V3 (mandibular) via bucal e auriculotemporal inerva bochecha lateral e preauricular; V3 via mentoniano inerva bochecha inferior.",
+    "structures": [
+      {
+        "label": "N. infraorbital (V2)",
+        "description": "Forame infraorbital ~1 cm abaixo do rebordo orbital inferior na linha pupilar; sensitivo para bochecha medial/infraorbital, pálpebra inferior, asa nasal, lábio superior."
+      },
+      {
+        "label": "Nn. zigomáticofacial e zigomáticotemporal (V2)",
+        "description": "Pequenos ramos emergindo do corpo do zigoma e parede lateral orbitária; inervam zona malar/zigomática e região temporal anterior."
+      },
+      {
+        "label": "N. bucal (V3)",
+        "description": "Pele da bochecha sobre o bucinador e mucosa bucal; bochecha lateral e preauricular inferior."
+      },
+      {
+        "label": "N. auriculotemporal (V3)",
+        "description": "Pele preauricular, temple anterior e couro cabeludo temporal; corre com a temporal superficial."
+      },
+      {
+        "label": "N. mentoniano (V3)",
+        "description": "Forame mentoniano entre 1º e 2º pré-molares; bochecha inferior descendo ao mento e lábio inferior."
+      }
+    ],
+    "relations": [
+      "Bloqueio infraorbital é o alvo de eleição para anestesia regional de bochecha medial e nasomelal",
+      "Bloqueio auriculotemporal cobre zona preauricular (Kaufman 3.6)",
+      "Déficit sensitivo local transitório é esperado em retalhos regionais — recuperação em semanas a meses"
+    ],
+    "clinical_hook": "Bloqueio infraorbital bilateral reduz infiltração local, preserva repères anatômicos e diminui dose total de anestésico — usar rotineiramente em retalhos de bochecha medial/infraorbital.",
+    "how_to_identify": "Teste com algodão em cada território antes de qualquer bloqueio para documentar sensibilidade basal. Forame infraorbital na linha pupilar, 1 cm abaixo do rebordo orbitário — palpar a chanfradura levemente.",
+    "citations": [
+      "Neligan, 2023, vol. 3, cap. 10, Fig. 10.13",
+      "Kaufman, 2018, cap. 3"
+    ],
+    "updates": [],
+    "tags": [
+      "anatomia",
+      "inervacao-sensitiva",
+      "infraorbital",
+      "V2",
+      "V3"
+    ]
+  },
+  {
+    "id": "bochecha-anat-005",
+    "type": "anatomy",
+    "title": "Inervação Motora da Bochecha — Ramos do VII (Nervo Facial)",
+    "aliases": [
+      "ramo zigomático VII",
+      "ramo bucal VII",
+      "ramo marginal mandibular VII",
+      "nervo facial bochecha",
+      "zonas perigosas VII"
+    ],
+    "topic": "reconstrucao-de-bochecha",
+    "area": "reconstrucao-facial",
+    "one_liner": "Três ramos do VII cruzam a bochecha superficialmente ao masseter: zigomático (orbicular do olho + levantadores), bucal (zigomático maior, risório, bucinador, orbicular dos lábios) e marginal mandibular (depressores do lábio inferior — único e mais vulnerável).",
+    "structures": [
+      {
+        "label": "Ramo zigomático do VII",
+        "description": "Motor para orbicular do olho e levantadores do lábio superior; emerge da borda anterior da parótida, corre sobre o masseter profundamente ao SMAS."
+      },
+      {
+        "label": "Ramo bucal do VII",
+        "description": "Motor para zigomático maior/menor, risório, bucinador e orbicular dos lábios; sacrifício unilateral causa queda do sorriso e incompetência oral parcial."
+      },
+      {
+        "label": "Ramo marginal mandibular do VII",
+        "description": "Motor para depressores do ângulo da boca, lábio inferior e mentoniano; único, mais vulnerável; cursa ~1 cm abaixo da mandíbula em ~20% dos casos antes de ascender."
+      }
+    ],
+    "numbers": [
+      {
+        "label": "Ramo temporal do VII sobre o arco zigomático",
+        "value": "~0,5 cm abaixo do trago",
+        "note": "Cruzando o arco; incisão em rotação zigomática/Mustardé deve ser paralela ao folículo e superficial nesse terço superior"
+      },
+      {
+        "label": "Marginal mandibular — posição cervical",
+        "value": "~1 cm abaixo da mandíbula em ~20% dos casos",
+        "note": "Curva cervical antes de ascender; incisões cervicais devem ficar ≥ 2 cm abaixo da mandíbula"
+      }
+    ],
+    "relations": [
+      "Descolamento subcutâneo anterior à borda anterior da parótida é seguro; descolamento sub-SMAS profundo nessa região requer visualização direta dos ramos",
+      "Paresia do marginal mandibular = assimetria permanente do lábio inferior ao sorriso — estigma visível",
+      "Neuropraxia tipicamente recupera em 3–6 meses; secção exige neurorrafia precoce ou enxerto de nervo"
+    ],
+    "clinical_hook": "Incisões cervicais de cervicofacial devem ficar ≥ 2 cm abaixo da mandíbula + plano sub-platismal para evitar o marginal mandibular. Em zona sobre o arco zigomático, manter plano superficial para não lesionar o ramo temporal.",
+    "citations": [
+      "Neligan, 2023, vol. 3, cap. 10, Fig. 10.13",
+      "Kaufman, 2018, cap. 3"
+    ],
+    "updates": [],
+    "tags": [
+      "anatomia",
+      "inervacao-motora",
+      "nervo-facial",
+      "marginal-mandibular",
+      "VII"
+    ]
+  },
+  {
+    "id": "bochecha-anat-006",
+    "type": "anatomy",
+    "title": "Margens Livres Vizinhas da Bochecha",
+    "aliases": [
+      "ectrópio pálpebra inferior",
+      "free margins bochecha",
+      "comissura oral bochecha",
+      "asa nasal bochecha",
+      "sulco nasojugal"
+    ],
+    "topic": "reconstrucao-de-bochecha",
+    "area": "reconstrucao-facial",
+    "one_liner": "Quatro margens livres vizinhas comandam o desenho de todo retalho de bochecha: pálpebra inferior (ectrópio), ângulo oral/comissura (eclabium/desvio), asa nasal (elevação/achatamento) e sulco nasojugal (apagamento).",
+    "structures": [
+      {
+        "label": "Pálpebra inferior",
+        "description": "Margem livre crítica; qualquer vetor descendente produz ectrópio (eversão da margem palpebral) com exposição escleral e epífora."
+      },
+      {
+        "label": "Ângulo oral / comissura",
+        "description": "Ancorada no módiolo; tração medial/inferior desloca o ângulo oral, gerando sorriso assimétrico e eclabium (eversão labial)."
+      },
+      {
+        "label": "Asa nasal",
+        "description": "Tração lateral eleva a asa, abre a narina e achata o sulco alar; incisão medial deve parar no sulco alar, não atravessá-lo."
+      },
+      {
+        "label": "Sulco nasojugal",
+        "description": "Depressão entre pálpebra inferior e bochecha; retalho mal desenhado apaga o sulco produzindo palpebromalar bulge."
+      }
+    ],
+    "relations": [
+      "\"Free-margin deviation in other adjacent cosmetic units (e.g., eyelid, oral commissure) should be avoided at all costs\" (Kaufman, 2018, cap. 3, p. 39)",
+      "Proximidade < 1 cm a margem livre exige planejamento específico: ancoragem, vetor não-tracional, back-cut compensatório",
+      "ver _principios-reconstrucao.md § Margens Livres"
+    ],
+    "clinical_hook": "Antes de qualquer incisão de bochecha, identificar explicitamente qual margem livre está em risco, a que distância do defeito ela está e qual vetor de fechamento proposto. Se o vetor aponta para a margem livre, redesenhar o retalho.",
+    "how_to_identify": "Simulação do vetor com pinça antes de incidir — observar pálpebra inferior, ângulo oral e asa nasal ao tracionar digitalmente o tecido adjacente ao defeito.",
+    "citations": [
+      "Kaufman, 2018, cap. 3, p. 39 e secs. 3.1–3.5",
+      "Neligan, 2023, vol. 3, cap. 10",
+      "ver _principios-reconstrucao.md § Margens Livres"
+    ],
+    "updates": [],
+    "tags": [
+      "anatomia",
+      "margens-livres",
+      "ectropio",
+      "comissura",
+      "asa-nasal"
+    ]
+  },
+  {
+    "id": "bochecha-anat-007",
+    "type": "anatomy",
+    "title": "Ligamentos de Retenção e Suporte Profundo da Bochecha",
+    "aliases": [
+      "ligamento zigomático",
+      "ligamento mandibular",
+      "McGregor patch",
+      "orbital retaining ligament",
+      "ligamentos de retenção faciais"
+    ],
+    "topic": "reconstrucao-de-bochecha",
+    "area": "reconstrucao-facial",
+    "one_liner": "Os ligamentos zigomático (McGregor's patch), mandibular e orbital retaining ancoram a pele ao esqueleto profundo; em cervicofaciais amplos, sua liberação cirúrgica converte um retalho tenso em relaxado — mas requer dissecção cuidadosa no território dos ramos do VII.",
+    "structures": [
+      {
+        "label": "Ligamento zigomático (McGregor's patch)",
+        "description": "Ancora pele ao corpo do zigoma; liberação libera movimento do retalho malar em cervicofaciais e Mustardé."
+      },
+      {
+        "label": "Ligamento mandibular",
+        "description": "Ancora pele à borda inferior da mandíbula; liberação adiciona mobilidade ao retalho cervicofacial inferior."
+      },
+      {
+        "label": "Orbital retaining ligament",
+        "description": "Ancora pele ao rebordo orbitário inferior; liberação necessária em retalhos infraorbitais grandes, mas cuidado com o orbicular do olho."
+      }
+    ],
+    "relations": [
+      "Liberação dos ligamentos de retenção em cervicofaciais amplos é o mecanismo que converte retalho tenso em relaxado",
+      "A liberação atravessa território de ramos do VII — dissecção cuidadosa sob visão direta ou conhecimento explícito da arquitetura profunda",
+      "Conceito importado da cirurgia estética (facelift) para a reconstrutora — mesmos ligamentos, mesmo plano"
+    ],
+    "clinical_hook": "Em cervicofacial com tensão residual no ápice anterior, verificar se ligamento zigomático foi liberado. A liberação incremental desse ligamento frequentemente resolve a tensão sem ampliar a incisão.",
+    "citations": [
+      "Neligan, 2023, vol. 3, cap. 10, Cheeks",
+      "Kaufman, 2018, cap. 3"
+    ],
+    "updates": [],
+    "tags": [
+      "anatomia",
+      "ligamentos-retencao",
+      "zigomático",
+      "mandibular",
+      "cervicofacial"
+    ]
+  },
+  {
+    "id": "bochecha-anat-008",
+    "type": "anatomy",
+    "title": "RSTL da Bochecha e Sulcos de Referência",
+    "aliases": [
+      "RSTL bochecha",
+      "Relaxed Skin Tension Lines bochecha",
+      "sulco nasojugal",
+      "sulco melolabial",
+      "sulco pretragal",
+      "pé de galinha"
+    ],
+    "topic": "reconstrucao-de-bochecha",
+    "area": "reconstrucao-facial",
+    "one_liner": "RSTL (Relaxed Skin Tension Lines — linhas de tensão relaxada da pele) dominante da bochecha é oblíqua inferolateral-superomedial; complementada por pé de galinha (infraorbital), radial à comissura (bucal) e horizontal subpalpebral; sulcos nasojugal, melolabial e pretragal escondem cicatrizes.",
+    "structures": [
+      {
+        "label": "RSTL oblíqua inferolateral-superomedial",
+        "description": "RSTL dominante da bochecha medial e infraorbital em adultos; direção do facelift; elipse de side-to-side alinhada aqui."
+      },
+      {
+        "label": "Rítides periorbitárias laterais (pé de galinha)",
+        "description": "RSTL da zona infraorbital lateral; tricone de retalhos de avanço infraorbital excisado aqui (Kaufman 3.5)."
+      },
+      {
+        "label": "Sulco nasojugal",
+        "description": "Junção pálpebra inferior-bochecha; cicatrizes ao longo do sulco, não atravessando-o."
+      },
+      {
+        "label": "Sulco melolabial",
+        "description": "Junção bochecha-lábio superior; tricones de avanço medial excisados aqui; retalho que cruza o sulco distorce a subunidade labial."
+      },
+      {
+        "label": "Sulco pretragal",
+        "description": "Junção orelha-face; esconde incisão principal dos retalhos preauriculares (Kaufman 3.6)."
+      }
+    ],
+    "relations": [
+      "Cicatriz em RSTL = camuflagem; cicatriz perpendicular à RSTL = estigma permanente",
+      "Tricones que cruzam bordas de subunidade são preferíveis a dog-ears permanentes (Kaufman, 2018, cap. 3, sec. 3.1 key points)",
+      "ver _principios-reconstrucao.md § RSTL para princípios gerais de orientação de elipses"
+    ],
+    "clinical_hook": "Demarcação da RSTL dominante com paciente sentado antes da infiltração é obrigatória — a epinefrina borrará sulcos sutis. Elipse e retalho orientados de acordo; tricone no sulco mais próximo.",
+    "how_to_identify": "Paciente sentado, pedindo-lhe para sorrir levemente — rítides melolabial e periorbital aparecem. Pele entre polegar e indicador ao longo de RSTL forma dobra fina; perpendicular à RSTL forma rolo espesso.",
+    "citations": [
+      "Kaufman, 2018, cap. 3, secs. 3.1–3.2",
+      "Neligan, 2023, vol. 3, cap. 10",
+      "ver _principios-reconstrucao.md § RSTL"
+    ],
+    "updates": [],
+    "tags": [
+      "anatomia",
+      "RSTL",
+      "sulco-melolabial",
+      "sulco-nasojugal",
+      "sulco-pretragal"
+    ]
+  }
+]

@@ -13,13 +13,16 @@ Umbrella plan listando os sub-planos de cada sub-fase. Execução é sequencial 
 | 7.2 | Anatomy image purge (8 temas) | (sem plano dedicado — PR atômico) | #26 | ✅ concluída |
 | 7.3 | RAGs horizontais (princípios + atlas) | [`2026-04-18-phase-7-3-kaufman-horizontais.md`](2026-04-18-phase-7-3-kaufman-horizontais.md) | #27 | ✅ concluída |
 | 7.4 | Onda 1 — Reconstrução de nariz | [`2026-04-18-phase-7-4-reconstrucao-nariz.md`](2026-04-18-phase-7-4-reconstrucao-nariz.md) | #28 | ✅ concluída |
-| 7.5 | Onda 1 — Reconstrução de lábio | [`2026-04-23-phase-7-5-reconstrucao-labio.md`](2026-04-23-phase-7-5-reconstrucao-labio.md) | — | 🔄 em execução |
-| 7.6 | Onda 2 — bochecha + pálpebra + orelha + fronte/têmpora | (pendente) | — | ⏳ não iniciada |
+| 7.5 | Onda 1 — Reconstrução de lábio | [`2026-04-23-phase-7-5-reconstrucao-labio.md`](2026-04-23-phase-7-5-reconstrucao-labio.md) | local merge `6af38ad` | ✅ concluída |
+| 7.6a | Onda 2 — Reconstrução de bochecha | [`2026-04-23-phase-7-6a-reconstrucao-bochecha.md`](2026-04-23-phase-7-6a-reconstrucao-bochecha.md) | — | 🔄 em execução |
+| 7.6b | Onda 2 — Reconstrução de pálpebra | (pendente) | — | ⏳ não iniciada |
+| 7.6c | Onda 2 — Reconstrução de orelha | (pendente) | — | ⏳ não iniciada |
+| 7.6d | Onda 2 — Reconstrução de fronte/têmpora | (pendente) | — | ⏳ não iniciada |
 | 7.7 | Onda 3 — couro cabeludo + queixo | (pendente) | — | ⏳ não iniciada |
 | 7.8 | Encerramento — remoção de `pele-tumores/` do manifest + arquivo RAG | (pendente) | — | ⏳ não iniciada |
 
 ## Notas
 
-- Numeração do plano difere da spec: a spec original previa 7.3 = onda 1 (nariz + lábio em paralelo), mas a execução dividiu em 7.4 (nariz) e (a seguir) 7.5 (lábio). Este roadmap reflete o cronograma real.
+- Numeração do plano difere da spec: a spec original previa 7.3 = onda 1 bundled (nariz + lábio paralelo) e 7.4 = onda 2 bundled (bochecha + pálpebra + orelha + fronte/têmpora). Execução dividiu em sub-fases sequenciais — uma sub-unidade por fase — decisão ratificada pelo Dr. Arthur em 2026-04-23 (Onda 1: 7.4→7.5; Onda 2: 7.6a→7.6d). Este roadmap reflete o cronograma real.
 - RAGs horizontais (`_principios-reconstrucao.md`, `_atlas-retalhos.md`) são compartilhados por todas as sub-unidades — não duplicar conteúdo neles quando adicionar nova onda.
 - Ordem recomendada para novas ondas: seguir a tabela de "frequência clínica" da spec §4 (nariz → lábio → bochecha → pálpebra → orelha → fronte/têmpora → couro cabeludo → queixo).

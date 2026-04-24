@@ -1,0 +1,26 @@
+{
+  "topic": "reconstrucao-de-bochecha",
+  "area": "reconstrucao-facial",
+  "displayName": "Reconstrução de Bochecha",
+  "version": "v1.0",
+  "date": "2026-04-23",
+  "status": "complete",
+  "references": [
+    "Kaufman AJ. Practical Facial Reconstruction: Theory and Practice. Springer, 2018. Cap. 3: Cheek Reconstruction (pp. 39–64)",
+    "Neligan PC (Ed.). Plastic Surgery, 5ª Ed. Elsevier, 2023. Vol. 3, Cap. 10: Local flaps for facial coverage (Nicholas Do & John Brian Boyd, pp. 229–255)",
+    "content/rag/reconstrucao-facial/_principios-reconstrucao.md — doutrina horizontal: framework 3 perguntas, RSTL, margens livres, biologia de retalho, unidades estéticas",
+    "content/rag/reconstrucao-facial/_atlas-retalhos.md — geometria genérica de retalhos locais e interpolados"
+  ],
+  "articles": [
+    "Juri J, Juri C. Advancement and rotation of a large cervicofacial flap for cheek repairs. Plast Reconstr Surg. 1979;64(5):692–696",
+    "Martin D et al. The submental island flap: a new donor site. Plast Reconstr Surg. 1993;92(5):867–873",
+    "Mustardé JC. Repair and Reconstruction in the Orbital Region. 2ª Ed. Edinburgh: Churchill Livingstone; 1980"
+  ],
+  "cardCounts": {
+    "anatomia": 8,
+    "tecnicas": 11,
+    "decisoes": 4,
+    "notas": 5,
+    "flashcards": 18
+  }
+}

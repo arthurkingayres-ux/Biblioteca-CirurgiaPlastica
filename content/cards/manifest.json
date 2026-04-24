@@ -85,6 +85,12 @@
   },
   {
     "area": "reconstrucao-facial",
+    "topic": "reconstrucao-de-bochecha",
+    "displayName": "Reconstrução de Bochecha",
+    "status": "complete"
+  },
+  {
+    "area": "reconstrucao-facial",
     "topic": "reconstrucao-de-labio",
     "displayName": "Reconstrução de Lábio",
     "status": "complete"

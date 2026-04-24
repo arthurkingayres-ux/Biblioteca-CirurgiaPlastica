@@ -1,0 +1,133 @@
+[
+  {
+    "id": "bochecha-nota-001",
+    "type": "note",
+    "title": "Regra da Subciliar — Incisão na Junção Pálpebra-Bochecha",
+    "topic": "reconstrucao-de-bochecha",
+    "area": "reconstrucao-facial",
+    "section": "principios",
+    "content": [
+      "A incisão superior em retalhos de bochecha medial e infraorbital deve seguir a junção pálpebra inferior-bochecha, não a linha subciliar verdadeira. A distinção é milimétrica, mas funcionalmente crítica: a linha subciliar é ~2–3 mm abaixo da borda palpebral livre (usada em blefaroplastia); a junção pálpebra-bochecha é a transição anatômica entre pele palpebral fina e pele de bochecha espessa, localizada ~1–2 mm abaixo da margem tarsal inferior.",
+      "Colocar a incisão sobre a pele palpebral fina cria mismatch de espessura visível e uma cicatriz que fica na zona de pele mais tênue — propensa a alargamento e hipertrofia. Colocar logo abaixo da junção mantém a cicatriz na junção de subunidades (palpebral-bochecha), onde a transição natural de textura camufla qualquer irregularidade.",
+      "Kaufman descreve essa incisão como seguindo 'o sulco próprio, ~1–2 mm abaixo da margem cartilaginosa tarsal inferior' — distinto do subciliar e do transconjuntival. A distinção importa para o cirurgião de bochecha que não é blefaroplasticista habitual: não confundir com a incisão de blefaroplastia inferior (que busca o excesso de pele palpebral) (Kaufman, 2018, cap. 3, secs. 3.2 e 3.5)."
+    ],
+    "citations": [
+      "Kaufman, 2018, cap. 3, secs. 3.2 e 3.5"
+    ],
+    "updates": [],
+    "tags": [
+      "principio",
+      "subciliar",
+      "juncao-palpebra-bochecha",
+      "incisao",
+      "ectropio"
+    ]
+  },
+  {
+    "id": "bochecha-nota-002",
+    "type": "note",
+    "title": "Ancoragem Periosteal ao Zigoma — Prevenção do Ectrópio",
+    "topic": "reconstrucao-de-bochecha",
+    "area": "reconstrucao-facial",
+    "section": "principios",
+    "content": [
+      "A ancoragem periosteal ao rebordo orbital inferior ou ao corpo do zigoma é o mecanismo técnico mais poderoso para prevenir ectrópio em retalhos de bochecha medial, infraorbital e zigomática. O princípio foi sistematizado por Mustardé para reconstrução palpebral e importado para a reconstrução de bochecha — o mesmo ponto de Vicryl 3-0 ou Nylon 3-0 que passa na derme profunda do retalho e no periósteo orbital inferior é o que transforma um retalho tenso em um retalho suspenso.",
+      "Mecanismo: o retalho de bochecha, especialmente em idosos, tem tendência gravitacional descendente. Sem ancoragem, o peso do retalho + fibrose cicatricial criam vetor descendente sobre a pálpebra inferior — tração que em 2–3 semanas produz ectrópio dinâmico e, em 3 meses, ectrópio cicatricial fixo. A ancoragem periosteal absorve esse vetor gravitacional, transferindo-o ao esqueleto facial.",
+      "Quando usar: qualquer retalho de bochecha medial ou infraorbital ≥ 2 cm; rotação zigomática (Kaufman 3.7) — sempre; cervicofacial (Neligan Fig. 10.17) — sempre; retalho de avanço medial (Kaufman 3.2) quando defeito ≥ 1,5 cm ou ectrópio senil preexistente. 'When in doubt, anchor' — o custo da ancoragem (2–3 pontos extras) é ínfimo comparado ao custo do ectrópio cicatricial fixo (FTSG + cantopexia) (Kaufman, 2018, cap. 3, sec. 3.5; Neligan, 2023, vol. 3, cap. 10).",
+      "Técnica: ponto em colchoeiro horizontal ou em U — entra na derme profunda do retalho ~3–5 mm acima da borda, atravessa ou abraça o periósteo do rebordo orbital inferior/corpo do zigoma, retorna à derme. Nó enterrado. Tensão suficiente para elevar ligeiramente o retalho — sobrecorreção de 1–2 mm é esperada e desejável. Vicryl 3-0 (absorvível, dura 6–8 semanas) ou Nylon 3-0 (permanente)."
+    ],
+    "citations": [
+      "Kaufman, 2018, cap. 3, secs. 3.5 e 3.7",
+      "Neligan, 2023, vol. 3, cap. 10, Cheeks"
+    ],
+    "updates": [],
+    "tags": [
+      "principio",
+      "ancoragem-periosteal",
+      "zigoma",
+      "ectropio",
+      "Mustardé"
+    ]
+  },
+  {
+    "id": "bochecha-nota-003",
+    "type": "note",
+    "title": "Avaliação Pré-Operatória do Defeito de Bochecha — Checklist de Seis Perguntas",
+    "topic": "reconstrucao-de-bochecha",
+    "area": "reconstrucao-facial",
+    "section": "avaliacao-preoperatoria",
+    "content": [
+      "O planejamento começa no defeito, não na técnica. Seis perguntas estruturam o raciocínio antes de qualquer decisão técnica (adaptação do framework de Kaufman à bochecha; ver _principios-reconstrucao.md § Framework das três perguntas):",
+      "1. Qual zona? Medial / nasomelal / infraorbital / preauricular / zigomática-malar / inferior-mandibular. A zona comanda mais que o tamanho puro — determina qual margem livre está em risco e qual direção de vetor é segura (Kaufman, 2018, cap. 3).",
+      "2. Quais camadas estão faltando? Superficial (pele + subcutâneo) / parcial (pele + SMAS) / full-thickness (pele + bucinador + mucosa). Cada camada ausente exige reposição com seu próprio tecido.",
+      "3. Qual o tamanho absoluto? < 2 cm / 2–4 cm / 4–6 cm / > 6 cm. Eixo orientador dos algoritmos.",
+      "4. Qual a margem livre vizinha mais próxima e a que distância? Pálpebra inferior (< 1 cm = planejamento específico obrigatório), comissura, asa nasal, hélice.",
+      "5. Qual a orientação do defeito em relação à RSTL local? RSTL oblíqua inferolateral-superomedial é a dominante; pé de galinha em infraorbital; radial à comissura na bucal.",
+      "6. Qual a quantidade de pele frouxa adjacente e em que direção? Pinch test; em idosos, abundância é regra; em jovens, cada milímetro é disputado."
+    ],
+    "citations": [
+      "Kaufman, 2018, cap. 3, intro e secs. 3.1–3.8",
+      "ver _principios-reconstrucao.md § Framework das três perguntas"
+    ],
+    "updates": [],
+    "tags": [
+      "avaliacao",
+      "checklist",
+      "preoperatorio",
+      "framework-kaufman",
+      "defeito-bochecha"
+    ]
+  },
+  {
+    "id": "bochecha-nota-004",
+    "type": "note",
+    "title": "Pincushioning / Trapdoor — Prevenção e Manejo na Bochecha",
+    "topic": "reconstrucao-de-bochecha",
+    "area": "reconstrucao-facial",
+    "section": "complicacoes",
+    "content": [
+      "Pincushioning (trapdoor) é a elevação em 'almofada' de retalhos circulares ou em ilha, produzida pela contração concêntrica da cicatriz periférica que empurra o retalho superficialmente. Na bochecha é frequente em: (a) retalhos circulares pós-Mohs em pele espessa; (b) ilhas de avanço em zona infraorbital e nasomelal com bordas bem demarcadas.",
+      "Exceção importante documentada por Kaufman (cap. 3, sec. 3.4): no sulco nasomelal especificamente, o trapdoor leve pode mimetizar a convexidade natural do sulco e, nesse caso, ser esteticamente aceitável ou até desejável. Kaufman escreve explicitamente: 'any bulging of the flap mimics the natural convexity of the nasomelal fold'. Em zonas planas ou côncavas, o mesmo trapdoor é complicação (Kaufman, 2018, cap. 3, sec. 3.4).",
+      "Prevenção intraoperatória: descolamento amplo periférico ao retalho (quebra a fibrose circunferencial); bordas retas quando possível (evitar formatos muito circulares); taper gradual das ilhas (reduz efeito de almofada); sutura em camadas que distribui tensão.",
+      "Manejo pós-operatório: massagem diária a partir da 3ª semana (rompe fibrose superficial progressivamente); triancinolona 10 mg/mL intralesional cada 4 semanas × 2–3 sessões se persistir (atrofia fibrose sem apagar retalho); dermoabrasão ou laser fracionado após 6–12 meses para nivelar textura residual."
+    ],
+    "citations": [
+      "Kaufman, 2018, cap. 3, sec. 3.4",
+      "Neligan, 2023, vol. 3, cap. 10"
+    ],
+    "updates": [],
+    "tags": [
+      "complicacoes",
+      "pincushioning",
+      "trapdoor",
+      "nasomelal",
+      "massagem"
+    ]
+  },
+  {
+    "id": "bochecha-nota-005",
+    "type": "note",
+    "title": "Plano Sub-SMAS em Fumantes e Reoperados — Quando e Por Que",
+    "topic": "reconstrucao-de-bochecha",
+    "area": "reconstrucao-facial",
+    "section": "principios",
+    "content": [
+      "O plano padrão para retalhos de bochecha pequenos a médios (Kaufman 3.1–3.6) é o subcutâneo, preservando o plexo subdérmico. Em cervicofaciais grandes e em casos especiais (fumantes, irradiados, reoperados), o plano sub-SMAS (Sistema Musculoaponeurótico Superficial) oferece duas vantagens: (1) inclui mais massa tecidual no retalho, melhorando a perfusão distal; (2) em fumantes, o plexo subdérmico está comprometido por vasoconstricção crônica — o sub-SMAS entrega plexo muscular profundo ainda perfundido.",
+      "Neligan descreve explicitamente em relação ao cervicofacial: 'extensive undermining may be safely employed' em plano sub-SMAS, preservando o plexo subdérmico do retalho. O plano sub-SMAS é particularmente importante após a borda anterior da parótida, onde a fáscia parotidomassetérica mergulha para o masseter — ficar acima dela (sub-SMAS, mas superficial à fáscia parotidomassetérica) é o 'corredor seguro' dos ramos do VII (Neligan, 2023, vol. 3, cap. 10).",
+      "Regra prática de escolha de plano: (a) retalhos menores Kaufman 3.1–3.5 = subcutâneo sempre; (b) Kaufman 3.7 (rotação zigomática) = subcutâneo profundo, podendo transicionar a sub-SMAS sob o zigoma; (c) cervicofacial (Neligan Fig. 10.17) = subcutâneo anteriormente + sub-SMAS posteriormente/lateralmente após borda anterior da parótida; (d) fumante com cervicofacial = sub-SMAS como regra, não exceção.",
+      "Advertência: sub-SMAS na zona de emergência dos ramos do VII (sobre o masseter e anterior à parótida) requer visualização ou conhecimento arquitetural explícito. Penetrar a fáscia parotidomassetérica é a manobra que cruza o território dos ramos (Kaufman, 2018, cap. 3; Neligan, 2023, vol. 3, cap. 10, Fig. 10.13)."
+    ],
+    "citations": [
+      "Neligan, 2023, vol. 3, cap. 10, Cheeks",
+      "Kaufman, 2018, cap. 3"
+    ],
+    "updates": [],
+    "tags": [
+      "principio",
+      "sub-SMAS",
+      "fumantes",
+      "plano-disseccao",
+      "cervicofacial"
+    ]
+  }
+]
