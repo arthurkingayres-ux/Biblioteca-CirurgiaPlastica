@@ -1,0 +1,123 @@
+{
+  "id": "bochecha-fc-001",
+  "type": "flashcard",
+  "topic": "reconstrucao-de-bochecha",
+  "area": "reconstrucao-facial",
+  "cards": [
+    {
+      "front": "Qual é o default operatório para defeitos de bochecha com laxidez adjacente?",
+      "back": "Cunha side-to-side em RSTL (Relaxed Skin Tension Lines — linhas de tensão relaxada da pele). Kaufman: 'the cheek provides a wealth of adjacent loose tissue from which to borrow; grafts and second intention healing are not usually good options in this location'.",
+      "citation": "Kaufman, 2018, cap. 3, p. 39",
+      "domain": "decisao"
+    },
+    {
+      "front": "As três margens livres vizinhas que mais ameaçam a reconstrução de bochecha são:",
+      "back": "Pálpebra inferior (ectrópio), ângulo oral/comissura (eclabium/desvio) e asa nasal (elevação/achatamento do sulco alar). 'Free-margin deviation should be avoided at all costs' (Kaufman, 2018, cap. 3, p. 39).",
+      "citation": "Kaufman, 2018, cap. 3, p. 39",
+      "domain": "anatomia"
+    },
+    {
+      "front": "Quais são as seis zonas topográficas da bochecha segundo Kaufman?",
+      "back": "Medial/paranasal (4A), nasomelal/sulco melolabial, infraorbital (4A sup), preauricular (4B), zigomática/malar (4C) e inferior/mandibular/bucal (4D). A zona comanda a escolha do retalho mais que o tamanho puro.",
+      "citation": "Kaufman, 2018, cap. 3, secs. 3.1–3.8; Neligan, 2023, vol. 3, cap. 10, Fig. 10.1",
+      "domain": "anatomia"
+    },
+    {
+      "front": "Qual é o eixo axial efetivo do retalho cervicofacial de base posterior?",
+      "back": "Artéria transversa da face (ramo da temporal superficial) + artéria auricular posterior. Correndo entre o arco zigomático e o ducto parotídeo, a transversa da face perfunde a bochecha lateral/zigomática/preauricular e sustenta o retalho cervicofacial (Juri & Juri, 1979).",
+      "citation": "Neligan, 2023, vol. 3, cap. 10; Juri J, Juri C. Plast Reconstr Surg. 1979;64(5):692–696",
+      "domain": "anatomia"
+    },
+    {
+      "front": "A artéria facial cruza a borda inferior da mandíbula em que ponto anatômico?",
+      "back": "Antegonial notch — anterior ao masseter. Sobe obliquamente para o ângulo oral e continua como artéria angular até o canto medial, anastomosando com ramos terminais da oftálmica.",
+      "citation": "Neligan, 2023, vol. 3, cap. 10, Fig. 10.1",
+      "domain": "anatomia"
+    },
+    {
+      "front": "Por que o vetor de fechamento no sulco nasomelal deve ser superior e medial, nunca inferior?",
+      "back": "Vetor inferior-medial puxa o canto medial e, por continuidade, a pálpebra inferior → ectrópio. Kaufman: 'advance the flap superiorly and medially so that secondary tension vectors do not pull downward from the medial canthus' (sec. 3.4).",
+      "citation": "Kaufman, 2018, cap. 3, sec. 3.4",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Em que rítide é excisado o tricone do retalho de avanço infraorbital (Kaufman 3.5)?",
+      "back": "Rítide periorbitária lateral — pé de galinha (crow's foot). O tricone lateral é excisado em direção ao pé de galinha, escondendo a cicatriz na RSTL lateral e mantendo o vetor horizontal, nunca vertical.",
+      "citation": "Kaufman, 2018, cap. 3, sec. 3.5",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Qual a incisão principal do retalho preauricular (Kaufman 3.6) e por que é esteticamente vantajosa?",
+      "back": "Sulco pretragal + extensão posterior ao lóbulo. Ambas as cicatrizes ficam em junções anatômicas invisíveis — transição orelha-face (pretragal) e contorno do lóbulo — tornando-as praticamente imperceptíveis.",
+      "citation": "Kaufman, 2018, cap. 3, sec. 3.6",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Por que a rotação zigomática (Mustardé) deve ser 'oversized' (> 90°)?",
+      "back": "Rotações com arco curto sofrem shortening inevitável ao girar → tensão residual no ápice anterior → necrose distal ou retração descendente puxando a pálpebra inferior. Arco > 90° com descolamento amplo compensa esse shortening.",
+      "citation": "Kaufman, 2018, cap. 3, sec. 3.7",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Em que momento o primeiro ponto da rotação zigomática (Kaufman 3.7) é dado e por quê?",
+      "back": "O primeiro ponto ancora o retalho no rebordo zigomático (periósteo) — antes de qualquer sutura superficial. Essa ancoragem é a chave para evitar ectrópio: suspende o vetor gravitacional do retalho ao esqueleto facial.",
+      "citation": "Kaufman, 2018, cap. 3, sec. 3.7",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Qual a regra para escolher o vértice do rombóide (Limberg) na bochecha inferior?",
+      "back": "Dos quatro vértices possíveis de 120°, eleger aquele cujo vetor de tensão secundária aponta para longe de margens livres (vermelhão labial inferior, comissura, pálpebra inferior). Kaufman: 'mobilize tissue from where it is most abundant and where the risk to free margins is least'.",
+      "citation": "Kaufman, 2018, cap. 3, sec. 3.8",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Qual é a incidência de ectrópio em reconstruções malar-zigomáticas grandes sem suspensão? E com ancoragem periosteal + cantopexia?",
+      "back": "Sem suspensão: 5–20%. Com ancoragem periosteal ao rebordo orbital inferior/zigoma + cantopexia: < 2%.",
+      "citation": "Neligan, 2023, vol. 3, cap. 10",
+      "domain": "complicacao"
+    },
+    {
+      "front": "Qual é o manejo do ectrópio fixo (> 3 meses) pós-reconstrução de bochecha?",
+      "back": "Liberação cicatricial + FTSG (Enxerto de Pele de Espessura Total — Full-Thickness Skin Graft) retroauricular como espaçador + cantopexia (tarsal strip) — procedimento de oculoplástica. Massagem e tração passiva já não são suficientes em ectrópio cicatricial fixo.",
+      "citation": "Neligan, 2023, vol. 3, cap. 10, Cheeks; Kaufman, 2018, cap. 3",
+      "domain": "complicacao"
+    },
+    {
+      "front": "Qual ramo do VII tem posição anatômica variável (curva cervical em ~20% dos casos) e por que isso é crítico na cervicofacial?",
+      "back": "Ramo marginal mandibular — corre ~1 cm abaixo da borda inferior da mandíbula em ~20% dos casos (curvatura cervical inicial). Incisões cervicais de cervicofacial devem ficar ≥ 2 cm abaixo da mandíbula + plano sub-platismal para evitar lesão.",
+      "citation": "Neligan, 2023, vol. 3, cap. 10, Fig. 10.13",
+      "domain": "anatomia"
+    },
+    {
+      "front": "Qual é a cessação mínima de tabagismo para um cervicofacial? E para retalhos médios (Kaufman 3.1–3.5)?",
+      "back": "Cervicofacial: ≥ 4 semanas pré + 4 semanas pós (ideal 4+4; mínimo aceitável 2+2). Retalhos médios (3.1–3.5): 2 semanas pré + 2 semanas pós. Tabagismo aumenta necrose parcial 2–3×.",
+      "citation": "Neligan, 2023, vol. 3, cap. 10, Cheeks",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Em qual zona da bochecha o trapdoor leve de uma ilha de avanço é aceitável ou até desejável?",
+      "back": "Zona nasomelal — o abaulamento mimetiza a convexidade natural do sulco nasomelal. Kaufman: 'any bulging of the flap mimics the natural convexity of the nasomelal fold' (sec. 3.4). Em zonas planas ou côncavas, o mesmo trapdoor é complicação.",
+      "citation": "Kaufman, 2018, cap. 3, sec. 3.4",
+      "domain": "complicacao"
+    },
+    {
+      "front": "O que é a M-plastia e por que é usada no retalho preauricular em homens com barba?",
+      "back": "A M-plastia substitui o tricone longo por dois triângulos pequenos cujas bordas caem em rítides periorbitárias, evitando que a cicatriz cruze a linha anterior da barba/sideburn. Tricone longo = cicatriz atravessando o sideburn = mismatch piloso visível.",
+      "citation": "Kaufman, 2018, cap. 3, sec. 3.6",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Por que o submental island flap usa Doppler pré-operatório obrigatório?",
+      "back": "Variações anatômicas do ramo submental da artéria facial são frequentes. O Doppler identifica o pedículo exato antes da incisão, evitando elevação de ilha sem pedículo viável e orientando o planejamento da ilha cutânea sobre o eixo submental correto.",
+      "citation": "Neligan, 2023, vol. 3, cap. 10, Fig. 10.18; Martin D et al. Plast Reconstr Surg. 1993",
+      "domain": "tecnica"
+    }
+  ],
+  "tags": [
+    "flashcard",
+    "anatomia",
+    "tecnica",
+    "decisao",
+    "complicacao"
+  ]
+}

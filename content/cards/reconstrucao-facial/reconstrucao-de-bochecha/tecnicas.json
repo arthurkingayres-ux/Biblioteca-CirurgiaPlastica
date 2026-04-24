@@ -1,0 +1,508 @@
+[
+  {
+    "id": "bochecha-tec-001",
+    "type": "technique",
+    "title": "Cunha Side-to-Side na Bochecha Medial (Kaufman 3.1)",
+    "aliases": [
+      "side-to-side bochecha",
+      "fechamento primário bochecha",
+      "elipse em RSTL bochecha"
+    ],
+    "topic": "reconstrucao-de-bochecha",
+    "area": "reconstrucao-facial",
+    "indication": "Defeitos pequenos a médios (até ~2,0 × 1,5 cm) na bochecha medial, infraorbital, zigomática ou inferior com laxidez adjacente suficiente e vetor ao longo da RSTL local. Default operatório da bochecha — tentar primeiro antes de escalar.",
+    "contraindication": "Vetor de fechamento com componente vertical significativo sobre pálpebra inferior; defeitos > 2 cm em zonas convexas sem laxidez linear; proximidade extrema à linha ciliar sem possibilidade de redirecionar o eixo.",
+    "steps": [
+      "1. Demarcação sentada (90°): sulco nasojugal, melolabial, linha ciliar inferior e RSTL dominante desenhados antes da infiltração.",
+      "2. Bloqueio infraorbital + infiltração local com lidocaína 1% + epinefrina 1:100.000.",
+      "3. Elipse 3:1 C/L com tricones de 30° nos polos, eixo longo alinhado à RSTL oblíqua inferolateral-superomedial.",
+      "4. Excisão em bloco; tricones podem cruzar linha ciliar, sulco alar ou junção de subunidade deliberadamente — encurtá-los gera dog-ear permanente.",
+      "5. Descolamento subcutâneo 1–2 cm além das bordas preservando plexo subdérmico; mais amplo no lado de maior laxidez (tipicamente lateral-inferior).",
+      "6. Hemostasia com bipolar.",
+      "7. Sutura: Vicryl 4-0/5-0 enterrado (nó invertido) absorvendo toda a tensão; polipropileno 5-0 ou 6-0 na pele.",
+      "8. Pontos cutâneos 5–7 dias."
+    ],
+    "complications": [
+      "Ectrópio se vetor secundário vertical não identificado pré-op",
+      "Dog-ear residual se tricone encurtado 'esteticamente'",
+      "Cicatriz visível se eixo desvia da RSTL"
+    ],
+    "pearls": [
+      "Side-to-side é o default: \"consigo fechar em elipse 3:1 ao longo da RSTL?\" — na bochecha generosa, frequentemente a resposta é sim.",
+      "Tricone que cruza borda de subunidade é preferível a dog-ear permanente; S-plastia posterior corrige se necessário.",
+      "Simular o vetor com pinça antes de incidir — verificar se pálpebra inferior se desloca."
+    ],
+    "citations": [
+      "Kaufman, 2018, cap. 3, sec. 3.1, figs. 3.1A–I",
+      "ver _atlas-retalhos.md § Fechamento primário"
+    ],
+    "updates": [],
+    "tags": [
+      "tecnica",
+      "side-to-side",
+      "fechamento-primario",
+      "RSTL",
+      "bochecha-medial"
+    ]
+  },
+  {
+    "id": "bochecha-tec-002",
+    "type": "technique",
+    "title": "Retalho de Avanço Medial da Bochecha (Kaufman 3.2)",
+    "aliases": [
+      "avanço medial bochecha",
+      "avanço com tricone melolabial",
+      "Kaufman 3.2"
+    ],
+    "topic": "reconstrucao-de-bochecha",
+    "area": "reconstrucao-facial",
+    "indication": "Defeito cutâneo-subcutâneo médio (~1,5–2,5 cm) na bochecha medial com bordo superior na junção pálpebra-bochecha, onde side-to-side geraria tração vertical perigosa. Recruta tecido lateral mobilizando-o medialmente.",
+    "contraindication": "Defeitos > 3 cm (migrar para ilha 3.3 ou rotação 3.7); paciente jovem com pele tensa; tabagismo ativo com proximidade extrema à pálpebra.",
+    "steps": [
+      "1. Marcação sentada: defeito, junção pálpebra-bochecha, sulco melolabial, tricone inferior explicitamente.",
+      "2. Infiltração.",
+      "3. Incisão superior ao longo da junção pálpebra inferior-bochecha (~1–2 mm abaixo da margem tarsal inferior; não subciliar); excisão do tricone inferior no sulco melolabial.",
+      "4. Descolamento subcutâneo amplo estendendo-se lateralmente à comissura e inferiormente à submandibular se necessário.",
+      "5. Vetor de avanço horizontal, não descendente.",
+      "6. Primeiro ponto ancora borda superior do retalho sob a pálpebra; se defeito ≥ 2 cm ou pele tensa: ponto dérmico profundo ancorado no periósteo do rebordo orbital inferior (princípio de suspensão Mustardé em miniatura).",
+      "7. Fechamento em camadas; retirada de pontos 5–7 dias."
+    ],
+    "complications": [
+      "Ectrópio dinâmico em 1–2 semanas se ancoragem periosteal omitida",
+      "Leve elevação da asa nasal se tricone inferior estendido demais para medial",
+      "Cicatriz visível se incisão desvia do sulco pálpebra-bochecha e cai na pele palpebral"
+    ],
+    "pearls": [
+      "Ancoragem periosteal ao rebordo orbital inferior é a diferença entre resultado excelente e ectrópio neste retalho.",
+      "Tricone inferior no sulco melolabial — não em pele lisa da bochecha sem referência anatômica."
+    ],
+    "citations": [
+      "Kaufman, 2018, cap. 3, sec. 3.2, figs. 3.2A–C"
+    ],
+    "updates": [],
+    "tags": [
+      "tecnica",
+      "avanco",
+      "bochecha-medial",
+      "tricone-melolabial",
+      "ancoragem-periosteal"
+    ]
+  },
+  {
+    "id": "bochecha-tec-003",
+    "type": "technique",
+    "title": "Retalho de Avanço em Ilha na Bochecha Medial/Inferior (Kaufman 3.3)",
+    "aliases": [
+      "ilha de avanço bochecha medial",
+      "island advancement flap cheek",
+      "Kaufman 3.3"
+    ],
+    "topic": "reconstrucao-de-bochecha",
+    "area": "reconstrucao-facial",
+    "indication": "Defeitos maiores (~3–5 cm) da bochecha medial e inferior onde o tecido frouxo está lateral ou inferior ao defeito e as incisões podem ser escondidas em duas direções: uma no sulco melolabial e outra em RSTL ou junção de subunidade inferior.",
+    "contraindication": "Pele atrofiada ou irradiada (pedículo subcutâneo insuficiente); defeitos exigindo retalho maior que o triângulo isósceles adequadamente perfundível.",
+    "steps": [
+      "1. Marcação sentada; sulco melolabial demarcado como borda longa da ilha.",
+      "2. Infiltração.",
+      "3. Ilha triangular isósceles com pedículo subcutâneo central; uma borda longa no sulco melolabial, outra em rítide ou RSTL da bochecha inferior.",
+      "4. Dissecção romba das bordas preservando o pedículo cônico central — sem conexão cutânea (ilha).",
+      "5. Em homens: alinhar o limite do retalho com a borda anterior da barba para manter continuidade folicular.",
+      "6. Primeiro fechar o defeito secundário; depois ancorar a ilha com half-buried mattress (tip stitch).",
+      "7. Sutura em camadas; pontos 5–7 dias."
+    ],
+    "complications": [
+      "Congestão venosa da ilha se pedículo subcutâneo central insuficiente (sinal: ilha cianótica em 24–48h)",
+      "Cicatriz em alçada se bordas não caem em RSTL ou sulco",
+      "Pincushioning/trapdoor — massagem precoce e triancinolona intralesional"
+    ],
+    "pearls": [
+      "Sem conexão cutânea, a ilha é mais móvel — mas requer equilíbrio cuidadoso entre descolamento e preservação do pedículo vascular.",
+      "Borda da ilha no sulco melolabial é obrigatória para camuflar a cicatriz na junção nariz-bochecha-lábio."
+    ],
+    "citations": [
+      "Kaufman, 2018, cap. 3, sec. 3.3, figs. 3.3A–C",
+      "ver _atlas-retalhos.md § Retalho de avanço em ilha"
+    ],
+    "updates": [],
+    "tags": [
+      "tecnica",
+      "ilha-avanco",
+      "bochecha-medial",
+      "sulco-melolabial",
+      "pedículo-subcutaneo"
+    ]
+  },
+  {
+    "id": "bochecha-tec-004",
+    "type": "technique",
+    "title": "Retalho de Ilha em V-Y no Sulco Nasomelal (Kaufman 3.4)",
+    "aliases": [
+      "V-Y island nasomelal",
+      "ilha nasomelal Kaufman",
+      "Kaufman 3.4"
+    ],
+    "topic": "reconstrucao-de-bochecha",
+    "area": "reconstrucao-facial",
+    "indication": "Defeito no sulco nasomelal (convexidade da junção nariz-bochecha-lábio superior) até ~2,5 × 2,0 cm, onde a reserva de tecido frouxo inferior-lateral é abundante e o vetor superior-medial é seguro (sem tração descendente sobre a pálpebra inferior).",
+    "contraindication": "Vetor inferior-medial obrigatório pela geometria do defeito; pele tensa adjacente.",
+    "steps": [
+      "1. Marcação sentada; identificar defeito, reserva inferior-lateral de tecido.",
+      "2. Infiltração.",
+      "3. Ilha triangular com pedículo subcutâneo central, base apontando para o defeito, ápice inferior na área de maior laxidez.",
+      "4. Dissecção romba nas bordas mantendo pedículo cônico central; cortes verticais com tesoura preservando perfurantes.",
+      "5. Vetor de avanço: superior e medial — afastando o retalho da pálpebra inferior (key point de Kaufman: 'advance the flap superiorly and medially...so that secondary tension vectors do not pull downward from the medial canthus').",
+      "6. Fechar defeito secundário primeiro; ancorar ilha com tip stitch.",
+      "7. Sutura em camadas."
+    ],
+    "complications": [
+      "Distorção do canto medial se vetor não respeitado (tração descendente inadvertida)",
+      "Leve apagamento do sulco nasomelal (frequentemente aceitável — trapdoor mimetiza convexidade natural nessa zona)",
+      "Congestão venosa do pedículo"
+    ],
+    "pearls": [
+      "Trapdoor leve no sulco nasomelal é aceitável — Kaufman explicitamente autoriza: 'any bulging of the flap mimics the natural convexity of the nasomelal fold'.",
+      "Vetor superior e medial é o único seguro nessa zona — qualquer componente inferior puxa o canto medial e, por continuidade, a pálpebra inferior."
+    ],
+    "citations": [
+      "Kaufman, 2018, cap. 3, sec. 3.4, figs. 3.4A–C",
+      "ver _atlas-retalhos.md § Retalho de avanço em ilha"
+    ],
+    "updates": [],
+    "tags": [
+      "tecnica",
+      "V-Y",
+      "ilha-nasomelal",
+      "sulco-nasomelal",
+      "vetor-superior-medial"
+    ]
+  },
+  {
+    "id": "bochecha-tec-005",
+    "type": "technique",
+    "title": "Retalho de Avanço Infraorbital com Ancoragem Periosteal (Kaufman 3.5)",
+    "aliases": [
+      "avanço infraorbital Kaufman",
+      "ancoragem periosteal orbital inferior",
+      "Kaufman 3.5",
+      "infraorbital advancement flap"
+    ],
+    "topic": "reconstrucao-de-bochecha",
+    "area": "reconstrucao-facial",
+    "indication": "Defeito de 2–3 cm no terço lateral-infraorbital (linha pupilar até ângulo lateral do olho) onde side-to-side geraria vetor descendente com risco de ectrópio. Avanço lateral → medial com incisão superior na junção pálpebra-bochecha e tricone lateral em rítide periorbitária (pé de galinha).",
+    "contraindication": "Reservatório lateral-inferior insuficiente (jovens, face tensa) → migrar para rotação infraorbital (Mustardé); defeitos > 3 cm.",
+    "steps": [
+      "1. Marcação sentada com RSTL dominante; rítides do pé de galinha lateral identificadas como local do tricone.",
+      "2. Infiltração; bloqueio infraorbital.",
+      "3. Incisão superior ao longo da junção pálpebra-bochecha (horizontal); tricone lateral excisado em direção a uma rítide periorbitária lateral.",
+      "4. Descolamento subcutâneo amplo inferior e lateralmente, recrutando pele da malar inferior e submandibular.",
+      "5. Vetor horizontal (lateral → medial), não vertical.",
+      "6. Ancoragem periosteal ao rebordo orbital inferior com Vicryl 3-0 ou Nylon 3-0 se defeito ≥ 2 cm ou ectrópio preexistente.",
+      "7. Cantopexia lateral adjunta se laxidez tarsal evidente.",
+      "8. Fechamento em camadas; pontos 3–5 dias na área palpebral próxima."
+    ],
+    "complications": [
+      "Ectrópio leve transitório (prevenível com ancoragem + vetor horizontal)",
+      "Queda progressiva da pálpebra aos 3 meses se ancoragem insuficiente",
+      "Cicatriz visível se incisão se desvia da junção pálpebra-bochecha"
+    ],
+    "pearls": [
+      "Ancoragem periosteal ao rebordo orbital inferior é o ponto crítico — quando omitida, ectrópio dinâmico é quase universal em defeitos ≥ 2 cm.",
+      "Tração ascendente passiva da pálpebra inferior (massagem vertical) por 4–6 semanas pós-op previne ectrópio dinâmico precoce."
+    ],
+    "citations": [
+      "Kaufman, 2018, cap. 3, sec. 3.5, figs. 3.5A–C"
+    ],
+    "updates": [],
+    "tags": [
+      "tecnica",
+      "avanco-infraorbital",
+      "ancoragem-periosteal",
+      "ectropio",
+      "pe-de-galinha"
+    ]
+  },
+  {
+    "id": "bochecha-tec-006",
+    "type": "technique",
+    "title": "Retalho Preauricular com Ilha + Avanço e M-plastia (Kaufman 3.6)",
+    "aliases": [
+      "ilha preauricular Kaufman",
+      "M-plastia sideburn barba",
+      "Kaufman 3.6",
+      "preauricular island M-plasty"
+    ],
+    "topic": "reconstrucao-de-bochecha",
+    "area": "reconstrucao-facial",
+    "indication": "Dois cenários: (A) defeito preauricular não-piloso de ~2–3 cm → ilha de avanço com incisão no sulco pretragal + posterior ao lóbulo; (B) defeito preauricular (~3,5 × 2,9 cm) incluindo sideburn em homem → avanço com M-plastia anterior preservando continuidade da barba.",
+    "contraindication": "Defeito que exige retalho maior que o reservatório inferior-preauricular; pele irradiada.",
+    "steps": [
+      "1. Marcação com sideburn/barba demarcados explicitamente; nunca atravessar a linha anterior da barba.",
+      "2. Infiltração com bloqueio auriculotemporal + local.",
+      "3. Incisão pretragal (sulco) + posterior ao lóbulo; M-plastia anterior se cenário B.",
+      "4. Descolamento subcutâneo 2 cm além das bordas, preservando continuidade folicular.",
+      "5. Cenário A (não-piloso): ilha com pedículo subcutâneo; avanço superior-anterior.",
+      "6. Cenário B (sideburn): M-plastia substitui o tricone longo por dois triângulos pequenos cujas bordas caem em rítides periorbitárias; Kaufman: 'the limbs of the M-plasty may somewhat resemble periorbital rhytides'.",
+      "7. Plano sub-SMAS possível se descolamento precisa ir além do sideburn para baixo — cuidado com ramos zigomático/bucal do VII anteriormente.",
+      "8. Sutura em camadas."
+    ],
+    "complications": [
+      "Descontinuidade da barba/sideburn se M-plastia mal dimensionada ou incisão cruza a linha folicular",
+      "Cicatriz anterior visível se M-plastia insuficiente",
+      "Rara paresia temporal se descolamento profundo anterior ao trago sem visualização dos ramos do VII"
+    ],
+    "pearls": [
+      "M-plastia > tricone longo em retalhos preauriculares masculinos — detalhe editorial que preserva a barba.",
+      "Incisão pretragal e posterior ao lóbulo são invisíveis — planejá-las sempre como linha primária de cicatriz."
+    ],
+    "citations": [
+      "Kaufman, 2018, cap. 3, sec. 3.6, figs. 3.6A–G"
+    ],
+    "updates": [],
+    "tags": [
+      "tecnica",
+      "preauricular",
+      "M-plastia",
+      "sideburn",
+      "ilha-avanco"
+    ]
+  },
+  {
+    "id": "bochecha-tec-007",
+    "type": "technique",
+    "title": "Retalho de Rotação Zigomática — Princípio Mustardé (Kaufman 3.7)",
+    "aliases": [
+      "rotação zigomática Mustardé",
+      "cheek rotation Mustardé",
+      "Kaufman 3.7",
+      "Mustardé cheek rotation reconstruction"
+    ],
+    "topic": "reconstrucao-de-bochecha",
+    "area": "reconstrucao-facial",
+    "indication": "Defeito oncológico grande (~3 cm+) na bochecha lateral-infraorbital ou zigomática, onde side-to-side e avanço são insuficientes e o risco de ectrópio é sério. Retalho de rotação com eixo superior-posterior ascendendo ao temple, curvando anterior ao tragus em arco aciforme.",
+    "contraindication": "Defeito pequeno (< 2 cm); tabagismo ativo não controlado; radioterapia prévia no temple; comorbidade vascular.",
+    "steps": [
+      "1. Marcação sentada + fotografia pré-op.",
+      "2. Anestesia local + sedação ou geral (retalho grande).",
+      "3. A partir do ponto superior-posterior do defeito: linha ascendente acima do zigoma sobre o temple → curva descendente anterior ao sulco pretragal → sobre o lóbulo → posterior-inferior ao ângulo mandibular se necessário.",
+      "4. Incisão + descolamento em plano subcutâneo profundo, transicionando a sub-SMAS sob o zigoma se necessário.",
+      "5. Arco > 90° — rotação 'oversized' para compensar o shortening inevitável; descolamento amplo do retalho e pele circundante.",
+      "6. Rotação do retalho; primeiro ponto ancora o retalho no rebordo zigomático com Vicryl 3-0 ou Nylon 3-0 (suspensão ao periósteo) — chave para evitar ectrópio.",
+      "7. Tricone excisado inferior ao defeito dentro de RSTL.",
+      "8. Sutura em camadas; drenos de sucção se retalho > 10 cm.",
+      "9. Curativo compressivo leve 24h; monitoramento da perfusão do ápice anterior."
+    ],
+    "complications": [
+      "Necrose distal (< 5% em não-fumantes bem planejados) se arco curto ou tensão residual no ápice",
+      "Ectrópio dinâmico se ancoragem periosteal omitida",
+      "Paresia do ramo temporal do VII transitória — incisão sobre o arco zigomático",
+      "Cicatriz pretragal visível se não cai exatamente no sulco"
+    ],
+    "pearls": [
+      "Rotação 'oversized' (> 90°) compensa o shortening inevitável — não economizar no arco.",
+      "Ancoragem periosteal ao zigoma = diferença entre resultado excelente e ectrópio. 'When in doubt, anchor.'",
+      "Mustardé cheek rotation e cervicofacial são irmãos conceituais — mesmo princípio, defeitos diferentes."
+    ],
+    "citations": [
+      "Kaufman, 2018, cap. 3, sec. 3.7, figs. 3.7A–E",
+      "Mustardé JC. Repair and Reconstruction in the Orbital Region. 2ª Ed. 1980"
+    ],
+    "updates": [],
+    "tags": [
+      "tecnica",
+      "rotacao-zigomatica",
+      "Mustardé",
+      "ancoragem-periosteal",
+      "ectropio"
+    ]
+  },
+  {
+    "id": "bochecha-tec-008",
+    "type": "technique",
+    "title": "Retalho Rombóide (Limberg) e Bilobado na Bochecha Inferior (Kaufman 3.8)",
+    "aliases": [
+      "rombóide Limberg bochecha",
+      "bilobado bochecha inferior",
+      "Kaufman 3.8",
+      "transposição rombóide bochecha"
+    ],
+    "topic": "reconstrucao-de-bochecha",
+    "area": "reconstrucao-facial",
+    "indication": "Defeitos da bochecha inferior/mandibular (~3–4 cm) onde side-to-side alongaria cicatriz excessivamente e rotação local é impossível por escassez de tecido anterior. Transposição recruta tecido posterior-inferior (submandibular, pescoço superior).",
+    "contraindication": "Pele espessa sebácea (trapdoor quase garantido — preferir rotação); defeitos em pele aderente à mandíbula; proximidade extrema ao ramo marginal mandibular do VII.",
+    "steps": [
+      "1. Marcação: converter defeito em losango 60/120° (rombóide clássico); desenhar os 4 vértices possíveis de 120°.",
+      "2. Eleger o vértice que direciona vetor secundário para longe de margens livres (vermelhão labial inferior, comissura, pálpebra inferior).",
+      "3. Rombóide clássico (Limberg): base posterior-inferior recrutando tecido submandibular; cicatriz final em L.",
+      "4. Bilobado (defeitos grandes ~4 × 4 cm): dois lóbulos sequenciais com rotação total ~90–100°; pode combinar com small FTSG (Enxerto de Pele de Espessura Total) para minimizar tensão residual.",
+      "5. Incisão + descolamento subcutâneo; mais profundo se proximidade ao ramo marginal mandibular do VII.",
+      "6. Fechar primeiro o defeito secundário; depois transpor o retalho sobre o defeito primário.",
+      "7. Tricone no ponto de pivô, evitando cortar o pedículo.",
+      "8. Sutura em camadas; dreno de sucção se retalho amplo."
+    ],
+    "complications": [
+      "Trapdoor/pincushioning em pele espessa — massagem + triancinolona 10 mg/mL intralesional cada 4 sem × 2–3 sessões",
+      "Vértice mal escolhido deslocando vermelhão ou comissura",
+      "Paresia transitória do lábio inferior (ramo marginal mandibular)"
+    ],
+    "pearls": [
+      "Dos quatro vértices possíveis do rombóide, eleger sempre o que poupa margens livres — essa escolha domina o planejamento.",
+      "Fechar o defeito secundário antes do primário — regra universal dos retalhos de transposição."
+    ],
+    "citations": [
+      "Kaufman, 2018, cap. 3, sec. 3.8, figs. 3.8A–G",
+      "ver _atlas-retalhos.md § Retalho de transposição e § Retalho bilobado"
+    ],
+    "updates": [],
+    "tags": [
+      "tecnica",
+      "rombóide",
+      "Limberg",
+      "bilobado",
+      "bochecha-inferior"
+    ]
+  },
+  {
+    "id": "bochecha-tec-009",
+    "type": "technique",
+    "title": "Retalho Cervicofacial de Rotação-Avanço (Juri — Neligan Fig. 10.17)",
+    "aliases": [
+      "cervicofacial flap",
+      "retalho cervicofacial Juri",
+      "Juri & Juri cheek flap",
+      "rotação-avanço cervicofacial"
+    ],
+    "topic": "reconstrucao-de-bochecha",
+    "area": "reconstrucao-facial",
+    "indication": "Defeitos grandes (> 4 cm) da bochecha anterior, malar ou infraorbital onde tecido local é insuficiente e é preciso recrutar pele do pescoço lateral e do temple em retalho único de base posterior. Expansão funcional do princípio Mustardé para defeitos reconstrutivos.",
+    "contraindication": "Tabagismo ativo — cessação ≥ 2 semanas pré + 2 pós (ideal 4+4); radioterapia prévia extensa no pescoço lateral ou temple; comorbidade microvascular severa.",
+    "steps": [
+      "1. Marcação pré-operatória elaborada com paciente sentado + fotografia.",
+      "2. Anestesia geral (tempo cirúrgico 2–4h).",
+      "3. Incisão anterior-inferior: segue o sulco nasolabial descendendo, passa ao longo da borda da mandíbula e continua no pescoço superior.",
+      "4. Incisão superior-posterior: ascende à região do temple, curva posteriormente em arco aciforme (semelhante a incisão de ritidoplastia); versões estendidas cruzam a linha média no pescoço.",
+      "5. Elevação do retalho em plano subcutâneo anteriormente, sub-SMAS posteriormente/lateralmente; base do retalho posterior contendo transversa da face + auricular posterior como eixos axiais efetivos.",
+      "6. Liberação dos ligamentos de retenção (zigomático, mandibular) para mobilidade adicional.",
+      "7. Identificação/preservação dos ramos do VII (zigomático, bucal, marginal mandibular).",
+      "8. Ancoragem do retalho ao periósteo do rebordo orbital inferior e/ou zigoma — crítica para evitar ectrópio.",
+      "9. Fechamento em camadas: Vicryl 3-0/4-0 profundo + Prolene 5-0/6-0 na pele.",
+      "10. Drenos de sucção subcutâneos 2–4 dias; curativo compressivo leve 24–48h."
+    ],
+    "complications": [
+      "Necrose distal do ápice anterior (< 10% em não-fumantes) se descolamento insuficiente ou tabagismo",
+      "Ectrópio (quase universal se ancoragem periosteal omitida)",
+      "Paresia do ramo marginal mandibular (0,5–2%) se incisão cervical superficial",
+      "Hematoma/seroma sob retalho",
+      "Rigidez cervical transitória"
+    ],
+    "pearls": [
+      "Incisão cervical ≥ 2 cm abaixo da mandíbula + plano sub-platismal evita o ramo marginal mandibular.",
+      "Cervicofacial = Mustardé estendido: mesmo princípio (rotação de base posterior com ancoragem orbital), defeitos diferentes.",
+      "Drenos de sucção em cervicofaciais grandes reduzem seroma e descolamento — não omitir."
+    ],
+    "citations": [
+      "Neligan, 2023, vol. 3, cap. 10, Cheeks, Fig. 10.17",
+      "Juri J, Juri C. Plast Reconstr Surg. 1979;64(5):692–696",
+      "ver _atlas-retalhos.md § Retalho de rotação"
+    ],
+    "updates": [],
+    "tags": [
+      "tecnica",
+      "cervicofacial",
+      "rotacao-avanco",
+      "Juri",
+      "bochecha-grande"
+    ]
+  },
+  {
+    "id": "bochecha-tec-010",
+    "type": "technique",
+    "title": "Retalho Submental Island — Neligan Fig. 10.18",
+    "aliases": [
+      "submental island flap",
+      "retalho submental pediculado",
+      "submental Martin"
+    ],
+    "topic": "reconstrucao-de-bochecha",
+    "area": "reconstrucao-facial",
+    "indication": "Defeitos de bochecha inferior, jawline ou lábio inferior cutâneo onde pele cervicofacial é insuficiente ou indesejada (cicatriz lateral conspícua, radioterapia prévia lateral). Ilha axial pediculada no ramo submental da artéria facial.",
+    "contraindication": "Cicatriz prévia na região submental impedindo elevação segura; pescoço irradiado com fibrose extensa; fumante pesado; paciente com pescoço cervical cheio (cicatriz submental horizontal é longa).",
+    "steps": [
+      "1. Marcação: eixo submental horizontal entre os ventres anteriores do digástrico, centrado na linha média.",
+      "2. Doppler pré-operatório para identificar ramo submental da artéria facial.",
+      "3. Anestesia geral.",
+      "4. Incisão submental elíptica (~6 × 4 cm típica); dissecção incluindo platisma + pedículo submental.",
+      "5. Liberação do pedículo até a artéria facial.",
+      "6. Túnel subcutâneo do submental ao defeito, passando sob a mandíbula — atenção ao ramo marginal mandibular do VII que corre superficialmente ao túnel na borda inferior da mandíbula.",
+      "7. Transferência do retalho ao defeito; sutura perimetral.",
+      "8. Fechamento primário do defeito doador em elipse horizontal submental."
+    ],
+    "complications": [
+      "Neuropraxia do ramo marginal mandibular na passagem do túnel (recuperação 3–6 meses se preservação anatômica)",
+      "Congestão venosa do retalho se trajeto tortuoso do pedículo",
+      "Necrose parcial (rara em técnica bem executada)",
+      "Cicatriz submental horizontal conspícua em pacientes magros"
+    ],
+    "pearls": [
+      "Doppler pré-operatório é obrigatório para localizar o ramo submental — variações anatômicas são frequentes.",
+      "O risco principal é neuropraxia do marginal mandibular no túnel — visualização direta ao cruzar a mandíbula."
+    ],
+    "citations": [
+      "Neligan, 2023, vol. 3, cap. 10, Fig. 10.18",
+      "Martin D et al. Plast Reconstr Surg. 1993;92(5):867–873"
+    ],
+    "updates": [],
+    "tags": [
+      "tecnica",
+      "submental-island",
+      "axial",
+      "bochecha-inferior",
+      "jawline"
+    ]
+  },
+  {
+    "id": "bochecha-tec-011",
+    "type": "technique",
+    "title": "Reconstrução Full-Thickness Composta da Bochecha — Nota Sintética",
+    "aliases": [
+      "full-thickness bochecha",
+      "defeito composto bochecha",
+      "ALT bochecha",
+      "radial antebraquial bochecha",
+      "FAMM bochecha mucosa"
+    ],
+    "topic": "reconstrucao-de-bochecha",
+    "area": "reconstrucao-facial",
+    "indication": "Defeitos transfixantes envolvendo pele + bucinador + mucosa bucal (pós-oncológicos extensos, trauma penetrante). Requer forro mucoso interno + cobertura externa ± suporte estrutural.",
+    "contraindication": "Paciente com comorbidades proibitivas para cirurgia longa ou múltiplos tempos.",
+    "steps": [
+      "1. Avaliação multidisciplinar (oncologia, fonoaudiologia, protético).",
+      "2. Forro mucoso interno: FAMM (Facial Artery Musculomucosal — ver reconstrucao-de-labio) estendido; retalho mucoso bucal avançado; ilha de palato duro; segunda paleta microcirúrgica em reconstruções livres.",
+      "3. Cobertura externa: retalho locorregional (cervicofacial, submental) para defeitos médios; ou transferência livre — radial antebraquial (pele fina, ideal para bochecha medial superficial), ALT (Anterolateral Thigh — maior volume com septo do vasto lateral, ideal para bochecha lateral volumosa), gracilis (quando reinervação motora para restauração de movimento labial é desejada).",
+      "4. Suporte estrutural se necessário: enxerto ósseo (costelas, calota, fíbula) para mandíbula ou arco zigomático acometidos; enxerto cartilaginoso auricular para contorno.",
+      "5. Múltiplos refinamentos (2–5 cirurgias em 6–12 meses).",
+      "6. Epilação a laser para retalhos que trazem pele pilosa a zona glabra."
+    ],
+    "complications": [
+      "Incompetência oral sem reinervação motora",
+      "Mismatch de textura/cor pele-mucosa",
+      "Morbidade do sítio doador (ALT, radial)",
+      "Fístula orocutânea se camadas não hermetizadas"
+    ],
+    "pearls": [
+      "Forro mucoso e cobertura externa devem ser planejados em conjunto — não sequencialmente.",
+      "ALT > radial antebraquial quando volume e espessura são necessários; radial > ALT quando pele fina é preferida (bochecha medial superficial)."
+    ],
+    "citations": [
+      "Neligan, 2023, vol. 3, cap. 10",
+      "ver _atlas-retalhos.md § Retalhos combinados / multi-estágios"
+    ],
+    "updates": [],
+    "tags": [
+      "tecnica",
+      "full-thickness",
+      "ALT",
+      "radial-antebraquial",
+      "FAMM"
+    ]
+  }
+]

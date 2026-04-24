@@ -1,0 +1,232 @@
+[
+  {
+    "id": "bochecha-dec-001",
+    "type": "decision",
+    "title": "Algoritmo Geral — Zona × Tamanho → Técnica de Bochecha",
+    "topic": "reconstrucao-de-bochecha",
+    "area": "reconstrucao-facial",
+    "trigger": "Defeito de bochecha pós-ressecção: qual técnica de reconstrução usar?",
+    "steps": [
+      {
+        "question": "Qual é a zona do defeito?",
+        "options": [
+          { "answer": "Medial / paranasal", "next": "Bloco A — Zona medial" },
+          { "answer": "Nasomelal / sulco melolabial", "next": "Bloco B — Zona nasomelal" },
+          { "answer": "Infraorbital", "next": "Bloco C — Zona infraorbital" },
+          { "answer": "Preauricular", "next": "Bloco D — Zona preauricular" },
+          { "answer": "Zigomática / malar", "next": "Bloco E — Zona zigomática" },
+          { "answer": "Inferior / mandibular / bucal", "next": "Bloco F — Zona inferior" },
+          { "answer": "Múltiplas zonas ou > 6 cm", "next": "Bloco G — Defeito grande ou composto" }
+        ]
+      },
+      {
+        "question": "[Bloco A — Medial] Qual é o tamanho?",
+        "options": [
+          { "answer": "< 2 cm, pele frouxa", "next": "Cunha side-to-side em RSTL (Kaufman 3.1)" },
+          { "answer": "2–3 cm com contato na junção pálpebra-bochecha", "next": "Avanço medial + tricone no melolabial (Kaufman 3.2)" },
+          { "answer": "3–5 cm superficial", "next": "Ilha de avanço medial com incisão longa no melolabial (Kaufman 3.3)" }
+        ]
+      },
+      {
+        "question": "[Bloco B — Nasomelal] Defeito no sulco nasomelal específico?",
+        "options": [
+          { "answer": "Sim, até ~2,5 × 2 cm", "next": "Ilha V-Y com vetor superior e medial (Kaufman 3.4)" },
+          { "answer": "Não — bochecha medial geral", "next": "Retornar ao Bloco A" }
+        ]
+      },
+      {
+        "question": "[Bloco C — Infraorbital] Qual é o tamanho e risco de ectrópio?",
+        "options": [
+          { "answer": "< 2 cm, vetor horizontal possível", "next": "Cunha side-to-side horizontal" },
+          { "answer": "2–3 cm com risco de ectrópio", "next": "Avanço infraorbital com tricone em rítide lateral (pé de galinha) + ancoragem periosteal (Kaufman 3.5)" },
+          { "answer": "> 3 cm ou proximidade extrema à linha ciliar", "next": "Rotação zigomática ampla / Mustardé (Kaufman 3.7) ou cervicofacial" }
+        ]
+      },
+      {
+        "question": "[Bloco D — Preauricular] Pele pilosa (sideburn/barba em homem)?",
+        "options": [
+          { "answer": "Não (< 3 cm não-pilosa)", "next": "Ilha pretragal + posterior ao lóbulo (Kaufman 3.6 caso A)" },
+          { "answer": "Sim (3–4 cm pilosa, sideburn)", "next": "Avanço com M-plastia preservando barba (Kaufman 3.6 caso B)" }
+        ]
+      },
+      {
+        "question": "[Bloco E — Zigomática] Qual é o tamanho?",
+        "options": [
+          { "answer": "2–4 cm", "next": "Rotação local ampla ou princípio Mustardé (Kaufman 3.7)" },
+          { "answer": "> 4 cm ou próximo à pálpebra inferior", "next": "Rotação zigomática ampla / Mustardé / cervicofacial estendido (Kaufman 3.7 + Neligan Fig. 10.17)" }
+        ]
+      },
+      {
+        "question": "[Bloco F — Inferior / mandibular] Qual é o tamanho e disponibilidade de pele?",
+        "options": [
+          { "answer": "2–4 cm, superficial", "next": "Rombóide (Limberg) ou bilobado, base posterior-inferior (Kaufman 3.8)" },
+          { "answer": "> 4 cm ou pele local escassa", "next": "Cervicofacial (Neligan Fig. 10.17) ou submental island (Neligan Fig. 10.18)" }
+        ]
+      },
+      {
+        "question": "[Bloco G — Grande/composto] Defeito full-thickness (pele + bucinador + mucosa)?",
+        "options": [
+          { "answer": "Sim (full-thickness)", "next": "Forro interno (FAMM/mucosa bucal/palato) + cobertura externa (locorregional ou livre: radial, ALT, gracilis) + suporte estrutural se necessário" },
+          { "answer": "Não — apenas defeito superficial grande", "next": "Cervicofacial estendido (cross-midline no pescoço) ou retalho livre de pele fina (radial antebraquial)" }
+        ]
+      }
+    ],
+    "citations": [
+      "Kaufman, 2018, cap. 3, secs. 3.1–3.8",
+      "Neligan, 2023, vol. 3, cap. 10, algoritmos implícitos"
+    ],
+    "updates": [],
+    "tags": [
+      "decisao",
+      "algoritmo-geral",
+      "zona-bochecha",
+      "selecao-tecnica",
+      "repertorio-bochecha"
+    ]
+  },
+  {
+    "id": "bochecha-dec-002",
+    "type": "decision",
+    "title": "Pálpebra Inferior Comprometida? — Protocolo Anti-Ectrópio",
+    "topic": "reconstrucao-de-bochecha",
+    "area": "reconstrucao-facial",
+    "trigger": "Defeito de bochecha com proximidade à pálpebra inferior: como evitar ectrópio?",
+    "steps": [
+      {
+        "question": "O defeito está a menos de 2 cm da margem palpebral inferior?",
+        "options": [
+          { "answer": "Sim", "next": "Planejamento específico anti-ectrópio obrigatório — ver próximas perguntas" },
+          { "answer": "Não (> 2 cm de distância)", "next": "Ectrópio improvável; monitorar mas sem medidas específicas obrigatórias" }
+        ]
+      },
+      {
+        "question": "O vetor primário de fechamento tem componente vertical descendente?",
+        "options": [
+          { "answer": "Sim", "next": "Redesenhar o retalho: mudar para vetor horizontal ou superior. Side-to-side com eixo vertical é PROIBIDO perto da pálpebra inferior" },
+          { "answer": "Não (vetor horizontal ou superior)", "next": "Vetor aprovado; continuar avaliação" }
+        ]
+      },
+      {
+        "question": "O retalho é de tamanho ≥ 2 cm ou o paciente tem ectrópio senil preexistente?",
+        "options": [
+          { "answer": "Sim", "next": "Ancoragem periosteal ao rebordo orbital inferior com Vicryl 3-0 ou Nylon 3-0 é OBRIGATÓRIA; considerar cantopexia lateral profilática" },
+          { "answer": "Não", "next": "Ancoragem periosteal prudente mas não absolutamente obrigatória; vetor horizontal suficiente" }
+        ]
+      },
+      {
+        "question": "Ectrópio dinâmico detectado no pós-operatório precoce (< 6 semanas)?",
+        "options": [
+          { "answer": "Sim", "next": "Massagem ascendente passiva 4–6 semanas + observação; ectrópio dinâmico tipicamente cede" },
+          { "answer": "Ectrópio fixo ≥ 3 meses", "next": "Liberação cicatricial + FTSG retroauricular como espaçador + cantopexia (tarsal strip) — procedimento de oculoplástica" }
+        ]
+      }
+    ],
+    "citations": [
+      "Kaufman, 2018, cap. 3, secs. 3.2 e 3.5",
+      "Neligan, 2023, vol. 3, cap. 10, Cheeks",
+      "ver _principios-reconstrucao.md § Margens Livres"
+    ],
+    "updates": [],
+    "tags": [
+      "decisao",
+      "ectropio",
+      "palpebra-inferior",
+      "ancoragem-periosteal",
+      "cantopexia"
+    ]
+  },
+  {
+    "id": "bochecha-dec-003",
+    "type": "decision",
+    "title": "Prioridade Funcional vs Estética — Colisão em Defeito de Bochecha",
+    "topic": "reconstrucao-de-bochecha",
+    "area": "reconstrucao-facial",
+    "trigger": "Defeito de bochecha onde preservação de margem livre (ectrópio) colide com preferência estética do paciente: qual prioridade?",
+    "steps": [
+      {
+        "question": "Existe margem livre em risco (pálpebra inferior, comissura, asa nasal)?",
+        "options": [
+          { "answer": "Sim — margem livre comprometida", "next": "Função sempre vence a estética: cicatriz conspícua é corrigível; ectrópio cicatricial fixo exige FTSG de liberação + cantopexia — sequela pior" },
+          { "answer": "Não — defeito longe de margens livres", "next": "Estética pode ser prioridade; cunha em RSTL, ilha com bordas em sulcos, avanço com tricones em rítides" }
+        ]
+      },
+      {
+        "question": "Prioridade de preservação pilosa (sideburn/barba em homem)?",
+        "options": [
+          { "answer": "Sim", "next": "M-plastia > tricone longo; incisão pretragal; retalho com continuidade folicular preservada (Kaufman 3.6B)" },
+          { "answer": "Não aplicável", "next": "Planejamento padrão sem restrição de pilosidade" }
+        ]
+      },
+      {
+        "question": "Hierarquia geral de prioridades em caso de colisão?",
+        "options": [
+          { "answer": "Prioridade 1 — zero ectrópio", "next": "Proibido vetor vertical descendente; rotação zigomática/Mustardé > avanço horizontal com ancoragem periosteal > cervicofacial com ancoragem multinível" },
+          { "answer": "Prioridade 2 — mínima cicatriz visível", "next": "Cunha em RSTL > ilha com bordas em sulcos > avanço com tricones em rítides; evitar rotação grande se geometria não obriga" },
+          { "answer": "Prioridade 3 — preservação pilosa", "next": "M-plastia; incisão pretragal; retalho alinhado com borda folicular" }
+        ]
+      }
+    ],
+    "citations": [
+      "Kaufman, 2018, cap. 3",
+      "Neligan, 2023, vol. 3, cap. 10"
+    ],
+    "updates": [],
+    "tags": [
+      "decisao",
+      "funcional-vs-estetico",
+      "ectropio",
+      "sideburn",
+      "prioridade"
+    ]
+  },
+  {
+    "id": "bochecha-dec-004",
+    "type": "decision",
+    "title": "Quando Diferir para Retalho Livre ou Reconstrução Multi-estágio",
+    "topic": "reconstrucao-de-bochecha",
+    "area": "reconstrucao-facial",
+    "trigger": "Defeito de bochecha: os retalhos locorregionais são insuficientes? Quando indicar transferência livre?",
+    "steps": [
+      {
+        "question": "O defeito é full-thickness (pele + bucinador + mucosa bucal)?",
+        "options": [
+          { "answer": "Sim", "next": "Reconstrução composta obrigatória: forro interno (FAMM, mucosa bucal, ilha de palato) + cobertura externa (locorregional ou livre)" },
+          { "answer": "Não — só superficial", "next": "Continuar avaliação de tamanho" }
+        ]
+      },
+      {
+        "question": "O defeito superficial é > 6 cm ou compromete múltiplas zonas?",
+        "options": [
+          { "answer": "Sim", "next": "Cervicofacial estendido (cross-midline) ou retalho livre (radial antebraquial para pele fina, ALT para maior volume)" },
+          { "answer": "Não (2–6 cm, zona única)", "next": "Retalho locorregional suficiente (Mustardé, cervicofacial padrão, submental island)" }
+        ]
+      },
+      {
+        "question": "O paciente tem irradiação extensa ou tabagismo incontrolável que inviabiliza retalho locorregional?",
+        "options": [
+          { "answer": "Sim", "next": "Retalho livre de base vascular não irradiada: radial antebraquial ou ALT via anastomose à facial ou temporal superficial" },
+          { "answer": "Não", "next": "Retalho locorregional permanece a primeira opção" }
+        ]
+      },
+      {
+        "question": "A mandíbula ou o arco zigomático estão acometidos?",
+        "options": [
+          { "answer": "Sim", "next": "Suporte estrutural obrigatório: enxerto ósseo (costelas, calota, fíbula livre microvascularizada) + cobertura externa livre" },
+          { "answer": "Não", "next": "Reconstrução de partes moles apenas" }
+        ]
+      }
+    ],
+    "citations": [
+      "Neligan, 2023, vol. 3, cap. 10",
+      "Kaufman, 2018, cap. 3"
+    ],
+    "updates": [],
+    "tags": [
+      "decisao",
+      "retalho-livre",
+      "full-thickness",
+      "ALT",
+      "reconstrucao-composta"
+    ]
+  }
+]
