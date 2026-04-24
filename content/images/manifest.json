@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-20T15:24:04Z",
-  "count": 68,
+  "generatedAt": "2026-04-23T20:39:42Z",
+  "count": 80,
   "entries": [
     {
       "id": "img-abdominal-layers-001",
@@ -2607,6 +2607,174 @@
       ],
       "applicable_topics": [
         "blefaroplastia"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-labio-abbe-passos",
+      "file": "reconstrucao-de-labio/labio-abbe-passos.png",
+      "subject": "Desenho do retalho Abbe-Estlander (lip-switch) — desenho do retalho doador no lábio inferior, rotação 180° sobre a rima e inset no defeito do lábio superior",
+      "role": "technique",
+      "source": "Kaufman 2018, Cap. 6 — Upper lip: Abbe-Estlander (lip-switch) flap",
+      "credit": "Adaptado de Kaufman 2018",
+      "default_caption": "Passos esquemáticos do lip-switch Abbe-Estlander: retalho doador incisado em 3/4 do perímetro (pedículo na labial inferior preservado) e transposto ao defeito do lábio superior envolvendo comissura/marionette — largura do retalho ~50–75% do defeito (Kaufman 2018, Cap. 6, Fig. 6.12C-D).",
+      "labels": [],
+      "applicable_topics": [
+        "reconstrucao-de-labio"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-labio-anatomia-orbicular",
+      "file": "reconstrucao-de-labio/labio-anatomia-orbicular.png",
+      "subject": "Musculatura perioral: orbicularis oris, elevadores (levator labii superioris, levator labii superioris alaeque nasi, zygomaticus major/minor) e depressores (depressor anguli oris, depressor labii inferioris, risorius)",
+      "role": "anatomy",
+      "source": "Neligan 2023, vol. 3, cap. 11 — Pribaz & Buller",
+      "credit": "Adaptado de Neligan 2023 (Pribaz & Buller)",
+      "default_caption": "Landmarks estéticos do lábio (cúpido, columnas filtrais, tubérculo, comissura) ao lado da musculatura perioral com inserções convergindo no módiolo — orbicularis oris como esfíncter oral e agonistas/antagonistas identificados (Neligan 2023, vol. 3, cap. 11, Fig. 11.1–11.2).",
+      "labels": [],
+      "applicable_topics": [
+        "reconstrucao-de-labio"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-labio-bernard-burow-variantes",
+      "file": "reconstrucao-de-labio/labio-bernard-burow-variantes.png",
+      "subject": "Variante Webster da Bernard-Burow — excisão crescenteric peri-alar bilateral combinada com Abbe central para reconstrução subtotal do lábio superior",
+      "role": "technique",
+      "source": "Neligan 2023, vol. 3, cap. 11 — Pribaz & Buller",
+      "credit": "Adaptado de Neligan 2023 (Pribaz & Buller)",
+      "default_caption": "Esquema da variante Webster da Bernard-Burow: excisão crescentérica peri-alar bilateral e retalhos de avanço da bochecha suplementados por Abbe central; série clínica com defeito extenso do lábio superior e resultado pós-operatório (Neligan 2023, vol. 3, cap. 11, Fig. 11.9).",
+      "labels": [],
+      "applicable_topics": [
+        "reconstrucao-de-labio"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-labio-estlander-comissura",
+      "file": "reconstrucao-de-labio/labio-estlander-comissura.png",
+      "subject": "Retalho de Estlander para defeito do lábio superior envolvendo comissura — rotação única sem divisão de pedículo, resultado aos 4 meses",
+      "role": "technique",
+      "source": "Neligan 2023, vol. 3, cap. 11 — Pribaz & Buller",
+      "credit": "Adaptado de Neligan 2023 (Pribaz & Buller)",
+      "default_caption": "Reparo do lábio superior em defeito que envolve a comissura por cão-mordida: Estlander flap incorporando a comissura no desenho, rotação única com pedículo mantido e vistas pré-operatória e aos 4 meses de pós-operatório (Neligan 2023, vol. 3, cap. 11, Fig. 11.8).",
+      "labels": [],
+      "applicable_topics": [
+        "reconstrucao-de-labio"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-labio-karapandzic-geometria",
+      "file": "reconstrucao-de-labio/labio-karapandzic-geometria.png",
+      "subject": "Karapandzic bilateral para defeito full-thickness > 50% do lábio inferior central — retalhos semicirculares preservando feixes neurovasculares da labial e ramos bucais/marginais do VII",
+      "role": "technique",
+      "source": "Neligan 2023, vol. 3, cap. 11 — Pribaz & Buller",
+      "credit": "Adaptado de Neligan 2023 (Pribaz & Buller)",
+      "default_caption": "Série fotográfica do Karapandzic bilateral para defeito full-thickness central do lábio inferior (>50%): desenho dos retalhos semicirculares peri-orais, dissecção preservando feixes neurovasculares da labial e resultado final com microstomia tolerável e competência oral preservada (Neligan 2023, vol. 3, cap. 11, Fig. 11.13).",
+      "labels": [],
+      "applicable_topics": [
+        "reconstrucao-de-labio"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-labio-subunidades-cupido-columnas",
+      "file": "reconstrucao-de-labio/labio-subunidades-cupido-columnas.png",
+      "subject": "Landmarks e sub-unidades estéticas do lábio — alar sill, alar furrow, lateral cutaneous lip, vermelhão e comissura oral",
+      "role": "anatomy",
+      "source": "Kaufman 2018, Cap. 6 — Lip Reconstruction, abertura",
+      "credit": "Adaptado de Kaufman 2018",
+      "default_caption": "Landmarks de superfície do lábio com sub-unidades rotuladas (alar sill, alar furrow, lateral cutaneous lip, vermelhão, comissura) — base topográfica para planejar cicatrizes em junções entre sub-unidades (Kaufman 2018, Cap. 6, abertura, p. 165).",
+      "labels": [],
+      "applicable_topics": [
+        "reconstrucao-de-labio"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-labio-v-y-filtral",
+      "file": "reconstrucao-de-labio/labio-v-y-filtral.png",
+      "subject": "Retalho de avanço em ilha no filtro combinado com rotação bilateral do vermelhão para defeito do lábio superior envolvendo filtro + vermelhão",
+      "role": "technique",
+      "source": "Kaufman 2018, Cap. 6 — Midupper lip vermilion and philtrum: island advancement flap and bilateral vermilion rotation flap",
+      "credit": "Adaptado de Kaufman 2018",
+      "default_caption": "Desenho esquemático da ilha triangular para reconstrução do filtro (ápice à base da columela) combinada com rotação bilateral do vermelhão — filosofia \"um retalho por sub-unidade\" respeitando columnas filtrais (Kaufman 2018, Cap. 6, Fig. 6.7B-C).",
+      "labels": [],
+      "applicable_topics": [
+        "reconstrucao-de-labio"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-labio-vascularizacao",
+      "file": "reconstrucao-de-labio/labio-vascularizacao.png",
+      "subject": "Descrição cirúrgica da vascularização labial — artéria labial superior e inferior como ramos da artéria facial, arcada peri-oral e território de retalhos axiais",
+      "role": "anatomy",
+      "source": "Neligan 2023, vol. 3, cap. 11 — Pribaz & Buller",
+      "credit": "Adaptado de Neligan 2023 (Pribaz & Buller)",
+      "default_caption": "Narrativa cirúrgica da vascularização labial: aa. labial superior e inferior emergindo da facial na comissura, correndo profundamente ao orbicular, formando arcada peri-oral — base anatômica dos retalhos axiais Abbe, Estlander, Karapandzic e FAMM (Neligan 2023, vol. 3, cap. 11, p. 258).",
+      "labels": [],
+      "applicable_topics": [
+        "reconstrucao-de-labio"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-labio-vermelhao-mucosal-advancement",
+      "file": "reconstrucao-de-labio/labio-vermelhao-mucosal-advancement.png",
+      "subject": "FAMM flap (Facial Artery Musculomucosal flap) para reconstrução de vermelhão em paciente com microssomia hemifacial e deficiência de vermelhão",
+      "role": "technique",
+      "source": "Neligan 2023, vol. 3, cap. 11 — Pribaz & Buller",
+      "credit": "Adaptado de Neligan 2023 (Pribaz & Buller)",
+      "default_caption": "Série fotográfica do FAMM flap de base superior levando mucosa bucal vascularizada pela artéria facial ao vermelhão do lábio superior — inset e resultado tardio com ganho de simetria em repouso e animação (Neligan 2023, vol. 3, cap. 11, Fig. 11.5).",
+      "labels": [],
+      "applicable_topics": [
+        "reconstrucao-de-labio"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-labio-vermelionectomia-avanco-mucoso",
+      "file": "reconstrucao-de-labio/labio-vermelionectomia-avanco-mucoso.png",
+      "subject": "Vermilionectomia + retalho de avanço mucoso no lábio inferior — desenho da excisão crescente e descolamento em plano superficial ao orbicular",
+      "role": "technique",
+      "source": "Kaufman 2018, Cap. 6 — Midupper lip vermilion and midlower lip vermilion: vermilionectomy and mucosal advancement flap",
+      "credit": "Adaptado de Kaufman 2018",
+      "default_caption": "Defeito de vermelhão do lábio inferior (1,6 × 1,6 cm) e desenho de vermilionectomia com avanço mucoso — excisão da vermelhão actinicamente danificada e descolamento em plano superficial ao orbicular até o sulco gengivolabial (Kaufman 2018, Cap. 6, Fig. 6.5D-E).",
+      "labels": [],
+      "applicable_topics": [
+        "reconstrucao-de-labio"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-labio-wedge-mplasty-inferior",
+      "file": "reconstrucao-de-labio/labio-wedge-mplasty-inferior.png",
+      "subject": "Excisão em cunha full-thickness do lábio inferior com M-plastia para evitar cicatriz cruzando o sulco mento-labial",
+      "role": "technique",
+      "source": "Kaufman 2018, Cap. 6 — Lower lip: wedge excision",
+      "credit": "Adaptado de Kaufman 2018",
+      "default_caption": "Defeito recorrente no lábio inferior (~30% da largura horizontal) e wedge full-thickness com M-plastia no ápice — duas pontas pequenas que param antes do sulco mento-labial, preservando a junção de sub-unidade (Kaufman 2018, Cap. 6, Fig. 6.11A-B).",
+      "labels": [],
+      "applicable_topics": [
+        "reconstrucao-de-labio"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-labio-wedge-primario-v",
+      "file": "reconstrucao-de-labio/labio-wedge-primario-v.png",
+      "subject": "Fechamento primário side-to-side do lábio superior — defeito pequeno com cicatriz perpendicular à rima em rítide perioral",
+      "role": "technique",
+      "source": "Kaufman 2018, Cap. 6 — Left upper cutaneous lip: side-to-side repair",
+      "credit": "Adaptado de Kaufman 2018",
+      "default_caption": "Defeito cirúrgico do lábio superior direito e desenho de fechamento side-to-side complexo seguindo rítides periorais, com tricones dimensionados para preservar o alinhamento do vermelhão (Kaufman 2018, Cap. 6, Fig. 6.1A-B).",
+      "labels": [],
+      "applicable_topics": [
+        "reconstrucao-de-labio"
       ],
       "status": "available"
     }

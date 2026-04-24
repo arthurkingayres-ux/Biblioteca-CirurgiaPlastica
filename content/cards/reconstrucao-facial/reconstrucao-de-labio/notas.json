@@ -1,0 +1,133 @@
+[
+  {
+    "id": "labio-nota-001",
+    "type": "note",
+    "title": "White Roll — Regra do Primeiro Ponto",
+    "topic": "reconstrucao-de-labio",
+    "area": "reconstrucao-facial",
+    "section": "principios",
+    "content": [
+      "O white roll é a estrutura-âncora de todo reparo labial. Qualquer sutura cruzando o white roll começa pela sua aposição submilimétrica — esse é sempre o primeiro ponto cutâneo, enterrado em polipropileno 5-0. Os demais pontos se orientam por ele.",
+      "A razão é simples: o white roll é uma crista de ~1 mm visível à distância conversacional. Um degrau de 1 mm é imediatamente percebido. Uma vez que os tecidos são suturados incorretamente e deixados curar por mais de 7 dias, a correção exige Z-plastia tardia com resultados inferiores ao reparo primário bem-feito.",
+      "A marcação do white roll deve ser feita com paciente sentado, boca em repouso, antes de qualquer infiltração anestésica. A epinefrina distorce a crista pálida por vasoconstricção e a lidocaína edematiza o tecido. Uma caneta cirúrgica fina (ou agulha com azul de metileno) marca bilateralmente, demarcando também os picos de cúpido e o ponto central inferior.",
+      "Retalho cruzando o cúpido exige Z-plastia no white roll para não linearizar o arco. Não há como 'improvisar' esse alinhamento depois — planejar antes de incidir (Kaufman, 2018, cap. 6, sec. 6.1 key points; Neligan, 2023, vol. 3, cap. 11, Assessment)."
+    ],
+    "citations": [
+      "Kaufman, 2018, cap. 6, sec. 6.1 key points",
+      "Neligan, 2023, vol. 3, cap. 11, Assessment"
+    ],
+    "updates": [],
+    "tags": [
+      "principio",
+      "white-roll",
+      "primeiro-ponto",
+      "marcacao-pre-op",
+      "cupido"
+    ]
+  },
+  {
+    "id": "labio-nota-002",
+    "type": "note",
+    "title": "Junção Seca-Úmida e Mismatch de Vermelhão",
+    "topic": "reconstrucao-de-labio",
+    "area": "reconstrucao-facial",
+    "section": "principios",
+    "content": [
+      "O vermelhão labial é dividido em duas zonas por uma linha precisa: pars cutanea (dry, vermelhão seco) — epitélio escamoso externo, sem glândulas, ricamente vascularizado — e pars mucosa (wet, vermelhão úmido) — mucosa contígua às glândulas salivares menores.",
+      "A junção seca-úmida é uma linha real. Mismatch desta junção (mucosa úmida reconstruída aflorando no território do vermelhão seco, ou vice-versa) é visível. A mucosa bucal transferida (FAMM, avanço mucoso) tem textura e brilho diferentes do vermelhão seco nativo — o paciente percebe pelo espelho e terceiros percebem de perto.",
+      "Estratégias de manejo do mismatch: (1) avanço mucoso em plano superficial ao orbicular para que a mucosa avance sem tensão e a junção caia exatamente no white roll; (2) tatuagem de vermelhão tardia (3–6 meses) para restaurar cor em reconstruções onde mucosa bucal foi usada; (3) dermabrasão / scarabrasion (3 meses pós-op) para nivelar textura (Neligan, 2023, vol. 3, cap. 11, Complications; Sakai et al. em Neligan cap. 11).",
+      "Em homens, o crescimento de pelos do lábio inferior no território de mucosa recém-avançada causa irritação e sangramento — avisar pré-op; a zona mucosa reconstituída será imberbe, mas o pelo do lábio adjacent puede invadir a junção."
+    ],
+    "citations": [
+      "Neligan, 2023, vol. 3, cap. 11; Kaufman, 2018, cap. 6, sec. 6.5"
+    ],
+    "updates": [],
+    "tags": [
+      "principio",
+      "juncao-seca-umida",
+      "mismatch",
+      "vermelhao",
+      "tatuagem"
+    ]
+  },
+  {
+    "id": "labio-nota-003",
+    "type": "note",
+    "title": "Avaliação Pré-Operatória do Defeito Labial — Checklist de Seis Perguntas",
+    "topic": "reconstrucao-de-labio",
+    "area": "reconstrucao-facial",
+    "section": "avaliacao-preoperatoria",
+    "content": [
+      "O planejamento começa no defeito, não na técnica. Seis perguntas estruturam o raciocínio antes de qualquer decisão técnica (adaptação ao lábio do framework de Kaufman; ver _principios-reconstrucao.md § Framework das três perguntas):",
+      "1. Quais camadas estão faltando? Pele? Pele + orbicular? Full-thickness? Só vermelhão? Só mucosa? Cada camada ausente exige reposição com seu próprio tecido.",
+      "2. Qual sub-unidade? Filtro / columna filtral / lateral superior / unidade cutânea inferior / vermelhão / comissura? O defeito está restrito a uma sub-unidade ou cruza junções?",
+      "3. Qual o tamanho relativo? < 1/4, 1/4–1/3, 1/3–1/2, 1/2–2/3, > 2/3? Eixo-guia dos algoritmos 11.1 e 11.2 de Neligan — comanda a escolha da família técnica.",
+      "4. Envolvimento de estruturas-chave? Picos de cúpido, columnas filtrais, comissura, white roll atravessado — mandam o plano acima do tamanho puro.",
+      "5. Orientação em relação às RSTL (Relaxed Skin Tension Lines — linhas de tensão relaxada da pele) labiais? Rítides radiais à rima; linha do marionette; sulco mento-labial horizontal.",
+      "6. Quantas margens livres o retalho cruzará? Cada uma exige estratégia de realinhamento submilimétrico."
+    ],
+    "citations": [
+      "Kaufman, 2018, cap. 6, intro; Neligan, 2023, vol. 3, cap. 11, algoritmos 11.1 e 11.2",
+      "ver _principios-reconstrucao.md § Framework das três perguntas"
+    ],
+    "updates": [],
+    "tags": [
+      "avaliacao",
+      "checklist",
+      "preoperatorio",
+      "framework-kaufman",
+      "defeito-labial"
+    ]
+  },
+  {
+    "id": "labio-nota-004",
+    "type": "note",
+    "title": "Whistle Deformity, Elabium e Complicações Específicas do Lábio",
+    "topic": "reconstrucao-de-labio",
+    "area": "reconstrucao-facial",
+    "section": "complicacoes",
+    "content": [
+      "Whistle deformity (notching central do vermelhão) — entalhe cranial no vermelhão inferior por reaproximação muscular deficiente em reparo full-thickness. Prevenção: orbicular em duas camadas (pars marginalis + pars peripheralis) + alinhamento preciso do white roll no primeiro ponto. Manejo tardio: Z-plastia + reaproximação muscular; retalho mucoso ventilante em refratários (Kaufman, 2018, cap. 6, sec. 6.11 key points).",
+      "Elabium (hooding) — retração vertical do vermelhão por vetor cefálico de retalho de avanço cutâneo. Prevenção: excesso de pele no desenho + linha de ancoragem absorvível enterrada ao longo do white roll + vetor ligeiramente cefálico (Kaufman, 2018, cap. 6, sec. 6.2 key points).",
+      "Microstomia — universal em Karapandzic/Gillies/Bernard-Burow. É resultado esperado, não complicação — discutir pré-op. Distensão espontânea em semanas-meses. Comissuroplastia de Converse aos 6 meses se persistente (Neligan, 2023, vol. 3, cap. 11; Kaufman, 2018, cap. 6, sec. 6.12).",
+      "Incompetência oral / drooling — Gillies > Bernard > Karapandzic. Prevenção: Karapandzic quando possível. Manejo: fisioterapia, palmaris longus sling estático, gracilis neurotizado em refratários.",
+      "Desvio do white roll — qualquer mismatch > 1 mm é visível. Refazer na primeira semana se notado. Z-plastia tardia aos 6 meses para correção estabelecida."
+    ],
+    "citations": [
+      "Kaufman, 2018, cap. 6, secs. 6.2, 6.11; Neligan, 2023, vol. 3, cap. 11, Complications"
+    ],
+    "updates": [],
+    "tags": [
+      "complicacoes",
+      "whistle-deformity",
+      "elabium",
+      "microstomia",
+      "incompetencia-oral"
+    ]
+  },
+  {
+    "id": "labio-nota-005",
+    "type": "note",
+    "title": "Competência Oral — Fisiopatologia e Teste Bedside",
+    "topic": "reconstrucao-de-labio",
+    "area": "reconstrucao-facial",
+    "section": "fisiopatologia",
+    "content": [
+      "Competência oral depende de três componentes em série: (1) orbicular superior íntegro; (2) orbicular inferior íntegro; (3) ancoragem modiolar bilateral. Remoção de > 30–40% de um dos lábios sem restabelecer continuidade muscular produz incompetência — daí a primazia de lip-switch e Karapandzic em defeitos médios (Neligan, 2023, vol. 3, cap. 11, Functional goals).",
+      "Teste bedside de competência oral: pedir ao paciente que mantenha água na boca sem deglutir por 30 segundos. Paciente com orbicular íntegro consegue sem escape. Incompetência é detectada por gotejamento pelo ângulo comissural ou pela rima.",
+      "Após reconstrução, a competência oral pode ser transitoriamente perdida mesmo em técnicas que preservam o orbicular (Karapandzic) — edema, inervação parcial, dor. Recuperação esperada em 2–4 semanas. Persistência além de 6–8 semanas sugere denervação motora ou perda muscular não compensada.",
+      "Microstomia tolerável — diâmetro mínimo da abertura oral que permite alimentação com colher e escovação dentária adequada é ~35 mm. Abaixo disso, comissuroplastia é indicada. Abaixo de 25 mm, impacto nutricional e de higiene oral significativo."
+    ],
+    "citations": [
+      "Neligan, 2023, vol. 3, cap. 11, Functional goals; Kaufman, 2018, cap. 6"
+    ],
+    "updates": [],
+    "tags": [
+      "fisiopatologia",
+      "competencia-oral",
+      "teste-bedside",
+      "orbicular",
+      "microstomia"
+    ]
+  }
+]

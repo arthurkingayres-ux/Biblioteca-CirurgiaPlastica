@@ -1,0 +1,12 @@
+{
+  "id": "img-labio-anatomia-orbicular",
+  "file": "reconstrucao-de-labio/labio-anatomia-orbicular.png",
+  "subject": "Musculatura perioral: orbicularis oris, elevadores (levator labii superioris, levator labii superioris alaeque nasi, zygomaticus major/minor) e depressores (depressor anguli oris, depressor labii inferioris, risorius)",
+  "role": "anatomy",
+  "source": "Neligan 2023, vol. 3, cap. 11 — Pribaz & Buller",
+  "credit": "Adaptado de Neligan 2023 (Pribaz & Buller)",
+  "default_caption": "Landmarks estéticos do lábio (cúpido, columnas filtrais, tubérculo, comissura) ao lado da musculatura perioral com inserções convergindo no módiolo — orbicularis oris como esfíncter oral e agonistas/antagonistas identificados (Neligan 2023, vol. 3, cap. 11, Fig. 11.1–11.2).",
+  "labels": [],
+  "applicable_topics": ["reconstrucao-de-labio"],
+  "status": "available"
+}

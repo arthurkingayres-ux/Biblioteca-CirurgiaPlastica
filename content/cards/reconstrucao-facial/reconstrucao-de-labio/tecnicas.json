@@ -1,0 +1,535 @@
+[
+  {
+    "id": "labio-tec-001",
+    "type": "technique",
+    "title": "Fechamento Primário em Cunha Side-to-Side — Lábio Superior (Kaufman 6.1)",
+    "aliases": [
+      "wedge excision lip",
+      "cunha vertical lábio",
+      "V-closure lip"
+    ],
+    "topic": "reconstrucao-de-labio",
+    "area": "reconstrucao-facial",
+    "indication": "Defeito pequeno (até ~1,0 × 1,0 cm) cutâneo ou full-thickness pequeno (até ~25% do comprimento horizontal do lábio superior) com laxidez adjacente. Cicatriz perpendicular à rima alinha com rítides peri-orais.",
+    "contraindication": "Defeito que apaga cúpido ou columna contralateral por tração; laxidez insuficiente; > 25% do lábio (migrar para Abbe ou Webster).",
+    "steps": [
+      "1. Marcação com paciente sentado: demarcar white roll, cúpido e columnas filtrais com caneta cirúrgica antes da infiltração.",
+      "2. Bloqueio infraorbital bilateral + infiltração com lidocaína 1% + epinefrina 1:100.000 após marcação.",
+      "3. Planejamento da cunha perpendicular à rima; tricones (standing cones) cruzam o white roll decididamente — não encurtá-los (encurtamento desvia o vermelhão inferiormente).",
+      "4. Excisão em bloco; se full-thickness, secção em camadas (mucosa → orbicular → pele) com controle da artéria labial.",
+      "5. Sutura em camadas: mucosa Vicryl 4-0/5-0; orbicular 4-0/5-0 enterrado em duas filas (pars marginalis + pars peripheralis).",
+      "6. Primeiro ponto cutâneo ancora o white roll (enterrado 5-0 polipropileno); pele 6-0 polipropileno.",
+      "7. Vermelhão com seda 5-0/6-0 (macia, pouco irritante — Kaufman key points).",
+      "8. Dieta pastosa 48–72 h; pontos cutâneos 5–7 dias, mucosos até 14 dias."
+    ],
+    "complications": [
+      "Desvio do white roll — refazer na primeira semana se notado",
+      "Elabium (retração vertical do vermelhão) por vetor mal orientado",
+      "Incompetência oral transitória",
+      "Whistle deformity se orbicular fechado em camada única"
+    ],
+    "pearls": [
+      "Primeiro ponto = white roll. Todo o resto segue esse alinhamento.",
+      "Assistente estabiliza o lábio com dedos bilaterais durante excisão full-thickness para identificar e controlar a labial inferior.",
+      "Seda 5-0/6-0 no vermelhão — menos reativa que polipropileno em mucosa."
+    ],
+    "citations": [
+      "Kaufman, 2018, cap. 6, sec. 6.1, figs. 6.1A–E",
+      "ver _atlas-retalhos.md § Fechamento primário"
+    ],
+    "updates": [],
+    "tags": [
+      "tecnica",
+      "cunha",
+      "fechamento-primario",
+      "white-roll",
+      "labio-superior"
+    ]
+  },
+  {
+    "id": "labio-tec-002",
+    "type": "technique",
+    "title": "Retalho de Avanço do Lábio Superior (Kaufman 6.2)",
+    "aliases": [
+      "lip advancement flap",
+      "avanço lateral superior"
+    ],
+    "topic": "reconstrucao-de-labio",
+    "area": "reconstrucao-facial",
+    "indication": "Defeito cutâneo do lábio superior lateral (5C) grande demais para cunha (≥ 1,5 × 1,1 cm), superficial (não full-thickness), orbicular preservado; recruta tecido do lábio lateral + bochecha medial.",
+    "contraindication": "Defeito full-thickness (preferir Abbe/cunha); cruzando columna filtral ou cúpido (Abbe); laxidez insuficiente.",
+    "steps": [
+      "1. Marcação sentada; white roll explícito.",
+      "2. Incisão superior segue o white roll e continua lateralmente à comissura pela linha do marionette (cicatriz em junção/rítide).",
+      "3. Tricone excisado na linha do marionette.",
+      "4. Descolamento subcutâneo amplo na bochecha medial.",
+      "5. Vetor ligeiramente cefálico ao fechar — previne tração descendente (elabium/hooding).",
+      "6. Pontos absorvíveis enterrados ao longo da linha do vermelhão ancoram o retalho ao orbicular nativo.",
+      "7. Sutura cutânea 6-0 polipropileno; pontos 5–7 dias."
+    ],
+    "complications": [
+      "Elabium/hooding por vetor descendente ou ausência de âncora ao orbicular",
+      "Dog-ear lateral se tricone insuficiente",
+      "Cicatriz cruzando a comissura se lateralização excessiva"
+    ],
+    "pearls": [
+      "Âncora absorvível ao longo do white roll é o principal protetor contra elabium — não omitir.",
+      "Vetor ligeiramente cefálico compensa a gravidade e a contração cicatricial."
+    ],
+    "citations": [
+      "Kaufman, 2018, cap. 6, sec. 6.2, figs. 6.2A–G",
+      "ver _atlas-retalhos.md § Retalho de avanço"
+    ],
+    "updates": [],
+    "tags": [
+      "tecnica",
+      "avanco",
+      "labio-superior",
+      "lateral-superior",
+      "elabium"
+    ]
+  },
+  {
+    "id": "labio-tec-003",
+    "type": "technique",
+    "title": "Avanço em Ilha V-Y no Filtro + Rotação Bilateral do Vermelhão (Kaufman 6.7)",
+    "aliases": [
+      "V-Y filtral advancement",
+      "ilha filtral V-Y",
+      "Kaufman 6.7"
+    ],
+    "topic": "reconstrucao-de-labio",
+    "area": "reconstrucao-facial",
+    "indication": "Defeito cruzando sub-unidades do lábio superior — filtro (5A) + vermelhão. Solução combinada: ilha cutânea triangular para o filtro + rotação bilateral do vermelhão inferior. Filosofia 'um retalho por sub-unidade'.",
+    "contraindication": "Defeito grande ou full-thickness (Abbe, Bernard-Burow); defeito só cutâneo sem vermelhão (Kaufman 6.2 ou 6.9).",
+    "steps": [
+      "1. Marcação sentada; identificar extensão exata no filtro e no vermelhão.",
+      "2. Componente filtral (ilha triangular): longa incisão ao longo do sulco melolabial; segunda incisão converge gradualmente (taper) — triângulo isósceles com ápice até/próximo à base da columela.",
+      "3. Pedículo subcutâneo central vertical entre 1º e 2º terços do retalho; dissecção romba com tesoura vertical nas bordas para preservar perfurantes.",
+      "4. Defeito secundário fechado primeiro; ilha ancorada com half-buried mattress (tip stitch).",
+      "5. Componente de vermelhão (rotação bilateral Kaufman 6.6): ampliação anterior do defeito até borda de sub-unidade; incisão bilateral ao longo do white roll até as comissuras; back-cut curto central; descolamento superficial ao orbicular.",
+      "6. Sutura central em colchoeiro horizontal enterrado + white roll em polipropileno 5-0/6-0 contínuo.",
+      "7. Seda 5-0/6-0 no vermelhão."
+    ],
+    "complications": [
+      "Mismatch entre componentes filtral e do vermelhão",
+      "Transecção acidental da labial no componente do vermelhão (prevenida pelo plano superficial ao orbicular)",
+      "Congestão venosa da ilha filtral (rara; prevenida pelo taper gradual)"
+    ],
+    "pearls": [
+      "Taper gradual da ilha filtral reduz vetor secundário e previne trapdoor.",
+      "Descolamento da mucosa no componente de vermelhão deve ser estritamente superficial ao orbicular."
+    ],
+    "citations": [
+      "Kaufman, 2018, cap. 6, sec. 6.7, figs. 6.7A–E; sec. 6.6, figs. 6.6A–E"
+    ],
+    "updates": [],
+    "tags": [
+      "tecnica",
+      "ilha-filtral",
+      "V-Y",
+      "rotacao-bilateral-vermelhao",
+      "filtro"
+    ]
+  },
+  {
+    "id": "labio-tec-004",
+    "type": "technique",
+    "title": "Vermilionectomia + Avanço Mucoso (Kaufman 6.5)",
+    "aliases": [
+      "lip shave",
+      "vermilionectomy",
+      "cheilite actínica tratamento"
+    ],
+    "topic": "reconstrucao-de-labio",
+    "area": "reconstrucao-facial",
+    "indication": "Defeito limitado ao vermelhão (superficial, orbicular preservado), frequentemente em cheilite actínica difusa. Excisão do vermelhão inteiro + avanço da mucosa labial sobre o leito — cicatriz cai no próprio white roll.",
+    "contraindication": "Defeito profundo envolvendo orbicular; mucosa inadequada (irradiação, xerostomia, cirurgia prévia); defeitos tratáveis por cunha (Kaufman 6.11).",
+    "steps": [
+      "1. Marcação sentada; white roll demarcado bilateralmente.",
+      "2. Excisão crescente de todo o vermelhão + pele actínica até o white roll.",
+      "3. Descolamento da mucosa em plano superficial ao orbicular, profundo às glândulas salivares menores — sem cortar a artéria labial (que corre profundamente ao orbicular).",
+      "4. Undermining estende-se até o sulco gengivolabial para mobilidade adequada.",
+      "5. Avanço da mucosa ao white roll; lábio reconstruído será mais fino (redução ântero-posterior) — avisar pré-op.",
+      "6. Ancoragem com absorvíveis enterrados + seda 5-0/6-0 em contínuo sobre o white roll.",
+      "7. Pontos mucosos até 14 dias."
+    ],
+    "complications": [
+      "Lábio mais fino (esperado e avisado pré-op)",
+      "Hipoestesia sensitiva transitória",
+      "Aspecto brilhante da mucosa reconstruída",
+      "Mismatch de cor vermelhão-mucosa",
+      "Em homens: irritação por pelos do lábio inferior cruzando a nova junção seca-úmida"
+    ],
+    "pearls": [
+      "Plano superficial ao orbicular é chave — artéria labial corre profundamente e não pode ser cortada.",
+      "Undermining até o sulco gengivolabial garante mobilidade sem tensão."
+    ],
+    "citations": [
+      "Kaufman, 2018, cap. 6, sec. 6.5, figs. 6.5A–G",
+      "Neligan, 2023, vol. 3, cap. 11, Defects involving up to one-quarter"
+    ],
+    "updates": [],
+    "tags": [
+      "tecnica",
+      "vermelionectomia",
+      "avanco-mucoso",
+      "cheilite-actinica",
+      "vermelhao"
+    ]
+  },
+  {
+    "id": "labio-tec-005",
+    "type": "technique",
+    "title": "Excisão em Cunha Full-Thickness com M-plastia — Lábio Inferior (Kaufman 6.11)",
+    "aliases": [
+      "wedge M-plasty lower lip",
+      "M-plastia lábio inferior",
+      "cunha M lábio inferior"
+    ],
+    "topic": "reconstrucao-de-labio",
+    "area": "reconstrucao-facial",
+    "indication": "Defeito full-thickness do lábio inferior até ~33% do comprimento horizontal (25% para o superior). Cunha em V simples cruzaria o sulco mento-labial com cicatriz perpendicular às RSTL; M-plastia substitui o V por duas pontas menores que param antes do sulco.",
+    "contraindication": "> 33% do lábio (Karapandzic/Bernard-Burow/Abbe); só vermelhão (Kaufman 6.5/6.6); comissura (Estlander).",
+    "steps": [
+      "1. Marcação sentada; white roll e sulco mento-labial demarcados explicitamente.",
+      "2. Assistente estabiliza o lábio com dedos bilaterais durante a excisão — permite identificar e controlar a artéria labial inferior.",
+      "3. V com ápice inferior; no ápice, duas pontas pequenas em M que não cruzam o sulco mento-labial.",
+      "4. Excisão em bloco full-thickness (mucosa + orbicular + pele); ligar/cauterizar a artéria labial inferior.",
+      "5. Fechamento em camadas: orbicular absorvível 4-0/5-0 enterrado primeiro; subcutâneo; white roll enterrado 5-0.",
+      "6. Cutâneo 6-0 polipropileno; mucosa seda 5-0/6-0 (macia).",
+      "7. Dieta pastosa; pontos cutâneos 5–7 dias, mucosos até 14 dias."
+    ],
+    "complications": [
+      "Desvio do white roll — refazer na primeira semana",
+      "Whistle deformity (notching central) — prevenção: orbicular em ≥ 2 camadas",
+      "Microstomia transitória",
+      "Hematoma se artéria labial não controlada"
+    ],
+    "pearls": [
+      "Orbicular em duas camadas (pars marginalis + pars peripheralis) é o pilar da prevenção da whistle deformity.",
+      "M-plastia preserva o sulco mento-labial — resultado estético superior à cunha simples."
+    ],
+    "citations": [
+      "Kaufman, 2018, cap. 6, sec. 6.11, figs. 6.11A–E"
+    ],
+    "updates": [],
+    "tags": [
+      "tecnica",
+      "cunha",
+      "M-plastia",
+      "labio-inferior",
+      "full-thickness"
+    ]
+  },
+  {
+    "id": "labio-tec-006",
+    "type": "technique",
+    "title": "Retalho de Abbe (Lip-Switch Flap) — Kaufman 6.12",
+    "aliases": [
+      "Abbe flap",
+      "lip-switch",
+      "cross-lip flap"
+    ],
+    "topic": "reconstrucao-de-labio",
+    "area": "reconstrucao-facial",
+    "indication": "Defeito full-thickness de 25–50% do lábio superior central/paracentral envolvendo filtro ou columna filtral, com lábio inferior relativamente normal. Transfere esfíncter muscular junto com pele e mucosa.",
+    "contraindication": "> 75% (Bernard-Burow/Gillies/Karapandzic); lábio oposto comprometido; paciente que recusa 3–4 semanas com pedículo externo cruzando a rima.",
+    "steps": [
+      "1. Planejamento: retalho doador ~50–75% do comprimento horizontal do defeito (lábio é elástico); altura plena do defeito.",
+      "2. Pedículo na artéria labial ipsilateral à borda do vermelhão oposto, contendo pele + orbicular + mucosa + artéria labial identificada.",
+      "3. Assistente comprime os dois lados do pedículo para facilitar identificação da artéria labial.",
+      "4. Incisão de 3/4 do perímetro do retalho em full-thickness; 1/4 restante é o pedículo.",
+      "5. Transposição 180° sobre a rima oral.",
+      "6. Inset em camadas: mucosa → orbicular → pele; vermelhão realinhado ao white roll.",
+      "7. Fechamento do doador em layered primary closure.",
+      "8. Dieta líquida-pastosa por 3 semanas com pedículo externo.",
+      "9. 2º tempo (3–4 semanas): divisão do pedículo, inset final, refinamento."
+    ],
+    "complications": [
+      "Necrose parcial (rara, < 2% quando artéria preservada)",
+      "Incompetência oral transitória (retalho inicialmente denervado)",
+      "Distorção do cúpido por tração assimétrica",
+      "Trismus e microstomia temporários com pedículo externo",
+      "Descolamento do vermelhão no inset"
+    ],
+    "pearls": [
+      "Retalho Abbe ≠ Estlander: Abbe tem pedículo dividido em 3–4 sem; Estlander tem pedículo não dividido (vira nova comissura).",
+      "Artéria labial deve ser visualizada e confirmada no pedículo antes da transposição.",
+      "Tabagismo proscrito — cessação ≥ 4 semanas pré-op obrigatória."
+    ],
+    "citations": [
+      "Kaufman, 2018, cap. 6, sec. 6.12, figs. 6.12A–H",
+      "Neligan, 2023, vol. 3, cap. 11, figs. 11.7–11.8"
+    ],
+    "updates": [],
+    "tags": [
+      "tecnica",
+      "abbe",
+      "lip-switch",
+      "filtro",
+      "full-thickness"
+    ]
+  },
+  {
+    "id": "labio-tec-007",
+    "type": "technique",
+    "title": "Retalho de Estlander (Variante Comissural do Abbe) — Neligan",
+    "aliases": [
+      "Estlander flap",
+      "comissural lip switch"
+    ],
+    "topic": "reconstrucao-de-labio",
+    "area": "reconstrucao-facial",
+    "indication": "Defeito full-thickness de 33–75% do lábio inferior comprometendo a comissura (ou lábio superior comissural). Variante do Abbe em que o retalho incorpora a comissura no desenho — rotação única sem divisão de pedículo.",
+    "contraindication": "Defeito central sem envolvimento de comissura (Abbe puro); > 75% (Bernard-Burow/Gillies/livre); lábio oposto comprometido.",
+    "steps": [
+      "1. Planejamento: retalho inclui a comissura do lábio oposto no desenho.",
+      "2. Pedículo na artéria labial ipsilateral — mesmo princípio vascular do Abbe.",
+      "3. Rotação única sem necessidade de divisão de pedículo — a comissura incluída no retalho vira a nova comissura reconstituída.",
+      "4. Inset em camadas: mucosa → orbicular → pele.",
+      "5. Fechamento do doador em layered primary closure.",
+      "6. Comissuroplastia de Converse a 4–8 semanas para refinar a comissura rounded."
+    ],
+    "complications": [
+      "Comissura blunt/rounded (esperada) — comissuroplastia obrigatória a 4–8 semanas",
+      "Microstomia transitória",
+      "Incompetência oral transitória"
+    ],
+    "pearls": [
+      "Diferença-chave do Abbe: pedículo NÃO é dividido — a comissura incluída resolve o inset; comissuroplastia tardia refina.",
+      "Planejar comissuroplastia de Converse pré-op — é parte do protocolo, não complicação."
+    ],
+    "citations": [
+      "Neligan, 2023, vol. 3, cap. 11, fig. 11.8; Kaufman, 2018, cap. 6, sec. 6.12"
+    ],
+    "updates": [],
+    "tags": [
+      "tecnica",
+      "estlander",
+      "comissura",
+      "lip-switch",
+      "comissuroplastia"
+    ]
+  },
+  {
+    "id": "labio-tec-008",
+    "type": "technique",
+    "title": "Retalho de Karapandzic (Rotação-Avanço Bilateral Neurovascular) — Neligan",
+    "aliases": [
+      "Karapandzic flap",
+      "neurovascular rotation advancement"
+    ],
+    "topic": "reconstrucao-de-labio",
+    "area": "reconstrucao-facial",
+    "indication": "Defeito full-thickness médio-grande do lábio inferior (ou superior) de 1/3 a 2/3 do comprimento horizontal com prioridade de competência oral. Única técnica de grande mobilização que preserva ramos neurovasculares (artéria labial + ramos bucais/marginais do VII).",
+    "contraindication": "> 2/3 do lábio (Bernard-Burow/Gillies/transferência livre); comissura isolada (Estlander é melhor); cicatrizes extensas impedindo dissecção.",
+    "steps": [
+      "1. Marcação de retalhos semicirculares bilaterais ao redor da boca, estendendo-se ao sulco melolabial e depois lateralmente.",
+      "2. Incisão a 0,5–1 cm paralela à rima em cada lado.",
+      "3. Dissecção meticulosa em torno dos feixes neurovasculares: artéria labial + ramos bucais/marginais do VII + ramos sensitivos terminais — preservados dentro do retalho.",
+      "4. Mobilização bilateral traz cada lado para o centro; cada lado traz metade da distância a ser coberta.",
+      "5. Inset em camadas (mucosa → orbicular → pele); white roll realinhado.",
+      "6. Dieta líquida-pastosa 2–3 semanas.",
+      "7. Comissuroplastia de Converse aos 6 meses se microstomia persistir."
+    ],
+    "complications": [
+      "Microstomia esperada (comissuroplastia tardia se persistir > 6 meses)",
+      "Rounding da comissura em dissecções laterais agressivas",
+      "Competência oral preservada na maioria (é o objetivo da técnica)"
+    ],
+    "pearls": [
+      "Karapandzic > Gillies fan sempre que a geometria permitir — preserva competência oral e sensibilidade.",
+      "Microstomia é resultado esperado, não complicação — discutir pré-op; distensão espontânea em semanas-meses."
+    ],
+    "citations": [
+      "Neligan, 2023, vol. 3, cap. 11, figs. 11.9 e 11.11",
+      "Karapandzic M. Br J Plast Surg. 1974"
+    ],
+    "updates": [],
+    "tags": [
+      "tecnica",
+      "karapandzic",
+      "rotacao-avanco",
+      "neurovascular",
+      "competencia-oral"
+    ]
+  },
+  {
+    "id": "labio-tec-009",
+    "type": "technique",
+    "title": "Retalho Gillies Fan (Fan Flap / McGregor Modification) — Neligan",
+    "aliases": [
+      "Gillies fan flap",
+      "McGregor modification",
+      "fan flap lábio"
+    ],
+    "topic": "reconstrucao-de-labio",
+    "area": "reconstrucao-facial",
+    "indication": "Defeitos full-thickness de 2/3 ou subtotais do lábio inferior onde Karapandzic é impossível por geometria (lateralização, extensão comissural). Rotação-avanço mais lateral e profunda que Karapandzic, recrutando tecido laxo da bochecha em leque.",
+    "contraindication": "Karapandzic viável (preferir em termos de competência oral); > 2/3 com perda óssea (transferência livre).",
+    "steps": [
+      "1. Marcação do semicírculo da comissura + back-cut lateral.",
+      "2. Dissecção lateral agressiva — sacrifício de ramos bucais é esperado.",
+      "3. Rotação aproximada de 180° cruzando a boca.",
+      "4. Inset em camadas (mucosa → orbicular → pele).",
+      "5. Comissuroplastia de Converse programada aos 6 meses."
+    ],
+    "complications": [
+      "Microstomia (mais marcada que no Karapandzic)",
+      "Drooling persistente por denervação bucal",
+      "Sensibilidade reduzida",
+      "Comissura blunt/rounded — comissuroplastia quase sempre necessária"
+    ],
+    "pearls": [
+      "Gillies fan é reserva para quando Karapandzic falha por geometria — não é primeira escolha.",
+      "Planejar comissuroplastia como segundo tempo obrigatório."
+    ],
+    "citations": [
+      "Neligan, 2023, vol. 3, cap. 11, fig. 11.11",
+      "Gillies & Millard. Principles and Art of Plastic Surgery, 1957"
+    ],
+    "updates": [],
+    "tags": [
+      "tecnica",
+      "gillies-fan",
+      "fan-flap",
+      "subtotal",
+      "labio-inferior"
+    ]
+  },
+  {
+    "id": "labio-tec-010",
+    "type": "technique",
+    "title": "Retalho de Bernard-Burow e Variantes (Webster / Freeman) — Neligan",
+    "aliases": [
+      "Bernard-Burow flap",
+      "Webster crescentic peri-alar",
+      "Freeman flap"
+    ],
+    "topic": "reconstrucao-de-labio",
+    "area": "reconstrucao-facial",
+    "indication": "Defeitos subtotais (> 2/3) ou totais do lábio inferior (ou superior) onde Karapandzic/Gillies não mobilizam tecido suficiente sem microstomia proibitiva. Recruta tecido das bochechas bilaterais via triângulos de Burow peri-alares.",
+    "contraindication": "Defeito ≤ 2/3 com geometria que permita Karapandzic (melhor competência oral); paciente com irradiação peri-alar extensa.",
+    "steps": [
+      "1. Excisão do defeito labial.",
+      "2. Variante Webster (mais popular): crescenticos peri-alares bilaterais (meia-lua) + incisões marionette.",
+      "3. Dissecção subcutânea profunda até mandíbula bilateral.",
+      "4. Vermelhão reconstruído com turn-down de mucosa gengivolabial ou FAMM flap.",
+      "5. Abbe central para filtro se aplicável (combinação Webster + Abbe).",
+      "6. Inset em camadas; white roll reconstruído.",
+      "7. Comissuroplastia tardia."
+    ],
+    "complications": [
+      "Denervação bucal bilateral (drooling)",
+      "Microstomia marcada",
+      "Trismus",
+      "Perda sensorial labial",
+      "Cicatriz conspícua marionette/peri-alar"
+    ],
+    "pearls": [
+      "Webster > Bernard original — crescenticos peri-alares preservam mais tecido e inervação.",
+      "Combinação Webster + Abbe central restaura filtro quando defeito é central amplo."
+    ],
+    "citations": [
+      "Neligan, 2023, vol. 3, cap. 11, fig. 11.9",
+      "Webster et al., 1960; Freeman, 1958"
+    ],
+    "updates": [],
+    "tags": [
+      "tecnica",
+      "bernard-burow",
+      "webster",
+      "crescentico-peri-alar",
+      "subtotal"
+    ]
+  },
+  {
+    "id": "labio-tec-011",
+    "type": "technique",
+    "title": "FAMM Flap (Facial Artery Musculomucosal Flap) — Neligan",
+    "aliases": [
+      "FAMM flap",
+      "Facial Artery Musculomucosal flap",
+      "retalho mucoso ventilante"
+    ],
+    "topic": "reconstrucao-de-labio",
+    "area": "reconstrucao-facial",
+    "indication": "Reconstrução de vermelhão ou defeito mucoso do lábio/comissura; revermilionização pós-excisão extensa; defeito de vermelhão em hemifacial microssomia. FAMM (Facial Artery Musculomucosal flap) é retalho mucoso-muscular axial na artéria facial.",
+    "contraindication": "Defeito de pele/orbicular (FAMM é só mucosa + bucinador parcial); cicatriz prévia no trajeto da artéria facial.",
+    "steps": [
+      "1. Doppler para mapear artéria facial em irradiados ou reoperações.",
+      "2. Planejamento do retalho na artéria facial ascendendo pela parede lateral entre mucosa bucal e bucinador.",
+      "3. Base superior ou inferior conforme localização do defeito.",
+      "4. Incisão mucosa longitudinal ao longo da bochecha; levantamento do retalho incluindo bucinador parcial + artéria facial.",
+      "5. Deslizamento transmural se necessário para cruzar o vermelhão.",
+      "6. Inset na área receptora; donor site fechado primariamente."
+    ],
+    "complications": [
+      "Distorção leve do sulco gengivolabial",
+      "Xerostomia transitória",
+      "Mismatch discreto de cor vermelhão-mucosa bucal"
+    ],
+    "pearls": [
+      "FAMM é única opção quando vermelhão está totalmente ausente e mucosa oral é a única fonte like-for-like.",
+      "Tatuagem de vermelhão tardia (3–6 meses) corrige mismatch de cor residual."
+    ],
+    "citations": [
+      "Pribaz JJ et al. PRS, 2000;105(3):864–872",
+      "Neligan, 2023, vol. 3, cap. 11, fig. 11.5"
+    ],
+    "updates": [],
+    "tags": [
+      "tecnica",
+      "FAMM",
+      "vermelhao",
+      "mucosa",
+      "arteria-facial"
+    ]
+  },
+  {
+    "id": "labio-tec-012",
+    "type": "technique",
+    "title": "Reconstrução Total do Lábio — Transferência Livre Microcirúrgica — Neligan",
+    "aliases": [
+      "total lip reconstruction",
+      "radial forearm lip",
+      "gracilis lip reconstruction",
+      "ALT anterolateral thigh lip"
+    ],
+    "topic": "reconstrucao-de-labio",
+    "area": "reconstrucao-facial",
+    "indication": "Perda total ou subtotal > 75% do lábio, frequentemente com perda de comissura/módiolo, pós-oncológica ampla ou trauma; Karapandzic/Bernard esgotados.",
+    "contraindication": "Paciente com comorbidades proibitivas para microcirurgia; defeitos menores com opções locorregionais disponíveis.",
+    "steps": [
+      "1. Avaliação multidisciplinar (oncologia, fonoaudiologia, protético).",
+      "2. Seleção do retalho: radial antebraquial (pele fina) + palmaris longus sling estático para tônus entre módiolos; ou gracilis neurotizado (restauração dinâmica com cross-face nerve graft do VII contralateral).",
+      "3. Retalho radial antebraquial: levantamento da paleta cutânea + tendão palmaris longus; anastomose à artéria facial e veias acompanhantes; sling de palmaris entre os módiolos.",
+      "4. Gracilis neurotizado: levantamento com ramo do obturatório; anastomose vascular + nerve coaptation ao ramo bucal contralateral via cross-face nerve graft; dois tempos em 12–24 meses.",
+      "5. Vermelhão por tatuagem tardia (3–6 meses pós-op).",
+      "6. Múltiplos refinamentos (3–5 cirurgias em 6–12 meses)."
+    ],
+    "complications": [
+      "Incompetência oral persistente mesmo com sling estático",
+      "Cicatriz conspícua",
+      "Drooling crônico sem esfíncter",
+      "Morbidade do sítio doador",
+      "Rigidez cutânea (ALT mais espessa que radial)"
+    ],
+    "pearls": [
+      "Gracilis neurotizado é a única opção com potencial de restauração dinâmica do esfíncter — complexa, em dois tempos, para pacientes jovens motivados.",
+      "Palmaris longus sling é solução estática simples — resultados funcionais modestos, mas melhora continência oral."
+    ],
+    "citations": [
+      "Neligan, 2023, vol. 3, cap. 11, figs. 11.13–11.15"
+    ],
+    "updates": [],
+    "tags": [
+      "tecnica",
+      "reconstrucao-total",
+      "radial-antebraquial",
+      "palmaris-longus",
+      "gracilis-neurotizado"
+    ]
+  }
+]

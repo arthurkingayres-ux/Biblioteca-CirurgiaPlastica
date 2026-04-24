@@ -1,0 +1,123 @@
+{
+  "id": "labio-fc-001",
+  "type": "flashcard",
+  "topic": "reconstrucao-de-labio",
+  "area": "reconstrucao-facial",
+  "cards": [
+    {
+      "front": "Quais são as sub-unidades do lábio superior e suas designações alfanuméricas?",
+      "back": "Filtro (5A) — central côncavo; Columnas filtrais (5B) — bilateral; Lateral superior (5C) — bilateral. Lábio inferior: unidade cutânea única (6A) + unidade mucosa/vermelhão (6B).",
+      "citation": "Kaufman, 2018, cap. 6; Neligan, 2023, vol. 3, cap. 11, figs. 11.1–11.2",
+      "domain": "anatomia"
+    },
+    {
+      "front": "Qual é o tamanho de degrau no white roll visível à distância conversacional?",
+      "back": "1 mm. Degrau ≥ 1 mm é perceptível a terceiros. Refazer na primeira semana se notado; Z-plastia tardia ≥ 6 meses para correção estabelecida.",
+      "citation": "Kaufman, 2018, cap. 6, sec. 6.1 key points",
+      "domain": "anatomia"
+    },
+    {
+      "front": "O que é white roll e por que deve ser marcado antes da infiltração?",
+      "back": "Crista esbranquiçada de ~1 mm na fronteira pele-vermelhão, terminação distal do orbicular. Infiltração anestésica distorce a crista por vasoconstricção (epinefrina) e edema (lidocaína) — marcação pré-infiltração é obrigatória.",
+      "citation": "Kaufman, 2018, cap. 6, sec. 6.1 key points",
+      "domain": "anatomia"
+    },
+    {
+      "front": "Qual artéria é o pedículo axial dos retalhos Abbe, Estlander e Karapandzic?",
+      "back": "Artéria labial — ramo da artéria facial emergindo na comissura, corre profundamente ao orbicular ~1 cm do vermelhão. Quatro artérias labiais (superior e inferior, D e E) formam arcada anastomótica peri-oral.",
+      "citation": "Neligan, 2023, vol. 3, cap. 11; Kaufman, 2018, cap. 6, sec. 6.12",
+      "domain": "anatomia"
+    },
+    {
+      "front": "Qual é a inervação sensitiva do lábio superior? E do lábio inferior?",
+      "back": "Lábio superior: nervo infraorbital (V2) — forame ~1 cm abaixo da margem orbitária na linha pupilar. Lábio inferior + mento: nervo mentoniano (V3) — forame mentoniano entre 1º e 2º pré-molares.",
+      "citation": "Neligan, 2023, vol. 3, cap. 11, figs. 11.1–11.2",
+      "domain": "anatomia"
+    },
+    {
+      "front": "Qual técnica de reconstrução labial preserva TANTO inervação motora (VII) quanto sensitiva (V) E vasculatura (artéria labial)?",
+      "back": "Karapandzic — é a única técnica de grande mobilização que preserva ramos bucais/marginais do VII + artéria labial + ramos sensitivos terminais, mantendo competência oral e sensibilidade.",
+      "citation": "Neligan, 2023, vol. 3, cap. 11, fig. 11.11; Karapandzic, Br J Plast Surg, 1974",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Qual é o algoritmo por tamanho de defeito no lábio inferior (Neligan 11.2)?",
+      "back": "< 1/3 → cunha com M-plastia (6.11) ou vermelionectomia + avanço mucoso. 1/3–2/3 → Karapandzic (eleição) ou Estlander (comissura). > 2/3 → Bernard-Burow/Webster ± Abbe central ou transferência livre.",
+      "citation": "Neligan, 2023, vol. 3, cap. 11, algoritmo 11.2",
+      "domain": "decisao"
+    },
+    {
+      "front": "Qual é a diferença principal entre o retalho de Abbe e o Estlander?",
+      "back": "Abbe: pedículo dividido em 3–4 semanas; indicado para defeito central do lábio superior (filtro). Estlander: pedículo NÃO dividido, comissura inclusa vira nova comissura; indicado para defeito comissural; comissuroplastia a 4–8 semanas.",
+      "citation": "Kaufman, 2018, cap. 6, sec. 6.12; Neligan, 2023, vol. 3, cap. 11, figs. 11.7–11.8",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Por que a vermilionectomia + avanço mucoso deve ser dissecada em plano superficial ao orbicular?",
+      "back": "A artéria labial corre profundamente ao orbicular ~1 cm do vermelhão. Descolamento superficial ao orbicular preserva a artéria. Cortar a artéria produz necrose do lábio reconstituído.",
+      "citation": "Kaufman, 2018, cap. 6, sec. 6.5 key points",
+      "domain": "tecnica"
+    },
+    {
+      "front": "O que é whistle deformity e como prevenir?",
+      "back": "Notching central no vermelhão inferior por reaproximação muscular deficiente. Prevenção: orbicular em duas camadas (pars marginalis + pars peripheralis) + alinhamento preciso do white roll no primeiro ponto.",
+      "citation": "Kaufman, 2018, cap. 6, sec. 6.11 key points",
+      "domain": "complicacao"
+    },
+    {
+      "front": "O que é elabium e como prevenir?",
+      "back": "Retração vertical do vermelhão por vetor cefálico de retalho de avanço cutâneo. Prevenção: linha de ancoragem absorvível enterrada ao longo do white roll + vetor ligeiramente cefálico no fechamento.",
+      "citation": "Kaufman, 2018, cap. 6, sec. 6.2 key points",
+      "domain": "complicacao"
+    },
+    {
+      "front": "Qual é o percentual mínimo de perda de lábio que produz incompetência oral se continuidade muscular não for restabelecida?",
+      "back": "> 30–40% de um dos lábios sem restabelecer continuidade do orbicular. Daí a primazia de Abbe (transfere esfíncter) e Karapandzic (redistribui esfíncter remanescente) em defeitos médios.",
+      "citation": "Neligan, 2023, vol. 3, cap. 11, Functional goals",
+      "domain": "fisiopatologia"
+    },
+    {
+      "front": "Qual é o teste bedside de competência oral?",
+      "back": "Pedir ao paciente que mantenha água na boca sem deglutir por 30 segundos. Escape pelo ângulo comissural ou pela rima indica incompetência do orbicular.",
+      "citation": "Kaufman, 2018, cap. 6; Neligan, 2023, vol. 3, cap. 11",
+      "domain": "decisao"
+    },
+    {
+      "front": "Em que momento é indicada comissuroplastia de Converse após Estlander? E após Gillies fan?",
+      "back": "Após Estlander: 4–8 semanas (comissura rounded esperada). Após Gillies fan e Bernard-Burow: 6 meses (microstomia e rounded mais persistentes).",
+      "citation": "Neligan, 2023, vol. 3, cap. 11; Kaufman, 2018, cap. 6, sec. 6.12",
+      "domain": "pos-operatorio"
+    },
+    {
+      "front": "O que é o FAMM flap e qual é sua indicação principal?",
+      "back": "FAMM = Facial Artery Musculomucosal flap — retalho mucoso-muscular na artéria facial entre mucosa bucal e bucinador. Indicado para reconstrução de vermelhão ou mucosa oral onde mucosa local está ausente ou insuficiente.",
+      "citation": "Pribaz JJ et al., PRS, 2000; Neligan, 2023, vol. 3, cap. 11, fig. 11.5",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Por que os tricones (standing cones) em cunha do lábio superior devem cruzar o white roll decididamente?",
+      "back": "Encurtar os tricones antes do white roll desvia o vermelhão inferiormente — deformidade permanente visível. Cruzar o white roll completamente garante que a cicatriz caia na junção natural e não tracione o vermelhão.",
+      "citation": "Kaufman, 2018, cap. 6, sec. 6.1, fig. 6.1E",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Qual sutura é preferida no vermelhão labial e por quê?",
+      "back": "Seda 5-0 ou 6-0 — macia e pouco reativa na mucosa úmida do vermelhão. Polipropileno ou nylon são mais rígidos e irritantes nessa localização.",
+      "citation": "Kaufman, 2018, cap. 6, secs. 6.1, 6.5, 6.11 key points",
+      "domain": "tecnica"
+    },
+    {
+      "front": "Qual é a opção de reconstrução que restaura esfíncter oral ATIVO (dinâmico) em perda total do lábio?",
+      "back": "Gracilis neurotizado com cross-face nerve graft do ramo bucal do VII contralateral. Complexo, em dois tempos (12–24 meses). Única opção com potencial de restauração dinâmica do esfíncter.",
+      "citation": "Neligan, 2023, vol. 3, cap. 11, figs. 11.13–11.15",
+      "domain": "tecnica"
+    }
+  ],
+  "tags": [
+    "flashcard",
+    "anatomia",
+    "tecnica",
+    "decisao",
+    "complicacao"
+  ]
+}
