@@ -41,9 +41,23 @@ function loadValidators() {
 }
 
 function* walkJson(dir) {
-  for (const name of readdirSync(dir)) {
+  let entries;
+  try {
+    entries = readdirSync(dir);
+  } catch (e) {
+    yield { __error: true, path: dir, message: `readdir: ${e.message}` };
+    return;
+  }
+  for (const name of entries) {
     const full = join(dir, name);
-    const st = statSync(full);
+    let st;
+    try {
+      st = statSync(full);
+    } catch (e) {
+      // Broken symlink, EACCES, transient I/O — surface as a failure, do not abort the run.
+      yield { __error: true, path: full, message: `stat: ${e.message}` };
+      continue;
+    }
     if (st.isDirectory()) yield* walkJson(full);
     else if (name.endsWith('.json') && !SKIP_FILES.has(name)) yield full;
   }
@@ -55,7 +69,13 @@ function main() {
   let failCount = 0;
   const failures = [];
 
-  for (const filePath of walkJson(CARDS_DIR)) {
+  for (const entry of walkJson(CARDS_DIR)) {
+    if (typeof entry === 'object' && entry.__error) {
+      failures.push({ file: relative(ROOT, entry.path), card: '<fs-error>', errors: [{ message: entry.message }] });
+      failCount++;
+      continue;
+    }
+    const filePath = entry;
     const baseName = filePath.split(/[\\/]/).pop();
     const type = FILE_TO_TYPE[baseName];
     if (!type) continue; // ignora flashcards individuais ou arquivos não-padrão sem ruído

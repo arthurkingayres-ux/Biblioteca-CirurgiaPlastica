@@ -78,6 +78,7 @@ Cards são gerados a partir dos documentos RAG. Consumidos pelo PWA.
 
 - `tools/rag_to_cards.js` — deriva cards atômicos a partir dos documentos RAG
 - `tools/build_rag_index.js` — gera `webapp/library/rag-index.json` (BM25) que alimenta o Chat IA
+- `tools/validate_cards_schema.mjs` — valida todos os `content/cards/<area>/<tema>/*.json` contra `schema.json` (AJV strict). Chamado por `rag_to_cards.js` ao final do pipeline e exigido em §11 antes de mergear sub-fase com cards novos.
 
 ### Estrutura canônica dos documentos RAG
 
