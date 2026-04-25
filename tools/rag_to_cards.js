@@ -17,6 +17,7 @@ const Anthropic = require('@anthropic-ai/sdk');
 const Ajv = require('ajv');
 const addFormats = require('ajv-formats');
 require('dotenv').config({ path: path.join(__dirname, '..', '.env') });
+const { spawnSync } = require('child_process');
 
 const ROOT = path.join(__dirname, '..');
 const MODEL = 'claude-haiku-4-5-20251001';
@@ -24,6 +25,17 @@ const DELAY_MS = 400;
 const MAX_RETRIES = 3;
 
 const PREFIXES = JSON.parse(fs.readFileSync(path.join(__dirname, 'topic_prefixes.json'), 'utf8'));
+
+function runStandaloneValidator() {
+  const r = spawnSync('node', [path.join(__dirname, 'validate_cards_schema.mjs')], {
+    encoding: 'utf8',
+    stdio: 'inherit',
+  });
+  if (r.status !== 0) {
+    console.error('\n[FATAL] validate_cards_schema.mjs falhou — abortando pipeline.');
+    process.exit(1);
+  }
+}
 
 // --- Markdown Parser ---
 
@@ -747,6 +759,12 @@ async function processTopic(client, validators, topic, area, dryRun) {
     console.log(`\nArquivos escritos em: content/cards/${area}/${topic}/`);
   } else {
     console.log('\n[DRY RUN] Nenhum arquivo escrito.');
+  }
+
+  if (!dryRun) {
+    console.log('\n[gate] Rodando validate_cards_schema.mjs no diretorio cards/...');
+    runStandaloneValidator();
+    console.log('[gate] OK — todos os cards passaram validacao final.');
   }
 
   // --- Summary ---

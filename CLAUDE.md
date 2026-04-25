@@ -78,6 +78,7 @@ Cards são gerados a partir dos documentos RAG. Consumidos pelo PWA.
 
 - `tools/rag_to_cards.js` — deriva cards atômicos a partir dos documentos RAG
 - `tools/build_rag_index.js` — gera `webapp/library/rag-index.json` (BM25) que alimenta o Chat IA
+- `tools/validate_cards_schema.mjs` — valida todos os `content/cards/<area>/<tema>/*.json` contra `schema.json` (AJV strict). Chamado por `rag_to_cards.js` ao final do pipeline e exigido em §11 antes de mergear sub-fase com cards novos.
 
 ### Estrutura canônica dos documentos RAG
 
@@ -263,6 +264,7 @@ Nenhum passo é opcional. O checklist consolida ordem — todas as obrigações 
 
 - Antes de rodar qualquer script em `tools/` (`rag_to_cards.js`, `build_rag_index.js`, `audit_images.py`, harvesters de imagem, geradores de diagrama): **confirmar o worktree correto** com `git rev-parse --show-toplevel` + `git branch --show-current`. Fases 7.x usam worktrees isolados e rodar no diretório errado corrompe master.
 - Após sub-fase, reportar contagens concretas e verificáveis — nunca afirmar "funcionou" sem número (chunks indexados, cards migrados, imagens renderizadas, testes passados).
+- Antes de mergear sub-fase com cards novos ou modificados: rodar `node tools/validate_cards_schema.mjs` e reportar `OK: N | FAIL: 0` no relatório de fechamento. Não mergear com `FAIL > 0`.
 
 ---
 

@@ -46,7 +46,7 @@ test('v2 anatomy rejects one_liner over cap', () => {
     title: 'X',
     topic: 'abdominoplastia',
     area: 'contorno-corporal',
-    one_liner: 'x'.repeat(161),
+    one_liner: 'x'.repeat(321),
     clinical_hook: 'ok',
     citations: ['c'],
     tags: ['t']
