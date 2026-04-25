@@ -1,165 +1,26 @@
 # Instruções do Agente — Biblioteca Inteligente de Cirurgia Plástica
 
-## Identidade do Projeto
+## Identidade
 
-Assistente do **Dr. Arthur Balestra Silveira Ayres**, residente de Cirurgia Plástica na UNICAMP (R2, 2025–2028). Construímos um digital companion: um PWA mobile-first para consultas rápidas e planejamento cirúrgico.
-
-**Produto principal:** Briefings pré-operatórias — material completo para planejamento cirúrgico, consultado no celular antes de cirurgias.
+Assistente do **Dr. Arthur Balestra Silveira Ayres**, residente de Cirurgia Plástica na UNICAMP (R2, 2025–2028). Produto principal: **briefings pré-operatórias** consultados no celular antes de cirurgias.
 
 **Pasta raiz:** `~/Documents/Biblioteca-CirurgiaPlastica/`
 
----
-
-## Arquitetura
-
-O projeto é composto de um **sistema RAG** + **2 motores** que o consomem:
-
-```text
-┌─────────────────────────────────────────────┐
-│          PWA Library (webapp/library/)       │
-│                                             │
-│   Tela inicial: 2 ícones                   │
-│   ┌──────────────┐  ┌──────────────┐       │
-│   │  Briefing    │  │   Chat IA    │       │
-│   │  Pré-Op      │  │              │       │
-│   │  (offline)   │  │  (online)    │       │
-│   └──────────────┘  └──────────────┘       │
-├─────────────────────────────────────────────┤
-│           Sistema RAG (invisível)           │
-│  Documentos unificados → Cards atômicos    │
-│  Fontes: livros-texto + artigos científicos │
-└─────────────────────────────────────────────┘
-```
-
-- **Sistema RAG**: camada de dados que o Dr. Arthur não vê. Um documento unificado por tema agregando livros-texto (ref. primárias) + artigos (ref. secundárias). O agente lê, edita e consulta livremente.
-- **Motor 1 — Briefing Pré-Op**: montado offline a partir de cards atômicos derivados do RAG. Anatomia, técnica, decisões, complicações — tudo para uma cirurgia específica.
-- **Motor 2 — Chat IA**: perguntas livres em linguagem natural. RAG fornece contexto, Claude API gera resposta. Requer internet.
-
-### Hierarquia de dados
-
-```text
-RAG unificado (fonte de verdade) → Cards atômicos (derivados) → PWA renderiza
-```
-
-Os cards devem sempre refletir a verdade científica do RAG. Se o RAG atualiza, os cards seguem.
+**Arquitetura completa:** [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md) é o SoT de arquitetura, motores PWA, sistema RAG, pipeline de artigos e estrutura de pastas. Consultar antes de qualquer decisão sobre o produto.
 
 ---
 
-## Sistema RAG
+## Onde está o quê
 
-### Duas camadas
-
-**Camada 1 — Documentos RAG** (fonte de verdade):
-
-```text
-content/rag/<area>/<tema>.md
-content/rag/<area>/_<horizontal>.md   # RAGs transversais (princípios, atlas) — área reconstrucao-facial
-```
-
-Um arquivo por tema cirúrgico. Documento completo — tudo sobre o tema, como um capítulo de referência. Agrega livros-texto + artigos numa narrativa densa. O Dr. Arthur não consome diretamente; o agente é o único consumidor.
-
-Arquivos prefixados `_` são **RAGs horizontais** (não ligados a um tema específico): referência compartilhada por vários temas da área — ex.: `_principios-reconstrucao.md` e `_atlas-retalhos.md` em `reconstrucao-facial/`.
-
-**Camada 2 — Cards atômicos** (derivados para o PWA):
-
-```text
-content/cards/<area>/<tema>/
-├── _meta.json       # Metadados (versão, referências, contagens)
-├── anatomia.json    # Estruturas, landmarks, relevância cirúrgica
-├── tecnicas.json    # Passos, indicações, complicações
-├── decisoes.json    # Árvores de decisão clínica
-├── notas.json       # Fisiopatologia, princípios, contexto
-└── flashcards.json  # Pares pergunta/resposta
-```
-
-Cards são gerados a partir dos documentos RAG. Consumidos pelo PWA.
-
-**Pipelines:**
-
-- `tools/rag_to_cards.js` — deriva cards atômicos a partir dos documentos RAG
-- `tools/build_rag_index.js` — gera `webapp/library/rag-index.json` (BM25) que alimenta o Chat IA
-- `tools/validate_cards_schema.mjs` — valida todos os `content/cards/<area>/<tema>/*.json` contra `schema.json` (AJV strict). Chamado por `rag_to_cards.js` ao final do pipeline e exigido em §11 antes de mergear sub-fase com cards novos.
-
-### Estrutura canônica dos documentos RAG
-
-Descrição completa em [`content/rag/_structure.json`](content/rag/_structure.json). Template para novos temas em [`content/rag/_template.md`](content/rag/_template.md). A estrutura espelha os capítulos do Neligan 5ed — headers em inglês, conteúdo em português brasileiro.
-
-### Estrutura dos cards atômicos (JSON)
-
-Descrição completa em [`content/cards/_structure.json`](content/cards/_structure.json). Schema JSON formal em [`content/cards/schema.json`](content/cards/schema.json). Cinco tipos: `anatomy`, `technique`, `decision`, `note`, `flashcard` — mais o badge `update` (inserido em qualquer card quando um artigo científico atualiza o conteúdo).
-
-### Referências primárias (livros-texto em `00-Livros-Texto/`)
-
-| Livro | Edição |
+| Tópico | Arquivo |
 | --- | --- |
-| Neligan's Plastic Surgery | 5ª Ed., Elsevier, 2023 (Vol 1–6) |
-| Grabb and Smith's Plastic Surgery | 9ª Ed., 2024 |
-| Neligan Core Procedures | 2ª Ed., Elsevier, 2020 |
-| Operative Dictations in Plastic and Reconstructive Surgery | — |
-| Craniofacial Trauma | 2ª Ed., 2019 |
-| Acessos Cirúrgicos ao Esqueleto Facial | 2ª Ed. (Ellis & Zyde) |
-| Practical Facial Reconstruction: Theory and Practice | — |
-| The Cutaneous Arteries of the Human Body | — |
-| High Definition Body Sculpting | — |
-
-Neligan 5ª Ed. é a base preferencial. Demais consultados conforme pertinência temática.
-
-### Referências secundárias (artigos científicos)
-
-Periódicos-alvo: PRS, ASJ, JPRAS, Annals, CPS, RBCP. Incorporados ao RAG via pipeline de varredura.
-
-**Regra fundamental:** Livros-texto são a BASE. Artigos COMPLEMENTAM — nunca substituem.
-
-### Temas implementados
-
-Lista viva em [`content/cards/manifest.json`](content/cards/manifest.json) (status `complete` vs `draft`). Expansão contínua tema a tema, conforme demanda do Dr. Arthur.
-
----
-
-## PWA Library (`webapp/library/`)
-
-O Dr. Arthur consome a biblioteca exclusivamente pelo iPhone.
-
-**Servir localmente:** `npm run dev` (porta 5173).
-
-**Tela inicial:** 2 ícones — Briefings Pré-Operatórias e Chat IA.
-
-### Motor 1 — Briefing Pré-Op (offline)
-
-- Busca por procedimento dentro da seção de briefings
-- Output: briefing montado automaticamente combinando cards relevantes
-  - Anatomia (subseção privilegiada, colapsável)
-  - Técnica passo a passo
-  - Decisões clínicas
-  - Complicações
-- Funciona offline — todo conteúdo em cache local
-
-### Motor 2 — Chat IA (online)
-
-- Perguntas livres em linguagem natural
-- RAG fornece contexto, Claude API gera resposta
-- Para comparações, nuances, perguntas que não cabem numa ficha
-- Requer internet
-
-**Hosting:** GitHub Pages (gratuito).
-
----
-
-## Pipeline de Artigos Científicos
-
-1. **Varredura** (sob demanda): agente busca PubMed → triagem IA → apresenta ao Dr. Arthur
-2. **Aprovação**: Dr. Arthur decide quais artigos merecem entrar no RAG
-3. **Download**: Dr. Arthur baixa PDFs via VPN UNICAMP → salva em `02-Artigos-Periodicos/_inbox/`
-4. **Incorporação**: agente lê PDF → atualiza documento RAG do tema no local exato → atualiza cards derivados
-
-### Critérios de triagem
-
-| Prioridade | Tipo de estudo |
-| --- | --- |
-| **ALTA** | Meta-análise / Revisão Sistemática / RCT com n > 30 |
-| **MÉDIA** | Estudo comparativo/coorte / Técnica nova com série > 20 casos |
-| **BAIXA** | Série de casos < 20 (apenas se tema raro) |
-| **EXCLUIR** | Relato isolado, estudo animal, editorial, carta ao editor |
+| Arquitetura, motores, fluxo de dados | [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md) |
+| Schema dos documentos RAG | [`content/rag/_structure.json`](content/rag/_structure.json) |
+| Template para novo tema RAG | [`content/rag/_template.md`](content/rag/_template.md) |
+| Schema descritivo dos cards | [`content/cards/_structure.json`](content/cards/_structure.json) |
+| Schema AJV strict dos cards | [`content/cards/schema.json`](content/cards/schema.json) |
+| Temas implementados (status) | [`content/cards/manifest.json`](content/cards/manifest.json) |
+| Pipelines | `tools/rag_to_cards.js`, `tools/build_rag_index.js`, `tools/validate_cards_schema.mjs` |
 
 ---
 
@@ -180,111 +41,94 @@ O Dr. Arthur consome a biblioteca exclusivamente pelo iPhone.
 
 ## Orquestração de Trabalho
 
-> Esta seção é a única fonte de verdade sobre quando e como usar os plugins e skills do Claude Code neste projeto. Não há outro arquivo de configuração paralelo.
+> Esta seção é a única fonte de verdade sobre quando e como usar os plugins e skills do Claude Code neste projeto.
 
 ### 1. Planejamento
 
-**TODA tarefa de planejamento segue o mesmo fluxo, sem exceção:**
+**TODA tarefa de planejamento segue:** plan mode (`EnterPlanMode`) → `superpowers:brainstorming` → `superpowers:writing-plans`. Sem julgamento de trivialidade. Gatilhos: "retome o projeto", "planeja X", "faça tal tarefa", "o que fazer agora", ou qualquer pedido que exija decidir abordagem. Comandos atômicos sem decisão ("rode esse teste", "leia tal arquivo") executam direto. Se a execução sair dos trilhos, PARAR e voltar ao fluxo.
 
-1. Entrar em plan mode (`EnterPlanMode`)
-2. Invocar `superpowers:brainstorming` dentro do plan mode — **OBRIGATÓRIO**
-3. Ao final do brainstorming, invocar `superpowers:writing-plans` — **OBRIGATÓRIO** para converter o design aprovado em plano executável
+**Exceção — execução autônoma após spec aprovado.** Quando o Dr. Arthur aprovar uma spec (em `docs/superpowers/specs/` ou `docs/specs/`), o fluxo é totalmente autônomo até o pré-merge:
 
-Se é planejamento (decidir o que/como fazer antes de executar), é plan mode + brainstorming + writing-plans — sem julgamento de trivialidade. Gatilhos: "retome o projeto", "planeja X", "faça tal tarefa", "o que fazer agora", ou qualquer pedido que exija decidir abordagem. Comandos atômicos sem decisão ("rode esse teste", "leia tal arquivo") executam direto. Se a execução sair dos trilhos, PARAR e voltar ao fluxo.
+1. Converter a spec em plano executável **sem reentrar em brainstorming**.
+2. Salvar o plano em `docs/superpowers/plans/` e seguir DIRETO para `superpowers:executing-plans` no MESMO turno. **A aprovação da spec É a aprovação do plano** — não apresentar plano para revisão, não pedir "OK para executar?", não pausar.
+3. Executar todas as sub-fases sequencialmente, com subagentes, sem pausar entre elas.
+4. Ao final de cada sub-fase: rodar suíte de testes, rodar `/code-review-board`, AUTO-APLICAR todos os findings (importantes E sugeridos), re-rodar testes.
+5. **ÚNICO PONTO DE PARADA:** antes do squash-merge, aguardando autorização explícita do Dr. Arthur.
 
-**Exceção — execução de plano aprovado:** quando (a) existe plano escrito em `docs/superpowers/plans/*.md`, (b) aprovado pelo Dr. Arthur, e (c) a sub-fase anterior foi fechada conforme §10, então "continue", "siga adiante", "próxima sub-fase" e equivalentes autorizam retomar a execução via `superpowers:executing-plans` sem reabrir brainstorming nem plan mode. Se for preciso alterar escopo, o plano ficou ambíguo, ou surgir decisão nova não coberta pelo plano → voltar ao fluxo de planejamento padrão.
+**Gatilho de auto-correção:** ao perceber-se prestes a escrever "segue plano para sua aprovação", "plano pronto para revisão", "aguardo OK para executar" ou variações — PARAR, salvar o plano sem comentário ostensivo, anunciar em UMA linha qual sub-fase começa agora e executar.
+
+Sinalizações como "siga adiante", "próximo passo", "continue", "merge autorizado" são gatilhos de continuidade — não reabrir planejamento. **Atrito permitido apenas em três situações:** bug imprevisto que impede progresso, decisão arquitetural fora do escopo da spec, ou finding de code review que muda a premissa do plano. Nesses casos PARAR e perguntar; em qualquer outro, prosseguir.
+
+**Exceção — continuidade entre sub-fases.** Quando (a) existe plano em `docs/superpowers/plans/*.md`, (b) aprovado pelo Dr. Arthur, e (c) a sub-fase anterior foi fechada conforme §10, então "continue", "siga adiante", "próxima sub-fase" autorizam retomar via `superpowers:executing-plans` sem reabrir brainstorming nem plan mode. Se for preciso alterar escopo ou surgir decisão nova → voltar ao fluxo padrão.
 
 ### 2. Execução
 
-- `superpowers:executing-plans` — **OBRIGATÓRIO** ao executar qualquer plano escrito (disciplina de commits, checklist por item)
-- `superpowers:test-driven-development` — **OBRIGATÓRIO** ao escrever código novo de produção (teste vermelho antes do código, sem exceção)
-- `superpowers:using-git-worktrees` — **OBRIGATÓRIO** ao iniciar feature que levará múltiplos commits ou trabalho isolado em paralelo
-- `superpowers:subagent-driven-development` — **OBRIGATÓRIO** quando a execução envolve subagentes executando passos do plano
-- `superpowers:dispatching-parallel-agents` — **OBRIGATÓRIO** ao enfrentar 2+ tarefas independentes que podem rodar simultaneamente
-- Subagentes liberalmente para preservar contexto: uma tarefa por agente, modelo por complexidade (Haiku/Sonnet simples, Opus complexas)
-- **Elegância** para mudanças não-triviais; simplicidade para o resto
+- `superpowers:executing-plans` — **OBRIGATÓRIO** ao executar qualquer plano escrito (disciplina de commits, checklist por item).
+- `superpowers:test-driven-development` — **OBRIGATÓRIO** ao escrever código novo de produção (teste vermelho antes do código, sem exceção).
+- `superpowers:using-git-worktrees` — **OBRIGATÓRIO** ao iniciar feature que levará múltiplos commits ou trabalho isolado em paralelo.
+- `superpowers:subagent-driven-development` — **OBRIGATÓRIO** quando a execução envolve subagentes executando passos do plano.
+- `superpowers:dispatching-parallel-agents` — **OBRIGATÓRIO** ao enfrentar 2+ tarefas independentes que podem rodar simultaneamente.
+- Subagentes liberalmente para preservar contexto: uma tarefa por agente, modelo por complexidade (Haiku/Sonnet simples, Opus complexas).
+- **Elegância** para mudanças não-triviais; simplicidade para o resto.
 
 ### 3. Debugging
 
-- `superpowers:systematic-debugging` — **OBRIGATÓRIO** ao encontrar qualquer bug
-- Quando o Dr. Arthur reporta um bug: corrigir autonomamente usando systematic-debugging como método. Zero troca de contexto exigida dele — não pedir passo a passo, simplesmente diagnosticar e corrigir.
+- `superpowers:systematic-debugging` — **OBRIGATÓRIO** ao encontrar qualquer bug.
+- Quando o Dr. Arthur reporta bug: corrigir autonomamente; zero troca de contexto exigida — não pedir passo a passo.
 
 ### 4. Verificação
 
-- `superpowers:verification-before-completion` — **OBRIGATÓRIO** antes de marcar qualquer tarefa como concluída. Rodar testes, checar logs, provar corretude — nunca marcar sem demonstrar que funciona.
+- `superpowers:verification-before-completion` — **OBRIGATÓRIO** antes de marcar qualquer tarefa concluída. Rodar testes, checar logs, provar corretude — nunca marcar sem demonstrar que funciona.
 
 ### 5. Code Review
 
-- `superpowers:finishing-a-development-branch` — **OBRIGATÓRIO** quando a implementação termina e o branch está pronto para virar PR
-- `superpowers:requesting-code-review` — **OBRIGATÓRIO** após completar feature significativa, antes de pedir review humano
-- `/code-review-board` (skill do projeto) — **OBRIGATÓRIO** antes de abrir PR e antes de mergear. Roda 6 reviewers especializados (rag-integrity, cards-schema, pwa-frontend, image-assets, docs-memory, general-swe) em paralelo e grava relatório em `docs/reviews/PR-<N>-YYYY-MM-DD.md`. É o **único** gate de review obrigatório do projeto; o humano revisa o relatório antes de commitar.
-- `/code-review:code-review` — opcional. Usar quando quiser segunda opinião externa (feature grande, mudança arquitetural). O gate obrigatório é `/code-review-board`.
-- `superpowers:receiving-code-review` — **OBRIGATÓRIO** ao processar apontamentos devolvidos por um review (humano ou automatizado)
+- `superpowers:finishing-a-development-branch` — **OBRIGATÓRIO** quando a implementação termina e o branch está pronto para virar PR.
+- `superpowers:requesting-code-review` — **OBRIGATÓRIO** após completar feature significativa.
+- `/code-review-board` (skill do projeto) — **OBRIGATÓRIO** antes de abrir PR e antes de mergear. Roda 6 reviewers especializados em paralelo e grava relatório em `docs/reviews/PR-<N>-YYYY-MM-DD.md`. **Único** gate de review obrigatório do projeto.
+- `/code-review:code-review` — opcional. Segunda opinião externa (feature grande, mudança arquitetural).
+- `superpowers:receiving-code-review` — **OBRIGATÓRIO** ao processar apontamentos devolvidos por um review (humano ou automatizado).
 
 ### 6. Loop de auto-aperfeiçoamento
 
-- Após QUALQUER correção do Dr. Arthur: registrar na memória imediatamente como regra que previna o mesmo erro
-- Revisar lições relevantes ao iniciar cada sessão
-- `superpowers:using-superpowers` é a meta-skill de entrada: verifica outras skills aplicáveis no início de cada turno. Deixar rodar sem bloquear.
+- Após QUALQUER correção do Dr. Arthur: registrar na memória imediatamente como regra que previna o mesmo erro.
+- Revisar lições relevantes ao iniciar cada sessão.
+- `superpowers:using-superpowers` é a meta-skill de entrada: verifica outras skills aplicáveis no início de cada turno.
 
 ### 7. MCPs
 
-- **`github`** — operações no repositório remoto (issues, PRs, branches, code search, leitura de outros repos). Usar quando fizer sentido; sem gatilho obrigatório.
-- **`context7`** — **OBRIGATÓRIO** antes de usar qualquer API de terceiros, ao encontrar sintaxe nova ou duvidosa, ao migrar versões de dependências, ou para debug de comportamento específico de biblioteca. **NÃO usar para:** refatoração de código próprio, debug de lógica de negócio, code review, conceitos gerais de programação.
-- **Playwright** — **OBRIGATÓRIO** para qualquer tarefa que exija browser: testar `webapp/library/` em mobile viewport, capturar screenshots para validar UI, navegar páginas renderizadas, verificar fluxos end-to-end (home → briefing → chat). **Preferir script standalone `npx` (ex: `tools/validate_briefings.mjs`) sobre MCP** — reproduzível, commitável, CI-ready, imune a falhas silenciosas de startup do servidor MCP. MCP fica como fallback para exploração interativa ao vivo. Lembrete: briefings usam `loading="lazy"`; scripts de validação devem forçar `eager` e aguardar `img.complete` antes de medir, senão reportam falsos positivos.
+- **`github`** — operações no repositório remoto (issues, PRs, branches, code search). Sem gatilho obrigatório.
+- **`context7`** — **OBRIGATÓRIO** antes de usar API de terceiros, sintaxe nova ou duvidosa, migração de versão de dependência, debug de comportamento específico de biblioteca. **NÃO usar** para refatoração própria, debug de lógica de negócio, code review, conceitos gerais.
+- **Playwright** — **OBRIGATÓRIO** para tarefa que exija browser: testar `webapp/library/` em mobile viewport, screenshots, fluxos end-to-end. **Preferir script standalone `npx`** (ex: `tools/validate_briefings.mjs`) sobre MCP — reproduzível, commitável, CI-ready. MCP fica como fallback interativo. Lembrete: briefings usam `loading="lazy"`; scripts de validação devem forçar `eager` e aguardar `img.complete` antes de medir.
 
 ### 8. Frontend
 
-- **`frontend-design:frontend-design`** — **OBRIGATÓRIO** consultar antes de implementar qualquer código de frontend (componentes, estilos, estrutura HTML/CSS/JS).
+- **`frontend-design:frontend-design`** — **OBRIGATÓRIO** consultar antes de implementar código de frontend.
 - **`ui-ux-pro-max:ui-ux-pro-max`** — **OBRIGATÓRIO** consultar antes de decisões de UI/UX (layout, interação, acessibilidade).
 - Vale também durante bug fix autônomo — `systematic-debugging` roda em paralelo com `frontend-design`.
 
 ### 9. Criação e edição de skills
 
-- `skill-creator:skill-creator` ou `superpowers:writing-skills` — **OBRIGATÓRIO** ao criar skill nova ou editar skill existente (do projeto ou global). Nunca improvisar a estrutura de uma skill.
+- `skill-creator:skill-creator` ou `superpowers:writing-skills` — **OBRIGATÓRIO** ao criar ou editar skill (do projeto ou global). Nunca improvisar a estrutura.
 
 ### 10. Disciplina de sub-fases
 
 Ao concluir sub-fase via `superpowers:subagent-driven-development`, seguir esta ordem fixa:
 
-1. **Rodar suíte de testes / validações** → reportar contagem explícita e verificável (ex.: "rag-index: 734 chunks OK", "BM25 regression: 6/6 green", "validate_briefings: 0 broken images"). Obrigação ancorada em §4.
-2. **`superpowers:finishing-a-development-branch`** → decidir PR vs merge direto vs cleanup. Obrigação ancorada em §5.
-3. **`/code-review-board`** → grava relatório em `docs/reviews/PR-<N>-YYYY-MM-DD.md`. Obrigação ancorada em §5.
-4. **PAUSAR** → aguardar Dr. Arthur revisar o relatório do board e autorizar. Sem autorização explícita, não mergear.
-5. **Se houver findings bloqueadores** → `superpowers:receiving-code-review` → corrigir → voltar ao passo 1. Obrigação ancorada em §5.
-6. **Squash-merge + delete branch + cleanup worktree**.
+1. **Rodar suíte de testes / validações** → reportar contagem explícita e verificável (ex.: "rag-index: 734 chunks OK", "BM25 regression: 6/6 green", "validate_briefings: 0 broken images").
+2. **`superpowers:finishing-a-development-branch`** → decidir PR vs merge direto vs cleanup.
+3. **`/code-review-board`** → grava relatório em `docs/reviews/PR-<N>-YYYY-MM-DD.md`.
+4. **Auto-aplicar findings do board** (importantes E sugeridos) via `superpowers:receiving-code-review` → re-rodar a suíte do passo 1 → repetir até zero findings bloqueadores. Se algum finding mudar a premissa do plano ou exigir decisão fora do escopo da spec, PARAR e perguntar.
+5. **PAUSAR — único ponto de espera do checklist** → aguardar autorização explícita do Dr. Arthur para o squash-merge ("merge autorizado", "pode mergear", "siga adiante").
+6. **Squash-merge + delete branch + cleanup worktree.**
 7. **Atualizar memória persistente da sub-fase** — arquivo novo `project_phaseX_Y_done.md` + linha de índice em `MEMORY.md`, citando o SHA do squash.
-8. **Reportar status final** com os números do passo 1 e o SHA do passo 7. PAUSAR e aguardar autorização antes de iniciar a próxima sub-fase, salvo instrução explícita de encadear.
+8. **Reportar status final** com os números do passo 1 e o SHA do passo 7, e seguir direto para a próxima sub-fase do plano. Pausas extras só em fronteiras de fase inteira ou instrução explícita do Dr. Arthur.
 
-Ao encerrar **fase inteira** (todas as sub-fases fechadas), além do checklist acima: atualizar `content/cards/manifest.json`, criar `project_phaseX_done.md` consolidando as sub-fases, e só então considerar a fase fechada.
+Ao encerrar **fase inteira** (todas as sub-fases fechadas): além do checklist acima, atualizar `content/cards/manifest.json`, criar `project_phaseX_done.md` consolidando as sub-fases.
 
-Nenhum passo é opcional. O checklist consolida ordem — todas as obrigações já estão ancoradas em §2–§5 e §11.
+Nenhum passo é opcional. Todas as obrigações já estão ancoradas em §2-§5 e §11.
 
 ### 11. Verificação operacional
 
-- Antes de rodar qualquer script em `tools/` (`rag_to_cards.js`, `build_rag_index.js`, `audit_images.py`, harvesters de imagem, geradores de diagrama): **confirmar o worktree correto** com `git rev-parse --show-toplevel` + `git branch --show-current`. Fases 7.x usam worktrees isolados e rodar no diretório errado corrompe master.
-- Após sub-fase, reportar contagens concretas e verificáveis — nunca afirmar "funcionou" sem número (chunks indexados, cards migrados, imagens renderizadas, testes passados).
+- Antes de rodar qualquer script em `tools/` (`rag_to_cards.js`, `build_rag_index.js`, `audit_images.py`, harvesters de imagem, geradores de diagrama): **confirmar o worktree correto** com `git rev-parse --show-toplevel` + `git branch --show-current`. Fases 7.x usam worktrees isolados; rodar no diretório errado corrompe master.
+- Após sub-fase, reportar contagens concretas e verificáveis — nunca afirmar "funcionou" sem número.
 - Antes de mergear sub-fase com cards novos ou modificados: rodar `node tools/validate_cards_schema.mjs` e reportar `OK: N | FAIL: 0` no relatório de fechamento. Não mergear com `FAIL > 0`.
-
----
-
-## Estrutura de Pastas
-
-```text
-~/Documents/Biblioteca-CirurgiaPlastica/
-├── 00-Livros-Texto/                # PDFs na íntegra — referências primárias
-├── 01-Documentos-Estudo/Imagens/   # Inbox de imagens curadas pelo Dr. Arthur
-├── 02-Artigos-Periodicos/          # PDFs de artigos + _inbox/ para novos downloads
-├── content/
-│   ├── rag/<area>/<tema>.md        # Documentos RAG unificados (fonte de verdade)
-│   └── cards/<area>/<tema>/        # Cards atômicos derivados (consumidos pelo PWA)
-├── assets/images/<tema>/           # Imagens renderizadas nos cards
-├── webapp/
-│   ├── approval/                   # PWA de aprovação/triagem de artigos
-│   └── library/                    # PWA principal (briefing pré-op + chat IA)
-├── tools/                          # Scripts Python e Node.js
-├── docs/superpowers/specs/         # Specs de design
-├── docs/superpowers/plans/         # Planos de execução (writing-plans)
-├── docs/evaluations/               # Avaliações de skills / pipelines
-└── CLAUDE.md                       # Este arquivo
-```
