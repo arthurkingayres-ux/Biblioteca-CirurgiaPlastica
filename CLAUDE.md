@@ -191,6 +191,8 @@ O Dr. Arthur consome a biblioteca exclusivamente pelo iPhone.
 
 Se é planejamento (decidir o que/como fazer antes de executar), é plan mode + brainstorming + writing-plans — sem julgamento de trivialidade. Gatilhos: "retome o projeto", "planeja X", "faça tal tarefa", "o que fazer agora", ou qualquer pedido que exija decidir abordagem. Comandos atômicos sem decisão ("rode esse teste", "leia tal arquivo") executam direto. Se a execução sair dos trilhos, PARAR e voltar ao fluxo.
 
+**Exceção — execução de plano aprovado:** quando (a) existe plano escrito em `docs/superpowers/plans/*.md`, (b) aprovado pelo Dr. Arthur, e (c) a sub-fase anterior foi fechada conforme §10, então "continue", "siga adiante", "próxima sub-fase" e equivalentes autorizam retomar a execução via `superpowers:executing-plans` sem reabrir brainstorming nem plan mode. Se for preciso alterar escopo, o plano ficou ambíguo, ou surgir decisão nova não coberta pelo plano → voltar ao fluxo de planejamento padrão.
+
 ### 2. Execução
 
 - `superpowers:executing-plans` — **OBRIGATÓRIO** ao executar qualquer plano escrito (disciplina de commits, checklist por item)
@@ -242,9 +244,20 @@ Se é planejamento (decidir o que/como fazer antes de executar), é plan mode + 
 
 ### 10. Disciplina de sub-fases
 
-- Ao concluir sub-fase via `superpowers:subagent-driven-development`: **PAUSAR** e aguardar autorização explícita do Dr. Arthur antes de iniciar a próxima sub-fase, salvo instrução de encadear.
-- Fechamento de sub-fase segue a ordem: rodar suíte de testes → reportar contagem pass/fail explícita (ex.: "rag-index: 734 chunks OK", "BM25 regression: 6/6 green") → rodar `/code-review-board` → endereçar bloqueadores apontados pelo board → mergear PR → limpar worktree/branch.
-- Ao encerrar fase inteira: atualizar memória persistente (`MEMORY.md` + arquivo `project_phaseX_done.md`) e `content/cards/manifest.json` antes de considerar a fase fechada.
+Ao concluir sub-fase via `superpowers:subagent-driven-development`, seguir esta ordem fixa:
+
+1. **Rodar suíte de testes / validações** → reportar contagem explícita e verificável (ex.: "rag-index: 734 chunks OK", "BM25 regression: 6/6 green", "validate_briefings: 0 broken images"). Obrigação ancorada em §4.
+2. **`superpowers:finishing-a-development-branch`** → decidir PR vs merge direto vs cleanup. Obrigação ancorada em §5.
+3. **`/code-review-board`** → grava relatório em `docs/reviews/PR-<N>-YYYY-MM-DD.md`. Obrigação ancorada em §5.
+4. **PAUSAR** → aguardar Dr. Arthur revisar o relatório do board e autorizar. Sem autorização explícita, não mergear.
+5. **Se houver findings bloqueadores** → `superpowers:receiving-code-review` → corrigir → voltar ao passo 1. Obrigação ancorada em §5.
+6. **Squash-merge + delete branch + cleanup worktree**.
+7. **Atualizar memória persistente da sub-fase** — arquivo novo `project_phaseX_Y_done.md` + linha de índice em `MEMORY.md`, citando o SHA do squash.
+8. **Reportar status final** com os números do passo 1 e o SHA do passo 7. PAUSAR e aguardar autorização antes de iniciar a próxima sub-fase, salvo instrução explícita de encadear.
+
+Ao encerrar **fase inteira** (todas as sub-fases fechadas), além do checklist acima: atualizar `content/cards/manifest.json`, criar `project_phaseX_done.md` consolidando as sub-fases, e só então considerar a fase fechada.
+
+Nenhum passo é opcional. O checklist consolida ordem — todas as obrigações já estão ancoradas em §2–§5 e §11.
 
 ### 11. Verificação operacional
 
