@@ -73,3 +73,6 @@ tools/_validation_deep/
 
 # Lock de tarefas agendadas do Claude Code
 .claude/scheduled_tasks.lock
+
+# Permissoes locais do Claude Code (allowlist por maquina, nao versionar)
+.claude/settings.local.json
