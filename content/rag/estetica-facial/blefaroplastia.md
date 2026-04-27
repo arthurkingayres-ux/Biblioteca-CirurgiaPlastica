@@ -208,12 +208,25 @@ Insere-se no **tubérculo de Whitnall**, localizado 2–3 mm posterior ao rebord
 
 **Relevância cirúrgica:** a excisão ou redução do ROOF pode ser realizada durante blefaroplastia superior ou brow lift para melhorar a definição da prega lateral e reduzir fullness sobre o rebordo lateral. A preservação do ROOF é preferida em pacientes com hollowing superior. Não confundir com gordura pré-aponeurótica (que está posterior ao septo). [Neligan, 2023, vol. 2, cap. 13; Grabb & Smith, 2024, cap. 51]
 
+#### SOOF (Suborbicularis Oculi Fat)
+
+**Definição:** plano de gordura **não-septada** profundo ao músculo orbicular, sobrejacente ao periósteo maxilar e zigomático na pálpebra inferior — análogo inferior do ROOF.
+
+**Localização:** entre a face posterior do orbicular pré-septal/orbital inferior e o periósteo do terço médio facial, estendendo-se inferolateralmente até a região malar. Anteriormente delimitado pelo ligamento de retenção orbicular (ORL); inferiormente confunde-se com a gordura malar.
+
+**Relevância cirúrgica:** o SOOF participa da descida gradual gravitacional dos tecidos moles do terço médio facial — sua atrofia e ptose deixam o rebordo infraorbitário esqueletizado e aprofundam o sulco palpebro-malar. Reposicionamento ou elevação do SOOF (cheek lift, midfacelift via blefaroplastia, suspensão à fáscia temporal profunda) sustenta retração involucional e cicatricial da pálpebra inferior e restaura contornos juvenis. **Distinção crítica:** o SOOF descido (mais branco e fibroso) **NÃO deve ser confundido com a gordura pré-aponeurótica amarela do compartimento lateral inferior** ou com a glândula lacrimal prolapsada. (Oculofacial BCSC Section 7, 2019-2020, cap. 9, p. 168; Lucarelli MJ et al. *Ophthalmic Plast Reconstr Surg* 2000;16(1):7-22 — anatomia do midfacial ptosis; Mendelson BC et al. *Plast Reconstr Surg* 2002;110(3):885-896)
+
 #### Ligamento de Whitnall
 
-Condensado fascial que atua como fulcro e suspensor do LPS na região onde a porção muscular transiciona em aponeurose. Localiza-se superiormente na órbita, ~10 mm acima do tarso superior. Estende-se da tróclea (medial) à glândula lacrimal (lateral).
+Condensado fascial — sleeve elástico ao redor do levantador — que atua como **fulcro e suspensor** do LPS na região onde a porção muscular transiciona em aponeurose. Localiza-se superiormente na órbita, ~10 mm acima do tarso superior. Estende-se da tróclea e tendão do oblíquo superior (medial) à glândula lacrimal (lateral). Lateralmente forma septos através do estroma da glândula lacrimal e curva-se para inserir na parede orbitária lateral milímetros acima do tubérculo orbitário, com fibras estendendo-se inferiormente para o retináculo lateral. Funcionalmente **transfere o vetor de força do levantador de uma direção ântero-posterior para superior-inferior** — sem o Whitnall, a contração do LPS não traduziria em elevação palpebral eficiente. Análogo na pálpebra inferior é o ligamento de Lockwood.
 
-- **Relevância cirúrgica:** marco anatômico para a transição do LPS de músculo para aponeurose. Importante referência em cirurgia de ptose e blefaroplastia superior quando se acessa o espaço pré-aponeurótico.
-- **Como identificar:** banda fibrosa transversal esbranquiçada visível profundamente na órbita superior quando se disseca acima da aponeurose do LPS. (Neligan, 2023, vol. 2, cap. 13)
+**Distinção crítica — Whitnall ≠ cornos do levator:** o ligamento de Whitnall **NÃO é o mesmo que os cornos da aponeurose levator**, embora ambos sejam estruturas suspensoras laterais. Os cornos situam-se **mais inferiores e mais voltados aos cantos** (Oculofacial BCSC Section 7, 2019-2020, cap. 9, p. 165, fig 9-18):
+
+- **Corno lateral do levator** — robusto; **divide a glândula lacrimal em lobos orbital e palpebral** ao atravessá-la lateralmente; insere-se firmemente no tubérculo orbitário lateral. Implicação: durante blefaroplastia superior, **o lobo palpebral da glândula lacrimal está acessível anteriormente, mas o lobo orbital fica protegido posteriormente pelo corno lateral** — manipulação cega lateral pode lesar ductos secretores.
+- **Corno medial do levator** — mais delicado; conexões frouxas ao aspecto posterior do tendão cantal medial e à crista lacrimal posterior.
+
+- **Relevância cirúrgica:** marco anatômico para a transição do LPS de músculo para aponeurose; referência em cirurgia de ptose e blefaroplastia superior ao acessar o espaço pré-aponeurótico. **Não confundir com o corno lateral** — o Whitnall é mais superior e elástico; o corno lateral é mais inferior, denso e atravessa a glândula lacrimal.
+- **Como identificar:** banda fibrosa transversal esbranquiçada visível profundamente na órbita superior quando se disseca acima da aponeurose do LPS. (Neligan, 2023, vol. 2, cap. 13; Oculofacial BCSC Section 7, cap. 9, pp. 164-165)
 
 [Imagem: blef-13-2-corte-horizontal-orbita.png]
 
@@ -299,6 +312,23 @@ O envelhecimento periórbital é multifatorial e envolve mudanças em todas as c
 
 [Imagem: blef-13-19-deflacao-bochecha-envelhecimento.png]
 [Imagem: blef-13-35-canto-lateral-envelhecimento.png]
+
+#### Bomba Lacrimal e Ciclo do Blink — implicação para blefaroplastia
+
+A drenagem lacrimal é um sistema **bombeado ativo**, dependente da contração orbicular durante o blink (Oculofacial BCSC Section 7, 2019-2020, cap. 14, fig 14-4). Compreender a fisiologia da bomba é essencial porque blefaroplastia agressiva ou denervação parcial do CN VII (sétimo par craniano / nervo facial) pode comprometê-la, gerando epífora **funcional** sem obstrução estrutural do sistema lacrimal.
+
+**Três fases do ciclo:**
+
+1. **Estado relaxado** — pontos lacrimais alinhados ao tear lake (papila ligeiramente invertida e aposta ao globo); saco lacrimal cheio.
+2. **Fechamento (downstroke do blink)** — a porção pré-tarsal do orbicular fecha pontos e canalículos; a porção pré-septal (fibras inserindo-se na fáscia do saco lacrimal — músculo de Horner posterior + cabeça profunda do pré-tarsal) **comprime o saco**, gerando **pressão positiva** que propele lágrimas pela ducto nasolacrimal (NLD) ao meato inferior através da válvula de Hasner.
+3. **Abertura (upstroke)** — orbicular relaxa; pontos e saco abrem; a recuperação elástica do saco gera **pressão negativa** que aspira lágrimas do tear lake para canalículos e saco através da válvula de Rosenmüller.
+
+**Implicações cirúrgicas para blefaroplastia (Oculofacial cap. 14, p. 283; cap. 9, p. 162):**
+
+- **Cuidado especial com a inserção pré-septal do orbicular ao saco lacrimal** durante dissecção medial/inferior — desinserir essa fibra prejudica a fase de pressão positiva.
+- **Blink fraco pós-blefaroplastia** (excesso de ressecção de orbicular pré-septal, lagoftalmo residual, edema prolongado) → bomba ineficiente → **epífora funcional crônica** sem obstrução do NLD ao teste de Jones.
+- Evaporação responde por ~10% da eliminação lacrimal em jovens e ≥20% em idosos; nestes, a função residual da bomba já está comprometida — agressividade cirúrgica tem custo maior.
+- Pacientes com função facial limítrofe pré-existente (Bell pálido, paresia subclínica do CN VII por procedimentos prévios) são candidatos de risco aumentado para epífora pós-blefaro — discutir explicitamente.
 
 ## Diagnosis / Patient Presentation
 
@@ -706,7 +736,17 @@ Este procedimento deve ser dominado por todo cirurgião plástico que realiza bl
 - Equimose esperada, dura 7–14 dias.
 - Fotoproteção rigorosa por 3–6 meses.
 
-(Neligan, 2023, vol. 2, caps. 13–14; Operative Dictations, 2017, caps. 8–10)
+### Regras invioláveis pós-blefaroplastia
+
+> **NÃO usar curativo compressivo após blefaroplastia.** Curativo oclusivo/compressivo é **CONTRA-INDICADO** porque (1) mascara os sinais iniciais de hemorragia retrobulbar — assimetria de proptose, escurecimento visual, dor desproporcional — atrasando o reconhecimento da emergência cirúrgica e a janela de 60–100 minutos para descompressão antes de isquemia retiniana irreversível; (2) aumenta a pressão intra-orbital, agravando a síndrome compartimental se houver sangramento ativo. Compressas frias intermitentes (sem oclusão) são o padrão. (Oculofacial BCSC Section 7, 2019-2020, cap. 12, p. 262)
+>
+> **Observação ativa nas primeiras 24 h.** Paciente deve ser instruído sobre sinais de alarme (dor desproporcional, swelling assimétrico significativo, proptose nova, escurecimento ou borramento visual) e ter via direta de retorno emergencial à equipe — sem aguardar reavaliação ambulatorial.
+
+### Regra inviolável da marcação superior
+
+> **≥ 20 mm de pele residual entre a borda inferior da sobrancelha e a margem palpebral após excisão.** Esta é uma medida de segurança contra lagoftalmo e exposição corneana — violar essa margem (típico em pacientes com brow ptosis subjacente não diagnosticada e blefaroplastia agressiva isolada) gera fechamento pálpebral incompleto, ceratopatia de exposição e, em casos extremos, ulceração corneana. A medida é tomada COM o paciente sentado, olhos abertos em repouso, frontal não contraído, e pinch test confirmando que a faixa marcada para excisão pode ser pinçada sem deformar a posição da margem ou do supercílio. **Sempre tratar brow ptosis primeiro ou concomitantemente** quando presente — blefaroplastia superior agressiva isolada com brow ptosis subjacente leva a maior rebaixamento do supercílio e violação retrospectiva da regra dos 20 mm. (Neligan, 2023, vol. 2, cap. 13; Oculofacial BCSC Section 7, cap. 12, p. 261, fig 12-26; cap. 12, p. 263)
+
+(Neligan, 2023, vol. 2, caps. 13–14; Operative Dictations, 2017, caps. 8–10; Oculofacial BCSC Section 7, 2019-2020, cap. 12)
 
 ## Outcomes and Complications
 

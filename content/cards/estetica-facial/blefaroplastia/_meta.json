@@ -2,14 +2,15 @@
   "topic": "blefaroplastia",
   "area": "estética-facial",
   "displayName": "Blefaroplastia",
-  "version": "v1.1",
-  "date": "2026-04-11",
+  "version": "v1.2",
+  "date": "2026-04-26",
   "status": "complete",
   "references": [
     "Neligan 5ed vol.2 caps. 13-14",
     "Grabb & Smith 9ed cap. 51",
     "Neligan Core Procedures 2ed cap. 3",
-    "Operative Dictations caps. 8-10"
+    "Operative Dictations caps. 8-10",
+    "Oculofacial Plastic and Orbital Surgery (BCSC Section 7, 2019-2020) caps. 9, 12, 14"
   ],
   "articles": [
     "Stein MJ et al. PRS 2025;155(5):895-901",
