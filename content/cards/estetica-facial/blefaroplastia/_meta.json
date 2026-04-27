@@ -2,7 +2,7 @@
   "topic": "blefaroplastia",
   "area": "estética-facial",
   "displayName": "Blefaroplastia",
-  "version": "v1.2",
+  "version": "v1.3",
   "date": "2026-04-26",
   "status": "complete",
   "references": [
@@ -22,7 +22,7 @@
     "Todorov D et al. ASJ 2025;45(6):554-562"
   ],
   "cardCounts": {
-    "anatomia": 20,
+    "anatomia": 21,
     "tecnicas": 12,
     "decisoes": 4,
     "notas": 12,

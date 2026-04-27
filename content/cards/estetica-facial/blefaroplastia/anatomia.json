@@ -763,5 +763,45 @@
       "Whitnall",
       "hammock"
     ]
+  },
+  {
+    "id": "blef-anat-021",
+    "type": "anatomy",
+    "title": "SOOF (Suborbicularis Oculi Fat)",
+    "aliases": [
+      "suborbicularis fat",
+      "gordura suborbicular",
+      "SOOF"
+    ],
+    "topic": "blefaroplastia",
+    "area": "estética-facial",
+    "one_liner": "Plano de gordura não-septada profundo ao orbicular inferior, sobre periósteo maxilar/zigomático — análogo inferior do ROOF.",
+    "structures": [
+      {
+        "label": "SOOF (Suborbicularis Oculi Fat)",
+        "description": "Entre face posterior do orbicular pré-septal/orbital inferior e periósteo do terço médio facial; estende-se inferolateralmente até região malar."
+      },
+      {
+        "label": "Limites",
+        "description": "Anteriormente delimitado pelo ligamento de retenção orbicular (ORL); inferiormente confunde-se com gordura malar."
+      }
+    ],
+    "clinical_hook": "Atrofia/ptose esqueletiza rebordo infraorbitário e aprofunda sulco palpebro-malar. Reposicionamento via cheek lift, midfacelift por blefaro ou suspensão à fáscia temporal profunda sustenta retração inferior e restaura contorno juvenil. SOOF descido (branco, fibroso) ≠ gordura pré-aponeurótica amarela do compartimento lateral inferior.",
+    "how_to_identify": "Plano não-septado profundo ao orbicular inferior, sobre periósteo maxilar/zigomático. Acessível via dissecção subperiosteal ou pré-periosteal através de blefaroplastia inferior transcutânea ou via temporal/midface lift.",
+    "citations": [
+      "Oculofacial Plastic and Orbital Surgery (BCSC Section 7, 2019-2020), cap. 9, p. 168",
+      "Lucarelli MJ et al. Ophthalmic Plast Reconstr Surg 2000;16(1):7-22",
+      "Mendelson BC et al. Plast Reconstr Surg 2002;110(3):885-896",
+      "Neligan, 2023, vol. 2, cap. 14"
+    ],
+    "updates": [],
+    "tags": [
+      "anatomia",
+      "SOOF",
+      "gordura",
+      "suborbicular",
+      "midface",
+      "blefaroplastia-inferior"
+    ]
   }
 ]
