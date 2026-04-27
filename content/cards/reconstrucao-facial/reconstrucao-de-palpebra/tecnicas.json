@@ -1,0 +1,567 @@
+[
+  {
+    "id": "palpebra-tec-001",
+    "type": "technique",
+    "title": "Fechamento Direto de Defeito Parcial da Pálpebra Inferior (< 33%)",
+    "aliases": [
+      "fechamento primario palpebra inferior",
+      "cunha pentagonal palpebra",
+      "cantolise inferior fechamento direto"
+    ],
+    "topic": "reconstrucao-de-palpebra",
+    "area": "reconstrucao-facial",
+    "indication": "Defeito full-thickness ou superficial até ~33% da margem palpebral inferior (tipicamente ≤ 5 mm). Indicado com laxidez moderada-alta; defeitos em pacientes idosos com pele frouxa frequentemente fecham sem cantólise. Opção de primeira linha na escada reconstrutiva inferior (Oculofacial cap.11, fig 11-11A).",
+    "contraindication": "Defeito > 33% da margem (tensão excessiva → notching e retração tardia); pacientes jovens com pálpebra rígida sem cantólise disponível; defeito medial ao punctum lacrimal (exige avaliação canalicular + stent de Crawford antes do fechamento).",
+    "steps": [
+      "1. Avaliação da laxidez: pinch test da margem. Se os bordos se aproximam sem tensão excessiva, fechar direto; se resistência, planejar cantólise lateral.",
+      "2. Anestesia local: lidocaína 2% + epinefrina 1:100.000; bloqueio infraorbital complementar.",
+      "3. Converter o defeito para forma pentagonal (vértice inferior, ângulo ~30-45°): excisão de cunhas tarsais paralelas em ambas as bordas para regularizar e perpendicular a margem.",
+      "4. Ponto-chave de alinhamento — tarsus-tarsus: vicryl ou poliglactina 5-0 ou 6-0, parcial-espessura, não atravessando a conjuntiva (evitar abrasão corneana). Este ponto determina a estabilidade de toda a sutura marginal (Oculofacial cap.11, p.222).",
+      "5. Sutura de margem em três planos: gray line (seda ou prolene 6-0), lash line (seda 6-0), mucocutaneous junction (seda 6-0); cabos longos para fora com nó externo para evitar contato com córnea.",
+      "6. Fechamento do orbicular: vicryl 5-0 separado, enterrado.",
+      "7. Pele: prolene 6-0 ou nylon 7-0 separado.",
+      "8. Cantólise lateral inferior (se necessária): cantotomia de 5-7 mm do canto para temporal, seguida de secção do limbo inferior do LCT com tesoura de ponta fina — libera 3-5 mm de mobilização medial (Oculofacial cap.11, p.222). Confirmar liberação ao aproximar os bordos digitalmente."
+    ],
+    "complications": [
+      "Notching marginal por alinhamento impreciso do tarsus-tarsus — corrige com Z-plastia na margem após 3-6 meses",
+      "Retração e ectrópio tardio se fechamento foi realizado sob tensão vertical excessiva",
+      "Telecanto pós-fechamento se cunha medial ultrapassou a carúncula (preservar > 2 mm da carúncula)",
+      "Lesão canalicular não diagnosticada ao fechar defeito medial sem sondagem prévia"
+    ],
+    "pearls": [
+      "O ponto tarsus-tarsus (vicryl 5-0 ou 6-0, parcial-espessura) é o âncora de toda a linha de sutura marginal — realizá-lo primeiro, antes da gray line.",
+      "Cabos longos das suturas de margem devem apontar para fora e ser fixados na pele com micropore ou ponto de convergência — nunca deixar cair sobre a córnea.",
+      "Cantólise lateral inferior ganha 3-5 mm; cantólise medial (limbo inferior do MCT) ganha outros 2-3 mm adicionais em defeitos medianos — mas exige atenção ao canalículo inferior adjacente."
+    ],
+    "images": [],
+    "citations": [
+      "Oculofacial cap.11, pp.222-223, fig 11-11A",
+      "Jackson cap.7, p.355"
+    ],
+    "updates": [],
+    "tags": [
+      "tecnica",
+      "fechamento-direto",
+      "palpebra-inferior",
+      "cantolise-lateral",
+      "cunha-pentagonal"
+    ]
+  },
+  {
+    "id": "palpebra-tec-002",
+    "type": "technique",
+    "title": "Fechamento Direto de Defeito Parcial da Pálpebra Superior (< 33%)",
+    "aliases": [
+      "fechamento primario palpebra superior",
+      "release LCT superior",
+      "cunha pentagonal palpebra superior"
+    ],
+    "topic": "reconstrucao-de-palpebra",
+    "area": "reconstrucao-facial",
+    "indication": "Defeito full-thickness até ~33% da margem palpebral superior; Bell's reflex preservado; sem laceração do levantador documentada. Default da escada reconstrutiva superior para defeitos pequenos (Oculofacial cap.11, fig 11-9A).",
+    "contraindication": "Defeito > 33% (avançar para Tenzel superior); Bell's reflex ausente ou parético (risco de exposição corneana com reconstrução sub-ótima); laceração do levantador não reparada (exige reparo antes do fechamento marginal).",
+    "steps": [
+      "1. Avaliação pré-op: Bell's reflex (rotação supero-lateral do globo ao fechar forçado), função do levantador, simetria do MRD1 (Marginal Reflex Distance 1 — distância reflexo pupilar à margem superior).",
+      "2. Anestesia local: lidocaína 2% + epinefrina 1:100.000; bloqueio supraorbital + supratroclear.",
+      "3. Converter o defeito para forma pentagonal com vértice superior — cunhas tarsais nas duas bordas, paralelas à margem.",
+      "4. Ponto tarsus-tarsus: vicryl 5-0 ou 6-0 parcial-espessura, sem atravessar a conjuntiva.",
+      "5. Sutura marginal em três planos: gray line + lash line + mucocutaneous junction com seda 6-0; cabos longos externos.",
+      "6. Fechamento do orbicular: vicryl 5-0 enterrado.",
+      "7. Pele: prolene 6-0.",
+      "8. Release do limbo superior do LCT (se necessário): cantotomia lateral superior de 5-7 mm, depois secção do limbo superior do LCT — libera 3-5 mm de mobilização medial sem comprometer o limbo inferior (Oculofacial cap.11, p.220).",
+      "9. Cuidado especial: evitar destruir os canalículos lacrimais glandulares na porção lateral da pálpebra superior — sua perda gera olho seco crônico (Oculofacial cap.11, p.220)."
+    ],
+    "complications": [
+      "Ptose leve transitória (pálpebra apertada/ptótica por algumas semanas, relaxa progressivamente)",
+      "Lagoftalmo noturno se fechamento sob tensão vertical excessiva — lubrificação noturna preventiva por 4-6 semanas",
+      "Lesão dos canalículos lacrimais glandulares laterais durante cantólise (olho seco crônico)",
+      "Notching marginal por alinhamento impreciso"
+    ],
+    "pearls": [
+      "A pálpebra superior tolera menos tensão de fechamento que a inferior — na dúvida, preferir Tenzel superior a fechar com tensão.",
+      "Ptose pós-op imediata é esperada e não deve ser tratada — resulta do edema e da tensão marginal, e resolve em 2-4 semanas.",
+      "Em jovens com pele rígida, a cantólise pode não ser suficiente — considerar tarsal sharing inferior (enxerto tarsoconjuntival contralateral + avanço cutâneo) como alternativa one-stage."
+    ],
+    "images": [],
+    "citations": [
+      "Oculofacial cap.11, p.220, fig 11-9A",
+      "Jackson cap.7, p.385"
+    ],
+    "updates": [],
+    "tags": [
+      "tecnica",
+      "fechamento-direto",
+      "palpebra-superior",
+      "release-LCT-superior",
+      "cantolise"
+    ]
+  },
+  {
+    "id": "palpebra-tec-003",
+    "type": "technique",
+    "title": "Retalho Semicircular de Tenzel (33-50% — Superior ou Inferior)",
+    "aliases": [
+      "Tenzel semicircular flap",
+      "retalho semicircular palpebral",
+      "Tenzel inferior",
+      "Tenzel superior",
+      "retalho semicircular 33 a 50%"
+    ],
+    "topic": "reconstrucao-de-palpebra",
+    "area": "reconstrucao-facial",
+    "indication": "Defeito full-thickness 33-50% da margem palpebral inferior ou superior, quando fechamento direto + cantólise é insuficiente e a técnica de eyelid-sharing (Hughes/Cutler-Beard) não é desejada ou disponível. Técnica de um único estágio — vantagem sobre abordagens em dois tempos (Tenzel & Stewart, Ophthalmology 1978 — PMID: 740411).",
+    "contraindication": "Defeito > 50% da margem (insuficiente — avançar para Hughes na inferior ou Cutler-Beard na superior); jovens com pele temporal rígida sem laxidez; proximidade < 2 cm do canto lateral a estruturas que o cirurgião não está confortável em dissecar superficialmente (zona CN VII frontal).",
+    "steps": [
+      "1. Marcação com paciente em posição de cadeira ou decúbito dorsal, antes da infiltração.",
+      "2. Pálpebra inferior: marcar incisão semicircular superior ao canto lateral, ascendendo do canto até logo abaixo da extremidade lateral do supercílio, em arco de raio ~2-3 cm. Pálpebra superior: espelho — incisão semicircular inferior ao canto lateral, descendo em arco.",
+      "3. Anestesia local: lidocaína 2% + epinefrina 1:100.000; bloqueio infraorbital (inferior) ou supraorbital (superior).",
+      "4. Cantotomia lateral: incisão de 5-7 mm do canto em direção temporal.",
+      "5. Cantólise: inferior — limbo inferior do LCT (pálpebra inferior); superior — limbo superior do LCT (pálpebra superior). Libera 3-5 mm de mobilização medial.",
+      "6. Incisão semicircular: plano superficial ao longo de todo o arco para preservar o ramo frontal do CN VII dentro da zona de 2 cm do canto lateral (Oculofacial cap.11, p.221).",
+      "7. Descolamento subcutâneo do retalho semicircular: plano supraperiosteal lateral, plano subdérmico medial.",
+      "8. Mobilização do retalho medialmente (inferior: medial + levemente superior; superior: medial + levemente inferior).",
+      "9. Reaproximação tarsus-tarsus + alinhamento marginal: gray line, lash line, mucocutaneous junction (seda 6-0, cabos longos externos).",
+      "10. Cantopexia lateral: ressuspender o coto do LCT ao periósteo do tubérculo orbital lateral em altura nativa — vicryl 4-0 ou prolene 4-0. A cantopexia é obrigatória para evitar arredondamento do canto (Oculofacial cap.11, p.224).",
+      "11. Fechamento da incisão semicircular: orbicular profundo + pele superficial (prolene 5-0)."
+    ],
+    "complications": [
+      "Canto lateral arredondado — mitigado por incisão muito alta, cruzando a porção lateral do supercílio (Oculofacial cap.11, p.224)",
+      "Paresia do ramo frontal do CN VII por descolamento profundo dentro da zona de 2 cm do canto lateral",
+      "Ectrópio se o retalho fechou sob tensão vertical residual e a cantopexia foi omitida",
+      "Deiscência da cantopexia com retorno do arredondamento do canto (revisão com fio permanente)"
+    ],
+    "pearls": [
+      "A incisão semicircular deve ser alta — Oculofacial cap.11, p.224 afirma que cruzar a porção lateral do supercílio é o que evita o canto arredondado, mesmo que produza cicatriz levemente mais visível.",
+      "Plano SUPERFICIAL dentro de 2 cm do canto lateral é inegociável — ramo frontal do CN VII corre sobre o SMAS nessa zona; descolamento sub-SMAS = paresia do frontal.",
+      "Cantopexia ao tubérculo de Whitnall é o último passo antes da pele — omiti-la é a causa mais comum de resultado estético insatisfatório no Tenzel."
+    ],
+    "images": [],
+    "citations": [
+      "Tenzel RR, Stewart WB. Ophthalmology. 1978;85(11):1164-1169 (PMID: 740411)",
+      "Oculofacial cap.11, p.222 e p.224, fig 11-11B"
+    ],
+    "updates": [],
+    "tags": [
+      "tecnica",
+      "tenzel",
+      "semicircular",
+      "33-50-por-cento",
+      "cantopexia-lateral",
+      "palpebra-inferior",
+      "palpebra-superior"
+    ]
+  },
+  {
+    "id": "palpebra-tec-004",
+    "type": "technique",
+    "title": "Hughes Modificado — Tarsoconjuntival Pediculado em 2 Estágios (> 50% Inferior)",
+    "aliases": [
+      "Hughes modificado",
+      "tarsoconjunctival flap Hughes",
+      "Hughes two-stage",
+      "retalho tarsoconjuntival pediculado inferior",
+      "eyelid-sharing inferior"
+    ],
+    "topic": "reconstrucao-de-palpebra",
+    "area": "reconstrucao-facial",
+    "indication": "Defeito full-thickness ≥ 50% da margem palpebral inferior em adulto não-monocular. Padrão-ouro contemporâneo para defeitos extensos da margem inferior — série moderna de 91 pacientes com taxa de sucesso > 95% (Leibovitch et al., Ophthalmology 2004 — PMID: 15582070). Preferido quando pálpebra superior ipsilateral está íntegra e sem blefaroptose grave.",
+    "contraindication": "Pacientes pediátricos (oclusão visual prolongada → ambliopia por privação — Oculofacial cap.11, p.224); paciente monocular (oclusão do único olho funcional por 3-4 semanas inaceitável); pálpebra superior com defeito contralateral simultâneo ou scarring extenso; não-cooperativos para o pós-operatório (penso oclusivo, restrição de atividade).",
+    "steps": [
+      "ESTÁGIO 1:",
+      "1. Everter pálpebra superior com retrator de Desmarres ou sutura de tração (seda 4-0 pela margem).",
+      "2. Marcar incisão horizontal através do tarso superior: 4-5 mm acima da margem — REGRA INVIOLÁVEL: preservar ≥ 4-5 mm marginais do tarso doador; remover menos causa retração/instabilidade da pálpebra superior (Oculofacial cap.11, p.224).",
+      "3. Incisão completa do tarso e limbos verticais até o fórnice superior (ou 2-3 mm além).",
+      "4. Dissecar plano entre tarso e músculo de Müller — incluir conjuntiva no retalho mas NÃO levantar a aponeurose levantadora (sua inclusão causaria ptose retrátil pós-op).",
+      "5. Retalho pediculado de base superior, suprido pela arcada periférica (entre levantador e Müller). Avançar inferiormente através do defeito.",
+      "6. Suturar tarso doador ao tarso recipiente (lateralmente e medialmente) com vicryl 5-0; conjuntiva-conjuntiva com vicryl 6-0.",
+      "7. Cobrir lamela anterior do defeito: retalho cutâneo local (avanço miocutâneo subiliar) OU enxerto cutâneo FTSG da pálpebra superior contralateral (primeira escolha) ou retroauricular.",
+      "8. Penso oclusivo (Frost suture) sobre pálpebra superior elevada — a ponte conjuntival ocluirá o eixo visual por 3-4 semanas.",
+      "ESTÁGIO 2 (3-4 semanas depois):",
+      "9. Anestesia local + lidocaína tópica 5%.",
+      "10. Identificar o pedículo conjuntival; secção horizontal 1 mm ACIMA do nível desejado da nova margem inferior (1 mm extra para acomodar retração).",
+      "11. Fechamento conjuntival do coto superior com vicryl 7-0 contínuo; abertura da fenda palpebral.",
+      "12. Massagem ascendente da nova margem inferior por 6 semanas pós-divisão."
+    ],
+    "complications": [
+      "Entrópio do segmento reconstruído (~10-15%) — secção excessiva durante divisão ou contração tarsal; corrige com release + reposicionamento de cílios (Leibovitch et al., PMID: 15582070)",
+      "Retração da pálpebra superior doadora se < 4 mm marginais preservados",
+      "Ambliopia por privação em crianças (contraindicação absoluta em < 8-10 anos)",
+      "Ressecamento corneano sob a ponte durante as 3-4 semanas — lubrificação intensiva (colírio a cada 2h + pomada noturna)",
+      "Sangramento da arcada periférica durante dissecção — controle bipolar focal, evitar cautério monopolar próximo ao globo"
+    ],
+    "pearls": [
+      "Preservar ≥ 4-5 mm marginais do tarso doador superior é a regra mais crítica do estágio 1 — remover menos causa ectrópio ou retração do doador que requer reoperação.",
+      "Dividir o pedículo com 1 mm de sobra (acima do nível desejado) compensa a retração pós-divisão — a nova margem 'sobe' ligeiramente após a secção.",
+      "A cobertura da lamela anterior com pálpebra superior contralateral (FTSG) ou avanço miocutâneo é tão importante quanto o Hughes em si — planejar as duas lamelas juntas, não sequencialmente."
+    ],
+    "images": [],
+    "citations": [
+      "Hughes WL. Arch Ophthalmol. 1937;17(6):1008-1017",
+      "Leibovitch I et al. Ophthalmology. 2004;111(12):2164-2169 (PMID: 15582070)",
+      "Oculofacial cap.11, p.224, fig 11-12"
+    ],
+    "updates": [],
+    "tags": [
+      "tecnica",
+      "hughes-modificado",
+      "tarsoconjuntival-pediculado",
+      "dois-estagios",
+      "palpebra-inferior",
+      "eyelid-sharing"
+    ]
+  },
+  {
+    "id": "palpebra-tec-005",
+    "type": "technique",
+    "title": "Cutler-Beard — Retalho em Ponte de Pálpebra Inferior (> 50% Superior)",
+    "aliases": [
+      "Cutler-Beard",
+      "bridge flap eyelid",
+      "retalho em ponte palpebra inferior",
+      "eyelid-sharing superior",
+      "full-thickness bridge flap"
+    ],
+    "topic": "reconstrucao-de-palpebra",
+    "area": "reconstrucao-facial",
+    "indication": "Defeito > 50% da margem palpebral superior com perda total ou quase total da lamela posterior superior; pálpebra inferior íntegra com altura suficiente como doadora; adulto não-monocular. Indicado quando enxerto tarsoconjuntival livre + retalho cutâneo one-stage não é suficiente pelo tamanho do defeito (Cutler & Beard, AJO 1955 — PMID: 13218107).",
+    "contraindication": "Crianças (ambliopia por privação durante 6-8 semanas de oclusão — Oculofacial cap.11, p.221); monoculares; pálpebra inferior pequena, cicatrizada ou com déficit de altura; paciente não-cooperativo; alternativa preferida em monoculares e crianças: enxerto tarsoconjuntival livre contralateral + retalho cutâneo (one-stage, sem oclusão visual).",
+    "steps": [
+      "ESTÁGIO 1:",
+      "1. Marcar incisão horizontal sub-ciliar na pálpebra inferior, 4-5 mm abaixo da margem inferior (preservando margem inferior + tarso inferior + arcada marginal inferior).",
+      "2. Incisões verticais que se estendem do limite lateral e medial da marca horizontal até o fórnice inferior — criando retalho full-thickness em ponte (pele + orbicular + cápsulopalpebral fascia + conjuntiva), de base inferior.",
+      "3. Avançar o retalho superiormente, ATRÁS da margem inferior preservada ('bridge under the lower lid margin'), até o defeito superior.",
+      "4. Suturar as camadas posteriores (conjuntiva-conjuntiva; cápsulopalpebral fascia ao resíduo de tarso ou ao periósteo) e as camadas anteriores (orbicular + pele).",
+      "5. Margem inferior remanescente fica como ponte sobre o globo durante 6-8 semanas.",
+      "ESTÁGIO 2 (6-8 semanas depois):",
+      "6. Secção horizontal na altura desejada da nova margem superior — ligeiramente acima (1 mm extra para retração).",
+      "7. Reconstrução da margem superior — sem cílios (limitação cosmética permanente do Cutler-Beard).",
+      "8. Reaproximação da margem inferior remanescente ao seu próprio coto inferior."
+    ],
+    "complications": [
+      "Entrópio do segmento reconstruído — complicação cardinal (Carroll, Ophthalmology 1983 — PMID: 6646643); secção do pedículo em altura inadequada ou contração do tarso doado",
+      "Pálpebra superior espessa e relativamente imóvel — o retalho não carrega aponeurose levantadora, resultando em pálpebra reconstruída com ptose funcional moderada",
+      "Ausência de cílios na margem superior reconstruída — limitação cosmética permanente",
+      "Ambliopia em pediatria — contraindicação absoluta (oclusão visual 6-8 semanas)",
+      "Exposição corneana inferior durante as 6-8 semanas de ponte — lubrificação intensiva obrigatória"
+    ],
+    "pearls": [
+      "A alternativa moderna em monoculares e crianças é o enxerto tarsoconjuntival livre contralateral + retalho músculo-cutâneo one-stage (avanço preseptal ou Tripier) — evita oclusão visual, preserva cílios quando o retalho carrega lash line (Oculofacial cap.11, p.221).",
+      "Secção do pedículo em altura conservadora (1 mm acima do nível desejado) reduz a incidência de entrópio — a contração pós-divisão é previsível.",
+      "Ausência de aponeurose levantadora no retalho Cutler-Beard é razão pela qual a pálpebra superior reconstruída tende à ptose — discutir expectativas cosméticas com o paciente antes da cirurgia."
+    ],
+    "images": [],
+    "citations": [
+      "Cutler NL, Beard C. Am J Ophthalmol. 1955;39(1):1-7 (PMID: 13218107)",
+      "Carroll RP. Ophthalmology. 1983;90(9):1052-1055 (PMID: 6646643)",
+      "Oculofacial cap.11, pp.220-221, fig 11-10"
+    ],
+    "updates": [],
+    "tags": [
+      "tecnica",
+      "cutler-beard",
+      "palpebra-superior",
+      "dois-estagios",
+      "eyelid-sharing",
+      "retalho-em-ponte"
+    ]
+  },
+  {
+    "id": "palpebra-tec-006",
+    "type": "technique",
+    "title": "Mustardé Bochecha-Rotação para Pálpebra Inferior (> 50% Lamela Anterior)",
+    "aliases": [
+      "Mustardé cheek rotation eyelid",
+      "retalho de bochecha palpebra inferior",
+      "Mustardé palpebral",
+      "cheek rotation lower eyelid"
+    ],
+    "topic": "reconstrucao-de-palpebra",
+    "area": "reconstrucao-facial",
+    "indication": "Defeito > 50% predominantemente da lamela anterior (pele + orbicular ± SMAS) da pálpebra inferior, ou defeito full-thickness extenso onde a lamela posterior é reposta com enxerto tarsoconjuntival livre/Hughes e a lamela anterior necessita de pedículo grande. Indicado quando a reserva de pele temporal é suficiente (Jackson cap.7, pp.355-361).",
+    "contraindication": "Defeito apenas posterior (Hughes ou enxerto tarsoconjuntival resolve); fumantes ativos (necrose distal mais frequente em retalho extenso; cessar ≥ 4 sem pré-op); pele zigomática rígida sem reservatório lateral adequado; cicatrizes pretragais prévias impedindo descolamento.",
+    "steps": [
+      "1. Marcação com paciente sentado: a partir do canto lateral, incisão inclinada cefalicamente (não horizontal) para evitar tração descendente da margem inferior — seguindo o sulco palpebromalar até a porção lateral do supercílio, depois descendo em arco preauricular.",
+      "2. Cantotomia lateral + cantólise inferior: libera a margem remanescente e reduz tensão vertical durante a rotação.",
+      "3. Descolamento subcutâneo em defeitos médios; sub-SMAS em defeitos grandes para recrutamento amplo e preservação do plexo subdérmico (ver reconstrucao-de-bochecha.md § 'Vascularização').",
+      "4. Reposição da lamela posterior em defeito full-thickness: enxerto condromucoso septal (técnica Mustardé clássica — Jackson cap.7, p.357) ou enxerto tarsoconjuntival livre da pálpebra superior ipsilateral. Mucosa bucal isolada apenas para defeitos curtos.",
+      "5. Ancoragem periosteal CRÍTICA: vicryl 3-0 ou prolene 4-0 da derme profunda do retalho ao periósteo do rebordo orbital inferior, em altura ligeiramente superior à margem original (sobrecorrigir ~2 mm para acomodar relaxamento tardia).",
+      "6. Cantopexia lateral ao tubérculo orbital lateral: prolene 4-0 ou vicryl 4-0.",
+      "7. Sutura em camadas: orbicular profundo (vicryl 4-0), pele (prolene 5-0 ou 6-0).",
+      "8. Z-plastia opcional na extremidade temporal lateral para equalizar excesso de pele (Jackson cap.7, p.360)."
+    ],
+    "complications": [
+      "Ectrópio cicatricial — complicação cardinal; prevenida por incisão cefalicamente inclinada, ancoragem periosteal robusta, sobrecorreção de ~2 mm e cantopexia lateral",
+      "Paresia do ramo frontal do CN VII — descolamento profundo dentro de 2 cm do canto lateral",
+      "Paresia dos ramos zigomático e bucal — descolamento sub-SMAS muito anterior à parótida",
+      "Necrose distal do retalho em fumantes (~5-10%); taxa < 2% em não-fumantes (Jackson cap.7, p.361)",
+      "Sagging lateral por encurtamento da lining — corrige com release + FTSG pequeno ou Tripier (Jackson cap.7, p.361)"
+    ],
+    "pearls": [
+      "A ancoragem periosteal ao rebordo orbital inferior é o gesto que previne o ectrópio — Mustardé sem ancoragem é o mesmo que instalar uma carga vertical permanente sobre a pálpebra inferior reconstruída.",
+      "Incisão cefalicamente inclinada a partir do canto lateral é a chave do Mustardé correto — incisão horizontal retilínea cria vetor descendente e resulta em ectrópio tardio quase universal.",
+      "Sobrecorrigir 2 mm na ancoragem é deliberado e necessário: o retalho inevitavelmente afunda com a gravidade nas primeiras semanas (relaxamento laminar médio)."
+    ],
+    "images": [],
+    "citations": [
+      "Mustardé JC. Repair and Reconstruction in the Orbital Region, 2ª Ed. Churchill Livingstone, 1980",
+      "Jackson cap.7, pp.355-361",
+      "Oculofacial cap.11, p.225, fig 11-13"
+    ],
+    "updates": [],
+    "tags": [
+      "tecnica",
+      "Mustardé",
+      "bochecha-rotacao",
+      "palpebra-inferior",
+      "ancoragem-periosteal",
+      "ectropio-cicatricial"
+    ]
+  },
+  {
+    "id": "palpebra-tec-007",
+    "type": "technique",
+    "title": "Reconstrução de Canto Lateral",
+    "aliases": [
+      "canto lateral reconstrucao",
+      "retalho romboide canto lateral",
+      "retalho periosteal canto",
+      "semicircular canto lateral",
+      "Y-pedicle periosteal"
+    ],
+    "topic": "reconstrucao-de-palpebra",
+    "area": "reconstrucao-facial",
+    "indication": "Defeitos do canto lateral após excisão tumoral (BCC, SCC) ou trauma. A abordagem depende da profundidade: anterior isolada (pele + orbicular), posterior isolada (lamela tarsal), ou full-thickness combinada. Primeira linha em defeitos pequenos: extensão do retalho Tenzel. Zona de risco do ramo frontal do CN VII: 2 cm ao redor do canto (Oculofacial cap.9, p.156).",
+    "contraindication": "Qualquer retalho nessa zona que exija descolamento sub-SMAS dentro de 2 cm do canto lateral sem visualização direta do ramo frontal; técnica de retalho periosteal sem periosteo lateral disponível (irradiação prévia extensa).",
+    "steps": [
+      "1. Avaliar profundidade: defeito anterior apenas (pele + orbicular) vs posterior (tarso + conjuntiva) vs full-thickness.",
+      "2. Defeito ANTERIOR pequeno-médio: retalho rombóide de Limberg lateral (60°/120°) — pele temporal é usualmente redundante; fechar defeito secundário antes, depois transpor. Geometria em _atlas-retalhos.md § 'Retalho rombóide' (Oculofacial cap.11, p.226, fig 11-14).",
+      "3. Defeito MÉDIO ANTERIOR: extensão do retalho semicircular de Tenzel — incisão alta, cruzando supercílio lateral, descolamento superficial dentro de 2 cm do canto.",
+      "4. Defeito POSTERIOR isolado (lamela tarsal do canto): retalho periosteal simples — elevar faixa horizontal (5-7 mm) do periósteo do rebordo orbital lateral, basculá-la medialmente como suporte tarsal substituto; cobrir com FTSG retroauricular (Oculofacial cap.11, p.226, fig 11-15).",
+      "5. Defeito POSTERIOR com perda dos limbos superior E inferior (LCT inteiro): retalho periosteal em Y — um braço superior e um inferior do periósteo, cobrindo ambas as lamelas cantais, mais FTSG anterior.",
+      "6. Defeito FULL-THICKNESS combinado: retalho pediculado da pálpebra superior (Tripier unilateral) como cobertura anterior + retalho periosteal posterior + cantopexia de reconstrução (reinserção do LCT ao periósteo do tubérculo de Whitnall).",
+      "7. Cantopexia de reconstrução: fio permanente (prolene 0) ou vicryl 0 inserindo o LCT reconstruído no tubérculo de Whitnall, 2-5 mm dentro do rebordo orbital lateral, em altura nativa (2 mm acima do MCT).",
+      "8. Plano superficial em todo o descolamento dentro de 2 cm do canto lateral."
+    ],
+    "complications": [
+      "Paresia do ramo frontal do CN VII — descolamento profundo (sub-SMAS) dentro da zona de 2 cm do canto lateral",
+      "Arredondamento do canto lateral por LCT insuficientemente ancorado ou cantopexia de baixa qualidade",
+      "Retração tarsal por retalho periosteal insuficiente ou necrose (irradiação prévia)",
+      "Cicatriz temporal visível se rombóide mal orientado em relação às RSTL"
+    ],
+    "pearls": [
+      "\"The temporal branch of the facial nerve should be avoided when incising the flap\" — Oculofacial cap.11, p.221. Plano superficial dentro de 2 cm do canto lateral é não-negociável.",
+      "O retalho periosteal é elegante para defeitos posteriores isolados — não exige doador secundário, é vascular, e o periósteo orbital lateral é usualmente acessível mesmo após cirurgias prévias.",
+      "Em defeitos full-thickness do canto lateral, a cantopexia de reconstrução (reinserção do LCT ao tubérculo de Whitnall) determina a posição final da fenda palpebral — a altura de inserção deve replicar a posição nativa (2 mm acima do MCT)."
+    ],
+    "images": [],
+    "citations": [
+      "Oculofacial cap.11, p.226, figs 11-14 e 11-15",
+      "Oculofacial cap.9, p.156, fig 9-7",
+      "Grabb 9ed cap.35"
+    ],
+    "updates": [],
+    "tags": [
+      "tecnica",
+      "canto-lateral",
+      "retalho-periosteal",
+      "rombóide",
+      "cantopexia",
+      "CN-VII-frontal"
+    ]
+  },
+  {
+    "id": "palpebra-tec-008",
+    "type": "technique",
+    "title": "Reconstrução de Canto Medial e Telecanto",
+    "aliases": [
+      "canto medial reconstrucao",
+      "granulacao segunda intencao canto medial",
+      "FTSG canto medial",
+      "retalho glabelar canto medial",
+      "telecanto transnasal",
+      "medial canthal reconstruction"
+    ],
+    "topic": "reconstrucao-de-palpebra",
+    "area": "reconstrucao-facial",
+    "indication": "Defeitos do canto medial pós-excisão tumoral (BCC/sebáceo — zona de maior recorrência subclínica, Mohs preferencial), pós-trauma (avulsão do MCT), ou pós-blefaroplastia cicatricial. Zona côncava — cicatrização secundária produz excelente resultado cosmético em defeitos pequenos-médios (Oculofacial cap.11, p.226).",
+    "contraindication": "Reconstrução definitiva ANTES de confirmação oncológica de margens livres — defeito medial tem alta taxa de envolvimento subclínico por BCC morfeaforme; aguardar clearance de Mohs/frozen sections. Retalho glabelar em pacientes jovens com pele de coloração muito diferente da pálpebra (mismatch prolongado).",
+    "steps": [
+      "OPÇÃO 1 — Granulação por segunda intenção (defeitos pequenos em concavidade):",
+      "1. Curativo com pomada antibiótica (bacitracina ou mupirocina) e gazes não-aderentes.",
+      "2. Troca diária; lubrificação corneana profilática.",
+      "3. Resultado cosmético excelente em 3-6 semanas — a concavidade favorece a contração centrípeta (Oculofacial cap.11, p.226).",
+      "OPÇÃO 2 — FTSG (defeitos médios ou quando segunda intenção inadequada):",
+      "4. Doador de eleição: pálpebra superior contralateral (match perfeito de espessura, textura e pigmentação — PMID: 2400335); alternativas: retroauricular, pré-auricular, supraclavicular.",
+      "5. Preparar leito: debridamento mínimo, hemostasia bipolar, periostio exposto como base vascular.",
+      "6. Enxerto com leve sobre-tamanho (~10-15%); fixação com suturas de seda 6-0 perimetrais + tie-over.",
+      "OPÇÃO 3 — Retalho glabelar/frontal mediano (defeitos extensos):",
+      "7. Transposição de pele glabelar para defeitos extensos do canto medial e dorso nasal alto (Fox, AJO 1972 — PMID: 4654293).",
+      "8. Desvantagem: pele espessa e de cor diferente; pode encobrir detecção precoce de recidiva tumoral — necessário segundo estágio de afinamento.",
+      "TELECANTO PARO-TRAUMÁTICO (MCT avulsionado):",
+      "9. Limbo superior ou inferior avulsionado, posterior intacto → sutura à crista lacrimal anterior (vicryl 4-0).",
+      "10. MCT inteiro avulsionado, sem fratura naso-orbital → fios transnasais (aço 26-28 ou prolene 0) através da crista lacrimal posterior.",
+      "11. MCT inteiro avulsionado + fratura naso-orbital → redução/fixação da fratura + fios transnasais ou miniplate em Y (Oculofacial cap.11, p.215).",
+      "12. Reposicionamento do canto 2-3 mm posterior à crista lacrimal anterior para restaurar perfil sagital (Oculofacial cap.11, p.215).",
+      "LESÃO LACRIMAL ASSOCIADA:",
+      "13. Canalículo lacerado: stent de Crawford (silicone bicanalicular) por 3-6 meses + sutura epitélio-a-epitélio vicryl 7-0.",
+      "14. Sacrifício extenso de canalículos: tolerar epífora até clearance oncológico (1-2 anos), depois CDCR (conjunctivodacriocistorrinostomia) com tubo de Lester-Jones."
+    ],
+    "complications": [
+      "Recidiva tumoral encoberta por retalho glabelar espesso — surveillance endoscópica/imagiológica regular após reconstrução de canto medial em BCC morfeaforme",
+      "Telecanto não-corrigido por inserção tardia do MCT em altura ou profundidade incorreta",
+      "Estenose canalicular por reparo inadequado ou stent de Crawford retirado precocemente",
+      "Epífora funcional por destruição da bomba lacrimal (perda do orbicular pretarsal) mesmo com via lacrimal patente",
+      "Cicatrização inadequada do FTSG em leito irradiado (baixa taxa de pega)"
+    ],
+    "pearls": [
+      "O canto medial é a zona de maior taxa de recorrência subclínica de BCC — a reconstrução definitiva NUNCA deve preceder a confirmação de margens livres por Mohs ou frozen sections.",
+      "Granulação por segunda intenção no canto medial é uma escolha — não uma resignação. A concavidade cria resultado cosmético frequentemente superior ao FTSG, sem morbidade de doador.",
+      "Reinserção do MCT ao periostio da crista lacrimal POSTERIOR (não apenas anterior) é o que mantém a apposição da margem ao globo — o limbo posterior do MCT é o elemento funcional mais crítico."
+    ],
+    "images": [],
+    "citations": [
+      "Oculofacial cap.11, pp.215 e 226-228, fig 11-16",
+      "Fox SA. Am J Ophthalmol. 1972;74(5):947-949 (PMID: 4654293)",
+      "Holds JB, Anderson RL. Arch Ophthalmol. 1990;108(8):1162-1163 (PMID: 2400335)"
+    ],
+    "updates": [],
+    "tags": [
+      "tecnica",
+      "canto-medial",
+      "granulacao-segunda-intencao",
+      "FTSG",
+      "retalho-glabelar",
+      "telecanto",
+      "MCT-avulsao",
+      "via-lacrimal"
+    ]
+  },
+  {
+    "id": "palpebra-tec-009",
+    "type": "technique",
+    "title": "Enxertos Tarsoconjuntivais e Substitutos Posteriores",
+    "aliases": [
+      "enxerto tarsoconjuntival livre",
+      "mucosa bucal palpebra",
+      "palato duro palpebra",
+      "cartilagem auricular spacer",
+      "substitutos laminares posteriores",
+      "posterior lamellar graft"
+    ],
+    "topic": "reconstrucao-de-palpebra",
+    "area": "reconstrucao-facial",
+    "indication": "Reconstrução da lamela posterior (tarso + conjuntiva) em defeitos que não comportam retalho pediculado (Hughes ou Cutler-Beard) — monoculares, crianças, defeitos one-stage, defeitos após múltiplos estágios. Indica-se também como spacer para retração lamelar média (fibrose do septum/orbicular) pós-blefaroplastia (PMID: 20048607).",
+    "contraindication": "Palato duro na pálpebra superior (epitélio queratinizado irrita córnea em contato prolongado com epitélio de transição superior — usar apenas na inferior); derme acelular sem cobertura vascularizada sobreposta (não pega sem pedículo anterior); cartilagem auricular sem recobrimento conjuntival/mucoso (superfície crua contra córnea = úlcera).",
+    "steps": [
+      "1. Hierarquia de substitutos posteriores — escolha por ordem (Oculofacial cap.11, p.218 e p.224):",
+      "   a) Enxerto tarsoconjuntival livre da pálpebra superior contralateral — primeira linha; preservar 4-5 mm marginais do doador; coberto por retalho cutâneo vascular (regra: uma lamela = um pedículo).",
+      "   b) Mucosa bucal — quando apenas conjuntiva está faltando; sem suporte estrutural rígido; apenas defeitos pequenos da pálpebra inferior.",
+      "   c) Palato duro (mucoso-perioesteal) — bom suporte estrutural; EXCLUSIVO da pálpebra inferior (epitélio queratinizado tolera contato com a córnea apenas inferiormente).",
+      "   d) Cartilagem auricular — suporte rígido sem epitélio; recobrimento conjuntival ou mucoso obrigatório; usado como spacer em retração lamela média.",
+      "   e) Derme acelular humana (AlloDerm®) — spacer moderno para retração lamelar média (PMID: 20048607); evita doador secundário.",
+      "   f) Esclera de banco — opção histórica, substituída por derme acelular.",
+      "   g) Septum nasal condro-mucoso (Mustardé) — boa rigidez + lining mucoso em uma peça (Jackson cap.7, p.357); modernamente menos utilizado pela morbidade do doador.",
+      "2. COLHEITA do enxerto tarsoconjuntival livre:",
+      "   — Everter pálpebra superior doadora; marcar a 4-5 mm da margem.",
+      "   — Incisão horizontal completa do tarso; dissecção acompanhando o plano entre tarso e Müller; incluir conjuntiva.",
+      "   — Hemostasia bipolar; pálpebra doadora fecha por segunda intenção ou sutura direta.",
+      "3. COLHEITA de mucosa bucal:",
+      "   — Face interna da bochecha ou lábio inferior; enxerto 2-3 mm maior que o defeito (contração previsível).",
+      "   — Fechar o doador com vicryl 3-0 ou deixar cicatrizar por segunda intenção.",
+      "4. COLHEITA de palato duro:",
+      "   — Palato duro, medialmente (evitar artéria palatina maior lateralmente).",
+      "   — Enxerto mucoso-perioesteal de ~2 × 2 cm máximo; doador cicatriza por segunda intenção em 3-4 semanas.",
+      "5. Fixação do substituto posterior ao tarso remanescente e periósteo orbital com vicryl 5-0 ou 6-0.",
+      "6. Cobertura da lamela anterior obrigatória com retalho vascular (avanço cutâneo, Tenzel, miocutâneo subiliar)."
+    ],
+    "complications": [
+      "Erosão corneana por palato duro na pálpebra superior (epitélio queratinizado) — contraindicação absoluta",
+      "Contração excessiva de mucosa bucal isolada sem suporte rígido — inadequada como substituta tarsal em defeitos grandes",
+      "Retração da pálpebra doadora por colheita de tarso superior < 4 mm da margem",
+      "Falha de pega do enxerto em leito irradiado ou isquêmico — derme acelular tem melhor resultado em leitos problemáticos que enxerto tarsoconjuntival",
+      "Epifora por distorção do punctum ao reposicionar o tarso medialmente"
+    ],
+    "pearls": [
+      "Palato duro é excelente substituto de lamela posterior — mas exclusivamente na pálpebra inferior. Na superior, qualquer superfície queratinizada contra a córnea = úlcera crônica.",
+      "Enxerto tarsoconjuntival livre da pálpebra contralateral + retalho cutâneo local one-stage é alternativa eficaz ao Hughes em crianças e monoculares — evita oclusão visual sem sacrificar qualidade de reconstrução.",
+      "Derme acelular humana (AlloDerm®) tem papel crescente como spacer para retração lamelar média pós-blefaroplastia — resultados comparáveis ao palato duro com ausência de morbidade do doador (PMID: 20048607)."
+    ],
+    "images": [],
+    "citations": [
+      "Oculofacial cap.11, p.218 e p.224",
+      "Jackson cap.7, p.357",
+      "Shorr N et al. Plast Reconstr Surg. 2010;125(1):192-197 (PMID: 20048607)"
+    ],
+    "updates": [],
+    "tags": [
+      "tecnica",
+      "enxerto-tarsoconjuntival",
+      "mucosa-bucal",
+      "palato-duro",
+      "cartilagem-auricular",
+      "derme-acelular",
+      "substituto-posterior",
+      "lamela-posterior"
+    ]
+  },
+  {
+    "id": "palpebra-tec-010",
+    "type": "technique",
+    "title": "Enxerto de Pele Total (FTSG) para Lamela Anterior Palpebral",
+    "aliases": [
+      "FTSG palpebra",
+      "enxerto pele total palpebra",
+      "full-thickness skin graft palpebra",
+      "palpebra contralateral doador FTSG",
+      "retroauricular FTSG palpebra",
+      "hierarquia doadores cutaneos palpebra"
+    ],
+    "topic": "reconstrucao-de-palpebra",
+    "area": "reconstrucao-facial",
+    "indication": "Reconstrução da lamela anterior (pele + orbicular) nos casos em que retalho local é insuficiente, não desejado, ou quando o defeito é superficial (apenas pele + orbicular, sem envolvimento tarsal). Indicado como complemento do Hughes (cobertura anterior da ponte tarsoconjuntival), como one-stage alternativo em pediatria, e como enxerto de release em ectrópio cicatricial fixo (Oculofacial cap.11, p.218, fig 11-8).",
+    "contraindication": "Defeito full-thickness sem substituição concomitante da lamela posterior (o FTSG não pode sozinho reconstruir a pálpebra inteira); leito irradiado ou isquêmico com baixa probabilidade de pega (< 50% de taxa de pega esperada); ausência de imobilização adequada (enxerto palpebral requer curativo compressivo ou Frost suture por 5-7 dias).",
+    "steps": [
+      "1. Hierarquia de doadores cutâneos por ordem de preferência (Oculofacial cap.11, p.218, fig 11-8):",
+      "   a) Pálpebra superior CONTRALATERAL — doador ideal; pele igualmente fina, sem gordura subcutânea, sem pelos, mesmo padrão de pigmentação (PMID: 2400335). Limitação: quantidade disponível (apenas 'pinch' em idosos com dermatocálase).",
+      "   b) Retroauricular — segunda escolha; pele fina, pouco actínica, cicatriz oculta atrás do pavilhão.",
+      "   c) Pré-auricular — terceira escolha; mais espessa, pode ter folículos pilosos em homens.",
+      "   d) Supraclavicular — quarta escolha; pele moderadamente fina, sem pelos.",
+      "   e) Face medial do braço superior (inner upper arm) — última escolha; cicatriz cosmeticamente aceitável.",
+      "2. Marcação do leito receptor: limite preciso do defeito, hemostasia bipolar. Borda do defeito sem tensão.",
+      "3. Colheita do doador: FTSG completo (incluindo derme reticular inteira); remoção de toda gordura hipodérmica com tesoura — gordura reduz pega.",
+      "4. Sobre-tamanho do enxerto: 10-15% maior que o defeito (contração pós-enxertia é previsível — Oculofacial cap.11, p.218).",
+      "5. Fixação perimetral com seda 5-0 ou 6-0 — pontos em eversão leve para garantir apposição da derme ao leito.",
+      "6. Tie-over: gazes embebidas em vaselina comprimidas por curativo foam compressivo suturado ou Frost suture (seda 4-0 de suspensão da margem inferior ao supercílio). Manter 5-7 dias.",
+      "7. Fechamento do sítio doador: pele pré-auricular e pós-auricular — sutura direta. Outros sítios — sutura direta ou STSG se necessário.",
+      "8. Retirada do tie-over: dia 5-7; avaliar pega (branco = sem pega, rosa = pega inicial, vermelho = infecção).",
+      "9. Cuidados pós-enxertia: lubrificação corneana intensiva enquanto o enxerto está aderindo; antibiótico tópico (eritromicina 2×/dia × 7 d); evitar trauma."
+    ],
+    "complications": [
+      "Falha de pega parcial ou total por hematoma sob o enxerto (principal causa — hemostasia bipolar rigorosa e tie-over compressivo são preventivos obrigatórios)",
+      "Contração excessiva em enxerto pequeno ou de sítio inadequado — enxertar com 10-15% de sobre-tamanho e de sítio de pele fina",
+      "Mismatch de cor e textura em sítios distais (braço, supraclavicular) — discutir com paciente antes",
+      "Ectrópio cicatricial por enxerto insuficientemente grande, contração vertical ou ausência de cantopexia adjunta",
+      "Cílios ectópicos se o enxerto captura folículos pilosos do doador pré-auricular em homens"
+    ],
+    "pearls": [
+      "A pálpebra superior contralateral é o doador ideal — \"like replacing like\": mesma espessura, mesma ausência de gordura subcutânea, mesma pigmentação. Em idosos com dermatocálase, a quantidade disponível pode ser surpreendentemente generosa.",
+      "Remoção rigorosa de toda gordura hipodérmica do enxerto antes da transferência é o gesto técnico mais importante para garantir pega — gordura interposta entre derme e leito impede vascularização.",
+      "O tie-over com Frost suture (suspensão da margem inferior ao supercílio) imobiliza o enxerto e simula o fechamento palpebral — combinação de pressão + imobilidade é o princípio do sucesso do enxerto palpebral."
+    ],
+    "images": [],
+    "citations": [
+      "Oculofacial cap.11, p.218, fig 11-8",
+      "Holds JB, Anderson RL. Arch Ophthalmol. 1990;108(8):1162-1163 (PMID: 2400335)"
+    ],
+    "updates": [],
+    "tags": [
+      "tecnica",
+      "FTSG",
+      "enxerto-pele-total",
+      "lamela-anterior",
+      "hierarquia-doadores",
+      "palpebra-contralateral",
+      "retroauricular"
+    ]
+  }
+]

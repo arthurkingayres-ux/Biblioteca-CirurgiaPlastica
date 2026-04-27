@@ -100,5 +100,11 @@
     "topic": "reconstrucao-de-nariz",
     "displayName": "Reconstrução de Nariz",
     "status": "complete"
+  },
+  {
+    "area": "reconstrucao-facial",
+    "topic": "reconstrucao-de-palpebra",
+    "displayName": "Reconstrução de Pálpebra",
+    "status": "complete"
   }
 ]

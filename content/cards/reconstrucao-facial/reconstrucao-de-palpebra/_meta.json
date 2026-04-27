@@ -1,0 +1,31 @@
+{
+  "topic": "reconstrucao-de-palpebra",
+  "area": "reconstrucao-facial",
+  "displayName": "Reconstrução de Pálpebra",
+  "version": "v1.0",
+  "date": "2026-04-27",
+  "status": "complete",
+  "references": [
+    "Oculofacial Plastic and Orbital Surgery (BCSC Section 7, AAO 2019-2020), caps. 9, 10, 11, 12 — spine narrativa da reconstrução por tamanho",
+    "Jackson IT. Local Flaps in Head and Neck Reconstruction, 2ª Ed. CRC Press, 2007. Cap. 7 — passo-a-passo Mustardé/Tripier/cheek advancement",
+    "Neligan PC (Ed.). Plastic Surgery, 5ª Ed. Elsevier, 2023. Vol. 3, caps. 9, 10, 14 — base biológica cervicofacial e retração pós-reconstrução",
+    "Kaufman AJ. Practical Facial Reconstruction: Theory and Practice. Springer, 2018",
+    "Janis JE, Rohrich RJ. Grabb & Smith's Plastic Surgery 9ed (Wolters Kluwer, 2024) cap. 35",
+    "content/rag/reconstrucao-facial/_principios-reconstrucao.md — doutrina horizontal",
+    "content/rag/reconstrucao-facial/_atlas-retalhos.md — geometria genérica de retalhos"
+  ],
+  "articles": [
+    "Tenzel RR, Stewart WB. Eyelid reconstruction by the semicircle flap technique. Ophthalmology. 1978;85(11):1164-1169 (PMID: 740411)",
+    "Hughes WL. A new method for rebuilding a lower lid. Arch Ophthalmol. 1937;17(6):1008-1017",
+    "Leibovitch I, Malhotra R, Selva D. Hughes flap revisited. Ophthalmology. 2004;111(12):2164-2169 (PMID: 15582070)",
+    "Cutler NL, Beard C. A method for partial and total upper lid reconstruction. Am J Ophthalmol. 1955;39(1):1-7 (PMID: 13218107)",
+    "Mustardé JC. Repair and Reconstruction in the Orbital Region, 2ª Ed. Edinburgh: Churchill Livingstone; 1980"
+  ],
+  "cardCounts": {
+    "anatomia": 2,
+    "tecnicas": 10,
+    "decisoes": 0,
+    "notas": 0,
+    "flashcards": 0
+  }
+}
