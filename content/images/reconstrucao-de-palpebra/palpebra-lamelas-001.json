@@ -1,0 +1,41 @@
+{
+  "id": "img-palpebra-lamelas-001",
+  "file": "reconstrucao-de-palpebra/lamelas-funcionais-corte-sagital.png",
+  "subject": "Anatomia da margem palpebral em corte sagital — lamela anterior cutaneo-muscular vs posterior tarso-conjuntival",
+  "role": "schematic",
+  "source": "Oculofacial Plastic and Orbital Surgery (BCSC Section 7), cap.9, p.163, fig 9-14",
+  "credit": "Adaptado de Oculofacial cap.9 (Christine Gralapp, ill.)",
+  "default_caption": "Margem palpebral em corte sagital: gray line divide lamela anterior (pele + orbicular) e posterior (tarso + conjuntiva); glandulas de Meibomius, Moll e Zeis ancoradas na margem.",
+  "labels": [
+    {
+      "num": 1,
+      "text": "Gray line — musculo de Riolan; divisor cirurgico das lamelas anterior e posterior.",
+      "x": 0.62,
+      "y": 0.20
+    },
+    {
+      "num": 2,
+      "text": "Lamela anterior — pele + musculo orbicular (cobertura externa, blink ativo).",
+      "x": 0.78,
+      "y": 0.55
+    },
+    {
+      "num": 3,
+      "text": "Lamela posterior — tarso (1 mm) + glandulas de Meibomius + conjuntiva (sustentacao + superficie interna).",
+      "x": 0.30,
+      "y": 0.55
+    },
+    {
+      "num": 4,
+      "text": "Juncao mucocutanea — limite da conjuntiva; marco posterior da reaproximacao marginal.",
+      "x": 0.30,
+      "y": 0.32
+    },
+    {
+      "num": 5,
+      "text": "Septum orbital (nao visivel neste corte) — separa lamelas do conteudo orbital; NAO suturar."
+    }
+  ],
+  "applicable_topics": ["reconstrucao-de-palpebra"],
+  "status": "available"
+}

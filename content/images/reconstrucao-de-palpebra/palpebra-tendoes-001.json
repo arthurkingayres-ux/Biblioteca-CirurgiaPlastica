@@ -1,0 +1,43 @@
+{
+  "id": "img-palpebra-tendoes-001",
+  "file": "reconstrucao-de-palpebra/tendoes-cantais-lacrimal-crest.png",
+  "subject": "Anatomia suspensoria — Whitnall, levator, cornos medial e lateral, fascias para orbicular",
+  "role": "schematic",
+  "source": "Oculofacial Plastic and Orbital Surgery (BCSC Section 7), cap.9, p.165, fig 9-18",
+  "credit": "Adaptado de Oculofacial cap.9 (Mark Miller, ill.)",
+  "default_caption": "Anatomia suspensoria da palpebra: Whitnall, levantador palpebral superior com cornos medial e lateral, slips fasciais para orbicular — base anatomica das cantopexias e do reparo cantal posterior.",
+  "labels": [
+    {
+      "num": 1,
+      "text": "Ligamento de Whitnall — suspende o levantador; serve de fulcro para a acao da palpebra superior.",
+      "x": 0.30,
+      "y": 0.25
+    },
+    {
+      "num": 2,
+      "text": "Levantador palpebral superior — corno medial insere na crista lacrimal posterior; corno lateral no tuberculo orbital lateral.",
+      "x": 0.62,
+      "y": 0.45
+    },
+    {
+      "num": 3,
+      "text": "Aponeurose levantadora — extensao distal do levantador; ancora na face anterior do tarso.",
+      "x": 0.20,
+      "y": 0.60
+    },
+    {
+      "num": 4,
+      "text": "Corno medial do levantador — limbo posterior do MCT; insere na crista lacrimal posterior; critico para apposicao margem-globo.",
+      "x": 0.30,
+      "y": 0.78
+    },
+    {
+      "num": 5,
+      "text": "Corno lateral / fascias para orbicularis — slips para o LCT no tuberculo de Whitnall lateral.",
+      "x": 0.85,
+      "y": 0.55
+    }
+  ],
+  "applicable_topics": ["reconstrucao-de-palpebra"],
+  "status": "available"
+}

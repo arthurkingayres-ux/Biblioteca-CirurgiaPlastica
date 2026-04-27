@@ -33,7 +33,18 @@
       "Cabos longos das suturas de margem devem apontar para fora e ser fixados na pele com micropore ou ponto de convergência — nunca deixar cair sobre a córnea.",
       "Cantólise lateral inferior ganha 3-5 mm; cantólise medial (limbo inferior do MCT) ganha outros 2-3 mm adicionais em defeitos medianos — mas exige atenção ao canalículo inferior adjacente."
     ],
-    "images": [],
+    "images": [
+      {
+        "file": "defeito-parcial-fechamento-direto.png",
+        "caption": "Escada reconstrutiva da pálpebra inferior por tamanho do defeito (≤ 33% / 33-50% / 50-100%) — fechamento direto, semicircular, tarsoconjuntival adjacente, Hughes modificado e Mustardé.",
+        "credit": "Oculofacial Plastic and Orbital Surgery, cap.11, p.223, fig 11-11"
+      },
+      {
+        "file": "margem-palpebral-tres-linhas.png",
+        "caption": "Marco intraoperatório do gray line (seta) — alinhar lash line, gray line e mucocutaneous junction com seda 6-0 garante reaproximação laminar precisa em todo reparo marginal.",
+        "credit": "Oculofacial Plastic and Orbital Surgery, cap.9, p.170, fig 9-24"
+      }
+    ],
     "citations": [
       "Oculofacial cap.11, pp.222-223, fig 11-11A",
       "Jackson cap.7, p.355"
@@ -82,7 +93,13 @@
       "Ptose pós-op imediata é esperada e não deve ser tratada — resulta do edema e da tensão marginal, e resolve em 2-4 semanas.",
       "Em jovens com pele rígida, a cantólise pode não ser suficiente — considerar tarsal sharing inferior (enxerto tarsoconjuntival contralateral + avanço cutâneo) como alternativa one-stage."
     ],
-    "images": [],
+    "images": [
+      {
+        "file": "defeito-parcial-superior-fechamento-direto.png",
+        "caption": "Escada reconstrutiva da pálpebra superior por tamanho do defeito — fechamento direto (≤ 33%), semicircular, tarsoconjuntival adjacente, Cutler-Beard, e retalho switch / forehead mediano.",
+        "credit": "Oculofacial Plastic and Orbital Surgery, cap.11, p.222, fig 11-9"
+      }
+    ],
     "citations": [
       "Oculofacial cap.11, p.220, fig 11-9A",
       "Jackson cap.7, p.385"
@@ -135,7 +152,18 @@
       "Plano SUPERFICIAL dentro de 2 cm do canto lateral é inegociável — ramo frontal do CN VII corre sobre o SMAS nessa zona; descolamento sub-SMAS = paresia do frontal.",
       "Cantopexia ao tubérculo de Whitnall é o último passo antes da pele — omiti-la é a causa mais comum de resultado estético insatisfatório no Tenzel."
     ],
-    "images": [],
+    "images": [
+      {
+        "file": "tenzel-semicircular-passos.png",
+        "caption": "Sequência de cantotomia lateral + cantólise inferior — incisão horizontal a partir do canto lateral, descolamento subcutâneo, secção do limbo inferior do tendão cantal lateral para mobilização medial.",
+        "credit": "Jackson, Local Flaps in Head and Neck Reconstruction (2nd ed), cap.7, p.356"
+      },
+      {
+        "file": "zona-seguranca-frontal-cn-vii.png",
+        "caption": "Zona de risco do ramo frontal do CN VII — 2 cm do canto lateral em direção à têmpora; plano superficial obrigatório nessa área para evitar paresia do frontal e queda de sobrancelha.",
+        "credit": "Oculofacial Plastic and Orbital Surgery, cap.9, p.157, fig 9-7"
+      }
+    ],
     "citations": [
       "Tenzel RR, Stewart WB. Ophthalmology. 1978;85(11):1164-1169 (PMID: 740411)",
       "Oculofacial cap.11, p.222 e p.224, fig 11-11B"
@@ -194,7 +222,18 @@
       "Dividir o pedículo com 1 mm de sobra (acima do nível desejado) compensa a retração pós-divisão — a nova margem 'sobe' ligeiramente após a secção.",
       "A cobertura da lamela anterior com pálpebra superior contralateral (FTSG) ou avanço miocutâneo é tão importante quanto o Hughes em si — planejar as duas lamelas juntas, não sequencialmente."
     ],
-    "images": [],
+    "images": [
+      {
+        "file": "hughes-modificado-estagio-1.png",
+        "caption": "Hughes modificado — estágio 1: retalho tarsoconjuntival pediculado da pálpebra superior em posição cobrindo o defeito da margem inferior, antes da divisão do pedículo.",
+        "credit": "Oculofacial Plastic and Orbital Surgery, cap.11, p.224, fig 11-12 (painel esquerdo)"
+      },
+      {
+        "file": "hughes-modificado-estagio-2.png",
+        "caption": "Hughes modificado — detalhe do sítio doador: pálpebra superior evertida com retrator de Desmarres, demonstrando preservação dos 4-5 mm marginais do tarso doador.",
+        "credit": "Oculofacial Plastic and Orbital Surgery, cap.11, p.224, fig 11-12 (painel direito)"
+      }
+    ],
     "citations": [
       "Hughes WL. Arch Ophthalmol. 1937;17(6):1008-1017",
       "Leibovitch I et al. Ophthalmology. 2004;111(12):2164-2169 (PMID: 15582070)",
@@ -249,7 +288,18 @@
       "Secção do pedículo em altura conservadora (1 mm acima do nível desejado) reduz a incidência de entrópio — a contração pós-divisão é previsível.",
       "Ausência de aponeurose levantadora no retalho Cutler-Beard é razão pela qual a pálpebra superior reconstruída tende à ptose — discutir expectativas cosméticas com o paciente antes da cirurgia."
     ],
-    "images": [],
+    "images": [
+      {
+        "file": "cutler-beard-estagio-1.png",
+        "caption": "Cutler-Beard — caso clínico mostrando reconstrução de pálpebra superior usando retalho cutâneo-orbicular da pálpebra inferior (\"bridge under the lower lid margin\") em ponte sobre o globo.",
+        "credit": "Oculofacial Plastic and Orbital Surgery, cap.11, p.223, fig 11-10"
+      },
+      {
+        "file": "cutler-beard-estagio-2.png",
+        "caption": "Alternativa de eyelid-sharing para pálpebra superior — retalho switch (Abbé-like) com cunha pentagonal da pálpebra inferior; conceito análogo aplicado ao reparo da margem superior.",
+        "credit": "Jackson, Local Flaps in Head and Neck Reconstruction (2nd ed), cap.7, p.383"
+      }
+    ],
     "citations": [
       "Cutler NL, Beard C. Am J Ophthalmol. 1955;39(1):1-7 (PMID: 13218107)",
       "Carroll RP. Ophthalmology. 1983;90(9):1052-1055 (PMID: 6646643)",
@@ -301,7 +351,13 @@
       "Incisão cefalicamente inclinada a partir do canto lateral é a chave do Mustardé correto — incisão horizontal retilínea cria vetor descendente e resulta em ectrópio tardio quase universal.",
       "Sobrecorrigir 2 mm na ancoragem é deliberado e necessário: o retalho inevitavelmente afunda com a gravidade nas primeiras semanas (relaxamento laminar médio)."
     ],
-    "images": [],
+    "images": [
+      {
+        "file": "mustarde-bochecha-rotacao-marcacao.png",
+        "caption": "Marcação do retalho de bochecha-rotação (Mustardé/Jackson) — incisão a partir do canto lateral, inclinada cefalicamente, seguindo o sulco palpebromalar até o supercílio e descendo em arco preauricular.",
+        "credit": "Jackson, Local Flaps in Head and Neck Reconstruction (2nd ed), cap.7, p.355"
+      }
+    ],
     "citations": [
       "Mustardé JC. Repair and Reconstruction in the Orbital Region, 2ª Ed. Churchill Livingstone, 1980",
       "Jackson cap.7, pp.355-361",
@@ -353,7 +409,13 @@
       "O retalho periosteal é elegante para defeitos posteriores isolados — não exige doador secundário, é vascular, e o periósteo orbital lateral é usualmente acessível mesmo após cirurgias prévias.",
       "Em defeitos full-thickness do canto lateral, a cantopexia de reconstrução (reinserção do LCT ao tubérculo de Whitnall) determina a posição final da fenda palpebral — a altura de inserção deve replicar a posição nativa (2 mm acima do MCT)."
     ],
-    "images": [],
+    "images": [
+      {
+        "file": "canto-lateral-periosteal.png",
+        "caption": "Reconstrução de defeito do canto lateral com retalho periosteal — A: defeito após excisão; B: elevação da faixa periosteal do rebordo orbital lateral; C: avanço da pálpebra superior; D: pós-operatório 6 meses.",
+        "credit": "Oculofacial Plastic and Orbital Surgery, cap.11, p.227, fig 11-15"
+      }
+    ],
     "citations": [
       "Oculofacial cap.11, p.226, figs 11-14 e 11-15",
       "Oculofacial cap.9, p.156, fig 9-7",
@@ -418,7 +480,18 @@
       "Granulação por segunda intenção no canto medial é uma escolha — não uma resignação. A concavidade cria resultado cosmético frequentemente superior ao FTSG, sem morbidade de doador.",
       "Reinserção do MCT ao periostio da crista lacrimal POSTERIOR (não apenas anterior) é o que mantém a apposição da margem ao globo — o limbo posterior do MCT é o elemento funcional mais crítico."
     ],
-    "images": [],
+    "images": [
+      {
+        "file": "canto-medial-glabelar.png",
+        "caption": "Reconstrução de defeito amplo do canto medial — A: defeito pós-excisão de carcinoma basocelular; B: pós-operatório 6 meses com enxerto de pele total (FTSG) da face medial do braço; alternativa: retalho glabelar para defeitos extensos.",
+        "credit": "Oculofacial Plastic and Orbital Surgery, cap.11, p.227, fig 11-16"
+      },
+      {
+        "file": "bomba-lacrimal-blink-cycle.png",
+        "caption": "Bomba lacrimal — A: estado relaxado, puncta no tear lake; B: fechamento da pálpebra, pressão positiva propulsiona lágrimas pelo ducto; C: abertura, pressão negativa atrai novo volume. Disfunção pós-reconstrução medial = epífora funcional.",
+        "credit": "Oculofacial Plastic and Orbital Surgery, cap.14, p.284, fig 14-4"
+      }
+    ],
     "citations": [
       "Oculofacial cap.11, pp.215 e 226-228, fig 11-16",
       "Fox SA. Am J Ophthalmol. 1972;74(5):947-949 (PMID: 4654293)",
@@ -486,7 +559,13 @@
       "Enxerto tarsoconjuntival livre da pálpebra contralateral + retalho cutâneo local one-stage é alternativa eficaz ao Hughes em crianças e monoculares — evita oclusão visual sem sacrificar qualidade de reconstrução.",
       "Derme acelular humana (AlloDerm®) tem papel crescente como spacer para retração lamelar média pós-blefaroplastia — resultados comparáveis ao palato duro com ausência de morbidade do doador (PMID: 20048607)."
     ],
-    "images": [],
+    "images": [
+      {
+        "file": "tarsoconjuntival-graft-doador.png",
+        "caption": "Doadores de lamela posterior — colheita tarsoconjuntival da pálpebra superior contralateral (preservar 4-5 mm marginais), e enxerto condromucoso septal nasal descrito por Mustardé (rigidez + lining mucoso em peça única).",
+        "credit": "Jackson, Local Flaps in Head and Neck Reconstruction (2nd ed), cap.7, p.357"
+      }
+    ],
     "citations": [
       "Oculofacial cap.11, p.218 e p.224",
       "Jackson cap.7, p.357",
@@ -548,7 +627,13 @@
       "Remoção rigorosa de toda gordura hipodérmica do enxerto antes da transferência é o gesto técnico mais importante para garantir pega — gordura interposta entre derme e leito impede vascularização.",
       "O tie-over com Frost suture (suspensão da margem inferior ao supercílio) imobiliza o enxerto e simula o fechamento palpebral — combinação de pressão + imobilidade é o princípio do sucesso do enxerto palpebral."
     ],
-    "images": [],
+    "images": [
+      {
+        "file": "ftsg-doadores-hierarquia.png",
+        "caption": "Hierarquia de doadores cutâneos para a pálpebra (Oculofacial cap.11) — pálpebra contralateral (ideal: mesma espessura, sem pelos), retroauricular, pré-auricular, supraclavicular, face medial do braço.",
+        "credit": "Oculofacial Plastic and Orbital Surgery, cap.11, p.221, fig 11-8"
+      }
+    ],
     "citations": [
       "Oculofacial cap.11, p.218, fig 11-8",
       "Holds JB, Anderson RL. Arch Ophthalmol. 1990;108(8):1162-1163 (PMID: 2400335)"

@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-24T01:38:54Z",
-  "count": 95,
+  "generatedAt": "2026-04-27T16:27:59Z",
+  "count": 99,
   "entries": [
     {
       "id": "img-abdominal-layers-001",
@@ -379,6 +379,216 @@
       ],
       "applicable_topics": [
         "otoplastia"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-bochecha-avanco-infraorbital-ancoragem",
+      "file": "reconstrucao-de-bochecha/bochecha-avanco-infraorbital-ancoragem.png",
+      "subject": "Retalho de avanço infraorbital com ancoragem periosteal — incisão superior na junção pálpebra-bochecha e tricone distal ao longo de rítide",
+      "role": "technique",
+      "source": "Kaufman 2018, Cap. 3 — Infraorbital Cheek: Advancement Flap",
+      "credit": "Adaptado de Kaufman 2018",
+      "default_caption": "Defeito infraorbital maior com risco de ectrópio: retalho de avanço com incisão superior na junção pálpebra-bochecha, ponto de ancoragem periosteal ao rebordo orbital e tricone distal na linha do sorriso; vetor horizontal evita tração vertical na pálpebra inferior (Kaufman 2018, Cap. 3, Fig. 3.5A-B).",
+      "labels": [],
+      "applicable_topics": [
+        "reconstrucao-de-bochecha"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-bochecha-avanco-medial-melolabial",
+      "file": "reconstrucao-de-bochecha/bochecha-avanco-medial-melolabial.png",
+      "subject": "Retalho de avanço da bochecha medial com incisão escondida no sulco melolabial e tricone inferior — passos do defeito ao resultado cicatrizado",
+      "role": "technique",
+      "source": "Kaufman 2018, Cap. 3 — Medial Cheek: Advancement Flap",
+      "credit": "Adaptado de Kaufman 2018",
+      "default_caption": "Retalho de avanço da bochecha medial para defeito paranasal: incisão lateral ao longo da junção pálpebra-bochecha, tricone excisado inferiormente ao longo do sulco melolabial, vetor horizontal preservado para evitar ectrópio (Kaufman 2018, Cap. 3, Fig. 3.2A-C).",
+      "labels": [],
+      "applicable_topics": [
+        "reconstrucao-de-bochecha"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-bochecha-bilobed-inferior",
+      "file": "reconstrucao-de-bochecha/bochecha-bilobed-inferior.png",
+      "subject": "Retalho bilobado de transposição na bochecha inferior — defeito após exérese de três carcinomas espinocelulares e reparo bilobado com enxerto de pele total para defeito terciário",
+      "role": "technique",
+      "source": "Kaufman 2018, Cap. 3 — Inferior Cheek: Bilobed Transposition Flap",
+      "credit": "Adaptado de Kaufman 2018",
+      "default_caption": "Defeito amplo na bochecha inferior reconstruído com retalho bilobado + FTSG no defeito terciário: rotação total ~90°, o primeiro lóbulo preenche o defeito e o segundo redistribui tensão evitando vetor vertical sobre a pálpebra (Kaufman 2018, Cap. 3, Fig. 3.8E-F).",
+      "labels": [],
+      "applicable_topics": [
+        "reconstrucao-de-bochecha"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-bochecha-cervicofacial-rotation",
+      "file": "reconstrucao-de-bochecha/bochecha-cervicofacial-rotation.png",
+      "subject": "Retalho cervicofacial de rotação-avanço para defeito extenso da bochecha — defeito, desenho do retalho com extensão cervical, inset e resultado",
+      "role": "technique",
+      "source": "Neligan 2023, vol. 3, cap. 10 — Do & Boyd (Cheeks)",
+      "credit": "Adaptado de Neligan 2023 (Do & Boyd)",
+      "default_caption": "Retalho cervicofacial para defeito extenso da bochecha anterior: borda inferior na junção nasolabial, borda posterior ascendendo para a região pré-auricular e descendo pelo pescoço; descolamento sub-SMAS preserva perfurantes e distribui tensão ao longo do ângulo da mandíbula (Neligan 2023, vol. 3, cap. 10, Fig. 10.17).",
+      "labels": [],
+      "applicable_topics": [
+        "reconstrucao-de-bochecha"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-bochecha-ectropio-ancoragem-periosteal",
+      "file": "reconstrucao-de-bochecha/bochecha-ectropio-ancoragem-periosteal.png",
+      "subject": "Prevenção de ectrópio em reconstrução próxima à pálpebra inferior — caso Mustardé/rombóide para melanoma palpebral com enxerto condromucoso e ancoragem lateral",
+      "role": "technique",
+      "source": "Neligan 2023, vol. 3, cap. 10 — Do & Boyd (Lower eyelid)",
+      "credit": "Adaptado de Neligan 2023 (Do & Boyd)",
+      "default_caption": "Reconstrução de pálpebra inferior/bochecha medial com retalho rombóide e enxerto condromucoso: a cantólise lateral e a ancoragem periosteal do retalho ao rebordo orbital inferior são essenciais para prevenir ectrópio dinâmico — mesmo princípio aplicável a qualquer retalho de bochecha que se aproxime da pálpebra (Neligan 2023, vol. 3, cap. 10, Fig. 10.15).",
+      "labels": [],
+      "applicable_topics": [
+        "reconstrucao-de-bochecha"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-bochecha-ilha-avanco-medial",
+      "file": "reconstrucao-de-bochecha/bochecha-ilha-avanco-medial.png",
+      "subject": "Retalho de avanço em ilha na bochecha medial/inferior — pedículo subcutâneo central com transição triangular escondida no sulco melolabial",
+      "role": "technique",
+      "source": "Kaufman 2018, Cap. 3 — Medial Cheek: Island Advancement Flap",
+      "credit": "Adaptado de Kaufman 2018",
+      "default_caption": "Defeito na bochecha direita após Mohs e reparo com retalho em ilha: o pedículo subcutâneo central permite grande translação tecidual enquanto todas as incisões ficam escondidas na RSTL e no sulco melolabial (Kaufman 2018, Cap. 3, Fig. 3.3A-B).",
+      "labels": [],
+      "applicable_topics": [
+        "reconstrucao-de-bochecha"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-bochecha-margens-livres-vizinhas",
+      "file": "reconstrucao-de-bochecha/bochecha-margens-livres-vizinhas.png",
+      "subject": "Subunidades estéticas da face com bochecha (zigomatic, infraorbital, mandibular) e margens livres vizinhas (pálpebra inferior, lábio superior, asa nasal)",
+      "role": "anatomy",
+      "source": "Neligan 2023, vol. 3, cap. 10 — Do & Boyd (Blood supply to facial skin)",
+      "credit": "Adaptado de Neligan 2023 (Do & Boyd)",
+      "default_caption": "Mapa das subunidades estéticas faciais destacando a bochecha em três quadrantes (zigomático, infraorbital, mandibular) e as margens livres vizinhas (pálpebra inferior, lábio superior, asa nasal) cuja distorção deve ser evitada no planejamento do retalho (Neligan 2023, vol. 3, cap. 10, Fig. 10.1).",
+      "labels": [],
+      "applicable_topics": [
+        "reconstrucao-de-bochecha"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-bochecha-preauricular-mplastia",
+      "file": "reconstrucao-de-bochecha/bochecha-preauricular-mplastia.png",
+      "subject": "Retalho de avanço preauricular com M-plastia — esquema com área descolada destacada e limites do tricone e M-plastia anterior ao defeito",
+      "role": "technique",
+      "source": "Kaufman 2018, Cap. 3 — Preauricular Cheek: Island Advancement Flap and Advancement Flap",
+      "credit": "Adaptado de Kaufman 2018",
+      "default_caption": "Diagrama e caso real do retalho de avanço preauricular com M-plastia: incisões ocultas na prega pretragal e além do lóbulo, M-plastia substituindo tricone longo para encurtar a cicatriz e preservar o sideburn (Kaufman 2018, Cap. 3, Fig. 3.6D-E).",
+      "labels": [],
+      "applicable_topics": [
+        "reconstrucao-de-bochecha"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-bochecha-rombico-inferior",
+      "file": "reconstrucao-de-bochecha/bochecha-rombico-inferior.png",
+      "subject": "Retalho rombóide (Limberg) na bochecha inferior — defeito real + esquema com geometria do rombo, vetor de fechamento e área descolada",
+      "role": "technique",
+      "source": "Kaufman 2018, Cap. 3 — Inferior Cheek: Rhombic Transposition Flap",
+      "credit": "Adaptado de Kaufman 2018",
+      "default_caption": "Defeito de 3,9 × 3,6 cm na bochecha inferior após Mohs e desenho do retalho rombóide transposicional: doador posterior/inferior com maior laxidade, ângulos de 60° e 120°, cicatriz tercária orientada em RSTL (Kaufman 2018, Cap. 3, Fig. 3.8A-B).",
+      "labels": [],
+      "applicable_topics": [
+        "reconstrucao-de-bochecha"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-bochecha-rotacao-zigomatica-mustarde",
+      "file": "reconstrucao-de-bochecha/bochecha-rotacao-zigomatica-mustarde.png",
+      "subject": "Retalho de rotação zigomática (princípio Mustardé) — esquema do arco de rotação da bochecha inferior/mandibular ascendendo até o zigoma e caso real com traçado da incisão",
+      "role": "technique",
+      "source": "Kaufman 2018, Cap. 3 — Zygomatic Cheek: Rotation Flap",
+      "credit": "Adaptado de Kaufman 2018",
+      "default_caption": "Retalho de rotação para defeito infraorbital/zigomático segundo o princípio Mustardé: reservatório de tecido laxo inferior/mandibular rotaciona súpero-lateralmente até o zigoma, com ancoragem no periósteo zigomático para suportar a pálpebra inferior (Kaufman 2018, Cap. 3, Fig. 3.7C-D).",
+      "labels": [],
+      "applicable_topics": [
+        "reconstrucao-de-bochecha"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-bochecha-side-to-side-medial",
+      "file": "reconstrucao-de-bochecha/bochecha-side-to-side-medial.png",
+      "subject": "Fechamento side-to-side em defeito da bochecha medial — marcações violetas demonstrando alinhamento da incisão com RSTL da pálpebra e da bochecha",
+      "role": "technique",
+      "source": "Kaufman 2018, Cap. 3 — Medial Cheek: Side-to-Side Repair",
+      "credit": "Adaptado de Kaufman 2018",
+      "default_caption": "Caso didático de fechamento primário em RSTL na bochecha medial: defeito de 1,9 × 1,7 cm após excisão de lentigo maligna; marcações violetas mostram a incisão alinhada com as linhas de tensão cutânea da pálpebra inferior e da bochecha, evitando vetor secundário vertical (Kaufman 2018, Cap. 3, Fig. 3.1G-I).",
+      "labels": [],
+      "applicable_topics": [
+        "reconstrucao-de-bochecha"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-bochecha-submental-island",
+      "file": "reconstrucao-de-bochecha/bochecha-submental-island.png",
+      "subject": "Retalho submental em ilha — defeito, dissecção do pedículo submental, passagem por túnel subcutâneo e inset no defeito",
+      "role": "technique",
+      "source": "Neligan 2023, vol. 3, cap. 10 — Do & Boyd (Cheeks)",
+      "credit": "Adaptado de Neligan 2023 (Do & Boyd)",
+      "default_caption": "Retalho submental em ilha pediculado na artéria submental (ramo da facial): pedículo musculocutâneo dissecado no plano submuscular, atravessando túnel subcutâneo sob a mandíbula até o defeito da bochecha anterior; cicatriz doadora no sulco submentoniano (Neligan 2023, vol. 3, cap. 10, Fig. 10.18).",
+      "labels": [],
+      "applicable_topics": [
+        "reconstrucao-de-bochecha"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-bochecha-vascularizacao-facial",
+      "file": "reconstrucao-de-bochecha/bochecha-vascularizacao-facial.png",
+      "subject": "Vascularização cutânea da face — cast arterial de cadáver demonstrando facial, transversa da face, infraorbital, supraorbital e ramos da temporal superficial",
+      "role": "anatomy",
+      "source": "Neligan 2023, vol. 3, cap. 10 — Do & Boyd (Blood supply to facial skin)",
+      "credit": "Adaptado de Neligan 2023 (Do & Boyd)",
+      "default_caption": "Cast arterial da pele facial: ramos da facial, transversa da face e infraorbital perfundem a bochecha; a densa rede subdérmica permite retalhos randômicos amplos e sustenta retalhos axiais como cervicofacial e submental island (Neligan 2023, vol. 3, cap. 10, Fig. 10.2).",
+      "labels": [],
+      "applicable_topics": [
+        "reconstrucao-de-bochecha"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-bochecha-vy-island-nasomelal",
+      "file": "reconstrucao-de-bochecha/bochecha-vy-island-nasomelal.png",
+      "subject": "Retalho em ilha V-Y no sulco nasomelal — defeito justa-alar e avanço súpero-medial com pedículo subcutâneo",
+      "role": "technique",
+      "source": "Kaufman 2018, Cap. 3 — Nasomelal Fold: Island Advancement Flap",
+      "credit": "Adaptado de Kaufman 2018",
+      "default_caption": "Defeito de 2,5 × 2,0 cm após Mohs no sulco nasomelal esquerdo reparado com retalho em ilha V-Y: vetor súpero-medial preserva o canthus medial, bordas seguem o sulco medial e rítides (Kaufman 2018, Cap. 3, Fig. 3.4A-B).",
+      "labels": [],
+      "applicable_topics": [
+        "reconstrucao-de-bochecha"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-bochecha-zonas-esteticas-kaufman",
+      "file": "reconstrucao-de-bochecha/bochecha-zonas-esteticas-kaufman.png",
+      "subject": "Zonas estéticas da bochecha segundo Kaufman — desenho de abertura do capítulo com sulco nasojugal, sulco nasomelal, sulco melolabial e região preauricular rotulados",
+      "role": "anatomy",
+      "source": "Kaufman 2018, Cap. 3 — Cheek Reconstruction (chapter opener)",
+      "credit": "Adaptado de Kaufman 2018",
+      "default_caption": "Mapa topográfico da bochecha organizando as zonas estéticas (infraorbital, malar, nasomelal, melolabial, preauricular, mandibular/bucal) que guiam a escolha do retalho e o direcionamento das cicatrizes ao longo de sulcos e RSTL (Kaufman 2018, Cap. 3, abertura).",
+      "labels": [],
+      "applicable_topics": [
+        "reconstrucao-de-bochecha"
       ],
       "status": "available"
     },
@@ -800,6 +1010,174 @@
       ],
       "applicable_topics": [
         "rinoplastia"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-labio-abbe-passos",
+      "file": "reconstrucao-de-labio/labio-abbe-passos.png",
+      "subject": "Desenho do retalho Abbe-Estlander (lip-switch) — desenho do retalho doador no lábio inferior, rotação 180° sobre a rima e inset no defeito do lábio superior",
+      "role": "technique",
+      "source": "Kaufman 2018, Cap. 6 — Upper lip: Abbe-Estlander (lip-switch) flap",
+      "credit": "Adaptado de Kaufman 2018",
+      "default_caption": "Passos esquemáticos do lip-switch Abbe-Estlander: retalho doador incisado em 3/4 do perímetro (pedículo na labial inferior preservado) e transposto ao defeito do lábio superior envolvendo comissura/marionette — largura do retalho ~50–75% do defeito (Kaufman 2018, Cap. 6, Fig. 6.12C-D).",
+      "labels": [],
+      "applicable_topics": [
+        "reconstrucao-de-labio"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-labio-anatomia-orbicular",
+      "file": "reconstrucao-de-labio/labio-anatomia-orbicular.png",
+      "subject": "Musculatura perioral: orbicularis oris, elevadores (levator labii superioris, levator labii superioris alaeque nasi, zygomaticus major/minor) e depressores (depressor anguli oris, depressor labii inferioris, risorius)",
+      "role": "anatomy",
+      "source": "Neligan 2023, vol. 3, cap. 11 — Pribaz & Buller",
+      "credit": "Adaptado de Neligan 2023 (Pribaz & Buller)",
+      "default_caption": "Landmarks estéticos do lábio (cúpido, columnas filtrais, tubérculo, comissura) ao lado da musculatura perioral com inserções convergindo no módiolo — orbicularis oris como esfíncter oral e agonistas/antagonistas identificados (Neligan 2023, vol. 3, cap. 11, Fig. 11.1–11.2).",
+      "labels": [],
+      "applicable_topics": [
+        "reconstrucao-de-labio"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-labio-bernard-burow-variantes",
+      "file": "reconstrucao-de-labio/labio-bernard-burow-variantes.png",
+      "subject": "Variante Webster da Bernard-Burow — excisão crescenteric peri-alar bilateral combinada com Abbe central para reconstrução subtotal do lábio superior",
+      "role": "technique",
+      "source": "Neligan 2023, vol. 3, cap. 11 — Pribaz & Buller",
+      "credit": "Adaptado de Neligan 2023 (Pribaz & Buller)",
+      "default_caption": "Esquema da variante Webster da Bernard-Burow: excisão crescentérica peri-alar bilateral e retalhos de avanço da bochecha suplementados por Abbe central; série clínica com defeito extenso do lábio superior e resultado pós-operatório (Neligan 2023, vol. 3, cap. 11, Fig. 11.9).",
+      "labels": [],
+      "applicable_topics": [
+        "reconstrucao-de-labio"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-labio-estlander-comissura",
+      "file": "reconstrucao-de-labio/labio-estlander-comissura.png",
+      "subject": "Retalho de Estlander para defeito do lábio superior envolvendo comissura — rotação única sem divisão de pedículo, resultado aos 4 meses",
+      "role": "technique",
+      "source": "Neligan 2023, vol. 3, cap. 11 — Pribaz & Buller",
+      "credit": "Adaptado de Neligan 2023 (Pribaz & Buller)",
+      "default_caption": "Reparo do lábio superior em defeito que envolve a comissura por cão-mordida: Estlander flap incorporando a comissura no desenho, rotação única com pedículo mantido e vistas pré-operatória e aos 4 meses de pós-operatório (Neligan 2023, vol. 3, cap. 11, Fig. 11.8).",
+      "labels": [],
+      "applicable_topics": [
+        "reconstrucao-de-labio"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-labio-karapandzic-geometria",
+      "file": "reconstrucao-de-labio/labio-karapandzic-geometria.png",
+      "subject": "Karapandzic bilateral para defeito full-thickness > 50% do lábio inferior central — retalhos semicirculares preservando feixes neurovasculares da labial e ramos bucais/marginais do VII",
+      "role": "technique",
+      "source": "Neligan 2023, vol. 3, cap. 11 — Pribaz & Buller",
+      "credit": "Adaptado de Neligan 2023 (Pribaz & Buller)",
+      "default_caption": "Série fotográfica do Karapandzic bilateral para defeito full-thickness central do lábio inferior (>50%): desenho dos retalhos semicirculares peri-orais, dissecção preservando feixes neurovasculares da labial e resultado final com microstomia tolerável e competência oral preservada (Neligan 2023, vol. 3, cap. 11, Fig. 11.13).",
+      "labels": [],
+      "applicable_topics": [
+        "reconstrucao-de-labio"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-labio-subunidades-cupido-columnas",
+      "file": "reconstrucao-de-labio/labio-subunidades-cupido-columnas.png",
+      "subject": "Landmarks e sub-unidades estéticas do lábio — alar sill, alar furrow, lateral cutaneous lip, vermelhão e comissura oral",
+      "role": "anatomy",
+      "source": "Kaufman 2018, Cap. 6 — Lip Reconstruction, abertura",
+      "credit": "Adaptado de Kaufman 2018",
+      "default_caption": "Landmarks de superfície do lábio com sub-unidades rotuladas (alar sill, alar furrow, lateral cutaneous lip, vermelhão, comissura) — base topográfica para planejar cicatrizes em junções entre sub-unidades (Kaufman 2018, Cap. 6, abertura, p. 165).",
+      "labels": [],
+      "applicable_topics": [
+        "reconstrucao-de-labio"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-labio-v-y-filtral",
+      "file": "reconstrucao-de-labio/labio-v-y-filtral.png",
+      "subject": "Retalho de avanço em ilha no filtro combinado com rotação bilateral do vermelhão para defeito do lábio superior envolvendo filtro + vermelhão",
+      "role": "technique",
+      "source": "Kaufman 2018, Cap. 6 — Midupper lip vermilion and philtrum: island advancement flap and bilateral vermilion rotation flap",
+      "credit": "Adaptado de Kaufman 2018",
+      "default_caption": "Desenho esquemático da ilha triangular para reconstrução do filtro (ápice à base da columela) combinada com rotação bilateral do vermelhão — filosofia \"um retalho por sub-unidade\" respeitando columnas filtrais (Kaufman 2018, Cap. 6, Fig. 6.7B-C).",
+      "labels": [],
+      "applicable_topics": [
+        "reconstrucao-de-labio"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-labio-vascularizacao",
+      "file": "reconstrucao-de-labio/labio-vascularizacao.png",
+      "subject": "Descrição cirúrgica da vascularização labial — artéria labial superior e inferior como ramos da artéria facial, arcada peri-oral e território de retalhos axiais",
+      "role": "anatomy",
+      "source": "Neligan 2023, vol. 3, cap. 11 — Pribaz & Buller",
+      "credit": "Adaptado de Neligan 2023 (Pribaz & Buller)",
+      "default_caption": "Narrativa cirúrgica da vascularização labial: aa. labial superior e inferior emergindo da facial na comissura, correndo profundamente ao orbicular, formando arcada peri-oral — base anatômica dos retalhos axiais Abbe, Estlander, Karapandzic e FAMM (Neligan 2023, vol. 3, cap. 11, p. 258).",
+      "labels": [],
+      "applicable_topics": [
+        "reconstrucao-de-labio"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-labio-vermelhao-mucosal-advancement",
+      "file": "reconstrucao-de-labio/labio-vermelhao-mucosal-advancement.png",
+      "subject": "FAMM flap (Facial Artery Musculomucosal flap) para reconstrução de vermelhão em paciente com microssomia hemifacial e deficiência de vermelhão",
+      "role": "technique",
+      "source": "Neligan 2023, vol. 3, cap. 11 — Pribaz & Buller",
+      "credit": "Adaptado de Neligan 2023 (Pribaz & Buller)",
+      "default_caption": "Série fotográfica do FAMM flap de base superior levando mucosa bucal vascularizada pela artéria facial ao vermelhão do lábio superior — inset e resultado tardio com ganho de simetria em repouso e animação (Neligan 2023, vol. 3, cap. 11, Fig. 11.5).",
+      "labels": [],
+      "applicable_topics": [
+        "reconstrucao-de-labio"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-labio-vermelionectomia-avanco-mucoso",
+      "file": "reconstrucao-de-labio/labio-vermelionectomia-avanco-mucoso.png",
+      "subject": "Vermilionectomia + retalho de avanço mucoso no lábio inferior — desenho da excisão crescente e descolamento em plano superficial ao orbicular",
+      "role": "technique",
+      "source": "Kaufman 2018, Cap. 6 — Midupper lip vermilion and midlower lip vermilion: vermilionectomy and mucosal advancement flap",
+      "credit": "Adaptado de Kaufman 2018",
+      "default_caption": "Defeito de vermelhão do lábio inferior (1,6 × 1,6 cm) e desenho de vermilionectomia com avanço mucoso — excisão da vermelhão actinicamente danificada e descolamento em plano superficial ao orbicular até o sulco gengivolabial (Kaufman 2018, Cap. 6, Fig. 6.5D-E).",
+      "labels": [],
+      "applicable_topics": [
+        "reconstrucao-de-labio"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-labio-wedge-mplasty-inferior",
+      "file": "reconstrucao-de-labio/labio-wedge-mplasty-inferior.png",
+      "subject": "Excisão em cunha full-thickness do lábio inferior com M-plastia para evitar cicatriz cruzando o sulco mento-labial",
+      "role": "technique",
+      "source": "Kaufman 2018, Cap. 6 — Lower lip: wedge excision",
+      "credit": "Adaptado de Kaufman 2018",
+      "default_caption": "Defeito recorrente no lábio inferior (~30% da largura horizontal) e wedge full-thickness com M-plastia no ápice — duas pontas pequenas que param antes do sulco mento-labial, preservando a junção de sub-unidade (Kaufman 2018, Cap. 6, Fig. 6.11A-B).",
+      "labels": [],
+      "applicable_topics": [
+        "reconstrucao-de-labio"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-labio-wedge-primario-v",
+      "file": "reconstrucao-de-labio/labio-wedge-primario-v.png",
+      "subject": "Fechamento primário side-to-side do lábio superior — defeito pequeno com cicatriz perpendicular à rima em rítide perioral",
+      "role": "technique",
+      "source": "Kaufman 2018, Cap. 6 — Left upper cutaneous lip: side-to-side repair",
+      "credit": "Adaptado de Kaufman 2018",
+      "default_caption": "Defeito cirúrgico do lábio superior direito e desenho de fechamento side-to-side complexo seguindo rítides periorais, com tricones dimensionados para preservar o alinhamento do vermelhão (Kaufman 2018, Cap. 6, Fig. 6.1A-B).",
+      "labels": [],
+      "applicable_topics": [
+        "reconstrucao-de-labio"
       ],
       "status": "available"
     },
@@ -1670,6 +2048,182 @@
       ],
       "applicable_topics": [
         "blefaroplastia"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-palpebra-arcades-001",
+      "file": "reconstrucao-de-palpebra/suprimento-vascular-arcadas.png",
+      "subject": "Arcada arterial periferica entre aponeurose levantadora e Muller — base do pediculo de Hughes",
+      "role": "surgical",
+      "source": "Oculofacial Plastic and Orbital Surgery (BCSC Section 7), cap.9, p.167, fig 9-20",
+      "credit": "Adaptado de Oculofacial cap.9 (Cat N. Burkat, MD)",
+      "default_caption": "Arcada arterial periferica entre aponeurose levantadora (refletida) e musculo de Muller — marco intraoperatorio do Muller e base vascular do retalho de Hughes.",
+      "labels": [
+        {
+          "num": 1,
+          "text": "Arcada periferica — entre levantador e Muller; identifica o Muller intraoperatoriamente; suprimento do pediculo de Hughes.",
+          "x": 0.42,
+          "y": 0.4
+        },
+        {
+          "num": 2,
+          "text": "Musculo de Muller — fibras lisas; nervosa simpatica; cirurgicamente acessivel apos arcada periferica.",
+          "x": 0.3,
+          "y": 0.3
+        },
+        {
+          "num": 3,
+          "text": "Aponeurose levantadora elevada — mostra inferior face do levantador na sua porcao posterior.",
+          "x": 0.4,
+          "y": 0.18
+        },
+        {
+          "num": 4,
+          "text": "Tarso superior — limite distal do plano dissecado; preservar a arcada marginal a 2 mm da margem.",
+          "x": 0.45,
+          "y": 0.55
+        },
+        {
+          "num": 5,
+          "text": "Compartimento gorduroso central — anterior ao levantador; via de acesso na blefaroplastia transcutanea."
+        }
+      ],
+      "applicable_topics": [
+        "reconstrucao-de-palpebra"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-palpebra-lamelas-001",
+      "file": "reconstrucao-de-palpebra/lamelas-funcionais-corte-sagital.png",
+      "subject": "Anatomia da margem palpebral em corte sagital — lamela anterior cutaneo-muscular vs posterior tarso-conjuntival",
+      "role": "schematic",
+      "source": "Oculofacial Plastic and Orbital Surgery (BCSC Section 7), cap.9, p.163, fig 9-14",
+      "credit": "Adaptado de Oculofacial cap.9 (Christine Gralapp, ill.)",
+      "default_caption": "Margem palpebral em corte sagital: gray line divide lamela anterior (pele + orbicular) e posterior (tarso + conjuntiva); glandulas de Meibomius, Moll e Zeis ancoradas na margem.",
+      "labels": [
+        {
+          "num": 1,
+          "text": "Gray line — musculo de Riolan; divisor cirurgico das lamelas anterior e posterior.",
+          "x": 0.62,
+          "y": 0.2
+        },
+        {
+          "num": 2,
+          "text": "Lamela anterior — pele + musculo orbicular (cobertura externa, blink ativo).",
+          "x": 0.78,
+          "y": 0.55
+        },
+        {
+          "num": 3,
+          "text": "Lamela posterior — tarso (1 mm) + glandulas de Meibomius + conjuntiva (sustentacao + superficie interna).",
+          "x": 0.3,
+          "y": 0.55
+        },
+        {
+          "num": 4,
+          "text": "Juncao mucocutanea — limite da conjuntiva; marco posterior da reaproximacao marginal.",
+          "x": 0.3,
+          "y": 0.32
+        },
+        {
+          "num": 5,
+          "text": "Septum orbital (nao visivel neste corte) — separa lamelas do conteudo orbital; NAO suturar."
+        }
+      ],
+      "applicable_topics": [
+        "reconstrucao-de-palpebra"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-palpebra-tarso-001",
+      "file": "reconstrucao-de-palpebra/tarso-superior-vs-inferior.png",
+      "subject": "Placas tarsais superior e inferior + tendoes cantais medial e lateral suspensorios",
+      "role": "schematic",
+      "source": "Oculofacial Plastic and Orbital Surgery (BCSC Section 7), cap.9, p.169, fig 9-22",
+      "credit": "Adaptado de Oculofacial cap.9 (Mark Miller, ill.)",
+      "default_caption": "Tarso superior 10-12 mm e inferior 3-4 mm suspensos pelos tendoes cantais; LCT insere 2 mm acima do MCT, dando o slant palpebral natural. Diferenca biomecanica governa criticidade dos defeitos.",
+      "labels": [
+        {
+          "num": 1,
+          "text": "Tarso superior — 10-12 mm de altura central; alvo da preservacao de 4-5 mm marginais na colheita doadora.",
+          "x": 0.5,
+          "y": 0.18
+        },
+        {
+          "num": 2,
+          "text": "Tarso inferior — 3-4 mm; defeito > 50% requer reposicao via Hughes ou tarsoconjuntival da palpebra superior.",
+          "x": 0.5,
+          "y": 0.78
+        },
+        {
+          "num": 3,
+          "text": "Tendao cantal medial (MCT) — tres limbos (anterior, posterior, superior/inferior); posterior critico para apposicao margem-globo.",
+          "x": 0.18,
+          "y": 0.5
+        },
+        {
+          "num": 4,
+          "text": "Tendao cantal lateral (LCT) — insercao no tuberculo de Whitnall 2-5 mm dentro do rebordo orbital lateral.",
+          "x": 0.85,
+          "y": 0.5
+        },
+        {
+          "num": 5,
+          "text": "Tuberculo orbital lateral (Whitnall) — alvo de cantopexia profilatica em Mustarde e retalhos de bochecha.",
+          "x": 0.92,
+          "y": 0.55
+        }
+      ],
+      "applicable_topics": [
+        "reconstrucao-de-palpebra"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "img-palpebra-tendoes-001",
+      "file": "reconstrucao-de-palpebra/tendoes-cantais-lacrimal-crest.png",
+      "subject": "Anatomia suspensoria — Whitnall, levator, cornos medial e lateral, fascias para orbicular",
+      "role": "schematic",
+      "source": "Oculofacial Plastic and Orbital Surgery (BCSC Section 7), cap.9, p.165, fig 9-18",
+      "credit": "Adaptado de Oculofacial cap.9 (Mark Miller, ill.)",
+      "default_caption": "Anatomia suspensoria da palpebra: Whitnall, levantador palpebral superior com cornos medial e lateral, slips fasciais para orbicular — base anatomica das cantopexias e do reparo cantal posterior.",
+      "labels": [
+        {
+          "num": 1,
+          "text": "Ligamento de Whitnall — suspende o levantador; serve de fulcro para a acao da palpebra superior.",
+          "x": 0.3,
+          "y": 0.25
+        },
+        {
+          "num": 2,
+          "text": "Levantador palpebral superior — corno medial insere na crista lacrimal posterior; corno lateral no tuberculo orbital lateral.",
+          "x": 0.62,
+          "y": 0.45
+        },
+        {
+          "num": 3,
+          "text": "Aponeurose levantadora — extensao distal do levantador; ancora na face anterior do tarso.",
+          "x": 0.2,
+          "y": 0.6
+        },
+        {
+          "num": 4,
+          "text": "Corno medial do levantador — limbo posterior do MCT; insere na crista lacrimal posterior; critico para apposicao margem-globo.",
+          "x": 0.3,
+          "y": 0.78
+        },
+        {
+          "num": 5,
+          "text": "Corno lateral / fascias para orbicularis — slips para o LCT no tuberculo de Whitnall lateral.",
+          "x": 0.85,
+          "y": 0.55
+        }
+      ],
+      "applicable_topics": [
+        "reconstrucao-de-palpebra"
       ],
       "status": "available"
     },
@@ -2607,384 +3161,6 @@
       ],
       "applicable_topics": [
         "blefaroplastia"
-      ],
-      "status": "available"
-    },
-    {
-      "id": "img-labio-abbe-passos",
-      "file": "reconstrucao-de-labio/labio-abbe-passos.png",
-      "subject": "Desenho do retalho Abbe-Estlander (lip-switch) — desenho do retalho doador no lábio inferior, rotação 180° sobre a rima e inset no defeito do lábio superior",
-      "role": "technique",
-      "source": "Kaufman 2018, Cap. 6 — Upper lip: Abbe-Estlander (lip-switch) flap",
-      "credit": "Adaptado de Kaufman 2018",
-      "default_caption": "Passos esquemáticos do lip-switch Abbe-Estlander: retalho doador incisado em 3/4 do perímetro (pedículo na labial inferior preservado) e transposto ao defeito do lábio superior envolvendo comissura/marionette — largura do retalho ~50–75% do defeito (Kaufman 2018, Cap. 6, Fig. 6.12C-D).",
-      "labels": [],
-      "applicable_topics": [
-        "reconstrucao-de-labio"
-      ],
-      "status": "available"
-    },
-    {
-      "id": "img-labio-anatomia-orbicular",
-      "file": "reconstrucao-de-labio/labio-anatomia-orbicular.png",
-      "subject": "Musculatura perioral: orbicularis oris, elevadores (levator labii superioris, levator labii superioris alaeque nasi, zygomaticus major/minor) e depressores (depressor anguli oris, depressor labii inferioris, risorius)",
-      "role": "anatomy",
-      "source": "Neligan 2023, vol. 3, cap. 11 — Pribaz & Buller",
-      "credit": "Adaptado de Neligan 2023 (Pribaz & Buller)",
-      "default_caption": "Landmarks estéticos do lábio (cúpido, columnas filtrais, tubérculo, comissura) ao lado da musculatura perioral com inserções convergindo no módiolo — orbicularis oris como esfíncter oral e agonistas/antagonistas identificados (Neligan 2023, vol. 3, cap. 11, Fig. 11.1–11.2).",
-      "labels": [],
-      "applicable_topics": [
-        "reconstrucao-de-labio"
-      ],
-      "status": "available"
-    },
-    {
-      "id": "img-labio-bernard-burow-variantes",
-      "file": "reconstrucao-de-labio/labio-bernard-burow-variantes.png",
-      "subject": "Variante Webster da Bernard-Burow — excisão crescenteric peri-alar bilateral combinada com Abbe central para reconstrução subtotal do lábio superior",
-      "role": "technique",
-      "source": "Neligan 2023, vol. 3, cap. 11 — Pribaz & Buller",
-      "credit": "Adaptado de Neligan 2023 (Pribaz & Buller)",
-      "default_caption": "Esquema da variante Webster da Bernard-Burow: excisão crescentérica peri-alar bilateral e retalhos de avanço da bochecha suplementados por Abbe central; série clínica com defeito extenso do lábio superior e resultado pós-operatório (Neligan 2023, vol. 3, cap. 11, Fig. 11.9).",
-      "labels": [],
-      "applicable_topics": [
-        "reconstrucao-de-labio"
-      ],
-      "status": "available"
-    },
-    {
-      "id": "img-labio-estlander-comissura",
-      "file": "reconstrucao-de-labio/labio-estlander-comissura.png",
-      "subject": "Retalho de Estlander para defeito do lábio superior envolvendo comissura — rotação única sem divisão de pedículo, resultado aos 4 meses",
-      "role": "technique",
-      "source": "Neligan 2023, vol. 3, cap. 11 — Pribaz & Buller",
-      "credit": "Adaptado de Neligan 2023 (Pribaz & Buller)",
-      "default_caption": "Reparo do lábio superior em defeito que envolve a comissura por cão-mordida: Estlander flap incorporando a comissura no desenho, rotação única com pedículo mantido e vistas pré-operatória e aos 4 meses de pós-operatório (Neligan 2023, vol. 3, cap. 11, Fig. 11.8).",
-      "labels": [],
-      "applicable_topics": [
-        "reconstrucao-de-labio"
-      ],
-      "status": "available"
-    },
-    {
-      "id": "img-labio-karapandzic-geometria",
-      "file": "reconstrucao-de-labio/labio-karapandzic-geometria.png",
-      "subject": "Karapandzic bilateral para defeito full-thickness > 50% do lábio inferior central — retalhos semicirculares preservando feixes neurovasculares da labial e ramos bucais/marginais do VII",
-      "role": "technique",
-      "source": "Neligan 2023, vol. 3, cap. 11 — Pribaz & Buller",
-      "credit": "Adaptado de Neligan 2023 (Pribaz & Buller)",
-      "default_caption": "Série fotográfica do Karapandzic bilateral para defeito full-thickness central do lábio inferior (>50%): desenho dos retalhos semicirculares peri-orais, dissecção preservando feixes neurovasculares da labial e resultado final com microstomia tolerável e competência oral preservada (Neligan 2023, vol. 3, cap. 11, Fig. 11.13).",
-      "labels": [],
-      "applicable_topics": [
-        "reconstrucao-de-labio"
-      ],
-      "status": "available"
-    },
-    {
-      "id": "img-labio-subunidades-cupido-columnas",
-      "file": "reconstrucao-de-labio/labio-subunidades-cupido-columnas.png",
-      "subject": "Landmarks e sub-unidades estéticas do lábio — alar sill, alar furrow, lateral cutaneous lip, vermelhão e comissura oral",
-      "role": "anatomy",
-      "source": "Kaufman 2018, Cap. 6 — Lip Reconstruction, abertura",
-      "credit": "Adaptado de Kaufman 2018",
-      "default_caption": "Landmarks de superfície do lábio com sub-unidades rotuladas (alar sill, alar furrow, lateral cutaneous lip, vermelhão, comissura) — base topográfica para planejar cicatrizes em junções entre sub-unidades (Kaufman 2018, Cap. 6, abertura, p. 165).",
-      "labels": [],
-      "applicable_topics": [
-        "reconstrucao-de-labio"
-      ],
-      "status": "available"
-    },
-    {
-      "id": "img-labio-v-y-filtral",
-      "file": "reconstrucao-de-labio/labio-v-y-filtral.png",
-      "subject": "Retalho de avanço em ilha no filtro combinado com rotação bilateral do vermelhão para defeito do lábio superior envolvendo filtro + vermelhão",
-      "role": "technique",
-      "source": "Kaufman 2018, Cap. 6 — Midupper lip vermilion and philtrum: island advancement flap and bilateral vermilion rotation flap",
-      "credit": "Adaptado de Kaufman 2018",
-      "default_caption": "Desenho esquemático da ilha triangular para reconstrução do filtro (ápice à base da columela) combinada com rotação bilateral do vermelhão — filosofia \"um retalho por sub-unidade\" respeitando columnas filtrais (Kaufman 2018, Cap. 6, Fig. 6.7B-C).",
-      "labels": [],
-      "applicable_topics": [
-        "reconstrucao-de-labio"
-      ],
-      "status": "available"
-    },
-    {
-      "id": "img-labio-vascularizacao",
-      "file": "reconstrucao-de-labio/labio-vascularizacao.png",
-      "subject": "Descrição cirúrgica da vascularização labial — artéria labial superior e inferior como ramos da artéria facial, arcada peri-oral e território de retalhos axiais",
-      "role": "anatomy",
-      "source": "Neligan 2023, vol. 3, cap. 11 — Pribaz & Buller",
-      "credit": "Adaptado de Neligan 2023 (Pribaz & Buller)",
-      "default_caption": "Narrativa cirúrgica da vascularização labial: aa. labial superior e inferior emergindo da facial na comissura, correndo profundamente ao orbicular, formando arcada peri-oral — base anatômica dos retalhos axiais Abbe, Estlander, Karapandzic e FAMM (Neligan 2023, vol. 3, cap. 11, p. 258).",
-      "labels": [],
-      "applicable_topics": [
-        "reconstrucao-de-labio"
-      ],
-      "status": "available"
-    },
-    {
-      "id": "img-labio-vermelhao-mucosal-advancement",
-      "file": "reconstrucao-de-labio/labio-vermelhao-mucosal-advancement.png",
-      "subject": "FAMM flap (Facial Artery Musculomucosal flap) para reconstrução de vermelhão em paciente com microssomia hemifacial e deficiência de vermelhão",
-      "role": "technique",
-      "source": "Neligan 2023, vol. 3, cap. 11 — Pribaz & Buller",
-      "credit": "Adaptado de Neligan 2023 (Pribaz & Buller)",
-      "default_caption": "Série fotográfica do FAMM flap de base superior levando mucosa bucal vascularizada pela artéria facial ao vermelhão do lábio superior — inset e resultado tardio com ganho de simetria em repouso e animação (Neligan 2023, vol. 3, cap. 11, Fig. 11.5).",
-      "labels": [],
-      "applicable_topics": [
-        "reconstrucao-de-labio"
-      ],
-      "status": "available"
-    },
-    {
-      "id": "img-labio-vermelionectomia-avanco-mucoso",
-      "file": "reconstrucao-de-labio/labio-vermelionectomia-avanco-mucoso.png",
-      "subject": "Vermilionectomia + retalho de avanço mucoso no lábio inferior — desenho da excisão crescente e descolamento em plano superficial ao orbicular",
-      "role": "technique",
-      "source": "Kaufman 2018, Cap. 6 — Midupper lip vermilion and midlower lip vermilion: vermilionectomy and mucosal advancement flap",
-      "credit": "Adaptado de Kaufman 2018",
-      "default_caption": "Defeito de vermelhão do lábio inferior (1,6 × 1,6 cm) e desenho de vermilionectomia com avanço mucoso — excisão da vermelhão actinicamente danificada e descolamento em plano superficial ao orbicular até o sulco gengivolabial (Kaufman 2018, Cap. 6, Fig. 6.5D-E).",
-      "labels": [],
-      "applicable_topics": [
-        "reconstrucao-de-labio"
-      ],
-      "status": "available"
-    },
-    {
-      "id": "img-labio-wedge-mplasty-inferior",
-      "file": "reconstrucao-de-labio/labio-wedge-mplasty-inferior.png",
-      "subject": "Excisão em cunha full-thickness do lábio inferior com M-plastia para evitar cicatriz cruzando o sulco mento-labial",
-      "role": "technique",
-      "source": "Kaufman 2018, Cap. 6 — Lower lip: wedge excision",
-      "credit": "Adaptado de Kaufman 2018",
-      "default_caption": "Defeito recorrente no lábio inferior (~30% da largura horizontal) e wedge full-thickness com M-plastia no ápice — duas pontas pequenas que param antes do sulco mento-labial, preservando a junção de sub-unidade (Kaufman 2018, Cap. 6, Fig. 6.11A-B).",
-      "labels": [],
-      "applicable_topics": [
-        "reconstrucao-de-labio"
-      ],
-      "status": "available"
-    },
-    {
-      "id": "img-labio-wedge-primario-v",
-      "file": "reconstrucao-de-labio/labio-wedge-primario-v.png",
-      "subject": "Fechamento primário side-to-side do lábio superior — defeito pequeno com cicatriz perpendicular à rima em rítide perioral",
-      "role": "technique",
-      "source": "Kaufman 2018, Cap. 6 — Left upper cutaneous lip: side-to-side repair",
-      "credit": "Adaptado de Kaufman 2018",
-      "default_caption": "Defeito cirúrgico do lábio superior direito e desenho de fechamento side-to-side complexo seguindo rítides periorais, com tricones dimensionados para preservar o alinhamento do vermelhão (Kaufman 2018, Cap. 6, Fig. 6.1A-B).",
-      "labels": [],
-      "applicable_topics": [
-        "reconstrucao-de-labio"
-      ],
-      "status": "available"
-    },
-    {
-      "id": "img-bochecha-avanco-infraorbital-ancoragem",
-      "file": "reconstrucao-de-bochecha/bochecha-avanco-infraorbital-ancoragem.png",
-      "subject": "Retalho de avanço infraorbital com ancoragem periosteal — incisão superior na junção pálpebra-bochecha e tricone distal ao longo de rítide",
-      "role": "technique",
-      "source": "Kaufman 2018, Cap. 3 — Infraorbital Cheek: Advancement Flap",
-      "credit": "Adaptado de Kaufman 2018",
-      "default_caption": "Defeito infraorbital maior com risco de ectrópio: retalho de avanço com incisão superior na junção pálpebra-bochecha, ponto de ancoragem periosteal ao rebordo orbital e tricone distal na linha do sorriso; vetor horizontal evita tração vertical na pálpebra inferior (Kaufman 2018, Cap. 3, Fig. 3.5A-B).",
-      "labels": [],
-      "applicable_topics": [
-        "reconstrucao-de-bochecha"
-      ],
-      "status": "available"
-    },
-    {
-      "id": "img-bochecha-avanco-medial-melolabial",
-      "file": "reconstrucao-de-bochecha/bochecha-avanco-medial-melolabial.png",
-      "subject": "Retalho de avanço da bochecha medial com incisão escondida no sulco melolabial e tricone inferior — passos do defeito ao resultado cicatrizado",
-      "role": "technique",
-      "source": "Kaufman 2018, Cap. 3 — Medial Cheek: Advancement Flap",
-      "credit": "Adaptado de Kaufman 2018",
-      "default_caption": "Retalho de avanço da bochecha medial para defeito paranasal: incisão lateral ao longo da junção pálpebra-bochecha, tricone excisado inferiormente ao longo do sulco melolabial, vetor horizontal preservado para evitar ectrópio (Kaufman 2018, Cap. 3, Fig. 3.2A-C).",
-      "labels": [],
-      "applicable_topics": [
-        "reconstrucao-de-bochecha"
-      ],
-      "status": "available"
-    },
-    {
-      "id": "img-bochecha-bilobed-inferior",
-      "file": "reconstrucao-de-bochecha/bochecha-bilobed-inferior.png",
-      "subject": "Retalho bilobado de transposição na bochecha inferior — defeito após exérese de três carcinomas espinocelulares e reparo bilobado com enxerto de pele total para defeito terciário",
-      "role": "technique",
-      "source": "Kaufman 2018, Cap. 3 — Inferior Cheek: Bilobed Transposition Flap",
-      "credit": "Adaptado de Kaufman 2018",
-      "default_caption": "Defeito amplo na bochecha inferior reconstruído com retalho bilobado + FTSG no defeito terciário: rotação total ~90°, o primeiro lóbulo preenche o defeito e o segundo redistribui tensão evitando vetor vertical sobre a pálpebra (Kaufman 2018, Cap. 3, Fig. 3.8E-F).",
-      "labels": [],
-      "applicable_topics": [
-        "reconstrucao-de-bochecha"
-      ],
-      "status": "available"
-    },
-    {
-      "id": "img-bochecha-cervicofacial-rotation",
-      "file": "reconstrucao-de-bochecha/bochecha-cervicofacial-rotation.png",
-      "subject": "Retalho cervicofacial de rotação-avanço para defeito extenso da bochecha — defeito, desenho do retalho com extensão cervical, inset e resultado",
-      "role": "technique",
-      "source": "Neligan 2023, vol. 3, cap. 10 — Do & Boyd (Cheeks)",
-      "credit": "Adaptado de Neligan 2023 (Do & Boyd)",
-      "default_caption": "Retalho cervicofacial para defeito extenso da bochecha anterior: borda inferior na junção nasolabial, borda posterior ascendendo para a região pré-auricular e descendo pelo pescoço; descolamento sub-SMAS preserva perfurantes e distribui tensão ao longo do ângulo da mandíbula (Neligan 2023, vol. 3, cap. 10, Fig. 10.17).",
-      "labels": [],
-      "applicable_topics": [
-        "reconstrucao-de-bochecha"
-      ],
-      "status": "available"
-    },
-    {
-      "id": "img-bochecha-ectropio-ancoragem-periosteal",
-      "file": "reconstrucao-de-bochecha/bochecha-ectropio-ancoragem-periosteal.png",
-      "subject": "Prevenção de ectrópio em reconstrução próxima à pálpebra inferior — caso Mustardé/rombóide para melanoma palpebral com enxerto condromucoso e ancoragem lateral",
-      "role": "technique",
-      "source": "Neligan 2023, vol. 3, cap. 10 — Do & Boyd (Lower eyelid)",
-      "credit": "Adaptado de Neligan 2023 (Do & Boyd)",
-      "default_caption": "Reconstrução de pálpebra inferior/bochecha medial com retalho rombóide e enxerto condromucoso: a cantólise lateral e a ancoragem periosteal do retalho ao rebordo orbital inferior são essenciais para prevenir ectrópio dinâmico — mesmo princípio aplicável a qualquer retalho de bochecha que se aproxime da pálpebra (Neligan 2023, vol. 3, cap. 10, Fig. 10.15).",
-      "labels": [],
-      "applicable_topics": [
-        "reconstrucao-de-bochecha"
-      ],
-      "status": "available"
-    },
-    {
-      "id": "img-bochecha-ilha-avanco-medial",
-      "file": "reconstrucao-de-bochecha/bochecha-ilha-avanco-medial.png",
-      "subject": "Retalho de avanço em ilha na bochecha medial/inferior — pedículo subcutâneo central com transição triangular escondida no sulco melolabial",
-      "role": "technique",
-      "source": "Kaufman 2018, Cap. 3 — Medial Cheek: Island Advancement Flap",
-      "credit": "Adaptado de Kaufman 2018",
-      "default_caption": "Defeito na bochecha direita após Mohs e reparo com retalho em ilha: o pedículo subcutâneo central permite grande translação tecidual enquanto todas as incisões ficam escondidas na RSTL e no sulco melolabial (Kaufman 2018, Cap. 3, Fig. 3.3A-B).",
-      "labels": [],
-      "applicable_topics": [
-        "reconstrucao-de-bochecha"
-      ],
-      "status": "available"
-    },
-    {
-      "id": "img-bochecha-margens-livres-vizinhas",
-      "file": "reconstrucao-de-bochecha/bochecha-margens-livres-vizinhas.png",
-      "subject": "Subunidades estéticas da face com bochecha (zigomatic, infraorbital, mandibular) e margens livres vizinhas (pálpebra inferior, lábio superior, asa nasal)",
-      "role": "anatomy",
-      "source": "Neligan 2023, vol. 3, cap. 10 — Do & Boyd (Blood supply to facial skin)",
-      "credit": "Adaptado de Neligan 2023 (Do & Boyd)",
-      "default_caption": "Mapa das subunidades estéticas faciais destacando a bochecha em três quadrantes (zigomático, infraorbital, mandibular) e as margens livres vizinhas (pálpebra inferior, lábio superior, asa nasal) cuja distorção deve ser evitada no planejamento do retalho (Neligan 2023, vol. 3, cap. 10, Fig. 10.1).",
-      "labels": [],
-      "applicable_topics": [
-        "reconstrucao-de-bochecha"
-      ],
-      "status": "available"
-    },
-    {
-      "id": "img-bochecha-preauricular-mplastia",
-      "file": "reconstrucao-de-bochecha/bochecha-preauricular-mplastia.png",
-      "subject": "Retalho de avanço preauricular com M-plastia — esquema com área descolada destacada e limites do tricone e M-plastia anterior ao defeito",
-      "role": "technique",
-      "source": "Kaufman 2018, Cap. 3 — Preauricular Cheek: Island Advancement Flap and Advancement Flap",
-      "credit": "Adaptado de Kaufman 2018",
-      "default_caption": "Diagrama e caso real do retalho de avanço preauricular com M-plastia: incisões ocultas na prega pretragal e além do lóbulo, M-plastia substituindo tricone longo para encurtar a cicatriz e preservar o sideburn (Kaufman 2018, Cap. 3, Fig. 3.6D-E).",
-      "labels": [],
-      "applicable_topics": [
-        "reconstrucao-de-bochecha"
-      ],
-      "status": "available"
-    },
-    {
-      "id": "img-bochecha-rombico-inferior",
-      "file": "reconstrucao-de-bochecha/bochecha-rombico-inferior.png",
-      "subject": "Retalho rombóide (Limberg) na bochecha inferior — defeito real + esquema com geometria do rombo, vetor de fechamento e área descolada",
-      "role": "technique",
-      "source": "Kaufman 2018, Cap. 3 — Inferior Cheek: Rhombic Transposition Flap",
-      "credit": "Adaptado de Kaufman 2018",
-      "default_caption": "Defeito de 3,9 × 3,6 cm na bochecha inferior após Mohs e desenho do retalho rombóide transposicional: doador posterior/inferior com maior laxidade, ângulos de 60° e 120°, cicatriz tercária orientada em RSTL (Kaufman 2018, Cap. 3, Fig. 3.8A-B).",
-      "labels": [],
-      "applicable_topics": [
-        "reconstrucao-de-bochecha"
-      ],
-      "status": "available"
-    },
-    {
-      "id": "img-bochecha-rotacao-zigomatica-mustarde",
-      "file": "reconstrucao-de-bochecha/bochecha-rotacao-zigomatica-mustarde.png",
-      "subject": "Retalho de rotação zigomática (princípio Mustardé) — esquema do arco de rotação da bochecha inferior/mandibular ascendendo até o zigoma e caso real com traçado da incisão",
-      "role": "technique",
-      "source": "Kaufman 2018, Cap. 3 — Zygomatic Cheek: Rotation Flap",
-      "credit": "Adaptado de Kaufman 2018",
-      "default_caption": "Retalho de rotação para defeito infraorbital/zigomático segundo o princípio Mustardé: reservatório de tecido laxo inferior/mandibular rotaciona súpero-lateralmente até o zigoma, com ancoragem no periósteo zigomático para suportar a pálpebra inferior (Kaufman 2018, Cap. 3, Fig. 3.7C-D).",
-      "labels": [],
-      "applicable_topics": [
-        "reconstrucao-de-bochecha"
-      ],
-      "status": "available"
-    },
-    {
-      "id": "img-bochecha-side-to-side-medial",
-      "file": "reconstrucao-de-bochecha/bochecha-side-to-side-medial.png",
-      "subject": "Fechamento side-to-side em defeito da bochecha medial — marcações violetas demonstrando alinhamento da incisão com RSTL da pálpebra e da bochecha",
-      "role": "technique",
-      "source": "Kaufman 2018, Cap. 3 — Medial Cheek: Side-to-Side Repair",
-      "credit": "Adaptado de Kaufman 2018",
-      "default_caption": "Caso didático de fechamento primário em RSTL na bochecha medial: defeito de 1,9 × 1,7 cm após excisão de lentigo maligna; marcações violetas mostram a incisão alinhada com as linhas de tensão cutânea da pálpebra inferior e da bochecha, evitando vetor secundário vertical (Kaufman 2018, Cap. 3, Fig. 3.1G-I).",
-      "labels": [],
-      "applicable_topics": [
-        "reconstrucao-de-bochecha"
-      ],
-      "status": "available"
-    },
-    {
-      "id": "img-bochecha-submental-island",
-      "file": "reconstrucao-de-bochecha/bochecha-submental-island.png",
-      "subject": "Retalho submental em ilha — defeito, dissecção do pedículo submental, passagem por túnel subcutâneo e inset no defeito",
-      "role": "technique",
-      "source": "Neligan 2023, vol. 3, cap. 10 — Do & Boyd (Cheeks)",
-      "credit": "Adaptado de Neligan 2023 (Do & Boyd)",
-      "default_caption": "Retalho submental em ilha pediculado na artéria submental (ramo da facial): pedículo musculocutâneo dissecado no plano submuscular, atravessando túnel subcutâneo sob a mandíbula até o defeito da bochecha anterior; cicatriz doadora no sulco submentoniano (Neligan 2023, vol. 3, cap. 10, Fig. 10.18).",
-      "labels": [],
-      "applicable_topics": [
-        "reconstrucao-de-bochecha"
-      ],
-      "status": "available"
-    },
-    {
-      "id": "img-bochecha-vascularizacao-facial",
-      "file": "reconstrucao-de-bochecha/bochecha-vascularizacao-facial.png",
-      "subject": "Vascularização cutânea da face — cast arterial de cadáver demonstrando facial, transversa da face, infraorbital, supraorbital e ramos da temporal superficial",
-      "role": "anatomy",
-      "source": "Neligan 2023, vol. 3, cap. 10 — Do & Boyd (Blood supply to facial skin)",
-      "credit": "Adaptado de Neligan 2023 (Do & Boyd)",
-      "default_caption": "Cast arterial da pele facial: ramos da facial, transversa da face e infraorbital perfundem a bochecha; a densa rede subdérmica permite retalhos randômicos amplos e sustenta retalhos axiais como cervicofacial e submental island (Neligan 2023, vol. 3, cap. 10, Fig. 10.2).",
-      "labels": [],
-      "applicable_topics": [
-        "reconstrucao-de-bochecha"
-      ],
-      "status": "available"
-    },
-    {
-      "id": "img-bochecha-vy-island-nasomelal",
-      "file": "reconstrucao-de-bochecha/bochecha-vy-island-nasomelal.png",
-      "subject": "Retalho em ilha V-Y no sulco nasomelal — defeito justa-alar e avanço súpero-medial com pedículo subcutâneo",
-      "role": "technique",
-      "source": "Kaufman 2018, Cap. 3 — Nasomelal Fold: Island Advancement Flap",
-      "credit": "Adaptado de Kaufman 2018",
-      "default_caption": "Defeito de 2,5 × 2,0 cm após Mohs no sulco nasomelal esquerdo reparado com retalho em ilha V-Y: vetor súpero-medial preserva o canthus medial, bordas seguem o sulco medial e rítides (Kaufman 2018, Cap. 3, Fig. 3.4A-B).",
-      "labels": [],
-      "applicable_topics": [
-        "reconstrucao-de-bochecha"
-      ],
-      "status": "available"
-    },
-    {
-      "id": "img-bochecha-zonas-esteticas-kaufman",
-      "file": "reconstrucao-de-bochecha/bochecha-zonas-esteticas-kaufman.png",
-      "subject": "Zonas estéticas da bochecha segundo Kaufman — desenho de abertura do capítulo com sulco nasojugal, sulco nasomelal, sulco melolabial e região preauricular rotulados",
-      "role": "anatomy",
-      "source": "Kaufman 2018, Cap. 3 — Cheek Reconstruction (chapter opener)",
-      "credit": "Adaptado de Kaufman 2018",
-      "default_caption": "Mapa topográfico da bochecha organizando as zonas estéticas (infraorbital, malar, nasomelal, melolabial, preauricular, mandibular/bucal) que guiam a escolha do retalho e o direcionamento das cicatrizes ao longo de sulcos e RSTL (Kaufman 2018, Cap. 3, abertura).",
-      "labels": [],
-      "applicable_topics": [
-        "reconstrucao-de-bochecha"
       ],
       "status": "available"
     }

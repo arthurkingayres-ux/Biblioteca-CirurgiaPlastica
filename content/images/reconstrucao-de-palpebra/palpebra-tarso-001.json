@@ -1,0 +1,43 @@
+{
+  "id": "img-palpebra-tarso-001",
+  "file": "reconstrucao-de-palpebra/tarso-superior-vs-inferior.png",
+  "subject": "Placas tarsais superior e inferior + tendoes cantais medial e lateral suspensorios",
+  "role": "schematic",
+  "source": "Oculofacial Plastic and Orbital Surgery (BCSC Section 7), cap.9, p.169, fig 9-22",
+  "credit": "Adaptado de Oculofacial cap.9 (Mark Miller, ill.)",
+  "default_caption": "Tarso superior 10-12 mm e inferior 3-4 mm suspensos pelos tendoes cantais; LCT insere 2 mm acima do MCT, dando o slant palpebral natural. Diferenca biomecanica governa criticidade dos defeitos.",
+  "labels": [
+    {
+      "num": 1,
+      "text": "Tarso superior — 10-12 mm de altura central; alvo da preservacao de 4-5 mm marginais na colheita doadora.",
+      "x": 0.50,
+      "y": 0.18
+    },
+    {
+      "num": 2,
+      "text": "Tarso inferior — 3-4 mm; defeito > 50% requer reposicao via Hughes ou tarsoconjuntival da palpebra superior.",
+      "x": 0.50,
+      "y": 0.78
+    },
+    {
+      "num": 3,
+      "text": "Tendao cantal medial (MCT) — tres limbos (anterior, posterior, superior/inferior); posterior critico para apposicao margem-globo.",
+      "x": 0.18,
+      "y": 0.50
+    },
+    {
+      "num": 4,
+      "text": "Tendao cantal lateral (LCT) — insercao no tuberculo de Whitnall 2-5 mm dentro do rebordo orbital lateral.",
+      "x": 0.85,
+      "y": 0.50
+    },
+    {
+      "num": 5,
+      "text": "Tuberculo orbital lateral (Whitnall) — alvo de cantopexia profilatica em Mustarde e retalhos de bochecha.",
+      "x": 0.92,
+      "y": 0.55
+    }
+  ],
+  "applicable_topics": ["reconstrucao-de-palpebra"],
+  "status": "available"
+}

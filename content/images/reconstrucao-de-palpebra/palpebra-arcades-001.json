@@ -1,0 +1,41 @@
+{
+  "id": "img-palpebra-arcades-001",
+  "file": "reconstrucao-de-palpebra/suprimento-vascular-arcadas.png",
+  "subject": "Arcada arterial periferica entre aponeurose levantadora e Muller — base do pediculo de Hughes",
+  "role": "surgical",
+  "source": "Oculofacial Plastic and Orbital Surgery (BCSC Section 7), cap.9, p.167, fig 9-20",
+  "credit": "Adaptado de Oculofacial cap.9 (Cat N. Burkat, MD)",
+  "default_caption": "Arcada arterial periferica entre aponeurose levantadora (refletida) e musculo de Muller — marco intraoperatorio do Muller e base vascular do retalho de Hughes.",
+  "labels": [
+    {
+      "num": 1,
+      "text": "Arcada periferica — entre levantador e Muller; identifica o Muller intraoperatoriamente; suprimento do pediculo de Hughes.",
+      "x": 0.42,
+      "y": 0.40
+    },
+    {
+      "num": 2,
+      "text": "Musculo de Muller — fibras lisas; nervosa simpatica; cirurgicamente acessivel apos arcada periferica.",
+      "x": 0.30,
+      "y": 0.30
+    },
+    {
+      "num": 3,
+      "text": "Aponeurose levantadora elevada — mostra inferior face do levantador na sua porcao posterior.",
+      "x": 0.40,
+      "y": 0.18
+    },
+    {
+      "num": 4,
+      "text": "Tarso superior — limite distal do plano dissecado; preservar a arcada marginal a 2 mm da margem.",
+      "x": 0.45,
+      "y": 0.55
+    },
+    {
+      "num": 5,
+      "text": "Compartimento gorduroso central — anterior ao levantador; via de acesso na blefaroplastia transcutanea."
+    }
+  ],
+  "applicable_topics": ["reconstrucao-de-palpebra"],
+  "status": "available"
+}
