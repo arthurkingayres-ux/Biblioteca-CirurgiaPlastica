@@ -15,7 +15,7 @@ Umbrella plan listando os sub-planos de cada sub-fase. Execução é sequencial 
 | 7.4 | Onda 1 — Reconstrução de nariz | [`2026-04-18-phase-7-4-reconstrucao-nariz.md`](2026-04-18-phase-7-4-reconstrucao-nariz.md) | #28 | ✅ concluída |
 | 7.5 | Onda 1 — Reconstrução de lábio | [`2026-04-23-phase-7-5-reconstrucao-labio.md`](2026-04-23-phase-7-5-reconstrucao-labio.md) | local merge `6af38ad` | ✅ concluída |
 | 7.6a | Onda 2 — Reconstrução de bochecha | [`2026-04-23-phase-7-6a-reconstrucao-bochecha.md`](2026-04-23-phase-7-6a-reconstrucao-bochecha.md) | local merge `673fbe3` | ✅ concluída |
-| 7.6b | Onda 2 — Reconstrução de pálpebra + enriquecimento blefaroplastia | [`2026-04-26-phase-7-6b-palpebra-blefaro-expanded.md`](2026-04-26-phase-7-6b-palpebra-blefaro-expanded.md) | 7.6b.1 `fcc54c0` + `27b7090`; 7.6b.2 em execução; 7.6b.3 pendente | 🔄 em execução |
+| 7.6b | Onda 2 — Reconstrução de pálpebra + enriquecimento blefaroplastia | [`2026-04-26-phase-7-6b-palpebra-blefaro-expanded.md`](2026-04-26-phase-7-6b-palpebra-blefaro-expanded.md) | local merges 7.6b.1 `fcc54c0`+`27b7090`; 7.6b.2 `fcf5dd5`; 7.6b.3 `7f12f5b` | ✅ concluída |
 | 7.6c | Onda 2 — Reconstrução de orelha | (pendente) | — | ⏳ não iniciada |
 | 7.6d | Onda 2 — Reconstrução de fronte/têmpora | (pendente) | — | ⏳ não iniciada |
 | 7.7 | Onda 3 — couro cabeludo + queixo | (pendente) | — | ⏳ não iniciada |
